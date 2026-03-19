@@ -1,0 +1,40 @@
+{
+  "api": "Kommun Monitor API",
+  "version": "1.0.0",
+  "base_url": "https://kommun-monitor.se/api/v1",
+  "generated_at": "2026-03-19T12:37:18.987004+00:00",
+  "stats": {
+    "municipalities": 1,
+    "meetings": 5,
+    "decisions": 14,
+    "contested_decisions": 12,
+    "parties_tracked": 9,
+    "date_range": {
+      "earliest": "2024-04-09",
+      "latest": "2025-12-10"
+    }
+  },
+  "endpoints": {
+    "meta": "/api/v1/meta.json",
+    "municipalities": "/api/v1/municipalities.json",
+    "meetings": "/api/v1/meetings.json",
+    "meeting_detail": "/api/v1/meetings/{id}.json",
+    "decisions": "/api/v1/decisions.json",
+    "decision_detail": "/api/v1/decisions/{id}.json",
+    "parties": "/api/v1/parties.json",
+    "party_detail": "/api/v1/parties/{abbr}.json",
+    "areas": "/api/v1/areas.json",
+    "search_index": "/api/v1/search.json",
+    "json_feed": "/api/v1/feed.json",
+    "docs": "/api/v1/docs/"
+  },
+  "rate_limits": {
+    "static_api": "Unlimited (static files, no rate limit)",
+    "note": "This is a static JSON API. All data is pre-generated."
+  },
+  "license": {
+    "data": "Swedish public records (offentlighetsprincipen). Free to use.",
+    "api": "CC BY 4.0 — attribute Kommun Monitor",
+    "note": "AI-generated summaries may contain errors. Always verify against original protocols."
+  }
+}

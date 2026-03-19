@@ -1,0 +1,128 @@
+{
+  "id": "2024-04-09_ks",
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2024-04-09",
+  "source_url": "https://orebro.se/test5.pdf",
+  "summary_headline": "Eyrafältet-köp 154 MSEK",
+  "decisions": [
+    {
+      "id": "2024-04-09_ks_76",
+      "headline": "Kommunen köper sex fastigheter vid Eyrafältet",
+      "summary": "154 MSEK för Eyrafältets framtid.",
+      "detail": "Region säljer. Örebroporten köper.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Eyrafältet/Eklundavägen",
+      "paragraph_ref": "§ 76",
+      "tags": [
+        "eyrafältet",
+        "fastighetsköp",
+        "örebroporten",
+        "eklundavägen"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      }
+    },
+    {
+      "id": "2024-04-09_ks_74",
+      "headline": "V kräver flygplatsavveckling",
+      "summary": "Yrkade i två ärenden. Avslogs.",
+      "detail": "V vill utreda avveckling.",
+      "category": "politik",
+      "contested": true,
+      "location": "Örebro flygplats",
+      "paragraph_ref": "§ 74",
+      "tags": [
+        "flygplats",
+        "avveckling"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "V:s tillägg avslogs"
+      }
+    },
+    {
+      "id": "2024-04-09_ks_83",
+      "headline": "Regler för uteserveringar byter ägare",
+      "summary": "Sju styrdokument överförs till KS.",
+      "detail": "Uteserveringar, parkering, cykel m.m.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 83",
+      "tags": [
+        "uteservering",
+        "parkering",
+        "styrdokument",
+        "centrum"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      }
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Öppna skolmatsalar för seniorer",
+      "party": "KD",
+      "status": "Bereds av KS"
+    },
+    {
+      "title": "Suicidprevention",
+      "party": "L",
+      "status": "Bereds av KS"
+    },
+    {
+      "title": "Återbruk i alla led",
+      "party": "V",
+      "status": "Bereds av KS"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/meetings/2024-04-09_ks.json",
+    "decisions": [
+      "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_76.json",
+      "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_74.json",
+      "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_83.json"
+    ],
+    "web_url": "https://kommun-monitor.se/#meeting-2024-04-09_ks"
+  }
+}

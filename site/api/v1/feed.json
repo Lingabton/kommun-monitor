@@ -1,0 +1,280 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Kommun Monitor — Örebro",
+  "home_page_url": "https://kommun-monitor.se",
+  "feed_url": "https://kommun-monitor.se/api/v1/feed.json",
+  "description": "AI-sammanfattningar av kommunala beslut i Örebro",
+  "language": "sv",
+  "items": [
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_389/",
+      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_389/",
+      "title": "202 socialtjänstbeslut väntar",
+      "content_text": "Antalet ej verkställda SoL/LSS-beslut ökar.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "socialtjänst",
+        "sol",
+        "lss",
+        "välfärd"
+      ],
+      "external_url": "https://orebro.se/test.pdf",
+      "_kommun_monitor": {
+        "category": "politik",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_389.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_390/",
+      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_390/",
+      "title": "Motion om farligt gods genom Örebro avslås",
+      "content_text": "SD ville pressa Trafikverket. 21 reserverade sig.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "farligt gods",
+        "trafikverket",
+        "järnväg",
+        "transport",
+        "centrum"
+      ],
+      "external_url": "https://orebro.se/test.pdf",
+      "_kommun_monitor": {
+        "category": "infrastruktur",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_390.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_395/",
+      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_395/",
+      "title": "Cirkulationsbibliotek röstades ned 39-22",
+      "content_text": "L ville ha klassuppsättningar till skolor.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "bibliotek",
+        "skola",
+        "läsning"
+      ],
+      "external_url": "https://orebro.se/test.pdf",
+      "_kommun_monitor": {
+        "category": "skola",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_395.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_388/",
+      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_388/",
+      "title": "Nämndreglementen revideras",
+      "content_text": "Ny socialtjänstlag kräver uppdatering.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "socialtjänstlagen",
+        "reglemente"
+      ],
+      "external_url": "https://orebro.se/test.pdf",
+      "_kommun_monitor": {
+        "category": "regler",
+        "contested": false,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_388.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-10-14_ks_196/",
+      "url": "https://kommun-monitor.se/beslut/2025-10-14_ks_196/",
+      "title": "Negativ budgetavvikelse på 210 MSEK",
+      "content_text": "Delårsrapporten visar kraftigt underskott.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "budget",
+        "ekonomi",
+        "underskott"
+      ],
+      "external_url": "https://orebro.se/test2.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_196.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-10-14_ks_203/",
+      "url": "https://kommun-monitor.se/beslut/2025-10-14_ks_203/",
+      "title": "Motion om kärnkraft (SMR) avslås",
+      "content_text": "SD ville peka ut områden för SMR.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "kärnkraft",
+        "smr",
+        "energi"
+      ],
+      "external_url": "https://orebro.se/test2.pdf",
+      "_kommun_monitor": {
+        "category": "miljö",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_203.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-09-24_kf_266/",
+      "url": "https://kommun-monitor.se/beslut/2025-09-24_kf_266/",
+      "title": "Eyrafältet-fastighet säljs för 63 MSEK",
+      "content_text": "Fastighet som köptes 2024 säljs vidare till Norrpalatset.",
+      "date_published": "2025-09-24T12:00:00+01:00",
+      "tags": [
+        "eyrafältet",
+        "fastighetsförsäljning",
+        "örebroporten",
+        "bostäder"
+      ],
+      "external_url": "https://orebro.se/test3.pdf",
+      "_kommun_monitor": {
+        "category": "bygg",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-09-24_kf_266.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_217/",
+      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_217/",
+      "title": "Naturreservat Garphytteklint bildas",
+      "content_text": "Nytt naturreservat med skötselplan.",
+      "date_published": "2025-08-27T12:00:00+01:00",
+      "tags": [
+        "naturreservat",
+        "garphytteklint",
+        "miljö"
+      ],
+      "external_url": "https://orebro.se/test4.pdf",
+      "_kommun_monitor": {
+        "category": "miljö",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_217.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_221/",
+      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_221/",
+      "title": "Maxtak barngrupper i förskolan avslås",
+      "content_text": "V ville ha max 12 barn per grupp. Röstades ned.",
+      "date_published": "2025-08-27T12:00:00+01:00",
+      "tags": [
+        "förskola",
+        "barngrupper",
+        "skolverket"
+      ],
+      "external_url": "https://orebro.se/test4.pdf",
+      "_kommun_monitor": {
+        "category": "skola",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_221.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_222/",
+      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_222/",
+      "title": "Förskolan Igelkotten stängs",
+      "content_text": "Godkännande för huvudmannen återkallas.",
+      "date_published": "2025-08-27T12:00:00+01:00",
+      "tags": [
+        "förskola",
+        "igelkotten",
+        "stängning"
+      ],
+      "external_url": "https://orebro.se/test4.pdf",
+      "_kommun_monitor": {
+        "category": "skola",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_222.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_223/",
+      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_223/",
+      "title": "Mer pengar till välfärdspersonal avslås",
+      "content_text": "V ville se över ledningsorganisationen. Brett stöd men avslogs.",
+      "date_published": "2025-08-27T12:00:00+01:00",
+      "tags": [
+        "välfärd",
+        "personal",
+        "löner"
+      ],
+      "external_url": "https://orebro.se/test4.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_223.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2024-04-09_ks_76/",
+      "url": "https://kommun-monitor.se/beslut/2024-04-09_ks_76/",
+      "title": "Kommunen köper sex fastigheter vid Eyrafältet",
+      "content_text": "154 MSEK för Eyrafältets framtid.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "eyrafältet",
+        "fastighetsköp",
+        "örebroporten",
+        "eklundavägen"
+      ],
+      "external_url": "https://orebro.se/test5.pdf",
+      "_kommun_monitor": {
+        "category": "bygg",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_76.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2024-04-09_ks_74/",
+      "url": "https://kommun-monitor.se/beslut/2024-04-09_ks_74/",
+      "title": "V kräver flygplatsavveckling",
+      "content_text": "Yrkade i två ärenden. Avslogs.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "flygplats",
+        "avveckling"
+      ],
+      "external_url": "https://orebro.se/test5.pdf",
+      "_kommun_monitor": {
+        "category": "politik",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_74.json"
+      }
+    },
+    {
+      "id": "https://kommun-monitor.se/beslut/2024-04-09_ks_83/",
+      "url": "https://kommun-monitor.se/beslut/2024-04-09_ks_83/",
+      "title": "Regler för uteserveringar byter ägare",
+      "content_text": "Sju styrdokument överförs till KS.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "uteservering",
+        "parkering",
+        "styrdokument",
+        "centrum"
+      ],
+      "external_url": "https://orebro.se/test5.pdf",
+      "_kommun_monitor": {
+        "category": "regler",
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_83.json"
+      }
+    }
+  ]
+}

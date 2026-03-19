@@ -1,0 +1,229 @@
+<!DOCTYPE html><html lang="sv"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kommun Monitor API — Dokumentation</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Instrument Sans',sans-serif;background:#0c1219;color:#e2e8f0;line-height:1.6}
+a{color:#60a5fa;text-decoration:none}
+.wrap{max-width:800px;margin:0 auto;padding:0 24px}
+header{padding:32px 0;border-bottom:1px solid rgba(255,255,255,0.06)}
+h1{font-size:28px;font-weight:300;margin-bottom:4px}
+h2{font-size:18px;font-weight:600;margin:32px 0 12px;padding-top:20px;border-top:1px solid rgba(255,255,255,0.06)}
+h3{font-size:14px;font-weight:600;color:#94a3b8;margin:20px 0 8px}
+p{margin:0 0 12px;color:#94a3b8;font-size:14px}
+code{font-family:'JetBrains Mono',monospace;font-size:13px;background:rgba(255,255,255,0.06);padding:2px 6px;border-radius:4px}
+pre{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:8px;padding:16px;overflow-x:auto;margin:12px 0;font-family:'JetBrains Mono',monospace;font-size:13px;line-height:1.5}
+.endpoint{background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:10px;padding:16px;margin:10px 0}
+.method{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:700;background:#22c55e20;color:#22c55e}
+.path{font-family:'JetBrains Mono',monospace;font-size:14px;margin-left:8px}
+.try-btn{display:inline-block;padding:6px 14px;background:#3b82f6;color:#fff;border-radius:6px;font-size:12px;font-weight:600;cursor:pointer;border:none;font-family:inherit;margin-top:8px}
+.try-btn:hover{background:#2563eb}
+.response{background:#0f1923;border:1px solid rgba(255,255,255,0.06);border-radius:6px;padding:12px;margin-top:8px;font-family:'JetBrains Mono',monospace;font-size:12px;white-space:pre-wrap;display:none;max-height:300px;overflow:auto}
+.badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;margin-left:6px}
+.free{background:#22c55e20;color:#22c55e}
+.premium{background:#f59e0b20;color:#f59e0b}
+footer{padding:24px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:40px;text-align:center;font-size:12px;color:#475569}
+</style></head><body>
+<div class="wrap">
+<header>
+<div style="font-size:12px;color:#475569;margin-bottom:8px">🏛️ KOMMUN MONITOR</div>
+<h1>API Documentation</h1>
+<p style="font-size:16px;color:#94a3b8">v1.0.0 — Gratis tillgång till strukturerade kommunbeslut</p>
+<p>Base URL: <code>https://kommun-monitor.se/api/v1</code></p>
+</header>
+
+<h2>Snabbstart</h2>
+<p>API:et är statiskt — inga API-nycklar, ingen autentisering, inga rate limits. Hämta JSON direkt:</p>
+<pre>
+# Alla beslut
+curl https://kommun-monitor.se/api/v1/decisions.json
+
+# Ett specifikt beslut
+curl https://kommun-monitor.se/api/v1/decisions/kf389.json
+
+# Partistatistik
+curl https://kommun-monitor.se/api/v1/parties.json
+
+# JavaScript
+const res = await fetch("https://kommun-monitor.se/api/v1/decisions.json");
+const data = await res.json();
+console.log(`${data.count} beslut`);
+</pre>
+
+<h2>Endpoints</h2>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/meta.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">API-metadata: version, statistik, tillgängliga endpoints.</p>
+<button class="try-btn" onclick="tryIt(this,'https://kommun-monitor.se/api/v1/meta.json')">Testa →</button>
+<div class="response"></div>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/municipalities.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Lista över kommuner med data tillgänglig.</p>
+<button class="try-btn" onclick="tryIt(this,'https://kommun-monitor.se/api/v1/municipalities.json')">Testa →</button>
+<div class="response"></div>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/meetings.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Alla sammanträden (sammanfattning). Sorterade efter datum (nyast först).</p>
+<button class="try-btn" onclick="tryIt(this,'https://kommun-monitor.se/api/v1/meetings.json')">Testa →</button>
+<div class="response"></div>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/meetings/{id}.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Enskilt sammanträde med alla beslut. Exempel: <code>/meetings/2025-12-10_kf.json</code></p>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/decisions.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Alla beslut som flat lista (headline, summary, category, date, tags). Utan full detail.</p>
+<button class="try-btn" onclick="tryIt(this,'https://kommun-monitor.se/api/v1/decisions.json')">Testa →</button>
+<div class="response"></div>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/decisions/{id}.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Enskilt beslut med full detalj: voting, quotes, tags, protocol reference.</p>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/parties.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Partistatistik: röstningsfördelning, allianser, nyckelfrågor.</p>
+<button class="try-btn" onclick="tryIt(this,'https://kommun-monitor.se/api/v1/parties.json')">Testa →</button>
+<div class="response"></div>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/parties/{abbr}.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Enskilt parti. Exempel: <code>/parties/v.json</code>, <code>/parties/sd.json</code></p>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/search.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px">Fulltextsökindex för client-side search. Varje entry innehåller normaliserat <code>text</code>-fält.</p>
+</div>
+
+<div class="endpoint">
+<span class="method">GET</span><span class="path">/feed.json</span><span class="badge free">GRATIS</span>
+<p style="margin-top:6px"><a href="https://jsonfeed.org">JSON Feed</a> (RFC) — för RSS-läsare och appar som stöder JSON Feed.</p>
+<button class="try-btn" onclick="tryIt(this,'https://kommun-monitor.se/api/v1/feed.json')">Testa →</button>
+<div class="response"></div>
+</div>
+
+<h2>Datamodell</h2>
+
+<h3>Decision</h3>
+<pre>
+{
+  "id": "kf389",
+  "headline": "202 socialtjänstbeslut väntar...",
+  "summary": "Antalet ej verkställda...",
+  "detail": "Fullständig sammanfattning...",
+  "category": "politik",         // bygg|skola|budget|politik|regler|miljö|...
+  "contested": true,              // true om votering/reservation
+  "location": "Eyrafältet",      // null om ej platsspecifikt
+  "paragraph_ref": "§ 389",
+  "tags": ["socialtjänst", "lss"],
+  "voting": {
+    "for": ["S", "M", "C"],
+    "against": ["V", "ÖrP", "KD"],
+    "abstained": [],
+    "result": "V:s tillägg avslogs"
+  },
+  "quote": "Citat ur protokollet",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-12-10_kf",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://..."
+  }
+}
+</pre>
+
+<h3>Party</h3>
+<pre>
+{
+  "abbr": "V",
+  "name": "Vänsterpartiet",
+  "color": "#da291c",
+  "position": "Opposition",
+  "total_votes": 14,
+  "for_pct": 43,
+  "against_pct": 29,
+  "top_allies": [["KD", 6], ["ÖrP", 5]],
+  "top_opponents": [["M", 8], ["C", 8]],
+  "motions_filed": [...]
+}
+</pre>
+
+<h2>Användningsexempel</h2>
+
+<h3>Python</h3>
+<pre>
+import requests
+
+# Hämta alla omstridda beslut
+data = requests.get("https://kommun-monitor.se/api/v1/decisions.json").json()
+contested = [d for d in data["decisions"] if d["contested"]]
+print(f"{len(contested)} omstridda beslut")
+for d in contested:
+    print(f"  {d['date']} — {d['headline']}")
+</pre>
+
+<h3>JavaScript</h3>
+<pre>
+// Hämta partistatistik
+const res = await fetch("https://kommun-monitor.se/api/v1/parties.json");
+const { parties } = await res.json();
+
+// Mest oppositionella parti
+const mostOpposed = parties.sort((a,b) => b.against_pct - a.against_pct)[0];
+console.log(`${mostOpposed.name} röstar NEJ ${mostOpposed.against_pct}% av gångerna`);
+</pre>
+
+<h3>curl + jq</h3>
+<pre>
+# Alla beslut om skola
+curl -s https://kommun-monitor.se/api/v1/decisions.json | \
+  jq '.decisions[] | select(.category == "skola") | .headline'
+
+# Hur röstade SD?
+curl -s https://kommun-monitor.se/api/v1/parties/sd.json | \
+  jq '{name, for_pct, against_pct, top_allies}'
+</pre>
+
+<h2>Licens & villkor</h2>
+<p>Data baserad på svenska offentliga handlingar (offentlighetsprincipen) — fritt att använda.</p>
+<p>AI-sammanfattningar publiceras under <strong>CC BY 4.0</strong>. Ange <em>"Kommun Monitor"</em> som källa.</p>
+<p style="color:#f59e0b">⚠️ Sammanfattningar genereras av AI och kan innehålla fel. Verifiera alltid mot <a href="https://www.orebro.se/kommun--politik/politik--beslut.html">originalprotokollen</a>.</p>
+
+<footer>
+<p>Kommun Monitor API v1.0.0 — <a href="https://kommun-monitor.se/">Hem</a> · <a href="https://kommun-monitor.se/parti/">Partier</a> · <a href="https://kommun-monitor.se/omrade/">Områden</a></p>
+</footer>
+</div>
+
+<script>
+async function tryIt(btn, url) {
+  const resp = btn.nextElementSibling;
+  if (resp.style.display === 'block') { resp.style.display = 'none'; btn.textContent = 'Testa →'; return; }
+  btn.textContent = 'Laddar...';
+  try {
+    const r = await fetch(url);
+    const d = await r.json();
+    resp.textContent = JSON.stringify(d, null, 2).slice(0, 3000);
+    resp.style.display = 'block';
+    btn.textContent = 'Dölj ↑';
+  } catch(e) {
+    resp.textContent = 'Fel: ' + e.message + '\n(API:et måste serveras — öppna via http, inte file://)';
+    resp.style.display = 'block';
+    btn.textContent = 'Testa →';
+  }
+}
+</script>
+</body></html>

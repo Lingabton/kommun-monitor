@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Örebro kommunbeslut",
+  "description": "Strukturerade data om kommunala beslut i Örebro kommun med röstningsresultat per parti.",
+  "url": "https://kommun-monitor.se/api/v1/decisions.json",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Kommun Monitor"
+  },
+  "temporalCoverage": "2024/2025",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Örebro kommun, Sverige"
+  },
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://kommun-monitor.se/api/v1/decisions.json"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-27_kf_222",
+  "headline": "Förskolan Igelkotten stängs",
+  "summary": "Godkännande för huvudmannen återkallas.",
+  "detail": "ÖrP hade lagt motionen. Stöd från S, M, C, L, KD.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 222",
+  "tags": [
+    "förskola",
+    "igelkotten",
+    "stängning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "ÖrP",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Bifall (votering)"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-08-27_kf",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://orebro.se/test4.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_222.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-08-27_kf.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_222/"
+  }
+}

@@ -1,0 +1,1038 @@
+{
+  "power_analysis": {
+    "total_voted_decisions": 14,
+    "majority_wins": 14,
+    "majority_win_pct": 100,
+    "unanimous_decisions": 3,
+    "unanimous_pct": 21,
+    "opposition_united_but_lost": 4,
+    "formal_votes": 3,
+    "majority_parties": [
+      "C",
+      "S",
+      "M"
+    ],
+    "interpretation": "Majoriteten (S, M, C) vinner 100% av alla röstningar — i praktiken total kontroll. Vid 4 av 14 tillfällen var oppositionen samlad emot — men förlorade ändå varje gång. 3 formella voteringer visar att konfliktnivån är hög."
+  },
+  "unusual_coalitions": [
+    {
+      "decision_id": "2024-04-09_ks_83",
+      "headline": "Regler för uteserveringar byter ägare",
+      "date": "2024-04-09",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_222",
+      "headline": "Förskolan Igelkotten stängs",
+      "date": "2025-08-27",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_388",
+      "headline": "Nämndreglementen revideras",
+      "date": "2025-12-10",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2024-04-09_ks_83",
+      "headline": "Regler för uteserveringar byter ägare",
+      "date": "2024-04-09",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2024-04-09_ks_83",
+      "headline": "Regler för uteserveringar byter ägare",
+      "date": "2024-04-09",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2024-04-09_ks_83",
+      "headline": "Regler för uteserveringar byter ägare",
+      "date": "2024-04-09",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_217",
+      "headline": "Naturreservat Garphytteklint bildas",
+      "date": "2025-08-27",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_217",
+      "headline": "Naturreservat Garphytteklint bildas",
+      "date": "2025-08-27",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_222",
+      "headline": "Förskolan Igelkotten stängs",
+      "date": "2025-08-27",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_222",
+      "headline": "Förskolan Igelkotten stängs",
+      "date": "2025-08-27",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-09-24_kf_266",
+      "headline": "Eyrafältet-fastighet säljs för 63 MSEK",
+      "date": "2025-09-24",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "SD"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-10-14_ks_203",
+      "headline": "Motion om kärnkraft (SMR) avslås",
+      "date": "2025-10-14",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-10-14_ks_203",
+      "headline": "Motion om kärnkraft (SMR) avslås",
+      "date": "2025-10-14",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-10-14_ks_203",
+      "headline": "Motion om kärnkraft (SMR) avslås",
+      "date": "2025-10-14",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_389",
+      "headline": "202 socialtjänstbeslut väntar",
+      "date": "2025-12-10",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_389",
+      "headline": "202 socialtjänstbeslut väntar",
+      "date": "2025-12-10",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_395",
+      "headline": "Cirkulationsbibliotek röstades ned 39-22",
+      "date": "2025-12-10",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_388",
+      "headline": "Nämndreglementen revideras",
+      "date": "2025-12-10",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_388",
+      "headline": "Nämndreglementen revideras",
+      "date": "2025-12-10",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_388",
+      "headline": "Nämndreglementen revideras",
+      "date": "2025-12-10",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_kf_388",
+      "headline": "Nämndreglementen revideras",
+      "date": "2025-12-10",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    }
+  ],
+  "timelines": [
+    {
+      "tag": "centrum",
+      "decisions_count": 2,
+      "span_days": 610,
+      "first_date": "2024-04-09",
+      "last_date": "2025-12-10",
+      "decisions": [
+        {
+          "id": "2024-04-09_ks_83",
+          "headline": "Regler för uteserveringar byter ägare",
+          "date": "2024-04-09",
+          "summary": "Sju styrdokument överförs till KS."
+        },
+        {
+          "id": "2025-12-10_kf_390",
+          "headline": "Motion om farligt gods genom Örebro avslås",
+          "date": "2025-12-10",
+          "summary": "SD ville pressa Trafikverket. 21 reserverade sig."
+        }
+      ],
+      "narrative": "'centrum' har dykt upp i 2 beslut under 20 månader (2024-04-09 → 2025-12-10)."
+    },
+    {
+      "tag": "eyrafältet",
+      "decisions_count": 2,
+      "span_days": 533,
+      "first_date": "2024-04-09",
+      "last_date": "2025-09-24",
+      "decisions": [
+        {
+          "id": "2024-04-09_ks_76",
+          "headline": "Kommunen köper sex fastigheter vid Eyrafältet",
+          "date": "2024-04-09",
+          "summary": "154 MSEK för Eyrafältets framtid."
+        },
+        {
+          "id": "2025-09-24_kf_266",
+          "headline": "Eyrafältet-fastighet säljs för 63 MSEK",
+          "date": "2025-09-24",
+          "summary": "Fastighet som köptes 2024 säljs vidare till Norrpalatset."
+        }
+      ],
+      "narrative": "'eyrafältet' har dykt upp i 2 beslut under 17 månader (2024-04-09 → 2025-09-24)."
+    },
+    {
+      "tag": "välfärd",
+      "decisions_count": 2,
+      "span_days": 105,
+      "first_date": "2025-08-27",
+      "last_date": "2025-12-10",
+      "decisions": [
+        {
+          "id": "2025-08-27_kf_223",
+          "headline": "Mer pengar till välfärdspersonal avslås",
+          "date": "2025-08-27",
+          "summary": "V ville se över ledningsorganisationen. Brett stöd men avslogs."
+        },
+        {
+          "id": "2025-12-10_kf_389",
+          "headline": "202 socialtjänstbeslut väntar",
+          "date": "2025-12-10",
+          "summary": "Antalet ej verkställda SoL/LSS-beslut ökar."
+        }
+      ],
+      "narrative": "'välfärd' har dykt upp i 2 beslut under 3 månader (2025-08-27 → 2025-12-10)."
+    }
+  ],
+  "opposition_effectiveness": [
+    {
+      "party": "L",
+      "name": "Liberalerna",
+      "motions_filed": 2,
+      "motions_granted": 0,
+      "reservations": 4,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Värmestuga i Örebro",
+          "party": "L",
+          "status": "Remitterad till KS",
+          "date": "2025-12-10"
+        },
+        {
+          "title": "Suicidprevention",
+          "party": "L",
+          "status": "Bereds av KS",
+          "date": "2024-04-09"
+        }
+      ],
+      "interpretation": "L har lagt 2 motioner men ingen har bifallits. 4 reservationer totalt."
+    },
+    {
+      "party": "V",
+      "name": "Vänsterpartiet",
+      "motions_filed": 2,
+      "motions_granted": 0,
+      "reservations": 4,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Nyckeltal för antal anställda per chef",
+          "party": "V",
+          "status": "Remitterad till KS",
+          "date": "2025-08-27"
+        },
+        {
+          "title": "Återbruk i alla led",
+          "party": "V",
+          "status": "Bereds av KS",
+          "date": "2024-04-09"
+        }
+      ],
+      "interpretation": "V har lagt 2 motioner men ingen har bifallits. 4 reservationer totalt."
+    },
+    {
+      "party": "KD",
+      "name": "Kristdemokraterna",
+      "motions_filed": 2,
+      "motions_granted": 0,
+      "reservations": 5,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Kompensation till drabbade företag",
+          "party": "KD",
+          "status": "Remitterad till KS",
+          "date": "2025-12-10"
+        },
+        {
+          "title": "Öppna skolmatsalar för seniorer",
+          "party": "KD",
+          "status": "Bereds av KS",
+          "date": "2024-04-09"
+        }
+      ],
+      "interpretation": "KD har lagt 2 motioner men ingen har bifallits. 5 reservationer totalt."
+    },
+    {
+      "party": "SD",
+      "name": "Sverigedemokraterna",
+      "motions_filed": 1,
+      "motions_granted": 0,
+      "reservations": 8,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Skydda barnen mot pedofiler",
+          "party": "SD",
+          "status": "Remitterad till KS",
+          "date": "2025-08-27"
+        }
+      ],
+      "interpretation": "SD har lagt 1 motioner men ingen har bifallits. 8 reservationer totalt."
+    },
+    {
+      "party": "ÖrP",
+      "name": "Örebropartiet",
+      "motions_filed": 0,
+      "motions_granted": 0,
+      "reservations": 9,
+      "effectiveness_score": 0,
+      "motions": [],
+      "interpretation": "ÖrP har reserverat sig 9 gånger."
+    },
+    {
+      "party": "MP",
+      "name": "Miljöpartiet",
+      "motions_filed": 0,
+      "motions_granted": 0,
+      "reservations": 4,
+      "effectiveness_score": 0,
+      "motions": [],
+      "interpretation": "MP har reserverat sig 4 gånger."
+    }
+  ],
+  "trends": {
+    "months": [
+      {
+        "month": "2024-04",
+        "total": 3,
+        "contested": 2,
+        "unanimous": 1,
+        "voteringer": 0,
+        "contested_pct": 67
+      },
+      {
+        "month": "2025-08",
+        "total": 4,
+        "contested": 4,
+        "unanimous": 0,
+        "voteringer": 2,
+        "contested_pct": 100
+      },
+      {
+        "month": "2025-09",
+        "total": 1,
+        "contested": 1,
+        "unanimous": 0,
+        "voteringer": 0,
+        "contested_pct": 100
+      },
+      {
+        "month": "2025-10",
+        "total": 2,
+        "contested": 2,
+        "unanimous": 0,
+        "voteringer": 0,
+        "contested_pct": 100
+      },
+      {
+        "month": "2025-12",
+        "total": 4,
+        "contested": 3,
+        "unanimous": 1,
+        "voteringer": 1,
+        "contested_pct": 75
+      }
+    ],
+    "overall_contested_pct": 86
+  },
+  "attention_ranking": [
+    {
+      "id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27",
+      "score": 95,
+      "reasons": [
+        "Omstritt",
+        "Gick till votering",
+        "6 partier emot",
+        "V och SD på samma sida",
+        "Bara majoriteten för — resten emot"
+      ],
+      "category": "skola"
+    },
+    {
+      "id": "2025-08-27_kf_222",
+      "headline": "Förskolan Igelkotten stängs",
+      "date": "2025-08-27",
+      "score": 80,
+      "reasons": [
+        "Omstritt",
+        "Gick till votering",
+        "4 partier emot",
+        "V och SD på samma sida"
+      ],
+      "category": "skola"
+    },
+    {
+      "id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27",
+      "score": 80,
+      "reasons": [
+        "Omstritt",
+        "6 partier emot",
+        "V och SD på samma sida",
+        "Bara majoriteten för — resten emot",
+        "Handlar om pengar"
+      ],
+      "category": "budget"
+    },
+    {
+      "id": "2025-12-10_kf_395",
+      "headline": "Cirkulationsbibliotek röstades ned 39-22",
+      "date": "2025-12-10",
+      "score": 60,
+      "reasons": [
+        "Omstritt",
+        "Gick till votering",
+        "5 partier emot"
+      ],
+      "category": "skola"
+    },
+    {
+      "id": "2025-12-10_kf_390",
+      "headline": "Motion om farligt gods genom Örebro avslås",
+      "date": "2025-12-10",
+      "score": 40,
+      "reasons": [
+        "Omstritt",
+        "4 partier emot",
+        "Berör specifikt område"
+      ],
+      "category": "infrastruktur"
+    },
+    {
+      "id": "2025-12-10_kf_389",
+      "headline": "202 socialtjänstbeslut väntar",
+      "date": "2025-12-10",
+      "score": 30,
+      "reasons": [
+        "Omstritt",
+        "Bred ideologisk opposition"
+      ],
+      "category": "politik"
+    },
+    {
+      "id": "2025-10-14_ks_196",
+      "headline": "Negativ budgetavvikelse på 210 MSEK",
+      "date": "2025-10-14",
+      "score": 30,
+      "reasons": [
+        "Omstritt",
+        "Handlar om pengar"
+      ],
+      "category": "budget"
+    },
+    {
+      "id": "2025-09-24_kf_266",
+      "headline": "Eyrafältet-fastighet säljs för 63 MSEK",
+      "date": "2025-09-24",
+      "score": 25,
+      "reasons": [
+        "Omstritt",
+        "Berör specifikt område"
+      ],
+      "category": "bygg"
+    },
+    {
+      "id": "2025-08-27_kf_217",
+      "headline": "Naturreservat Garphytteklint bildas",
+      "date": "2025-08-27",
+      "score": 25,
+      "reasons": [
+        "Omstritt",
+        "Berör specifikt område"
+      ],
+      "category": "miljö"
+    },
+    {
+      "id": "2024-04-09_ks_76",
+      "headline": "Kommunen köper sex fastigheter vid Eyrafältet",
+      "date": "2024-04-09",
+      "score": 25,
+      "reasons": [
+        "Omstritt",
+        "Berör specifikt område"
+      ],
+      "category": "bygg"
+    },
+    {
+      "id": "2024-04-09_ks_74",
+      "headline": "V kräver flygplatsavveckling",
+      "date": "2024-04-09",
+      "score": 25,
+      "reasons": [
+        "Omstritt",
+        "Berör specifikt område"
+      ],
+      "category": "politik"
+    },
+    {
+      "id": "2025-10-14_ks_203",
+      "headline": "Motion om kärnkraft (SMR) avslås",
+      "date": "2025-10-14",
+      "score": 20,
+      "reasons": [
+        "Omstritt"
+      ],
+      "category": "miljö"
+    },
+    {
+      "id": "2025-12-10_kf_388",
+      "headline": "Nämndreglementen revideras",
+      "date": "2025-12-10",
+      "score": 0,
+      "reasons": [],
+      "category": "regler"
+    },
+    {
+      "id": "2024-04-09_ks_83",
+      "headline": "Regler för uteserveringar byter ägare",
+      "date": "2024-04-09",
+      "score": 0,
+      "reasons": [],
+      "category": "regler"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2025-09-24_kf",
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-09-24",
+  "source_url": "https://orebro.se/test3.pdf",
+  "summary_headline": "Eyrafältet-fastighet säljs",
+  "decisions": [
+    {
+      "id": "2025-09-24_kf_266",
+      "headline": "Eyrafältet-fastighet säljs för 63 MSEK",
+      "summary": "Fastighet som köptes 2024 säljs vidare till Norrpalatset.",
+      "detail": "Bedöms inte behövas för idrott. Ska bli bostäder.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Eyrafältet",
+      "paragraph_ref": "§ 266",
+      "tags": [
+        "eyrafältet",
+        "fastighetsförsäljning",
+        "örebroporten",
+        "bostäder"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "MP"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      }
+    }
+  ],
+  "motions_of_interest": [],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/meetings/2025-09-24_kf.json",
+    "decisions": [
+      "https://kommun-monitor.se/api/v1/decisions/2025-09-24_kf_266.json"
+    ],
+    "web_url": "https://kommun-monitor.se/#meeting-2025-09-24_kf"
+  }
+}

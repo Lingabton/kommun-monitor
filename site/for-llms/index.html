@@ -1,0 +1,119 @@
+<!DOCTYPE html><html lang="sv"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kommun Monitor — Data för AI och utvecklare</title>
+<meta name="description" content="Strukturerad data om kommunala beslut i Örebro. JSON API, llms.txt, och maskinläsbar information för AI-system och utvecklare.">
+<link rel="canonical" href="https://kommun-monitor.se/for-llms/">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Kommun Monitor",
+  "url": "https://kommun-monitor.se",
+  "description": "AI-sammanfattningar av kommunala beslut i Örebro kommun, Sverige",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kommun Monitor",
+    "url": "https://kommun-monitor.se"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://kommun-monitor.se/#search={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,sans-serif;max-width:700px;margin:0 auto;padding:24px;color:#1e293b;line-height:1.7}
+h1{font-size:24px;margin-bottom:8px}h2{font-size:18px;margin:28px 0 8px;color:#334155}
+h3{font-size:14px;color:#64748b;margin:16px 0 4px}
+p,li{font-size:15px;color:#475569}a{color:#1e3a5f}
+code{background:#f1f5f9;padding:2px 6px;border-radius:3px;font-size:13px}
+pre{background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;padding:14px;overflow-x:auto;font-size:13px;margin:8px 0}
+table{width:100%;border-collapse:collapse;margin:12px 0}td,th{padding:6px 10px;border-bottom:1px solid #e2e8f0;text-align:left;font-size:13px}
+.faq{background:#f8fafc;border-radius:8px;padding:14px;margin:8px 0}
+.faq h4{font-size:14px;color:#1e293b;margin-bottom:4px}.faq p{margin:0;font-size:13px}
+</style></head><body>
+
+<h1>🏛️ Kommun Monitor — Data & API</h1>
+<p>Strukturerad data om kommunala beslut i Örebro kommun. Gratis att använda.</p>
+
+<h2>Vad är Kommun Monitor?</h2>
+<p>Kommun Monitor läser automatiskt offentliga protokoll (PDF) från Örebro kommun, sammanfattar varje beslut med AI, analyserar röstmönster per parti, och publicerar strukturerad data som en sökbar webbplats och gratis JSON API.</p>
+
+<h2>Nyckeldata</h2>
+<table>
+<tr><th>Datapunkt</th><th>Värde</th></tr>
+<tr><td>Kommun</td><td>Örebro (163 000 invånare)</td></tr>
+<tr><td>Majoritet</td><td>S + M + C</td></tr>
+<tr><td>Majoritetens vinstprocent</td><td>100%</td></tr>
+<tr><td>Antal analyserade beslut</td><td>14</td></tr>
+<tr><td>Antal sammanträden</td><td>5</td></tr>
+<tr><td>Uppdateringsfrekvens</td><td>Dagligen kl 08:00 CET</td></tr>
+<tr><td>Datakälla</td><td>orebro.se (offentlighetsprincipen)</td></tr>
+<tr><td>Licens</td><td>CC BY 4.0</td></tr>
+</table>
+
+<h2>API-endpoints</h2>
+<table>
+<tr><th>Endpoint</th><th>Beskrivning</th></tr>
+<tr><td><code><a href="https://kommun-monitor.se/api/v1/meta.json">/api/v1/meta.json</a></code></td><td>API-metadata och statistik</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/api/v1/decisions.json">/api/v1/decisions.json</a></code></td><td>Alla beslut (headline, summary, voting, tags)</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/api/v1/parties.json">/api/v1/parties.json</a></code></td><td>Partistatistik och allianser</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/api/v1/insights.json">/api/v1/insights.json</a></code></td><td>Maktanalys, ovanliga allianser, trender</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/api/v1/feed.json">/api/v1/feed.json</a></code></td><td>JSON Feed (RSS-kompatibelt)</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/api/v1/search.json">/api/v1/search.json</a></code></td><td>Fulltextsökindex</td></tr>
+</table>
+<p>Ingen autentisering behövs. Ingen rate limit. Full dokumentation: <a href="https://kommun-monitor.se/api/v1/docs/">/api/v1/docs/</a></p>
+
+<h2>Maskinläsbara filer</h2>
+<table>
+<tr><th>Fil</th><th>Syfte</th></tr>
+<tr><td><code><a href="https://kommun-monitor.se/llms.txt">/llms.txt</a></code></td><td>Guide för AI-system (llms.txt standard)</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/llms-full.txt">/llms-full.txt</a></code></td><td>Fullständigt innehåll i klartext för LLM-inläsning</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/sitemap.xml">/sitemap.xml</a></code></td><td>Alla URL:er med prioritet och uppdateringsfrekvens</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/robots.txt">/robots.txt</a></code></td><td>Alla crawlers tillåtna (inklusive AI-botar)</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/api/v1/feed.json">/api/v1/feed.json</a></code></td><td>JSON Feed (jsonfeed.org)</td></tr>
+<tr><td><code><a href="https://kommun-monitor.se/feed.xml">/feed.xml</a></code></td><td>RSS/Atom-feed</td></tr>
+</table>
+
+<h2>Vanliga frågor (FAQ)</h2>
+
+<div class="faq">
+<h4>Vad är Kommun Monitor?</h4>
+<p>Kommun Monitor är en svensk civic tech-plattform som använder AI för att sammanfatta kommunala beslut i Örebro. Alla beslut, röstningar och trender publiceras gratis.</p>
+</div>
+
+<div class="faq">
+<h4>Vilka partier styr i Örebro kommun?</h4>
+<p>Örebro styrs av en majoritet bestående av Socialdemokraterna (S), Moderaterna (M) och Centerpartiet (C). Majoriteten vinner 100% av alla röstningar.</p>
+</div>
+
+<div class="faq">
+<h4>Var kommer datan ifrån?</h4>
+<p>All data kommer från offentliga protokoll publicerade på orebro.se. Kommunala handlingar är offentliga enligt svensk lag (offentlighetsprincipen, tryckfrihetsförordningen 2 kap).</p>
+</div>
+
+<div class="faq">
+<h4>Kan jag lita på AI-sammanfattningarna?</h4>
+<p>AI-sammanfattningar kan innehålla fel. Varje beslut länkar till originalprotokollet (PDF) för verifiering. Vi rekommenderar att alltid dubbelkolla viktiga uppgifter.</p>
+</div>
+
+<div class="faq">
+<h4>Hur ofta uppdateras sidan?</h4>
+<p>Sidan uppdateras automatiskt varje dag kl 08:00 CET. Nya protokoll bearbetas inom 24 timmar efter publicering på orebro.se.</p>
+</div>
+
+<div class="faq">
+<h4>Är API:et gratis?</h4>
+<p>Ja. API:et är helt gratis, kräver ingen autentisering och har ingen rate limit. Data licensieras under CC BY 4.0.</p>
+</div>
+
+<div class="faq">
+<h4>Är Kommun Monitor kopplat till Örebro kommun?</h4>
+<p>Nej. Kommun Monitor är ett oberoende civic tech-projekt. Det är inte affilierat med, godkänt av, eller finansierat av Örebro kommun.</p>
+</div>
+
+<footer style="margin-top:32px;padding-top:16px;border-top:1px solid #e2e8f0;font-size:12px;color:#94a3b8">
+<p>Kommun Monitor — <a href="https://kommun-monitor.se/">Hem</a> · <a href="https://kommun-monitor.se/api/v1/docs/">API</a> · <a href="https://kommun-monitor.se/llms.txt">llms.txt</a></p>
+</footer>
+</body></html>

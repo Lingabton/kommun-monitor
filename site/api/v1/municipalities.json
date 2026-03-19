@@ -1,0 +1,20 @@
+{
+  "count": 1,
+  "municipalities": [
+    {
+      "id": "orebro",
+      "name": "Örebro kommun",
+      "population": 163000,
+      "county": "Örebro län",
+      "website": "https://www.orebro.se",
+      "protocols_url": "https://www.orebro.se/kommun--politik/politik--beslut.html",
+      "meetings_count": 5,
+      "decisions_count": 14,
+      "organs": [
+        "Kommunfullmäktige",
+        "Kommunstyrelsen"
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/meetings.json?municipality=orebro"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "name": "Liberalerna",
+  "short": "L",
+  "color": "#006ab3",
+  "position": "Opposition",
+  "ideology": "Socialliberalism",
+  "votes_for": 9,
+  "votes_against": 4,
+  "votes_abstained": 0,
+  "total_votes": 13,
+  "contested_votes": [
+    {
+      "id": "2025-12-10_kf_390",
+      "headline": "Motion om farligt gods genom Örebro avslås",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2025-12-10_kf_395",
+      "headline": "Cirkulationsbibliotek röstades ned 39-22",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27"
+    },
+    {
+      "id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27"
+    }
+  ],
+  "key_issues": {
+    "infrastruktur": 1,
+    "skola": 3,
+    "regler": 2,
+    "budget": 2,
+    "miljö": 2,
+    "bygg": 2,
+    "politik": 1
+  },
+  "motions_filed": [
+    {
+      "title": "Värmestuga i Örebro",
+      "status": "Remitterad till KS",
+      "date": "2025-12-10"
+    },
+    {
+      "title": "Suicidprevention",
+      "status": "Bereds av KS",
+      "date": "2024-04-09"
+    }
+  ],
+  "agreement_with": {
+    "SD": 7,
+    "KD": 12,
+    "ÖrP": 8,
+    "MP": 7,
+    "S": 9,
+    "M": 9,
+    "C": 9,
+    "V": 6
+  },
+  "disagreement_with": {
+    "M": 4,
+    "C": 4,
+    "S": 4,
+    "V": 3,
+    "SD": 4,
+    "ÖrP": 4,
+    "MP": 1
+  },
+  "for_pct": 69,
+  "against_pct": 31,
+  "abstained_pct": 0,
+  "activity_score": 85,
+  "top_categories": [
+    [
+      "skola",
+      3
+    ],
+    [
+      "regler",
+      2
+    ],
+    [
+      "budget",
+      2
+    ],
+    [
+      "miljö",
+      2
+    ],
+    [
+      "bygg",
+      2
+    ]
+  ],
+  "top_allies": [
+    [
+      "KD",
+      12
+    ],
+    [
+      "S",
+      9
+    ],
+    [
+      "M",
+      9
+    ]
+  ],
+  "top_opponents": [
+    [
+      "M",
+      4
+    ],
+    [
+      "C",
+      4
+    ],
+    [
+      "S",
+      4
+    ]
+  ],
+  "abbr": "L",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/parties/l.json",
+    "web_url": "https://kommun-monitor.se/parti/l/",
+    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+  }
+}

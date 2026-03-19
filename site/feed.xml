@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Kommun Monitor — Örebro</title>
+<link>https://kommunmonitor.se/</link>
+<description>AI-sammanfattningar av beslut från Örebro kommun</description>
+<language>sv</language>
+<atom:link href="https://kommunmonitor.se/feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 19 Mar 2026 09:53:36 +0100</lastBuildDate>
+<item>
+<title>202 socialtjänstbeslut väntar på att verkställas</title>
+<link>https://kommunmonitor.se/beslut/2025-12-10_kf_389/</link>
+<guid>https://kommunmonitor.se/beslut/2025-12-10_kf_389/</guid>
+<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
+<description>Antalet gynnande SoL- och LSS-beslut som inte verkställts inom tre månader har ökat.</description>
+<category>Politik</category>
+<source url="https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Motion om farligt gods genom Örebro avslås</title>
+<link>https://kommunmonitor.se/beslut/2025-12-10_kf_390/</link>
+<guid>https://kommunmonitor.se/beslut/2025-12-10_kf_390/</guid>
+<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
+<description>SD ville pressa Trafikverket att minska farligt gods. 21 ledamöter reserverade sig.</description>
+<category>Infrastruktur</category>
+<source url="https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Kommunen köper sex fastigheter vid Eyrafältet</title>
+<link>https://kommunmonitor.se/beslut/2024-04-09_ks_76/</link>
+<guid>https://kommunmonitor.se/beslut/2024-04-09_ks_76/</guid>
+<pubDate>Tue, 09 Apr 2024 00:00:00 +0100</pubDate>
+<description>Örebroporten förvärvar mark för 154 MSEK.</description>
+<category>Bygg</category>
+<source url="https://www.orebro.se/download/2024-04-09%20Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>V kräver flygplatsavveckling — röstades ned</title>
+<link>https://kommunmonitor.se/beslut/2024-04-09_ks_74/</link>
+<guid>https://kommunmonitor.se/beslut/2024-04-09_ks_74/</guid>
+<pubDate>Tue, 09 Apr 2024 00:00:00 +0100</pubDate>
+<description>Flygplatsfrågan debatterades i två ärenden.</description>
+<category>Politik</category>
+<source url="https://www.orebro.se/download/2024-04-09%20Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,49 @@
+{
+  "id": "2025-12-10_kf_390",
+  "headline": "Motion om farligt gods genom Örebro avslås",
+  "summary": "SD ville pressa Trafikverket. 21 reserverade sig.",
+  "detail": "Bordlagd fyra gånger.\n\nBrett oppositionsstöd: SD, ÖrP, L, KD.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro centrum (järnväg)",
+  "paragraph_ref": "§ 390",
+  "tags": [
+    "farligt gods",
+    "trafikverket",
+    "järnväg",
+    "transport",
+    "centrum"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "L",
+      "KD"
+    ],
+    "abstained": [
+      "MP"
+    ],
+    "result": "Avslås"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-12-10_kf",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://orebro.se/test.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_390.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-12-10_kf.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_390/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "eyrafältet",
+  "name": "Eyrafältet",
+  "decisions": [
+    {
+      "id": "2025-09-24_kf_266",
+      "headline": "Eyrafältet-fastighet säljs för 63 MSEK",
+      "summary": "Fastighet som köptes 2024 säljs vidare till Norrpalatset.",
+      "date": "2025-09-24",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2024-04-09_ks_76",
+      "headline": "Kommunen köper sex fastigheter vid Eyrafältet",
+      "summary": "154 MSEK för Eyrafältets framtid.",
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": true
+    }
+  ],
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/areas/eyrafältet.json",
+    "web_url": "https://kommun-monitor.se/omrade/eyrafältet/"
+  }
+}

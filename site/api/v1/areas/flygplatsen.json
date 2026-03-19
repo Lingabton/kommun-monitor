@@ -1,0 +1,19 @@
+{
+  "id": "flygplatsen",
+  "name": "Flygplatsen",
+  "decisions": [
+    {
+      "id": "2024-04-09_ks_74",
+      "headline": "V kräver flygplatsavveckling",
+      "summary": "Yrkade i två ärenden. Avslogs.",
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "politik",
+      "contested": true
+    }
+  ],
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/areas/flygplatsen.json",
+    "web_url": "https://kommun-monitor.se/omrade/flygplatsen/"
+  }
+}

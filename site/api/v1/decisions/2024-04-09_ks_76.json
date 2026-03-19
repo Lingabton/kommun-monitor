@@ -1,0 +1,46 @@
+{
+  "id": "2024-04-09_ks_76",
+  "headline": "Kommunen köper sex fastigheter vid Eyrafältet",
+  "summary": "154 MSEK för Eyrafältets framtid.",
+  "detail": "Region säljer. Örebroporten köper.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Eyrafältet/Eklundavägen",
+  "paragraph_ref": "§ 76",
+  "tags": [
+    "eyrafältet",
+    "fastighetsköp",
+    "örebroporten",
+    "eklundavägen"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-04-09_ks",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://orebro.se/test5.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_76.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2024-04-09_ks.json",
+    "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_76/"
+  }
+}

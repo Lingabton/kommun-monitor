@@ -1,0 +1,43 @@
+{
+  "id": "2024-04-09_ks_74",
+  "headline": "V kräver flygplatsavveckling",
+  "summary": "Yrkade i två ärenden. Avslogs.",
+  "detail": "V vill utreda avveckling.",
+  "category": "politik",
+  "contested": true,
+  "location": "Örebro flygplats",
+  "paragraph_ref": "§ 74",
+  "tags": [
+    "flygplats",
+    "avveckling"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "V:s tillägg avslogs"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-04-09_ks",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://orebro.se/test5.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_74.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2024-04-09_ks.json",
+    "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_74/"
+  }
+}

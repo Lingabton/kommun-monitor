@@ -1,0 +1,46 @@
+{
+  "id": "2025-10-14_ks_196",
+  "headline": "Negativ budgetavvikelse på 210 MSEK",
+  "summary": "Delårsrapporten visar kraftigt underskott.",
+  "detail": "Prognos 257 MSEK vs budget 467 MSEK.\n\n78 MSEK i verksamheten, 132 MSEK finansiellt.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 196",
+  "tags": [
+    "budget",
+    "ekonomi",
+    "underskott"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "V",
+      "ÖrP",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-10-14_ks",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://orebro.se/test2.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_196.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-10-14_ks.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-10-14_ks_196/"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Kommun Monitor",
+  "alternateName": "Kommun Monitor Örebro",
+  "url": "https://kommun-monitor.se",
+  "description": "AI-sammanfattningar av kommunala beslut i Örebro kommun, Sverige. Röstningsstatistik per parti, områdesanalys och politiska insikter.",
+  "inLanguage": "sv",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kommun Monitor",
+    "url": "https://kommun-monitor.se"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://kommun-monitor.se/#search={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

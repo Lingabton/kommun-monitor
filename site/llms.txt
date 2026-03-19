@@ -1,0 +1,34 @@
+# Kommun Monitor
+> AI-powered summaries of municipal decisions in Örebro, Sweden
+
+Kommun Monitor automatically reads public meeting protocols (PDF) from Örebro municipality,
+summarizes each decision using AI, analyzes voting patterns per party, and publishes
+structured data as a free, searchable website and JSON API.
+
+## Key Pages
+
+- [https://kommun-monitor.se/](About): Homepage with all decisions searchable and filterable
+- [https://kommun-monitor.se/parti/](https://kommun-monitor.se/parti/): Voting statistics for all 9 parties in Örebro
+- [https://kommun-monitor.se/omrade/](https://kommun-monitor.se/omrade/): Decisions organized by geographic area
+- [https://kommun-monitor.se/ekonomi/](https://kommun-monitor.se/ekonomi/): Budget and financial decisions tracker
+- [https://kommun-monitor.se/insikter/](https://kommun-monitor.se/insikter/): Automated political insights and power analysis
+
+## API (Free, No Authentication)
+
+- [https://kommun-monitor.se/api/v1/decisions.json](https://kommun-monitor.se/api/v1/decisions.json): All decisions with voting data
+- [https://kommun-monitor.se/api/v1/parties.json](https://kommun-monitor.se/api/v1/parties.json): Party statistics and alliances
+- [https://kommun-monitor.se/api/v1/insights.json](https://kommun-monitor.se/api/v1/insights.json): Power analysis, unusual coalitions, trends
+- [https://kommun-monitor.se/api/v1/docs/](https://kommun-monitor.se/api/v1/docs/): Full API documentation
+
+## Key Facts
+
+- Municipality: Örebro kommun, Sweden (population 163,000)
+- Governing coalition: S + M + C (majority wins 100% of votes)
+- Data source: Public protocols from orebro.se (offentlighetsprincipen)
+- 14 decisions analyzed across 5 meetings
+- Updated daily at 08:00 CET via automated pipeline
+- License: CC BY 4.0 (AI summaries), public records (source data)
+
+## Contact
+
+Kommun Monitor is an independent civic tech project. Not affiliated with Örebro kommun.

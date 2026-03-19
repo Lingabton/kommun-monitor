@@ -1,0 +1,46 @@
+{
+  "id": "2025-10-14_ks_203",
+  "headline": "Motion om kärnkraft (SMR) avslås",
+  "summary": "SD ville peka ut områden för SMR.",
+  "detail": "Bedöms som för tidigt.",
+  "category": "miljö",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 203",
+  "tags": [
+    "kärnkraft",
+    "smr",
+    "energi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslås"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-10-14_ks",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://orebro.se/test2.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_203.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-10-14_ks.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-10-14_ks_203/"
+  }
+}

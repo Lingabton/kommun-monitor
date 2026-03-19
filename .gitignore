@@ -1,0 +1,14 @@
+# PDFs (large files, don't commit)
+data/pdfs/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs (optional to commit)
+logs/*.log

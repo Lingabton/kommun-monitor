@@ -1,0 +1,582 @@
+{
+  "count": 9,
+  "municipality": "orebro",
+  "parties": [
+    {
+      "abbr": "S",
+      "name": "Socialdemokraterna",
+      "color": "#e8112d",
+      "position": "Majoritet",
+      "ideology": "Socialdemokrati",
+      "total_votes": 14,
+      "for_pct": 100,
+      "against_pct": 0,
+      "abstained_pct": 0,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "budget",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "M",
+          14
+        ],
+        [
+          "C",
+          14
+        ],
+        [
+          "L",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          9
+        ],
+        [
+          "SD",
+          8
+        ],
+        [
+          "KD",
+          5
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/s.json",
+      "web_url": "https://kommun-monitor.se/parti/s/"
+    },
+    {
+      "abbr": "M",
+      "name": "Moderaterna",
+      "color": "#52bdec",
+      "position": "Majoritet",
+      "ideology": "Liberalkonservatism",
+      "total_votes": 14,
+      "for_pct": 100,
+      "against_pct": 0,
+      "abstained_pct": 0,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "budget",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "C",
+          14
+        ],
+        [
+          "S",
+          14
+        ],
+        [
+          "L",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          9
+        ],
+        [
+          "SD",
+          8
+        ],
+        [
+          "KD",
+          5
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/m.json",
+      "web_url": "https://kommun-monitor.se/parti/m/"
+    },
+    {
+      "abbr": "C",
+      "name": "Centerpartiet",
+      "color": "#009933",
+      "position": "Majoritet",
+      "ideology": "Centerism, grön liberalism",
+      "total_votes": 14,
+      "for_pct": 100,
+      "against_pct": 0,
+      "abstained_pct": 0,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "budget",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "M",
+          14
+        ],
+        [
+          "S",
+          14
+        ],
+        [
+          "L",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          9
+        ],
+        [
+          "SD",
+          8
+        ],
+        [
+          "KD",
+          5
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/c.json",
+      "web_url": "https://kommun-monitor.se/parti/c/"
+    },
+    {
+      "abbr": "KD",
+      "name": "Kristdemokraterna",
+      "color": "#231977",
+      "position": "Opposition",
+      "ideology": "Kristdemokrati",
+      "total_votes": 14,
+      "for_pct": 57,
+      "against_pct": 36,
+      "abstained_pct": 7,
+      "motions_count": 2,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ],
+        [
+          "bygg",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "L",
+          12
+        ],
+        [
+          "ÖrP",
+          9
+        ],
+        [
+          "S",
+          8
+        ]
+      ],
+      "top_opponents": [
+        [
+          "M",
+          5
+        ],
+        [
+          "C",
+          5
+        ],
+        [
+          "S",
+          5
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/kd.json",
+      "web_url": "https://kommun-monitor.se/parti/kd/"
+    },
+    {
+      "abbr": "V",
+      "name": "Vänsterpartiet",
+      "color": "#da291c",
+      "position": "Opposition",
+      "ideology": "Demokratisk socialism",
+      "total_votes": 14,
+      "for_pct": 43,
+      "against_pct": 29,
+      "abstained_pct": 29,
+      "motions_count": 2,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ],
+        [
+          "politik",
+          1
+        ],
+        [
+          "infrastruktur",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "KD",
+          7
+        ],
+        [
+          "ÖrP",
+          7
+        ],
+        [
+          "M",
+          6
+        ]
+      ],
+      "top_opponents": [
+        [
+          "M",
+          4
+        ],
+        [
+          "C",
+          4
+        ],
+        [
+          "S",
+          4
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/v.json",
+      "web_url": "https://kommun-monitor.se/parti/v/"
+    },
+    {
+      "abbr": "ÖrP",
+      "name": "Örebropartiet",
+      "color": "#f47920",
+      "position": "Opposition",
+      "ideology": "Lokalt parti",
+      "total_votes": 14,
+      "for_pct": 29,
+      "against_pct": 64,
+      "abstained_pct": 7,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ],
+        [
+          "bygg",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "KD",
+          9
+        ],
+        [
+          "SD",
+          8
+        ],
+        [
+          "L",
+          8
+        ]
+      ],
+      "top_opponents": [
+        [
+          "M",
+          9
+        ],
+        [
+          "C",
+          9
+        ],
+        [
+          "S",
+          9
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/örp.json",
+      "web_url": "https://kommun-monitor.se/parti/örp/"
+    },
+    {
+      "abbr": "L",
+      "name": "Liberalerna",
+      "color": "#006ab3",
+      "position": "Opposition",
+      "ideology": "Socialliberalism",
+      "total_votes": 13,
+      "for_pct": 69,
+      "against_pct": 31,
+      "abstained_pct": 0,
+      "motions_count": 2,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "budget",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ],
+        [
+          "bygg",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "KD",
+          12
+        ],
+        [
+          "S",
+          9
+        ],
+        [
+          "M",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "M",
+          4
+        ],
+        [
+          "C",
+          4
+        ],
+        [
+          "S",
+          4
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/l.json",
+      "web_url": "https://kommun-monitor.se/parti/l/"
+    },
+    {
+      "abbr": "SD",
+      "name": "Sverigedemokraterna",
+      "color": "#dddd00",
+      "position": "Opposition",
+      "ideology": "Socialkonservatism",
+      "total_votes": 11,
+      "for_pct": 27,
+      "against_pct": 73,
+      "abstained_pct": 0,
+      "motions_count": 1,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "budget",
+          2
+        ],
+        [
+          "miljö",
+          2
+        ],
+        [
+          "infrastruktur",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "ÖrP",
+          8
+        ],
+        [
+          "L",
+          7
+        ],
+        [
+          "KD",
+          7
+        ]
+      ],
+      "top_opponents": [
+        [
+          "M",
+          8
+        ],
+        [
+          "C",
+          8
+        ],
+        [
+          "S",
+          8
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/sd.json",
+      "web_url": "https://kommun-monitor.se/parti/sd/"
+    },
+    {
+      "abbr": "MP",
+      "name": "Miljöpartiet",
+      "color": "#83cf39",
+      "position": "Opposition",
+      "ideology": "Grön politik",
+      "total_votes": 9,
+      "for_pct": 44,
+      "against_pct": 44,
+      "abstained_pct": 11,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "skola",
+          3
+        ],
+        [
+          "miljö",
+          2
+        ],
+        [
+          "regler",
+          1
+        ],
+        [
+          "bygg",
+          1
+        ],
+        [
+          "budget",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "L",
+          7
+        ],
+        [
+          "KD",
+          7
+        ],
+        [
+          "ÖrP",
+          6
+        ]
+      ],
+      "top_opponents": [
+        [
+          "M",
+          4
+        ],
+        [
+          "C",
+          4
+        ],
+        [
+          "S",
+          4
+        ]
+      ],
+      "api_url": "https://kommun-monitor.se/api/v1/parties/mp.json",
+      "web_url": "https://kommun-monitor.se/parti/mp/"
+    }
+  ]
+}

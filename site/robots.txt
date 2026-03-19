@@ -1,0 +1,35 @@
+# Kommun Monitor — robots.txt
+# We welcome all crawlers including AI bots.
+# Our content is public records and we want maximum visibility.
+
+User-agent: *
+Allow: /
+
+# AI crawlers explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Sitemaps
+Sitemap: https://kommun-monitor.se/sitemap.xml
+Sitemap: https://kommun-monitor.se/llms.txt

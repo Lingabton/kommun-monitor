@@ -1,0 +1,44 @@
+{
+  "id": "2025-12-10_kf_389",
+  "headline": "202 socialtjänstbeslut väntar",
+  "summary": "Antalet ej verkställda SoL/LSS-beslut ökar.",
+  "detail": "Totalt 202 beslut.\n\nV ville tvinga fram lösning.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 389",
+  "tags": [
+    "socialtjänst",
+    "sol",
+    "lss",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "ÖrP",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "V:s tillägg avslogs"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-12-10_kf",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://orebro.se/test.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_389.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-12-10_kf.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_389/"
+  }
+}

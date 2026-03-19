@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-27_kf_217",
+  "headline": "Naturreservat Garphytteklint bildas",
+  "summary": "Nytt naturreservat med skötselplan.",
+  "detail": "SD och ÖrP reserverade sig.",
+  "category": "miljö",
+  "contested": true,
+  "location": "Garphytteklint",
+  "paragraph_ref": "§ 217",
+  "tags": [
+    "naturreservat",
+    "garphytteklint",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-08-27_kf",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://orebro.se/test4.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_217.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-08-27_kf.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_217/"
+  }
+}

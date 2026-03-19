@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-27_kf_221",
+  "headline": "Maxtak barngrupper i förskolan avslås",
+  "summary": "V ville ha max 12 barn per grupp. Röstades ned.",
+  "detail": "Votering 14-8 med 42 som avstod.\n\nV, SD, KD, MP ville ha maxtak.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 221",
+  "tags": [
+    "förskola",
+    "barngrupper",
+    "skolverket"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "SD",
+      "KD",
+      "MP",
+      "ÖrP",
+      "L"
+    ],
+    "abstained": [],
+    "result": "Avslås (votering)"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-08-27_kf",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://orebro.se/test4.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_221.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-08-27_kf.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_221/"
+  }
+}

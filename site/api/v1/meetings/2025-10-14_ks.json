@@ -1,0 +1,83 @@
+{
+  "id": "2025-10-14_ks",
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2025-10-14",
+  "source_url": "https://orebro.se/test2.pdf",
+  "summary_headline": "Budgetavvikelse -210 MSEK",
+  "decisions": [
+    {
+      "id": "2025-10-14_ks_196",
+      "headline": "Negativ budgetavvikelse på 210 MSEK",
+      "summary": "Delårsrapporten visar kraftigt underskott.",
+      "detail": "Prognos 257 MSEK vs budget 467 MSEK.\n\n78 MSEK i verksamheten, 132 MSEK finansiellt.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 196",
+      "tags": [
+        "budget",
+        "ekonomi",
+        "underskott"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [
+          "V",
+          "ÖrP",
+          "KD"
+        ],
+        "result": "Bifall"
+      }
+    },
+    {
+      "id": "2025-10-14_ks_203",
+      "headline": "Motion om kärnkraft (SMR) avslås",
+      "summary": "SD ville peka ut områden för SMR.",
+      "detail": "Bedöms som för tidigt.",
+      "category": "miljö",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 203",
+      "tags": [
+        "kärnkraft",
+        "smr",
+        "energi"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Avslås"
+      }
+    }
+  ],
+  "motions_of_interest": [],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/meetings/2025-10-14_ks.json",
+    "decisions": [
+      "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_196.json",
+      "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_203.json"
+    ],
+    "web_url": "https://kommun-monitor.se/#meeting-2025-10-14_ks"
+  }
+}

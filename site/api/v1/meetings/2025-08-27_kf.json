@@ -1,0 +1,160 @@
+{
+  "id": "2025-08-27_kf",
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-08-27",
+  "source_url": "https://orebro.se/test4.pdf",
+  "summary_headline": "Förskola, välfärdslöner, Igelkotten",
+  "decisions": [
+    {
+      "id": "2025-08-27_kf_217",
+      "headline": "Naturreservat Garphytteklint bildas",
+      "summary": "Nytt naturreservat med skötselplan.",
+      "detail": "SD och ÖrP reserverade sig.",
+      "category": "miljö",
+      "contested": true,
+      "location": "Garphytteklint",
+      "paragraph_ref": "§ 217",
+      "tags": [
+        "naturreservat",
+        "garphytteklint",
+        "miljö"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      }
+    },
+    {
+      "id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "summary": "V ville ha max 12 barn per grupp. Röstades ned.",
+      "detail": "Votering 14-8 med 42 som avstod.\n\nV, SD, KD, MP ville ha maxtak.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 221",
+      "tags": [
+        "förskola",
+        "barngrupper",
+        "skolverket"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "V",
+          "SD",
+          "KD",
+          "MP",
+          "ÖrP",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Avslås (votering)"
+      }
+    },
+    {
+      "id": "2025-08-27_kf_222",
+      "headline": "Förskolan Igelkotten stängs",
+      "summary": "Godkännande för huvudmannen återkallas.",
+      "detail": "ÖrP hade lagt motionen. Stöd från S, M, C, L, KD.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 222",
+      "tags": [
+        "förskola",
+        "igelkotten",
+        "stängning"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "ÖrP",
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Bifall (votering)"
+      }
+    },
+    {
+      "id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "summary": "V ville se över ledningsorganisationen. Brett stöd men avslogs.",
+      "detail": "27 ledamöter reserverade sig.\n\nAlla utom S, M, C ville bifalla.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 223",
+      "tags": [
+        "välfärd",
+        "personal",
+        "löner"
+      ],
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "V",
+          "SD",
+          "ÖrP",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Avslås"
+      }
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Nyckeltal för antal anställda per chef",
+      "party": "V",
+      "status": "Remitterad till KS"
+    },
+    {
+      "title": "Skydda barnen mot pedofiler",
+      "party": "SD",
+      "status": "Remitterad till KS"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/meetings/2025-08-27_kf.json",
+    "decisions": [
+      "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_217.json",
+      "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_221.json",
+      "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_222.json",
+      "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_223.json"
+    ],
+    "web_url": "https://kommun-monitor.se/#meeting-2025-08-27_kf"
+  }
+}

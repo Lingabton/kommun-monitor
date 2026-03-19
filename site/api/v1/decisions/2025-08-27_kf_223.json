@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-27_kf_223",
+  "headline": "Mer pengar till välfärdspersonal avslås",
+  "summary": "V ville se över ledningsorganisationen. Brett stöd men avslogs.",
+  "detail": "27 ledamöter reserverade sig.\n\nAlla utom S, M, C ville bifalla.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 223",
+  "tags": [
+    "välfärd",
+    "personal",
+    "löner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "SD",
+      "ÖrP",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslås"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-08-27_kf",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://orebro.se/test4.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_223.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-08-27_kf.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_223/"
+  }
+}

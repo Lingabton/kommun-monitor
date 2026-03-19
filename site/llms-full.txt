@@ -1,0 +1,117 @@
+# Kommun Monitor — Full Content
+# Generated: 2026-03-19T12:55:56.319569+00:00
+# Source: https://kommun-monitor.se
+
+## About
+
+Kommun Monitor is a Swedish civic tech platform that uses AI to summarize
+municipal decisions in Örebro kommun. All data comes from public meeting
+protocols published by the municipality under Swedish freedom of information
+law (offentlighetsprincipen).
+
+## All Decisions
+
+### Kommunfullmäktige — 2025-12-10
+
+#### 202 socialtjänstbeslut väntar
+Category: politik | Date: 2025-12-10 ⚡ Contested
+Summary: Antalet ej verkställda SoL/LSS-beslut ökar.
+Voted YES: S, M, C
+Voted NO: V, ÖrP, KD
+Result: V:s tillägg avslogs
+
+#### Motion om farligt gods genom Örebro avslås
+Category: infrastruktur | Date: 2025-12-10 ⚡ Contested
+Summary: SD ville pressa Trafikverket. 21 reserverade sig.
+Voted YES: S, M, C, V
+Voted NO: SD, ÖrP, L, KD
+Result: Avslås
+
+#### Cirkulationsbibliotek röstades ned 39-22
+Category: skola | Date: 2025-12-10 ⚡ Contested
+Summary: L ville ha klassuppsättningar till skolor.
+Voted YES: S, M, C, V
+Voted NO: SD, ÖrP, L, KD, MP
+Result: Avslås 39-22 (votering)
+
+#### Nämndreglementen revideras
+Category: regler | Date: 2025-12-10 
+Summary: Ny socialtjänstlag kräver uppdatering.
+Voted YES: S, M, C, L, KD, V, SD, ÖrP, MP
+Result: Enhälligt
+
+### Kommunstyrelsen — 2025-10-14
+
+#### Negativ budgetavvikelse på 210 MSEK
+Category: budget | Date: 2025-10-14 ⚡ Contested
+Summary: Delårsrapporten visar kraftigt underskott.
+Voted YES: S, M, C, L
+Voted NO: SD
+Result: Bifall
+
+#### Motion om kärnkraft (SMR) avslås
+Category: miljö | Date: 2025-10-14 ⚡ Contested
+Summary: SD ville peka ut områden för SMR.
+Voted YES: S, M, C, L, V, KD, ÖrP, MP
+Voted NO: SD
+Result: Avslås
+
+### Kommunfullmäktige — 2025-09-24
+
+#### Eyrafältet-fastighet säljs för 63 MSEK
+Category: bygg | Date: 2025-09-24 ⚡ Contested
+Summary: Fastighet som köptes 2024 säljs vidare till Norrpalatset.
+Voted YES: S, M, C, L, KD, SD, MP
+Voted NO: ÖrP
+Result: Bifall
+
+### Kommunfullmäktige — 2025-08-27
+
+#### Naturreservat Garphytteklint bildas
+Category: miljö | Date: 2025-08-27 ⚡ Contested
+Summary: Nytt naturreservat med skötselplan.
+Voted YES: S, M, C, L, KD, V, MP
+Voted NO: SD, ÖrP
+Result: Bifall
+
+#### Maxtak barngrupper i förskolan avslås
+Category: skola | Date: 2025-08-27 ⚡ Contested
+Summary: V ville ha max 12 barn per grupp. Röstades ned.
+Voted YES: S, M, C
+Voted NO: V, SD, KD, MP, ÖrP, L
+Result: Avslås (votering)
+
+#### Förskolan Igelkotten stängs
+Category: skola | Date: 2025-08-27 ⚡ Contested
+Summary: Godkännande för huvudmannen återkallas.
+Voted YES: S, M, C, L, KD
+Voted NO: SD, V, ÖrP, MP
+Result: Bifall (votering)
+
+#### Mer pengar till välfärdspersonal avslås
+Category: budget | Date: 2025-08-27 ⚡ Contested
+Summary: V ville se över ledningsorganisationen. Brett stöd men avslogs.
+Voted YES: S, M, C
+Voted NO: V, SD, ÖrP, L, KD, MP
+Result: Avslås
+
+### Kommunstyrelsen — 2024-04-09
+
+#### Kommunen köper sex fastigheter vid Eyrafältet
+Category: bygg | Date: 2024-04-09 ⚡ Contested
+Summary: 154 MSEK för Eyrafältets framtid.
+Voted YES: S, M, C, L, KD
+Voted NO: ÖrP
+Result: Bifall
+
+#### V kräver flygplatsavveckling
+Category: politik | Date: 2024-04-09 ⚡ Contested
+Summary: Yrkade i två ärenden. Avslogs.
+Voted YES: S, M, C, L, KD, ÖrP
+Result: V:s tillägg avslogs
+
+#### Regler för uteserveringar byter ägare
+Category: regler | Date: 2024-04-09 
+Summary: Sju styrdokument överförs till KS.
+Voted YES: S, M, C, L, KD, V, SD, ÖrP
+Result: Enhälligt

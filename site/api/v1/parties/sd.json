@@ -1,0 +1,149 @@
+{
+  "name": "Sverigedemokraterna",
+  "short": "SD",
+  "color": "#dddd00",
+  "text_color": "#333",
+  "position": "Opposition",
+  "ideology": "Socialkonservatism",
+  "votes_for": 3,
+  "votes_against": 8,
+  "votes_abstained": 0,
+  "total_votes": 11,
+  "contested_votes": [
+    {
+      "id": "2025-12-10_kf_390",
+      "headline": "Motion om farligt gods genom Örebro avslås",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2025-12-10_kf_395",
+      "headline": "Cirkulationsbibliotek röstades ned 39-22",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2025-10-14_ks_196",
+      "headline": "Negativ budgetavvikelse på 210 MSEK",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "2025-10-14_ks_203",
+      "headline": "Motion om kärnkraft (SMR) avslås",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "2025-08-27_kf_217",
+      "headline": "Naturreservat Garphytteklint bildas",
+      "date": "2025-08-27"
+    },
+    {
+      "id": "2025-08-27_kf_221",
+      "headline": "Maxtak barngrupper i förskolan avslås",
+      "date": "2025-08-27"
+    },
+    {
+      "id": "2025-08-27_kf_222",
+      "headline": "Förskolan Igelkotten stängs",
+      "date": "2025-08-27"
+    },
+    {
+      "id": "2025-08-27_kf_223",
+      "headline": "Mer pengar till välfärdspersonal avslås",
+      "date": "2025-08-27"
+    }
+  ],
+  "key_issues": {
+    "infrastruktur": 1,
+    "skola": 3,
+    "regler": 2,
+    "budget": 2,
+    "miljö": 2,
+    "bygg": 1
+  },
+  "motions_filed": [
+    {
+      "title": "Skydda barnen mot pedofiler",
+      "status": "Remitterad till KS",
+      "date": "2025-08-27"
+    }
+  ],
+  "agreement_with": {
+    "L": 7,
+    "KD": 7,
+    "ÖrP": 8,
+    "MP": 6,
+    "S": 3,
+    "M": 3,
+    "C": 3,
+    "V": 5
+  },
+  "disagreement_with": {
+    "M": 8,
+    "C": 8,
+    "S": 8,
+    "V": 4,
+    "L": 4,
+    "KD": 3,
+    "ÖrP": 2,
+    "MP": 2
+  },
+  "for_pct": 27,
+  "against_pct": 73,
+  "abstained_pct": 0,
+  "activity_score": 65,
+  "top_categories": [
+    [
+      "skola",
+      3
+    ],
+    [
+      "regler",
+      2
+    ],
+    [
+      "budget",
+      2
+    ],
+    [
+      "miljö",
+      2
+    ],
+    [
+      "infrastruktur",
+      1
+    ]
+  ],
+  "top_allies": [
+    [
+      "ÖrP",
+      8
+    ],
+    [
+      "L",
+      7
+    ],
+    [
+      "KD",
+      7
+    ]
+  ],
+  "top_opponents": [
+    [
+      "M",
+      8
+    ],
+    [
+      "C",
+      8
+    ],
+    [
+      "S",
+      8
+    ]
+  ],
+  "abbr": "SD",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/parties/sd.json",
+    "web_url": "https://kommun-monitor.se/parti/sd/",
+    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+  }
+}

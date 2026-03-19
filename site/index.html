@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kommun Monitor — Vad beslutade Örebro kommun?</title>
+<meta name="description" content="AI-sammanfattningar av beslut från Örebro kommun. Sök bland alla kommunala protokoll — bygg, skola, budget, miljö och mer.">
+<meta property="og:title" content="Kommun Monitor — Örebro">
+<meta property="og:description" content="Sök bland alla beslut från Örebro kommun. AI-sammanfattningar av kommunala protokoll.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="sv_SE">
+<meta name="twitter:card" content="summary">
+<link rel="canonical" href="https://kommunmonitor.se">
+<link rel="alternate" type="application/rss+xml" title="Kommun Monitor RSS" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+::selection{background:#1e3a5f;color:#fff}
+body{font-family:'DM Sans',sans-serif;background:#f8fafc;color:#1e293b;line-height:1.5}
+a{color:#1e3a5f;text-decoration:none}
+.wrap{max-width:740px;margin:0 auto;padding:0 20px}
+header{background:linear-gradient(135deg,#0f2439,#1e3a5f 60%,#2d5a87);color:#fff;padding:32px 20px 24px;text-align:center}
+header h1{font-family:'DM Serif Display',serif;font-size:26px;font-weight:400;margin:0}
+header .sub{font-size:13px;opacity:.7;margin-top:6px}
+header .brand{font-size:11px;letter-spacing:3px;text-transform:uppercase;opacity:.5;margin-bottom:8px}
+
+.search-box{position:relative;max-width:560px;margin:18px auto 0}
+.search-box input{width:100%;padding:12px 18px 12px 42px;font-size:15px;border:2px solid #e2e8f0;border-radius:10px;background:#fff;outline:none;font-family:inherit;transition:border-color .2s}
+.search-box input:focus{border-color:#1e3a5f}
+.search-box .icon{position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:16px;opacity:.35}
+.search-box .clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);background:#f1f5f9;border:none;border-radius:50%;width:24px;height:24px;cursor:pointer;font-size:12px;color:#64748b;display:none}
+
+.filters{display:flex;flex-wrap:wrap;gap:5px;justify-content:center;margin:14px 0 6px}
+.pill{padding:3px 11px;border-radius:14px;border:1.5px solid #e2e8f0;font-size:11.5px;font-weight:500;cursor:pointer;font-family:inherit;background:#fff;color:#64748b;transition:all .15s}
+.pill.on{color:#fff}
+.party-row{display:flex;flex-wrap:wrap;gap:4px;justify-content:center;margin:6px 0}
+.party-row .label{font-size:11px;color:#94a3b8;align-self:center;margin-right:3px}
+.pbadge{padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;cursor:pointer;border:1px solid #e2e8f0;background:#f1f5f9;color:#64748b;transition:all .15s}
+.pbadge.on{border:none}
+.year-row{display:flex;gap:5px;justify-content:center;margin:6px 0 10px}
+.stats{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;padding:6px 0;font-size:12.5px;color:#94a3b8}
+.stats strong{color:#1e293b}
+
+.meeting{margin-bottom:28px}
+.meeting-header{display:flex;flex-wrap:wrap;align-items:center;gap:7px;margin-bottom:10px;padding-bottom:7px;border-bottom:1px solid #f1f5f9}
+.meeting-badge{background:#1e3a5f;color:#fff;font-size:9.5px;font-weight:700;padding:3px 8px;border-radius:4px;letter-spacing:.5px}
+.meeting-date{font-size:12.5px;color:#94a3b8}
+.meeting-hl{font-size:12.5px;color:#64748b;font-style:italic}
+
+.card{background:#fff;border-radius:10px;box-shadow:0 1px 3px rgba(0,0,0,.04);margin-bottom:10px;overflow:hidden;transition:box-shadow .2s;border-left:4px solid #94a3b8}
+.card:hover{box-shadow:0 4px 12px rgba(0,0,0,.08)}
+.card.hi{box-shadow:0 0 0 2px rgba(30,58,95,.25),0 4px 16px rgba(0,0,0,.1)}
+.card-head{padding:14px 18px;cursor:pointer;display:flex;align-items:flex-start;gap:9px}
+.card-emoji{font-size:18px;line-height:1;flex-shrink:0}
+.card-body{flex:1;min-width:0}
+.card-title-row{display:flex;flex-wrap:wrap;align-items:center;gap:5px;margin-bottom:2px}
+.card h3{font-size:14px;font-weight:600;line-height:1.3}
+.badge{font-size:9px;font-weight:700;padding:2px 6px;border-radius:8px;white-space:nowrap}
+.badge-contested{background:#fef2f2;color:#dc2626}
+.badge-unanimous{background:#f0fdf4;color:#16a34a}
+.badge-vote{background:#fef3c7;color:#d97706}
+.card-summary{font-size:12.5px;color:#64748b;line-height:1.5;margin-top:2px}
+.card-meta{display:flex;flex-wrap:wrap;gap:5px;font-size:10.5px;color:#a1a1aa;margin-top:4px}
+.card-arrow{font-size:10px;color:#cbd5e1;transition:transform .2s;margin-top:3px;flex-shrink:0}
+.card-arrow.open{transform:rotate(180deg)}
+
+.card-detail{padding:0 18px 16px 45px;border-top:1px solid #f1f5f9;display:none}
+.card-detail.open{display:block}
+.card-detail p{font-size:13.5px;line-height:1.7;color:#374151;margin-top:10px}
+.card-detail p:first-child{margin-top:12px}
+
+.voting{margin:12px 0 4px;font-size:12px}
+.voting-label{font-size:11px;font-weight:700;color:#64748b;letter-spacing:.4px;margin-bottom:6px}
+.voting-row{display:flex;gap:14px;flex-wrap:wrap}
+.voting-group{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+.vote-badge{display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;padding:2px 7px;border-radius:3px;color:#fff}
+
+.quote-btn,.share-btn{background:none;border:1px solid #e2e8f0;border-radius:6px;padding:3px 10px;font-size:11px;color:#64748b;cursor:pointer;font-family:inherit;display:inline-flex;align-items:center;gap:4px}
+.quote-block{margin-top:6px;padding:10px 14px;background:#fafaf9;border-left:3px solid #d4d4d4;border-radius:0 6px 6px 0;font-size:13px;font-style:italic;color:#57534e;line-height:1.6;display:none}
+.quote-block.open{display:block}
+.quote-src{font-style:normal;font-size:11px;color:#a8a29e;margin-top:4px}
+
+.timeline{margin-top:12px;padding:10px 14px;background:#f0f9ff;border-radius:6px;border:1px solid #bae6fd;display:none}
+.timeline.has-items{display:block}
+.timeline-label{font-size:11px;font-weight:700;color:#0369a1;margin-bottom:6px}
+.timeline a{display:block;font-size:12px;color:#0c4a6e;padding:3px 0}
+
+.actions{margin-top:12px;display:flex;flex-wrap:wrap;gap:6px}
+.proto-link{display:inline-flex;align-items:center;gap:4px;padding:4px 12px;border-radius:6px;background:#1e3a5f;color:#fff;font-size:11px;font-weight:500}
+
+.motions{background:#fffbeb;border-radius:8px;padding:10px 14px;margin-top:6px;font-size:12.5px}
+.motions strong{font-size:11px}
+.motions .item{margin-top:4px;color:#78716c}
+
+.empty{text-align:center;padding:40px 20px;color:#94a3b8}
+.empty .icon{font-size:40px;margin-bottom:10px}
+.empty button{padding:6px 16px;border-radius:8px;border:1px solid #e2e8f0;background:#fff;cursor:pointer;font-size:12px;font-family:inherit;margin-top:12px}
+
+footer{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-size:11px;color:#94a3b8}
+
+.loading{text-align:center;padding:60px 20px;color:#94a3b8}
+.loading .spinner{width:32px;height:32px;border:3px solid #e2e8f0;border-top-color:#1e3a5f;border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes fadeIn{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
+</style>
+</head>
+<body>
+
+<header>
+<div class="wrap">
+<div class="brand">🏛️ KOMMUN MONITOR</div>
+<h1>Vad beslutade Örebro kommun?</h1>
+<div class="sub">AI-sammanfattningar av kommunala protokoll · Klicka för detaljer · Dela med grannar</div>
+</div>
+</header>
+
+<div class="wrap" id="controls">
+<div class="search-box">
+<span class="icon">🔍</span>
+<input type="text" id="search" placeholder="Sök beslut, plats, parti, ämne...">
+<button class="clear" id="searchClear" onclick="clearSearch()">✕</button>
+</div>
+<div class="filters" id="catFilters"></div>
+<div class="party-row" id="partyFilters"></div>
+<div class="year-row" id="yearFilters"></div>
+<div class="stats" id="stats"></div>
+</div>
+
+<main class="wrap" id="results">
+<div class="loading"><div class="spinner"></div>Laddar beslut...</div>
+</main>
+
+<div class="wrap" style="padding-bottom:20px">
+<div style="margin:20px 0;padding:28px;background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:14px;text-align:center">
+<h3 style="font-size:18px;margin-bottom:6px">📧 Få nya beslut direkt i mejlen</h3>
+<p style="font-size:13px;color:#64748b;margin-bottom:14px">Vi sammanfattar kommunens beslut åt dig — gratis, en gång i månaden.</p>
+<div style="display:flex;gap:8px;max-width:420px;margin:0 auto;flex-wrap:wrap;justify-content:center">
+<input type="email" id="subEmail" placeholder="din@mejl.se" style="flex:1;min-width:200px;padding:10px 14px;border:2px solid #bae6fd;border-radius:8px;font-size:14px;font-family:inherit;outline:none;background:#fff">
+<button onclick="subscribe()" style="padding:10px 22px;background:#1e3a5f;color:#fff;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit">Prenumerera</button>
+</div>
+<p style="font-size:11px;color:#94a3b8;margin-top:8px">Inga spam. Avsluta när du vill.</p>
+</div>
+</div>
+
+<footer>
+<p>Kommun Monitor sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid originalprotokollet.</p>
+<p style="margin-top:4px">Källa: <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">orebro.se</a> · <a href="/feed.xml">RSS-flöde</a></p>
+</footer>
+
+<script>
+// ═══ CONFIG ═══
+const CATS = {
+  bygg:{l:"Bygg",e:"🏗️",c:"#d97706"},infrastruktur:{l:"Infrastruktur",e:"🛣️",c:"#4f46e5"},
+  skola:{l:"Skola",e:"🏫",c:"#059669"},budget:{l:"Budget",e:"💰",c:"#2563eb"},
+  "miljö":{l:"Miljö",e:"🌿",c:"#16a34a"},miljo:{l:"Miljö",e:"🌿",c:"#16a34a"},
+  trygghet:{l:"Trygghet",e:"🛡️",c:"#dc2626"},kultur:{l:"Kultur",e:"🎭",c:"#9333ea"},
+  politik:{l:"Politik",e:"⚖️",c:"#475569"},regler:{l:"Regler",e:"📜",c:"#b45309"},
+  "övrigt":{l:"Övrigt",e:"📋",c:"#94a3b8"},ovrigt:{l:"Övrigt",e:"📋",c:"#94a3b8"},
+};
+const PARTIES = ["S","M","C","L","KD","V","SD","ÖrP","MP"];
+const PC = {S:"#e8112d",M:"#52bdec",C:"#009933",L:"#006ab3",KD:"#231977",V:"#da291c",SD:"#dddd00","ÖrP":"#f47920",MP:"#83cf39"};
+const PN = {S:"Socialdemokraterna",M:"Moderaterna",C:"Centerpartiet",L:"Liberalerna",KD:"Kristdemokraterna",V:"Vänsterpartiet",SD:"Sverigedemokraterna","ÖrP":"Örebropartiet",MP:"Miljöpartiet"};
+
+let DATA = {meetings:[]};
+let state = {query:"",cat:null,party:null,year:"alla"};
+
+// ═══ LOAD DATA ═══
+async function loadData() {
+  try {
+    const r = await fetch("data.json");
+    DATA = await r.json();
+  } catch(e) {
+    // Fallback: try loading from sample
+    console.warn("No data.json found, showing empty state");
+    DATA = {meetings:[], total_meetings:0, total_decisions:0};
+  }
+  init();
+}
+
+// ═══ FORMATTING ═══
+const MONTHS = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+const FMONTHS = ["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"];
+function fmtD(s){const d=new Date(s+"T00:00:00");return`${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}`}
+function fullD(s){const d=new Date(s+"T00:00:00");return`${d.getDate()} ${FMONTHS[d.getMonth()]} ${d.getFullYear()}`}
+
+// ═══ INIT ═══
+function init() {
+  buildFilters();
+  document.getElementById("search").addEventListener("input", e => {
+    state.query = e.target.value;
+    document.getElementById("searchClear").style.display = state.query ? "block" : "none";
+    render();
+  });
+  // Hash routing
+  if(location.hash.slice(1)) setTimeout(() => scrollToDecision(location.hash.slice(1)), 300);
+  window.addEventListener("hashchange", () => scrollToDecision(location.hash.slice(1)));
+  // Keyboard shortcut
+  document.addEventListener("keydown", e => {
+    if(e.key==="/"&&document.activeElement.tagName!=="INPUT"){e.preventDefault();document.getElementById("search").focus()}
+  });
+  render();
+}
+
+function clearSearch(){state.query="";document.getElementById("search").value="";document.getElementById("searchClear").style.display="none";render()}
+
+// ═══ FILTERS ═══
+function buildFilters() {
+  // Categories
+  let h = `<button class="pill on" style="border-color:#1e3a5f;background:#1e3a5f" onclick="setCat(null)">Alla</button>`;
+  for(const[k,v] of Object.entries(CATS)){
+    if(k==="miljo"||k==="ovrigt") continue; // skip ascii dupes
+    h+=`<button class="pill" data-cat="${k}" onclick="setCat('${k}')">${v.e} ${v.l}</button>`;
+  }
+  document.getElementById("catFilters").innerHTML=h;
+
+  // Parties
+  let p=`<span class="label">Parti:</span>`;
+  PARTIES.forEach(x=>{p+=`<span class="pbadge" data-party="${x}" onclick="setParty('${x}')">${x}</span>`});
+  document.getElementById("partyFilters").innerHTML=p;
+
+  // Years
+  const yrs=[...new Set(DATA.meetings.map(m=>m.date.slice(0,4)))].sort().reverse();
+  let y=`<span class="label" style="font-size:11px;color:#94a3b8;margin-right:3px">År:</span>`;
+  y+=`<button class="pill on" style="border-color:#475569;background:#475569" data-year="alla" onclick="setYear('alla')">Alla</button>`;
+  yrs.forEach(yr=>{y+=`<button class="pill" data-year="${yr}" onclick="setYear('${yr}')">${yr}</button>`});
+  document.getElementById("yearFilters").innerHTML=y;
+}
+
+function setCat(c){state.cat=c;updatePills();render()}
+function setParty(p){state.party=state.party===p?null:p;updatePills();render()}
+function setYear(y){state.year=y;updatePills();render()}
+
+function updatePills(){
+  document.querySelectorAll("#catFilters .pill").forEach(el=>{
+    const c=el.dataset.cat||null;
+    const on=c===state.cat||(!c&&!state.cat);
+    const color=c?CATS[c]?.c:"#1e3a5f";
+    el.className="pill"+(on?" on":"");
+    el.style.borderColor=on?color:"#e2e8f0";
+    el.style.background=on?color:"#fff";
+    el.style.color=on?"#fff":"#64748b";
+  });
+  document.querySelectorAll("#partyFilters .pbadge").forEach(el=>{
+    const p=el.dataset.party;
+    const on=p===state.party;
+    el.className="pbadge"+(on?" on":"");
+    el.style.background=on?PC[p]:"#f1f5f9";
+    el.style.color=on?(p==="SD"?"#333":"#fff"):"#64748b";
+    el.style.border=on?"none":"1px solid #e2e8f0";
+  });
+  document.querySelectorAll("#yearFilters .pill").forEach(el=>{
+    const y=el.dataset.year;
+    const on=y===state.year;
+    el.className="pill"+(on?" on":"");
+    el.style.borderColor=on?"#475569":"#e2e8f0";
+    el.style.background=on?"#475569":"#fff";
+    el.style.color=on?"#fff":"#64748b";
+  });
+}
+
+// ═══ FILTERING ═══
+function filterData(){
+  return DATA.meetings.map(m=>{
+    if(state.year!=="alla"&&!m.date.startsWith(state.year)) return{...m,decisions:[]};
+    const decs=m.decisions.filter(d=>{
+      if(state.cat&&d.category!==state.cat) return false;
+      if(state.party){
+        const v=d.voting;
+        if(!v) return false;
+        if(!(v.for?.includes(state.party)||v.against?.includes(state.party)||v.abstained?.includes(state.party))) return false;
+      }
+      if(state.query){
+        const q=state.query.toLowerCase();
+        const hay=[d.headline,d.summary,d.detail||"",d.location||"",...(d.tags||[])].join(" ").toLowerCase();
+        if(!hay.includes(q)) return false;
+      }
+      return true;
+    });
+    return{...m,decisions:decs};
+  }).filter(m=>m.decisions.length>0);
+}
+
+// ═══ RENDER ═══
+function render(){
+  const fil=filterData();
+  const tot=fil.reduce((s,m)=>s+m.decisions.length,0);
+  const allTot=DATA.meetings.reduce((s,m)=>s+m.decisions.length,0);
+
+  // Stats
+  let st=`Visar <strong>${tot}</strong> av ${allTot} beslut`;
+  if(state.party) st+=` · Parti: <strong style="color:${PC[state.party]}">${PN[state.party]}</strong>`;
+  document.getElementById("stats").innerHTML=st;
+
+  // Results
+  const el=document.getElementById("results");
+  if(!fil.length){
+    el.innerHTML=`<div class="empty"><div class="icon">🔍</div><p>Inga beslut matchade.</p><button onclick="clearAll()">Visa alla</button></div>`;
+    return;
+  }
+  el.innerHTML=fil.map(m=>renderMeeting(m)).join("");
+}
+
+function clearAll(){state={query:"",cat:null,party:null,year:"alla"};document.getElementById("search").value="";document.getElementById("searchClear").style.display="none";updatePills();render()}
+
+function renderMeeting(m){
+  let h=`<div class="meeting"><div class="meeting-header">
+    <span class="meeting-badge">${m.meeting_type.toUpperCase()}</span>
+    <span class="meeting-date">${fullD(m.date)}</span>
+    <span class="meeting-hl">${m.summary_headline}</span></div>`;
+  h+=m.decisions.map(d=>renderCard(d,m)).join("");
+  if(m.motions_of_interest?.length){
+    h+=`<div class="motions"><strong>📝 Motioner & interpellationer:</strong>`;
+    m.motions_of_interest.forEach(x=>{h+=`<div class="item"><strong>${x.title}</strong> (${x.party}) — <em>${x.status}</em></div>`});
+    h+=`</div>`;
+  }
+  return h+`</div>`;
+}
+
+function renderCard(d,m){
+  const cat=CATS[d.category]||CATS["övrigt"]||{e:"📋",c:"#94a3b8"};
+  let badges="";
+  if(d.contested) badges+=`<span class="badge badge-contested">⚡ OMSTRITT</span>`;
+  if(d.voting?.result==="Enhälligt") badges+=`<span class="badge badge-unanimous">✓ ENHÄLLIGT</span>`;
+  if(d.voting?.result?.includes("votering")) badges+=`<span class="badge badge-vote">🗳️ VOTERING</span>`;
+
+  let voting="";
+  if(d.voting){
+    const v=d.voting;
+    let groups="";
+    if(v.for?.length) groups+=`<div class="voting-group"><span style="color:#16a34a;font-weight:700">JA:</span>${v.for.map(p=>`<span class="vote-badge" style="background:${PC[p]||'#999'};${p==='SD'?'color:#333;border:1px solid #ccc':''}">${p}</span>`).join("")}</div>`;
+    if(v.against?.length) groups+=`<div class="voting-group"><span style="color:#dc2626;font-weight:700">NEJ:</span>${v.against.map(p=>`<span class="vote-badge" style="background:${PC[p]||'#999'};${p==='SD'?'color:#333;border:1px solid #ccc':''}">${p}</span>`).join("")}</div>`;
+    if(v.abstained?.length) groups+=`<div class="voting-group"><span style="color:#94a3b8;font-weight:700">AVSTOD:</span>${v.abstained.map(p=>`<span class="vote-badge" style="background:${PC[p]||'#999'};${p==='SD'?'color:#333;border:1px solid #ccc':''}">${p}</span>`).join("")}</div>`;
+    voting=`<div class="voting"><div class="voting-label">RÖSTNING: ${v.result}</div><div class="voting-row">${groups}</div></div>`;
+  }
+
+  // Related decisions
+  let timeline="";
+  if(d.tags?.length){
+    const related=[];
+    DATA.meetings.forEach(om=>om.decisions.forEach(od=>{
+      if(od.id!==d.id&&od.tags?.some(t=>d.tags.includes(t)))
+        related.push({...od,md:om.date,mt:om.meeting_type});
+    }));
+    if(related.length){
+      timeline=`<div class="timeline has-items"><div class="timeline-label">🔗 RELATERADE BESLUT</div>${related.map(r=>`<a href="#${r.id}"><span style="color:#7dd3fc">${fmtD(r.md)}</span> · ${r.mt} · ${r.headline}</a>`).join("")}</div>`;
+    }
+  }
+
+  const detail=(d.detail||"").split("\n\n").map(p=>`<p>${p}</p>`).join("");
+
+  return`<div class="card" id="${d.id}" style="border-left-color:${cat.c}">
+<div class="card-head" onclick="toggleCard('${d.id}')">
+<span class="card-emoji">${cat.e}</span>
+<div class="card-body">
+<div class="card-title-row"><h3>${d.headline}</h3>${badges}</div>
+<div class="card-summary">${d.summary}</div>
+<div class="card-meta">
+<span>${m.meeting_type}</span><span>·</span><span>${fmtD(m.date)}</span>
+${d.paragraph_ref?`<span>·</span><span>${d.paragraph_ref}</span>`:""}
+${d.location?`<span>·</span><span>📍 ${d.location}</span>`:""}
+</div></div>
+<span class="card-arrow" id="arrow-${d.id}">▼</span>
+</div>
+<div class="card-detail" id="detail-${d.id}">
+${detail}
+${voting}
+${d.quote?`<div style="margin-top:8px"><button class="quote-btn" onclick="event.stopPropagation();toggleQuote('${d.id}')">📎 Visa citat</button><div class="quote-block" id="quote-${d.id}">"${d.quote}"<div class="quote-src">Källa: <a href="${m.source_url}" target="_blank">Protokoll</a>, ${d.quote_page||""}</div></div></div>`:""}
+${timeline}
+<div class="actions">
+<a href="/beslut/${d.id}/" class="proto-link" style="background:#2d5a87" onclick="event.stopPropagation()">📖 Läs mer</a>
+<a href="${m.source_url}" target="_blank" class="proto-link" onclick="event.stopPropagation()">📄 Protokoll${d.paragraph_ref?` (${d.paragraph_ref})`:""}</a>
+<button class="share-btn" onclick="event.stopPropagation();shareDecision('${d.id}','${d.headline.replace(/'/g,"\\'")}')">🔗 Dela</button>
+</div>
+</div></div>`;
+}
+
+// ═══ INTERACTIONS ═══
+function toggleCard(id){
+  const det=document.getElementById("detail-"+id);
+  const arr=document.getElementById("arrow-"+id);
+  const open=det.classList.toggle("open");
+  arr.classList.toggle("open",open);
+}
+
+function toggleQuote(id){
+  document.getElementById("quote-"+id).classList.toggle("open");
+}
+
+async function shareDecision(id,hl){
+  const url=location.origin+"/beslut/"+id+"/";
+  if(navigator.share){try{await navigator.share({title:hl,url})}catch{}}
+  else{navigator.clipboard.writeText(url);
+    const btn=event.target;btn.textContent="✓ Kopierad!";setTimeout(()=>btn.textContent="🔗 Dela",2000)}
+}
+
+function subscribe(){
+  const email=document.getElementById("subEmail").value;
+  if(!email||!email.includes("@")){alert("Ange en giltig mejladress");return}
+  // TODO: Connect to Buttondown API
+  // fetch("https://api.buttondown.email/v1/subscribers",{method:"POST",headers:{"Authorization":"Token YOUR_KEY","Content-Type":"application/json"},body:JSON.stringify({email})})
+  alert("Tack! Du får ett mejl när nästa sammanfattning publiceras.\n\n(Prenumerationen är inte kopplad ännu — spara mejlen "+email+" manuellt.)");
+  document.getElementById("subEmail").value="";
+}
+
+function scrollToDecision(id){
+  if(!id)return;
+  const el=document.getElementById(id);
+  if(el){
+    el.classList.add("hi");
+    const det=document.getElementById("detail-"+id);
+    const arr=document.getElementById("arrow-"+id);
+    if(det)det.classList.add("open");
+    if(arr)arr.classList.add("open");
+    setTimeout(()=>el.scrollIntoView({behavior:"smooth",block:"center"}),100);
+  }
+}
+
+// ═══ START ═══
+loadData();
+</script>
+</body>
+</html>

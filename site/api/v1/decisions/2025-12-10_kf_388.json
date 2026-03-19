@@ -1,0 +1,44 @@
+{
+  "id": "2025-12-10_kf_388",
+  "headline": "Nämndreglementen revideras",
+  "summary": "Ny socialtjänstlag kräver uppdatering.",
+  "detail": "Budget- och skuldrådgivning flyttas.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 388",
+  "tags": [
+    "socialtjänstlagen",
+    "reglemente"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": null,
+  "quote_page": null,
+  "meeting": {
+    "id": "2025-12-10_kf",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://orebro.se/test.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_388.json",
+    "meeting": "https://kommun-monitor.se/api/v1/meetings/2025-12-10_kf.json",
+    "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_388/"
+  }
+}

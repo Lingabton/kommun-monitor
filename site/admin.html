@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kommun Monitor — Admin</title>
+<meta name="robots" content="noindex,nofollow">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Mono&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'DM Sans',sans-serif;background:#0f172a;color:#e2e8f0;min-height:100vh}
+a{color:#60a5fa;text-decoration:none}
+code{font-family:'DM Mono',monospace;background:#1e293b;padding:2px 6px;border-radius:4px;font-size:13px}
+
+/* Login */
+.login-wrap{display:flex;align-items:center;justify-content:center;min-height:100vh}
+.login-box{background:#1e293b;padding:32px;border-radius:16px;width:340px;text-align:center}
+.login-box h1{font-size:20px;margin-bottom:20px}
+.login-box input{width:100%;padding:10px 14px;border:2px solid #334155;border-radius:8px;background:#0f172a;color:#e2e8f0;font-size:14px;font-family:inherit;outline:none;margin-bottom:12px}
+.login-box input:focus{border-color:#60a5fa}
+.login-box button{width:100%;padding:10px;background:#2563eb;color:#fff;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+
+/* Layout */
+.app{display:none}
+header{background:#1e293b;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #334155}
+header h1{font-size:16px;display:flex;align-items:center;gap:8px}
+header .actions{display:flex;gap:8px}
+header button{padding:6px 14px;border-radius:6px;border:1px solid #334155;background:#0f172a;color:#94a3b8;font-size:12px;cursor:pointer;font-family:inherit}
+header button:hover{background:#334155;color:#fff}
+header button.primary{background:#2563eb;border-color:#2563eb;color:#fff}
+
+.main{display:grid;grid-template-columns:280px 1fr;min-height:calc(100vh - 52px)}
+.sidebar{background:#1e293b;padding:20px;border-right:1px solid #334155;overflow-y:auto}
+.content{padding:24px;overflow-y:auto}
+
+/* Stat cards */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:24px}
+.stat{background:#1e293b;border-radius:10px;padding:16px}
+.stat .label{font-size:11px;color:#64748b;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px}
+.stat .value{font-size:28px;font-weight:700}
+.stat .sub{font-size:11px;color:#64748b;margin-top:2px}
+.stat.green .value{color:#22c55e}
+.stat.blue .value{color:#3b82f6}
+.stat.amber .value{color:#f59e0b}
+.stat.red .value{color:#ef4444}
+
+/* Sidebar nav */
+.nav-item{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:8px;cursor:pointer;font-size:13px;color:#94a3b8;transition:all .15s;margin-bottom:2px}
+.nav-item:hover,.nav-item.active{background:#334155;color:#fff}
+.nav-item .emoji{font-size:16px;width:24px;text-align:center}
+.nav-item .badge{margin-left:auto;background:#2563eb;color:#fff;font-size:10px;font-weight:700;padding:2px 7px;border-radius:10px}
+.nav-item .badge.warn{background:#f59e0b}
+.nav-item .badge.red{background:#ef4444}
+
+/* Tables */
+.table-wrap{background:#1e293b;border-radius:10px;overflow:hidden}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:10px 14px;background:#0f172a;color:#64748b;font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:0.5px}
+td{padding:10px 14px;border-top:1px solid #1e293b}
+tr:hover td{background:#1e293b80}
+.status{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600}
+.status.ok{background:#052e16;color:#22c55e}
+.status.pending{background:#422006;color:#f59e0b}
+.status.error{background:#450a0a;color:#ef4444}
+.status.draft{background:#1e1b4b;color:#818cf8}
+
+/* Protocol detail */
+.proto-detail{background:#1e293b;border-radius:10px;padding:20px;margin-top:16px}
+.proto-detail h3{font-size:15px;margin-bottom:12px}
+.decision-row{padding:12px 0;border-top:1px solid #334155;display:flex;align-items:flex-start;gap:12px}
+.decision-row:first-child{border-top:none}
+.decision-check{width:20px;height:20px;border:2px solid #334155;border-radius:4px;cursor:pointer;flex-shrink:0;margin-top:2px;display:flex;align-items:center;justify-content:center;font-size:12px;color:#22c55e;transition:all .15s}
+.decision-check.checked{border-color:#22c55e;background:#052e16}
+.decision-text{flex:1}
+.decision-text h4{font-size:13px;font-weight:600;margin-bottom:3px}
+.decision-text p{font-size:12px;color:#94a3b8;line-height:1.4}
+.decision-actions{display:flex;gap:6px;margin-top:6px}
+.decision-actions button{padding:3px 10px;border-radius:4px;border:1px solid #334155;background:#0f172a;color:#94a3b8;font-size:11px;cursor:pointer;font-family:inherit}
+.decision-actions button:hover{background:#334155;color:#fff}
+.decision-actions button.approve{border-color:#22c55e;color:#22c55e}
+.decision-actions button.approve:hover{background:#052e16}
+
+/* Log */
+.log{background:#0f172a;border-radius:8px;padding:14px;font-family:'DM Mono',monospace;font-size:12px;line-height:1.6;max-height:400px;overflow-y:auto;color:#94a3b8}
+.log .info{color:#60a5fa}
+.log .ok{color:#22c55e}
+.log .warn{color:#f59e0b}
+.log .err{color:#ef4444}
+
+/* Cost chart */
+.cost-bar{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.cost-bar .label{font-size:12px;color:#94a3b8;width:80px;text-align:right}
+.cost-bar .bar{height:20px;border-radius:4px;min-width:2px;transition:width .3s}
+.cost-bar .val{font-size:11px;color:#64748b}
+
+@media(max-width:768px){
+  .main{grid-template-columns:1fr}
+  .sidebar{display:none}
+  .stats{grid-template-columns:1fr 1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- Login screen -->
+<div class="login-wrap" id="loginScreen">
+<div class="login-box">
+<div style="font-size:32px;margin-bottom:12px">🏛️</div>
+<h1>Kommun Monitor Admin</h1>
+<input type="password" id="loginPass" placeholder="Lösenord" onkeydown="if(event.key==='Enter')login()">
+<button onclick="login()">Logga in</button>
+<p style="font-size:11px;color:#64748b;margin-top:12px">Standard: <code>admin</code></p>
+</div>
+</div>
+
+<!-- Main app -->
+<div class="app" id="app">
+<header>
+<h1><span>🏛️</span> Kommun Monitor Admin</h1>
+<div class="actions">
+<button onclick="showView('overview')">📊 Översikt</button>
+<button onclick="showView('protocols')">📄 Protokoll</button>
+<button onclick="showView('costs')">💰 Kostnader</button>
+<button onclick="showView('log')">📋 Logg</button>
+<button class="primary" onclick="runScraper()">▶️ Kör scraper</button>
+</div>
+</header>
+
+<div class="main">
+<div class="sidebar">
+<div style="font-size:12px;color:#64748b;margin-bottom:12px;padding:0 12px">PROTOKOLL</div>
+<div id="sidebarList"></div>
+<div style="margin-top:20px;font-size:12px;color:#64748b;padding:0 12px">SNABBKOMMANDON</div>
+<div style="padding:8px 12px;font-size:12px;color:#475569">
+<div style="margin-bottom:4px"><code>R</code> Kör scraper</div>
+<div style="margin-bottom:4px"><code>A</code> Godkänn alla</div>
+<div><code>1-9</code> Välj protokoll</div>
+</div>
+</div>
+
+<div class="content" id="content">
+<!-- Dynamic content rendered here -->
+</div>
+</div>
+</div>
+
+<script>
+// ═══ DATA ═══
+// In production, this loads from the actual data files.
+// For demo, we use embedded sample data.
+const PROTOCOLS = [
+  {
+    id: "2025-12-10_kf", date: "2025-12-10", body: "Kommunfullmäktige",
+    status: "published", processedAt: "2026-03-19T08:15:00",
+    decisions: 6, cost: 0.045, tokens: {input: 18200, output: 3100},
+    headline: "202 overkställda beslut, votering om skolbibliotek och debatt om farligt gods",
+    items: [
+      {id:"389",title:"202 socialtjänstbeslut väntar",cat:"politik",contested:true,approved:true},
+      {id:"388",title:"Nämndreglementen revideras efter nya socialtjänstlagen",cat:"regler",contested:false,approved:true},
+      {id:"390",title:"Motion om farligt gods avslås — bred opposition",cat:"infrastruktur",contested:true,approved:true},
+      {id:"395",title:"Cirkulationsbibliotek röstades ned 39-22",cat:"skola",contested:true,approved:true},
+      {id:"394",title:"Medborgarinflytande på arkitektur avslås",cat:"bygg",contested:true,approved:true},
+      {id:"391",title:"Motion om motorgård avslås",cat:"kultur",contested:true,approved:false}
+    ]
+  },
+  {
+    id: "2025-10-14_ks", date: "2025-10-14", body: "Kommunstyrelsen",
+    status: "published", processedAt: "2026-03-19T08:12:00",
+    decisions: 3, cost: 0.032, tokens: {input: 14500, output: 2200},
+    headline: "Budgetavvikelse på -210 MSEK och motion om kärnkraft",
+    items: [
+      {id:"196",title:"Negativ budgetavvikelse på 210 MSEK",cat:"budget",contested:true,approved:true},
+      {id:"203",title:"Motion om kärnkraft (SMR) avslås",cat:"miljö",contested:true,approved:true},
+      {id:"198",title:"Lokalförsörjningsplan 2026-2036",cat:"bygg",contested:false,approved:true}
+    ]
+  },
+  {
+    id: "2025-09-24_kf", date: "2025-09-24", body: "Kommunfullmäktige",
+    status: "published", processedAt: "2026-03-18T07:05:00",
+    decisions: 1, cost: 0.008, tokens: {input: 3200, output: 800},
+    headline: "Eyrafältet-fastighet säljs vidare för 63 MSEK",
+    items: [
+      {id:"266",title:"Eyrafältet-fastighet till Norrpalatset 63 MSEK",cat:"bygg",contested:true,approved:true}
+    ]
+  },
+  {
+    id: "2025-08-27_kf", date: "2025-08-27", body: "Kommunfullmäktige",
+    status: "review", processedAt: "2026-03-19T08:20:00",
+    decisions: 5, cost: 0.052, tokens: {input: 22100, output: 3800},
+    headline: "Förskola, välfärdslöner och stängning av Igelkotten",
+    items: [
+      {id:"221",title:"Maxtak barngrupper i förskolan — avslås efter votering",cat:"skola",contested:true,approved:false},
+      {id:"222",title:"Förskolan Igelkotten stängs",cat:"skola",contested:true,approved:false},
+      {id:"223",title:"Mer pengar till välfärdspersonal — avslås",cat:"budget",contested:true,approved:false},
+      {id:"224",title:"Utmaningsrätt bygg/drift — delvis tillgodosedd",cat:"politik",contested:true,approved:false},
+      {id:"225",title:"Förstärk skolan — V:s motion avslås",cat:"skola",contested:true,approved:false}
+    ]
+  },
+  {
+    id: "2025-02-11_ks", date: "2025-02-11", body: "Kommunstyrelsen",
+    status: "published", processedAt: "2026-03-17T07:02:00",
+    decisions: 2, cost: 0.028, tokens: {input: 12800, output: 1900},
+    headline: "Bostadsförsörjning och dataskydd",
+    items: [
+      {id:"30",title:"Nya riktlinjer för bostadsförsörjning",cat:"regler",contested:true,approved:true},
+      {id:"35",title:"Dataskyddsgranskning 2025",cat:"regler",contested:false,approved:true}
+    ]
+  },
+  {
+    id: "2024-04-09_ks", date: "2024-04-09", body: "Kommunstyrelsen",
+    status: "published", processedAt: "2026-03-15T10:30:00",
+    decisions: 5, cost: 0.047, tokens: {input: 19800, output: 3400},
+    headline: "Eyrafältet-köp 154 MSEK, flygplatsdebatt",
+    items: [
+      {id:"76",title:"Sex fastigheter vid Eyrafältet köps för 154 MSEK",cat:"bygg",contested:true,approved:true},
+      {id:"74",title:"Flygplatsen: V kräver avveckling",cat:"politik",contested:true,approved:true},
+      {id:"83",title:"Regler för uteserveringar byter ägare",cat:"regler",contested:false,approved:true},
+      {id:"86",title:"Haverikommission Arenaskolan avslås",cat:"skola",contested:true,approved:true},
+      {id:"72",title:"Tilläggsanslag 127,6 MSEK",cat:"budget",contested:true,approved:true}
+    ]
+  }
+];
+
+let currentView = "overview";
+let selectedProtocol = null;
+
+// ═══ AUTH ═══
+function login() {
+  const pass = document.getElementById("loginPass").value;
+  // Simple check — in production use proper auth
+  if (pass === "admin") {
+    document.getElementById("loginScreen").style.display = "none";
+    document.getElementById("app").style.display = "block";
+    buildSidebar();
+    showView("overview");
+  } else {
+    document.getElementById("loginPass").style.borderColor = "#ef4444";
+    setTimeout(() => document.getElementById("loginPass").style.borderColor = "#334155", 1000);
+  }
+}
+
+// ═══ SIDEBAR ═══
+function buildSidebar() {
+  const el = document.getElementById("sidebarList");
+  el.innerHTML = PROTOCOLS.map((p, i) => {
+    const statusBadge = p.status === "review" ? `<span class="badge warn">${p.items.filter(d=>!d.approved).length} att granska</span>` :
+                        p.status === "error" ? `<span class="badge red">Fel</span>` : "";
+    return `<div class="nav-item ${selectedProtocol===p.id?'active':''}" onclick="selectProtocol('${p.id}')">
+      <span class="emoji">${p.status==='review'?'🟡':p.status==='error'?'🔴':'🟢'}</span>
+      <div>
+        <div style="font-weight:600;font-size:12px">${p.date}</div>
+        <div style="font-size:11px;color:#64748b">${p.body}</div>
+      </div>
+      ${statusBadge}
+    </div>`;
+  }).join("");
+}
+
+// ═══ VIEWS ═══
+function showView(view) {
+  currentView = view;
+  const el = document.getElementById("content");
+  switch(view) {
+    case "overview": el.innerHTML = renderOverview(); break;
+    case "protocols": el.innerHTML = renderProtocols(); break;
+    case "costs": el.innerHTML = renderCosts(); break;
+    case "log": el.innerHTML = renderLog(); break;
+  }
+}
+
+function renderOverview() {
+  const total = PROTOCOLS.length;
+  const totalDec = PROTOCOLS.reduce((s,p) => s + p.decisions, 0);
+  const review = PROTOCOLS.filter(p => p.status === "review").length;
+  const unapproved = PROTOCOLS.reduce((s,p) => s + p.items.filter(d=>!d.approved).length, 0);
+  const totalCost = PROTOCOLS.reduce((s,p) => s + p.cost, 0);
+  const lastCheck = PROTOCOLS[0]?.processedAt || "Aldrig";
+
+  return `
+    <h2 style="font-size:20px;margin-bottom:16px">📊 Översikt</h2>
+    <div class="stats">
+      <div class="stat blue"><div class="label">Protokoll</div><div class="value">${total}</div><div class="sub">totalt bearbetade</div></div>
+      <div class="stat green"><div class="label">Beslut</div><div class="value">${totalDec}</div><div class="sub">sammanfattade</div></div>
+      <div class="stat ${review>0?'amber':'green'}"><div class="label">Att granska</div><div class="value">${unapproved}</div><div class="sub">${review} protokoll</div></div>
+      <div class="stat"><div class="label">Total kostnad</div><div class="value">${totalCost.toFixed(2)}</div><div class="sub">USD (API)</div></div>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+    <div>
+      <h3 style="font-size:14px;margin-bottom:10px;color:#94a3b8">Senaste bearbetningar</h3>
+      <div class="table-wrap">
+      <table>
+      <tr><th>Datum</th><th>Organ</th><th>Beslut</th><th>Status</th></tr>
+      ${PROTOCOLS.slice(0,5).map(p => `<tr onclick="selectProtocol('${p.id}')" style="cursor:pointer">
+        <td>${p.date}</td><td>${p.body}</td><td>${p.decisions}</td>
+        <td><span class="status ${p.status==='published'?'ok':p.status==='review'?'pending':'error'}">${p.status==='published'?'✓ Publicerad':p.status==='review'?'⏳ Granska':'✗ Fel'}</span></td>
+      </tr>`).join("")}
+      </table></div>
+    </div>
+    <div>
+      <h3 style="font-size:14px;margin-bottom:10px;color:#94a3b8">System</h3>
+      <div style="background:#1e293b;border-radius:10px;padding:16px;font-size:13px">
+        <div style="margin-bottom:8px"><span style="color:#64748b">Senaste körning:</span> ${new Date(lastCheck).toLocaleString('sv-SE')}</div>
+        <div style="margin-bottom:8px"><span style="color:#64748b">Modell:</span> <code>claude-haiku-4-5</code></div>
+        <div style="margin-bottom:8px"><span style="color:#64748b">Sajt:</span> <a href="/site/index.html">kommunmonitor.se</a></div>
+        <div><span style="color:#64748b">Cron:</span> <code>0 7 * * *</code> (varje dag 08:00)</div>
+      </div>
+      <div style="background:#1e293b;border-radius:10px;padding:16px;font-size:13px;margin-top:12px">
+        <div style="font-weight:600;margin-bottom:8px">Bevakade sidor</div>
+        <div style="color:#94a3b8;margin-bottom:4px">✓ Kommunfullmäktige</div>
+        <div style="color:#94a3b8;margin-bottom:4px">✓ Kommunstyrelsen</div>
+        <div style="color:#475569">○ Byggnadsnämnden (ej aktiverad)</div>
+        <div style="color:#475569">○ Skolnämnden (ej aktiverad)</div>
+      </div>
+    </div>
+    </div>`;
+}
+
+function renderProtocols() {
+  return `
+    <h2 style="font-size:20px;margin-bottom:16px">📄 Alla protokoll</h2>
+    <div class="table-wrap">
+    <table>
+    <tr><th>Datum</th><th>Organ</th><th>Rubrik</th><th>Beslut</th><th>Kostnad</th><th>Status</th></tr>
+    ${PROTOCOLS.map(p => `<tr onclick="selectProtocol('${p.id}')" style="cursor:pointer">
+      <td style="white-space:nowrap">${p.date}</td>
+      <td>${p.body}</td>
+      <td style="max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${p.headline}</td>
+      <td>${p.decisions}</td>
+      <td>$${p.cost.toFixed(3)}</td>
+      <td><span class="status ${p.status==='published'?'ok':p.status==='review'?'pending':'error'}">
+        ${p.status==='published'?'✓ Pub':p.status==='review'?'⏳ Granska':'✗ Fel'}</span></td>
+    </tr>`).join("")}
+    </table></div>`;
+}
+
+function renderCosts() {
+  const months = {};
+  PROTOCOLS.forEach(p => {
+    const m = p.date.slice(0,7);
+    months[m] = (months[m]||0) + p.cost;
+  });
+  const maxCost = Math.max(...Object.values(months), 0.01);
+
+  const totalTokensIn = PROTOCOLS.reduce((s,p) => s + (p.tokens?.input||0), 0);
+  const totalTokensOut = PROTOCOLS.reduce((s,p) => s + (p.tokens?.output||0), 0);
+  const totalCost = PROTOCOLS.reduce((s,p) => s + p.cost, 0);
+
+  return `
+    <h2 style="font-size:20px;margin-bottom:16px">💰 Kostnader</h2>
+    <div class="stats">
+      <div class="stat"><div class="label">Total kostnad</div><div class="value">$${totalCost.toFixed(2)}</div><div class="sub">≈ ${(totalCost*10.5).toFixed(0)} SEK</div></div>
+      <div class="stat"><div class="label">Input tokens</div><div class="value">${(totalTokensIn/1000).toFixed(0)}k</div><div class="sub">protokolltext</div></div>
+      <div class="stat"><div class="label">Output tokens</div><div class="value">${(totalTokensOut/1000).toFixed(0)}k</div><div class="sub">sammanfattningar</div></div>
+      <div class="stat"><div class="label">Snitt/protokoll</div><div class="value">$${(totalCost/PROTOCOLS.length).toFixed(3)}</div><div class="sub">≈ ${((totalCost/PROTOCOLS.length)*10.5).toFixed(1)} öre</div></div>
+    </div>
+    <div style="background:#1e293b;border-radius:10px;padding:20px;margin-top:12px">
+      <h3 style="font-size:14px;margin-bottom:16px;color:#94a3b8">Kostnad per månad</h3>
+      ${Object.entries(months).sort().reverse().map(([m,c]) => `
+        <div class="cost-bar">
+          <div class="label">${m}</div>
+          <div class="bar" style="width:${(c/maxCost)*100}%;background:linear-gradient(90deg,#2563eb,#60a5fa)"></div>
+          <div class="val">$${c.toFixed(3)} (${(c*10.5).toFixed(0)} öre)</div>
+        </div>
+      `).join("")}
+    </div>
+    <div style="background:#1e293b;border-radius:10px;padding:20px;margin-top:12px">
+      <h3 style="font-size:14px;margin-bottom:12px;color:#94a3b8">Per protokoll</h3>
+      <div class="table-wrap">
+      <table>
+      <tr><th>Datum</th><th>Organ</th><th>In tokens</th><th>Ut tokens</th><th>Kostnad</th></tr>
+      ${PROTOCOLS.map(p => `<tr>
+        <td>${p.date}</td><td>${p.body}</td>
+        <td>${(p.tokens?.input||0).toLocaleString()}</td>
+        <td>${(p.tokens?.output||0).toLocaleString()}</td>
+        <td>$${p.cost.toFixed(3)}</td>
+      </tr>`).join("")}
+      </table></div>
+    </div>`;
+}
+
+function renderLog() {
+  const logs = [
+    {t:"2026-03-19T08:20:12",level:"info",msg:"Scraper started"},
+    {t:"2026-03-19T08:20:13",level:"info",msg:"Scanning Kommunfullmäktige..."},
+    {t:"2026-03-19T08:20:14",level:"info",msg:"  12 PDFs found"},
+    {t:"2026-03-19T08:20:14",level:"info",msg:"Scanning Kommunstyrelsen..."},
+    {t:"2026-03-19T08:20:15",level:"info",msg:"  8 PDFs found"},
+    {t:"2026-03-19T08:20:15",level:"info",msg:"New protocols to process: 1"},
+    {t:"2026-03-19T08:20:16",level:"info",msg:"Processing 2025-08-27_kf..."},
+    {t:"2026-03-19T08:20:18",level:"info",msg:"  Downloaded (245KB)"},
+    {t:"2026-03-19T08:20:19",level:"info",msg:"  42830 chars extracted"},
+    {t:"2026-03-19T08:20:19",level:"info",msg:"  Summarizing with haiku..."},
+    {t:"2026-03-19T08:20:28",level:"ok",msg:"  ✅ 5 decisions found"},
+    {t:"2026-03-19T08:20:29",level:"info",msg:"  Social posts generated"},
+    {t:"2026-03-19T08:20:29",level:"ok",msg:"Done: 1 processed"},
+    {t:"2026-03-19T08:20:30",level:"info",msg:"Site data rebuilt: 6 meetings, 22 decisions"},
+    {t:"2026-03-19T08:20:31",level:"info",msg:"Build: 22 decision pages generated"},
+    {t:"2026-03-19T08:20:31",level:"ok",msg:"Deploy complete"},
+  ];
+  return `
+    <h2 style="font-size:20px;margin-bottom:16px">📋 Senaste körningen</h2>
+    <div class="log">
+      ${logs.map(l => `<div class="${l.level}"><span style="color:#475569">${l.t.slice(11,19)}</span> ${l.msg}</div>`).join("\n")}
+    </div>
+    <p style="font-size:12px;color:#475569;margin-top:12px">Fullständig logg: <code>logs/scraper.log</code></p>`;
+}
+
+// ═══ PROTOCOL DETAIL ═══
+function selectProtocol(id) {
+  selectedProtocol = id;
+  const p = PROTOCOLS.find(x => x.id === id);
+  if (!p) return;
+  buildSidebar();
+
+  const allApproved = p.items.every(d => d.approved);
+  const catEmojis = {bygg:"🏗️",infrastruktur:"🛣️",skola:"🏫",budget:"💰",miljö:"🌿",trygghet:"🛡️",kultur:"🎭",politik:"⚖️",regler:"📜"};
+
+  document.getElementById("content").innerHTML = `
+    <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px">
+      <button onclick="showView('overview')" style="background:none;border:none;color:#64748b;cursor:pointer;font-size:14px">← Tillbaka</button>
+      <h2 style="font-size:18px">${p.date} — ${p.body}</h2>
+      <span class="status ${p.status==='published'?'ok':'pending'}">${p.status==='published'?'✓ Publicerad':'⏳ Att granska'}</span>
+    </div>
+
+    <div class="stats">
+      <div class="stat"><div class="label">Beslut</div><div class="value">${p.decisions}</div></div>
+      <div class="stat ${allApproved?'green':'amber'}"><div class="label">Godkända</div><div class="value">${p.items.filter(d=>d.approved).length}/${p.items.length}</div></div>
+      <div class="stat"><div class="label">API-kostnad</div><div class="value">$${p.cost.toFixed(3)}</div></div>
+      <div class="stat"><div class="label">Tokens</div><div class="value">${((p.tokens?.input||0)/1000).toFixed(0)}k</div><div class="sub">in + ${((p.tokens?.output||0)/1000).toFixed(0)}k ut</div></div>
+    </div>
+
+    <p style="font-size:14px;color:#94a3b8;margin-bottom:16px;font-style:italic">"${p.headline}"</p>
+
+    <div class="proto-detail">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+        <h3>Beslut att granska</h3>
+        <div style="display:flex;gap:6px">
+          <button onclick="approveAll('${id}')" style="padding:5px 12px;border-radius:6px;border:1px solid #22c55e;background:#052e16;color:#22c55e;font-size:12px;cursor:pointer;font-family:inherit">✓ Godkänn alla</button>
+          <button onclick="publishProtocol('${id}')" style="padding:5px 12px;border-radius:6px;border:none;background:#2563eb;color:#fff;font-size:12px;cursor:pointer;font-family:inherit;font-weight:600" ${allApproved?'':'disabled style="opacity:0.5"'}>🚀 Publicera</button>
+        </div>
+      </div>
+      ${p.items.map((d,i) => `
+        <div class="decision-row">
+          <div class="decision-check ${d.approved?'checked':''}" onclick="toggleApprove('${id}',${i})">${d.approved?'✓':''}</div>
+          <div class="decision-text">
+            <h4>${catEmojis[d.cat]||'📋'} ${d.title} ${d.contested?'<span style="color:#f59e0b;font-size:11px">⚡</span>':''}</h4>
+            <p>§ ${d.id} · ${d.cat}</p>
+            <div class="decision-actions">
+              <button onclick="toggleApprove('${id}',${i})" class="${d.approved?'':'approve'}">${d.approved?'↩ Ångra':'✓ Godkänn'}</button>
+              <button onclick="window.open('/site/beslut/${p.id.replace('_kf','_kf').replace('_ks','_ks')}_${d.id}/')">👁️ Förhandsgranska</button>
+              <button>✏️ Redigera</button>
+            </div>
+          </div>
+        </div>
+      `).join("")}
+    </div>`;
+}
+
+function toggleApprove(protoId, itemIdx) {
+  const p = PROTOCOLS.find(x => x.id === protoId);
+  if (p) {
+    p.items[itemIdx].approved = !p.items[itemIdx].approved;
+    selectProtocol(protoId);
+  }
+}
+
+function approveAll(protoId) {
+  const p = PROTOCOLS.find(x => x.id === protoId);
+  if (p) {
+    p.items.forEach(d => d.approved = true);
+    selectProtocol(protoId);
+  }
+}
+
+function publishProtocol(protoId) {
+  const p = PROTOCOLS.find(x => x.id === protoId);
+  if (p && p.items.every(d => d.approved)) {
+    p.status = "published";
+    buildSidebar();
+    selectProtocol(protoId);
+    // In production: trigger site rebuild
+    alert("✅ Publicerad! Sajten uppdateras inom några minuter.");
+  }
+}
+
+function runScraper() {
+  alert("🏛️ Scraper startas...\n\nI produktion körs detta via:\ncd scripts && python3 scraper.py --max 5\n\nEller trigga GitHub Actions manuellt.");
+}
+
+// ═══ KEYBOARD SHORTCUTS ═══
+document.addEventListener("keydown", e => {
+  if (document.getElementById("app").style.display === "none") return;
+  if (document.activeElement.tagName === "INPUT") return;
+  if (e.key === "r" || e.key === "R") runScraper();
+  if (e.key === "a" || e.key === "A") { if(selectedProtocol) approveAll(selectedProtocol); }
+  const num = parseInt(e.key);
+  if (num >= 1 && num <= PROTOCOLS.length) selectProtocol(PROTOCOLS[num-1].id);
+});
+</script>
+</body>
+</html>

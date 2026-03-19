@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Vilka partier styr i Örebro kommun?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Örebro styrs av Socialdemokraterna (S), Moderaterna (M) och Centerpartiet (C). Majoriteten vinner 100% av alla röstningar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Vad är Kommun Monitor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kommun Monitor är en civic tech-plattform som använder AI för att sammanfatta och analysera kommunala beslut i Örebro kommun."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Var hittar jag protokollen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alla originalprotokoll publiceras på orebro.se under Politik och beslut. Kommun Monitor sammanfattar dessa automatiskt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hur ofta uppdateras sidan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sidan uppdateras automatiskt varje dag kl 08:00 CET."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Finns det ett API?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, ett gratis JSON API utan autentisering finns på /api/v1/. Dokumentation på /api/v1/docs/."
+      }
+    }
+  ]
+}
