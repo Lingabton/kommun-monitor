@@ -3,421 +3,118 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kommun Monitor — Vad beslutade Örebro kommun?</title>
-<meta name="description" content="AI-sammanfattningar av beslut från Örebro kommun. Sök bland alla kommunala protokoll — bygg, skola, budget, miljö och mer.">
+<title>Kommun Monitor — Örebro kommunbeslut sammanfattade med AI</title>
+<meta name="description" content="AI-sammanfattningar av kommunala beslut i Örebro. Sök beslut, se hur partierna röstar, och följ vad som händer i din kommun.">
+<link rel="canonical" href="https://lingabton.github.io/kommun-monitor/">
 <meta property="og:title" content="Kommun Monitor — Örebro">
-<meta property="og:description" content="Sök bland alla beslut från Örebro kommun. AI-sammanfattningar av kommunala protokoll.">
+<meta property="og:description" content="AI-sammanfattningar av kommunala beslut. Sök beslut, se hur partierna röstar.">
 <meta property="og:type" content="website">
-<meta property="og:locale" content="sv_SE">
-<meta name="twitter:card" content="summary">
-<link rel="canonical" href="https://kommunmonitor.se">
-<link rel="alternate" type="application/rss+xml" title="Kommun Monitor RSS" href="/feed.xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="Kommun Monitor" href="feed.xml">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-::selection{background:#1e3a5f;color:#fff}
-body{font-family:'DM Sans',sans-serif;background:#f8fafc;color:#1e293b;line-height:1.5}
-a{color:#1e3a5f;text-decoration:none}
-.wrap{max-width:740px;margin:0 auto;padding:0 20px}
-header{background:linear-gradient(135deg,#0f2439,#1e3a5f 60%,#2d5a87);color:#fff;padding:32px 20px 24px;text-align:center}
-header h1{font-family:'DM Serif Display',serif;font-size:26px;font-weight:400;margin:0}
-header .sub{font-size:13px;opacity:.7;margin-top:6px}
-header .brand{font-size:11px;letter-spacing:3px;text-transform:uppercase;opacity:.5;margin-bottom:8px}
-
-.search-box{position:relative;max-width:560px;margin:18px auto 0}
-.search-box input{width:100%;padding:12px 18px 12px 42px;font-size:15px;border:2px solid #e2e8f0;border-radius:10px;background:#fff;outline:none;font-family:inherit;transition:border-color .2s}
-.search-box input:focus{border-color:#1e3a5f}
-.search-box .icon{position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:16px;opacity:.35}
-.search-box .clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);background:#f1f5f9;border:none;border-radius:50%;width:24px;height:24px;cursor:pointer;font-size:12px;color:#64748b;display:none}
-
-.filters{display:flex;flex-wrap:wrap;gap:5px;justify-content:center;margin:14px 0 6px}
-.pill{padding:3px 11px;border-radius:14px;border:1.5px solid #e2e8f0;font-size:11.5px;font-weight:500;cursor:pointer;font-family:inherit;background:#fff;color:#64748b;transition:all .15s}
-.pill.on{color:#fff}
-.party-row{display:flex;flex-wrap:wrap;gap:4px;justify-content:center;margin:6px 0}
-.party-row .label{font-size:11px;color:#94a3b8;align-self:center;margin-right:3px}
-.pbadge{padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;cursor:pointer;border:1px solid #e2e8f0;background:#f1f5f9;color:#64748b;transition:all .15s}
-.pbadge.on{border:none}
-.year-row{display:flex;gap:5px;justify-content:center;margin:6px 0 10px}
-.stats{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;padding:6px 0;font-size:12.5px;color:#94a3b8}
-.stats strong{color:#1e293b}
-
-.meeting{margin-bottom:28px}
-.meeting-header{display:flex;flex-wrap:wrap;align-items:center;gap:7px;margin-bottom:10px;padding-bottom:7px;border-bottom:1px solid #f1f5f9}
-.meeting-badge{background:#1e3a5f;color:#fff;font-size:9.5px;font-weight:700;padding:3px 8px;border-radius:4px;letter-spacing:.5px}
-.meeting-date{font-size:12.5px;color:#94a3b8}
-.meeting-hl{font-size:12.5px;color:#64748b;font-style:italic}
-
-.card{background:#fff;border-radius:10px;box-shadow:0 1px 3px rgba(0,0,0,.04);margin-bottom:10px;overflow:hidden;transition:box-shadow .2s;border-left:4px solid #94a3b8}
-.card:hover{box-shadow:0 4px 12px rgba(0,0,0,.08)}
-.card.hi{box-shadow:0 0 0 2px rgba(30,58,95,.25),0 4px 16px rgba(0,0,0,.1)}
-.card-head{padding:14px 18px;cursor:pointer;display:flex;align-items:flex-start;gap:9px}
-.card-emoji{font-size:18px;line-height:1;flex-shrink:0}
-.card-body{flex:1;min-width:0}
-.card-title-row{display:flex;flex-wrap:wrap;align-items:center;gap:5px;margin-bottom:2px}
-.card h3{font-size:14px;font-weight:600;line-height:1.3}
-.badge{font-size:9px;font-weight:700;padding:2px 6px;border-radius:8px;white-space:nowrap}
-.badge-contested{background:#fef2f2;color:#dc2626}
-.badge-unanimous{background:#f0fdf4;color:#16a34a}
-.badge-vote{background:#fef3c7;color:#d97706}
-.card-summary{font-size:12.5px;color:#64748b;line-height:1.5;margin-top:2px}
-.card-meta{display:flex;flex-wrap:wrap;gap:5px;font-size:10.5px;color:#a1a1aa;margin-top:4px}
-.card-arrow{font-size:10px;color:#cbd5e1;transition:transform .2s;margin-top:3px;flex-shrink:0}
-.card-arrow.open{transform:rotate(180deg)}
-
-.card-detail{padding:0 18px 16px 45px;border-top:1px solid #f1f5f9;display:none}
-.card-detail.open{display:block}
-.card-detail p{font-size:13.5px;line-height:1.7;color:#374151;margin-top:10px}
-.card-detail p:first-child{margin-top:12px}
-
-.voting{margin:12px 0 4px;font-size:12px}
-.voting-label{font-size:11px;font-weight:700;color:#64748b;letter-spacing:.4px;margin-bottom:6px}
-.voting-row{display:flex;gap:14px;flex-wrap:wrap}
-.voting-group{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
-.vote-badge{display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;padding:2px 7px;border-radius:3px;color:#fff}
-
-.quote-btn,.share-btn{background:none;border:1px solid #e2e8f0;border-radius:6px;padding:3px 10px;font-size:11px;color:#64748b;cursor:pointer;font-family:inherit;display:inline-flex;align-items:center;gap:4px}
-.quote-block{margin-top:6px;padding:10px 14px;background:#fafaf9;border-left:3px solid #d4d4d4;border-radius:0 6px 6px 0;font-size:13px;font-style:italic;color:#57534e;line-height:1.6;display:none}
-.quote-block.open{display:block}
-.quote-src{font-style:normal;font-size:11px;color:#a8a29e;margin-top:4px}
-
-.timeline{margin-top:12px;padding:10px 14px;background:#f0f9ff;border-radius:6px;border:1px solid #bae6fd;display:none}
-.timeline.has-items{display:block}
-.timeline-label{font-size:11px;font-weight:700;color:#0369a1;margin-bottom:6px}
-.timeline a{display:block;font-size:12px;color:#0c4a6e;padding:3px 0}
-
-.actions{margin-top:12px;display:flex;flex-wrap:wrap;gap:6px}
-.proto-link{display:inline-flex;align-items:center;gap:4px;padding:4px 12px;border-radius:6px;background:#1e3a5f;color:#fff;font-size:11px;font-weight:500}
-
-.motions{background:#fffbeb;border-radius:8px;padding:10px 14px;margin-top:6px;font-size:12.5px}
-.motions strong{font-size:11px}
-.motions .item{margin-top:4px;color:#78716c}
-
-.empty{text-align:center;padding:40px 20px;color:#94a3b8}
-.empty .icon{font-size:40px;margin-bottom:10px}
-.empty button{padding:6px 16px;border-radius:8px;border:1px solid #e2e8f0;background:#fff;cursor:pointer;font-size:12px;font-family:inherit;margin-top:12px}
-
-footer{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-size:11px;color:#94a3b8}
-
-.loading{text-align:center;padding:60px 20px;color:#94a3b8}
-.loading .spinner{width:32px;height:32px;border:3px solid #e2e8f0;border-top-color:#1e3a5f;border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
-@keyframes spin{to{transform:rotate(360deg)}}
-@keyframes fadeIn{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
+:root{--navy:#0f1f33;--navy-mid:#162d4a;--navy-light:#1e3a5f;--bg:#f7f5f2;--card:#fff;--text:#1a1a1a;--text-mid:#4a4a4a;--text-light:#8a8a8a;--border:#e8e4df;--accent:#c44028;--green:#1a8754;--red:#c44028}
+*{box-sizing:border-box;margin:0;padding:0}::selection{background:var(--navy);color:#fff}
+body{font-family:'Instrument Sans',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--navy);text-decoration:none}
+nav{position:sticky;top:0;z-index:100;background:rgba(247,245,242,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:0 24px}
+nav .inner{max-width:960px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:52px}
+nav .logo{display:flex;align-items:center;gap:8px;font-weight:700;font-size:15px;letter-spacing:-.3px}
+nav .links{display:flex;gap:20px;font-size:13px;font-weight:500;color:var(--text-mid)}
+nav .links a:hover{color:var(--text)}
+.hero{background:linear-gradient(160deg,#0a1628,var(--navy) 30%,var(--navy-mid) 60%,var(--navy-light));color:#fff;padding:56px 24px 72px;position:relative;overflow:hidden}
+.hero::after{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 70% 0%,rgba(255,255,255,.04),transparent 60%)}
+.hero .inner{max-width:960px;margin:0 auto;position:relative;z-index:1;display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+.hero h1{font-family:'Fraunces',serif;font-size:clamp(28px,4.5vw,42px);font-weight:300;line-height:1.15;letter-spacing:-.5px}
+.hero h1 em{font-weight:600;font-style:italic}
+.hero .sub{font-size:16px;opacity:.65;margin:16px 0 28px;max-width:400px;line-height:1.65}
+.hero .ey{font-size:11px;letter-spacing:3px;text-transform:uppercase;opacity:.35;margin-bottom:10px}
+.hero .ctas{display:flex;gap:10px;flex-wrap:wrap}
+.hero .ctas a{display:inline-flex;align-items:center;gap:6px;padding:11px 22px;border-radius:8px;font-size:14px;font-weight:600;transition:transform .15s}
+.hero .ctas a:hover{transform:translateY(-1px)}
+.btn-w{background:#fff;color:var(--navy)}.btn-o{border:1px solid rgba(255,255,255,.2);color:#fff}
+.sg{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.sc{background:rgba(255,255,255,.05);backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:18px 16px}
+.sc .n{font-family:'Fraunces',serif;font-size:clamp(24px,3vw,36px);font-weight:700}.sc .l{font-size:12px;opacity:.45;margin-top:2px}
+.fw{max-width:960px;margin:-36px auto 0;padding:0 24px;position:relative;z-index:2}
+.fc{background:var(--card);border-radius:14px;padding:28px 32px;box-shadow:0 8px 40px rgba(0,0,0,.08);cursor:pointer;transition:box-shadow .2s;border-left:5px solid var(--accent)}
+.fc:hover{box-shadow:0 12px 48px rgba(0,0,0,.12)}
+.fc .tg{font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text-light);margin-bottom:8px}
+.fc h2{font-family:'Fraunces',serif;font-size:clamp(18px,2.5vw,24px);font-weight:400;line-height:1.3}
+.fc .sm{font-size:15px;color:var(--text-mid);margin:6px 0 10px;line-height:1.6}
+.fc .mt{font-size:12px;color:var(--text-light);display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+section{max-width:960px;margin:0 auto;padding:48px 24px}
+section .st{font-family:'Fraunces',serif;font-size:clamp(22px,3vw,28px);font-weight:400;margin-bottom:6px}
+section .ss{font-size:14px;color:var(--text-light);margin-bottom:24px}
+.pg{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
+.pc{background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.04);border-top:3px solid #ccc;transition:box-shadow .15s;display:block}
+.pc:hover{box-shadow:0 4px 16px rgba(0,0,0,.08)}
+.pc .tp{display:flex;align-items:center;gap:8px;margin-bottom:10px}
+.pd{width:26px;height:26px;border-radius:5px;display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:800;color:#fff}
+.pc .nm{font-weight:600;font-size:13px}.pc .vt{font-size:11px;color:var(--text-light)}
+.vb{display:flex;height:8px;border-radius:4px;overflow:hidden;background:#f0ece8}
+.pc .ps{display:flex;justify-content:space-between;font-size:11px;color:var(--text-light);margin-top:4px}
+.fl{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+.fl input{padding:9px 14px;border:2px solid var(--border);border-radius:8px;font:inherit;font-size:14px;outline:none;width:220px;transition:border-color .2s}
+.fl input:focus{border-color:var(--navy)}
+.fl button{padding:7px 14px;border-radius:20px;border:1.5px solid var(--border);background:var(--card);font:inherit;font-size:12px;font-weight:500;color:var(--text-mid);cursor:pointer;transition:all .15s}
+.fl button.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.dc{background:var(--card);border-radius:10px;margin-bottom:8px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.03);border-left:4px solid var(--border);transition:box-shadow .15s}
+.dc.op{box-shadow:0 4px 20px rgba(0,0,0,.07)}
+.dc .hd{padding:14px 18px;cursor:pointer;display:flex;align-items:flex-start;gap:10px}
+.dc .hl{font-size:14px;font-weight:600;line-height:1.35}
+.dc .ds{font-size:13px;color:var(--text-mid);margin-top:2px;line-height:1.5}
+.dc .dm{font-size:11px;color:var(--text-light);margin-top:4px;display:flex;flex-wrap:wrap;gap:5px}
+.dc .ar{font-size:10px;color:var(--text-light);flex-shrink:0;margin-top:4px;transition:transform .2s}
+.dc.op .ar{transform:rotate(180deg)}
+.dc .bd{padding:0 18px 16px 46px;border-top:1px solid var(--border);display:none}
+.dc.op .bd{display:block}
+.dc .dt{margin-top:12px;font-size:14px;color:var(--text-mid);line-height:1.75}
+.dc .dt p{margin-bottom:8px}
+.bg{display:inline-block;padding:2px 8px;border-radius:12px;font-size:10px;font-weight:700;white-space:nowrap}
+.bc{background:#fef2f2;color:var(--red)}.bv{background:#fef3c7;color:#92400e}.bu{background:#ecfdf5;color:var(--green)}
+.vr{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;margin-top:8px}
+.vr .rs{font-weight:600;color:var(--text-light);font-size:11px;letter-spacing:.3px}
+.vr .sd{display:flex;gap:3px;align-items:center}
+.vr .sl{font-size:10px;font-weight:600}
+.pp{width:18px;height:18px;border-radius:3px;display:inline-flex;align-items:center;justify-content:center;font-size:8px;font-weight:800;color:#fff}
+.qb{margin-top:12px;padding:10px 14px;background:#faf9f7;border-left:3px solid #d4d0cc;border-radius:0 6px 6px 0;font-size:13px;font-style:italic;color:#5a5550;line-height:1.6}
+.qb .qp{font-style:normal;font-size:11px;color:var(--text-light)}
+.sub{background:linear-gradient(160deg,#0a1628,var(--navy-mid));padding:56px 24px;text-align:center;color:#fff}
+.sub h2{font-family:'Fraunces',serif;font-size:24px;font-weight:400}.sub p{font-size:14px;opacity:.55;margin:6px 0 20px}
+.sub .fm{display:flex;gap:8px;max-width:380px;margin:0 auto}
+.sub input{flex:1;padding:12px 16px;border-radius:8px;border:2px solid rgba(255,255,255,.12);background:rgba(255,255,255,.06);color:#fff;font:inherit;font-size:14px;outline:none}
+.sub button{padding:12px 24px;background:#fff;color:var(--navy);border:none;border-radius:8px;font:inherit;font-size:14px;font-weight:700;cursor:pointer}
+footer{border-top:1px solid var(--border);padding:28px 24px;text-align:center}
+footer .fl2{display:flex;justify-content:center;gap:20px;font-size:13px;color:var(--text-mid);margin-bottom:10px}
+footer .cp{font-size:11px;color:var(--text-light);max-width:600px;margin:0 auto;line-height:1.6}
+@media(max-width:768px){.hero .inner{grid-template-columns:1fr}.sg{grid-template-columns:1fr 1fr}.pg{grid-template-columns:1fr 1fr}nav .links{display:none}}
+@keyframes fu{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}.fu{animation:fu .5s ease both}
 </style>
 </head>
 <body>
-
-<header>
-<div class="wrap">
-<div class="brand">🏛️ KOMMUN MONITOR</div>
-<h1>Vad beslutade Örebro kommun?</h1>
-<div class="sub">AI-sammanfattningar av kommunala protokoll · Klicka för detaljer · Dela med grannar</div>
-</div>
-</header>
-
-<div class="wrap" id="controls">
-<div class="search-box">
-<span class="icon">🔍</span>
-<input type="text" id="search" placeholder="Sök beslut, plats, parti, ämne...">
-<button class="clear" id="searchClear" onclick="clearSearch()">✕</button>
-</div>
-<div class="filters" id="catFilters"></div>
-<div class="party-row" id="partyFilters"></div>
-<div class="year-row" id="yearFilters"></div>
-<div class="stats" id="stats"></div>
-</div>
-
-<main class="wrap" id="results">
-<div class="loading"><div class="spinner"></div>Laddar beslut...</div>
-</main>
-
-<div class="wrap" style="padding-bottom:20px">
-<div style="margin:20px 0;padding:28px;background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:14px;text-align:center">
-<h3 style="font-size:18px;margin-bottom:6px">📧 Få nya beslut direkt i mejlen</h3>
-<p style="font-size:13px;color:#64748b;margin-bottom:14px">Vi sammanfattar kommunens beslut åt dig — gratis, en gång i månaden.</p>
-<div style="display:flex;gap:8px;max-width:420px;margin:0 auto;flex-wrap:wrap;justify-content:center">
-<input type="email" id="subEmail" placeholder="din@mejl.se" style="flex:1;min-width:200px;padding:10px 14px;border:2px solid #bae6fd;border-radius:8px;font-size:14px;font-family:inherit;outline:none;background:#fff">
-<button onclick="subscribe()" style="padding:10px 22px;background:#1e3a5f;color:#fff;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit">Prenumerera</button>
-</div>
-<p style="font-size:11px;color:#94a3b8;margin-top:8px">Inga spam. Avsluta när du vill.</p>
-</div>
-</div>
-
-<footer>
-<p>Kommun Monitor sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid originalprotokollet.</p>
-<p style="margin-top:4px">Källa: <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">orebro.se</a> · <a href="/feed.xml">RSS-flöde</a></p>
-</footer>
-
+<nav><div class="inner"><a href="#" class="logo">🏛️ Kommun Monitor</a><div class="links"><a href="#beslut">Beslut</a><a href="#partier">Partier</a><a href="parti/">Parti-profiler</a><a href="omrade/">Områden</a><a href="insikter/">Insikter</a><a href="api/v1/docs/">API</a></div></div></nav>
+<div class="hero"><div class="inner"><div><div class="ey">ÖREBRO KOMMUN</div><h1>Vad beslutade<br>dina <em>politiker?</em></h1><p class="sub">Vi läser de kommunala protokollen åt dig. AI-sammanfattningar av varje beslut — vem röstade vad, och hur det påverkar dig.</p><div class="ctas"><a href="#beslut" class="btn-w">Utforska besluten ↓</a><a href="#prenumerera" class="btn-o">📧 Prenumerera</a></div></div><div class="sg" id="hs"></div></div></div>
+<div class="fw"><div class="fc" id="feat" onclick="this.querySelector('.fb').style.display=this.querySelector('.fb').style.display==='none'?'block':'none'"><div class="tg">⚡ SENASTE OMSTRIDDA BESLUTET</div><h2 id="fhl"></h2><p class="sm" id="fsm"></p><div class="mt" id="fmt"></div><div id="fvt"></div><div class="fb" style="display:none;margin-top:14px;padding-top:14px;border-top:1px solid var(--border)" id="fbd"></div></div></div>
+<section id="partier"><h2 class="st">Hur röstar partierna?</h2><div class="ss" id="psb"></div><div class="pg" id="pgr"></div></section>
+<section id="beslut"><h2 class="st">Alla beslut</h2><div class="fl" id="flt"></div><div id="dcn" style="font-size:13px;color:var(--text-light);margin-bottom:10px"></div><div id="dl"></div></section>
+<div class="sub" id="prenumerera"><div style="font-size:32px;margin-bottom:10px">📧</div><h2>Missa inga beslut</h2><p>En sammanfattning i mejlen när kommunen fattar beslut som berör dig.</p><div class="fm"><input type="email" placeholder="din@mejl.se"><button>Prenumerera</button></div></div>
+<footer><div class="fl2"><a href="#beslut">Beslut</a><a href="parti/">Partier</a><a href="omrade/">Områden</a><a href="ekonomi/">Ekonomi</a><a href="insikter/">Insikter</a><a href="api/v1/docs/">API</a><a href="feed.xml">RSS</a></div><div class="cp">Kommun Monitor sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a>.<br><span id="fs"></span></div></footer>
 <script>
-// ═══ CONFIG ═══
-const CATS = {
-  bygg:{l:"Bygg",e:"🏗️",c:"#d97706"},infrastruktur:{l:"Infrastruktur",e:"🛣️",c:"#4f46e5"},
-  skola:{l:"Skola",e:"🏫",c:"#059669"},budget:{l:"Budget",e:"💰",c:"#2563eb"},
-  "miljö":{l:"Miljö",e:"🌿",c:"#16a34a"},miljo:{l:"Miljö",e:"🌿",c:"#16a34a"},
-  trygghet:{l:"Trygghet",e:"🛡️",c:"#dc2626"},kultur:{l:"Kultur",e:"🎭",c:"#9333ea"},
-  politik:{l:"Politik",e:"⚖️",c:"#475569"},regler:{l:"Regler",e:"📜",c:"#b45309"},
-  "övrigt":{l:"Övrigt",e:"📋",c:"#94a3b8"},ovrigt:{l:"Övrigt",e:"📋",c:"#94a3b8"},
-};
-const PARTIES = ["S","M","C","L","KD","V","SD","ÖrP","MP"];
-const PC = {S:"#e8112d",M:"#52bdec",C:"#009933",L:"#006ab3",KD:"#231977",V:"#da291c",SD:"#dddd00","ÖrP":"#f47920",MP:"#83cf39"};
-const PN = {S:"Socialdemokraterna",M:"Moderaterna",C:"Centerpartiet",L:"Liberalerna",KD:"Kristdemokraterna",V:"Vänsterpartiet",SD:"Sverigedemokraterna","ÖrP":"Örebropartiet",MP:"Miljöpartiet"};
-
-let DATA = {meetings:[]};
-let state = {query:"",cat:null,party:null,year:"alla"};
-
-// ═══ LOAD DATA ═══
-async function loadData() {
-  try {
-    const r = await fetch("data.json");
-    DATA = await r.json();
-  } catch(e) {
-    // Fallback: try loading from sample
-    console.warn("No data.json found, showing empty state");
-    DATA = {meetings:[], total_meetings:0, total_decisions:0};
-  }
-  init();
-}
-
-// ═══ FORMATTING ═══
-const MONTHS = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
-const FMONTHS = ["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"];
-function fmtD(s){const d=new Date(s+"T00:00:00");return`${d.getDate()} ${MONTHS[d.getMonth()]} ${d.getFullYear()}`}
-function fullD(s){const d=new Date(s+"T00:00:00");return`${d.getDate()} ${FMONTHS[d.getMonth()]} ${d.getFullYear()}`}
-
-// ═══ INIT ═══
-function init() {
-  buildFilters();
-  document.getElementById("search").addEventListener("input", e => {
-    state.query = e.target.value;
-    document.getElementById("searchClear").style.display = state.query ? "block" : "none";
-    render();
-  });
-  // Hash routing
-  if(location.hash.slice(1)) setTimeout(() => scrollToDecision(location.hash.slice(1)), 300);
-  window.addEventListener("hashchange", () => scrollToDecision(location.hash.slice(1)));
-  // Keyboard shortcut
-  document.addEventListener("keydown", e => {
-    if(e.key==="/"&&document.activeElement.tagName!=="INPUT"){e.preventDefault();document.getElementById("search").focus()}
-  });
-  render();
-}
-
-function clearSearch(){state.query="";document.getElementById("search").value="";document.getElementById("searchClear").style.display="none";render()}
-
-// ═══ FILTERS ═══
-function buildFilters() {
-  // Categories
-  let h = `<button class="pill on" style="border-color:#1e3a5f;background:#1e3a5f" onclick="setCat(null)">Alla</button>`;
-  for(const[k,v] of Object.entries(CATS)){
-    if(k==="miljo"||k==="ovrigt") continue; // skip ascii dupes
-    h+=`<button class="pill" data-cat="${k}" onclick="setCat('${k}')">${v.e} ${v.l}</button>`;
-  }
-  document.getElementById("catFilters").innerHTML=h;
-
-  // Parties
-  let p=`<span class="label">Parti:</span>`;
-  PARTIES.forEach(x=>{p+=`<span class="pbadge" data-party="${x}" onclick="setParty('${x}')">${x}</span>`});
-  document.getElementById("partyFilters").innerHTML=p;
-
-  // Years
-  const yrs=[...new Set(DATA.meetings.map(m=>m.date.slice(0,4)))].sort().reverse();
-  let y=`<span class="label" style="font-size:11px;color:#94a3b8;margin-right:3px">År:</span>`;
-  y+=`<button class="pill on" style="border-color:#475569;background:#475569" data-year="alla" onclick="setYear('alla')">Alla</button>`;
-  yrs.forEach(yr=>{y+=`<button class="pill" data-year="${yr}" onclick="setYear('${yr}')">${yr}</button>`});
-  document.getElementById("yearFilters").innerHTML=y;
-}
-
-function setCat(c){state.cat=c;updatePills();render()}
-function setParty(p){state.party=state.party===p?null:p;updatePills();render()}
-function setYear(y){state.year=y;updatePills();render()}
-
-function updatePills(){
-  document.querySelectorAll("#catFilters .pill").forEach(el=>{
-    const c=el.dataset.cat||null;
-    const on=c===state.cat||(!c&&!state.cat);
-    const color=c?CATS[c]?.c:"#1e3a5f";
-    el.className="pill"+(on?" on":"");
-    el.style.borderColor=on?color:"#e2e8f0";
-    el.style.background=on?color:"#fff";
-    el.style.color=on?"#fff":"#64748b";
-  });
-  document.querySelectorAll("#partyFilters .pbadge").forEach(el=>{
-    const p=el.dataset.party;
-    const on=p===state.party;
-    el.className="pbadge"+(on?" on":"");
-    el.style.background=on?PC[p]:"#f1f5f9";
-    el.style.color=on?(p==="SD"?"#333":"#fff"):"#64748b";
-    el.style.border=on?"none":"1px solid #e2e8f0";
-  });
-  document.querySelectorAll("#yearFilters .pill").forEach(el=>{
-    const y=el.dataset.year;
-    const on=y===state.year;
-    el.className="pill"+(on?" on":"");
-    el.style.borderColor=on?"#475569":"#e2e8f0";
-    el.style.background=on?"#475569":"#fff";
-    el.style.color=on?"#fff":"#64748b";
-  });
-}
-
-// ═══ FILTERING ═══
-function filterData(){
-  return DATA.meetings.map(m=>{
-    if(state.year!=="alla"&&!m.date.startsWith(state.year)) return{...m,decisions:[]};
-    const decs=m.decisions.filter(d=>{
-      if(state.cat&&d.category!==state.cat) return false;
-      if(state.party){
-        const v=d.voting;
-        if(!v) return false;
-        if(!(v.for?.includes(state.party)||v.against?.includes(state.party)||v.abstained?.includes(state.party))) return false;
-      }
-      if(state.query){
-        const q=state.query.toLowerCase();
-        const hay=[d.headline,d.summary,d.detail||"",d.location||"",...(d.tags||[])].join(" ").toLowerCase();
-        if(!hay.includes(q)) return false;
-      }
-      return true;
-    });
-    return{...m,decisions:decs};
-  }).filter(m=>m.decisions.length>0);
-}
-
-// ═══ RENDER ═══
-function render(){
-  const fil=filterData();
-  const tot=fil.reduce((s,m)=>s+m.decisions.length,0);
-  const allTot=DATA.meetings.reduce((s,m)=>s+m.decisions.length,0);
-
-  // Stats
-  let st=`Visar <strong>${tot}</strong> av ${allTot} beslut`;
-  if(state.party) st+=` · Parti: <strong style="color:${PC[state.party]}">${PN[state.party]}</strong>`;
-  document.getElementById("stats").innerHTML=st;
-
-  // Results
-  const el=document.getElementById("results");
-  if(!fil.length){
-    el.innerHTML=`<div class="empty"><div class="icon">🔍</div><p>Inga beslut matchade.</p><button onclick="clearAll()">Visa alla</button></div>`;
-    return;
-  }
-  el.innerHTML=fil.map(m=>renderMeeting(m)).join("");
-}
-
-function clearAll(){state={query:"",cat:null,party:null,year:"alla"};document.getElementById("search").value="";document.getElementById("searchClear").style.display="none";updatePills();render()}
-
-function renderMeeting(m){
-  let h=`<div class="meeting"><div class="meeting-header">
-    <span class="meeting-badge">${m.meeting_type.toUpperCase()}</span>
-    <span class="meeting-date">${fullD(m.date)}</span>
-    <span class="meeting-hl">${m.summary_headline}</span></div>`;
-  h+=m.decisions.map(d=>renderCard(d,m)).join("");
-  if(m.motions_of_interest?.length){
-    h+=`<div class="motions"><strong>📝 Motioner & interpellationer:</strong>`;
-    m.motions_of_interest.forEach(x=>{h+=`<div class="item"><strong>${x.title}</strong> (${x.party}) — <em>${x.status}</em></div>`});
-    h+=`</div>`;
-  }
-  return h+`</div>`;
-}
-
-function renderCard(d,m){
-  const cat=CATS[d.category]||CATS["övrigt"]||{e:"📋",c:"#94a3b8"};
-  let badges="";
-  if(d.contested) badges+=`<span class="badge badge-contested">⚡ OMSTRITT</span>`;
-  if(d.voting?.result==="Enhälligt") badges+=`<span class="badge badge-unanimous">✓ ENHÄLLIGT</span>`;
-  if(d.voting?.result?.includes("votering")) badges+=`<span class="badge badge-vote">🗳️ VOTERING</span>`;
-
-  let voting="";
-  if(d.voting){
-    const v=d.voting;
-    let groups="";
-    if(v.for?.length) groups+=`<div class="voting-group"><span style="color:#16a34a;font-weight:700">JA:</span>${v.for.map(p=>`<span class="vote-badge" style="background:${PC[p]||'#999'};${p==='SD'?'color:#333;border:1px solid #ccc':''}">${p}</span>`).join("")}</div>`;
-    if(v.against?.length) groups+=`<div class="voting-group"><span style="color:#dc2626;font-weight:700">NEJ:</span>${v.against.map(p=>`<span class="vote-badge" style="background:${PC[p]||'#999'};${p==='SD'?'color:#333;border:1px solid #ccc':''}">${p}</span>`).join("")}</div>`;
-    if(v.abstained?.length) groups+=`<div class="voting-group"><span style="color:#94a3b8;font-weight:700">AVSTOD:</span>${v.abstained.map(p=>`<span class="vote-badge" style="background:${PC[p]||'#999'};${p==='SD'?'color:#333;border:1px solid #ccc':''}">${p}</span>`).join("")}</div>`;
-    voting=`<div class="voting"><div class="voting-label">RÖSTNING: ${v.result}</div><div class="voting-row">${groups}</div></div>`;
-  }
-
-  // Related decisions
-  let timeline="";
-  if(d.tags?.length){
-    const related=[];
-    DATA.meetings.forEach(om=>om.decisions.forEach(od=>{
-      if(od.id!==d.id&&od.tags?.some(t=>d.tags.includes(t)))
-        related.push({...od,md:om.date,mt:om.meeting_type});
-    }));
-    if(related.length){
-      timeline=`<div class="timeline has-items"><div class="timeline-label">🔗 RELATERADE BESLUT</div>${related.map(r=>`<a href="#${r.id}"><span style="color:#7dd3fc">${fmtD(r.md)}</span> · ${r.mt} · ${r.headline}</a>`).join("")}</div>`;
-    }
-  }
-
-  const detail=(d.detail||"").split("\n\n").map(p=>`<p>${p}</p>`).join("");
-
-  return`<div class="card" id="${d.id}" style="border-left-color:${cat.c}">
-<div class="card-head" onclick="toggleCard('${d.id}')">
-<span class="card-emoji">${cat.e}</span>
-<div class="card-body">
-<div class="card-title-row"><h3>${d.headline}</h3>${badges}</div>
-<div class="card-summary">${d.summary}</div>
-<div class="card-meta">
-<span>${m.meeting_type}</span><span>·</span><span>${fmtD(m.date)}</span>
-${d.paragraph_ref?`<span>·</span><span>${d.paragraph_ref}</span>`:""}
-${d.location?`<span>·</span><span>📍 ${d.location}</span>`:""}
-</div></div>
-<span class="card-arrow" id="arrow-${d.id}">▼</span>
-</div>
-<div class="card-detail" id="detail-${d.id}">
-${detail}
-${voting}
-${d.quote?`<div style="margin-top:8px"><button class="quote-btn" onclick="event.stopPropagation();toggleQuote('${d.id}')">📎 Visa citat</button><div class="quote-block" id="quote-${d.id}">"${d.quote}"<div class="quote-src">Källa: <a href="${m.source_url}" target="_blank">Protokoll</a>, ${d.quote_page||""}</div></div></div>`:""}
-${timeline}
-<div class="actions">
-<a href="/beslut/${d.id}/" class="proto-link" style="background:#2d5a87" onclick="event.stopPropagation()">📖 Läs mer</a>
-<a href="${m.source_url}" target="_blank" class="proto-link" onclick="event.stopPropagation()">📄 Protokoll${d.paragraph_ref?` (${d.paragraph_ref})`:""}</a>
-<button class="share-btn" onclick="event.stopPropagation();shareDecision('${d.id}','${d.headline.replace(/'/g,"\\'")}')">🔗 Dela</button>
-</div>
-</div></div>`;
-}
-
-// ═══ INTERACTIONS ═══
-function toggleCard(id){
-  const det=document.getElementById("detail-"+id);
-  const arr=document.getElementById("arrow-"+id);
-  const open=det.classList.toggle("open");
-  arr.classList.toggle("open",open);
-}
-
-function toggleQuote(id){
-  document.getElementById("quote-"+id).classList.toggle("open");
-}
-
-async function shareDecision(id,hl){
-  const url=location.origin+"/beslut/"+id+"/";
-  if(navigator.share){try{await navigator.share({title:hl,url})}catch{}}
-  else{navigator.clipboard.writeText(url);
-    const btn=event.target;btn.textContent="✓ Kopierad!";setTimeout(()=>btn.textContent="🔗 Dela",2000)}
-}
-
-function subscribe(){
-  const email=document.getElementById("subEmail").value;
-  if(!email||!email.includes("@")){alert("Ange en giltig mejladress");return}
-  // TODO: Connect to Buttondown API
-  // fetch("https://api.buttondown.email/v1/subscribers",{method:"POST",headers:{"Authorization":"Token YOUR_KEY","Content-Type":"application/json"},body:JSON.stringify({email})})
-  alert("Tack! Du får ett mejl när nästa sammanfattning publiceras.\n\n(Prenumerationen är inte kopplad ännu — spara mejlen "+email+" manuellt.)");
-  document.getElementById("subEmail").value="";
-}
-
-function scrollToDecision(id){
-  if(!id)return;
-  const el=document.getElementById(id);
-  if(el){
-    el.classList.add("hi");
-    const det=document.getElementById("detail-"+id);
-    const arr=document.getElementById("arrow-"+id);
-    if(det)det.classList.add("open");
-    if(arr)arr.classList.add("open");
-    setTimeout(()=>el.scrollIntoView({behavior:"smooth",block:"center"}),100);
-  }
-}
-
-// ═══ START ═══
-loadData();
+const PC={S:"#e8112d",M:"#52bdec",C:"#009933",L:"#006ab3",KD:"#231977",V:"#da291c",SD:"#eab308","ÖrP":"#f47920",MP:"#83cf39"},PN={S:"Socialdemokraterna",M:"Moderaterna",C:"Centerpartiet",L:"Liberalerna",KD:"Kristdemokraterna",V:"Vänsterpartiet",SD:"Sverigedemokraterna","ÖrP":"Örebropartiet",MP:"Miljöpartiet"},CE={bygg:"🏗️",infrastruktur:"🛣️",skola:"🏫",budget:"💰",miljö:"🌿",trygghet:"🛡️",kultur:"🎭",politik:"⚖️",regler:"📜"},CC={bygg:"#d97706",infrastruktur:"#4f46e5",skola:"#059669",budget:"#2563eb",miljö:"#16a34a",trygghet:"#dc2626",kultur:"#9333ea",politik:"#475569",regler:"#b45309"},MO=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+const fmt=s=>{const d=new Date(s+"T12:00:00");return d.getDate()+" "+MO[d.getMonth()]+" "+d.getFullYear()};
+const g=(d,a,b)=>d[a]!==undefined?d[a]:d[b];
+let D,A,cCat=null,cQ="";
+const pp=(p,s)=>`<span class="pp" style="width:${s||18}px;height:${s||18}px;background:${PC[p]||"#999"};color:${p==="SD"?"#1a1a00":"#fff"}" title="${PN[p]||p}">${p}</span>`;
+function vh(v){if(!v)return"";const f=v.f||v["for"]||[],a=v.a||v.against||[],ab=v.ab||v.abstained||[],r=v.r||v.result||"";let h=`<div class="vr"><span class="rs">${r}</span>`;if(f.length)h+=`<div class="sd"><span class="sl" style="color:var(--green)">JA</span>${f.map(p=>pp(p)).join("")}</div>`;if(a.length)h+=`<div class="sd"><span class="sl" style="color:var(--red)">NEJ</span>${a.map(p=>pp(p)).join("")}</div>`;if(ab.length)h+=`<div class="sd"><span class="sl" style="color:var(--text-light)">—</span>${ab.map(p=>pp(p)).join("")}</div>`;return h+"</div>"}
+function bd(d){let h="";if(d.contested)h+=`<span class="bg bc">⚡ Omstritt</span> `;const r=(g(d,"vote","voting")||{}).r||(g(d,"vote","voting")||{}).result||"";if(r.toLowerCase().includes("votering"))h+=`<span class="bg bv">🗳️ Votering</span> `;if(r.toLowerCase().includes("enhälligt"))h+=`<span class="bg bu">✓ Enhälligt</span> `;return h}
+async function init(){const r=await fetch("data.json");D=await r.json();A=[];D.meetings.forEach(m=>{m.decisions.forEach(d=>{A.push({...d,mDate:m.date,mType:m.type||m.meeting_type||"",mUrl:m.url||m.source_url||""})})});A.sort((a,b)=>b.mDate.localeCompare(a.mDate));rHS();rF();rP();rFl();rD();rFs()}
+function rHS(){const c=A.filter(d=>d.contested).length,e=document.getElementById("hs");[{n:A.length,l:"Beslut sammanfattade",c:"#60a5fa"},{n:c,l:"Omstridda beslut",c:"#f87171"},{n:D.meetings.length,l:"Sammanträden",c:"#34d399"},{n:Object.keys(PC).length,l:"Partier analyserade",c:"#c084fc"}].forEach((s,i)=>{e.innerHTML+=`<div class="sc fu" style="animation-delay:${i*80}ms"><div class="n" style="color:${s.c}">${s.n}</div><div class="l">${s.l}</div></div>`})}
+function rF(){const d=A.find(x=>x.contested)||A[0];if(!d)return;document.getElementById("fhl").textContent=g(d,"hl","headline");document.getElementById("fsm").textContent=g(d,"sum","summary");document.getElementById("fmt").innerHTML=`<span>${d.mType} · ${fmt(d.mDate)}</span>${bd(d)}<span>${g(d,"ref","paragraph_ref")||""}</span>`;document.getElementById("fvt").innerHTML=vh(g(d,"vote","voting"));const dt=d.detail||"";if(dt){let h=dt.split("\n\n").map(p=>`<p>${p}</p>`).join("");if(d.quote)h+=`<div class="qb">"${d.quote}" <span class="qp">— ${d.qp||d.quote_page||""}</span></div>`;document.getElementById("fbd").innerHTML=`<div class="dt">${h}</div>`}document.getElementById("feat").style.borderLeftColor=CC[g(d,"cat","category")]||"var(--accent)"}
+function rP(){const s={};Object.keys(PC).forEach(p=>{s[p]={y:0,n:0,a:0,t:0}});A.forEach(d=>{const v=g(d,"vote","voting");if(!v)return;const f=v.f||v["for"]||[],a=v.a||v.against||[],ab=v.ab||v.abstained||[];[...f,...a,...ab].forEach(p=>{if(!s[p])return;s[p].t++;if(f.includes(p))s[p].y++;else if(a.includes(p))s[p].n++;else s[p].a++})});document.getElementById("psb").textContent=`Baserat på ${A.length} beslut i Kommunfullmäktige och Kommunstyrelsen`;const gr=document.getElementById("pgr");Object.entries(s).filter(([,v])=>v.t>0).sort((a,b)=>(b[1].n/Math.max(b[1].t,1))-(a[1].n/Math.max(a[1].t,1))).forEach(([p,v])=>{const yP=Math.round(v.y/Math.max(v.t,1)*100),nP=Math.round(v.n/Math.max(v.t,1)*100),aP=100-yP-nP;gr.innerHTML+=`<a href="parti/${p.toLowerCase()}/" class="pc" style="border-top-color:${PC[p]}"><div class="tp">${pp(p,26)}<div><div class="nm">${PN[p]}</div><div class="vt">${v.t} röstningar</div></div></div><div class="vb"><div style="width:${yP}%;background:var(--green)"></div><div style="width:${nP}%;background:var(--red)"></div><div style="width:${aP}%;background:#d4d0cc"></div></div><div class="ps"><span style="color:var(--green)">JA ${yP}%</span><span style="color:var(--red)">NEJ ${nP}%</span>${aP>0?`<span>AVSTOD ${aP}%</span>`:""}</div></a>`})}
+function rFl(){const cs=[...new Set(A.map(d=>g(d,"cat","category")).filter(Boolean))].sort(),e=document.getElementById("flt");e.innerHTML=`<input placeholder="Sök beslut..." oninput="cQ=this.value.toLowerCase();rD()"><button class="on" onclick="cCat=null;document.querySelectorAll('#flt button').forEach(b=>b.classList.remove('on'));this.classList.add('on');rD()">Alla</button>`;cs.forEach(c=>{e.innerHTML+=`<button onclick="cCat='${c}';document.querySelectorAll('#flt button').forEach(b=>b.classList.remove('on'));this.classList.add('on');rD()">${CE[c]||"📋"} ${c[0].toUpperCase()+c.slice(1)}</button>`})}
+function rD(){const f=A.filter(d=>{if(cCat&&g(d,"cat","category")!==cCat)return false;if(cQ){const s=[g(d,"hl","headline"),g(d,"sum","summary"),d.detail||"",g(d,"loc","location")||"",...(d.tags||[])].join(" ").toLowerCase();if(!s.includes(cQ))return false}return true});document.getElementById("dcn").textContent=f.length+" beslut";const e=document.getElementById("dl");e.innerHTML="";f.forEach((d,i)=>{const hl=g(d,"hl","headline"),sm=g(d,"sum","summary"),cat=g(d,"cat","category"),loc=g(d,"loc","location"),ref=g(d,"ref","paragraph_ref"),v=g(d,"vote","voting"),dt=d.detail||"";let bh="";if(dt)bh+=`<div class="dt">${dt.split("\n\n").map(p=>`<p>${p}</p>`).join("")}</div>`;bh+=vh(v);if(d.quote)bh+=`<div class="qb">"${d.quote}" <span class="qp">— ${d.qp||d.quote_page||""}</span></div>`;e.innerHTML+=`<div class="dc" id="d${i}" style="border-left-color:${CC[cat]||"var(--border)"}"><div class="hd" onclick="document.getElementById('d${i}').classList.toggle('op')"><span style="font-size:18px;flex-shrink:0;margin-top:1px">${CE[cat]||"📋"}</span><div style="flex:1;min-width:0"><div class="hl">${hl} ${bd(d)}</div><div class="ds">${sm}</div><div class="dm"><span>${d.mType}</span><span>·</span><span>${fmt(d.mDate)}</span>${ref?`<span>·</span><span>${ref}</span>`:""}${loc?`<span>·</span><span>📍 ${loc}</span>`:""}</div></div><span class="ar">▼</span></div><div class="bd">${bh}</div></div>`})}
+function rFs(){const ds=D.meetings.map(m=>m.date).sort();document.getElementById("fs").textContent=`${D.meetings.length} sammanträden · ${A.length} beslut · ${ds[0]} — ${ds[ds.length-1]}`}
+init();
 </script>
 </body>
 </html>
