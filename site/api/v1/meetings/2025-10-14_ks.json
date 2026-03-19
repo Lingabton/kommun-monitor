@@ -73,11 +73,11 @@
   "motions_of_interest": [],
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ks.json",
+    "self": "https://kommun-monitor.se/api/v1/meetings/2025-10-14_ks.json",
     "decisions": [
-      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ks_196.json",
-      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ks_203.json"
+      "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_196.json",
+      "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_203.json"
     ],
-    "web_url": "https://Lingabton.github.io/kommun-monitor/#meeting-2025-10-14_ks"
+    "web_url": "https://kommun-monitor.se/#meeting-2025-10-14_ks"
   }
 }

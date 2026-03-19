@@ -10,7 +10,7 @@
       "decisions_count": 4,
       "contested_count": 3,
       "source_url": "https://orebro.se/test.pdf",
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_kf.json"
+      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-12-10_kf.json"
     },
     {
       "id": "2025-10-14_ks",
@@ -21,7 +21,7 @@
       "decisions_count": 2,
       "contested_count": 2,
       "source_url": "https://orebro.se/test2.pdf",
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ks.json"
+      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-10-14_ks.json"
     },
     {
       "id": "2025-09-24_kf",
@@ -32,7 +32,7 @@
       "decisions_count": 1,
       "contested_count": 1,
       "source_url": "https://orebro.se/test3.pdf",
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_kf.json"
+      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-09-24_kf.json"
     },
     {
       "id": "2025-08-27_kf",
@@ -43,7 +43,7 @@
       "decisions_count": 4,
       "contested_count": 4,
       "source_url": "https://orebro.se/test4.pdf",
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_kf.json"
+      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-08-27_kf.json"
     },
     {
       "id": "2024-04-09_ks",
@@ -54,7 +54,7 @@
       "decisions_count": 3,
       "contested_count": 2,
       "source_url": "https://orebro.se/test5.pdf",
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ks.json"
+      "api_url": "https://kommun-monitor.se/api/v1/meetings/2024-04-09_ks.json"
     }
   ]
 }

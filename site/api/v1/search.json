@@ -1,6 +1,6 @@
 {
   "count": 14,
-  "updated": "2026-03-19T14:14:04.531656+00:00",
+  "updated": "2026-03-19T12:37:19.015074+00:00",
   "entries": [
     {
       "id": "2025-12-10_kf_389",
@@ -17,8 +17,8 @@
       "date": "2025-12-10",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_389.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_389/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_389.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_389/",
       "text": "202 socialtjänstbeslut väntar antalet ej verkställda sol/lss-beslut ökar. totalt 202 beslut.\n\nv ville tvinga fram lösning. socialtjänst sol lss välfärd"
     },
     {
@@ -37,8 +37,8 @@
       "date": "2025-12-10",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_390.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_390/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_390.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_390/",
       "text": "motion om farligt gods genom örebro avslås sd ville pressa trafikverket. 21 reserverade sig. bordlagd fyra gånger.\n\nbrett oppositionsstöd: sd, örp, l, kd. örebro centrum (järnväg) farligt gods trafikverket järnväg transport centrum"
     },
     {
@@ -55,8 +55,8 @@
       "date": "2025-12-10",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_395.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_395/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_395.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_395/",
       "text": "cirkulationsbibliotek röstades ned 39-22 l ville ha klassuppsättningar till skolor. votering begärdes. 39-22. bibliotek skola läsning"
     },
     {
@@ -72,8 +72,8 @@
       "date": "2025-12-10",
       "meeting_type": "Kommunfullmäktige",
       "contested": false,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_388.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_388/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_388.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_388/",
       "text": "nämndreglementen revideras ny socialtjänstlag kräver uppdatering. budget- och skuldrådgivning flyttas. socialtjänstlagen reglemente"
     },
     {
@@ -90,8 +90,8 @@
       "date": "2025-10-14",
       "meeting_type": "Kommunstyrelsen",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ks_196.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ks_196/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_196.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-10-14_ks_196/",
       "text": "negativ budgetavvikelse på 210 msek delårsrapporten visar kraftigt underskott. prognos 257 msek vs budget 467 msek.\n\n78 msek i verksamheten, 132 msek finansiellt. budget ekonomi underskott"
     },
     {
@@ -108,8 +108,8 @@
       "date": "2025-10-14",
       "meeting_type": "Kommunstyrelsen",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ks_203.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ks_203/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_203.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-10-14_ks_203/",
       "text": "motion om kärnkraft (smr) avslås sd ville peka ut områden för smr. bedöms som för tidigt. kärnkraft smr energi"
     },
     {
@@ -127,8 +127,8 @@
       "date": "2025-09-24",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_kf_266.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-09-24_kf_266/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-09-24_kf_266.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-09-24_kf_266/",
       "text": "eyrafältet-fastighet säljs för 63 msek fastighet som köptes 2024 säljs vidare till norrpalatset. bedöms inte behövas för idrott. ska bli bostäder. eyrafältet eyrafältet fastighetsförsäljning örebroporten bostäder"
     },
     {
@@ -145,8 +145,8 @@
       "date": "2025-08-27",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_217.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_217/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_217.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_217/",
       "text": "naturreservat garphytteklint bildas nytt naturreservat med skötselplan. sd och örp reserverade sig. garphytteklint naturreservat garphytteklint miljö"
     },
     {
@@ -163,8 +163,8 @@
       "date": "2025-08-27",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_221.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_221/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_221.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_221/",
       "text": "maxtak barngrupper i förskolan avslås v ville ha max 12 barn per grupp. röstades ned. votering 14-8 med 42 som avstod.\n\nv, sd, kd, mp ville ha maxtak. förskola barngrupper skolverket"
     },
     {
@@ -181,8 +181,8 @@
       "date": "2025-08-27",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_222.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_222/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_222.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_222/",
       "text": "förskolan igelkotten stängs godkännande för huvudmannen återkallas. örp hade lagt motionen. stöd från s, m, c, l, kd. förskola igelkotten stängning"
     },
     {
@@ -199,8 +199,8 @@
       "date": "2025-08-27",
       "meeting_type": "Kommunfullmäktige",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_223.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_223/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_223.json",
+      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_223/",
       "text": "mer pengar till välfärdspersonal avslås v ville se över ledningsorganisationen. brett stöd men avslogs. 27 ledamöter reserverade sig.\n\nalla utom s, m, c ville bifalla. välfärd personal löner"
     },
     {
@@ -218,8 +218,8 @@
       "date": "2024-04-09",
       "meeting_type": "Kommunstyrelsen",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_76.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ks_76/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_76.json",
+      "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_76/",
       "text": "kommunen köper sex fastigheter vid eyrafältet 154 msek för eyrafältets framtid. region säljer. örebroporten köper. eyrafältet/eklundavägen eyrafältet fastighetsköp örebroporten eklundavägen"
     },
     {
@@ -235,8 +235,8 @@
       "date": "2024-04-09",
       "meeting_type": "Kommunstyrelsen",
       "contested": true,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_74.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ks_74/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_74.json",
+      "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_74/",
       "text": "v kräver flygplatsavveckling yrkade i två ärenden. avslogs. v vill utreda avveckling. örebro flygplats flygplats avveckling"
     },
     {
@@ -254,8 +254,8 @@
       "date": "2024-04-09",
       "meeting_type": "Kommunstyrelsen",
       "contested": false,
-      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_83.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ks_83/",
+      "url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_83.json",
+      "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_83/",
       "text": "regler för uteserveringar byter ägare sju styrdokument överförs till ks. uteserveringar, parkering, cykel m.m. uteservering parkering styrdokument centrum"
     }
   ]

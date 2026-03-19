@@ -117,12 +117,12 @@
   ],
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ks.json",
+    "self": "https://kommun-monitor.se/api/v1/meetings/2024-04-09_ks.json",
     "decisions": [
-      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_76.json",
-      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_74.json",
-      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_83.json"
+      "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_76.json",
+      "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_74.json",
+      "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_83.json"
     ],
-    "web_url": "https://Lingabton.github.io/kommun-monitor/#meeting-2024-04-09_ks"
+    "web_url": "https://kommun-monitor.se/#meeting-2024-04-09_ks"
   }
 }

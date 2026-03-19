@@ -37,11 +37,11 @@
       ],
       "top_allies": [
         [
-          "C",
+          "M",
           14
         ],
         [
-          "M",
+          "C",
           14
         ],
         [
@@ -63,8 +63,8 @@
           5
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/s.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/s/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/s.json",
+      "web_url": "https://kommun-monitor.se/parti/s/"
     },
     {
       "abbr": "M",
@@ -127,8 +127,8 @@
           5
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/m.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/m/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/m.json",
+      "web_url": "https://kommun-monitor.se/parti/m/"
     },
     {
       "abbr": "C",
@@ -191,8 +191,8 @@
           5
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/c.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/c/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/c.json",
+      "web_url": "https://kommun-monitor.se/parti/c/"
     },
     {
       "abbr": "KD",
@@ -237,17 +237,17 @@
           9
         ],
         [
-          "M",
+          "S",
           8
         ]
       ],
       "top_opponents": [
         [
-          "C",
+          "M",
           5
         ],
         [
-          "M",
+          "C",
           5
         ],
         [
@@ -255,8 +255,8 @@
           5
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/kd.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/kd/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/kd.json",
+      "web_url": "https://kommun-monitor.se/parti/kd/"
     },
     {
       "abbr": "V",
@@ -301,17 +301,17 @@
           7
         ],
         [
-          "C",
+          "M",
           6
         ]
       ],
       "top_opponents": [
         [
-          "C",
+          "M",
           4
         ],
         [
-          "M",
+          "C",
           4
         ],
         [
@@ -319,8 +319,8 @@
           4
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/v.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/v/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/v.json",
+      "web_url": "https://kommun-monitor.se/parti/v/"
     },
     {
       "abbr": "ÖrP",
@@ -371,11 +371,11 @@
       ],
       "top_opponents": [
         [
-          "C",
+          "M",
           9
         ],
         [
-          "M",
+          "C",
           9
         ],
         [
@@ -383,8 +383,8 @@
           9
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/örp.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/örp/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/örp.json",
+      "web_url": "https://kommun-monitor.se/parti/örp/"
     },
     {
       "abbr": "L",
@@ -425,21 +425,21 @@
           12
         ],
         [
-          "M",
+          "S",
           9
         ],
         [
-          "C",
+          "M",
           9
         ]
       ],
       "top_opponents": [
         [
-          "C",
+          "M",
           4
         ],
         [
-          "M",
+          "C",
           4
         ],
         [
@@ -447,8 +447,8 @@
           4
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/l.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/l/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/l.json",
+      "web_url": "https://kommun-monitor.se/parti/l/"
     },
     {
       "abbr": "SD",
@@ -489,21 +489,21 @@
           8
         ],
         [
-          "KD",
+          "L",
           7
         ],
         [
-          "L",
+          "KD",
           7
         ]
       ],
       "top_opponents": [
         [
-          "C",
+          "M",
           8
         ],
         [
-          "M",
+          "C",
           8
         ],
         [
@@ -511,8 +511,8 @@
           8
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/sd.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/sd/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/sd.json",
+      "web_url": "https://kommun-monitor.se/parti/sd/"
     },
     {
       "abbr": "MP",
@@ -557,17 +557,17 @@
           7
         ],
         [
-          "SD",
+          "ÖrP",
           6
         ]
       ],
       "top_opponents": [
         [
-          "C",
+          "M",
           4
         ],
         [
-          "M",
+          "C",
           4
         ],
         [
@@ -575,8 +575,8 @@
           4
         ]
       ],
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/mp.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/mp/"
+      "api_url": "https://kommun-monitor.se/api/v1/parties/mp.json",
+      "web_url": "https://kommun-monitor.se/parti/mp/"
     }
   ]
 }

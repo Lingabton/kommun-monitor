@@ -87,8 +87,25 @@ def find_protocol_pdfs(html, page_url, source):
     return results
 
 
+KNOWN_PROTOCOLS = [
+    {"url": "https://www.orebro.se/download/18.6d27b614190a6cbff6555d3/1773670394448/2026-02-25%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2026-02-25"},
+    {"url": "https://www.orebro.se/download/18.8867c7715df946645438c2/1772810421399/2026-02-10%20Kommunstyrelsen.pdf", "body": "Kommunstyrelsen", "date": "2026-02-10"},
+    {"url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d496a0/1766065782586/2026-01-27%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2026-01-27"},
+    {"url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2025-12-10"},
+    {"url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf", "body": "Kommunstyrelsen", "date": "2025-10-14"},
+    {"url": "https://www.orebro.se/download/18.51f8f580198e626bf11c67/1756478793570/2025-09-24%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2025-09-24"},
+    {"url": "https://www.orebro.se/download/18.51f8f580198e626bf11a67/1756478793570/2025-08-27%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2025-08-27"},
+    {"url": "https://www.orebro.se/download/18.373e7d5197a1b30d44c63/1749643268850/2025-06-16%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2025-06-16"},
+    {"url": "https://www.orebro.se/download/18.66f592fc19618bf6fcfbe9/1745482716720/2025-05-20%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2025-05-20"},
+    {"url": "https://www.orebro.se/download/18.32ff94ba195c3f39a6e6b7/1742456093370/2025-03-26%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2025-03-26"},
+    {"url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf", "body": "Kommunstyrelsen", "date": "2025-02-11"},
+    {"url": "https://www.orebro.se/download/18.7293c3c419540ac12cf1d9/1739181478099/2025-01-28%20Kommunfullm%C3%A4ktige.pdf", "body": "Kommunfullmäktige", "date": "2025-01-28"},
+    {"url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf", "body": "Kommunstyrelsen", "date": "2024-04-09"},
+]
+
 def discover_all():
     all_p = []
+    # Try scraping pages first
     for page in SCRAPE_PAGES:
         logging.info(f"Scanning {page['name']}...")
         html = fetch_page(page["url"])
@@ -96,6 +113,18 @@ def discover_all():
             found = find_protocol_pdfs(html, page["url"], page["name"])
             logging.info(f"  {len(found)} PDFs found")
             all_p.extend(found)
+
+    # If scraping found nothing, use known protocol URLs
+    if not all_p:
+        logging.info("No PDFs found via scraping — using known protocol URLs")
+        for kp in KNOWN_PROTOCOLS:
+            pid = f"{kp['date']}_{kp['body'][:2].lower()}"
+            all_p.append({
+                "id": pid, "url": kp["url"], "text": f"{kp['date']} {kp['body']}",
+                "source": kp["body"], "body": kp["body"], "date": kp["date"]
+            })
+        logging.info(f"  {len(all_p)} known protocols added")
+
     seen = set()
     return [p for p in all_p if not (p["url"] in seen or seen.add(p["url"]))]
 
