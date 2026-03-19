@@ -16,8 +16,8 @@
         "välfärd"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_389.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_389/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_389.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_389/"
     },
     {
       "id": "2025-12-10_kf_390",
@@ -35,8 +35,8 @@
         "centrum"
       ],
       "location": "Örebro centrum (järnväg)",
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_390.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_390/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_390.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_390/"
     },
     {
       "id": "2025-12-10_kf_395",
@@ -52,8 +52,8 @@
         "läsning"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_395.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_395/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_395.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_395/"
     },
     {
       "id": "2025-12-10_kf_388",
@@ -68,8 +68,8 @@
         "reglemente"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_388.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-12-10_kf_388/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_kf_388.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_kf_388/"
     },
     {
       "id": "2025-10-14_ks_196",
@@ -85,8 +85,8 @@
         "underskott"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_196.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-10-14_ks_196/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ks_196.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ks_196/"
     },
     {
       "id": "2025-10-14_ks_203",
@@ -102,8 +102,8 @@
         "energi"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_203.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-10-14_ks_203/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ks_203.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ks_203/"
     },
     {
       "id": "2025-09-24_kf_266",
@@ -120,8 +120,8 @@
         "bostäder"
       ],
       "location": "Eyrafältet",
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-09-24_kf_266.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-09-24_kf_266/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_kf_266.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-09-24_kf_266/"
     },
     {
       "id": "2025-08-27_kf_217",
@@ -137,8 +137,8 @@
         "miljö"
       ],
       "location": "Garphytteklint",
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_217.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_217/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_217.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_217/"
     },
     {
       "id": "2025-08-27_kf_221",
@@ -154,8 +154,8 @@
         "skolverket"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_221.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_221/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_221.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_221/"
     },
     {
       "id": "2025-08-27_kf_222",
@@ -171,8 +171,8 @@
         "stängning"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_222.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_222/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_222.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_222/"
     },
     {
       "id": "2025-08-27_kf_223",
@@ -188,8 +188,8 @@
         "löner"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_223.json",
-      "web_url": "https://kommun-monitor.se/beslut/2025-08-27_kf_223/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_kf_223.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_kf_223/"
     },
     {
       "id": "2024-04-09_ks_76",
@@ -206,8 +206,8 @@
         "eklundavägen"
       ],
       "location": "Eyrafältet/Eklundavägen",
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_76.json",
-      "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_76/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_76.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ks_76/"
     },
     {
       "id": "2024-04-09_ks_74",
@@ -222,8 +222,8 @@
         "avveckling"
       ],
       "location": "Örebro flygplats",
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_74.json",
-      "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_74/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_74.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ks_74/"
     },
     {
       "id": "2024-04-09_ks_83",
@@ -240,8 +240,8 @@
         "centrum"
       ],
       "location": null,
-      "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_83.json",
-      "web_url": "https://kommun-monitor.se/beslut/2024-04-09_ks_83/"
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ks_83.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ks_83/"
     }
   ]
 }

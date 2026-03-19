@@ -1,8 +1,8 @@
 {
   "api": "Kommun Monitor API",
   "version": "1.0.0",
-  "base_url": "https://kommun-monitor.se/api/v1",
-  "generated_at": "2026-03-19T12:37:18.987004+00:00",
+  "base_url": "https://Lingabton.github.io/kommun-monitor/api/v1",
+  "generated_at": "2026-03-19T13:24:24.938415+00:00",
   "stats": {
     "municipalities": 1,
     "meetings": 5,

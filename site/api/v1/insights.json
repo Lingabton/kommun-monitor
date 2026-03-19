@@ -9,8 +9,8 @@
     "formal_votes": 3,
     "majority_parties": [
       "C",
-      "S",
-      "M"
+      "M",
+      "S"
     ],
     "interpretation": "Majoriteten (S, M, C) vinner 100% av alla röstningar — i praktiken total kontroll. Vid 4 av 14 tillfällen var oppositionen samlad emot — men förlorade ändå varje gång. 3 formella voteringer visar att konfliktnivån är hög."
   },
@@ -725,6 +725,29 @@
   ],
   "opposition_effectiveness": [
     {
+      "party": "KD",
+      "name": "Kristdemokraterna",
+      "motions_filed": 2,
+      "motions_granted": 0,
+      "reservations": 5,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Kompensation till drabbade företag",
+          "party": "KD",
+          "status": "Remitterad till KS",
+          "date": "2025-12-10"
+        },
+        {
+          "title": "Öppna skolmatsalar för seniorer",
+          "party": "KD",
+          "status": "Bereds av KS",
+          "date": "2024-04-09"
+        }
+      ],
+      "interpretation": "KD har lagt 2 motioner men ingen har bifallits. 5 reservationer totalt."
+    },
+    {
       "party": "L",
       "name": "Liberalerna",
       "motions_filed": 2,
@@ -771,29 +794,6 @@
       "interpretation": "V har lagt 2 motioner men ingen har bifallits. 4 reservationer totalt."
     },
     {
-      "party": "KD",
-      "name": "Kristdemokraterna",
-      "motions_filed": 2,
-      "motions_granted": 0,
-      "reservations": 5,
-      "effectiveness_score": 0,
-      "motions": [
-        {
-          "title": "Kompensation till drabbade företag",
-          "party": "KD",
-          "status": "Remitterad till KS",
-          "date": "2025-12-10"
-        },
-        {
-          "title": "Öppna skolmatsalar för seniorer",
-          "party": "KD",
-          "status": "Bereds av KS",
-          "date": "2024-04-09"
-        }
-      ],
-      "interpretation": "KD har lagt 2 motioner men ingen har bifallits. 5 reservationer totalt."
-    },
-    {
       "party": "SD",
       "name": "Sverigedemokraterna",
       "motions_filed": 1,
@@ -811,16 +811,6 @@
       "interpretation": "SD har lagt 1 motioner men ingen har bifallits. 8 reservationer totalt."
     },
     {
-      "party": "ÖrP",
-      "name": "Örebropartiet",
-      "motions_filed": 0,
-      "motions_granted": 0,
-      "reservations": 9,
-      "effectiveness_score": 0,
-      "motions": [],
-      "interpretation": "ÖrP har reserverat sig 9 gånger."
-    },
-    {
       "party": "MP",
       "name": "Miljöpartiet",
       "motions_filed": 0,
@@ -829,6 +819,16 @@
       "effectiveness_score": 0,
       "motions": [],
       "interpretation": "MP har reserverat sig 4 gånger."
+    },
+    {
+      "party": "ÖrP",
+      "name": "Örebropartiet",
+      "motions_filed": 0,
+      "motions_granted": 0,
+      "reservations": 9,
+      "effectiveness_score": 0,
+      "motions": [],
+      "interpretation": "ÖrP har reserverat sig 9 gånger."
     }
   ],
   "trends": {

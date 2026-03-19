@@ -51,23 +51,23 @@
     }
   ],
   "agreement_with": {
-    "KD": 7,
     "ÖrP": 7,
+    "KD": 7,
     "M": 6,
     "C": 6,
     "S": 6,
-    "L": 6,
     "MP": 6,
-    "SD": 5
+    "SD": 5,
+    "L": 6
   },
   "disagreement_with": {
     "M": 4,
     "C": 4,
     "S": 4,
-    "SD": 4,
-    "L": 3,
     "KD": 3,
     "ÖrP": 3,
+    "L": 3,
+    "SD": 4,
     "MP": 1
   },
   "for_pct": 43,
@@ -98,11 +98,11 @@
   ],
   "top_allies": [
     [
-      "KD",
+      "ÖrP",
       7
     ],
     [
-      "ÖrP",
+      "KD",
       7
     ],
     [
@@ -126,8 +126,8 @@
   ],
   "abbr": "V",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/v.json",
-    "web_url": "https://kommun-monitor.se/parti/v/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/v.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/v/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

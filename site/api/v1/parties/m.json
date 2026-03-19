@@ -23,18 +23,18 @@
     "C": 14,
     "S": 14,
     "V": 6,
-    "L": 9,
-    "KD": 8,
     "ÖrP": 4,
     "MP": 4,
-    "SD": 3
+    "SD": 3,
+    "L": 9,
+    "KD": 8
   },
   "disagreement_with": {
-    "KD": 5,
     "V": 4,
     "ÖrP": 9,
-    "SD": 8,
+    "KD": 5,
     "L": 4,
+    "SD": 8,
     "MP": 4
   },
   "for_pct": 100,
@@ -93,8 +93,8 @@
   ],
   "abbr": "M",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/m.json",
-    "web_url": "https://kommun-monitor.se/parti/m/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/m.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/m/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

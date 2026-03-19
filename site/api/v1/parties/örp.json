@@ -66,10 +66,10 @@
   },
   "motions_filed": [],
   "agreement_with": {
-    "KD": 9,
     "V": 7,
-    "SD": 8,
+    "KD": 9,
     "L": 8,
+    "SD": 8,
     "MP": 6,
     "S": 4,
     "M": 4,
@@ -81,9 +81,9 @@
     "S": 9,
     "V": 3,
     "SD": 2,
+    "MP": 2,
     "L": 4,
-    "KD": 4,
-    "MP": 2
+    "KD": 4
   },
   "for_pct": 29,
   "against_pct": 64,
@@ -117,11 +117,11 @@
       9
     ],
     [
-      "SD",
+      "L",
       8
     ],
     [
-      "L",
+      "SD",
       8
     ]
   ],
@@ -141,8 +141,8 @@
   ],
   "abbr": "ÖrP",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/örp.json",
-    "web_url": "https://kommun-monitor.se/parti/örp/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/örp.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/örp/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

@@ -59,8 +59,8 @@
   "agreement_with": {
     "V": 7,
     "ÖrP": 9,
-    "SD": 7,
     "L": 12,
+    "SD": 7,
     "MP": 7,
     "S": 8,
     "M": 8,
@@ -131,8 +131,8 @@
   ],
   "abbr": "KD",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/kd.json",
-    "web_url": "https://kommun-monitor.se/parti/kd/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/kd.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/kd/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }
