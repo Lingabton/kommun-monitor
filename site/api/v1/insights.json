@@ -8,9 +8,9 @@
     "opposition_united_but_lost": 4,
     "formal_votes": 3,
     "majority_parties": [
-      "S",
       "M",
-      "C"
+      "C",
+      "S"
     ],
     "interpretation": "Majoriteten (S, M, C) vinner 100% av alla röstningar — i praktiken total kontroll. Vid 4 av 14 tillfällen var oppositionen samlad emot — men förlorade ändå varje gång. 3 formella voteringer visar att konfliktnivån är hög."
   },
@@ -725,6 +725,29 @@
   ],
   "opposition_effectiveness": [
     {
+      "party": "V",
+      "name": "Vänsterpartiet",
+      "motions_filed": 2,
+      "motions_granted": 0,
+      "reservations": 4,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Nyckeltal för antal anställda per chef",
+          "party": "V",
+          "status": "Remitterad till KS",
+          "date": "2025-08-27"
+        },
+        {
+          "title": "Återbruk i alla led",
+          "party": "V",
+          "status": "Bereds av KS",
+          "date": "2024-04-09"
+        }
+      ],
+      "interpretation": "V har lagt 2 motioner men ingen har bifallits. 4 reservationer totalt."
+    },
+    {
       "party": "L",
       "name": "Liberalerna",
       "motions_filed": 2,
@@ -769,29 +792,6 @@
         }
       ],
       "interpretation": "KD har lagt 2 motioner men ingen har bifallits. 5 reservationer totalt."
-    },
-    {
-      "party": "V",
-      "name": "Vänsterpartiet",
-      "motions_filed": 2,
-      "motions_granted": 0,
-      "reservations": 4,
-      "effectiveness_score": 0,
-      "motions": [
-        {
-          "title": "Nyckeltal för antal anställda per chef",
-          "party": "V",
-          "status": "Remitterad till KS",
-          "date": "2025-08-27"
-        },
-        {
-          "title": "Återbruk i alla led",
-          "party": "V",
-          "status": "Bereds av KS",
-          "date": "2024-04-09"
-        }
-      ],
-      "interpretation": "V har lagt 2 motioner men ingen har bifallits. 4 reservationer totalt."
     },
     {
       "party": "SD",
