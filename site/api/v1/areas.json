@@ -1,47 +1,29 @@
 {
-  "count": 3,
+  "count": 6,
   "areas": [
     {
       "id": "eyrafältet",
       "name": "Eyrafältet",
       "decisions_count": 2,
-      "api_url": "https://kommun-monitor.se/api/v1/areas/eyrafältet.json",
-      "web_url": "https://kommun-monitor.se/omrade/eyrafältet/",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/eyrafältet.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/eyrafältet/",
       "decisions": [
         {
-          "id": "2025-09-24_kf_266",
-          "headline": "Eyrafältet-fastighet säljs för 63 MSEK",
-          "summary": "Fastighet som köptes 2024 säljs vidare till Norrpalatset.",
-          "date": "2025-09-24",
-          "meeting_type": "Kommunfullmäktige",
-          "category": "bygg",
+          "id": "2024-04-09_ko_76",
+          "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
+          "summary": "Kommunstyrelsen godkände att Örebroporten Fastigheter AB förvärvar fyra fastigheter från Region Örebro Län för cirka 140 miljoner kronor, och Örebroporten Holding AB förvärvar en fastighet från Länsgården för cirka 14 miljoner kronor. Fastigheterna vid Eklundavägen kommer att användas för utveckling av elitidrottsområdet på Eyrafältet.",
+          "date": "2024-04-09",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "infrastruktur",
           "contested": true
         },
         {
-          "id": "2024-04-09_ks_76",
-          "headline": "Kommunen köper sex fastigheter vid Eyrafältet",
-          "summary": "154 MSEK för Eyrafältets framtid.",
+          "id": "2024-04-09_ko_76",
+          "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
+          "summary": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
           "date": "2024-04-09",
           "meeting_type": "Kommunstyrelsen",
-          "category": "bygg",
-          "contested": true
-        }
-      ]
-    },
-    {
-      "id": "garphyttan",
-      "name": "Garphyttan",
-      "decisions_count": 1,
-      "api_url": "https://kommun-monitor.se/api/v1/areas/garphyttan.json",
-      "web_url": "https://kommun-monitor.se/omrade/garphyttan/",
-      "decisions": [
-        {
-          "id": "2025-08-27_kf_217",
-          "headline": "Naturreservat Garphytteklint bildas",
-          "summary": "Nytt naturreservat med skötselplan.",
-          "date": "2025-08-27",
-          "meeting_type": "Kommunfullmäktige",
-          "category": "miljö",
+          "category": "infrastruktur",
           "contested": true
         }
       ]
@@ -49,18 +31,99 @@
     {
       "id": "flygplatsen",
       "name": "Flygplatsen",
-      "decisions_count": 1,
-      "api_url": "https://kommun-monitor.se/api/v1/areas/flygplatsen.json",
-      "web_url": "https://kommun-monitor.se/omrade/flygplatsen/",
+      "decisions_count": 2,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/flygplatsen.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/flygplatsen/",
       "decisions": [
         {
-          "id": "2024-04-09_ks_74",
-          "headline": "V kräver flygplatsavveckling",
-          "summary": "Yrkade i två ärenden. Avslogs.",
+          "id": "2025-10-14_ko_202",
+          "headline": "Nya revisorer valda för kommunens bolag",
+          "summary": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+          "date": "2025-10-14",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "ovrigt",
+          "contested": false
+        },
+        {
+          "id": "2024-04-09_ko_77",
+          "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+          "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
           "date": "2024-04-09",
           "meeting_type": "Kommunstyrelsen",
+          "category": "ovrigt",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "centrum",
+      "name": "Centrum",
+      "decisions_count": 1,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/centrum.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/centrum/",
+      "decisions": [
+        {
+          "id": "2025-12-10_ko_397-417",
+          "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+          "summary": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra.",
+          "date": "2025-12-10",
+          "meeting_type": "Kommunfullmäktige",
           "category": "politik",
           "contested": true
+        }
+      ]
+    },
+    {
+      "id": "öster",
+      "name": "Öster",
+      "decisions_count": 1,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/öster.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/öster/",
+      "decisions": [
+        {
+          "id": "2025-10-14_ko_206",
+          "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
+          "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+          "date": "2025-10-14",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "infrastruktur",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "karlslund",
+      "name": "Karlslund",
+      "decisions_count": 1,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/karlslund.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/karlslund/",
+      "decisions": [
+        {
+          "id": "2024-04-09_ko_83",
+          "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
+          "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+          "date": "2024-04-09",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "regler",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "hjälmaren",
+      "name": "Hjälmaren",
+      "decisions_count": 1,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/hjälmaren.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/hjälmaren/",
+      "decisions": [
+        {
+          "id": "2024-04-09_ko_83",
+          "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
+          "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+          "date": "2024-04-09",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "regler",
+          "contested": false
         }
       ]
     }

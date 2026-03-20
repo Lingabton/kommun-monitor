@@ -1,0 +1,49 @@
+{
+  "id": "2025-12-10_ko_394_395",
+  "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+  "summary": "Två kulturella motioner avslogs: en om medborgarundersökning om arkitektur och en om cirkulationsbibliotek för att främja läsning bland elever. Båda fick omfattande reservationer.",
+  "detail": "Motion från Carola Sunesson (SD) och Habib Brini (SD) föreslog tre åtgärder: genomförande av medborgarundersökning om arkitekturinriktning, omformulering av arkitekturpolicyn utifrån resultatet, och utredning av modell för medborgarinflytande på arkitektur. Kommunstyrelsen bedömde att befintliga styrdokument och former för medborgarinflytande är tillräckliga.\n\nFullmäktige avslogs motionen i två steg. På motionens första och andra beslutspunkt röstade Kemal Hoso (S) med flera för avslag, medan motionärerna yrkade på godkännande. På tredje beslutspunkten hade Markus Allard (ÖrP) ett eget bifallsyrkande och Susanne Lindholm Henningsson (KD) yrkade på att punkten anses besvarad.\n\nMotion från Johanna Reimfelt (L) och Mats-Olof Liljegren (L) föreslog cirkulationsbibliotek där kommunens folkbibliotek tillhandahåller klassuppsättningar till grundskolorna. Förskole- och grundskoleförvaltningen bedömde verksamheten som skolans ansvar, inte folkbibliotekets, och att behov och förutsättningar saknades.\n\nFullmäktige avslog även denna motion med votering: 39 ja-röster för avslag, 22 nej-röster. Maria Haglund (M) med flera yrkade på avslag. Mats-Olof Liljegren (L) med flera yrkade på godkännande. Många oppositonspartier (SD, ÖrP, L, KD, MP) reserverade sig.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 394, 395",
+  "tags": [
+    "arkitektur",
+    "medborgarinflytande",
+    "folkbibliotek",
+    "läsning",
+    "klassuppsättningar",
+    "grundskola"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslag 39-22 (votering § 395)"
+  },
+  "quote": "Motionen avslås. / Motionen avslås. (votering 39-22)",
+  "quote_page": "s. 17-20",
+  "meeting": {
+    "id": "2025-12-10_ko",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_394_395.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_394_395/"
+  }
+}

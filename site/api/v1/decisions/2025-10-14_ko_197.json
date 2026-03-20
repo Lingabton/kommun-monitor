@@ -1,0 +1,45 @@
+{
+  "id": "2025-10-14_ko_197",
+  "headline": "Reviderat investeringsprogram 2025: 1 359 mnkr totalt",
+  "summary": "Kommunstyrelsen godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr. Lokalförsörjningsdriftkostnader uppgår till 56,2 mnkr för året.",
+  "detail": "Investeringsprogrammet reviderats från det ursprungliga beslut som togs i juni 2025. Totalt investeras 1 359,2 mnkr, varav 780,6 mnkr är skattefinansierade och 578,6 mnkr taxefinansierade investeringar.\n\nDe kommunövergripande lokalförsörjningsplanens driftkostnadskonsekvenser har ökat med 1,2 mnkr jämfört med beslutet om ÖSB 2025.\n\nKarolina Wallström (L) och Helena Ståhl (SD) yrkat avslag till förmån för sina egna budgetförslag men förlorade. Både L och SD reserverade sig tillsammans med sina ersättare mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 197",
+  "tags": [
+    "investering",
+    "lokalförsörjning",
+    "infrastruktur",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det reviderade investeringsprogrammet beslutas i enlighet med förslaget vilket innebär att kommunens totala investeringsutgifter 2025 uppgår till 1 359,2 mnkr.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2025-10-14_ko",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_197.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_197/"
+  }
+}

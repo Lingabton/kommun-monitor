@@ -1,0 +1,346 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-08-27",
+  "summary_headline": "Förskolemotioner avslagna, många ärenden bordlagda",
+  "decisions": [
+    {
+      "headline": "Motion om mindre barngrupper i förskolan avslogs",
+      "summary": "Vänsterpartiet krävde maxtak på barngrupper enligt Skolverkets riktlinjer (6–12 barn för 1–3 år, 9–15 för 4–5 år) och max 4 barn per pedagog. Majoriteten avslogs motionen trots kraftig opposition från V, SD, MP och KD.",
+      "detail": "Vänsterpartiet argumenterade att förskolans arbetsmiljö är ohållbar med för stora barngrupper, höga ljudnivåer och överbelastad personal. Motionen krävde både ett maxtak per avdelning enligt Skolverkets allmänna råd och maximalt 4 barn per pedagog.\n\nKommunstyrelsen föreslog avslag. Vid votering fick motionen endast 14 ja-röster (SD, V, MP, KD-del) mot 8 nej-röster, medan 42 ledamöter avstod från röstning. Detta var en ovanligt svag röstning för en stor motion.\n\nV, SD, MP och flera KD-ledamöter reserverade sig mot beslutet. L ville stödja endast första förslaget. ÖrP ville stödja med omformulering av begreppet \"avdelning\" till \"barngrupp\".\n\nBeslutet återspeglar att majoriteten inte anser sig kunna finansiera eller implementera minskade barngrupper, trots att detta är en återkommande fråga från välfärdssektorn.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 221",
+      "quote": "Förskolans arbetsmiljö kan sammanfattas med för stora barngrupper, höga ljudnivåer, att knappt hinna med att gå på toaletten eller egen planeringstid för pedagogiskt arbete.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "V",
+          "SD",
+          "MP",
+          "KD"
+        ],
+        "against": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Avslaget 14-8 (votering)"
+      },
+      "tags": [
+        "förskola",
+        "barngrupper",
+        "arbetsmiljö",
+        "välfärd"
+      ],
+      "id": "2025-08-27_ko_221",
+      "seo": {
+        "id": "2025-08-27_ko_221",
+        "seo_title": "Mindre barngrupper förskolan — Örebro avslår motion",
+        "seo_description": "Kommunfullmäktige avslogs motion om mindre barngrupper i förskolan. Vänsterpartiet krävde maxtak enligt Skolverkets riktlinjer men majoriteten röstade nej.",
+        "search_keywords": [
+          "barngrupper förskolan örebro",
+          "mindre barngrupper",
+          "förskola örebro beslut",
+          "skolverkets riktlinjer barn",
+          "förskolegrupper"
+        ],
+        "social_title": "Örebro säger nej till mindre barngrupper i förskolan",
+        "social_description": "Kommunfullmäktige avslår motion om mindre barngrupper. Vänsterpartiet, SD, MP och KD ville maxtak på 6–12 barn för yngre och 9–15 för äldre, men fick inte gehör."
+      }
+    },
+    {
+      "headline": "Förskolan Igelkotten anses tillgodosedd – ingen stängning beslutad",
+      "summary": "ÖrebroPrtiet krävde att kommunen stängde förskolan Igelkotten med samma huvudman som den stängda Arenaskolan. Kommunstyrelsen ansåg motionen tillgodosedd utan att stänga förskolan.",
+      "detail": "ÖrebroPartiet påpekade att även om Skolinspektionen stängde Arenaskolan, fortfarande öppen förskolan Igelkotten intill samma område där samma personer enligt ÖrP har ledande positioner (Tala förskolor AB).\n\nMotionen krävde att kommunen skulle använda sin \"fulla rådighet\" och agera omedelbar stängning enligt nuvarande lagstiftning.\n\nKommunstyrelsen besvarade detta genom att anse motionen \"tillgodosedd\" – ett sätt att avvisa motionen utan att faktiskt stänga förskolan. M och C stödde detta. SD reserverade sig.\n\nDetta är en klassisk politisk gradering där kommunen säger sig ha hört motionen men inte faktiskt genomför det som efterfrågades.",
+      "category": "skola",
+      "contested": false,
+      "location": "Igelkotten, Örebro",
+      "paragraph_ref": "§ 222",
+      "quote": "Örebropartiet uttrycker att kommunen har full rådighet och kan agera utifrån nuvarande lagstiftning och vill att förskolan bör stängas omedelbart.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhalligt"
+      },
+      "tags": [
+        "förskola",
+        "Igelkotten",
+        "tillsyn",
+        "Arenaskolan",
+        "säkerhet"
+      ],
+      "id": "2025-08-27_ko_222",
+      "seo": {
+        "id": "2025-08-27_ko_222",
+        "seo_title": "Förskolan Igelkotten — Örebro stänger inte ner",
+        "seo_description": "Örebro kommun stänger inte förskolan Igelkotten. ÖrebroPrtiet krävde stängning, men kommunstyrelsen ansåg motionen redan tillgodosedd.",
+        "search_keywords": [
+          "igelkotten förskola örebro",
+          "stänga förskola örebro",
+          "arenaskolan",
+          "förskolor örebro"
+        ],
+        "social_title": "Igelkotten förskola stannar kvar i Örebro",
+        "social_description": "Örebro kommun säger nej till att stänga förskolan Igelkotten. ÖrebroPrtiet föreslog stängning, men kommunstyrelsen ansåg det onödigt."
+      }
+    },
+    {
+      "headline": "Motion om välfärdspersonalens löner avslogs utan ökad budget",
+      "summary": "Vänsterpartiet krävde mer pengar till välfärdspersonal genom ledningseffektiviseringar och vakansering. Majoriteten avslogs motionen utan att tillskjuta nya resurser.",
+      "detail": "Martha Wicklund (V) m.fl. påpekade att välfärdspersonalen saknar resurser och begärde att kommundirektören skulle:\n\n1. Se över ledningsorganisationen och presentera effektiviseringsförslag\n2. Vakansproiva tjänster för att frigöra pengar till välfärdspersonal\n\nKommunledningen svarade att man redan gjort personella förändringar i samband med omorganisation och att ledningsorganisationen redan minskats. Ingen vilja uttrycktes att tillskjuta ytterligare medel.\n\nMotionen avslogs med bred opposition från V, SD, ÖrP, L, KD-del. Hela 27 ledamöter reserverade sig mot beslutet – en av de största reservationslistorna på protokollet.\n\nDetta beslut visar tydligt att majoriteten inte anser sig kunna öka välfärdssatsningarna genom omorganisering.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 223",
+      "quote": "Martha Wicklund (V) m.fl. menar att den konstanta otillräckligheten personalen upplever varken är hållbar eller något kommunen borde acceptera.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhalligt"
+      },
+      "tags": [
+        "välfärd",
+        "personal",
+        "löner",
+        "budget"
+      ],
+      "id": "2025-08-27_ko_223",
+      "seo": {
+        "id": "2025-08-27_ko_223",
+        "seo_title": "Välfärdspersonalens löner — Örebro avslår höjning",
+        "seo_description": "Kommunfullmäktige avslogs motion om högre löner till välfärdspersonal i Örebro. Vänsterpartiet krävde mer pengar men fick inte gehör utan ny budget.",
+        "search_keywords": [
+          "välfärdspersonal löner örebro",
+          "lönehöjning välfärd",
+          "sjukvårdare löner örebro",
+          "äldreomsorg personal"
+        ],
+        "social_title": "Örebro höjer inte välfärdspersonalens löner",
+        "social_description": "Kommunfullmäktige säger nej till lönehöjning för välfärdspersonal. Vänsterpartiet krävde ökad budget genom effektiviseringar, men majoriteten avslogs motionen."
+      }
+    },
+    {
+      "headline": "Bygg- och driftverksamheten sägs konkurrensutsatt – två av tre motionsyrkanden tillgodosedda",
+      "summary": "Liberal motion om konkurrensutsättning av kommunens bygg- och driftverksamhet: första förslaget (ekonomisk analys) avslogs, men andra och tredje (konkurrens och upphandling) ansågs tillgodosedda.",
+      "detail": "Patrik Jämtvall (L) krävde:\n\n1. Ekonomisk analys av driftskostnader i egen regi\n2. Konkurrensutsättning av bygg- och driftverksamheten\n3. Alltid ge marknaden chans via upphandling\n\nKommunstyrelsen föreslog: avslag på första, tillgodosedda för andra och tredje.\n\nMotiveringen var att punkt 2 och 3 redan genomfördes genom befintlig upphandlingspolicy. Punkt 1 (kostnadsjämförelse egen regi vs extern) bedömdes inte behövas.\n\nL, V, ÖrP reserverade sig, önskande fullt bifall. Detta är en delvis framgång för liberalerna men missade den ekonomiska analysen som skulle kunna visa om privat verkligen är billigare.\n\nBeslutets praktiska effekt: ingen ny konkurrensutsättning utöver redan befintlig policy.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 224",
+      "quote": "Motionen innehåller tre yrkanden om utmaningsrätt, ekonomisk analys och konkurrensutsättning av bygg- och driftverksamheten.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhalligt"
+      },
+      "tags": [
+        "konkurrens",
+        "upphandling",
+        "bygg",
+        "drift",
+        "effektivitet"
+      ],
+      "id": "2025-08-27_ko_224",
+      "seo": {
+        "id": "2025-08-27_ko_224",
+        "seo_title": "Bygg och drift konkurrensutsatt — Örebro beslutar",
+        "seo_description": "Örebro kommun konkurrensutsätter bygg- och driftverksamheten. Två av tre motionsyrkanden från Liberalerna godkändes av kommunstyrelsen.",
+        "search_keywords": [
+          "konkurrensutsättning örebro",
+          "bygg drift örebro",
+          "upphandling kommunal verksamhet",
+          "effektivitet kommun"
+        ],
+        "social_title": "Örebro sätter ut bygg- och drift på marknad",
+        "social_description": "Kommunstyrelsen godkänner två av tre Liberala krav: konkurrensutsättning och upphandling av kommunens bygg- och driftverksamhet granskas."
+      }
+    },
+    {
+      "headline": "Läxfri skola avslogs, modersmålsundervisning avslogs",
+      "summary": "Vänsterpartiet ville införa läxfri skola för alla kommunala grundskolor, utöka socialt förebyggande arbete med särskild pott och organisera modersmålsundervisning. Majoritet avslogs alla förslag utom avgiftsfrihet som redan tillgodosedd.",
+      "detail": "Martha Wicklund (V) m.fl. föreslog:\n\n1. Läxfri skola i alla kommunala grundskolor\n2. Säkerställa skolans avgiftsfrihet (utrustning, mat, fika)\n3. Särskild pott för socialt förebyggande arbete\n4. Organisera modersmålsundervisning så alla elever kan delta\n\nResultat:\n1. AVSLAGET\n2. TILLGODOSEDD (redan genomförd)\n3. AVSLAGET\n4. AVSLAGET\n\nStarkt motstånd från V, ÖrP, KD-del, MP. L stödde punkt 2 och 4. KD stödde punkt 3. C-ordföranden stödde avslag.\n\nReservationer från 5 V-ledamöter, 5 L-ledamöter, 4 KD-ledamöter, 2 MP-ledamöter – ungefär 16 ledamöter totalt reserverade sig.\n\nBeslutets effekt: ingen läxfri skola, ingen utökad pott för socialt arbete, modersmålsundervisning förblir oorganiserad.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 225",
+      "quote": "Vänsterpartiet föreslår att införa läxfri skola i alla kommunala grundskolor samt att säkerställa att skolan är avgiftsfri, vilket inkluderar utrustning och mat/fika.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhalligt"
+      },
+      "tags": [
+        "skola",
+        "läxfrihet",
+        "modersmål",
+        "socialt arbete",
+        "avgiftsfri"
+      ],
+      "id": "2025-08-27_ko_225",
+      "seo": {
+        "id": "2025-08-27_ko_225",
+        "seo_title": "Läxfri skola och modersmål — Örebro avslår",
+        "seo_description": "Örebro kommun avslår motioner om läxfri skola och utökad modersmålsundervisning. Vänsterpartiet föreslog reformer men majoriteten röstade nej.",
+        "search_keywords": [
+          "läxfri skola örebro",
+          "modersmålsundervisning örebro",
+          "skol reform örebro",
+          "läxor grundskola"
+        ],
+        "social_title": "Örebro säger nej till läxfri skola",
+        "social_description": "Kommunfullmäktige avslår läxfri skola för alla kommunala grundskolor. Även utökat socialt förebyggande arbete och modersmålsundervisning fick nej."
+      }
+    },
+    {
+      "headline": "Många SD-motioner bordlagda för senare behandling",
+      "summary": "Totalt 13 motioner och interpellationer från SD, V, MP, L om infrastruktur, välfärd, integration och kultur bordlades för senare behandling vid ordförandens initiativ.",
+      "detail": "Vid slutet av mötet (§ 228) föreslog ordförande Jan Zetterqvist (S) att alla kvarvarande ärenden skulle bordläggas. Helena Ståhl (SD) motsatte sig och krävde att mötet skulle fortsätta och ärendena avgöras samma dag.\n\nVotering genomfördes: 46 ja-röster för bordläggning, 18 nej-röster (SD, V, ÖrP, KD-del) mot.\n\nBordlagda ärenden var motioner och interpellationer om:\n- Integrationssatsningar (Carola Sunesson SD)\n- Kulturarvsberedskap (Carola Sunesson SD, Habib Brini SD)\n- Hedersförtryck och hederskultur (Helena Ståhl SD m.fl.)\n- Kunskapsutveckling om lokalhistoria (Helena Ståhl SD m.fl.)\n- Vägar och framkomlighet för lantbruk (Daniel Spiik SD) – två motioner\n- Farligt gods-transporter (Habib Brini SD, Bo Ammer SD)\n- Snöröjning och långtidsarbetslösa (Helena Ståhl SD, Habib Brini SD)\n- Försörjningsstöd (Helena Ståhl SD)\n- Motorgård (Bjarne Bäckström SD)\n- Kulturarvsvecka (Carola Sunesson SD, Bo Ammer SD)\n- Byggnadsvård-pris (Carola Sunesson SD)\n- Arkitektur och medborgarinflytande (Carola Sunesson SD, Habib Brini SD)\n- Cirkulationsbibliotek (Johanna Reimfelt L, Mats-Olof Liljegren L)\n- Offentliga toaletter (Karolina Wallström L m.fl.)\n- Plus flera interpellationer\n\nDetta var en strategisk bordläggning för att undvika att fatta många obekväma beslut samma dag.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 228",
+      "quote": "Ordförande Jan Zetterqvist (S) finner att det finns två förslag: ordförandens yrkande om bordläggning respektive Helena Ståhls yrkande om att fortsätta.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "MP",
+          "KD-del"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "ÖrP",
+          "KD-del"
+        ],
+        "abstained": [],
+        "result": "Bifall 46-18 (votering)"
+      },
+      "tags": [
+        "bordläggning",
+        "procedur",
+        "motioner",
+        "interpellationer"
+      ],
+      "id": "2025-08-27_ko_228",
+      "seo": {
+        "id": "2025-08-27_ko_228",
+        "seo_title": "13 motioner bordlagda i Örebro — behandling senare",
+        "seo_description": "Örebro kommunfullmäktige bordlägger 13 motioner från SD, V, MP och L om infrastruktur, välfärd och kultur för senare behandling.",
+        "search_keywords": [
+          "motioner örebro",
+          "infrastruktur örebro motion",
+          "välfärd motion örebro",
+          "kommunbeslut bordlagd"
+        ],
+        "social_title": "Örebro skjuter upp 13 motioner till senare",
+        "social_description": "Kommunfullmäktige bordlägger motioner från flera partier om vägar, välfärd, integration och kultur. Beslut fattas senare."
+      }
+    },
+    {
+      "headline": "Fossilreklam-motion bordlagd efter trefaldig bordläggning",
+      "summary": "Miljöpartiet ville förbjuda fossil reklam på allmän plats och definiera begreppet. Kommunstyrelsen föreslog avslag. Ärendet bordlades för tredje gången.",
+      "detail": "Lea Strandberg (MP) föreslog:\n\n1. Definiera vad Örebro kommun menar med \"fossil reklam\"\n2. Utvidga riktlinjer för reklamtyper som inte tillåts, inkludera fossil reklam\n\nKommunstyrelsen svarade att det är för svårt att definiera fossil reklam utan att bli mycket snäv definition, och att kommunen redan har restriktiv reklamhållning.\n\nÄrendet bordlades första gången 23 april, andra gången 21 maj, tredje gången 18-19 juni, och nu igen 27 augusti.\n\nMartha Wicklund (V) reserverade sig för bifall till motionen.\n\nEffekt: ingen definition av fossil reklam, ingen utvidgad restriktion.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 219",
+      "quote": "Bedömningen är att det är svårt att definiera vad som är fossil reklam och inte, såvida det inte begränsas.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagt"
+      },
+      "tags": [
+        "miljö",
+        "reklam",
+        "fossil",
+        "policy"
+      ],
+      "id": "2025-08-27_ko_219",
+      "seo": {
+        "id": "2025-08-27_ko_219",
+        "seo_title": "Fossilreklam-förbudet bordlagt igen i Örebro",
+        "seo_description": "Miljöpartiet föreslår förbud mot fossil reklam på allmän plats i Örebro. Ärendet bordlades för tredje gången utan slutgiltigt beslut.",
+        "search_keywords": [
+          "fossilreklam örebro",
+          "fossil reklamförbud",
+          "miljö reklamkontroll",
+          "klimat örebro"
+        ],
+        "social_title": "Fossilreklam-motionen väntar på nytt beslut",
+        "social_description": "Örebro kommunfullmäktige bordlägger fossilreklam-motionen för tredje gången. Miljöpartiet vill förbjuda fossil reklam på allmän plats."
+      }
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Fler vuxna och mindre barngrupper i förskolan",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Stänga förskolan Igelkotten",
+      "party": "ÖrP",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Mer pengar till välfärdspersonalen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Utmaningsrätt bygg- och driftverksamheten",
+      "party": "L",
+      "status": "Delvis tillgodosedd"
+    },
+    {
+      "title": "Förstärka skolan (läxfri, avgiftsfri, modersmål)",
+      "party": "V",
+      "status": "Delvis avslagen"
+    },
+    {
+      "title": "Fossil reklam på allmän plats",
+      "party": "MP",
+      "status": "Bordlagd"
+    }
+  ],
+  "skipped_items_count": 15
+}

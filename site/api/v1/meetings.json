@@ -1,60 +1,71 @@
 {
-  "count": 5,
+  "count": 6,
   "meetings": [
     {
-      "id": "2025-12-10_kf",
+      "id": "2025-12-10_ko",
       "date": "2025-12-10",
       "type": "Kommunfullmäktige",
       "municipality": "orebro",
-      "headline": "202 overkställda beslut och debatt om farligt gods",
-      "decisions_count": 4,
-      "contested_count": 3,
-      "source_url": "https://orebro.se/test.pdf",
-      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-12-10_kf.json"
+      "headline": "Nämndreglementen revideras, många motioner bordlagda",
+      "decisions_count": 7,
+      "contested_count": 5,
+      "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json"
     },
     {
-      "id": "2025-10-14_ks",
+      "id": "2025-10-14_ko",
       "date": "2025-10-14",
       "type": "Kommunstyrelsen",
       "municipality": "orebro",
-      "headline": "Budgetavvikelse -210 MSEK",
-      "decisions_count": 2,
-      "contested_count": 2,
-      "source_url": "https://orebro.se/test2.pdf",
-      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-10-14_ks.json"
+      "headline": "Budget 2026 och BRT-expansion godkänd trots oppositionskritik",
+      "decisions_count": 11,
+      "contested_count": 7,
+      "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json"
     },
     {
-      "id": "2025-09-24_kf",
-      "date": "2025-09-24",
-      "type": "Kommunfullmäktige",
-      "municipality": "orebro",
-      "headline": "Eyrafältet-fastighet säljs",
-      "decisions_count": 1,
-      "contested_count": 1,
-      "source_url": "https://orebro.se/test3.pdf",
-      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-09-24_kf.json"
-    },
-    {
-      "id": "2025-08-27_kf",
+      "id": "2025-08-27_ko",
       "date": "2025-08-27",
       "type": "Kommunfullmäktige",
       "municipality": "orebro",
-      "headline": "Förskola, välfärdslöner, Igelkotten",
-      "decisions_count": 4,
-      "contested_count": 4,
-      "source_url": "https://orebro.se/test4.pdf",
-      "api_url": "https://kommun-monitor.se/api/v1/meetings/2025-08-27_kf.json"
+      "headline": "Förskolemotioner avslagna, många ärenden bordlagda",
+      "decisions_count": 7,
+      "contested_count": 6,
+      "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json"
     },
     {
-      "id": "2024-04-09_ks",
+      "id": "2025-02-11_ko",
+      "date": "2025-02-11",
+      "type": "Kommunstyrelsen",
+      "municipality": "orebro",
+      "headline": "360 MSEK i investeringar överförda, bostadsriktlinjer antagna trots oppositions motstånd",
+      "decisions_count": 6,
+      "contested_count": 5,
+      "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json"
+    },
+    {
+      "id": "2025-01-29_ko",
+      "date": "2025-01-29",
+      "type": "Kommunfullmäktige",
+      "municipality": "orebro",
+      "headline": "Rutinmässiga personalförändringar i nämnder och Kommunstyrelsen",
+      "decisions_count": 0,
+      "contested_count": 0,
+      "source_url": "https://www.orebro.se/download/18.59abe9f8193debe46c88c90/1738229409630/2025-01-29%20Kommunfullm%C3%A4ktige%20%C2%A7%2013.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_ko.json"
+    },
+    {
+      "id": "2024-04-09_ko",
       "date": "2024-04-09",
       "type": "Kommunstyrelsen",
       "municipality": "orebro",
-      "headline": "Eyrafältet-köp 154 MSEK",
-      "decisions_count": 3,
-      "contested_count": 2,
-      "source_url": "https://orebro.se/test5.pdf",
-      "api_url": "https://kommun-monitor.se/api/v1/meetings/2024-04-09_ks.json"
+      "headline": "Örebro köper Eklundaområdet för 154 miljoner kronor",
+      "decisions_count": 10,
+      "contested_count": 7,
+      "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json"
     }
   ]
 }

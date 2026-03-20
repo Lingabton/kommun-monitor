@@ -1,0 +1,48 @@
+{
+  "id": "2025-10-14_ko_206",
+  "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
+  "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+  "detail": "Beslutet innebär att Örebro kommun tillsammans med Region Örebro län fortsätter implementeringen av Bus Rapid Transit enligt en genomförandeplan för etapp 2. Projektet syftar till att skapa ett attraktivt och kapacitetsstarkt kollektivtrafiksystem.\n\nFärdigställelsen av etapp 1 beräknas under 2025. Utvärderingen visar att resandet har ökat och prognosen pekar på en resandeökning på 18% för 2025 jämfört med 2023. Restiden mellan Örebro Resecentrum och Brickebacken har minskat med cirka 30% (cirka 8 minuter).\n\nMålet för det fullständiga BRT-systemet är att öka resandet med 40% tre år efter färdigställandet av etapp 2 och att minska restiden med 30%.\n\nTilläggsyrkanden antogs:\n- Kristdemokraterna yrkat och fick bifall för att särskilt beakta och i god förväg kommunicera förändringar till berörda näringsidkare och invånare\n- Vänsterpartiet yrkat och fick bifall för att i arbetet med BRT beakta frågan om pendlarparkeringar i anslutning till stråket\n- Vänsterpartiet yrkat om prissänkning i stadstrafiken men detta avslogs\n\nKarolina Wallström (L) och Helena Ståhl (SD) motsatte sig projektet helt, menade att det är kostsamt och försämrar framkomligheten. Vänsterpartiet reserverade sig mot avslaget på prisfrågan.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro, Vivalla, Lundby, Mellringe, Tegnérlunden",
+  "paragraph_ref": "§ 206",
+  "tags": [
+    "BRT",
+    "kollektivtrafik",
+    "infrastruktur",
+    "parkering",
+    "stadstrafik",
+    "resande"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tillsammans med Region Örebro län ingå \"samarbetsavtal avseende Bus Rapid Transit (BRT) etapp 2 i Örebro\" för att fortsätta införandet av BRT.",
+  "quote_page": "s. 20-22",
+  "meeting": {
+    "id": "2025-10-14_ko",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_206.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_206/"
+  }
+}

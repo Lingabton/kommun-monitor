@@ -1,279 +1,860 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Kommun Monitor — Örebro",
-  "home_page_url": "https://kommun-monitor.se",
-  "feed_url": "https://kommun-monitor.se/api/v1/feed.json",
+  "home_page_url": "https://Lingabton.github.io/kommun-monitor",
+  "feed_url": "https://Lingabton.github.io/kommun-monitor/api/v1/feed.json",
   "description": "AI-sammanfattningar av kommunala beslut i Örebro",
   "language": "sv",
   "items": [
     {
-      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_389/",
-      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_389/",
-      "title": "202 socialtjänstbeslut väntar",
-      "content_text": "Antalet ej verkställda SoL/LSS-beslut ökar.",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_388/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_388/",
+      "title": "Nämndreglementen revideras enligt ny socialtjänstlag",
+      "content_text": "Kommunfullmäktige antog reviderade nämndreglementen för mandatperioden 2023-2026 med anledning av ny socialtjänstlag. En viktig organisatorisk förändring är att Budget- och skuldrådgivningen flyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden för förbättrat förebyggande arbete.",
       "date_published": "2025-12-10T12:00:00+01:00",
       "tags": [
-        "socialtjänst",
-        "sol",
-        "lss",
-        "välfärd"
-      ],
-      "external_url": "https://orebro.se/test.pdf",
-      "_kommun_monitor": {
-        "category": "politik",
-        "contested": true,
-        "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_389.json"
-      }
-    },
-    {
-      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_390/",
-      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_390/",
-      "title": "Motion om farligt gods genom Örebro avslås",
-      "content_text": "SD ville pressa Trafikverket. 21 reserverade sig.",
-      "date_published": "2025-12-10T12:00:00+01:00",
-      "tags": [
-        "farligt gods",
-        "trafikverket",
-        "järnväg",
-        "transport",
-        "centrum"
-      ],
-      "external_url": "https://orebro.se/test.pdf",
-      "_kommun_monitor": {
-        "category": "infrastruktur",
-        "contested": true,
-        "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_390.json"
-      }
-    },
-    {
-      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_395/",
-      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_395/",
-      "title": "Cirkulationsbibliotek röstades ned 39-22",
-      "content_text": "L ville ha klassuppsättningar till skolor.",
-      "date_published": "2025-12-10T12:00:00+01:00",
-      "tags": [
-        "bibliotek",
-        "skola",
-        "läsning"
-      ],
-      "external_url": "https://orebro.se/test.pdf",
-      "_kommun_monitor": {
-        "category": "skola",
-        "contested": true,
-        "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_395.json"
-      }
-    },
-    {
-      "id": "https://kommun-monitor.se/beslut/2025-12-10_kf_388/",
-      "url": "https://kommun-monitor.se/beslut/2025-12-10_kf_388/",
-      "title": "Nämndreglementen revideras",
-      "content_text": "Ny socialtjänstlag kräver uppdatering.",
-      "date_published": "2025-12-10T12:00:00+01:00",
-      "tags": [
+        "nämndreglementen",
         "socialtjänstlagen",
-        "reglemente"
+        "budget- och skuldrådgivning",
+        "organisationsförändring",
+        "EKSAM",
+        "idéburet offentligt partnerskap"
       ],
-      "external_url": "https://orebro.se/test.pdf",
+      "external_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
       "_kommun_monitor": {
         "category": "regler",
         "contested": false,
         "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-12-10_kf_388.json"
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_388.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2025-10-14_ks_196/",
-      "url": "https://kommun-monitor.se/beslut/2025-10-14_ks_196/",
-      "title": "Negativ budgetavvikelse på 210 MSEK",
-      "content_text": "Delårsrapporten visar kraftigt underskott.",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_390_391/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_390_391/",
+      "title": "Motioner om farligt gods och motorgård avslagna",
+      "content_text": "Fullmäktige avslog två SD-motioner: en om att minimera transporter av farligt gods genom Örebro och en om att starta motorgård för ungdomar i centrala Örebro. Båda fick omfattande reservationer från oppositionen.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "farligt gods",
+        "Trafikverket",
+        "motorgård",
+        "ungdomar",
+        "Sverigedemokraterna",
+        "opposition"
+      ],
+      "external_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "ovrigt",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_390_391.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_392_393/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_392_393/",
+      "title": "Kulturarvsvecka och byggnadsvårdspris – motioner hanterade",
+      "content_text": "Fullmäktige avslogs motion om årlig kulturarvsvecka och bedömde motion om byggnadsvårdspris som tillgodosedd. SD hade motsatt sig båda besluten.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "kulturarv",
+        "årlig vecka",
+        "byggnadsvård",
+        "pris",
+        "kulturell satsning",
+        "Carola Sunesson"
+      ],
+      "external_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "kultur",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_392_393.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_394_395/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_394_395/",
+      "title": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "content_text": "Två kulturella motioner avslogs: en om medborgarundersökning om arkitektur och en om cirkulationsbibliotek för att främja läsning bland elever. Båda fick omfattande reservationer.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "arkitektur",
+        "medborgarinflytande",
+        "folkbibliotek",
+        "läsning",
+        "klassuppsättningar",
+        "grundskola"
+      ],
+      "external_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "kultur",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_394_395.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_396/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_396/",
+      "title": "Carina Börjesson (M) vald till förste vice ordförande",
+      "content_text": "Kommunfullmäktige utsåg Carina Börjesson (M) till förste vice ordförande i Fullmäktige och ordförande i Fullmäktiges valberedning för perioden 17 december 2025 – 14 oktober 2026.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "val",
+        "vice ordförande",
+        "valberedning",
+        "mandatperiod",
+        "Carina Börjesson",
+        "Moderaterna"
+      ],
+      "external_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "politik",
+        "contested": false,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_396.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_397-417/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_397-417/",
+      "title": "Många motioner och interpellationer bordlagda för senare behandling",
+      "content_text": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "bordläggning",
+        "motioner",
+        "interpellationer",
+        "processfråga",
+        "opposition",
+        "framtida behandling"
+      ],
+      "external_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "politik",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_397-417.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/",
+      "title": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
+      "content_text": "Fullmäktige behandlade rapport om ej verkställda beslut enligt SoL och LSS under Q2 2025. Martha Wicklund (V) yrkade att kommunledning fick uppdrag att ta fram förslag på bättre verkställande, men detta avslogs.",
+      "date_published": "2025-12-10T12:00:00+01:00",
+      "tags": [
+        "biståndbeslut",
+        "SoL",
+        "LSS",
+        "verkställning",
+        "socialtjänst",
+        "försörjningsstöd"
+      ],
+      "external_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_194/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_194/",
+      "title": "Tilläggsanslag på 12,5 miljarder för kostnadsökningar godkänt",
+      "content_text": "Kommunstyrelsen beviljade 12 495 tkr i tilläggsanslag för 2025 för tillfälliga satsningar och färdigställda lokalförsörjningsobjekt. SD ville ta bort 200 tkr för klimatkommunikation men förlorade omröstningen.",
       "date_published": "2025-10-14T12:00:00+01:00",
       "tags": [
-        "budget",
-        "ekonomi",
-        "underskott"
+        "kostnadsökning",
+        "investering",
+        "klimatstrategi"
       ],
-      "external_url": "https://orebro.se/test2.pdf",
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
       "_kommun_monitor": {
         "category": "budget",
         "contested": true,
         "meeting_type": "Kommunstyrelsen",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_196.json"
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_194.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2025-10-14_ks_203/",
-      "url": "https://kommun-monitor.se/beslut/2025-10-14_ks_203/",
-      "title": "Motion om kärnkraft (SMR) avslås",
-      "content_text": "SD ville peka ut områden för SMR.",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_196/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_196/",
+      "title": "Negativ budgetavvikelse 210 mnkr – nämnderna får åtgärdskrav",
+      "content_text": "Kommunens helårsprognos visar 257 mnkr resultat mot budgeterat 467 mnkr – en negativ budgetavvikelse på 210 mnkr. Nämnderna måste vidta konkretiserade åtgärder för att säkra långsiktigt hållbar ekonomi.",
       "date_published": "2025-10-14T12:00:00+01:00",
       "tags": [
-        "kärnkraft",
-        "smr",
-        "energi"
+        "ekonomi",
+        "budget",
+        "prognosprognos",
+        "sparåtgärder"
       ],
-      "external_url": "https://orebro.se/test2.pdf",
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
       "_kommun_monitor": {
-        "category": "miljö",
+        "category": "budget",
         "contested": true,
         "meeting_type": "Kommunstyrelsen",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-10-14_ks_203.json"
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_196.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2025-09-24_kf_266/",
-      "url": "https://kommun-monitor.se/beslut/2025-09-24_kf_266/",
-      "title": "Eyrafältet-fastighet säljs för 63 MSEK",
-      "content_text": "Fastighet som köptes 2024 säljs vidare till Norrpalatset.",
-      "date_published": "2025-09-24T12:00:00+01:00",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_197/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_197/",
+      "title": "Reviderat investeringsprogram 2025: 1 359 mnkr totalt",
+      "content_text": "Kommunstyrelsen godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr. Lokalförsörjningsdriftkostnader uppgår till 56,2 mnkr för året.",
+      "date_published": "2025-10-14T12:00:00+01:00",
       "tags": [
-        "eyrafältet",
-        "fastighetsförsäljning",
-        "örebroporten",
-        "bostäder"
+        "investering",
+        "lokalförsörjning",
+        "infrastruktur",
+        "budget"
       ],
-      "external_url": "https://orebro.se/test3.pdf",
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_197.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_199/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_199/",
+      "title": "Budget 2026 fastställd: nya taxor och avgifter från 1 januari",
+      "content_text": "Kommunstyrelsen fastställde övergripande strategier och budget 2026 med plan för 2027–2029 inklusive nya taxor för avfall, vatten-avlopp, alkoholtillstånd och parkeringsavgifter.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "budget",
+        "taxor",
+        "avgifter",
+        "vatten",
+        "avfall",
+        "alkohol",
+        "parkering"
+      ],
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "regler",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_199.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_198/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_198/",
+      "title": "Lokalförsörjningsplan 2027-2037: 37 lokalprojekt prioriterade",
+      "content_text": "Kommunstyrelsen antog den kommunövergripande lokalförsörjningsplanen för 2027–2037 med 37 prioriterade lokalprojekt, varav 15 är pågående och 13 beräknas färdigställas under 2026.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "lokalförsörjning",
+        "infrastruktur",
+        "investeringsplan",
+        "byggen"
+      ],
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
       "_kommun_monitor": {
         "category": "bygg",
-        "contested": true,
-        "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-09-24_kf_266.json"
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_198.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_217/",
-      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_217/",
-      "title": "Naturreservat Garphytteklint bildas",
-      "content_text": "Nytt naturreservat med skötselplan.",
-      "date_published": "2025-08-27T12:00:00+01:00",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_206/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_206/",
+      "title": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
+      "content_text": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+      "date_published": "2025-10-14T12:00:00+01:00",
       "tags": [
-        "naturreservat",
-        "garphytteklint",
-        "miljö"
+        "BRT",
+        "kollektivtrafik",
+        "infrastruktur",
+        "parkering",
+        "stadstrafik",
+        "resande"
       ],
-      "external_url": "https://orebro.se/test4.pdf",
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
       "_kommun_monitor": {
-        "category": "miljö",
+        "category": "infrastruktur",
         "contested": true,
-        "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_217.json"
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_206.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_221/",
-      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_221/",
-      "title": "Maxtak barngrupper i förskolan avslås",
-      "content_text": "V ville ha max 12 barn per grupp. Röstades ned.",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_200/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_200/",
+      "title": "Stockholm Business Alliance-medlemskap 2026-2030 förlängt",
+      "content_text": "Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance (SBA) för perioden 2026-2030. Avgiften förblir oförändrad på 4 kr per invånare plus fast bidrag från Stockholm.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "näringslivsutveckling",
+        "samarbete",
+        "stockholm",
+        "medlemskap"
+      ],
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "ovrigt",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_200.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_201/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_201/",
+      "title": "Revidering av delegationsordning för finansiella beslut",
+      "content_text": "Kommunstyrelsen reviderade delegationsordningen för finansiella beslut, fastställde firmatecknare och delegerade finansiella befogenheter till tjänstemän.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "delegationsordning",
+        "finanser",
+        "firmatecknare",
+        "organisation"
+      ],
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "regler",
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_201.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_202/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_202/",
+      "title": "Nya revisorer valda för kommunens bolag",
+      "content_text": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "revisor",
+        "bolagsstyrning",
+        "organisationell ändring"
+      ],
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "ovrigt",
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_202.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_203/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_203/",
+      "title": "Smart Säker Stad-samverkansavtal undertecknat",
+      "content_text": "Kommundirektören fick i uppdrag att ingå samverkansavtal för projektet Smart Säker Stad som syftar till att förbättra säkerhet, resiliens och kostnadseffektiva kommunikationslösningar genom digitalisering.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "digitalisering",
+        "säkerhet",
+        "smart stad",
+        "samverkan"
+      ],
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "ovrigt",
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_203.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_211/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_211/",
+      "title": "Sammanträdestider för 2026 fastställda",
+      "content_text": "Kommunstyrelsen fastställde sammanträdestider för 2026 för kommunstyrelsen, dess utskott och kommunfullmäktige. Liberalerna ville förhindra driftnämndsammanträden samma vecka som kommunfullmäktige men förlorade.",
+      "date_published": "2025-10-14T12:00:00+01:00",
+      "tags": [
+        "möte",
+        "organisation",
+        "kommunstyrelsen",
+        "kommunfullmäktige"
+      ],
+      "external_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "regler",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_211.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_221/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_221/",
+      "title": "Motion om mindre barngrupper i förskolan avslogs",
+      "content_text": "Vänsterpartiet krävde maxtak på barngrupper enligt Skolverkets riktlinjer (6–12 barn för 1–3 år, 9–15 för 4–5 år) och max 4 barn per pedagog. Majoriteten avslogs motionen trots kraftig opposition från V, SD, MP och KD.",
       "date_published": "2025-08-27T12:00:00+01:00",
       "tags": [
         "förskola",
         "barngrupper",
-        "skolverket"
+        "arbetsmiljö",
+        "välfärd"
       ],
-      "external_url": "https://orebro.se/test4.pdf",
+      "external_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
       "_kommun_monitor": {
         "category": "skola",
         "contested": true,
         "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_221.json"
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_221.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_222/",
-      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_222/",
-      "title": "Förskolan Igelkotten stängs",
-      "content_text": "Godkännande för huvudmannen återkallas.",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_222/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_222/",
+      "title": "Förskolan Igelkotten anses tillgodosedd – ingen stängning beslutad",
+      "content_text": "ÖrebroPrtiet krävde att kommunen stängde förskolan Igelkotten med samma huvudman som den stängda Arenaskolan. Kommunstyrelsen ansåg motionen tillgodosedd utan att stänga förskolan.",
       "date_published": "2025-08-27T12:00:00+01:00",
       "tags": [
         "förskola",
-        "igelkotten",
-        "stängning"
+        "Igelkotten",
+        "tillsyn",
+        "Arenaskolan",
+        "säkerhet"
       ],
-      "external_url": "https://orebro.se/test4.pdf",
+      "external_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
       "_kommun_monitor": {
         "category": "skola",
-        "contested": true,
+        "contested": false,
         "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_222.json"
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_222.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2025-08-27_kf_223/",
-      "url": "https://kommun-monitor.se/beslut/2025-08-27_kf_223/",
-      "title": "Mer pengar till välfärdspersonal avslås",
-      "content_text": "V ville se över ledningsorganisationen. Brett stöd men avslogs.",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_223/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_223/",
+      "title": "Motion om välfärdspersonalens löner avslogs utan ökad budget",
+      "content_text": "Vänsterpartiet krävde mer pengar till välfärdspersonal genom ledningseffektiviseringar och vakansering. Majoriteten avslogs motionen utan att tillskjuta nya resurser.",
       "date_published": "2025-08-27T12:00:00+01:00",
       "tags": [
         "välfärd",
         "personal",
-        "löner"
+        "löner",
+        "budget"
       ],
-      "external_url": "https://orebro.se/test4.pdf",
+      "external_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
       "_kommun_monitor": {
         "category": "budget",
         "contested": true,
         "meeting_type": "Kommunfullmäktige",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2025-08-27_kf_223.json"
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_223.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2024-04-09_ks_76/",
-      "url": "https://kommun-monitor.se/beslut/2024-04-09_ks_76/",
-      "title": "Kommunen köper sex fastigheter vid Eyrafältet",
-      "content_text": "154 MSEK för Eyrafältets framtid.",
-      "date_published": "2024-04-09T12:00:00+01:00",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_224/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_224/",
+      "title": "Bygg- och driftverksamheten sägs konkurrensutsatt – två av tre motionsyrkanden tillgodosedda",
+      "content_text": "Liberal motion om konkurrensutsättning av kommunens bygg- och driftverksamhet: första förslaget (ekonomisk analys) avslogs, men andra och tredje (konkurrens och upphandling) ansågs tillgodosedda.",
+      "date_published": "2025-08-27T12:00:00+01:00",
       "tags": [
-        "eyrafältet",
-        "fastighetsköp",
-        "örebroporten",
-        "eklundavägen"
+        "konkurrens",
+        "upphandling",
+        "bygg",
+        "drift",
+        "effektivitet"
       ],
-      "external_url": "https://orebro.se/test5.pdf",
+      "external_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
       "_kommun_monitor": {
-        "category": "bygg",
+        "category": "regler",
         "contested": true,
-        "meeting_type": "Kommunstyrelsen",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_76.json"
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_224.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2024-04-09_ks_74/",
-      "url": "https://kommun-monitor.se/beslut/2024-04-09_ks_74/",
-      "title": "V kräver flygplatsavveckling",
-      "content_text": "Yrkade i två ärenden. Avslogs.",
-      "date_published": "2024-04-09T12:00:00+01:00",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_225/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_225/",
+      "title": "Läxfri skola avslogs, modersmålsundervisning avslogs",
+      "content_text": "Vänsterpartiet ville införa läxfri skola för alla kommunala grundskolor, utöka socialt förebyggande arbete med särskild pott och organisera modersmålsundervisning. Majoritet avslogs alla förslag utom avgiftsfrihet som redan tillgodosedd.",
+      "date_published": "2025-08-27T12:00:00+01:00",
       "tags": [
-        "flygplats",
-        "avveckling"
+        "skola",
+        "läxfrihet",
+        "modersmål",
+        "socialt arbete",
+        "avgiftsfri"
       ],
-      "external_url": "https://orebro.se/test5.pdf",
+      "external_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "skola",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_225.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_228/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_228/",
+      "title": "Många SD-motioner bordlagda för senare behandling",
+      "content_text": "Totalt 13 motioner och interpellationer från SD, V, MP, L om infrastruktur, välfärd, integration och kultur bordlades för senare behandling vid ordförandens initiativ.",
+      "date_published": "2025-08-27T12:00:00+01:00",
+      "tags": [
+        "bordläggning",
+        "procedur",
+        "motioner",
+        "interpellationer"
+      ],
+      "external_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
       "_kommun_monitor": {
         "category": "politik",
         "contested": true,
-        "meeting_type": "Kommunstyrelsen",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_74.json"
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_228.json"
       }
     },
     {
-      "id": "https://kommun-monitor.se/beslut/2024-04-09_ks_83/",
-      "url": "https://kommun-monitor.se/beslut/2024-04-09_ks_83/",
-      "title": "Regler för uteserveringar byter ägare",
-      "content_text": "Sju styrdokument överförs till KS.",
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_219/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_219/",
+      "title": "Fossilreklam-motion bordlagd efter trefaldig bordläggning",
+      "content_text": "Miljöpartiet ville förbjuda fossil reklam på allmän plats och definiera begreppet. Kommunstyrelsen föreslog avslag. Ärendet bordlades för tredje gången.",
+      "date_published": "2025-08-27T12:00:00+01:00",
+      "tags": [
+        "miljö",
+        "reklam",
+        "fossil",
+        "policy"
+      ],
+      "external_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
+      "_kommun_monitor": {
+        "category": "miljo",
+        "contested": true,
+        "meeting_type": "Kommunfullmäktige",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_219.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/",
+      "title": "360 MSEK investeringsanslag överförda från 2024 till 2025",
+      "content_text": "Kommunstyrelsen beslutade att överföra 360 miljoner kronor i investeringsanslag från föregående år, varav 193 MSEK för skattefinansierade och 167 MSEK för taxefinansierade investeringar. Beslutet ska senare fattas i kommunfullmäktige.",
+      "date_published": "2025-02-11T12:00:00+01:00",
+      "tags": [
+        "investeringar",
+        "budget2025",
+        "infrastruktur",
+        "exploatering"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_38/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_38/",
+      "title": "Riktlinjer för bostadsförsörjning antagna till Kommunfullmäktige",
+      "content_text": "Kommunstyrelsen antog nya riktlinjer för bostadsförsörjning enligt lag (2000:1383), vilka ska vägleda kommunens bostadsplanering de kommande åren. Ärendet vidarebefordras till Kommunfullmäktige för slutgiltigt beslut.",
+      "date_published": "2025-02-11T12:00:00+01:00",
+      "tags": [
+        "bostäder",
+        "bostadsförsörjning",
+        "småhus",
+        "villor",
+        "tätortsplanering"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "regler",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_38.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/",
+      "title": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+      "content_text": "Kommunstyrelsen beslutade att överföra det ackumulerade resultatet från kommunens interna förvaltningsbolag (intraprenader) till nästa år. Totalt överfördes 36,7 miljoner kronor enligt maxregeln på sju procent av årsbudgeten.",
+      "date_published": "2025-02-11T12:00:00+01:00",
+      "tags": [
+        "budget",
+        "intraprenader",
+        "ekonomi",
+        "resultatöverföring"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_31/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_31/",
+      "title": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+      "content_text": "Kommunstyrelsen beviljades tilläggsanslag på 17 044 tkr för kostnadsökningar bland annat för färdigställda lokalförsörjningsobjekt. Ombudgetering genomfördes för att hantera organisationsförändringar.",
+      "date_published": "2025-02-11T12:00:00+01:00",
+      "tags": [
+        "budget",
+        "lokalförsörjning",
+        "tilläggsanslag",
+        "ombudgetering"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_31.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_42/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_42/",
+      "title": "Fem motioner remitterade till nämnder för vidare beredning",
+      "content_text": "Kommunfullmäktige hade remitterat fem motioner till Kommunstyrelsen. Två besvarades direkt av styrelsen, medan tre remitterades vidare till relevanta nämnder för utredning.",
+      "date_published": "2025-02-11T12:00:00+01:00",
+      "tags": [
+        "motioner",
+        "demokrati",
+        "arkitektur",
+        "arbetslöshet",
+        "kärnkraft",
+        "energi"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "politik",
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_42.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_39/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_39/",
+      "title": "Rapport över ej verkställda LSS- och SoL-beslut kvartal 3 - SD och L kritiska",
+      "content_text": "Kommunstyrelsen mottog rapporter om beslut enligt Lag om stöd och service (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) som inte verkställts inom tre månader. SD och Liberalerna yrkade på förbättringar i rapporteringen.",
+      "date_published": "2025-02-11T12:00:00+01:00",
+      "tags": [
+        "LSS",
+        "SoL",
+        "socialtjänst",
+        "funktionshinder",
+        "välfärd",
+        "omsorg",
+        "service"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "trygghet",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_39.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/",
+      "title": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
+      "content_text": "Kommunstyrelsen godkände att Örebroporten Fastigheter AB förvärvar fyra fastigheter från Region Örebro Län för cirka 140 miljoner kronor, och Örebroporten Holding AB förvärvar en fastighet från Länsgården för cirka 14 miljoner kronor. Fastigheterna vid Eklundavägen kommer att användas för utveckling av elitidrottsområdet på Eyrafältet.",
       "date_published": "2024-04-09T12:00:00+01:00",
       "tags": [
-        "uteservering",
-        "parkering",
-        "styrdokument",
-        "centrum"
+        "Eyrafältet",
+        "elitidrottscenter",
+        "fastighetsförvärv",
+        "infrastrukturinvestering",
+        "Eklundavägen",
+        "1540000"
       ],
-      "external_url": "https://orebro.se/test5.pdf",
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "infrastruktur",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_76.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_73/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_73/",
+      "title": "Årsredovisning 2023: Kommun visar god ekonomisk hushållning trots osäkerhet",
+      "content_text": "Kommunstyrelsen godkände årsredovisningen för 2023. Örebro kommun hade ett resultat på 570 miljoner kronor (286 miljoner högre än budgeterat), samtidigt som investeringarna uppgick till 821 miljoner kronor. Fyra av sex mål för god ekonomisk hushållning uppnåddes.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "årsredovisning2023",
+        "ekonomi",
+        "stabilititet",
+        "investeringar",
+        "resultat"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_73.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_72/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_72/",
+      "title": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
+      "content_text": "Kommunstyrelsen beviljade tilläggsanslag på 127,6 miljoner kronor för årlig indexuppräkning och andra kostnadsökningar i 2024 års budget. Ombudgeteringar mellan nämnder genomfördes enligt ny nämndstruktur från 2023.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "budget",
+        "indexuppräkning",
+        "kostnadsökningar",
+        "nämndstruktur"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_72.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_71/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_71/",
+      "title": "Avskrivning av osäkra fordringar på 3,7 miljoner kronor",
+      "content_text": "Kommunstyrelsen skriver av fordringar på 3,7 miljoner kronor för året 2023 enligt god redovisningssed, då dessa inte längre bedöms säkra. Kommunens krav mot enskilda kvarstår och hålls under bevakning via inkassobolag.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "bokföring",
+        "fordringar",
+        "avskrivning",
+        "redovisning"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "budget",
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_71.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/",
+      "title": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
+      "content_text": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "Eyrafältet",
+        "elitidrottsområde",
+        "infrastruktur",
+        "investeringar",
+        "fastighetsförvärv"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "infrastruktur",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_76.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_77/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_77/",
+      "title": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+      "content_text": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "Kumbrovind",
+        "vindkraft",
+        "elförsörjning",
+        "aktieägare",
+        "flygplats"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "ovrigt",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_77.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_83/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_83/",
+      "title": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
+      "content_text": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "styrdokument",
+        "parkeringsriktlinjer",
+        "cykelparkering",
+        "uteserveringar",
+        "riktlinjer"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
       "_kommun_monitor": {
         "category": "regler",
         "contested": false,
         "meeting_type": "Kommunstyrelsen",
-        "api_url": "https://kommun-monitor.se/api/v1/decisions/2024-04-09_ks_83.json"
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_83.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_84/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_84/",
+      "title": "Delegation för Kronofogdens delgivning läggs till i delegationsordning",
+      "content_text": "Kommunstyrelsen lade till en delegation för mottagande av delgivningar från Kronofogden i Kommunstyrelsens delegationsordning. Motsvarande delegation skulle även läggas till i nämndernas delegationsordningar.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "delegationsordning",
+        "kronofogden",
+        "juridik"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "regler",
+        "contested": false,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_84.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_86/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_86/",
+      "title": "Ledamotsinitiativ om haverikommission för Arenaskolan avslogs",
+      "content_text": "Kommunstyrelsen avslög ledamotsinitiativet från Helena Ståhl (SD) och Bo Ammer (SD) om att tillsätta en haverikommission för att granska Arenaskolan. Kommunstyrelsen konstaterade att tillsynen av friskolor är ett statligt ansvar under Skolinspektionen.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "Arenaskolan",
+        "friskolor",
+        "tillsyn",
+        "Skolinspektionen"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "politik",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_86.json"
+      }
+    },
+    {
+      "id": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_87/",
+      "url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_87/",
+      "title": "KD-initiativ om regelbundna dragningar om strategi bedömdes besvarat",
+      "content_text": "Kommunstyrelsen bedömde ledamotsinitiativet från Anna Andersson (KD) om regelbundna dragningar om viktiga strategiområden som besvarat. Kommunledningen föreslogs diskutera utskottledamöternas möjlighet att sammanfatta diskussioner under Kommunstyrelsens beredningssammanträden.",
+      "date_published": "2024-04-09T12:00:00+01:00",
+      "tags": [
+        "ledamotsinitiativ",
+        "strategi",
+        "dragning",
+        "kommunstyrelsen"
+      ],
+      "external_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "_kommun_monitor": {
+        "category": "politik",
+        "contested": true,
+        "meeting_type": "Kommunstyrelsen",
+        "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_87.json"
       }
     }
   ]

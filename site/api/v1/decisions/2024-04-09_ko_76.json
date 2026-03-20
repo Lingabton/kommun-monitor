@@ -1,0 +1,46 @@
+{
+  "id": "2024-04-09_ko_76",
+  "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
+  "summary": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
+  "detail": "Region Örebro Län avser att lämna kontorslokaler vid Eklundavägen 2025 och avyttra fastigheterna. Örebroporten erbjudits möjlighet att förvärva samtliga sex fastigheter för att få rådighet över Eyrafältet-utvecklingen.\n\nInvesteringsbelopp: 140 miljoner kronor för RÖL:s fastigheter, 14 miljoner kronor för Länsgårdens fastighet. Möjliga saneringskostnader cirka 19 miljoner kronor delas mellan säljare och köpare.\n\nTillträde planeras 1 april 2025 (RÖL) och 2 december 2024 (Länsgården). Fastigheterna som inte behövs för utvecklingen kan senare erbjudas till marknaden eller andra aktörer inom kommunkoncernen.\n\nÖrebropartiet reserverade sig mot beslutet. Vänsterpartiet och Liberalerna lämnade särskilda yttranden för att säkerställa marknadsmässiga villkor.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Eyrafältet, Eklundavägen",
+  "paragraph_ref": "§ 76",
+  "tags": [
+    "Eyrafältet",
+    "elitidrottsområde",
+    "infrastruktur",
+    "investeringar",
+    "fastighetsförvärv"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Genom att förvärva de aktuella fastigheterna får Örebroporten och kommunen rådighet över framtida utveckling av Eyrafältet.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-04-09_ko",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_76.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/"
+  }
+}

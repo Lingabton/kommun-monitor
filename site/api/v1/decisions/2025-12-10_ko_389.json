@@ -1,0 +1,46 @@
+{
+  "id": "2025-12-10_ko_389",
+  "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
+  "summary": "Fullmäktige behandlade rapport om ej verkställda beslut enligt SoL och LSS under Q2 2025. Martha Wicklund (V) yrkade att kommunledning fick uppdrag att ta fram förslag på bättre verkställande, men detta avslogs.",
+  "detail": "För Q2 2025 rapporterades ej verkställda biståndbeslut inom tre månader enligt följande: Socialnämnden 26 beslut, Funktionsstödsnämnden 59 beslut och Vård- och omsorgsnämnden 26 beslut.\n\nMartha Wicklund (V) yrkade ett tilläggsyrkande att Kommunledningsförvaltningen skulle få i uppdrag att ta fram förslag på hur kommunen ska kunna verkställa gynnande beslut inom rimlig tid. Susanne Lindholm Henningsson (KD) och Markus Allard (ÖrP) stödde tilläggsyrkandet.\n\nFullmäktige avslogs dock tilläggsyrkandet. Jessica Ekerbring (S), Gunhild Wallin (C) och Hossein Azeri (M) yrkade bifall till ursprungligt förslag (att rapporterna läggs till handlingarna).\n\nMartha Wicklund (V), Markus Allard (ÖrP) och Susanne Lindholm Henningsson (KD) reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 389",
+  "tags": [
+    "biståndbeslut",
+    "SoL",
+    "LSS",
+    "verkställning",
+    "socialtjänst",
+    "försörjningsstöd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "ÖrP",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslagen (tilläggsyrkande)"
+  },
+  "quote": "För det andra kvartalet 2025 minskade Socialnämndens totala antal rapporterade beslut till 57 stycken... Vid kvartalets slut var 26 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 9-10",
+  "meeting": {
+    "id": "2025-12-10_ko",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/"
+  }
+}

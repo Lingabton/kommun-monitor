@@ -1,0 +1,45 @@
+{
+  "id": "2025-10-14_ko_201",
+  "headline": "Revidering av delegationsordning för finansiella beslut",
+  "summary": "Kommunstyrelsen reviderade delegationsordningen för finansiella beslut, fastställde firmatecknare och delegerade finansiella befogenheter till tjänstemän.",
+  "detail": "Beslutet omfattar elva delegationsbeslut gällande:\n\n1. Firmatecknare för lån, finansiella derivatinstrument och värdepapper\n2. Firmatecknare för borgensåtaganden och bankgarantier\n3. Firmatecknare för banktjänster och bankgirokonton\n4. Firmatecknare för skattedeklarationer\n5. Firmatecknare för donationsstiftelser\n6. Delegation för lånebeslut och finansiella derivatinstrument\n7. Delegation för lån och betalningsgarantier till bolag\n8. Delegation för interna lån till VA- och avfallsverksamheten\n9. Delegation för villkor vid in- och utlåning på koncernkonto\n10. Delegation för ränteändring och inlösen av lån\n11. Delegation för placeringar av likvida medel\n\nAnmälan av delegationsbeslut ska ske varje månad till kommunstyrelsen. Kommunstyrelsens ordförande ska omedelbar informeras om större förändringar och viktiga delegationsbeslut.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 201",
+  "tags": [
+    "delegationsordning",
+    "finanser",
+    "firmatecknare",
+    "organisation"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Firmatecknare för Örebro kommun i avtal om låneprogram, lån, finansiella derivatinstrument, placeringar i värdepapper, kapitalförvaltning och likviditet samt andra därtill hörande handlingar är en av finanschef Mats Rodenfelt, ekonomidirektör Johanna Larsson och budgetchef Andreas Legnerot i förening med en av redovisningschef Karin Sundelius och finanscontroller Gustav Eriksson.",
+  "quote_page": "s. 13-15",
+  "meeting": {
+    "id": "2025-10-14_ko",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_201.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_201/"
+  }
+}

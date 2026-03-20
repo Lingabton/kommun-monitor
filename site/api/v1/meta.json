@@ -1,13 +1,13 @@
 {
   "api": "Kommun Monitor API",
   "version": "1.0.0",
-  "base_url": "https://kommun-monitor.se/api/v1",
-  "generated_at": "2026-03-19T12:37:18.987004+00:00",
+  "base_url": "https://Lingabton.github.io/kommun-monitor/api/v1",
+  "generated_at": "2026-03-20T07:45:04.776489+00:00",
   "stats": {
     "municipalities": 1,
-    "meetings": 5,
-    "decisions": 14,
-    "contested_decisions": 12,
+    "meetings": 6,
+    "decisions": 41,
+    "contested_decisions": 30,
     "parties_tracked": 9,
     "date_range": {
       "earliest": "2024-04-09",

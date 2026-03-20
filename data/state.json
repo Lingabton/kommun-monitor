@@ -1,1 +1,41 @@
-{"processed":{}}
+{
+  "processed": {
+    "2025-12-10_ko": {
+      "at": "2026-03-20T06:45:06.602611",
+      "date": "2025-12-10",
+      "body": "Kommunfullmäktige",
+      "decisions": 7
+    },
+    "2025-08-27_ko": {
+      "at": "2026-03-20T06:49:07.621560",
+      "date": "2025-08-27",
+      "body": "Kommunfullmäktige",
+      "decisions": 7
+    },
+    "2025-02-11_ko": {
+      "at": "2026-03-20T06:50:05.582452",
+      "date": "2025-02-11",
+      "body": "Kommunstyrelsen",
+      "decisions": 6
+    },
+    "2025-01-29_ko": {
+      "at": "2026-03-20T06:50:15.574304",
+      "date": "2025-01-29",
+      "body": "Kommunfullmäktige",
+      "decisions": 0
+    },
+    "2025-10-14_ko": {
+      "at": "2026-03-20T07:43:19.798517",
+      "date": "2025-10-14",
+      "body": "Kommunstyrelsen",
+      "decisions": 11
+    },
+    "2024-04-09_ko": {
+      "at": "2026-03-20T07:44:53.548622",
+      "date": "2024-04-09",
+      "body": "Kommunstyrelsen",
+      "decisions": 10
+    }
+  },
+  "last_check": "2026-03-20T07:44:53.548646"
+}

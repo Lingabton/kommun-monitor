@@ -1,0 +1,48 @@
+{
+  "id": "2025-08-27_ko_228",
+  "headline": "Många SD-motioner bordlagda för senare behandling",
+  "summary": "Totalt 13 motioner och interpellationer från SD, V, MP, L om infrastruktur, välfärd, integration och kultur bordlades för senare behandling vid ordförandens initiativ.",
+  "detail": "Vid slutet av mötet (§ 228) föreslog ordförande Jan Zetterqvist (S) att alla kvarvarande ärenden skulle bordläggas. Helena Ståhl (SD) motsatte sig och krävde att mötet skulle fortsätta och ärendena avgöras samma dag.\n\nVotering genomfördes: 46 ja-röster för bordläggning, 18 nej-röster (SD, V, ÖrP, KD-del) mot.\n\nBordlagda ärenden var motioner och interpellationer om:\n- Integrationssatsningar (Carola Sunesson SD)\n- Kulturarvsberedskap (Carola Sunesson SD, Habib Brini SD)\n- Hedersförtryck och hederskultur (Helena Ståhl SD m.fl.)\n- Kunskapsutveckling om lokalhistoria (Helena Ståhl SD m.fl.)\n- Vägar och framkomlighet för lantbruk (Daniel Spiik SD) – två motioner\n- Farligt gods-transporter (Habib Brini SD, Bo Ammer SD)\n- Snöröjning och långtidsarbetslösa (Helena Ståhl SD, Habib Brini SD)\n- Försörjningsstöd (Helena Ståhl SD)\n- Motorgård (Bjarne Bäckström SD)\n- Kulturarvsvecka (Carola Sunesson SD, Bo Ammer SD)\n- Byggnadsvård-pris (Carola Sunesson SD)\n- Arkitektur och medborgarinflytande (Carola Sunesson SD, Habib Brini SD)\n- Cirkulationsbibliotek (Johanna Reimfelt L, Mats-Olof Liljegren L)\n- Offentliga toaletter (Karolina Wallström L m.fl.)\n- Plus flera interpellationer\n\nDetta var en strategisk bordläggning för att undvika att fatta många obekväma beslut samma dag.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 228",
+  "tags": [
+    "bordläggning",
+    "procedur",
+    "motioner",
+    "interpellationer"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "MP",
+      "KD-del"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "ÖrP",
+      "KD-del"
+    ],
+    "abstained": [],
+    "result": "Bifall 46-18 (votering)"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) finner att det finns två förslag: ordförandens yrkande om bordläggning respektive Helena Ståhls yrkande om att fortsätta.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-08-27_ko",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_228.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_228/"
+  }
+}

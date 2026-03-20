@@ -4,97 +4,106 @@
   "color": "#e8112d",
   "position": "Majoritet",
   "ideology": "Socialdemokrati",
-  "votes_for": 14,
-  "votes_against": 0,
+  "votes_for": 39,
+  "votes_against": 1,
   "votes_abstained": 0,
-  "total_votes": 14,
-  "contested_votes": [],
+  "total_votes": 40,
+  "contested_votes": [
+    {
+      "id": "2025-08-27_ko_221",
+      "headline": "Motion om mindre barngrupper i förskolan avslogs",
+      "date": "2025-08-27"
+    }
+  ],
   "key_issues": {
-    "politik": 2,
-    "infrastruktur": 1,
+    "regler": 8,
+    "ovrigt": 5,
+    "kultur": 2,
+    "politik": 5,
+    "budget": 11,
+    "bygg": 1,
+    "infrastruktur": 3,
     "skola": 3,
-    "regler": 2,
-    "budget": 2,
-    "miljö": 2,
-    "bygg": 2
+    "miljo": 1,
+    "trygghet": 1
   },
   "motions_filed": [],
   "agreement_with": {
-    "M": 14,
-    "C": 14,
-    "V": 6,
-    "L": 9,
-    "KD": 8,
-    "ÖrP": 4,
-    "MP": 4,
-    "SD": 3
+    "V": 17,
+    "M": 40,
+    "C": 40,
+    "L": 23,
+    "KD": 23,
+    "SD": 7,
+    "MP": 11,
+    "ÖrP": 3
   },
   "disagreement_with": {
-    "KD": 5,
-    "V": 4,
-    "ÖrP": 9,
-    "SD": 8,
-    "L": 4,
-    "MP": 4
+    "ÖrP": 14,
+    "L": 3,
+    "KD": 4,
+    "SD": 6,
+    "MP": 2,
+    "V": 3
   },
-  "for_pct": 100,
-  "against_pct": 0,
+  "for_pct": 98,
+  "against_pct": 2,
   "abstained_pct": 0,
-  "activity_score": 70,
+  "activity_score": 100,
   "top_categories": [
     [
-      "skola",
-      3
-    ],
-    [
-      "politik",
-      2
+      "budget",
+      11
     ],
     [
       "regler",
-      2
+      8
     ],
     [
-      "budget",
-      2
+      "ovrigt",
+      5
     ],
     [
-      "miljö",
-      2
+      "politik",
+      5
+    ],
+    [
+      "infrastruktur",
+      3
     ]
   ],
   "top_allies": [
     [
       "M",
-      14
+      40
     ],
     [
       "C",
-      14
+      40
     ],
     [
       "L",
-      9
+      23
     ]
   ],
   "top_opponents": [
     [
       "ÖrP",
-      9
+      14
     ],
     [
       "SD",
-      8
+      6
     ],
     [
       "KD",
-      5
+      4
     ]
   ],
   "abbr": "S",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/s.json",
-    "web_url": "https://kommun-monitor.se/parti/s/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/s.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/s/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

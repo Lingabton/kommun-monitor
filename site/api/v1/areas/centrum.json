@@ -1,0 +1,19 @@
+{
+  "id": "centrum",
+  "name": "Centrum",
+  "decisions": [
+    {
+      "id": "2025-12-10_ko_397-417",
+      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+      "summary": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra.",
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "politik",
+      "contested": true
+    }
+  ],
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/centrum.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/centrum/"
+  }
+}

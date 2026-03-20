@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-27_ko_221",
+  "headline": "Motion om mindre barngrupper i förskolan avslogs",
+  "summary": "Vänsterpartiet krävde maxtak på barngrupper enligt Skolverkets riktlinjer (6–12 barn för 1–3 år, 9–15 för 4–5 år) och max 4 barn per pedagog. Majoriteten avslogs motionen trots kraftig opposition från V, SD, MP och KD.",
+  "detail": "Vänsterpartiet argumenterade att förskolans arbetsmiljö är ohållbar med för stora barngrupper, höga ljudnivåer och överbelastad personal. Motionen krävde både ett maxtak per avdelning enligt Skolverkets allmänna råd och maximalt 4 barn per pedagog.\n\nKommunstyrelsen föreslog avslag. Vid votering fick motionen endast 14 ja-röster (SD, V, MP, KD-del) mot 8 nej-röster, medan 42 ledamöter avstod från röstning. Detta var en ovanligt svag röstning för en stor motion.\n\nV, SD, MP och flera KD-ledamöter reserverade sig mot beslutet. L ville stödja endast första förslaget. ÖrP ville stödja med omformulering av begreppet \"avdelning\" till \"barngrupp\".\n\nBeslutet återspeglar att majoriteten inte anser sig kunna finansiera eller implementera minskade barngrupper, trots att detta är en återkommande fråga från välfärdssektorn.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 221",
+  "tags": [
+    "förskola",
+    "barngrupper",
+    "arbetsmiljö",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "V",
+      "SD",
+      "MP",
+      "KD"
+    ],
+    "against": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "abstained": [],
+    "result": "Avslaget 14-8 (votering)"
+  },
+  "quote": "Förskolans arbetsmiljö kan sammanfattas med för stora barngrupper, höga ljudnivåer, att knappt hinna med att gå på toaletten eller egen planeringstid för pedagogiskt arbete.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-08-27_ko",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_221.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_221/"
+  }
+}

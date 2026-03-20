@@ -1,0 +1,41 @@
+{
+  "id": "2025-08-27_ko_225",
+  "headline": "Läxfri skola avslogs, modersmålsundervisning avslogs",
+  "summary": "Vänsterpartiet ville införa läxfri skola för alla kommunala grundskolor, utöka socialt förebyggande arbete med särskild pott och organisera modersmålsundervisning. Majoritet avslogs alla förslag utom avgiftsfrihet som redan tillgodosedd.",
+  "detail": "Martha Wicklund (V) m.fl. föreslog:\n\n1. Läxfri skola i alla kommunala grundskolor\n2. Säkerställa skolans avgiftsfrihet (utrustning, mat, fika)\n3. Särskild pott för socialt förebyggande arbete\n4. Organisera modersmålsundervisning så alla elever kan delta\n\nResultat:\n1. AVSLAGET\n2. TILLGODOSEDD (redan genomförd)\n3. AVSLAGET\n4. AVSLAGET\n\nStarkt motstånd från V, ÖrP, KD-del, MP. L stödde punkt 2 och 4. KD stödde punkt 3. C-ordföranden stödde avslag.\n\nReservationer från 5 V-ledamöter, 5 L-ledamöter, 4 KD-ledamöter, 2 MP-ledamöter – ungefär 16 ledamöter totalt reserverade sig.\n\nBeslutets effekt: ingen läxfri skola, ingen utökad pott för socialt arbete, modersmålsundervisning förblir oorganiserad.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 225",
+  "tags": [
+    "skola",
+    "läxfrihet",
+    "modersmål",
+    "socialt arbete",
+    "avgiftsfri"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Vänsterpartiet föreslår att införa läxfri skola i alla kommunala grundskolor samt att säkerställa att skolan är avgiftsfri, vilket inkluderar utrustning och mat/fika.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-08-27_ko",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_225.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_225/"
+  }
+}

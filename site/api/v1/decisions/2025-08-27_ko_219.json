@@ -1,0 +1,40 @@
+{
+  "id": "2025-08-27_ko_219",
+  "headline": "Fossilreklam-motion bordlagd efter trefaldig bordläggning",
+  "summary": "Miljöpartiet ville förbjuda fossil reklam på allmän plats och definiera begreppet. Kommunstyrelsen föreslog avslag. Ärendet bordlades för tredje gången.",
+  "detail": "Lea Strandberg (MP) föreslog:\n\n1. Definiera vad Örebro kommun menar med \"fossil reklam\"\n2. Utvidga riktlinjer för reklamtyper som inte tillåts, inkludera fossil reklam\n\nKommunstyrelsen svarade att det är för svårt att definiera fossil reklam utan att bli mycket snäv definition, och att kommunen redan har restriktiv reklamhållning.\n\nÄrendet bordlades första gången 23 april, andra gången 21 maj, tredje gången 18-19 juni, och nu igen 27 augusti.\n\nMartha Wicklund (V) reserverade sig för bifall till motionen.\n\nEffekt: ingen definition av fossil reklam, ingen utvidgad restriktion.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 219",
+  "tags": [
+    "miljö",
+    "reklam",
+    "fossil",
+    "policy"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bordlagt"
+  },
+  "quote": "Bedömningen är att det är svårt att definiera vad som är fossil reklam och inte, såvida det inte begränsas.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2025-08-27_ko",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_219.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_219/"
+  }
+}

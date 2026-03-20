@@ -1,0 +1,44 @@
+{
+  "id": "2024-04-09_ko_86",
+  "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan avslogs",
+  "summary": "Kommunstyrelsen avslög ledamotsinitiativet från Helena Ståhl (SD) och Bo Ammer (SD) om att tillsätta en haverikommission för att granska Arenaskolan. Kommunstyrelsen konstaterade att tillsynen av friskolor är ett statligt ansvar under Skolinspektionen.",
+  "detail": "Helena Ståhl och Bo Ammer yrkade på tillsättning av haverikommission för att utreda vad som hänt på Arenaskolan, hur verksamheten kunnat fortgå trots tidigare stängning, och vad som ska göras för att förhindra detta igen.\n\nKommunledningen avslöj initiativet med motiveringen att utredning av friskolors verksamheter ligger utanför Kommunstyrelsens ansvarsområde. Friskolorna är ett statligt ansvar och tillsynen sorteras under Skolinspektionen.\n\nMarkus Allard (ÖrP) yrkade bifall till ledamotsinitiativet men överröstades.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 86",
+  "tags": [
+    "Arenaskolan",
+    "friskolor",
+    "tillsyn",
+    "Skolinspektionen"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Att utreda friskolors verksamheter ligger inte inom Kommunstyrelsens ansvarsområde. Friskolorna är ett statligt ansvar och tillsynen av friskoleverksamheterna sorteras under Skolinspektionen.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-04-09_ko",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_86.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_86/"
+  }
+}

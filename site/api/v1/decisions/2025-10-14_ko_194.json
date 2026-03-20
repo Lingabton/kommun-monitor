@@ -1,0 +1,42 @@
+{
+  "id": "2025-10-14_ko_194",
+  "headline": "Tilläggsanslag på 12,5 miljarder för kostnadsökningar godkänt",
+  "summary": "Kommunstyrelsen beviljade 12 495 tkr i tilläggsanslag för 2025 för tillfälliga satsningar och färdigställda lokalförsörjningsobjekt. SD ville ta bort 200 tkr för klimatkommunikation men förlorade omröstningen.",
+  "detail": "Ärendet handlar om att finansiera kostnadsökningar och oförutsedda behov under budgetåret 2025. Tilläggsanslaget finansieras ur kommunstyrelsens utrymme för oförutsedda behov samt från utrymmet för investeringskonsekvenser.\n\nHelena Ståhl (SD) och David Larsson (SD) motsatte sig ett specifikt tilläggsanslag på 200 tkr till klimatstrategins kommunikationsinsatser, men majoritetens förslag (S, M, C, L, KD och MP) vann. De två SD-ledamöterna reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 194",
+  "tags": [
+    "kostnadsökning",
+    "investering",
+    "klimatstrategi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas med totalt 12 495 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur KS utrymme för oförutsedda behov samt från KS utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.",
+  "quote_page": "s. 2",
+  "meeting": {
+    "id": "2025-10-14_ko",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_194.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_194/"
+  }
+}

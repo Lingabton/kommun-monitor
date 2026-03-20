@@ -1,0 +1,44 @@
+{
+  "id": "2024-04-09_ko_73",
+  "headline": "Årsredovisning 2023: Kommun visar god ekonomisk hushållning trots osäkerhet",
+  "summary": "Kommunstyrelsen godkände årsredovisningen för 2023. Örebro kommun hade ett resultat på 570 miljoner kronor (286 miljoner högre än budgeterat), samtidigt som investeringarna uppgick till 821 miljoner kronor. Fyra av sex mål för god ekonomisk hushållning uppnåddes.",
+  "detail": "Kommunkoncernen gjorde ett resultat på 659 miljoner kronor inklusive Rådhuskoncernen. Kommunens egna resultat var 570 miljoner kronor, vilket var 286 miljoner högre än budget. Positiv börsutveckling påverkade kapitalförvaltningen positivt och skatteintäkterna utvecklades bättre än förväntat.\n\nInvesteringar i kommunal verksamhet uppgick till 821 miljoner kronor, vilket är 483 miljoner lägre än budgeterat. Balanskravet samt tre av fyra finansiella mål uppnåddes. Av 19 verksamhetsmål uppnåddes 8. Av 49 uppdrag var 16 slutförda, 32 påbörjade men ej fullt genomförda, och ett påbörjat aldrig.\n\nKommunen reserverade 20 miljoner kronor för resultatutjämningsreserven och minskade markeringen för intraprenad-över- och underskott med 14,2 miljoner kronor. Årsredovisningen ska vidare till revisorerna för granskning och till Kommunfullmäktige för final godkännande.\n\nÖrebropartiet reserverade sig mot besluten. Vänsterpartiet reserverade sig mot reserveringsbeslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 73",
+  "tags": [
+    "årsredovisning2023",
+    "ekonomi",
+    "stabilititet",
+    "investeringar",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun, trots det osäkra världsläget och ekonomiska läget, har en stabil ekonomi. Kommunen som helhet bedöms därför fortsatt ha god ekonomisk hushållning.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2024-04-09_ko",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_73.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_73/"
+  }
+}

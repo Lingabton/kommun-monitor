@@ -1,0 +1,44 @@
+{
+  "id": "2025-10-14_ko_196",
+  "headline": "Negativ budgetavvikelse 210 mnkr – nämnderna får åtgärdskrav",
+  "summary": "Kommunens helårsprognos visar 257 mnkr resultat mot budgeterat 467 mnkr – en negativ budgetavvikelse på 210 mnkr. Nämnderna måste vidta konkretiserade åtgärder för att säkra långsiktigt hållbar ekonomi.",
+  "detail": "Delårsrapporten visar att kommunen inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året. Endast 2 av 4 finansiella mål beräknas uppfyllas.\n\nPrognosen visar att verksamhetens resultat är 78 mnkr lägre än budget, och finansverksamheten är 132 mnkr lägre. De nämnder som prognostiserar negativ avvikelse måste redovisa konkretiserade åtgärder senast i samband med årsredovisningen för 2025.\n\nMartha Wicklund (V) och Karolina Wallström (L) motsatte sig beslutet och förlorade omröstningen. Vänsterpartiet ville att nämnderna skulle få mer realistiska budgetramar istället för att krävas på sparåtgärder. L reserverade sig tillsammans med Yngve Alkman.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 196",
+  "tags": [
+    "ekonomi",
+    "budget",
+    "prognosprognos",
+    "sparåtgärder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "L"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "De nämnder som prognostiserar negativ budgetavvikelse för år 2025 ska vidta och konkretisera åtgärder för att säkra en långsiktigt hållbar ekonomi. Åtgärderna ska vara siffersatta och redovisas till Kommunstyrelsen senast i samband med årsredovisningen för år 2025.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2025-10-14_ko",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_196.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_196/"
+  }
+}
