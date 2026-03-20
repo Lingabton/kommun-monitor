@@ -1,0 +1,41 @@
+{
+  "id": "2025-08-27_ko_222",
+  "headline": "Förskolan Igelkotten anses tillgodosedd – ingen stängning beslutad",
+  "summary": "ÖrebroPrtiet krävde att kommunen stängde förskolan Igelkotten med samma huvudman som den stängda Arenaskolan. Kommunstyrelsen ansåg motionen tillgodosedd utan att stänga förskolan.",
+  "detail": "ÖrebroPartiet påpekade att även om Skolinspektionen stängde Arenaskolan, fortfarande öppen förskolan Igelkotten intill samma område där samma personer enligt ÖrP har ledande positioner (Tala förskolor AB).\n\nMotionen krävde att kommunen skulle använda sin \"fulla rådighet\" och agera omedelbar stängning enligt nuvarande lagstiftning.\n\nKommunstyrelsen besvarade detta genom att anse motionen \"tillgodosedd\" – ett sätt att avvisa motionen utan att faktiskt stänga förskolan. M och C stödde detta. SD reserverade sig.\n\nDetta är en klassisk politisk gradering där kommunen säger sig ha hört motionen men inte faktiskt genomför det som efterfrågades.",
+  "category": "skola",
+  "contested": false,
+  "location": "Igelkotten, Örebro",
+  "paragraph_ref": "§ 222",
+  "tags": [
+    "förskola",
+    "Igelkotten",
+    "tillsyn",
+    "Arenaskolan",
+    "säkerhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Örebropartiet uttrycker att kommunen har full rådighet och kan agera utifrån nuvarande lagstiftning och vill att förskolan bör stängas omedelbart.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-08-27_ko",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_222.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_222/"
+  }
+}

@@ -5,98 +5,98 @@
   "text_color": "#333",
   "position": "Opposition",
   "ideology": "Socialkonservatism",
-  "votes_for": 3,
-  "votes_against": 8,
-  "votes_abstained": 0,
-  "total_votes": 11,
+  "votes_for": 4,
+  "votes_against": 5,
+  "votes_abstained": 1,
+  "total_votes": 10,
   "contested_votes": [
     {
-      "id": "2025-12-10_kf_390",
-      "headline": "Motion om farligt gods genom Örebro avslås",
+      "id": "2025-12-10_ko_390_391",
+      "headline": "Motioner om farligt gods och motorgård avslagna",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-12-10_kf_395",
-      "headline": "Cirkulationsbibliotek röstades ned 39-22",
+      "id": "2025-12-10_ko_392_393",
+      "headline": "Kulturarvsvecka och byggnadsvårdspris – motioner hanterade",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-10-14_ks_196",
-      "headline": "Negativ budgetavvikelse på 210 MSEK",
-      "date": "2025-10-14"
+      "id": "2025-12-10_ko_394_395",
+      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "date": "2025-12-10"
     },
     {
-      "id": "2025-10-14_ks_203",
-      "headline": "Motion om kärnkraft (SMR) avslås",
-      "date": "2025-10-14"
+      "id": "2025-12-10_ko_397-417",
+      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+      "date": "2025-12-10"
     },
     {
-      "id": "2025-08-27_kf_217",
-      "headline": "Naturreservat Garphytteklint bildas",
-      "date": "2025-08-27"
-    },
-    {
-      "id": "2025-08-27_kf_221",
-      "headline": "Maxtak barngrupper i förskolan avslås",
-      "date": "2025-08-27"
-    },
-    {
-      "id": "2025-08-27_kf_222",
-      "headline": "Förskolan Igelkotten stängs",
-      "date": "2025-08-27"
-    },
-    {
-      "id": "2025-08-27_kf_223",
-      "headline": "Mer pengar till välfärdspersonal avslås",
+      "id": "2025-08-27_ko_228",
+      "headline": "Många SD-motioner bordlagda för senare behandling",
       "date": "2025-08-27"
     }
   ],
   "key_issues": {
-    "infrastruktur": 1,
-    "skola": 3,
-    "regler": 2,
-    "budget": 2,
-    "miljö": 2,
-    "bygg": 1
+    "regler": 1,
+    "ovrigt": 1,
+    "kultur": 2,
+    "politik": 2,
+    "skola": 1,
+    "budget": 2
   },
   "motions_filed": [
     {
-      "title": "Skydda barnen mot pedofiler",
-      "status": "Remitterad till KS",
-      "date": "2025-08-27"
+      "title": "Helena Ståhl (SD) och Habib Brini (SD) om ekonomiska fallskärmar",
+      "status": "Remitterad till Kommunstyrelsen för svar",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "Carola Sunesson (SD) och Christer Johansson (SD) om klassisk arkitektur och lokal byggtradition",
+      "status": "Remitterad till Bygg- och miljönämnden och Markplanerings- och exploateringsnämnden",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "Helena Ståhl (SD) och Habib Brini (SD) om långtidsarbetslösa vid snöröjning",
+      "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i Översiktsplanen",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+      "date": "2025-02-11"
     }
   ],
   "agreement_with": {
-    "L": 7,
-    "KD": 7,
-    "ÖrP": 8,
-    "MP": 6,
-    "S": 3,
-    "M": 3,
     "C": 3,
-    "V": 5
-  },
-  "disagreement_with": {
-    "M": 8,
-    "C": 8,
-    "S": 8,
-    "V": 4,
-    "L": 4,
-    "KD": 3,
-    "ÖrP": 2,
+    "KD": 6,
+    "L": 5,
+    "M": 3,
+    "S": 3,
+    "V": 5,
+    "ÖrP": 4,
     "MP": 2
   },
-  "for_pct": 27,
-  "against_pct": 73,
-  "abstained_pct": 0,
-  "activity_score": 65,
+  "disagreement_with": {
+    "C": 6,
+    "M": 6,
+    "S": 6,
+    "MP": 3,
+    "L": 4,
+    "V": 3,
+    "KD": 1,
+    "ÖrP": 2
+  },
+  "for_pct": 40,
+  "against_pct": 50,
+  "abstained_pct": 10,
+  "activity_score": 90,
   "top_categories": [
     [
-      "skola",
-      3
+      "kultur",
+      2
     ],
     [
-      "regler",
+      "politik",
       2
     ],
     [
@@ -104,46 +104,46 @@
       2
     ],
     [
-      "miljö",
-      2
+      "regler",
+      1
     ],
     [
-      "infrastruktur",
+      "ovrigt",
       1
     ]
   ],
   "top_allies": [
     [
-      "ÖrP",
-      8
+      "KD",
+      6
     ],
     [
       "L",
-      7
+      5
     ],
     [
-      "KD",
-      7
+      "V",
+      5
     ]
   ],
   "top_opponents": [
     [
-      "M",
-      8
+      "C",
+      6
     ],
     [
-      "C",
-      8
+      "M",
+      6
     ],
     [
       "S",
-      8
+      6
     ]
   ],
   "abbr": "SD",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/sd.json",
-    "web_url": "https://kommun-monitor.se/parti/sd/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/sd.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/sd/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

@@ -5,134 +5,118 @@
   "position": "Opposition",
   "ideology": "Kristdemokrati",
   "votes_for": 8,
-  "votes_against": 5,
-  "votes_abstained": 1,
-  "total_votes": 14,
+  "votes_against": 3,
+  "votes_abstained": 0,
+  "total_votes": 11,
   "contested_votes": [
     {
-      "id": "2025-12-10_kf_389",
-      "headline": "202 socialtjänstbeslut väntar",
+      "id": "2025-12-10_ko_390_391",
+      "headline": "Motioner om farligt gods och motorgård avslagna",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-12-10_kf_390",
-      "headline": "Motion om farligt gods genom Örebro avslås",
+      "id": "2025-12-10_ko_394_395",
+      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-12-10_kf_395",
-      "headline": "Cirkulationsbibliotek röstades ned 39-22",
+      "id": "2025-12-10_ko_389",
+      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
       "date": "2025-12-10"
-    },
-    {
-      "id": "2025-08-27_kf_221",
-      "headline": "Maxtak barngrupper i förskolan avslås",
-      "date": "2025-08-27"
-    },
-    {
-      "id": "2025-08-27_kf_223",
-      "headline": "Mer pengar till välfärdspersonal avslås",
-      "date": "2025-08-27"
     }
   ],
   "key_issues": {
-    "politik": 2,
-    "infrastruktur": 1,
-    "skola": 3,
     "regler": 2,
-    "miljö": 2,
-    "bygg": 2,
-    "budget": 1
+    "ovrigt": 1,
+    "kultur": 1,
+    "politik": 2,
+    "budget": 4,
+    "skola": 1
   },
   "motions_filed": [
     {
-      "title": "Kompensation till drabbade företag",
-      "status": "Remitterad till KS",
+      "title": "Utred kompensation till drabbade företag",
+      "status": "Remitterad",
       "date": "2025-12-10"
-    },
-    {
-      "title": "Öppna skolmatsalar för seniorer",
-      "status": "Bereds av KS",
-      "date": "2024-04-09"
     }
   ],
   "agreement_with": {
+    "C": 7,
+    "L": 8,
+    "M": 7,
+    "S": 7,
+    "SD": 6,
     "V": 7,
-    "ÖrP": 9,
-    "SD": 7,
-    "L": 12,
-    "MP": 7,
-    "S": 8,
-    "M": 8,
-    "C": 8
+    "ÖrP": 3,
+    "MP": 4
   },
   "disagreement_with": {
-    "M": 5,
-    "C": 5,
-    "S": 5,
-    "V": 3,
-    "SD": 3,
+    "C": 4,
+    "M": 4,
+    "S": 4,
+    "V": 1,
+    "SD": 1,
     "ÖrP": 4,
-    "MP": 1
+    "L": 1
   },
-  "for_pct": 57,
-  "against_pct": 36,
-  "abstained_pct": 7,
-  "activity_score": 90,
+  "for_pct": 73,
+  "against_pct": 27,
+  "abstained_pct": 0,
+  "activity_score": 65,
   "top_categories": [
     [
-      "skola",
-      3
-    ],
-    [
-      "politik",
-      2
+      "budget",
+      4
     ],
     [
       "regler",
       2
     ],
     [
-      "miljö",
+      "politik",
       2
     ],
     [
-      "bygg",
-      2
+      "ovrigt",
+      1
+    ],
+    [
+      "kultur",
+      1
     ]
   ],
   "top_allies": [
     [
       "L",
-      12
-    ],
-    [
-      "ÖrP",
-      9
-    ],
-    [
-      "S",
       8
+    ],
+    [
+      "C",
+      7
+    ],
+    [
+      "M",
+      7
     ]
   ],
   "top_opponents": [
     [
-      "M",
-      5
+      "C",
+      4
     ],
     [
-      "C",
-      5
+      "M",
+      4
     ],
     [
       "S",
-      5
+      4
     ]
   ],
   "abbr": "KD",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/kd.json",
-    "web_url": "https://kommun-monitor.se/parti/kd/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/kd.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/kd/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

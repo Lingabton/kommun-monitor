@@ -1,5 +1,574 @@
 {
-  "count": 0,
+  "count": 9,
   "municipality": "orebro",
-  "parties": []
+  "parties": [
+    {
+      "abbr": "S",
+      "name": "Socialdemokraterna",
+      "color": "#e8112d",
+      "position": "Majoritet",
+      "ideology": "Socialdemokrati",
+      "total_votes": 19,
+      "for_pct": 95,
+      "against_pct": 5,
+      "abstained_pct": 0,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "budget",
+          5
+        ],
+        [
+          "regler",
+          3
+        ],
+        [
+          "politik",
+          3
+        ],
+        [
+          "skola",
+          3
+        ],
+        [
+          "kultur",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "C",
+          19
+        ],
+        [
+          "M",
+          19
+        ],
+        [
+          "L",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          9
+        ],
+        [
+          "SD",
+          6
+        ],
+        [
+          "KD",
+          4
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/s.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/s/"
+    },
+    {
+      "abbr": "M",
+      "name": "Moderaterna",
+      "color": "#52bdec",
+      "position": "Majoritet",
+      "ideology": "Liberalkonservatism",
+      "total_votes": 19,
+      "for_pct": 95,
+      "against_pct": 5,
+      "abstained_pct": 0,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "budget",
+          5
+        ],
+        [
+          "regler",
+          3
+        ],
+        [
+          "politik",
+          3
+        ],
+        [
+          "skola",
+          3
+        ],
+        [
+          "kultur",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "C",
+          19
+        ],
+        [
+          "S",
+          19
+        ],
+        [
+          "L",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          9
+        ],
+        [
+          "SD",
+          6
+        ],
+        [
+          "KD",
+          4
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/m.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/m/"
+    },
+    {
+      "abbr": "C",
+      "name": "Centerpartiet",
+      "color": "#009933",
+      "position": "Majoritet",
+      "ideology": "Centerism, grön liberalism",
+      "total_votes": 19,
+      "for_pct": 95,
+      "against_pct": 5,
+      "abstained_pct": 0,
+      "motions_count": 0,
+      "top_categories": [
+        [
+          "budget",
+          5
+        ],
+        [
+          "regler",
+          3
+        ],
+        [
+          "politik",
+          3
+        ],
+        [
+          "skola",
+          3
+        ],
+        [
+          "kultur",
+          2
+        ]
+      ],
+      "top_allies": [
+        [
+          "M",
+          19
+        ],
+        [
+          "S",
+          19
+        ],
+        [
+          "L",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          9
+        ],
+        [
+          "SD",
+          6
+        ],
+        [
+          "KD",
+          4
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/c.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/c/"
+    },
+    {
+      "abbr": "L",
+      "name": "Liberalerna",
+      "color": "#006ab3",
+      "position": "Opposition",
+      "ideology": "Socialliberalism",
+      "total_votes": 11,
+      "for_pct": 73,
+      "against_pct": 27,
+      "abstained_pct": 0,
+      "motions_count": 2,
+      "top_categories": [
+        [
+          "politik",
+          3
+        ],
+        [
+          "budget",
+          3
+        ],
+        [
+          "kultur",
+          2
+        ],
+        [
+          "regler",
+          1
+        ],
+        [
+          "ovrigt",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "C",
+          9
+        ],
+        [
+          "M",
+          9
+        ],
+        [
+          "S",
+          9
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          5
+        ],
+        [
+          "SD",
+          4
+        ],
+        [
+          "V",
+          3
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/l.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/l/"
+    },
+    {
+      "abbr": "KD",
+      "name": "Kristdemokraterna",
+      "color": "#231977",
+      "position": "Opposition",
+      "ideology": "Kristdemokrati",
+      "total_votes": 11,
+      "for_pct": 73,
+      "against_pct": 27,
+      "abstained_pct": 0,
+      "motions_count": 1,
+      "top_categories": [
+        [
+          "budget",
+          4
+        ],
+        [
+          "regler",
+          2
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "ovrigt",
+          1
+        ],
+        [
+          "kultur",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "L",
+          8
+        ],
+        [
+          "C",
+          7
+        ],
+        [
+          "M",
+          7
+        ]
+      ],
+      "top_opponents": [
+        [
+          "C",
+          4
+        ],
+        [
+          "M",
+          4
+        ],
+        [
+          "S",
+          4
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/kd.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/kd/"
+    },
+    {
+      "abbr": "V",
+      "name": "Vänsterpartiet",
+      "color": "#da291c",
+      "position": "Opposition",
+      "ideology": "Demokratisk socialism",
+      "total_votes": 10,
+      "for_pct": 80,
+      "against_pct": 20,
+      "abstained_pct": 0,
+      "motions_count": 4,
+      "top_categories": [
+        [
+          "politik",
+          3
+        ],
+        [
+          "budget",
+          3
+        ],
+        [
+          "kultur",
+          2
+        ],
+        [
+          "regler",
+          1
+        ],
+        [
+          "skola",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "C",
+          7
+        ],
+        [
+          "KD",
+          7
+        ],
+        [
+          "M",
+          7
+        ]
+      ],
+      "top_opponents": [
+        [
+          "ÖrP",
+          4
+        ],
+        [
+          "SD",
+          3
+        ],
+        [
+          "L",
+          3
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/v.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/v/"
+    },
+    {
+      "abbr": "SD",
+      "name": "Sverigedemokraterna",
+      "color": "#dddd00",
+      "position": "Opposition",
+      "ideology": "Socialkonservatism",
+      "total_votes": 10,
+      "for_pct": 40,
+      "against_pct": 50,
+      "abstained_pct": 10,
+      "motions_count": 4,
+      "top_categories": [
+        [
+          "kultur",
+          2
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "budget",
+          2
+        ],
+        [
+          "regler",
+          1
+        ],
+        [
+          "ovrigt",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "KD",
+          6
+        ],
+        [
+          "L",
+          5
+        ],
+        [
+          "V",
+          5
+        ]
+      ],
+      "top_opponents": [
+        [
+          "C",
+          6
+        ],
+        [
+          "M",
+          6
+        ],
+        [
+          "S",
+          6
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/sd.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/sd/"
+    },
+    {
+      "abbr": "ÖrP",
+      "name": "Örebropartiet",
+      "color": "#f47920",
+      "position": "Opposition",
+      "ideology": "Lokalt parti",
+      "total_votes": 10,
+      "for_pct": 0,
+      "against_pct": 90,
+      "abstained_pct": 10,
+      "motions_count": 1,
+      "top_categories": [
+        [
+          "budget",
+          4
+        ],
+        [
+          "politik",
+          2
+        ],
+        [
+          "ovrigt",
+          1
+        ],
+        [
+          "kultur",
+          1
+        ],
+        [
+          "regler",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "SD",
+          4
+        ],
+        [
+          "KD",
+          3
+        ],
+        [
+          "L",
+          2
+        ]
+      ],
+      "top_opponents": [
+        [
+          "C",
+          9
+        ],
+        [
+          "M",
+          9
+        ],
+        [
+          "S",
+          9
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/örp.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/örp/"
+    },
+    {
+      "abbr": "MP",
+      "name": "Miljöpartiet",
+      "color": "#83cf39",
+      "position": "Opposition",
+      "ideology": "Grön politik",
+      "total_votes": 6,
+      "for_pct": 83,
+      "against_pct": 17,
+      "abstained_pct": 0,
+      "motions_count": 1,
+      "top_categories": [
+        [
+          "politik",
+          3
+        ],
+        [
+          "kultur",
+          2
+        ],
+        [
+          "skola",
+          1
+        ]
+      ],
+      "top_allies": [
+        [
+          "L",
+          5
+        ],
+        [
+          "C",
+          4
+        ],
+        [
+          "M",
+          4
+        ]
+      ],
+      "top_opponents": [
+        [
+          "SD",
+          3
+        ],
+        [
+          "C",
+          2
+        ],
+        [
+          "M",
+          2
+        ]
+      ],
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/mp.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/parti/mp/"
+    }
+  ]
 }

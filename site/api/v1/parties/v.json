@@ -4,130 +4,129 @@
   "color": "#da291c",
   "position": "Opposition",
   "ideology": "Demokratisk socialism",
-  "votes_for": 6,
-  "votes_against": 4,
-  "votes_abstained": 4,
-  "total_votes": 14,
+  "votes_for": 8,
+  "votes_against": 2,
+  "votes_abstained": 0,
+  "total_votes": 10,
   "contested_votes": [
     {
-      "id": "2025-12-10_kf_389",
-      "headline": "202 socialtjänstbeslut väntar",
+      "id": "2025-12-10_ko_389",
+      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-08-27_kf_221",
-      "headline": "Maxtak barngrupper i förskolan avslås",
-      "date": "2025-08-27"
-    },
-    {
-      "id": "2025-08-27_kf_222",
-      "headline": "Förskolan Igelkotten stängs",
-      "date": "2025-08-27"
-    },
-    {
-      "id": "2025-08-27_kf_223",
-      "headline": "Mer pengar till välfärdspersonal avslås",
+      "id": "2025-08-27_ko_228",
+      "headline": "Många SD-motioner bordlagda för senare behandling",
       "date": "2025-08-27"
     }
   ],
   "key_issues": {
-    "politik": 1,
-    "infrastruktur": 1,
-    "skola": 3,
-    "regler": 2,
-    "miljö": 2,
-    "budget": 1
+    "regler": 1,
+    "kultur": 2,
+    "politik": 3,
+    "budget": 3,
+    "skola": 1
   },
   "motions_filed": [
     {
-      "title": "Nyckeltal för antal anställda per chef",
-      "status": "Remitterad till KS",
+      "title": "Fler vuxna och mindre barngrupper i förskolan",
+      "status": "Avslagen",
       "date": "2025-08-27"
     },
     {
-      "title": "Återbruk i alla led",
-      "status": "Bereds av KS",
-      "date": "2024-04-09"
+      "title": "Mer pengar till välfärdspersonalen",
+      "status": "Avslagen",
+      "date": "2025-08-27"
+    },
+    {
+      "title": "Förstärka skolan (läxfri, avgiftsfri, modersmål)",
+      "status": "Delvis avslagen",
+      "date": "2025-08-27"
+    },
+    {
+      "title": "Martha Wicklund (V) m.fl. om att trygga demokratin",
+      "status": "Remitterad till Kommunstyrelsen för svar",
+      "date": "2025-02-11"
     }
   ],
   "agreement_with": {
+    "C": 7,
     "KD": 7,
-    "ÖrP": 7,
-    "M": 6,
-    "C": 6,
-    "S": 6,
     "L": 6,
-    "MP": 6,
-    "SD": 5
+    "M": 7,
+    "S": 7,
+    "SD": 5,
+    "MP": 4,
+    "ÖrP": 2
   },
   "disagreement_with": {
-    "M": 4,
-    "C": 4,
-    "S": 4,
-    "SD": 4,
+    "SD": 3,
+    "MP": 2,
+    "KD": 1,
     "L": 3,
-    "KD": 3,
-    "ÖrP": 3,
-    "MP": 1
+    "ÖrP": 4,
+    "C": 3,
+    "M": 3,
+    "S": 3
   },
-  "for_pct": 43,
-  "against_pct": 29,
-  "abstained_pct": 29,
+  "for_pct": 80,
+  "against_pct": 20,
+  "abstained_pct": 0,
   "activity_score": 90,
   "top_categories": [
     [
-      "skola",
+      "politik",
       3
     ],
     [
+      "budget",
+      3
+    ],
+    [
+      "kultur",
+      2
+    ],
+    [
       "regler",
-      2
-    ],
-    [
-      "miljö",
-      2
-    ],
-    [
-      "politik",
       1
     ],
     [
-      "infrastruktur",
+      "skola",
       1
     ]
   ],
   "top_allies": [
     [
+      "C",
+      7
+    ],
+    [
       "KD",
       7
     ],
     [
-      "ÖrP",
-      7
-    ],
-    [
       "M",
-      6
+      7
     ]
   ],
   "top_opponents": [
     [
-      "M",
+      "ÖrP",
       4
     ],
     [
-      "C",
-      4
+      "SD",
+      3
     ],
     [
-      "S",
-      4
+      "L",
+      3
     ]
   ],
   "abbr": "V",
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/parties/v.json",
-    "web_url": "https://kommun-monitor.se/parti/v/",
-    "all_parties": "https://kommun-monitor.se/api/v1/parties.json"
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/v.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/v/",
+    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

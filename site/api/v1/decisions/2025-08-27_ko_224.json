@@ -1,0 +1,42 @@
+{
+  "id": "2025-08-27_ko_224",
+  "headline": "Bygg- och driftverksamheten sägs konkurrensutsatt – två av tre motionsyrkanden tillgodosedda",
+  "summary": "Liberal motion om konkurrensutsättning av kommunens bygg- och driftverksamhet: första förslaget (ekonomisk analys) avslogs, men andra och tredje (konkurrens och upphandling) ansågs tillgodosedda.",
+  "detail": "Patrik Jämtvall (L) krävde:\n\n1. Ekonomisk analys av driftskostnader i egen regi\n2. Konkurrensutsättning av bygg- och driftverksamheten\n3. Alltid ge marknaden chans via upphandling\n\nKommunstyrelsen föreslog: avslag på första, tillgodosedda för andra och tredje.\n\nMotiveringen var att punkt 2 och 3 redan genomfördes genom befintlig upphandlingspolicy. Punkt 1 (kostnadsjämförelse egen regi vs extern) bedömdes inte behövas.\n\nL, V, ÖrP reserverade sig, önskande fullt bifall. Detta är en delvis framgång för liberalerna men missade den ekonomiska analysen som skulle kunna visa om privat verkligen är billigare.\n\nBeslutets praktiska effekt: ingen ny konkurrensutsättning utöver redan befintlig policy.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 224",
+  "tags": [
+    "konkurrens",
+    "upphandling",
+    "bygg",
+    "drift",
+    "effektivitet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Motionen innehåller tre yrkanden om utmaningsrätt, ekonomisk analys och konkurrensutsättning av bygg- och driftverksamheten.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2025-08-27_ko",
+    "date": "2025-08-27",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_224.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_224/"
+  }
+}

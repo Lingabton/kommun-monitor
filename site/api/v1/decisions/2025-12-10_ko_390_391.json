@@ -1,0 +1,47 @@
+{
+  "id": "2025-12-10_ko_390_391",
+  "headline": "Motioner om farligt gods och motorgård avslagna",
+  "summary": "Fullmäktige avslog två SD-motioner: en om att minimera transporter av farligt gods genom Örebro och en om att starta motorgård för ungdomar i centrala Örebro. Båda fick omfattande reservationer från oppositionen.",
+  "detail": "Motion från Habib Brini (SD) och Bo Ammer (SD) föreslog att Örebro kommun skulle vara pådrivande i diskussioner med Trafikverket om hur transporter av farligt gods genom Örebro kan minimeras och hur framtida järnväg enligt översiktsplanen kan realiseras. Kommunstyrelsen bedömde att andra åtgärder har högre prioritet och föreslog avslag.\n\nMotionen röstades ned i Kommunfullmäktige. Kemal Hoso (S) yrkade bifall till avslagandet, medan Bo Ammer (SD), Habib Brini (SD), Markus Allard (ÖrP), Patrik Jämtvall (L) och Jonas Levin (KD) yrkade på motionens godkännande.\n\nMotion från Bjarne Bäckström (SD) föreslog att kommunen i egen regi eller samarbete startar motorgård för ungdomar nära centrala Örebro. Även denna motion avslogs. Maria Haglund (M), Alexandra Royal (C), Sandra Fröjdenstam (KD) och Stefan Nilsson (V) yrkade bifall till avslagandet, medan Bjarne Bäckström (SD), Lena Lindén (SD) och Markus Allard (ÖrP) yrkade på motionens godkännande.\n\nFlera oppositionspartier reserverade sig mot båda besluten, inklusive SD, ÖrP, L och KD.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 390, 391",
+  "tags": [
+    "farligt gods",
+    "Trafikverket",
+    "motorgård",
+    "ungdomar",
+    "Sverigedemokraterna",
+    "opposition"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "L",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslagen (röstning 390, 391)"
+  },
+  "quote": "Motionen avslås. / Motionen avslås.",
+  "quote_page": "s. 11-13",
+  "meeting": {
+    "id": "2025-12-10_ko",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_390_391.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_390_391/"
+  }
+}

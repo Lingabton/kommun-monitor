@@ -1,0 +1,47 @@
+{
+  "id": "2025-12-10_ko_392_393",
+  "headline": "Kulturarvsvecka och byggnadsvårdspris – motioner hanterade",
+  "summary": "Fullmäktige avslogs motion om årlig kulturarvsvecka och bedömde motion om byggnadsvårdspris som tillgodosedd. SD hade motsatt sig båda besluten.",
+  "detail": "Motion från Carola Sunesson (SD) och Bo Ammer (SD) föreslog inrättning av årlig återkommande kulturarvsvecka kopplad till Kultur- och fritidsförvaltningen. Motionärerna menade att satsningen skulle kunna ske inom befintliga resurser. Kommunstyrelsen rekommenderade avslag med motiveringen att befintliga strukturer redan tillgodoser intentionerna.\n\nFullmäktige avslog motionen. Maria Haglund (M), Wilhelm Sundman (L), Karolina Wallström (L), Peter Ekström (V) och Marcus Willén Ode (MP) yrkade på avslagandet. Carola Sunesson (SD) och Bo Ammer (SD) yrkade på godkännande. Båda SD:s ledamöter reserverade sig.\n\nMotion från Carola Sunesson (SD) om byggnadsvårdspris bedömdes som tillgodosedd. Kommunen har redan beslutat att dela ut byggnadsvårdspris för 2025 och planerar en utvärdering för möjlig permanentning. Kemal Hoso (S), Lucas Holmberg (M), Anna Hedström (S) och Elisabeth Malmqvist (C) yrkade på tillgodohållandet. Sunesson yrkade på fullt bifallande av motionen. SD reserverade sig.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 392, 393",
+  "tags": [
+    "kulturarv",
+    "årlig vecka",
+    "byggnadsvård",
+    "pris",
+    "kulturell satsning",
+    "Carola Sunesson"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslag (392) och tillgodohållande (393)"
+  },
+  "quote": "Motionen avslås. / Motionen är tillgodosedd.",
+  "quote_page": "s. 14-15",
+  "meeting": {
+    "id": "2025-12-10_ko",
+    "date": "2025-12-10",
+    "type": "Kommunfullmäktige",
+    "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_392_393.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_392_393/"
+  }
+}

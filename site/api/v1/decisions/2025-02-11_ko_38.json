@@ -1,0 +1,43 @@
+{
+  "id": "2025-02-11_ko_38",
+  "headline": "Riktlinjer för bostadsförsörjning antagna till Kommunfullmäktige",
+  "summary": "Kommunstyrelsen antog nya riktlinjer för bostadsförsörjning enligt lag (2000:1383), vilka ska vägleda kommunens bostadsplanering de kommande åren. Ärendet vidarebefordras till Kommunfullmäktige för slutgiltigt beslut.",
+  "detail": "Markplanerings- och exploateringsnämndens förslag antogs efter omfattande samrådsprocess. Riktlinjerna innehåller Örebro kommuns mål för bostadsförsörjning och åtgärder för att uppnå dessa, med bilagor som redovisar demografisk utveckling, marknadsförutsättningar och bostadsbehov.\n\nSD:s Helena Ståhl kritiserade att småhus och villor underprioriterats. Hon yrkade på återremiss för att justera riktlinjerna enligt SD:s prioriteringar, med hänvisning till att över 60 procent av befolkningen önskar bo i villa. KD:s Håkan Stålbert ville lägga till avsnitt om \"Trädgårdsstäder\", boendesegregation och breddade insatser för hemlösa. V:s Martha Wicklund yrkade också på återremiss för sina förslag.\n\nOrdföranden avslogs alla återremissyrkanden. ÖrP yrkade totalt avslag. Ärendet avslutades med att mehreten (S, M, C) röstade för antagandet.",
+  "category": "regler",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 38",
+  "tags": [
+    "bostäder",
+    "bostadsförsörjning",
+    "småhus",
+    "villor",
+    "tätortsplanering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall (med reservationer från SD, V, KD)"
+  },
+  "quote": "Förslag till riktlinjer för bostadsförsörjning antas. Ärendet ska vidare till Kommunfullmäktige för beslut.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-02-11_ko",
+    "date": "2025-02-11",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_38.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_38/"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "id": "2025-02-11_ko",
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2025-02-11",
+  "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+  "summary_headline": "360 MSEK i investeringar överförda, bostadsriktlinjer antagna trots oppositions motstånd",
+  "decisions": [
+    {
+      "headline": "360 MSEK investeringsanslag överförda från 2024 till 2025",
+      "summary": "Kommunstyrelsen beslutade att överföra 360 miljoner kronor i investeringsanslag från föregående år, varav 193 MSEK för skattefinansierade och 167 MSEK för taxefinansierade investeringar. Beslutet ska senare fattas i kommunfullmäktige.",
+      "detail": "Ärendet gällde hantering av överförda investeringsanslag för pågående byggprojekt och infrastrukturinvesteringar. Beslutet påverkas inte av det finansiella målet om självfinansieringsgrad för 2025 enligt förslaget, då överförda anslag exkluderas från denna beräkning.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) motsatte sig förslaget. SD reserverade sig specifikt mot denna beslutspunkt, medan ÖrP motsatte sig hela investeringsärendet. Övriga partier (S, M, C, L, V, KD) röstade för förslaget.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 29",
+      "quote": "Investeringsanslag på sammanlagt 360 048 tkr överförs från 2024 till 2025 i enlighet med kommunstyrelseförvaltningens förslag.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifall (enhaltig med reservationer)"
+      },
+      "tags": [
+        "investeringar",
+        "budget2025",
+        "infrastruktur",
+        "exploatering"
+      ],
+      "id": "2025-02-11_ko_29"
+    },
+    {
+      "headline": "Riktlinjer för bostadsförsörjning antagna till Kommunfullmäktige",
+      "summary": "Kommunstyrelsen antog nya riktlinjer för bostadsförsörjning enligt lag (2000:1383), vilka ska vägleda kommunens bostadsplanering de kommande åren. Ärendet vidarebefordras till Kommunfullmäktige för slutgiltigt beslut.",
+      "detail": "Markplanerings- och exploateringsnämndens förslag antogs efter omfattande samrådsprocess. Riktlinjerna innehåller Örebro kommuns mål för bostadsförsörjning och åtgärder för att uppnå dessa, med bilagor som redovisar demografisk utveckling, marknadsförutsättningar och bostadsbehov.\n\nSD:s Helena Ståhl kritiserade att småhus och villor underprioriterats. Hon yrkade på återremiss för att justera riktlinjerna enligt SD:s prioriteringar, med hänvisning till att över 60 procent av befolkningen önskar bo i villa. KD:s Håkan Stålbert ville lägga till avsnitt om \"Trädgårdsstäder\", boendesegregation och breddade insatser för hemlösa. V:s Martha Wicklund yrkade också på återremiss för sina förslag.\n\nOrdföranden avslogs alla återremissyrkanden. ÖrP yrkade totalt avslag. Ärendet avslutades med att mehreten (S, M, C) röstade för antagandet.",
+      "category": "regler",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 38",
+      "quote": "Förslag till riktlinjer för bostadsförsörjning antas. Ärendet ska vidare till Kommunfullmäktige för beslut.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall (med reservationer från SD, V, KD)"
+      },
+      "tags": [
+        "bostäder",
+        "bostadsförsörjning",
+        "småhus",
+        "villor",
+        "tätortsplanering"
+      ],
+      "id": "2025-02-11_ko_38"
+    },
+    {
+      "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+      "summary": "Kommunstyrelsen beslutade att överföra det ackumulerade resultatet från kommunens interna förvaltningsbolag (intraprenader) till nästa år. Totalt överfördes 36,7 miljoner kronor enligt maxregeln på sju procent av årsbudgeten.",
+      "detail": "Intraprenadernas ekonomiska överskud från 2024 fastställdes till 36 733 tkr. Samtidigt beslutades att de politiska kansliernas överskott på 8 173 tkr överfördes från 2024 till 2025. De politiska kanslierna får maximalt överföra 10 MSEK under mandatperioden 2022-2026 enligt tidigare beslut.\n\nTre intraprenader upphörde under 2024. Systemet för Digital arbetsplats ändrades 2024, vilket innebär att möjligheten att föra med sig överfört resultat mellan åren upphör för denna verksamhet.\n\nMarkus Allard (ÖrP) yrkade avslag på hela ärendet, men röstades ned.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 29",
+      "quote": "Intraprenadernas ackumulerade resultat fastställs till 36 733 tkr. Politiska kansliers resultat på totalt 8 173 tkr överförs från 2024 till 2025.",
+      "quote_page": "s. 3-4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "SD",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "intraprenader",
+        "ekonomi",
+        "resultatöverföring"
+      ],
+      "id": "2025-02-11_ko_29"
+    },
+    {
+      "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+      "summary": "Kommunstyrelsen beviljades tilläggsanslag på 17 044 tkr för kostnadsökningar bland annat för färdigställda lokalförsörjningsobjekt. Ombudgetering genomfördes för att hantera organisationsförändringar.",
+      "detail": "Tilläggsanslagen finansierades från Kommunstyrelsens utrymme och från medeilen för beslutade konsekvenser av investeringar och lokalförsörjning. Ombudgetering mellan nämnder genomfördes för att hantera organisationsförändringar.\n\nMarkus Allard (ÖrP) yrkade avslag med hänvisning till ÖrP:s alternativa budgetförslag, men röstades ned.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 31",
+      "quote": "Tilläggsanslag beviljas med totalt 17 044 tkr enligt Kommunledningsförvaltningens förslag.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "SD",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "lokalförsörjning",
+        "tilläggsanslag",
+        "ombudgetering"
+      ],
+      "id": "2025-02-11_ko_31"
+    },
+    {
+      "headline": "Fem motioner remitterade till nämnder för vidare beredning",
+      "summary": "Kommunfullmäktige hade remitterat fem motioner till Kommunstyrelsen. Två besvarades direkt av styrelsen, medan tre remitterades vidare till relevanta nämnder för utredning.",
+      "detail": "Motionerna gällde:\n\n1. Martha Wicklund (V) m.fl. om att trygga demokratin - besvaras av Kommunstyrelsen\n2. Helena Ståhl (SD) och Habib Brini om ekonomiska fallskärmar - besvaras av Kommunstyrelsen\n3. Carola Sunesson (SD) och Christer Johansson (SD) om klassisk arkitektur och lokal byggtradition - remitterad till Bygg- och miljönämnden samt Markplanerings- och exploateringsnämnden\n4. Helena Ståhl (SD) och Habib Brini om långtidsarbetslösa vid snöröjning - remitterad till Gymnasie- och arbetsmarknadsnämnden\n5. Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i Översiktsplanen - remitterad till Markplanerings- och exploateringsnämnden",
+      "category": "politik",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 42",
+      "quote": "Kommunfullmäktige remitterade följande motioner till Kommunstyrelsen: Motion från Martha Wicklund (V) m.fl. om att trygga demokratin.",
+      "quote_page": "s. 14-15",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhaltig"
+      },
+      "tags": [
+        "motioner",
+        "demokrati",
+        "arkitektur",
+        "arbetslöshet",
+        "kärnkraft",
+        "energi"
+      ],
+      "id": "2025-02-11_ko_42"
+    },
+    {
+      "headline": "Rapport över ej verkställda LSS- och SoL-beslut kvartal 3 - SD och L kritiska",
+      "summary": "Kommunstyrelsen mottog rapporter om beslut enligt Lag om stöd och service (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) som inte verkställts inom tre månader. SD och Liberalerna yrkade på förbättringar i rapporteringen.",
+      "detail": "Funktionsstödsnämnden rapporterade 149 beslut totalt, varav 98 inte verkställda inom tre månader (ned från 157/97 föregående kvartal).\n\nVård- och omsorgsnämnden rapporterade 42 beslut, varav 26 inte verkställda inom tre månader (upp från 15 föregående kvartal).\n\nSocialnämnden rapporterade 29 beslut (ned från 41).\n\nHelena Ståhl (SD) yrkade att framtida rapporter särredovisar om förseningar beror på kommunens eller individens handlingar, för att kunna skilja mellan verklig ineffektivitet och situationer då personer tackat nej till insatser. Markus Allard (ÖrP) stödde SD:s yrkande. Karolina Wallström (L) skrev ett särskilt yttrande där hon betecknar situationen som \"oacceptabel\" och en \"kränkning av rättigheter\".\n\nStyrelsens majoritet avslogs SD:s tilläggsyrkande, men godkände att Wallström (L) fick lämna ett särskilt yttrande.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 39",
+      "quote": "Rapporten läggs till handlingarna. Karolina Wallström (L) får lämna ett särskilt yttrande till protokollet.",
+      "quote_page": "s. 12-13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall med reservationer"
+      },
+      "tags": [
+        "LSS",
+        "SoL",
+        "socialtjänst",
+        "funktionshinder",
+        "välfärd",
+        "omsorg",
+        "service"
+      ],
+      "id": "2025-02-11_ko_39"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Martha Wicklund (V) m.fl. om att trygga demokratin",
+      "party": "V",
+      "status": "Remitterad till Kommunstyrelsen för svar"
+    },
+    {
+      "title": "Helena Ståhl (SD) och Habib Brini (SD) om ekonomiska fallskärmar",
+      "party": "SD",
+      "status": "Remitterad till Kommunstyrelsen för svar"
+    },
+    {
+      "title": "Carola Sunesson (SD) och Christer Johansson (SD) om klassisk arkitektur och lokal byggtradition",
+      "party": "SD",
+      "status": "Remitterad till Bygg- och miljönämnden och Markplanerings- och exploateringsnämnden"
+    },
+    {
+      "title": "Helena Ståhl (SD) och Habib Brini (SD) om långtidsarbetslösa vid snöröjning",
+      "party": "SD",
+      "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden"
+    },
+    {
+      "title": "Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i Översiktsplanen",
+      "party": "SD",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json",
+    "decisions": [
+      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json",
+      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_38.json",
+      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json",
+      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_31.json",
+      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_42.json",
+      "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_39.json"
+    ],
+    "web_url": "https://Lingabton.github.io/kommun-monitor/#meeting-2025-02-11_ko"
+  }
+}

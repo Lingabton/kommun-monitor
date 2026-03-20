@@ -1,0 +1,46 @@
+{
+  "id": "2025-02-11_ko_29",
+  "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+  "summary": "Kommunstyrelsen beslutade att överföra det ackumulerade resultatet från kommunens interna förvaltningsbolag (intraprenader) till nästa år. Totalt överfördes 36,7 miljoner kronor enligt maxregeln på sju procent av årsbudgeten.",
+  "detail": "Intraprenadernas ekonomiska överskud från 2024 fastställdes till 36 733 tkr. Samtidigt beslutades att de politiska kansliernas överskott på 8 173 tkr överfördes från 2024 till 2025. De politiska kanslierna får maximalt överföra 10 MSEK under mandatperioden 2022-2026 enligt tidigare beslut.\n\nTre intraprenader upphörde under 2024. Systemet för Digital arbetsplats ändrades 2024, vilket innebär att möjligheten att föra med sig överfört resultat mellan åren upphör för denna verksamhet.\n\nMarkus Allard (ÖrP) yrkade avslag på hela ärendet, men röstades ned.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 29",
+  "tags": [
+    "budget",
+    "intraprenader",
+    "ekonomi",
+    "resultatöverföring"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "SD",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Intraprenadernas ackumulerade resultat fastställs till 36 733 tkr. Politiska kansliers resultat på totalt 8 173 tkr överförs från 2024 till 2025.",
+  "quote_page": "s. 3-4",
+  "meeting": {
+    "id": "2025-02-11_ko",
+    "date": "2025-02-11",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/"
+  }
+}

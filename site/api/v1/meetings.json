@@ -1,4 +1,49 @@
 {
-  "count": 0,
-  "meetings": []
+  "count": 4,
+  "meetings": [
+    {
+      "id": "2025-12-10_ko",
+      "date": "2025-12-10",
+      "type": "Kommunfullmäktige",
+      "municipality": "orebro",
+      "headline": "Nämndreglementen revideras, många motioner bordlagda",
+      "decisions_count": 7,
+      "contested_count": 5,
+      "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json"
+    },
+    {
+      "id": "2025-08-27_ko",
+      "date": "2025-08-27",
+      "type": "Kommunfullmäktige",
+      "municipality": "orebro",
+      "headline": "Förskolemotioner avslagna, många ärenden bordlagda",
+      "decisions_count": 7,
+      "contested_count": 6,
+      "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json"
+    },
+    {
+      "id": "2025-02-11_ko",
+      "date": "2025-02-11",
+      "type": "Kommunstyrelsen",
+      "municipality": "orebro",
+      "headline": "360 MSEK i investeringar överförda, bostadsriktlinjer antagna trots oppositions motstånd",
+      "decisions_count": 6,
+      "contested_count": 5,
+      "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json"
+    },
+    {
+      "id": "2025-01-29_ko",
+      "date": "2025-01-29",
+      "type": "Kommunfullmäktige",
+      "municipality": "orebro",
+      "headline": "Rutinmässiga personalförändringar i nämnder och Kommunstyrelsen",
+      "decisions_count": 0,
+      "contested_count": 0,
+      "source_url": "https://www.orebro.se/download/18.59abe9f8193debe46c88c90/1738229409630/2025-01-29%20Kommunfullm%C3%A4ktige%20%C2%A7%2013.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_ko.json"
+    }
+  ]
 }

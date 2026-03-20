@@ -1,5 +1,409 @@
 {
-  "count": 0,
-  "updated": "2026-03-19T15:00:07.215257+00:00",
-  "entries": []
+  "count": 20,
+  "updated": "2026-03-20T06:50:24.468279+00:00",
+  "entries": [
+    {
+      "id": "2025-12-10_ko_388",
+      "headline": "Nämndreglementen revideras enligt ny socialtjänstlag",
+      "summary": "Kommunfullmäktige antog reviderade nämndreglementen för mandatperioden 2023-2026 med anledning av ny socialtjänstlag. En viktig organisatorisk förändring är att Budget- och skuldrådgivningen flyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden för förbättrat förebyggande arbete.",
+      "category": "regler",
+      "tags": [
+        "nämndreglementen",
+        "socialtjänstlagen",
+        "budget- och skuldrådgivning",
+        "organisationsförändring",
+        "EKSAM",
+        "idéburet offentligt partnerskap"
+      ],
+      "location": null,
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_388.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_388/",
+      "text": "nämndreglementen revideras enligt ny socialtjänstlag kommunfullmäktige antog reviderade nämndreglementen för mandatperioden 2023-2026 med anledning av ny socialtjänstlag. en viktig organisatorisk förändring är att budget- och skuldrådgivningen flyttas från socialnämnden till gymnasie- och arbetsmarknadsnämnden för förbättrat förebyggande arbete. den nya socialtjänstlagen (2024) förtydligar kommunens ansvar för tillgängligt och förebyggande arbete och introducerar nya befogenheter för socialnämnderna. detta krävde revidering av reglementen för vård- och omsorgsnämnden, funktionsstödsnämnden, socialnämnden, gymnasie- och arbetsmarknadsnämnden och kommunstyrelsen.\n\nen central organisatorisk förändring är överflyttningen av budget- och skuldrådgivningen från socialnämnden till gymnasie- och arbetsmarknadsnämnden. kommunledningsförvaltningen motiverar detta med fem konkreta fördelar: förbättrat förebyggande arbete genom tidig identifiering av riskfaktorer, ökad tillgänglighet för personer i behov av stöd, bättre helhetsperspektiv då båda verksamheterna arbetar med privatpersoners ekonomi, kompetensutveckling och effektivare resursanvändning.\n\nrevisionen trädde i kraft 1 januari 2026. kristdemokraterna (susanne lindholm henningsson) lämnade ett särskilt yttrande med fokus på att värna den ideella organisationen eksam, som genom ett iop-samarbete sedan 2019 erbjuder budget- och skuldråd till cirka 700 medborgare årligen. kd uttryckte oro för eksam:s framtid under den nya organisationen, då samarbete med civila samhället inte står högst i prioritet för nämndens majoritet (m, s, c). nämndreglementen socialtjänstlagen budget- och skuldrådgivning organisationsförändring eksam idéburet offentligt partnerskap"
+    },
+    {
+      "id": "2025-12-10_ko_390_391",
+      "headline": "Motioner om farligt gods och motorgård avslagna",
+      "summary": "Fullmäktige avslog två SD-motioner: en om att minimera transporter av farligt gods genom Örebro och en om att starta motorgård för ungdomar i centrala Örebro. Båda fick omfattande reservationer från oppositionen.",
+      "category": "ovrigt",
+      "tags": [
+        "farligt gods",
+        "Trafikverket",
+        "motorgård",
+        "ungdomar",
+        "Sverigedemokraterna",
+        "opposition"
+      ],
+      "location": "Örebro kommun",
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_390_391.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_390_391/",
+      "text": "motioner om farligt gods och motorgård avslagna fullmäktige avslog två sd-motioner: en om att minimera transporter av farligt gods genom örebro och en om att starta motorgård för ungdomar i centrala örebro. båda fick omfattande reservationer från oppositionen. motion från habib brini (sd) och bo ammer (sd) föreslog att örebro kommun skulle vara pådrivande i diskussioner med trafikverket om hur transporter av farligt gods genom örebro kan minimeras och hur framtida järnväg enligt översiktsplanen kan realiseras. kommunstyrelsen bedömde att andra åtgärder har högre prioritet och föreslog avslag.\n\nmotionen röstades ned i kommunfullmäktige. kemal hoso (s) yrkade bifall till avslagandet, medan bo ammer (sd), habib brini (sd), markus allard (örp), patrik jämtvall (l) och jonas levin (kd) yrkade på motionens godkännande.\n\nmotion från bjarne bäckström (sd) föreslog att kommunen i egen regi eller samarbete startar motorgård för ungdomar nära centrala örebro. även denna motion avslogs. maria haglund (m), alexandra royal (c), sandra fröjdenstam (kd) och stefan nilsson (v) yrkade bifall till avslagandet, medan bjarne bäckström (sd), lena lindén (sd) och markus allard (örp) yrkade på motionens godkännande.\n\nflera oppositionspartier reserverade sig mot båda besluten, inklusive sd, örp, l och kd. örebro kommun farligt gods trafikverket motorgård ungdomar sverigedemokraterna opposition"
+    },
+    {
+      "id": "2025-12-10_ko_392_393",
+      "headline": "Kulturarvsvecka och byggnadsvårdspris – motioner hanterade",
+      "summary": "Fullmäktige avslogs motion om årlig kulturarvsvecka och bedömde motion om byggnadsvårdspris som tillgodosedd. SD hade motsatt sig båda besluten.",
+      "category": "kultur",
+      "tags": [
+        "kulturarv",
+        "årlig vecka",
+        "byggnadsvård",
+        "pris",
+        "kulturell satsning",
+        "Carola Sunesson"
+      ],
+      "location": "Örebro kommun",
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_392_393.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_392_393/",
+      "text": "kulturarvsvecka och byggnadsvårdspris – motioner hanterade fullmäktige avslogs motion om årlig kulturarvsvecka och bedömde motion om byggnadsvårdspris som tillgodosedd. sd hade motsatt sig båda besluten. motion från carola sunesson (sd) och bo ammer (sd) föreslog inrättning av årlig återkommande kulturarvsvecka kopplad till kultur- och fritidsförvaltningen. motionärerna menade att satsningen skulle kunna ske inom befintliga resurser. kommunstyrelsen rekommenderade avslag med motiveringen att befintliga strukturer redan tillgodoser intentionerna.\n\nfullmäktige avslog motionen. maria haglund (m), wilhelm sundman (l), karolina wallström (l), peter ekström (v) och marcus willén ode (mp) yrkade på avslagandet. carola sunesson (sd) och bo ammer (sd) yrkade på godkännande. båda sd:s ledamöter reserverade sig.\n\nmotion från carola sunesson (sd) om byggnadsvårdspris bedömdes som tillgodosedd. kommunen har redan beslutat att dela ut byggnadsvårdspris för 2025 och planerar en utvärdering för möjlig permanentning. kemal hoso (s), lucas holmberg (m), anna hedström (s) och elisabeth malmqvist (c) yrkade på tillgodohållandet. sunesson yrkade på fullt bifallande av motionen. sd reserverade sig. örebro kommun kulturarv årlig vecka byggnadsvård pris kulturell satsning carola sunesson"
+    },
+    {
+      "id": "2025-12-10_ko_394_395",
+      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "summary": "Två kulturella motioner avslogs: en om medborgarundersökning om arkitektur och en om cirkulationsbibliotek för att främja läsning bland elever. Båda fick omfattande reservationer.",
+      "category": "kultur",
+      "tags": [
+        "arkitektur",
+        "medborgarinflytande",
+        "folkbibliotek",
+        "läsning",
+        "klassuppsättningar",
+        "grundskola"
+      ],
+      "location": "Örebro kommun",
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_394_395.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_394_395/",
+      "text": "medborgarinflytande på arkitektur och bibliotekssamarbete avslaget två kulturella motioner avslogs: en om medborgarundersökning om arkitektur och en om cirkulationsbibliotek för att främja läsning bland elever. båda fick omfattande reservationer. motion från carola sunesson (sd) och habib brini (sd) föreslog tre åtgärder: genomförande av medborgarundersökning om arkitekturinriktning, omformulering av arkitekturpolicyn utifrån resultatet, och utredning av modell för medborgarinflytande på arkitektur. kommunstyrelsen bedömde att befintliga styrdokument och former för medborgarinflytande är tillräckliga.\n\nfullmäktige avslogs motionen i två steg. på motionens första och andra beslutspunkt röstade kemal hoso (s) med flera för avslag, medan motionärerna yrkade på godkännande. på tredje beslutspunkten hade markus allard (örp) ett eget bifallsyrkande och susanne lindholm henningsson (kd) yrkade på att punkten anses besvarad.\n\nmotion från johanna reimfelt (l) och mats-olof liljegren (l) föreslog cirkulationsbibliotek där kommunens folkbibliotek tillhandahåller klassuppsättningar till grundskolorna. förskole- och grundskoleförvaltningen bedömde verksamheten som skolans ansvar, inte folkbibliotekets, och att behov och förutsättningar saknades.\n\nfullmäktige avslog även denna motion med votering: 39 ja-röster för avslag, 22 nej-röster. maria haglund (m) med flera yrkade på avslag. mats-olof liljegren (l) med flera yrkade på godkännande. många oppositonspartier (sd, örp, l, kd, mp) reserverade sig. örebro kommun arkitektur medborgarinflytande folkbibliotek läsning klassuppsättningar grundskola"
+    },
+    {
+      "id": "2025-12-10_ko_396",
+      "headline": "Carina Börjesson (M) vald till förste vice ordförande",
+      "summary": "Kommunfullmäktige utsåg Carina Börjesson (M) till förste vice ordförande i Fullmäktige och ordförande i Fullmäktiges valberedning för perioden 17 december 2025 – 14 oktober 2026.",
+      "category": "politik",
+      "tags": [
+        "val",
+        "vice ordförande",
+        "valberedning",
+        "mandatperiod",
+        "Carina Börjesson",
+        "Moderaterna"
+      ],
+      "location": null,
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_396.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_396/",
+      "text": "carina börjesson (m) vald till förste vice ordförande kommunfullmäktige utsåg carina börjesson (m) till förste vice ordförande i fullmäktige och ordförande i fullmäktiges valberedning för perioden 17 december 2025 – 14 oktober 2026. val genomfördes genom sluten omröstning efter att moderaterna föreslog carina börjesson (m) som ersättare för daniel granqvist (m). markus allard (örp) yrk alternatively peter springare (örp).\n\nrösträknarna (emelie jaxell och tuomo jänkälä) konstaterade att 64 giltiga valsedlar lämnades in. börjesson fick 51 röster, springare 6 röster och 7 var blanka.\n\nbörjesson tillträder posten från 17 december 2025. val vice ordförande valberedning mandatperiod carina börjesson moderaterna"
+    },
+    {
+      "id": "2025-12-10_ko_397-417",
+      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+      "summary": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra.",
+      "category": "politik",
+      "tags": [
+        "bordläggning",
+        "motioner",
+        "interpellationer",
+        "processfråga",
+        "opposition",
+        "framtida behandling"
+      ],
+      "location": null,
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_397-417.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_397-417/",
+      "text": "många motioner och interpellationer bordlagda för senare behandling ordförande jan zetterqvist (s) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av sd:s opposition. bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (smr), färdtjänst, arbetsplatsraster och flera andra. vid slutet av mötet tog ordföranden initiativ till att bordlägga ett stort antal motioner och interpellationer för senare behandling. detta mötte motstånd från helena ståhl (sd), som yrkade på att ärendena skulle avgöras samma dag.\n\nordföranden vann röstningen med resultat 51 ja-röster för bordläggning mot 12 nej-röster (1 ej närvarande). de bordlagda motionerna inkluderade:\n\n- motion från karolina wallström (l) m.fl. om fler offentliga toaletter i örebro (§ 397)\n- motion från martha wicklund (v) m.fl. om återbruk i alla led (§ 398)\n- motion från helena ståhl (sd) m.fl. om områden för kärnkraft (smr) i översiktsplanen (§ 399)\n- motion från karolina wallström (l) och johanna reimfelt (l) om färdtjänst (§ 400)\n- motion från helena ståhl (sd) m.fl. om raster för bön på arbetstid (§ 401)\n- motion från martha wicklund (v) m.fl. om säkerhet för förtroendevalda (§ 402)\n- motion från helena ståhl (sd) m.fl. om järntorget/fontänen (§ 403)\n- motion från carola sunesson (sd) och bo ammer (sd) om styrdokument (§ 404)\n- motion från carola sunesson (sd) och habib brini (sd) om kulturarvsfond (§ 405)\n- motion från carola sunesson (sd) om kontrollsystem för föreningsbidrag (§ 406)\n- motion från carola sunesson (sd) m.fl. om hederskultur i förskola/skola (§ 407)\n- motion från helena ståhl (sd) och bjarne bäckström (sd) om att återöppna kilsmo skola (§ 408)\n- motion från lea strandberg (mp) om meetings+ (§ 409)\n- motion från susanne lindholm henningsson (kd) om seniorer i skolan (§ 410)\n\noch flera interpellationer om skolbibliotek (§ 413), hedgatan (§ 414), blåljus framkomlighet (§ 415), ramavtal (§ 416) och saknade barn (§ 417).\n\nbordläggningarna innebär att ärendena återkommer för avgörande vid senare sammanträde. bordläggning motioner interpellationer processfråga opposition framtida behandling"
+    },
+    {
+      "id": "2025-12-10_ko_389",
+      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
+      "summary": "Fullmäktige behandlade rapport om ej verkställda beslut enligt SoL och LSS under Q2 2025. Martha Wicklund (V) yrkade att kommunledning fick uppdrag att ta fram förslag på bättre verkställande, men detta avslogs.",
+      "category": "budget",
+      "tags": [
+        "biståndbeslut",
+        "SoL",
+        "LSS",
+        "verkställning",
+        "socialtjänst",
+        "försörjningsstöd"
+      ],
+      "location": null,
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/",
+      "text": "ej verkställda biståndbeslut – tilläggsyrkande avslaget fullmäktige behandlade rapport om ej verkställda beslut enligt sol och lss under q2 2025. martha wicklund (v) yrkade att kommunledning fick uppdrag att ta fram förslag på bättre verkställande, men detta avslogs. för q2 2025 rapporterades ej verkställda biståndbeslut inom tre månader enligt följande: socialnämnden 26 beslut, funktionsstödsnämnden 59 beslut och vård- och omsorgsnämnden 26 beslut.\n\nmartha wicklund (v) yrkade ett tilläggsyrkande att kommunledningsförvaltningen skulle få i uppdrag att ta fram förslag på hur kommunen ska kunna verkställa gynnande beslut inom rimlig tid. susanne lindholm henningsson (kd) och markus allard (örp) stödde tilläggsyrkandet.\n\nfullmäktige avslogs dock tilläggsyrkandet. jessica ekerbring (s), gunhild wallin (c) och hossein azeri (m) yrkade bifall till ursprungligt förslag (att rapporterna läggs till handlingarna).\n\nmartha wicklund (v), markus allard (örp) och susanne lindholm henningsson (kd) reserverade sig mot beslutet. biståndbeslut sol lss verkställning socialtjänst försörjningsstöd"
+    },
+    {
+      "id": "2025-08-27_ko_221",
+      "headline": "Motion om mindre barngrupper i förskolan avslogs",
+      "summary": "Vänsterpartiet krävde maxtak på barngrupper enligt Skolverkets riktlinjer (6–12 barn för 1–3 år, 9–15 för 4–5 år) och max 4 barn per pedagog. Majoriteten avslogs motionen trots kraftig opposition från V, SD, MP och KD.",
+      "category": "skola",
+      "tags": [
+        "förskola",
+        "barngrupper",
+        "arbetsmiljö",
+        "välfärd"
+      ],
+      "location": null,
+      "date": "2025-08-27",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_221.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_221/",
+      "text": "motion om mindre barngrupper i förskolan avslogs vänsterpartiet krävde maxtak på barngrupper enligt skolverkets riktlinjer (6–12 barn för 1–3 år, 9–15 för 4–5 år) och max 4 barn per pedagog. majoriteten avslogs motionen trots kraftig opposition från v, sd, mp och kd. vänsterpartiet argumenterade att förskolans arbetsmiljö är ohållbar med för stora barngrupper, höga ljudnivåer och överbelastad personal. motionen krävde både ett maxtak per avdelning enligt skolverkets allmänna råd och maximalt 4 barn per pedagog.\n\nkommunstyrelsen föreslog avslag. vid votering fick motionen endast 14 ja-röster (sd, v, mp, kd-del) mot 8 nej-röster, medan 42 ledamöter avstod från röstning. detta var en ovanligt svag röstning för en stor motion.\n\nv, sd, mp och flera kd-ledamöter reserverade sig mot beslutet. l ville stödja endast första förslaget. örp ville stödja med omformulering av begreppet \"avdelning\" till \"barngrupp\".\n\nbeslutet återspeglar att majoriteten inte anser sig kunna finansiera eller implementera minskade barngrupper, trots att detta är en återkommande fråga från välfärdssektorn. förskola barngrupper arbetsmiljö välfärd"
+    },
+    {
+      "id": "2025-08-27_ko_222",
+      "headline": "Förskolan Igelkotten anses tillgodosedd – ingen stängning beslutad",
+      "summary": "ÖrebroPrtiet krävde att kommunen stängde förskolan Igelkotten med samma huvudman som den stängda Arenaskolan. Kommunstyrelsen ansåg motionen tillgodosedd utan att stänga förskolan.",
+      "category": "skola",
+      "tags": [
+        "förskola",
+        "Igelkotten",
+        "tillsyn",
+        "Arenaskolan",
+        "säkerhet"
+      ],
+      "location": "Igelkotten, Örebro",
+      "date": "2025-08-27",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_222.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_222/",
+      "text": "förskolan igelkotten anses tillgodosedd – ingen stängning beslutad örebroprtiet krävde att kommunen stängde förskolan igelkotten med samma huvudman som den stängda arenaskolan. kommunstyrelsen ansåg motionen tillgodosedd utan att stänga förskolan. örebropartiet påpekade att även om skolinspektionen stängde arenaskolan, fortfarande öppen förskolan igelkotten intill samma område där samma personer enligt örp har ledande positioner (tala förskolor ab).\n\nmotionen krävde att kommunen skulle använda sin \"fulla rådighet\" och agera omedelbar stängning enligt nuvarande lagstiftning.\n\nkommunstyrelsen besvarade detta genom att anse motionen \"tillgodosedd\" – ett sätt att avvisa motionen utan att faktiskt stänga förskolan. m och c stödde detta. sd reserverade sig.\n\ndetta är en klassisk politisk gradering där kommunen säger sig ha hört motionen men inte faktiskt genomför det som efterfrågades. igelkotten, örebro förskola igelkotten tillsyn arenaskolan säkerhet"
+    },
+    {
+      "id": "2025-08-27_ko_223",
+      "headline": "Motion om välfärdspersonalens löner avslogs utan ökad budget",
+      "summary": "Vänsterpartiet krävde mer pengar till välfärdspersonal genom ledningseffektiviseringar och vakansering. Majoriteten avslogs motionen utan att tillskjuta nya resurser.",
+      "category": "budget",
+      "tags": [
+        "välfärd",
+        "personal",
+        "löner",
+        "budget"
+      ],
+      "location": null,
+      "date": "2025-08-27",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_223.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_223/",
+      "text": "motion om välfärdspersonalens löner avslogs utan ökad budget vänsterpartiet krävde mer pengar till välfärdspersonal genom ledningseffektiviseringar och vakansering. majoriteten avslogs motionen utan att tillskjuta nya resurser. martha wicklund (v) m.fl. påpekade att välfärdspersonalen saknar resurser och begärde att kommundirektören skulle:\n\n1. se över ledningsorganisationen och presentera effektiviseringsförslag\n2. vakansproiva tjänster för att frigöra pengar till välfärdspersonal\n\nkommunledningen svarade att man redan gjort personella förändringar i samband med omorganisation och att ledningsorganisationen redan minskats. ingen vilja uttrycktes att tillskjuta ytterligare medel.\n\nmotionen avslogs med bred opposition från v, sd, örp, l, kd-del. hela 27 ledamöter reserverade sig mot beslutet – en av de största reservationslistorna på protokollet.\n\ndetta beslut visar tydligt att majoriteten inte anser sig kunna öka välfärdssatsningarna genom omorganisering. välfärd personal löner budget"
+    },
+    {
+      "id": "2025-08-27_ko_224",
+      "headline": "Bygg- och driftverksamheten sägs konkurrensutsatt – två av tre motionsyrkanden tillgodosedda",
+      "summary": "Liberal motion om konkurrensutsättning av kommunens bygg- och driftverksamhet: första förslaget (ekonomisk analys) avslogs, men andra och tredje (konkurrens och upphandling) ansågs tillgodosedda.",
+      "category": "regler",
+      "tags": [
+        "konkurrens",
+        "upphandling",
+        "bygg",
+        "drift",
+        "effektivitet"
+      ],
+      "location": null,
+      "date": "2025-08-27",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_224.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_224/",
+      "text": "bygg- och driftverksamheten sägs konkurrensutsatt – två av tre motionsyrkanden tillgodosedda liberal motion om konkurrensutsättning av kommunens bygg- och driftverksamhet: första förslaget (ekonomisk analys) avslogs, men andra och tredje (konkurrens och upphandling) ansågs tillgodosedda. patrik jämtvall (l) krävde:\n\n1. ekonomisk analys av driftskostnader i egen regi\n2. konkurrensutsättning av bygg- och driftverksamheten\n3. alltid ge marknaden chans via upphandling\n\nkommunstyrelsen föreslog: avslag på första, tillgodosedda för andra och tredje.\n\nmotiveringen var att punkt 2 och 3 redan genomfördes genom befintlig upphandlingspolicy. punkt 1 (kostnadsjämförelse egen regi vs extern) bedömdes inte behövas.\n\nl, v, örp reserverade sig, önskande fullt bifall. detta är en delvis framgång för liberalerna men missade den ekonomiska analysen som skulle kunna visa om privat verkligen är billigare.\n\nbeslutets praktiska effekt: ingen ny konkurrensutsättning utöver redan befintlig policy. konkurrens upphandling bygg drift effektivitet"
+    },
+    {
+      "id": "2025-08-27_ko_225",
+      "headline": "Läxfri skola avslogs, modersmålsundervisning avslogs",
+      "summary": "Vänsterpartiet ville införa läxfri skola för alla kommunala grundskolor, utöka socialt förebyggande arbete med särskild pott och organisera modersmålsundervisning. Majoritet avslogs alla förslag utom avgiftsfrihet som redan tillgodosedd.",
+      "category": "skola",
+      "tags": [
+        "skola",
+        "läxfrihet",
+        "modersmål",
+        "socialt arbete",
+        "avgiftsfri"
+      ],
+      "location": null,
+      "date": "2025-08-27",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_225.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_225/",
+      "text": "läxfri skola avslogs, modersmålsundervisning avslogs vänsterpartiet ville införa läxfri skola för alla kommunala grundskolor, utöka socialt förebyggande arbete med särskild pott och organisera modersmålsundervisning. majoritet avslogs alla förslag utom avgiftsfrihet som redan tillgodosedd. martha wicklund (v) m.fl. föreslog:\n\n1. läxfri skola i alla kommunala grundskolor\n2. säkerställa skolans avgiftsfrihet (utrustning, mat, fika)\n3. särskild pott för socialt förebyggande arbete\n4. organisera modersmålsundervisning så alla elever kan delta\n\nresultat:\n1. avslaget\n2. tillgodosedd (redan genomförd)\n3. avslaget\n4. avslaget\n\nstarkt motstånd från v, örp, kd-del, mp. l stödde punkt 2 och 4. kd stödde punkt 3. c-ordföranden stödde avslag.\n\nreservationer från 5 v-ledamöter, 5 l-ledamöter, 4 kd-ledamöter, 2 mp-ledamöter – ungefär 16 ledamöter totalt reserverade sig.\n\nbeslutets effekt: ingen läxfri skola, ingen utökad pott för socialt arbete, modersmålsundervisning förblir oorganiserad. skola läxfrihet modersmål socialt arbete avgiftsfri"
+    },
+    {
+      "id": "2025-08-27_ko_228",
+      "headline": "Många SD-motioner bordlagda för senare behandling",
+      "summary": "Totalt 13 motioner och interpellationer från SD, V, MP, L om infrastruktur, välfärd, integration och kultur bordlades för senare behandling vid ordförandens initiativ.",
+      "category": "politik",
+      "tags": [
+        "bordläggning",
+        "procedur",
+        "motioner",
+        "interpellationer"
+      ],
+      "location": null,
+      "date": "2025-08-27",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_228.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_228/",
+      "text": "många sd-motioner bordlagda för senare behandling totalt 13 motioner och interpellationer från sd, v, mp, l om infrastruktur, välfärd, integration och kultur bordlades för senare behandling vid ordförandens initiativ. vid slutet av mötet (§ 228) föreslog ordförande jan zetterqvist (s) att alla kvarvarande ärenden skulle bordläggas. helena ståhl (sd) motsatte sig och krävde att mötet skulle fortsätta och ärendena avgöras samma dag.\n\nvotering genomfördes: 46 ja-röster för bordläggning, 18 nej-röster (sd, v, örp, kd-del) mot.\n\nbordlagda ärenden var motioner och interpellationer om:\n- integrationssatsningar (carola sunesson sd)\n- kulturarvsberedskap (carola sunesson sd, habib brini sd)\n- hedersförtryck och hederskultur (helena ståhl sd m.fl.)\n- kunskapsutveckling om lokalhistoria (helena ståhl sd m.fl.)\n- vägar och framkomlighet för lantbruk (daniel spiik sd) – två motioner\n- farligt gods-transporter (habib brini sd, bo ammer sd)\n- snöröjning och långtidsarbetslösa (helena ståhl sd, habib brini sd)\n- försörjningsstöd (helena ståhl sd)\n- motorgård (bjarne bäckström sd)\n- kulturarvsvecka (carola sunesson sd, bo ammer sd)\n- byggnadsvård-pris (carola sunesson sd)\n- arkitektur och medborgarinflytande (carola sunesson sd, habib brini sd)\n- cirkulationsbibliotek (johanna reimfelt l, mats-olof liljegren l)\n- offentliga toaletter (karolina wallström l m.fl.)\n- plus flera interpellationer\n\ndetta var en strategisk bordläggning för att undvika att fatta många obekväma beslut samma dag. bordläggning procedur motioner interpellationer"
+    },
+    {
+      "id": "2025-08-27_ko_219",
+      "headline": "Fossilreklam-motion bordlagd efter trefaldig bordläggning",
+      "summary": "Miljöpartiet ville förbjuda fossil reklam på allmän plats och definiera begreppet. Kommunstyrelsen föreslog avslag. Ärendet bordlades för tredje gången.",
+      "category": "miljo",
+      "tags": [
+        "miljö",
+        "reklam",
+        "fossil",
+        "policy"
+      ],
+      "location": null,
+      "date": "2025-08-27",
+      "meeting_type": "Kommunfullmäktige",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_219.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_219/",
+      "text": "fossilreklam-motion bordlagd efter trefaldig bordläggning miljöpartiet ville förbjuda fossil reklam på allmän plats och definiera begreppet. kommunstyrelsen föreslog avslag. ärendet bordlades för tredje gången. lea strandberg (mp) föreslog:\n\n1. definiera vad örebro kommun menar med \"fossil reklam\"\n2. utvidga riktlinjer för reklamtyper som inte tillåts, inkludera fossil reklam\n\nkommunstyrelsen svarade att det är för svårt att definiera fossil reklam utan att bli mycket snäv definition, och att kommunen redan har restriktiv reklamhållning.\n\närendet bordlades första gången 23 april, andra gången 21 maj, tredje gången 18-19 juni, och nu igen 27 augusti.\n\nmartha wicklund (v) reserverade sig för bifall till motionen.\n\neffekt: ingen definition av fossil reklam, ingen utvidgad restriktion. miljö reklam fossil policy"
+    },
+    {
+      "id": "2025-02-11_ko_29",
+      "headline": "360 MSEK investeringsanslag överförda från 2024 till 2025",
+      "summary": "Kommunstyrelsen beslutade att överföra 360 miljoner kronor i investeringsanslag från föregående år, varav 193 MSEK för skattefinansierade och 167 MSEK för taxefinansierade investeringar. Beslutet ska senare fattas i kommunfullmäktige.",
+      "category": "budget",
+      "tags": [
+        "investeringar",
+        "budget2025",
+        "infrastruktur",
+        "exploatering"
+      ],
+      "location": null,
+      "date": "2025-02-11",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/",
+      "text": "360 msek investeringsanslag överförda från 2024 till 2025 kommunstyrelsen beslutade att överföra 360 miljoner kronor i investeringsanslag från föregående år, varav 193 msek för skattefinansierade och 167 msek för taxefinansierade investeringar. beslutet ska senare fattas i kommunfullmäktige. ärendet gällde hantering av överförda investeringsanslag för pågående byggprojekt och infrastrukturinvesteringar. beslutet påverkas inte av det finansiella målet om självfinansieringsgrad för 2025 enligt förslaget, då överförda anslag exkluderas från denna beräkning.\n\nmarkus allard (örp) och helena ståhl (sd) motsatte sig förslaget. sd reserverade sig specifikt mot denna beslutspunkt, medan örp motsatte sig hela investeringsärendet. övriga partier (s, m, c, l, v, kd) röstade för förslaget. investeringar budget2025 infrastruktur exploatering"
+    },
+    {
+      "id": "2025-02-11_ko_38",
+      "headline": "Riktlinjer för bostadsförsörjning antagna till Kommunfullmäktige",
+      "summary": "Kommunstyrelsen antog nya riktlinjer för bostadsförsörjning enligt lag (2000:1383), vilka ska vägleda kommunens bostadsplanering de kommande åren. Ärendet vidarebefordras till Kommunfullmäktige för slutgiltigt beslut.",
+      "category": "regler",
+      "tags": [
+        "bostäder",
+        "bostadsförsörjning",
+        "småhus",
+        "villor",
+        "tätortsplanering"
+      ],
+      "location": "Örebro kommun",
+      "date": "2025-02-11",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_38.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_38/",
+      "text": "riktlinjer för bostadsförsörjning antagna till kommunfullmäktige kommunstyrelsen antog nya riktlinjer för bostadsförsörjning enligt lag (2000:1383), vilka ska vägleda kommunens bostadsplanering de kommande åren. ärendet vidarebefordras till kommunfullmäktige för slutgiltigt beslut. markplanerings- och exploateringsnämndens förslag antogs efter omfattande samrådsprocess. riktlinjerna innehåller örebro kommuns mål för bostadsförsörjning och åtgärder för att uppnå dessa, med bilagor som redovisar demografisk utveckling, marknadsförutsättningar och bostadsbehov.\n\nsd:s helena ståhl kritiserade att småhus och villor underprioriterats. hon yrkade på återremiss för att justera riktlinjerna enligt sd:s prioriteringar, med hänvisning till att över 60 procent av befolkningen önskar bo i villa. kd:s håkan stålbert ville lägga till avsnitt om \"trädgårdsstäder\", boendesegregation och breddade insatser för hemlösa. v:s martha wicklund yrkade också på återremiss för sina förslag.\n\nordföranden avslogs alla återremissyrkanden. örp yrkade totalt avslag. ärendet avslutades med att mehreten (s, m, c) röstade för antagandet. örebro kommun bostäder bostadsförsörjning småhus villor tätortsplanering"
+    },
+    {
+      "id": "2025-02-11_ko_29",
+      "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+      "summary": "Kommunstyrelsen beslutade att överföra det ackumulerade resultatet från kommunens interna förvaltningsbolag (intraprenader) till nästa år. Totalt överfördes 36,7 miljoner kronor enligt maxregeln på sju procent av årsbudgeten.",
+      "category": "budget",
+      "tags": [
+        "budget",
+        "intraprenader",
+        "ekonomi",
+        "resultatöverföring"
+      ],
+      "location": null,
+      "date": "2025-02-11",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/",
+      "text": "36,7 msek ackumulerat resultat från intraprenader överförda till 2025 kommunstyrelsen beslutade att överföra det ackumulerade resultatet från kommunens interna förvaltningsbolag (intraprenader) till nästa år. totalt överfördes 36,7 miljoner kronor enligt maxregeln på sju procent av årsbudgeten. intraprenadernas ekonomiska överskud från 2024 fastställdes till 36 733 tkr. samtidigt beslutades att de politiska kansliernas överskott på 8 173 tkr överfördes från 2024 till 2025. de politiska kanslierna får maximalt överföra 10 msek under mandatperioden 2022-2026 enligt tidigare beslut.\n\ntre intraprenader upphörde under 2024. systemet för digital arbetsplats ändrades 2024, vilket innebär att möjligheten att föra med sig överfört resultat mellan åren upphör för denna verksamhet.\n\nmarkus allard (örp) yrkade avslag på hela ärendet, men röstades ned. budget intraprenader ekonomi resultatöverföring"
+    },
+    {
+      "id": "2025-02-11_ko_31",
+      "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+      "summary": "Kommunstyrelsen beviljades tilläggsanslag på 17 044 tkr för kostnadsökningar bland annat för färdigställda lokalförsörjningsobjekt. Ombudgetering genomfördes för att hantera organisationsförändringar.",
+      "category": "budget",
+      "tags": [
+        "budget",
+        "lokalförsörjning",
+        "tilläggsanslag",
+        "ombudgetering"
+      ],
+      "location": null,
+      "date": "2025-02-11",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_31.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_31/",
+      "text": "tilläggsanslag på 17 msek för lokalförsörjning och ombudgetering godkända kommunstyrelsen beviljades tilläggsanslag på 17 044 tkr för kostnadsökningar bland annat för färdigställda lokalförsörjningsobjekt. ombudgetering genomfördes för att hantera organisationsförändringar. tilläggsanslagen finansierades från kommunstyrelsens utrymme och från medeilen för beslutade konsekvenser av investeringar och lokalförsörjning. ombudgetering mellan nämnder genomfördes för att hantera organisationsförändringar.\n\nmarkus allard (örp) yrkade avslag med hänvisning till örp:s alternativa budgetförslag, men röstades ned. budget lokalförsörjning tilläggsanslag ombudgetering"
+    },
+    {
+      "id": "2025-02-11_ko_42",
+      "headline": "Fem motioner remitterade till nämnder för vidare beredning",
+      "summary": "Kommunfullmäktige hade remitterat fem motioner till Kommunstyrelsen. Två besvarades direkt av styrelsen, medan tre remitterades vidare till relevanta nämnder för utredning.",
+      "category": "politik",
+      "tags": [
+        "motioner",
+        "demokrati",
+        "arkitektur",
+        "arbetslöshet",
+        "kärnkraft",
+        "energi"
+      ],
+      "location": null,
+      "date": "2025-02-11",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_42.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_42/",
+      "text": "fem motioner remitterade till nämnder för vidare beredning kommunfullmäktige hade remitterat fem motioner till kommunstyrelsen. två besvarades direkt av styrelsen, medan tre remitterades vidare till relevanta nämnder för utredning. motionerna gällde:\n\n1. martha wicklund (v) m.fl. om att trygga demokratin - besvaras av kommunstyrelsen\n2. helena ståhl (sd) och habib brini om ekonomiska fallskärmar - besvaras av kommunstyrelsen\n3. carola sunesson (sd) och christer johansson (sd) om klassisk arkitektur och lokal byggtradition - remitterad till bygg- och miljönämnden samt markplanerings- och exploateringsnämnden\n4. helena ståhl (sd) och habib brini om långtidsarbetslösa vid snöröjning - remitterad till gymnasie- och arbetsmarknadsnämnden\n5. helena ståhl (sd) m.fl. om kärnkraft (smr) i översiktsplanen - remitterad till markplanerings- och exploateringsnämnden motioner demokrati arkitektur arbetslöshet kärnkraft energi"
+    },
+    {
+      "id": "2025-02-11_ko_39",
+      "headline": "Rapport över ej verkställda LSS- och SoL-beslut kvartal 3 - SD och L kritiska",
+      "summary": "Kommunstyrelsen mottog rapporter om beslut enligt Lag om stöd och service (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) som inte verkställts inom tre månader. SD och Liberalerna yrkade på förbättringar i rapporteringen.",
+      "category": "trygghet",
+      "tags": [
+        "LSS",
+        "SoL",
+        "socialtjänst",
+        "funktionshinder",
+        "välfärd",
+        "omsorg",
+        "service"
+      ],
+      "location": null,
+      "date": "2025-02-11",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_39.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_39/",
+      "text": "rapport över ej verkställda lss- och sol-beslut kvartal 3 - sd och l kritiska kommunstyrelsen mottog rapporter om beslut enligt lag om stöd och service (sol) och lag om stöd och service till vissa funktionshindrade (lss) som inte verkställts inom tre månader. sd och liberalerna yrkade på förbättringar i rapporteringen. funktionsstödsnämnden rapporterade 149 beslut totalt, varav 98 inte verkställda inom tre månader (ned från 157/97 föregående kvartal).\n\nvård- och omsorgsnämnden rapporterade 42 beslut, varav 26 inte verkställda inom tre månader (upp från 15 föregående kvartal).\n\nsocialnämnden rapporterade 29 beslut (ned från 41).\n\nhelena ståhl (sd) yrkade att framtida rapporter särredovisar om förseningar beror på kommunens eller individens handlingar, för att kunna skilja mellan verklig ineffektivitet och situationer då personer tackat nej till insatser. markus allard (örp) stödde sd:s yrkande. karolina wallström (l) skrev ett särskilt yttrande där hon betecknar situationen som \"oacceptabel\" och en \"kränkning av rättigheter\".\n\nstyrelsens majoritet avslogs sd:s tilläggsyrkande, men godkände att wallström (l) fick lämna ett särskilt yttrande. lss sol socialtjänst funktionshinder välfärd omsorg service"
+    }
+  ]
 }

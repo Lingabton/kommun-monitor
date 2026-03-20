@@ -1,86 +1,996 @@
 {
   "power_analysis": {
-    "total_voted_decisions": 0,
-    "majority_wins": 0,
-    "majority_win_pct": 0,
-    "unanimous_decisions": 0,
-    "unanimous_pct": 0,
-    "opposition_united_but_lost": 0,
-    "formal_votes": 0,
+    "total_voted_decisions": 20,
+    "majority_wins": 19,
+    "majority_win_pct": 95,
+    "unanimous_decisions": 9,
+    "unanimous_pct": 45,
+    "opposition_united_but_lost": 2,
+    "formal_votes": 3,
     "majority_parties": [
-      "M",
       "S",
-      "C"
+      "C",
+      "M"
     ],
-    "interpretation": "Bara 0% är enhälliga — politiken i Örebro är ovanligt polariserad."
+    "interpretation": "Majoriteten (S, M, C) vinner 95% av alla röstningar — i praktiken total kontroll. 45% av besluten är enhälliga — det mesta är opolitiskt. 3 formella voteringer visar att konfliktnivån är hög."
   },
-  "unusual_coalitions": [],
-  "timelines": [],
+  "unusual_coalitions": [
+    {
+      "decision_id": "2025-02-11_ko_29",
+      "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+      "date": "2025-02-11",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-02-11_ko_31",
+      "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+      "date": "2025-02-11",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_ko_221",
+      "headline": "Motion om mindre barngrupper i förskolan avslogs",
+      "date": "2025-08-27",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "KD",
+        "MP",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_ko_228",
+      "headline": "Många SD-motioner bordlagda för senare behandling",
+      "date": "2025-08-27",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD-del",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_388",
+      "headline": "Nämndreglementen revideras enligt ny socialtjänstlag",
+      "date": "2025-12-10",
+      "coalition": [
+        "SD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "high",
+      "narrative": "V och SD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-02-11_ko_29",
+      "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+      "date": "2025-02-11",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-02-11_ko_29",
+      "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+      "date": "2025-02-11",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-02-11_ko_31",
+      "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+      "date": "2025-02-11",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-02-11_ko_31",
+      "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+      "date": "2025-02-11",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_ko_221",
+      "headline": "Motion om mindre barngrupper i förskolan avslogs",
+      "date": "2025-08-27",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "KD",
+        "MP",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_ko_221",
+      "headline": "Motion om mindre barngrupper i förskolan avslogs",
+      "date": "2025-08-27",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "KD",
+        "MP",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-08-27_ko_228",
+      "headline": "Många SD-motioner bordlagda för senare behandling",
+      "date": "2025-08-27",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD-del",
+        "SD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_388",
+      "headline": "Nämndreglementen revideras enligt ny socialtjänstlag",
+      "date": "2025-12-10",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_388",
+      "headline": "Nämndreglementen revideras enligt ny socialtjänstlag",
+      "date": "2025-12-10",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "S",
+        "SD",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_392_393",
+      "headline": "Kulturarvsvecka och byggnadsvårdspris – motioner hanterade",
+      "date": "2025-12-10",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_394_395",
+      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "date": "2025-12-10",
+      "coalition": [
+        "MP",
+        "SD"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "L",
+        "MP",
+        "SD",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "SD och MP röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_396",
+      "headline": "Carina Börjesson (M) vald till förste vice ordförande",
+      "date": "2025-12-10",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_396",
+      "headline": "Carina Börjesson (M) vald till förste vice ordförande",
+      "date": "2025-12-10",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_397-417",
+      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+      "date": "2025-12-10",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_397-417",
+      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+      "date": "2025-12-10",
+      "coalition": [
+        "L",
+        "V"
+      ],
+      "side": "JA",
+      "all_on_side": [
+        "C",
+        "KD",
+        "L",
+        "M",
+        "MP",
+        "S",
+        "V"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och L röstade båda JA — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_389",
+      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
+      "date": "2025-12-10",
+      "coalition": [
+        "KD",
+        "V"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "V och KD röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    },
+    {
+      "decision_id": "2025-12-10_ko_389",
+      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
+      "date": "2025-12-10",
+      "coalition": [
+        "V",
+        "ÖrP"
+      ],
+      "side": "NEJ",
+      "all_on_side": [
+        "KD",
+        "V",
+        "ÖrP"
+      ],
+      "surprise_level": "medium",
+      "narrative": "ÖrP och V röstade båda NEJ — ovanligt då de normalt står långt ifrån varandra."
+    }
+  ],
+  "timelines": [
+    {
+      "tag": "arkitektur",
+      "decisions_count": 2,
+      "span_days": 302,
+      "first_date": "2025-02-11",
+      "last_date": "2025-12-10",
+      "decisions": [
+        {
+          "id": "2025-02-11_ko_42",
+          "headline": "Fem motioner remitterade till nämnder för vidare beredning",
+          "date": "2025-02-11",
+          "summary": "Kommunfullmäktige hade remitterat fem motioner till Kommunstyrelsen. Två besvarades direkt av styrelsen, medan tre remitterades vidare till relevanta nämnder för utredning."
+        },
+        {
+          "id": "2025-12-10_ko_394_395",
+          "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+          "date": "2025-12-10",
+          "summary": "Två kulturella motioner avslogs: en om medborgarundersökning om arkitektur och en om cirkulationsbibliotek för att främja läsning bland elever. Båda fick omfattande reservationer."
+        }
+      ],
+      "narrative": "'arkitektur' har dykt upp i 2 beslut under 10 månader (2025-02-11 → 2025-12-10)."
+    },
+    {
+      "tag": "motioner",
+      "decisions_count": 3,
+      "span_days": 302,
+      "first_date": "2025-02-11",
+      "last_date": "2025-12-10",
+      "decisions": [
+        {
+          "id": "2025-02-11_ko_42",
+          "headline": "Fem motioner remitterade till nämnder för vidare beredning",
+          "date": "2025-02-11",
+          "summary": "Kommunfullmäktige hade remitterat fem motioner till Kommunstyrelsen. Två besvarades direkt av styrelsen, medan tre remitterades vidare till relevanta nämnder för utredning."
+        },
+        {
+          "id": "2025-08-27_ko_228",
+          "headline": "Många SD-motioner bordlagda för senare behandling",
+          "date": "2025-08-27",
+          "summary": "Totalt 13 motioner och interpellationer från SD, V, MP, L om infrastruktur, välfärd, integration och kultur bordlades för senare behandling vid ordförandens initiativ."
+        },
+        {
+          "id": "2025-12-10_ko_397-417",
+          "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+          "date": "2025-12-10",
+          "summary": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra."
+        }
+      ],
+      "narrative": "'motioner' har dykt upp i 3 beslut under 10 månader (2025-02-11 → 2025-12-10)."
+    },
+    {
+      "tag": "sol",
+      "decisions_count": 2,
+      "span_days": 302,
+      "first_date": "2025-02-11",
+      "last_date": "2025-12-10",
+      "decisions": [
+        {
+          "id": "2025-02-11_ko_39",
+          "headline": "Rapport över ej verkställda LSS- och SoL-beslut kvartal 3 - SD och L kritiska",
+          "date": "2025-02-11",
+          "summary": "Kommunstyrelsen mottog rapporter om beslut enligt Lag om stöd och service (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) som inte verkställts inom tre månader. SD och Liberalerna yrkade på förbättringar i rapporteringen."
+        },
+        {
+          "id": "2025-12-10_ko_389",
+          "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
+          "date": "2025-12-10",
+          "summary": "Fullmäktige behandlade rapport om ej verkställda beslut enligt SoL och LSS under Q2 2025. Martha Wicklund (V) yrkade att kommunledning fick uppdrag att ta fram förslag på bättre verkställande, men detta avslogs."
+        }
+      ],
+      "narrative": "'sol' har dykt upp i 2 beslut under 10 månader (2025-02-11 → 2025-12-10)."
+    },
+    {
+      "tag": "välfärd",
+      "decisions_count": 3,
+      "span_days": 197,
+      "first_date": "2025-02-11",
+      "last_date": "2025-08-27",
+      "decisions": [
+        {
+          "id": "2025-02-11_ko_39",
+          "headline": "Rapport över ej verkställda LSS- och SoL-beslut kvartal 3 - SD och L kritiska",
+          "date": "2025-02-11",
+          "summary": "Kommunstyrelsen mottog rapporter om beslut enligt Lag om stöd och service (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) som inte verkställts inom tre månader. SD och Liberalerna yrkade på förbättringar i rapporteringen."
+        },
+        {
+          "id": "2025-08-27_ko_221",
+          "headline": "Motion om mindre barngrupper i förskolan avslogs",
+          "date": "2025-08-27",
+          "summary": "Vänsterpartiet krävde maxtak på barngrupper enligt Skolverkets riktlinjer (6–12 barn för 1–3 år, 9–15 för 4–5 år) och max 4 barn per pedagog. Majoriteten avslogs motionen trots kraftig opposition från V, SD, MP och KD."
+        },
+        {
+          "id": "2025-08-27_ko_223",
+          "headline": "Motion om välfärdspersonalens löner avslogs utan ökad budget",
+          "date": "2025-08-27",
+          "summary": "Vänsterpartiet krävde mer pengar till välfärdspersonal genom ledningseffektiviseringar och vakansering. Majoriteten avslogs motionen utan att tillskjuta nya resurser."
+        }
+      ],
+      "narrative": "'välfärd' har dykt upp i 3 beslut under 6 månader (2025-02-11 → 2025-08-27)."
+    },
+    {
+      "tag": "budget",
+      "decisions_count": 3,
+      "span_days": 197,
+      "first_date": "2025-02-11",
+      "last_date": "2025-08-27",
+      "decisions": [
+        {
+          "id": "2025-02-11_ko_29",
+          "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+          "date": "2025-02-11",
+          "summary": "Kommunstyrelsen beslutade att överföra det ackumulerade resultatet från kommunens interna förvaltningsbolag (intraprenader) till nästa år. Totalt överfördes 36,7 miljoner kronor enligt maxregeln på sju procent av årsbudgeten."
+        },
+        {
+          "id": "2025-02-11_ko_31",
+          "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+          "date": "2025-02-11",
+          "summary": "Kommunstyrelsen beviljades tilläggsanslag på 17 044 tkr för kostnadsökningar bland annat för färdigställda lokalförsörjningsobjekt. Ombudgetering genomfördes för att hantera organisationsförändringar."
+        },
+        {
+          "id": "2025-08-27_ko_223",
+          "headline": "Motion om välfärdspersonalens löner avslogs utan ökad budget",
+          "date": "2025-08-27",
+          "summary": "Vänsterpartiet krävde mer pengar till välfärdspersonal genom ledningseffektiviseringar och vakansering. Majoriteten avslogs motionen utan att tillskjuta nya resurser."
+        }
+      ],
+      "narrative": "'budget' har dykt upp i 3 beslut under 6 månader (2025-02-11 → 2025-08-27)."
+    },
+    {
+      "tag": "bordläggning",
+      "decisions_count": 2,
+      "span_days": 105,
+      "first_date": "2025-08-27",
+      "last_date": "2025-12-10",
+      "decisions": [
+        {
+          "id": "2025-08-27_ko_228",
+          "headline": "Många SD-motioner bordlagda för senare behandling",
+          "date": "2025-08-27",
+          "summary": "Totalt 13 motioner och interpellationer från SD, V, MP, L om infrastruktur, välfärd, integration och kultur bordlades för senare behandling vid ordförandens initiativ."
+        },
+        {
+          "id": "2025-12-10_ko_397-417",
+          "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+          "date": "2025-12-10",
+          "summary": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra."
+        }
+      ],
+      "narrative": "'bordläggning' har dykt upp i 2 beslut under 3 månader (2025-08-27 → 2025-12-10)."
+    }
+  ],
   "opposition_effectiveness": [
     {
-      "party": "MP",
-      "name": "Miljöpartiet",
-      "motions_filed": 0,
+      "party": "SD",
+      "name": "Sverigedemokraterna",
+      "motions_filed": 4,
       "motions_granted": 0,
-      "reservations": 0,
+      "reservations": 5,
       "effectiveness_score": 0,
-      "motions": [],
-      "interpretation": "MP har varken lagt motioner eller reserverat sig — låg aktivitet."
-    },
-    {
-      "party": "ÖrP",
-      "name": "Örebropartiet",
-      "motions_filed": 0,
-      "motions_granted": 0,
-      "reservations": 0,
-      "effectiveness_score": 0,
-      "motions": [],
-      "interpretation": "ÖrP har varken lagt motioner eller reserverat sig — låg aktivitet."
-    },
-    {
-      "party": "L",
-      "name": "Liberalerna",
-      "motions_filed": 0,
-      "motions_granted": 0,
-      "reservations": 0,
-      "effectiveness_score": 0,
-      "motions": [],
-      "interpretation": "L har varken lagt motioner eller reserverat sig — låg aktivitet."
+      "motions": [
+        {
+          "title": "Helena Ståhl (SD) och Habib Brini (SD) om ekonomiska fallskärmar",
+          "party": "SD",
+          "status": "Remitterad till Kommunstyrelsen för svar",
+          "date": "2025-02-11"
+        },
+        {
+          "title": "Carola Sunesson (SD) och Christer Johansson (SD) om klassisk arkitektur och lokal byggtradition",
+          "party": "SD",
+          "status": "Remitterad till Bygg- och miljönämnden och Markplanerings- och exploateringsnämnden",
+          "date": "2025-02-11"
+        },
+        {
+          "title": "Helena Ståhl (SD) och Habib Brini (SD) om långtidsarbetslösa vid snöröjning",
+          "party": "SD",
+          "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden",
+          "date": "2025-02-11"
+        },
+        {
+          "title": "Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i Översiktsplanen",
+          "party": "SD",
+          "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+          "date": "2025-02-11"
+        }
+      ],
+      "interpretation": "SD har lagt 4 motioner men ingen har bifallits. 5 reservationer totalt."
     },
     {
       "party": "V",
       "name": "Vänsterpartiet",
-      "motions_filed": 0,
+      "motions_filed": 4,
       "motions_granted": 0,
-      "reservations": 0,
+      "reservations": 2,
       "effectiveness_score": 0,
-      "motions": [],
-      "interpretation": "V har varken lagt motioner eller reserverat sig — låg aktivitet."
+      "motions": [
+        {
+          "title": "Fler vuxna och mindre barngrupper i förskolan",
+          "party": "V",
+          "status": "Avslagen",
+          "date": "2025-08-27"
+        },
+        {
+          "title": "Mer pengar till välfärdspersonalen",
+          "party": "V",
+          "status": "Avslagen",
+          "date": "2025-08-27"
+        },
+        {
+          "title": "Förstärka skolan (läxfri, avgiftsfri, modersmål)",
+          "party": "V",
+          "status": "Delvis avslagen",
+          "date": "2025-08-27"
+        },
+        {
+          "title": "Martha Wicklund (V) m.fl. om att trygga demokratin",
+          "party": "V",
+          "status": "Remitterad till Kommunstyrelsen för svar",
+          "date": "2025-02-11"
+        }
+      ],
+      "interpretation": "V har lagt 4 motioner men ingen har bifallits. 2 reservationer totalt."
     },
     {
-      "party": "SD",
-      "name": "Sverigedemokraterna",
-      "motions_filed": 0,
+      "party": "L",
+      "name": "Liberalerna",
+      "motions_filed": 2,
       "motions_granted": 0,
-      "reservations": 0,
+      "reservations": 3,
       "effectiveness_score": 0,
-      "motions": [],
-      "interpretation": "SD har varken lagt motioner eller reserverat sig — låg aktivitet."
+      "motions": [
+        {
+          "title": "Möjliggöra värmestuga i Örebro för ett mänskligare Örebro",
+          "party": "L",
+          "status": "Remitterad",
+          "date": "2025-12-10"
+        },
+        {
+          "title": "Utmaningsrätt bygg- och driftverksamheten",
+          "party": "L",
+          "status": "Delvis tillgodosedd",
+          "date": "2025-08-27"
+        }
+      ],
+      "interpretation": "L har lagt 2 motioner men ingen har bifallits. 3 reservationer totalt."
     },
     {
       "party": "KD",
       "name": "Kristdemokraterna",
-      "motions_filed": 0,
+      "motions_filed": 1,
       "motions_granted": 0,
-      "reservations": 0,
+      "reservations": 3,
       "effectiveness_score": 0,
-      "motions": [],
-      "interpretation": "KD har varken lagt motioner eller reserverat sig — låg aktivitet."
+      "motions": [
+        {
+          "title": "Utred kompensation till drabbade företag",
+          "party": "KD",
+          "status": "Remitterad",
+          "date": "2025-12-10"
+        }
+      ],
+      "interpretation": "KD har lagt 1 motioner men ingen har bifallits. 3 reservationer totalt."
+    },
+    {
+      "party": "ÖrP",
+      "name": "Örebropartiet",
+      "motions_filed": 1,
+      "motions_granted": 0,
+      "reservations": 9,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Stänga förskolan Igelkotten",
+          "party": "ÖrP",
+          "status": "Tillgodosedd",
+          "date": "2025-08-27"
+        }
+      ],
+      "interpretation": "ÖrP har lagt 1 motioner men ingen har bifallits. 9 reservationer totalt."
+    },
+    {
+      "party": "MP",
+      "name": "Miljöpartiet",
+      "motions_filed": 1,
+      "motions_granted": 0,
+      "reservations": 1,
+      "effectiveness_score": 0,
+      "motions": [
+        {
+          "title": "Fossil reklam på allmän plats",
+          "party": "MP",
+          "status": "Bordlagd",
+          "date": "2025-08-27"
+        }
+      ],
+      "interpretation": "MP har lagt 1 motioner men ingen har bifallits. 1 reservationer totalt."
     }
   ],
   "trends": {
-    "months": [],
-    "overall_contested_pct": 0
+    "months": [
+      {
+        "month": "2025-02",
+        "total": 6,
+        "contested": 5,
+        "unanimous": 0,
+        "voteringer": 0,
+        "contested_pct": 83
+      },
+      {
+        "month": "2025-08",
+        "total": 7,
+        "contested": 6,
+        "unanimous": 0,
+        "voteringer": 2,
+        "contested_pct": 86
+      },
+      {
+        "month": "2025-12",
+        "total": 7,
+        "contested": 5,
+        "unanimous": 1,
+        "voteringer": 1,
+        "contested_pct": 71
+      }
+    ],
+    "overall_contested_pct": 80
   },
-  "attention_ranking": []
+  "attention_ranking": [
+    {
+      "id": "2025-08-27_ko_228",
+      "headline": "Många SD-motioner bordlagda för senare behandling",
+      "date": "2025-08-27",
+      "score": 80,
+      "reasons": [
+        "Omstritt",
+        "Gick till votering",
+        "4 partier emot",
+        "V och SD på samma sida"
+      ],
+      "category": "politik"
+    },
+    {
+      "id": "2025-12-10_ko_394_395",
+      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "date": "2025-12-10",
+      "score": 65,
+      "reasons": [
+        "Omstritt",
+        "Gick till votering",
+        "5 partier emot",
+        "Berör specifikt område"
+      ],
+      "category": "kultur"
+    },
+    {
+      "id": "2025-08-27_ko_221",
+      "headline": "Motion om mindre barngrupper i förskolan avslogs",
+      "date": "2025-08-27",
+      "score": 60,
+      "reasons": [
+        "Omstritt",
+        "Gick till votering",
+        "4 partier emot"
+      ],
+      "category": "skola"
+    },
+    {
+      "id": "2025-12-10_ko_390_391",
+      "headline": "Motioner om farligt gods och motorgård avslagna",
+      "date": "2025-12-10",
+      "score": 40,
+      "reasons": [
+        "Omstritt",
+        "4 partier emot",
+        "Berör specifikt område"
+      ],
+      "category": "ovrigt"
+    },
+    {
+      "id": "2025-12-10_ko_389",
+      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
+      "date": "2025-12-10",
+      "score": 40,
+      "reasons": [
+        "Omstritt",
+        "Bred ideologisk opposition",
+        "Handlar om pengar"
+      ],
+      "category": "budget"
+    },
+    {
+      "id": "2025-08-27_ko_223",
+      "headline": "Motion om välfärdspersonalens löner avslogs utan ökad budget",
+      "date": "2025-08-27",
+      "score": 30,
+      "reasons": [
+        "Omstritt",
+        "Handlar om pengar"
+      ],
+      "category": "budget"
+    },
+    {
+      "id": "2025-02-11_ko_29",
+      "headline": "360 MSEK investeringsanslag överförda från 2024 till 2025",
+      "date": "2025-02-11",
+      "score": 30,
+      "reasons": [
+        "Omstritt",
+        "Handlar om pengar"
+      ],
+      "category": "budget"
+    },
+    {
+      "id": "2025-02-11_ko_29",
+      "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
+      "date": "2025-02-11",
+      "score": 30,
+      "reasons": [
+        "Omstritt",
+        "Handlar om pengar"
+      ],
+      "category": "budget"
+    },
+    {
+      "id": "2025-02-11_ko_31",
+      "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
+      "date": "2025-02-11",
+      "score": 30,
+      "reasons": [
+        "Omstritt",
+        "Handlar om pengar"
+      ],
+      "category": "budget"
+    },
+    {
+      "id": "2025-12-10_ko_392_393",
+      "headline": "Kulturarvsvecka och byggnadsvårdspris – motioner hanterade",
+      "date": "2025-12-10",
+      "score": 25,
+      "reasons": [
+        "Omstritt",
+        "Berör specifikt område"
+      ],
+      "category": "kultur"
+    },
+    {
+      "id": "2025-02-11_ko_38",
+      "headline": "Riktlinjer för bostadsförsörjning antagna till Kommunfullmäktige",
+      "date": "2025-02-11",
+      "score": 25,
+      "reasons": [
+        "Omstritt",
+        "Berör specifikt område"
+      ],
+      "category": "regler"
+    },
+    {
+      "id": "2025-12-10_ko_397-417",
+      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+      "date": "2025-12-10",
+      "score": 20,
+      "reasons": [
+        "Omstritt"
+      ],
+      "category": "politik"
+    },
+    {
+      "id": "2025-08-27_ko_224",
+      "headline": "Bygg- och driftverksamheten sägs konkurrensutsatt – två av tre motionsyrkanden tillgodosedda",
+      "date": "2025-08-27",
+      "score": 20,
+      "reasons": [
+        "Omstritt"
+      ],
+      "category": "regler"
+    },
+    {
+      "id": "2025-08-27_ko_225",
+      "headline": "Läxfri skola avslogs, modersmålsundervisning avslogs",
+      "date": "2025-08-27",
+      "score": 20,
+      "reasons": [
+        "Omstritt"
+      ],
+      "category": "skola"
+    },
+    {
+      "id": "2025-08-27_ko_219",
+      "headline": "Fossilreklam-motion bordlagd efter trefaldig bordläggning",
+      "date": "2025-08-27",
+      "score": 20,
+      "reasons": [
+        "Omstritt"
+      ],
+      "category": "miljo"
+    },
+    {
+      "id": "2025-02-11_ko_39",
+      "headline": "Rapport över ej verkställda LSS- och SoL-beslut kvartal 3 - SD och L kritiska",
+      "date": "2025-02-11",
+      "score": 20,
+      "reasons": [
+        "Omstritt"
+      ],
+      "category": "trygghet"
+    },
+    {
+      "id": "2025-08-27_ko_222",
+      "headline": "Förskolan Igelkotten anses tillgodosedd – ingen stängning beslutad",
+      "date": "2025-08-27",
+      "score": 5,
+      "reasons": [
+        "Berör specifikt område"
+      ],
+      "category": "skola"
+    },
+    {
+      "id": "2025-12-10_ko_388",
+      "headline": "Nämndreglementen revideras enligt ny socialtjänstlag",
+      "date": "2025-12-10",
+      "score": 0,
+      "reasons": [],
+      "category": "regler"
+    },
+    {
+      "id": "2025-12-10_ko_396",
+      "headline": "Carina Börjesson (M) vald till förste vice ordförande",
+      "date": "2025-12-10",
+      "score": 0,
+      "reasons": [],
+      "category": "politik"
+    },
+    {
+      "id": "2025-02-11_ko_42",
+      "headline": "Fem motioner remitterade till nämnder för vidare beredning",
+      "date": "2025-02-11",
+      "score": 0,
+      "reasons": [],
+      "category": "politik"
+    }
+  ]
 }
