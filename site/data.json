@@ -1,59 +1,71 @@
 {
-  "generated_at": "2026-03-20T06:50:24.284002",
-  "total_meetings": 4,
-  "total_decisions": 20,
-  "total_cost_usd": 0.0472,
+  "generated_at": "2026-03-20T07:45:04.520310",
+  "total_meetings": 6,
+  "total_decisions": 41,
+  "total_cost_usd": 0.0885,
   "connections": [
+    {
+      "from_id": "2024-04-09_ko_76",
+      "to_id": "2025-10-14_ko_197",
+      "type": "UPPFOLJNING",
+      "description": "Örebroporten förvärvar fastigheter för elitidrottscenter 2024, följs upp genom reviderat investeringsprogram 2025",
+      "shared_tags": [
+        "Eyrafältet",
+        "investering",
+        "infrastruktur"
+      ]
+    },
+    {
+      "from_id": "2024-04-09_ko_72",
+      "to_id": "2025-10-14_ko_194",
+      "type": "RELATERAT_AMNE",
+      "description": "Båda gäller tilläggsanslag för kostnadsökningar - återkommande mönster av budgetöverskridningar",
+      "shared_tags": [
+        "tilläggsanslag",
+        "kostnadsökning",
+        "budget"
+      ]
+    },
     {
       "from_id": "2025-02-11_ko_39",
       "to_id": "2025-12-10_ko_389",
-      "type": "ATERKOMMER",
-      "description": "Frågan om ej verkställda biståndbeslut enligt SoL och LSS återkommer från februari till december, där ett tilläggsyrkande avslogs",
+      "type": "UPPFOLJNING",
+      "description": "Rapport om ej verkställda LSS- och SoL-beslut fortsätter som tilläggsyrkande om biståndbeslut",
       "shared_tags": [
-        "biståndbeslut",
-        "SoL",
         "LSS",
+        "SoL",
+        "biståndbeslut",
+        "verkställning",
+        "socialtjänst"
+      ]
+    },
+    {
+      "from_id": "2025-08-27_ko_222",
+      "to_id": "2025-12-10_ko_388",
+      "type": "RELATERAT_AMNE",
+      "description": "Båda behandlar socialtjänstfrågor - Igelkotten förskola-tillsyn och revidering av nämndreglementen enligt socialtjänstlag",
+      "shared_tags": [
         "socialtjänst",
+        "organisation",
         "välfärd"
       ]
     },
     {
       "from_id": "2025-02-11_ko_31",
-      "to_id": "2025-12-10_ko_388",
+      "to_id": "2025-10-14_ko_197",
       "type": "RELATERAT_AMNE",
-      "description": "Båda handlar om budget och organisatoriska förändringar - lokalförsörjning i februari och nämndreglementen/organisationsförändring i december",
+      "description": "Båda handlar om lokalförsörjning och investeringsanslag",
       "shared_tags": [
+        "lokalförsörjning",
         "budget",
-        "organisationsförändring"
-      ]
-    },
-    {
-      "from_id": "2025-08-27_ko_223",
-      "to_id": "2025-12-10_ko_388",
-      "type": "RELATERAT_AMNE",
-      "description": "Motion om välfärdspersonalens löner avslogs utan budget i augusti, följt av nämndreglementrevision och socialtjänstöverhaul i december",
-      "shared_tags": [
-        "välfärd",
-        "budget",
-        "socialtjänst"
+        "investeringar"
       ]
     },
     {
       "from_id": "2025-08-27_ko_219",
       "to_id": "2025-12-10_ko_397-417",
       "type": "ATERKOMMER",
-      "description": "Fossilreklam-motion bordlagdes trefaldig i augusti och kommer tillbaka som del av många bordlagda ärenden i december",
-      "shared_tags": [
-        "bordläggning",
-        "motioner",
-        "miljö"
-      ]
-    },
-    {
-      "from_id": "2025-08-27_ko_228",
-      "to_id": "2025-12-10_ko_397-417",
-      "type": "ATERKOMMER",
-      "description": "SD-motioner som bordlagdes i augusti återkommer som del av massiva bordläggningar i december",
+      "description": "Fossilreklam-motion bordlagd efter trefaldig bordläggning aug, många motioner bordlagda igen i dec",
       "shared_tags": [
         "bordläggning",
         "motioner",
@@ -61,23 +73,36 @@
       ]
     },
     {
-      "from_id": "2025-02-11_ko_42",
-      "to_id": "2025-12-10_ko_394_395",
-      "type": "ATERKOMMER",
-      "description": "Motion om arkitektur remitterad i februari behandlas i december avseende medborgarinflytande på arkitektur",
+      "from_id": "2025-02-11_ko_29",
+      "to_id": "2025-10-14_ko_194",
+      "type": "UPPFOLJNING",
+      "description": "Investeringsanslag från 2024 överförda till 2025 följs upp genom budgetrapport och åtgärdskrav",
       "shared_tags": [
-        "arkitektur",
-        "motioner"
+        "investeringar",
+        "budget",
+        "ekonomi"
+      ]
+    },
+    {
+      "from_id": "2024-04-09_ko_86",
+      "to_id": "2025-08-27_ko_222",
+      "type": "UPPFOLJNING",
+      "description": "Ledamotinitativ om Arenaskolan avslogs 2024, Igelkotten (nära Arenaskolan) hanteras 2025",
+      "shared_tags": [
+        "Arenaskolan",
+        "förskola",
+        "tillsyn"
       ]
     },
     {
       "from_id": "2025-02-11_ko_38",
-      "to_id": "2025-12-10_ko_388",
-      "type": "RELATERAT_AMNE",
-      "description": "Bostadsförsörjningsriktlinjer från februari kan relateras till organisationsförändring och nämndreglementsrevision i december",
+      "to_id": "2025-10-14_ko_197",
+      "type": "UPPFOLJNING",
+      "description": "Riktlinjer för bostadsförsörjning antagna till KF i feb, investeringsprogram omfattar bostadsprojekt i okt",
       "shared_tags": [
-        "organisationsförändring",
-        "planering"
+        "bostäder",
+        "investeringar",
+        "lokalförsörjning"
       ]
     }
   ],
@@ -446,6 +471,599 @@
           "title": "Utred kompensation till drabbade företag",
           "party": "KD",
           "status": "Remitterad"
+        }
+      ]
+    },
+    {
+      "id": "2025-10-14_ko",
+      "meeting_type": "Kommunstyrelsen",
+      "date": "2025-10-14",
+      "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "summary_headline": "Budget 2026 och BRT-expansion godkänd trots oppositionskritik",
+      "decisions": [
+        {
+          "headline": "Tilläggsanslag på 12,5 miljarder för kostnadsökningar godkänt",
+          "summary": "Kommunstyrelsen beviljade 12 495 tkr i tilläggsanslag för 2025 för tillfälliga satsningar och färdigställda lokalförsörjningsobjekt. SD ville ta bort 200 tkr för klimatkommunikation men förlorade omröstningen.",
+          "detail": "Ärendet handlar om att finansiera kostnadsökningar och oförutsedda behov under budgetåret 2025. Tilläggsanslaget finansieras ur kommunstyrelsens utrymme för oförutsedda behov samt från utrymmet för investeringskonsekvenser.\n\nHelena Ståhl (SD) och David Larsson (SD) motsatte sig ett specifikt tilläggsanslag på 200 tkr till klimatstrategins kommunikationsinsatser, men majoritetens förslag (S, M, C, L, KD och MP) vann. De två SD-ledamöterna reserverade sig mot beslutet.",
+          "category": "budget",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 194",
+          "quote": "Tilläggsanslag beviljas med totalt 12 495 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur KS utrymme för oförutsedda behov samt från KS utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.",
+          "quote_page": "s. 2",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "MP"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Bifall"
+          },
+          "tags": [
+            "kostnadsökning",
+            "investering",
+            "klimatstrategi"
+          ],
+          "id": "2025-10-14_ko_194",
+          "seo": {
+            "id": "2025-10-14_ko_194",
+            "seo_title": "Tilläggsanslag 12,5 miljarder godkänt — Örebro kommun",
+            "seo_description": "Örebro kommun beviljar 12,5 miljarder kronor i tilläggsanslag för 2025. Pengar för tillfälliga satsningar och lokalförsörjning. SD förlustade omröstning om klimatbudget.",
+            "search_keywords": [
+              "tilläggsanslag örebro 2025",
+              "kommunbudget örebro",
+              "örebro ekonomi",
+              "lokalförsörjning örebro"
+            ],
+            "social_title": "Örebro kommun beviljar 12,5 miljarder i tilläggsanslag",
+            "social_description": "Kommunstyrelsen godkänt tilläggsanslag för 2025. Pengar till tillfälliga satsningar och färdigställande av lokalförsörjningsprojekt. Läs beslutet här."
+          }
+        },
+        {
+          "headline": "Negativ budgetavvikelse 210 mnkr – nämnderna får åtgärdskrav",
+          "summary": "Kommunens helårsprognos visar 257 mnkr resultat mot budgeterat 467 mnkr – en negativ budgetavvikelse på 210 mnkr. Nämnderna måste vidta konkretiserade åtgärder för att säkra långsiktigt hållbar ekonomi.",
+          "detail": "Delårsrapporten visar att kommunen inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året. Endast 2 av 4 finansiella mål beräknas uppfyllas.\n\nPrognosen visar att verksamhetens resultat är 78 mnkr lägre än budget, och finansverksamheten är 132 mnkr lägre. De nämnder som prognostiserar negativ avvikelse måste redovisa konkretiserade åtgärder senast i samband med årsredovisningen för 2025.\n\nMartha Wicklund (V) och Karolina Wallström (L) motsatte sig beslutet och förlorade omröstningen. Vänsterpartiet ville att nämnderna skulle få mer realistiska budgetramar istället för att krävas på sparåtgärder. L reserverade sig tillsammans med Yngve Alkman.",
+          "category": "budget",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 196",
+          "quote": "De nämnder som prognostiserar negativ budgetavvikelse för år 2025 ska vidta och konkretisera åtgärder för att säkra en långsiktigt hållbar ekonomi. Åtgärderna ska vara siffersatta och redovisas till Kommunstyrelsen senast i samband med årsredovisningen för år 2025.",
+          "quote_page": "s. 5",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "KD"
+            ],
+            "against": [],
+            "abstained": [
+              "V",
+              "L"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "ekonomi",
+            "budget",
+            "prognosprognos",
+            "sparåtgärder"
+          ],
+          "id": "2025-10-14_ko_196",
+          "seo": {
+            "id": "2025-10-14_ko_196",
+            "seo_title": "Negativ budgetavvikelse 210 mnkr — åtgärdskrav för Örebro",
+            "seo_description": "Örebro kommuns helårsprognos visar negativ budgetavvikelse på 210 miljoner kronor. Nämnderna får konkretiserade åtgärdskrav för att säkra långsiktigt hållbar ekonomi.",
+            "search_keywords": [
+              "örebro budget 2025",
+              "budgetavvikelse",
+              "kommunens ekonomi örebro",
+              "åtgärdskrav"
+            ],
+            "social_title": "Örebro kommun måste spara — budgetavvikelse på 210 mnkr",
+            "social_description": "Örebro kommuns helårsprognos visar större utgifter än budgeterat. Nämnderna får nu åtgärdskrav för att säkra ekonomin. Läs mer om beslutet."
+          }
+        },
+        {
+          "headline": "Reviderat investeringsprogram 2025: 1 359 mnkr totalt",
+          "summary": "Kommunstyrelsen godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr. Lokalförsörjningsdriftkostnader uppgår till 56,2 mnkr för året.",
+          "detail": "Investeringsprogrammet reviderats från det ursprungliga beslut som togs i juni 2025. Totalt investeras 1 359,2 mnkr, varav 780,6 mnkr är skattefinansierade och 578,6 mnkr taxefinansierade investeringar.\n\nDe kommunövergripande lokalförsörjningsplanens driftkostnadskonsekvenser har ökat med 1,2 mnkr jämfört med beslutet om ÖSB 2025.\n\nKarolina Wallström (L) och Helena Ståhl (SD) yrkat avslag till förmån för sina egna budgetförslag men förlorade. Både L och SD reserverade sig tillsammans med sina ersättare mot beslutet.",
+          "category": "budget",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 197",
+          "quote": "Det reviderade investeringsprogrammet beslutas i enlighet med förslaget vilket innebär att kommunens totala investeringsutgifter 2025 uppgår till 1 359,2 mnkr.",
+          "quote_page": "s. 7",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "KD",
+              "MP"
+            ],
+            "against": [],
+            "abstained": [
+              "L",
+              "SD"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "investering",
+            "lokalförsörjning",
+            "infrastruktur",
+            "budget"
+          ],
+          "id": "2025-10-14_ko_197",
+          "seo": {
+            "id": "2025-10-14_ko_197",
+            "seo_title": "Investeringsprogram 2025: 1 359 mnkr — Örebro kommun",
+            "seo_description": "Örebro kommun godkänner reviderat investeringsprogram för 2025 på 1 359 miljoner kronor. Inkluderar lokalförsörjningsdriftkostnader på 56,2 miljoner.",
+            "search_keywords": [
+              "investeringar örebro 2025",
+              "investeringsprogram",
+              "kommunens investeringar",
+              "lokalförsörjning"
+            ],
+            "social_title": "Örebro investerar 1,3 miljarder kronor under 2025",
+            "social_description": "Kommunstyrelsen godkänner reviderat investeringsprogram för 2025. Se vad pengarna går till och vilka projekt som prioriteras."
+          }
+        },
+        {
+          "headline": "Budget 2026 fastställd: nya taxor och avgifter från 1 januari",
+          "summary": "Kommunstyrelsen fastställde övergripande strategier och budget 2026 med plan för 2027–2029 inklusive nya taxor för avfall, vatten-avlopp, alkoholtillstånd och parkeringsavgifter.",
+          "detail": "Beslutet omfattar tolv beslutspunkter:\n\n1. Tilläggsbudget \"Gemensamt ansvar för framtidens Örebro\" fastställd\n2. Reviderade driftbudgetramar för 2026 med plan för 2027–2029\n3. Driftkostnadskonsekvenser från lokalförsörjningsplan beslutat\n4. Reviderad investeringsplan för 2026 med plan för 2027–2029 fastställd\n5. Avgifter för koncerninterna lån och borgen fastställd för 2026\n6. Taxa för avfall från 1 januari 2026\n7. Föreskrifter för avfall från 1 januari 2026\n8. Taxa för vatten och avlopp från 1 januari 2026\n9. Reviderad taxa enligt alkohollagen från 1 januari 2026\n10. Revidering av markupplåtelseavgift från 1 januari 2026\n11. Förlängd giltighetstid för generella dispenser från 6 månader till 1 år\n12. Ny avgift för generella dispenser på 1 500 kr per tillstånd från 1 januari 2026\n\nFlera partier lade egna budgetförslag (L, SD, V, KD) men majoritetens förslag (S, M, C och delar av opposition) vann. Många reservationer lämnades.",
+          "category": "regler",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 199",
+          "quote": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 \"Gemensamt ansvar för framtidens Örebro\" fastställs enligt förslaget.",
+          "quote_page": "s. 9-11",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C"
+            ],
+            "against": [],
+            "abstained": [
+              "L",
+              "SD",
+              "V",
+              "KD"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "budget",
+            "taxor",
+            "avgifter",
+            "vatten",
+            "avfall",
+            "alkohol",
+            "parkering"
+          ],
+          "id": "2025-10-14_ko_199",
+          "seo": {
+            "id": "2025-10-14_ko_199",
+            "seo_title": "Nya taxor och avgifter i Örebro från 1 januari 2026",
+            "seo_description": "Örebro kommuns budget 2026 är fastställd. Nya taxor och avgifter för avfall, vatten-avlopp, alkoholtillstånd och parkering från 1 januari. Läs vad som förändras.",
+            "search_keywords": [
+              "nya taxor örebro 2026",
+              "sophämtning pris",
+              "parkeringsavgift örebro",
+              "avfallsavgift",
+              "vatten avlopp pris"
+            ],
+            "social_title": "Nya priser på sophämtning och parkering i Örebro",
+            "social_description": "Från 1 januari höjs taxorna för avfall, vatten-avlopp och parkering i Örebro. Se nya priser och ändringar här."
+          }
+        },
+        {
+          "headline": "Lokalförsörjningsplan 2027-2037: 37 lokalprojekt prioriterade",
+          "summary": "Kommunstyrelsen antog den kommunövergripande lokalförsörjningsplanen för 2027–2037 med 37 prioriterade lokalprojekt, varav 15 är pågående och 13 beräknas färdigställas under 2026.",
+          "detail": "Lokalförsörjningsplanen utgör underlag till investeringsprocessen och åskådliggör framtida lokalbehov. Planen synliggör prioriterade lokalprojekt som kommunen avser att arbeta med inom prognosperioden 2027-2037.\n\nAv de 37 projekten är 15 redan pågående. Enligt planen kommer 13 projekt att vara färdigställda under 2026. En fullständig projektlista tillhör den kommunövergripande lokalförsörjningsplanen.",
+          "category": "bygg",
+          "contested": false,
+          "location": "Örebro",
+          "paragraph_ref": "§ 198",
+          "quote": "Kommunstyrelsen antar den kommunövergripande lokalförsörjningsplanen 2027–2037.",
+          "quote_page": "s. 8",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "V",
+              "SD"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Enhalligt"
+          },
+          "tags": [
+            "lokalförsörjning",
+            "infrastruktur",
+            "investeringsplan",
+            "byggen"
+          ],
+          "id": "2025-10-14_ko_198",
+          "seo": {
+            "id": "2025-10-14_ko_198",
+            "seo_title": "Lokalförsörjningsplan 2027-2037: 37 projekt i Örebro",
+            "seo_description": "Örebro kommun antog lokalförsörjningsplan 2027-2037 med 37 prioriterade lokalprojekt. 15 pågår redan, 13 beräknas klara under 2026.",
+            "search_keywords": [
+              "lokalförsörjning örebro",
+              "nya lokaler örebro",
+              "byggprojekt örebro",
+              "framtida projekt"
+            ],
+            "social_title": "Örebro planerar 37 nya lokalprojekt fram till 2037",
+            "social_description": "Kommunstyrelsen antog långsiktig lokalförsörjningsplan. 37 prioriterade projekt för att säkra lokaler för kommunens verksamheter."
+          }
+        },
+        {
+          "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
+          "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+          "detail": "Beslutet innebär att Örebro kommun tillsammans med Region Örebro län fortsätter implementeringen av Bus Rapid Transit enligt en genomförandeplan för etapp 2. Projektet syftar till att skapa ett attraktivt och kapacitetsstarkt kollektivtrafiksystem.\n\nFärdigställelsen av etapp 1 beräknas under 2025. Utvärderingen visar att resandet har ökat och prognosen pekar på en resandeökning på 18% för 2025 jämfört med 2023. Restiden mellan Örebro Resecentrum och Brickebacken har minskat med cirka 30% (cirka 8 minuter).\n\nMålet för det fullständiga BRT-systemet är att öka resandet med 40% tre år efter färdigställandet av etapp 2 och att minska restiden med 30%.\n\nTilläggsyrkanden antogs:\n- Kristdemokraterna yrkat och fick bifall för att särskilt beakta och i god förväg kommunicera förändringar till berörda näringsidkare och invånare\n- Vänsterpartiet yrkat och fick bifall för att i arbetet med BRT beakta frågan om pendlarparkeringar i anslutning till stråket\n- Vänsterpartiet yrkat om prissänkning i stadstrafiken men detta avslogs\n\nKarolina Wallström (L) och Helena Ståhl (SD) motsatte sig projektet helt, menade att det är kostsamt och försämrar framkomligheten. Vänsterpartiet reserverade sig mot avslaget på prisfrågan.",
+          "category": "infrastruktur",
+          "contested": true,
+          "location": "Örebro, Vivalla, Lundby, Mellringe, Tegnérlunden",
+          "paragraph_ref": "§ 206",
+          "quote": "Tillsammans med Region Örebro län ingå \"samarbetsavtal avseende Bus Rapid Transit (BRT) etapp 2 i Örebro\" för att fortsätta införandet av BRT.",
+          "quote_page": "s. 20-22",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "KD",
+              "V",
+              "MP"
+            ],
+            "against": [],
+            "abstained": [
+              "L",
+              "SD"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "BRT",
+            "kollektivtrafik",
+            "infrastruktur",
+            "parkering",
+            "stadstrafik",
+            "resande"
+          ],
+          "id": "2025-10-14_ko_206",
+          "seo": {
+            "id": "2025-10-14_ko_206",
+            "seo_title": "BRT etapp 2 godkänd — nya pendlarparkeringar i Örebro",
+            "seo_description": "Örebro kommun godkänner Bus Rapid Transit etapp 2 med Region Örebro län. Inkluderar pendlarparkeringar och priskontroll. L och SD reserverade sig.",
+            "search_keywords": [
+              "BRT örebro",
+              "buss rapid transit",
+              "kollektivtrafik örebro",
+              "pendlarparkeringar"
+            ],
+            "social_title": "Örebro bygger vidare på BRT — nya pendlarparkeringar",
+            "social_description": "Kommunstyrelsen godkänner nästa etapp av Bus Rapid Transit. Samarbete med Region Örebro län ger pendlarparkeringar och bättre priser."
+          }
+        },
+        {
+          "headline": "Stockholm Business Alliance-medlemskap 2026-2030 förlängt",
+          "summary": "Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance (SBA) för perioden 2026-2030. Avgiften förblir oförändrad på 4 kr per invånare plus fast bidrag från Stockholm.",
+          "detail": "Örebro kommun har varit medlem i SBA under lång tid. Samarbetet omfattar 55 kommuner i storregionen Stockholm Mälardalen och fokuserar på näringslivsutveckling, nya investeringar, tillväxt i befintliga företag och förbättring av företagsklimatet.\n\nSBA genomför årliga servicemätningar (Nöjd Kundindex) och Örebro kommun deltar aktivt med flera förvaltningar. Samarbetet stärker möjligheterna till nya etableringar, internationell exponering och regionalt investeringsarbete samt ger utvecklingsmöjligheter för personal.\n\nFinansiering sker inom befintlig budgetram för Näringslivsavdelningen, Kommunledningsförvaltningen.\n\nHelena Ståhl (SD), David Larsson (SD) och Martha Wicklund (V) reserverade sig mot beslutet. De motsatte sig medlemskapet med hänvisning till kostnader utan tydligt resultat för kommunen.",
+          "category": "ovrigt",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 200",
+          "quote": "Teckna avtal med Stockholm Business Alliance (SBA) för perioden 2026-2030. Finansiering sker i befintlig budgetram för Näringslivsavdelningen, Kommunledningsförvaltningen.",
+          "quote_page": "s. 12",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "MP"
+            ],
+            "against": [],
+            "abstained": [
+              "SD",
+              "V"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "näringslivsutveckling",
+            "samarbete",
+            "stockholm",
+            "medlemskap"
+          ],
+          "id": "2025-10-14_ko_200",
+          "seo": {
+            "id": "2025-10-14_ko_200",
+            "seo_title": "Stockholm Business Alliance-medlemskap förlängt till 2030",
+            "seo_description": "Örebro kommun förnyar medlemskap i Stockholm Business Alliance 2026-2030. Avgiften kvarstår på 4 kr per invånare plus fast bidrag från Stockholm.",
+            "search_keywords": [
+              "stockholm business alliance",
+              "örebro näringslivsamtal",
+              "medlemskap SBA"
+            ],
+            "social_title": "Örebro fortsätter samarbete med Stockholm Business Alliance",
+            "social_description": "Kommunstyrelsen förlänger medlemskapet i Stockholm Business Alliance till 2030. Samma avgifter som tidigare."
+          }
+        },
+        {
+          "headline": "Revidering av delegationsordning för finansiella beslut",
+          "summary": "Kommunstyrelsen reviderade delegationsordningen för finansiella beslut, fastställde firmatecknare och delegerade finansiella befogenheter till tjänstemän.",
+          "detail": "Beslutet omfattar elva delegationsbeslut gällande:\n\n1. Firmatecknare för lån, finansiella derivatinstrument och värdepapper\n2. Firmatecknare för borgensåtaganden och bankgarantier\n3. Firmatecknare för banktjänster och bankgirokonton\n4. Firmatecknare för skattedeklarationer\n5. Firmatecknare för donationsstiftelser\n6. Delegation för lånebeslut och finansiella derivatinstrument\n7. Delegation för lån och betalningsgarantier till bolag\n8. Delegation för interna lån till VA- och avfallsverksamheten\n9. Delegation för villkor vid in- och utlåning på koncernkonto\n10. Delegation för ränteändring och inlösen av lån\n11. Delegation för placeringar av likvida medel\n\nAnmälan av delegationsbeslut ska ske varje månad till kommunstyrelsen. Kommunstyrelsens ordförande ska omedelbar informeras om större förändringar och viktiga delegationsbeslut.",
+          "category": "regler",
+          "contested": false,
+          "location": null,
+          "paragraph_ref": "§ 201",
+          "quote": "Firmatecknare för Örebro kommun i avtal om låneprogram, lån, finansiella derivatinstrument, placeringar i värdepapper, kapitalförvaltning och likviditet samt andra därtill hörande handlingar är en av finanschef Mats Rodenfelt, ekonomidirektör Johanna Larsson och budgetchef Andreas Legnerot i förening med en av redovisningschef Karin Sundelius och finanscontroller Gustav Eriksson.",
+          "quote_page": "s. 13-15",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "V",
+              "SD",
+              "MP"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Enhalligt"
+          },
+          "tags": [
+            "delegationsordning",
+            "finanser",
+            "firmatecknare",
+            "organisation"
+          ],
+          "id": "2025-10-14_ko_201",
+          "seo": {
+            "id": "2025-10-14_ko_201",
+            "seo_title": "Nya regler för finansiella beslut i Örebro kommun",
+            "seo_description": "Örebro kommun reviderade delegationsordning för finansiella beslut. Fastställde firmatecknare och delegerade finansiella befogenheter till tjänstemän.",
+            "search_keywords": [
+              "delegationsordning",
+              "kommunens regler",
+              "finansiella beslut"
+            ],
+            "social_title": "Örebro uppdaterar regler för finansiella beslut",
+            "social_description": "Kommunstyrelsen reviderade hur finansiella beslut fattas. Nya firmatecknare och delegerade befogenheter fastställda."
+          }
+        },
+        {
+          "headline": "Nya revisorer valda för kommunens bolag",
+          "summary": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+          "detail": "Beslutet gäller revisorbyten i följande bolag:\n\n- Kumbro Vind AB: Ernst & Young AB som revisor (Per Modin som huvudansvarig)\n- Kumbro Utveckling AB, Kumbro Stadsnät AB, Stadsnät i Kumla AB, Vätternvatten AB: Per Modin som revisor, Joakim Holmquist som revisorssuppleant\n- Oslo-Stockholm 255 AB, Örebro läns Flygplats AB: Joakim Holmquist som revisor\n- Gustavsvik Resorts AB: Per Modin entledigas som revisorssuppleant\n\nRevisionskontrakten med Ernst & Young AB gäller till och med 2027-02-28. Gustav Tönnies behövde entledigas från revisoruppdrag i samtliga nämnda bolag.",
+          "category": "ovrigt",
+          "contested": false,
+          "location": null,
+          "paragraph_ref": "§ 202",
+          "quote": "Kommunens stämmoombud får i uppdrag att vid extra bolagsstämma rösta för att entlediga Gustav Tönnies som revisor och utse ny revisor enligt förslagen.",
+          "quote_page": "s. 16-17",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "V",
+              "SD",
+              "MP"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Enhalligt"
+          },
+          "tags": [
+            "revisor",
+            "bolagsstyrning",
+            "organisationell ändring"
+          ],
+          "id": "2025-10-14_ko_202",
+          "seo": {
+            "id": "2025-10-14_ko_202",
+            "seo_title": "Nya revisorer valda för Örebro kommuns bolag",
+            "seo_description": "Örebro kommun väljer nya revisorer för kommunäggda bolag efter revisorsbyte på Ernst & Young AB. Kommunstyrelsen gav stämmoombudet instruktioner.",
+            "search_keywords": [
+              "revisorer örebro",
+              "kommunens bolag",
+              "revision"
+            ],
+            "social_title": "Örebro kommun väljer nya revisorer för sina bolag",
+            "social_description": "Ny revisor ska utses för flera kommunäggda bolag efter personbyte på Ernst & Young."
+          }
+        },
+        {
+          "headline": "Smart Säker Stad-samverkansavtal undertecknat",
+          "summary": "Kommundirektören fick i uppdrag att ingå samverkansavtal för projektet Smart Säker Stad som syftar till att förbättra säkerhet, resiliens och kostnadseffektiva kommunikationslösningar genom digitalisering.",
+          "detail": "Projektet Smart Säker Stad inleddes 2023 och syftar till att forma den smarta säkra staden. Under initialfasen arbetade huvudsakligen Kumbro Stadsnät AB, Örebrobostäder AB och Kumla Bostäder AB tillsammans.\n\nProjektet går nu över i nästa steg där övriga organisationer involveras. Samverkansavtalet omfattar Örebro kommun, Kumbro Stadsnät AB, Örebrobostäder AB, Futurum Fastigheter i Örebro AB och Örebroporten Fastigheter AB.\n\nAvtalet fungerar som ramverk och parternas åtaganden ska preciseras ytterligare när initiativ eller delprojekt inleds.",
+          "category": "ovrigt",
+          "contested": false,
+          "location": "Örebro",
+          "paragraph_ref": "§ 203",
+          "quote": "Kommundirektören får i uppdrag att ingå samverkansavtal enligt förslag daterat, 2025-09-23.",
+          "quote_page": "s. 17",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "V",
+              "SD",
+              "MP"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Enhalligt"
+          },
+          "tags": [
+            "digitalisering",
+            "säkerhet",
+            "smart stad",
+            "samverkan"
+          ],
+          "id": "2025-10-14_ko_203",
+          "seo": {
+            "id": "2025-10-14_ko_203",
+            "seo_title": "Smart Säker Stad-projekt startar i Örebro",
+            "seo_description": "Örebro kommun inleder Smart Säker Stad-samverkan. Projektet förbättrar säkerhet, resiliens och kostnadseffektiva lösningar genom digitalisering.",
+            "search_keywords": [
+              "smart säker stad",
+              "säkerhet örebro",
+              "digitalisering kommun",
+              "smart city"
+            ],
+            "social_title": "Örebro blir säkrare och smartare med nytt projekt",
+            "social_description": "Örebro kommun startar Smart Säker Stad-projekt för bättre säkerhet och digitala kommunikationslösningar i staden."
+          }
+        },
+        {
+          "headline": "Sammanträdestider för 2026 fastställda",
+          "summary": "Kommunstyrelsen fastställde sammanträdestider för 2026 för kommunstyrelsen, dess utskott och kommunfullmäktige. Liberalerna ville förhindra driftnämndsammanträden samma vecka som kommunfullmäktige men förlorade.",
+          "detail": "Beslut gäller:\n\n1. 11 ordinarie beslutssammanträden med Kommunstyrelsen på tisdagar klockan 14.15 (20 januari – 1 december)\n2. Beredningssammanträden tisdagar 09.00-12.00\n3. Rekommendation till nämnderna om vilka veckor de bör förlägga sammanträden\n4. Trygghetsutskottets sammanträden på 6 tisdagar\n5. Personalutskottets sammanträden på 5 torsdagar\n6. Hållbarhetsutskottets sammanträden på 6 tillfällen\n7. 11 ordinarie sammanträden med Kommunfullmäktige på tisdagar/onsdagar\n\nKarolina Wallström (L) yrkat att förvaltningen inte ska få planera driftnämndsammanträden samma vecka som kommunfullmäktige utan i särskild nöd. KD och V stödde detta men S majoritet avslogs yrkandet.\n\nLiberalerna menade att detta tvingar fritidspolitiker att ta ledigt två dagar samma vecka från sitt ordinarie arbete om de sitter i både driftnämnd och kommunfullmäktige.",
+          "category": "regler",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 211",
+          "quote": "Ordinarie beslutssammanträden med Kommunstyrelsen ska under år 2026 hållas klockan 14.15 tisdag 20 januari, tisdag 10 februari, tisdag 17 mars... [m.fl.]",
+          "quote_page": "s. 24-25",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C"
+            ],
+            "against": [],
+            "abstained": [
+              "L",
+              "KD"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "möte",
+            "organisation",
+            "kommunstyrelsen",
+            "kommunfullmäktige"
+          ],
+          "id": "2025-10-14_ko_211",
+          "seo": {
+            "id": "2025-10-14_ko_211",
+            "seo_title": "Sammanträdestider 2026 fastställda för Örebro kommun",
+            "seo_description": "Örebro kommun fastställde alla sammanträdestider för 2026. Se när kommunstyrelse, utskott och kommunfullmäktige möts under året.",
+            "search_keywords": [
+              "sammanträdestider 2026",
+              "kommunfullmäktige örebro",
+              "möteskalender"
+            ],
+            "social_title": "Örebro kommuns möteskalender 2026 är fastställd",
+            "social_description": "Alla sammanträdestider för kommunstyrelse, utskott och kommunfullmäktige under 2026 är nu fastslagna. Se när det sker."
+          }
+        }
+      ],
+      "motions_of_interest": [
+        {
+          "title": "Återbruk i alla led – en självklarhet inom Örebro kommun (V)",
+          "party": "V",
+          "status": "Avslagen - ansågs besvarad"
+        },
+        {
+          "title": "Inkludera områden för kärnkraft (SMR) i Översiktsplanen (SD)",
+          "party": "SD",
+          "status": "Avslagen"
+        },
+        {
+          "title": "Förbättring av färdtjänsten genom att säga upp avtalet med Region Örebro Län (L)",
+          "party": "L",
+          "status": "Avslagen - ansågs besvarad"
+        },
+        {
+          "title": "Egenskapade raster för bön på arbetstid ska upphöra (SD)",
+          "party": "SD",
+          "status": "Avslagen (alla tre förslag)"
+        },
+        {
+          "title": "Kommunen ska ta övergripande ansvar för förtroendevaldas trygghet i hot- och våldssituationer (V)",
+          "party": "V",
+          "status": "Avslagen"
+        },
+        {
+          "title": "Tydlig policy för kommunens stöd av förtroendevalda i hot- och våldssituationer (V)",
+          "party": "V",
+          "status": "Avslagen"
+        },
+        {
+          "title": "Publicera trädinventering (MP)",
+          "party": "MP",
+          "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+        },
+        {
+          "title": "Flaggan i topp – flaggning på kommunala byggnader (MP)",
+          "party": "MP",
+          "status": "Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Återinför tre-timmarsbiljett på bussen (V)",
+          "party": "V",
+          "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+        },
+        {
+          "title": "Arbeta för att behålla övertaliga lärare (MP)",
+          "party": "MP",
+          "status": "Remitterad till Grundskolenämnden"
+        },
+        {
+          "title": "Förbättra och förenkla för idrotten (KD)",
+          "party": "KD",
+          "status": "Remitterad till Kultur- och fritidsnämnden"
+        },
+        {
+          "title": "Krisen väntar inte på kommunen (KD)",
+          "party": "KD",
+          "status": "Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Säkerställ att föreningsbidragen gynnar örebroarna (SD)",
+          "party": "SD",
+          "status": "Remitterad till Kultur- och fritidsnämnden"
+        },
+        {
+          "title": "Ställ krav på invandrare (SD)",
+          "party": "SD",
+          "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden"
+        },
+        {
+          "title": "Krafttag för säkerhet och trygghet i skolan (SD)",
+          "party": "SD",
+          "status": "Remitterad till Förskolenämnden, Grundskolenämnden och Gymnasie- och arbetsmarknadsnämnden"
+        },
+        {
+          "title": "Svensk husmanskost ska vara standard i skolan och äldreomsorgen (SD)",
+          "party": "SD",
+          "status": "Remitterad till Teknik- och servicenämnden"
         }
       ]
     },
@@ -1030,6 +1648,527 @@
       "summary_headline": "Rutinmässiga personalförändringar i nämnder och Kommunstyrelsen",
       "decisions": [],
       "motions_of_interest": []
+    },
+    {
+      "id": "2024-04-09_ko",
+      "meeting_type": "Kommunstyrelsen",
+      "date": "2024-04-09",
+      "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "summary_headline": "Örebro köper Eklundaområdet för 154 miljoner kronor",
+      "decisions": [
+        {
+          "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
+          "summary": "Kommunstyrelsen godkände att Örebroporten Fastigheter AB förvärvar fyra fastigheter från Region Örebro Län för cirka 140 miljoner kronor, och Örebroporten Holding AB förvärvar en fastighet från Länsgården för cirka 14 miljoner kronor. Fastigheterna vid Eklundavägen kommer att användas för utveckling av elitidrottsområdet på Eyrafältet.",
+          "detail": "Region Örebro Län avser att lämna sina kontorslokaler vid Eklundavägen under 2025 och avyttra sex fastigheter totalt. Örebroporten erbjudits möjlighet att förvärva samtliga fastigheter för strategisk utveckling av Eyrafältet.\n\nKöpeskillingar: RÖL:s fastigheter cirka 140 miljoner kronor, Länsgårdens fastighet cirka 14 miljoner kronor. Totalt investeringsbehov överstiger 154 miljoner kronor. Möjliga saneringskostnader beräknas till cirka 19 miljoner kronor, som säljare och köpare delar på enligt avtal.\n\nTillträde planeras till 1 april 2025 för RÖL:s fastigheter och 2 december 2024 för Länsgårdens fastighet.\n\nFastigheterna som inte behövs för Örebroportens del av utvecklingen föreslås senare erbjudas till marknaden och/eller annan part inom kommunkoncernen. Besluten ska vidare till Kommunfullmäktige.\n\nÖrebropartiet reserverade sig mot beslutet med avslagsyrkande. Liberalerna och Vänsterpartiet lämnade särskilda yttranden för att säkerställa att andra aktörer kan få möjlighet att lämna intresse för fastigheter och mark.",
+          "category": "infrastruktur",
+          "contested": true,
+          "location": "Eklundavägen, Eyrafältet",
+          "paragraph_ref": "§ 76",
+          "quote": "Genom att förvärva de aktuella fastigheterna får Örebroporten och kommunen rådighet över framtida utveckling av Eyrafältet.",
+          "quote_page": "s. 12",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "V",
+              "KD"
+            ],
+            "against": [
+              "ÖrP"
+            ],
+            "abstained": [],
+            "result": "Bifall"
+          },
+          "tags": [
+            "Eyrafältet",
+            "elitidrottscenter",
+            "fastighetsförvärv",
+            "infrastrukturinvestering",
+            "Eklundavägen",
+            "1540000"
+          ],
+          "id": "2024-04-09_ko_76",
+          "seo": {
+            "id": "2024-04-09_ko_76",
+            "seo_title": "Örebroporten förvärvar fastigheter — elitidrottscentrum Eyrafältet",
+            "seo_description": "Örebroporten Fastigheter AB förvärvar sex fastigheter vid Eklundavägen för 154 miljoner kronor. Utveckling av elitidrottsområdet på Eyrafältet i Örebro.",
+            "search_keywords": [
+              "örebroporten fastigheter",
+              "elitidrottscenter örebro",
+              "eyrafältet utveckling",
+              "örebro idrottsanläggning",
+              "eklundavägen"
+            ],
+            "social_title": "Örebro bygger elitidrottscenter — 154 miljoner investering",
+            "social_description": "Örebroporten investerar i sex nya fastigheter vid Eklundavägen för att utveckla ett modernt elitidrottscentrum på Eyrafältet. En stor satsning för Örebros idrott!"
+          }
+        },
+        {
+          "headline": "Årsredovisning 2023: Kommun visar god ekonomisk hushållning trots osäkerhet",
+          "summary": "Kommunstyrelsen godkände årsredovisningen för 2023. Örebro kommun hade ett resultat på 570 miljoner kronor (286 miljoner högre än budgeterat), samtidigt som investeringarna uppgick till 821 miljoner kronor. Fyra av sex mål för god ekonomisk hushållning uppnåddes.",
+          "detail": "Kommunkoncernen gjorde ett resultat på 659 miljoner kronor inklusive Rådhuskoncernen. Kommunens egna resultat var 570 miljoner kronor, vilket var 286 miljoner högre än budget. Positiv börsutveckling påverkade kapitalförvaltningen positivt och skatteintäkterna utvecklades bättre än förväntat.\n\nInvesteringar i kommunal verksamhet uppgick till 821 miljoner kronor, vilket är 483 miljoner lägre än budgeterat. Balanskravet samt tre av fyra finansiella mål uppnåddes. Av 19 verksamhetsmål uppnåddes 8. Av 49 uppdrag var 16 slutförda, 32 påbörjade men ej fullt genomförda, och ett påbörjat aldrig.\n\nKommunen reserverade 20 miljoner kronor för resultatutjämningsreserven och minskade markeringen för intraprenad-över- och underskott med 14,2 miljoner kronor. Årsredovisningen ska vidare till revisorerna för granskning och till Kommunfullmäktige för final godkännande.\n\nÖrebropartiet reserverade sig mot besluten. Vänsterpartiet reserverade sig mot reserveringsbeslutet.",
+          "category": "budget",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 73",
+          "quote": "Örebro kommun, trots det osäkra världsläget och ekonomiska läget, har en stabil ekonomi. Kommunen som helhet bedöms därför fortsatt ha god ekonomisk hushållning.",
+          "quote_page": "s. 5",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C"
+            ],
+            "against": [],
+            "abstained": [
+              "ÖrP",
+              "V"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "årsredovisning2023",
+            "ekonomi",
+            "stabilititet",
+            "investeringar",
+            "resultat"
+          ],
+          "id": "2024-04-09_ko_73",
+          "seo": {
+            "id": "2024-04-09_ko_73",
+            "seo_title": "Örebro kommun årsredovisning 2023 — stark ekonomi",
+            "seo_description": "Örebro kommun visar god ekonomisk hushållning med resultat på 570 miljoner kronor. Investeringar på 821 miljoner kronor trots global osäkerhet.",
+            "search_keywords": [
+              "örebro kommun ekonomi 2023",
+              "årsredovisning örebro",
+              "kommun resultat",
+              "örebro budget",
+              "kommunekonomin"
+            ],
+            "social_title": "Örebro kommun i stark ekonomisk form — 570 miljoner kronor resultat",
+            "social_description": "Årsredovisningen 2023 visar att Örebro kommun håller god ekonomisk hushållning. Resultatet blev 286 miljoner högre än budgeterat, vilket möjliggör fortsatta investeringar i välfärd och infrastruktur."
+          }
+        },
+        {
+          "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
+          "summary": "Kommunstyrelsen beviljade tilläggsanslag på 127,6 miljoner kronor för årlig indexuppräkning och andra kostnadsökningar i 2024 års budget. Ombudgeteringar mellan nämnder genomfördes enligt ny nämndstruktur från 2023.",
+          "detail": "Tilläggsanslagen avsåg framför allt kompensation för årlig indexuppräkning av kostnader. Ombudgeteringen berörde flytt av medel mellan nämnder enligt den ramfördelning som gjordes till ny nämndstruktur för 2023.\n\nFinansieringen kom från Kommunstyrelsens utrymme för generella kostnadsökningar och för oförutsedda behov.\n\nÖrebropartiet reserverade sig mot beslutet med stöd av sitt eget budgetförslag. Vänsterpartiet deltog inte i beslutet.",
+          "category": "budget",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 72",
+          "quote": "Tilläggsanslag beviljas med totalt 127 568 tkr enligt Kommunledningsförvaltningens förslag.",
+          "quote_page": "s. 3",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD"
+            ],
+            "against": [
+              "ÖrP"
+            ],
+            "abstained": [
+              "V"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "budget",
+            "indexuppräkning",
+            "kostnadsökningar",
+            "nämndstruktur"
+          ],
+          "id": "2024-04-09_ko_72",
+          "seo": {
+            "id": "2024-04-09_ko_72",
+            "seo_title": "Örebro kommun beviljar 127,6 miljoner kronor tilläggsanslag 2024",
+            "seo_description": "Kommunstyrelsen beviljar tilläggsanslag på 127,6 miljoner kronor för indexuppräkning och kostnadsökningar i Örebro kommuns budget för 2024.",
+            "search_keywords": [
+              "örebro budget 2024",
+              "kommunbudget örebro",
+              "tilläggsanslag",
+              "kostnadsökning kommune",
+              "indexuppräkning"
+            ],
+            "social_title": "Örebro tilldelar 127,6 miljoner kronor för kostnadsökning 2024",
+            "social_description": "För att möta prisstegringar och indexuppräkning tilldelar Örebro kommun ett tilläggsanslag på 127,6 miljoner kronor. Väsentligt för att upprätthålla dagens servicenivå."
+          }
+        },
+        {
+          "headline": "Avskrivning av osäkra fordringar på 3,7 miljoner kronor",
+          "summary": "Kommunstyrelsen skriver av fordringar på 3,7 miljoner kronor för året 2023 enligt god redovisningssed, då dessa inte längre bedöms säkra. Kommunens krav mot enskilda kvarstår och hålls under bevakning via inkassobolag.",
+          "detail": "Avskrivningen omfattade utestående kundfordringar från fakturor med förfallodag t.o.m. 2023-12-31. Totalt belopp var 3 721 015 kronor inklusive moms, fördelat på:\n\n- Finansförvaltningen: 802 320 kronor\n- Kommunledningsförvaltningen: 289 852 kronor\n- Lokalförsörjningsavdelningen: 2 628 842 kronor\n\nAvskrivningen gjordes inför delårsbokslut för första året 2024 på grund av att kommunen byter ekonomimodell och uppdaterar ekonomisystemet i april 2024.\n\nAvskrivning registreras i bokföringen, men kommunens krav på den enskilde består. Efter beslut avregistreras fakturor för fortsatt bevakning via inkassobolag.",
+          "category": "budget",
+          "contested": false,
+          "location": null,
+          "paragraph_ref": "§ 71",
+          "quote": "Fakturor till ett sammanlagt belopp om 3 721 015:35 kronor skrivs av på grund av att fordran inte längre kan anses som säker enligt kommunens redovisningsriktlinjer.",
+          "quote_page": "s. 2",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "ÖrP",
+              "V"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Enhalligt"
+          },
+          "tags": [
+            "bokföring",
+            "fordringar",
+            "avskrivning",
+            "redovisning"
+          ],
+          "id": "2024-04-09_ko_71",
+          "seo": {
+            "id": "2024-04-09_ko_71",
+            "seo_title": "Örebro kommun skriver av 3,7 miljoner kronor osäkra fordringar",
+            "seo_description": "Kommunstyrelsen skriver av fordringar på 3,7 miljoner kronor för 2023 enligt god redovisningssed. Kommunens krav hålls under bevakning via inkassobolag.",
+            "search_keywords": [
+              "örebro kommun fordringar",
+              "avskrivning kommun",
+              "kommun ekonomi",
+              "örebro redovisning"
+            ],
+            "social_title": "Örebro kommun avskriver osäkra fordringar på 3,7 miljoner",
+            "social_description": "Enligt god redovisningssed skriver Örebro kommun av fordringar på 3,7 miljoner kronor. Kommunens krav mot enskilda hålls fortfarande under bevakning."
+          }
+        },
+        {
+          "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
+          "summary": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
+          "detail": "Region Örebro Län avser att lämna kontorslokaler vid Eklundavägen 2025 och avyttra fastigheterna. Örebroporten erbjudits möjlighet att förvärva samtliga sex fastigheter för att få rådighet över Eyrafältet-utvecklingen.\n\nInvesteringsbelopp: 140 miljoner kronor för RÖL:s fastigheter, 14 miljoner kronor för Länsgårdens fastighet. Möjliga saneringskostnader cirka 19 miljoner kronor delas mellan säljare och köpare.\n\nTillträde planeras 1 april 2025 (RÖL) och 2 december 2024 (Länsgården). Fastigheterna som inte behövs för utvecklingen kan senare erbjudas till marknaden eller andra aktörer inom kommunkoncernen.\n\nÖrebropartiet reserverade sig mot beslutet. Vänsterpartiet och Liberalerna lämnade särskilda yttranden för att säkerställa marknadsmässiga villkor.",
+          "category": "infrastruktur",
+          "contested": true,
+          "location": "Eyrafältet, Eklundavägen",
+          "paragraph_ref": "§ 76",
+          "quote": "Genom att förvärva de aktuella fastigheterna får Örebroporten och kommunen rådighet över framtida utveckling av Eyrafältet.",
+          "quote_page": "s. 12",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "V",
+              "KD"
+            ],
+            "against": [
+              "ÖrP"
+            ],
+            "abstained": [],
+            "result": "Bifall"
+          },
+          "tags": [
+            "Eyrafältet",
+            "elitidrottsområde",
+            "infrastruktur",
+            "investeringar",
+            "fastighetsförvärv"
+          ],
+          "id": "2024-04-09_ko_76",
+          "seo": {
+            "id": "2024-04-09_ko_76",
+            "seo_title": "Örebroporten förvärvar fastigheter — elitidrottscentrum Eyrafältet",
+            "seo_description": "Örebroporten Fastigheter AB förvärvar sex fastigheter vid Eklundavägen för 154 miljoner kronor. Utveckling av elitidrottsområdet på Eyrafältet i Örebro.",
+            "search_keywords": [
+              "örebroporten fastigheter",
+              "elitidrottscenter örebro",
+              "eyrafältet utveckling",
+              "örebro idrottsanläggning",
+              "eklundavägen"
+            ],
+            "social_title": "Örebro bygger elitidrottscenter — 154 miljoner investering",
+            "social_description": "Örebroporten investerar i sex nya fastigheter vid Eklundavägen för att utveckla ett modernt elitidrottscentrum på Eyrafältet. En stor satsning för Örebros idrott!"
+          }
+        },
+        {
+          "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+          "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
+          "detail": "Kumbro Vind AB ägs till 100% av Kumbro Utveckling AB (80% Örebro kommun via Örebro Rådhus, 20% Kumla kommun). ÖLF ägs av Region Örebro läns förvaltning (44,95%), Örebro Rådhus AB (44,95%), Kumla kommun (5,05%) och Karlskoga kommun (5,05%).\n\nKumbro Vind och ÖLF bedömer att det vore fördelaktigt att ÖLF fortsättningsvis upphandlar elkraft från Kumbro Vind. Kumbro Vind har tillräcklig produktionskapacitet.\n\nFör att möjliggöra detta föreslogs ändringar i Kumbro Vinds bolagsordning för att säkerställa att ÖLF – tillsammans med Örebro kommun, Kumla kommun och Futurum – får avgörande inflytande över Kumbro Vinds strategiska mål.\n\nBeslutet förutsatte godkännande från Kumla kommun, Region Örebro län och Karlskoga kommun.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag. Vänsterpartiet yrkade på att starta utredning om att sälja/lägga ner ÖLF, vilket avslogs.",
+          "category": "ovrigt",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 77",
+          "quote": "Kumbro Vind och ÖLF bedömer att det vore fördelaktigt att ÖLF fortsättningsvis upphandlar sin elkraft av Kumbro Vind.",
+          "quote_page": "s. 14",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C"
+            ],
+            "against": [
+              "L",
+              "ÖrP"
+            ],
+            "abstained": [
+              "V"
+            ],
+            "result": "Bifall"
+          },
+          "tags": [
+            "Kumbrovind",
+            "vindkraft",
+            "elförsörjning",
+            "aktieägare",
+            "flygplats"
+          ],
+          "id": "2024-04-09_ko_77",
+          "seo": {
+            "id": "2024-04-09_ko_77",
+            "seo_title": "Kumbro Vind får nya ägare — vindkraft för Örebro",
+            "seo_description": "Örebro läns Flygplats AB och Futurum Fastigheter blir aktieägare i Kumbro Vind AB. Syftet är säkerställa elförsörjning från vindkraft för Örebro.",
+            "search_keywords": [
+              "kumbro vind örebro",
+              "vindkraft örebro",
+              "förnybar energi örebro",
+              "elförsörjning",
+              "örebro energi"
+            ],
+            "social_title": "Örebro satsar på vindkraft — Kumbro Vind får nya ägare",
+            "social_description": "ÖLF och Futurum Fastigheter blir nya aktieägare i Kumbro Vind. En viktig investering för att säkerställa förnybar energi och el från vindkraft till Örebro."
+          }
+        },
+        {
+          "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
+          "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+          "detail": "Efter organisationsomvandlingen i januari 2023 fanns styrdokument som var antagna av nämnder som upphört. Respektive nämnd behövde överta ägandeskapet för relevant styrdokument.\n\nKommunstyrelsen tog över ägarskapet för:\n- Parkeringsriktlinjer för Örebro kommun (Sam 113/2013)\n- Cykelparkering – Riktlinjer för Örebro kommun (Sam 10/2016)\n- Strategi för arkitektur och byggande i Örebro kommun (Sam 195/2016)\n- Strategi för utveckling av kulturreservatet Karlslund (Sam 429/2019)\n- Riktlinjer för friyta i förskola och skola (Sam 264/2019)\n- Strategi för utveckling av Hjälmaren som rekreationsområde (Sam 1143/2020)\n- Uteserveringar i Örebro – Kvalitetskrav och riktlinjer (Sam 1072/2017)\n\nAvslutade dokument var bland annat gångstrategi, handlingsplan för parkering, dagvattenstrategi och kollektivtrafikprogram.",
+          "category": "regler",
+          "contested": false,
+          "location": null,
+          "paragraph_ref": "§ 83",
+          "quote": "Respektive nämnd behöver överta ägandeskapet för styrdokument som antagits av programnämnden och som rör nämndens verksamhet i den nya organisationen.",
+          "quote_page": "s. 17",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "ÖrP",
+              "V"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Enhalligt"
+          },
+          "tags": [
+            "styrdokument",
+            "parkeringsriktlinjer",
+            "cykelparkering",
+            "uteserveringar",
+            "riktlinjer"
+          ],
+          "id": "2024-04-09_ko_83",
+          "seo": {
+            "id": "2024-04-09_ko_83",
+            "seo_title": "Örebro uppdaterar styrdokument för stad och trafik",
+            "seo_description": "Kommunstyrelsen övertar sju styrdokument om parkering, cykelparkeringar och uteserveringar. Tretton inaktuella dokument avslutades för modernare riktlinjer.",
+            "search_keywords": [
+              "örebro cykelparkeringar",
+              "parkeringspolicy örebro",
+              "uteserveringar örebro",
+              "stadsutveckling",
+              "örebro planering"
+            ],
+            "social_title": "Nya regler för cykelparkering och uteserveringar i Örebro",
+            "social_description": "Kommunstyrelsen uppdaterar reglerna för cykelparkeringar, parkering och uteserveringar. Modernare styrdokument för en bättre stad för alla."
+          }
+        },
+        {
+          "headline": "Delegation för Kronofogdens delgivning läggs till i delegationsordning",
+          "summary": "Kommunstyrelsen lade till en delegation för mottagande av delgivningar från Kronofogden i Kommunstyrelsens delegationsordning. Motsvarande delegation skulle även läggas till i nämndernas delegationsordningar.",
+          "detail": "Det uppmärksammades att en delegation för att ta emot delgivningar från Kronofogden saknades för nämnderna och styrelsen i Örebro kommun. Detta behövde läggas till för att säkerställa korrekt hantering av juridiska delgivningar.",
+          "category": "regler",
+          "contested": false,
+          "location": null,
+          "paragraph_ref": "§ 84",
+          "quote": "Det har uppmärksammats att en delegation för att ta emot delgivningar från Kronofogden saknas för nämnderna och styrelsen i Örebro kommun.",
+          "quote_page": "s. 19",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD",
+              "ÖrP",
+              "V"
+            ],
+            "against": [],
+            "abstained": [],
+            "result": "Enhalligt"
+          },
+          "tags": [
+            "delegationsordning",
+            "kronofogden",
+            "juridik"
+          ],
+          "id": "2024-04-09_ko_84",
+          "seo": {
+            "id": "2024-04-09_ko_84",
+            "seo_title": "Örebro kommun uppdaterar delegationsordning för Kronofogden",
+            "seo_description": "Kommunstyrelsen lägger till delegation för delgivningar från Kronofogden i delegationsordningen för effektivare handläggning.",
+            "search_keywords": [
+              "örebro delegation",
+              "kronofogden",
+              "kommunledning",
+              "administrativa riktlinjer"
+            ],
+            "social_title": "Örebro kommun effektiviserar hantering av Kronofogdens delgivningar",
+            "social_description": "En praktisk uppdatering av kommunens delegationsordning för snabbare och effektivare hantering av delgivningar från Kronofogden."
+          }
+        },
+        {
+          "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan avslogs",
+          "summary": "Kommunstyrelsen avslög ledamotsinitiativet från Helena Ståhl (SD) och Bo Ammer (SD) om att tillsätta en haverikommission för att granska Arenaskolan. Kommunstyrelsen konstaterade att tillsynen av friskolor är ett statligt ansvar under Skolinspektionen.",
+          "detail": "Helena Ståhl och Bo Ammer yrkade på tillsättning av haverikommission för att utreda vad som hänt på Arenaskolan, hur verksamheten kunnat fortgå trots tidigare stängning, och vad som ska göras för att förhindra detta igen.\n\nKommunledningen avslöj initiativet med motiveringen att utredning av friskolors verksamheter ligger utanför Kommunstyrelsens ansvarsområde. Friskolorna är ett statligt ansvar och tillsynen sorteras under Skolinspektionen.\n\nMarkus Allard (ÖrP) yrkade bifall till ledamotsinitiativet men överröstades.",
+          "category": "politik",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 86",
+          "quote": "Att utreda friskolors verksamheter ligger inte inom Kommunstyrelsens ansvarsområde. Friskolorna är ett statligt ansvar och tillsynen av friskoleverksamheterna sorteras under Skolinspektionen.",
+          "quote_page": "s. 20",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L",
+              "KD"
+            ],
+            "against": [
+              "ÖrP"
+            ],
+            "abstained": [],
+            "result": "Avslag"
+          },
+          "tags": [
+            "Arenaskolan",
+            "friskolor",
+            "tillsyn",
+            "Skolinspektionen"
+          ],
+          "id": "2024-04-09_ko_86",
+          "seo": {
+            "id": "2024-04-09_ko_86",
+            "seo_title": "Örebro kommun avslår haverikommission för Arenaskolan",
+            "seo_description": "Kommunstyrelsen avslår initiativ om haverikommission för Arenaskolan. Skolinspektionen är statlig tillsynsmyndighet för friskolorna.",
+            "search_keywords": [
+              "arenaskolan örebro",
+              "arenaskolan problem",
+              "friskoler örebro",
+              "örebro skolor",
+              "skolinspektionen"
+            ],
+            "social_title": "Kommunstyrelsen avslår haverikommission för Arenaskolan",
+            "social_description": "SD:s initiativ om haverikommission för Arenaskolan avslogs. Kommunstyrelsen konstaterar att Skolinspektionen är ansvarig för tillsynen av friskolorna."
+          }
+        },
+        {
+          "headline": "KD-initiativ om regelbundna dragningar om strategi bedömdes besvarat",
+          "summary": "Kommunstyrelsen bedömde ledamotsinitiativet från Anna Andersson (KD) om regelbundna dragningar om viktiga strategiområden som besvarat. Kommunledningen föreslogs diskutera utskottledamöternas möjlighet att sammanfatta diskussioner under Kommunstyrelsens beredningssammanträden.",
+          "detail": "Anna Andersson (KD) yrkade på regelbundna kort dragningar om: Utsatta områden, kompetensförsörjning, digital utveckling och AI, samt hållbarhetsmål.\n\nMotiveringen var att endast delar av oppositionen är representerad i Kommunstyrelsens utskott för personal, trygghet och hållbarhet, varför hela styrelsen behöver uppdateringar om dessa områden.\n\nKommunledningen bedömde att en möjlig lösning var att låta utskottsledamöter sammanfatta utskottens diskussioner under Kommunstyrelsens beredningssammanträden.\n\nSusanne Lindholm Henningsson (KD) reserverade sig mot beslutet att betrakta initiativet som besvarat.",
+          "category": "politik",
+          "contested": true,
+          "location": null,
+          "paragraph_ref": "§ 87",
+          "quote": "Kommunledningen tar med sig frågan för att diskutera och fundera på en eventuell struktur för att se hur arbetet ska gå till.",
+          "quote_page": "s. 22",
+          "voting": {
+            "for": [
+              "S",
+              "M",
+              "C",
+              "L"
+            ],
+            "against": [],
+            "abstained": [
+              "KD"
+            ],
+            "result": "Avslag"
+          },
+          "tags": [
+            "ledamotsinitiativ",
+            "strategi",
+            "dragning",
+            "kommunstyrelsen"
+          ],
+          "id": "2024-04-09_ko_87",
+          "seo": {
+            "id": "2024-04-09_ko_87",
+            "seo_title": "Örebro kommun bedömer KD-initiativ om strategi besvarat",
+            "seo_description": "Kommunstyrelsen bedömer initiativet om regelbundna diskussioner om strategiområden som besvarat. Förslag om bättre sammanfattningar av beredningssammanträden.",
+            "search_keywords": [
+              "örebro kommunstyrelse strategi",
+              "kommune beslut",
+              "ledamotsinitiativ",
+              "kommunstyrelsen"
+            ],
+            "social_title": "Örebro förbättrar strategidiskussioner i kommunstyrelsen",
+            "social_description": "Kommunstyrelsen tar till sig förslaget om regelbundna diskussioner kring viktiga strategiområden. Syftet är bättre sammanfattningar av beredningssammanträden."
+          }
+        }
+      ],
+      "motions_of_interest": [
+        {
+          "title": "Redovisa hela lönekostnaden för anställda i Örebro kommun",
+          "party": "SD",
+          "status": "Remitterad - Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Redovisning och modell för integrationssatsningar",
+          "party": "SD",
+          "status": "Remitterad - Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Öppna för seniorer att äta lunch i skolmatsalar",
+          "party": "KD",
+          "status": "Remitterad - Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Skapa magi genom att läsa tillsammans",
+          "party": "L",
+          "status": "Remitterad - Till Grundskolenämnden"
+        },
+        {
+          "title": "Handlingsplan för suicidprevention",
+          "party": "L",
+          "status": "Remitterad - Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Få bukt med oseriösa aktörer i välfärden",
+          "party": "V",
+          "status": "Remitterad - Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Välfärd i kommunal regi",
+          "party": "V",
+          "status": "Remitterad - Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Återbruk i alla led",
+          "party": "V",
+          "status": "Remitterad - Bereds av Kommunstyrelsen"
+        },
+        {
+          "title": "Stänga förskolan Igelkotten",
+          "party": "ÖrP",
+          "status": "Remitterad - Till Förskolenämnden"
+        }
+      ]
     }
   ]
 }

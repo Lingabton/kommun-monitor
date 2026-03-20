@@ -5,10 +5,10 @@
   "text_color": "#333",
   "position": "Opposition",
   "ideology": "Socialkonservatism",
-  "votes_for": 4,
+  "votes_for": 8,
   "votes_against": 5,
-  "votes_abstained": 1,
-  "total_votes": 10,
+  "votes_abstained": 5,
+  "total_votes": 18,
   "contested_votes": [
     {
       "id": "2025-12-10_ko_390_391",
@@ -37,14 +37,45 @@
     }
   ],
   "key_issues": {
-    "regler": 1,
-    "ovrigt": 1,
+    "regler": 2,
+    "ovrigt": 3,
     "kultur": 2,
     "politik": 2,
+    "bygg": 1,
     "skola": 1,
     "budget": 2
   },
   "motions_filed": [
+    {
+      "title": "Inkludera områden för kärnkraft (SMR) i Översiktsplanen (SD)",
+      "status": "Avslagen",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Egenskapade raster för bön på arbetstid ska upphöra (SD)",
+      "status": "Avslagen (alla tre förslag)",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Säkerställ att föreningsbidragen gynnar örebroarna (SD)",
+      "status": "Remitterad till Kultur- och fritidsnämnden",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Ställ krav på invandrare (SD)",
+      "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Krafttag för säkerhet och trygghet i skolan (SD)",
+      "status": "Remitterad till Förskolenämnden, Grundskolenämnden och Gymnasie- och arbetsmarknadsnämnden",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Svensk husmanskost ska vara standard i skolan och äldreomsorgen (SD)",
+      "status": "Remitterad till Teknik- och servicenämnden",
+      "date": "2025-10-14"
+    },
     {
       "title": "Helena Ståhl (SD) och Habib Brini (SD) om ekonomiska fallskärmar",
       "status": "Remitterad till Kommunstyrelsen för svar",
@@ -64,33 +95,51 @@
       "title": "Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i Översiktsplanen",
       "status": "Remitterad till Markplanerings- och exploateringsnämnden",
       "date": "2025-02-11"
+    },
+    {
+      "title": "Redovisa hela lönekostnaden för anställda i Örebro kommun",
+      "status": "Remitterad - Bereds av Kommunstyrelsen",
+      "date": "2024-04-09"
+    },
+    {
+      "title": "Redovisning och modell för integrationssatsningar",
+      "status": "Remitterad - Bereds av Kommunstyrelsen",
+      "date": "2024-04-09"
     }
   ],
   "agreement_with": {
-    "C": 3,
-    "KD": 6,
-    "L": 5,
-    "M": 3,
-    "S": 3,
-    "V": 5,
+    "V": 9,
+    "M": 7,
+    "C": 7,
+    "L": 9,
+    "KD": 10,
+    "S": 7,
     "ÖrP": 4,
-    "MP": 2
+    "MP": 5
   },
   "disagreement_with": {
     "C": 6,
-    "M": 6,
     "S": 6,
+    "M": 6,
+    "V": 3,
     "MP": 3,
     "L": 4,
-    "V": 3,
     "KD": 1,
     "ÖrP": 2
   },
-  "for_pct": 40,
-  "against_pct": 50,
-  "abstained_pct": 10,
-  "activity_score": 90,
+  "for_pct": 44,
+  "against_pct": 28,
+  "abstained_pct": 28,
+  "activity_score": 100,
   "top_categories": [
+    [
+      "ovrigt",
+      3
+    ],
+    [
+      "regler",
+      2
+    ],
     [
       "kultur",
       2
@@ -102,28 +151,20 @@
     [
       "budget",
       2
-    ],
-    [
-      "regler",
-      1
-    ],
-    [
-      "ovrigt",
-      1
     ]
   ],
   "top_allies": [
     [
       "KD",
-      6
-    ],
-    [
-      "L",
-      5
+      10
     ],
     [
       "V",
-      5
+      9
+    ],
+    [
+      "L",
+      9
     ]
   ],
   "top_opponents": [
@@ -132,11 +173,11 @@
       6
     ],
     [
-      "M",
+      "S",
       6
     ],
     [
-      "S",
+      "M",
       6
     ]
   ],

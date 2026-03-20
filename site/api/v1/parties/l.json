@@ -4,10 +4,10 @@
   "color": "#006ab3",
   "position": "Opposition",
   "ideology": "Socialliberalism",
-  "votes_for": 8,
-  "votes_against": 3,
-  "votes_abstained": 0,
-  "total_votes": 11,
+  "votes_for": 22,
+  "votes_against": 4,
+  "votes_abstained": 5,
+  "total_votes": 31,
   "contested_votes": [
     {
       "id": "2025-12-10_ko_390_391",
@@ -23,15 +23,22 @@
       "id": "2025-08-27_ko_221",
       "headline": "Motion om mindre barngrupper i förskolan avslogs",
       "date": "2025-08-27"
+    },
+    {
+      "id": "2024-04-09_ko_77",
+      "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+      "date": "2024-04-09"
     }
   ],
   "key_issues": {
-    "regler": 1,
-    "ovrigt": 1,
+    "regler": 4,
+    "ovrigt": 5,
     "kultur": 2,
-    "politik": 3,
+    "politik": 5,
+    "budget": 6,
+    "bygg": 1,
     "skola": 1,
-    "budget": 3
+    "infrastruktur": 2
   },
   "motions_filed": [
     {
@@ -40,82 +47,97 @@
       "date": "2025-12-10"
     },
     {
+      "title": "Förbättring av färdtjänsten genom att säga upp avtalet med Region Örebro Län (L)",
+      "status": "Avslagen - ansågs besvarad",
+      "date": "2025-10-14"
+    },
+    {
       "title": "Utmaningsrätt bygg- och driftverksamheten",
       "status": "Delvis tillgodosedd",
       "date": "2025-08-27"
+    },
+    {
+      "title": "Skapa magi genom att läsa tillsammans",
+      "status": "Remitterad - Till Grundskolenämnden",
+      "date": "2024-04-09"
+    },
+    {
+      "title": "Handlingsplan för suicidprevention",
+      "status": "Remitterad - Bereds av Kommunstyrelsen",
+      "date": "2024-04-09"
     }
   ],
   "agreement_with": {
-    "C": 9,
-    "KD": 8,
-    "M": 9,
-    "S": 9,
-    "SD": 5,
-    "V": 6,
-    "ÖrP": 2,
-    "MP": 5
+    "V": 15,
+    "M": 23,
+    "C": 23,
+    "KD": 21,
+    "S": 23,
+    "SD": 9,
+    "ÖrP": 6,
+    "MP": 10
   },
   "disagreement_with": {
-    "C": 2,
-    "M": 2,
-    "S": 2,
+    "C": 3,
+    "S": 3,
+    "M": 3,
     "SD": 4,
     "V": 3,
-    "ÖrP": 5,
-    "MP": 1,
-    "KD": 1
+    "ÖrP": 9,
+    "KD": 1,
+    "MP": 1
   },
-  "for_pct": 73,
-  "against_pct": 27,
-  "abstained_pct": 0,
-  "activity_score": 75,
+  "for_pct": 71,
+  "against_pct": 13,
+  "abstained_pct": 16,
+  "activity_score": 100,
   "top_categories": [
     [
-      "politik",
-      3
+      "budget",
+      6
     ],
     [
-      "budget",
-      3
+      "ovrigt",
+      5
+    ],
+    [
+      "politik",
+      5
+    ],
+    [
+      "regler",
+      4
     ],
     [
       "kultur",
       2
-    ],
-    [
-      "regler",
-      1
-    ],
-    [
-      "ovrigt",
-      1
     ]
   ],
   "top_allies": [
     [
-      "C",
-      9
+      "M",
+      23
     ],
     [
-      "M",
-      9
+      "C",
+      23
     ],
     [
       "S",
-      9
+      23
     ]
   ],
   "top_opponents": [
     [
       "ÖrP",
-      5
+      9
     ],
     [
       "SD",
       4
     ],
     [
-      "V",
+      "C",
       3
     ]
   ],

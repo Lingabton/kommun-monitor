@@ -4,10 +4,10 @@
   "color": "#e8112d",
   "position": "Majoritet",
   "ideology": "Socialdemokrati",
-  "votes_for": 18,
+  "votes_for": 39,
   "votes_against": 1,
   "votes_abstained": 0,
-  "total_votes": 19,
+  "total_votes": 40,
   "contested_votes": [
     {
       "id": "2025-08-27_ko_221",
@@ -16,77 +16,80 @@
     }
   ],
   "key_issues": {
-    "regler": 3,
-    "ovrigt": 1,
+    "regler": 8,
+    "ovrigt": 5,
     "kultur": 2,
-    "politik": 3,
-    "budget": 5,
+    "politik": 5,
+    "budget": 11,
+    "bygg": 1,
+    "infrastruktur": 3,
     "skola": 3,
     "miljo": 1,
     "trygghet": 1
   },
   "motions_filed": [],
   "agreement_with": {
-    "C": 19,
-    "KD": 7,
-    "L": 9,
-    "M": 19,
-    "SD": 3,
-    "V": 7,
-    "MP": 4
+    "V": 17,
+    "M": 40,
+    "C": 40,
+    "L": 23,
+    "KD": 23,
+    "SD": 7,
+    "MP": 11,
+    "ÖrP": 3
   },
   "disagreement_with": {
-    "SD": 6,
-    "ÖrP": 9,
+    "ÖrP": 14,
+    "L": 3,
     "KD": 4,
-    "L": 2,
+    "SD": 6,
     "MP": 2,
     "V": 3
   },
-  "for_pct": 95,
-  "against_pct": 5,
+  "for_pct": 98,
+  "against_pct": 2,
   "abstained_pct": 0,
-  "activity_score": 95,
+  "activity_score": 100,
   "top_categories": [
     [
       "budget",
-      5
+      11
     ],
     [
       "regler",
-      3
+      8
+    ],
+    [
+      "ovrigt",
+      5
     ],
     [
       "politik",
-      3
+      5
     ],
     [
-      "skola",
+      "infrastruktur",
       3
-    ],
-    [
-      "kultur",
-      2
     ]
   ],
   "top_allies": [
     [
-      "C",
-      19
+      "M",
+      40
     ],
     [
-      "M",
-      19
+      "C",
+      40
     ],
     [
       "L",
-      9
+      23
     ]
   ],
   "top_opponents": [
     [
       "ÖrP",
-      9
+      14
     ],
     [
       "SD",

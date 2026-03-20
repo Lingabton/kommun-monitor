@@ -1,5 +1,5 @@
 {
-  "count": 20,
+  "count": 41,
   "decisions": [
     {
       "id": "2025-12-10_ko_388",
@@ -140,6 +140,207 @@
       "location": null,
       "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json",
       "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/"
+    },
+    {
+      "id": "2025-10-14_ko_194",
+      "headline": "Tilläggsanslag på 12,5 miljarder för kostnadsökningar godkänt",
+      "summary": "Kommunstyrelsen beviljade 12 495 tkr i tilläggsanslag för 2025 för tillfälliga satsningar och färdigställda lokalförsörjningsobjekt. SD ville ta bort 200 tkr för klimatkommunikation men förlorade omröstningen.",
+      "category": "budget",
+      "contested": true,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "kostnadsökning",
+        "investering",
+        "klimatstrategi"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_194.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_194/"
+    },
+    {
+      "id": "2025-10-14_ko_196",
+      "headline": "Negativ budgetavvikelse 210 mnkr – nämnderna får åtgärdskrav",
+      "summary": "Kommunens helårsprognos visar 257 mnkr resultat mot budgeterat 467 mnkr – en negativ budgetavvikelse på 210 mnkr. Nämnderna måste vidta konkretiserade åtgärder för att säkra långsiktigt hållbar ekonomi.",
+      "category": "budget",
+      "contested": true,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "ekonomi",
+        "budget",
+        "prognosprognos",
+        "sparåtgärder"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_196.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_196/"
+    },
+    {
+      "id": "2025-10-14_ko_197",
+      "headline": "Reviderat investeringsprogram 2025: 1 359 mnkr totalt",
+      "summary": "Kommunstyrelsen godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr. Lokalförsörjningsdriftkostnader uppgår till 56,2 mnkr för året.",
+      "category": "budget",
+      "contested": true,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "investering",
+        "lokalförsörjning",
+        "infrastruktur",
+        "budget"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_197.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_197/"
+    },
+    {
+      "id": "2025-10-14_ko_199",
+      "headline": "Budget 2026 fastställd: nya taxor och avgifter från 1 januari",
+      "summary": "Kommunstyrelsen fastställde övergripande strategier och budget 2026 med plan för 2027–2029 inklusive nya taxor för avfall, vatten-avlopp, alkoholtillstånd och parkeringsavgifter.",
+      "category": "regler",
+      "contested": true,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "budget",
+        "taxor",
+        "avgifter",
+        "vatten",
+        "avfall",
+        "alkohol",
+        "parkering"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_199.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_199/"
+    },
+    {
+      "id": "2025-10-14_ko_198",
+      "headline": "Lokalförsörjningsplan 2027-2037: 37 lokalprojekt prioriterade",
+      "summary": "Kommunstyrelsen antog den kommunövergripande lokalförsörjningsplanen för 2027–2037 med 37 prioriterade lokalprojekt, varav 15 är pågående och 13 beräknas färdigställas under 2026.",
+      "category": "bygg",
+      "contested": false,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "lokalförsörjning",
+        "infrastruktur",
+        "investeringsplan",
+        "byggen"
+      ],
+      "location": "Örebro",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_198.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_198/"
+    },
+    {
+      "id": "2025-10-14_ko_206",
+      "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
+      "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "BRT",
+        "kollektivtrafik",
+        "infrastruktur",
+        "parkering",
+        "stadstrafik",
+        "resande"
+      ],
+      "location": "Örebro, Vivalla, Lundby, Mellringe, Tegnérlunden",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_206.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_206/"
+    },
+    {
+      "id": "2025-10-14_ko_200",
+      "headline": "Stockholm Business Alliance-medlemskap 2026-2030 förlängt",
+      "summary": "Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance (SBA) för perioden 2026-2030. Avgiften förblir oförändrad på 4 kr per invånare plus fast bidrag från Stockholm.",
+      "category": "ovrigt",
+      "contested": true,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "näringslivsutveckling",
+        "samarbete",
+        "stockholm",
+        "medlemskap"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_200.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_200/"
+    },
+    {
+      "id": "2025-10-14_ko_201",
+      "headline": "Revidering av delegationsordning för finansiella beslut",
+      "summary": "Kommunstyrelsen reviderade delegationsordningen för finansiella beslut, fastställde firmatecknare och delegerade finansiella befogenheter till tjänstemän.",
+      "category": "regler",
+      "contested": false,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "delegationsordning",
+        "finanser",
+        "firmatecknare",
+        "organisation"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_201.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_201/"
+    },
+    {
+      "id": "2025-10-14_ko_202",
+      "headline": "Nya revisorer valda för kommunens bolag",
+      "summary": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+      "category": "ovrigt",
+      "contested": false,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "revisor",
+        "bolagsstyrning",
+        "organisationell ändring"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_202.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_202/"
+    },
+    {
+      "id": "2025-10-14_ko_203",
+      "headline": "Smart Säker Stad-samverkansavtal undertecknat",
+      "summary": "Kommundirektören fick i uppdrag att ingå samverkansavtal för projektet Smart Säker Stad som syftar till att förbättra säkerhet, resiliens och kostnadseffektiva kommunikationslösningar genom digitalisering.",
+      "category": "ovrigt",
+      "contested": false,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "digitalisering",
+        "säkerhet",
+        "smart stad",
+        "samverkan"
+      ],
+      "location": "Örebro",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_203.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_203/"
+    },
+    {
+      "id": "2025-10-14_ko_211",
+      "headline": "Sammanträdestider för 2026 fastställda",
+      "summary": "Kommunstyrelsen fastställde sammanträdestider för 2026 för kommunstyrelsen, dess utskott och kommunfullmäktige. Liberalerna ville förhindra driftnämndsammanträden samma vecka som kommunfullmäktige men förlorade.",
+      "category": "regler",
+      "contested": true,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "möte",
+        "organisation",
+        "kommunstyrelsen",
+        "kommunfullmäktige"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_211.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_211/"
     },
     {
       "id": "2025-08-27_ko_221",
@@ -383,6 +584,191 @@
       "location": null,
       "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_39.json",
       "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_39/"
+    },
+    {
+      "id": "2024-04-09_ko_76",
+      "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
+      "summary": "Kommunstyrelsen godkände att Örebroporten Fastigheter AB förvärvar fyra fastigheter från Region Örebro Län för cirka 140 miljoner kronor, och Örebroporten Holding AB förvärvar en fastighet från Länsgården för cirka 14 miljoner kronor. Fastigheterna vid Eklundavägen kommer att användas för utveckling av elitidrottsområdet på Eyrafältet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "Eyrafältet",
+        "elitidrottscenter",
+        "fastighetsförvärv",
+        "infrastrukturinvestering",
+        "Eklundavägen",
+        "1540000"
+      ],
+      "location": "Eklundavägen, Eyrafältet",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_76.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/"
+    },
+    {
+      "id": "2024-04-09_ko_73",
+      "headline": "Årsredovisning 2023: Kommun visar god ekonomisk hushållning trots osäkerhet",
+      "summary": "Kommunstyrelsen godkände årsredovisningen för 2023. Örebro kommun hade ett resultat på 570 miljoner kronor (286 miljoner högre än budgeterat), samtidigt som investeringarna uppgick till 821 miljoner kronor. Fyra av sex mål för god ekonomisk hushållning uppnåddes.",
+      "category": "budget",
+      "contested": true,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "årsredovisning2023",
+        "ekonomi",
+        "stabilititet",
+        "investeringar",
+        "resultat"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_73.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_73/"
+    },
+    {
+      "id": "2024-04-09_ko_72",
+      "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
+      "summary": "Kommunstyrelsen beviljade tilläggsanslag på 127,6 miljoner kronor för årlig indexuppräkning och andra kostnadsökningar i 2024 års budget. Ombudgeteringar mellan nämnder genomfördes enligt ny nämndstruktur från 2023.",
+      "category": "budget",
+      "contested": true,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "budget",
+        "indexuppräkning",
+        "kostnadsökningar",
+        "nämndstruktur"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_72.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_72/"
+    },
+    {
+      "id": "2024-04-09_ko_71",
+      "headline": "Avskrivning av osäkra fordringar på 3,7 miljoner kronor",
+      "summary": "Kommunstyrelsen skriver av fordringar på 3,7 miljoner kronor för året 2023 enligt god redovisningssed, då dessa inte längre bedöms säkra. Kommunens krav mot enskilda kvarstår och hålls under bevakning via inkassobolag.",
+      "category": "budget",
+      "contested": false,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "bokföring",
+        "fordringar",
+        "avskrivning",
+        "redovisning"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_71.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_71/"
+    },
+    {
+      "id": "2024-04-09_ko_76",
+      "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
+      "summary": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
+      "category": "infrastruktur",
+      "contested": true,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "Eyrafältet",
+        "elitidrottsområde",
+        "infrastruktur",
+        "investeringar",
+        "fastighetsförvärv"
+      ],
+      "location": "Eyrafältet, Eklundavägen",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_76.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/"
+    },
+    {
+      "id": "2024-04-09_ko_77",
+      "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+      "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
+      "category": "ovrigt",
+      "contested": true,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "Kumbrovind",
+        "vindkraft",
+        "elförsörjning",
+        "aktieägare",
+        "flygplats"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_77.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_77/"
+    },
+    {
+      "id": "2024-04-09_ko_83",
+      "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
+      "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+      "category": "regler",
+      "contested": false,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "styrdokument",
+        "parkeringsriktlinjer",
+        "cykelparkering",
+        "uteserveringar",
+        "riktlinjer"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_83.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_83/"
+    },
+    {
+      "id": "2024-04-09_ko_84",
+      "headline": "Delegation för Kronofogdens delgivning läggs till i delegationsordning",
+      "summary": "Kommunstyrelsen lade till en delegation för mottagande av delgivningar från Kronofogden i Kommunstyrelsens delegationsordning. Motsvarande delegation skulle även läggas till i nämndernas delegationsordningar.",
+      "category": "regler",
+      "contested": false,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "delegationsordning",
+        "kronofogden",
+        "juridik"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_84.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_84/"
+    },
+    {
+      "id": "2024-04-09_ko_86",
+      "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan avslogs",
+      "summary": "Kommunstyrelsen avslög ledamotsinitiativet från Helena Ståhl (SD) och Bo Ammer (SD) om att tillsätta en haverikommission för att granska Arenaskolan. Kommunstyrelsen konstaterade att tillsynen av friskolor är ett statligt ansvar under Skolinspektionen.",
+      "category": "politik",
+      "contested": true,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "Arenaskolan",
+        "friskolor",
+        "tillsyn",
+        "Skolinspektionen"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_86.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_86/"
+    },
+    {
+      "id": "2024-04-09_ko_87",
+      "headline": "KD-initiativ om regelbundna dragningar om strategi bedömdes besvarat",
+      "summary": "Kommunstyrelsen bedömde ledamotsinitiativet från Anna Andersson (KD) om regelbundna dragningar om viktiga strategiområden som besvarat. Kommunledningen föreslogs diskutera utskottledamöternas möjlighet att sammanfatta diskussioner under Kommunstyrelsens beredningssammanträden.",
+      "category": "politik",
+      "contested": true,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "tags": [
+        "ledamotsinitiativ",
+        "strategi",
+        "dragning",
+        "kommunstyrelsen"
+      ],
+      "location": null,
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_87.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_87/"
     }
   ]
 }

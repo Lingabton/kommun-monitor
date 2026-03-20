@@ -1,0 +1,19 @@
+{
+  "id": "öster",
+  "name": "Öster",
+  "decisions": [
+    {
+      "id": "2025-10-14_ko_206",
+      "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
+      "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "infrastruktur",
+      "contested": true
+    }
+  ],
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/öster.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/öster/"
+  }
+}

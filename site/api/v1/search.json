@@ -1,6 +1,6 @@
 {
-  "count": 20,
-  "updated": "2026-03-20T06:50:24.468279+00:00",
+  "count": 41,
+  "updated": "2026-03-20T07:45:04.799749+00:00",
   "entries": [
     {
       "id": "2025-12-10_ko_388",
@@ -148,6 +148,218 @@
       "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json",
       "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/",
       "text": "ej verkställda biståndbeslut – tilläggsyrkande avslaget fullmäktige behandlade rapport om ej verkställda beslut enligt sol och lss under q2 2025. martha wicklund (v) yrkade att kommunledning fick uppdrag att ta fram förslag på bättre verkställande, men detta avslogs. för q2 2025 rapporterades ej verkställda biståndbeslut inom tre månader enligt följande: socialnämnden 26 beslut, funktionsstödsnämnden 59 beslut och vård- och omsorgsnämnden 26 beslut.\n\nmartha wicklund (v) yrkade ett tilläggsyrkande att kommunledningsförvaltningen skulle få i uppdrag att ta fram förslag på hur kommunen ska kunna verkställa gynnande beslut inom rimlig tid. susanne lindholm henningsson (kd) och markus allard (örp) stödde tilläggsyrkandet.\n\nfullmäktige avslogs dock tilläggsyrkandet. jessica ekerbring (s), gunhild wallin (c) och hossein azeri (m) yrkade bifall till ursprungligt förslag (att rapporterna läggs till handlingarna).\n\nmartha wicklund (v), markus allard (örp) och susanne lindholm henningsson (kd) reserverade sig mot beslutet. biståndbeslut sol lss verkställning socialtjänst försörjningsstöd"
+    },
+    {
+      "id": "2025-10-14_ko_194",
+      "headline": "Tilläggsanslag på 12,5 miljarder för kostnadsökningar godkänt",
+      "summary": "Kommunstyrelsen beviljade 12 495 tkr i tilläggsanslag för 2025 för tillfälliga satsningar och färdigställda lokalförsörjningsobjekt. SD ville ta bort 200 tkr för klimatkommunikation men förlorade omröstningen.",
+      "category": "budget",
+      "tags": [
+        "kostnadsökning",
+        "investering",
+        "klimatstrategi"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_194.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_194/",
+      "text": "tilläggsanslag på 12,5 miljarder för kostnadsökningar godkänt kommunstyrelsen beviljade 12 495 tkr i tilläggsanslag för 2025 för tillfälliga satsningar och färdigställda lokalförsörjningsobjekt. sd ville ta bort 200 tkr för klimatkommunikation men förlorade omröstningen. ärendet handlar om att finansiera kostnadsökningar och oförutsedda behov under budgetåret 2025. tilläggsanslaget finansieras ur kommunstyrelsens utrymme för oförutsedda behov samt från utrymmet för investeringskonsekvenser.\n\nhelena ståhl (sd) och david larsson (sd) motsatte sig ett specifikt tilläggsanslag på 200 tkr till klimatstrategins kommunikationsinsatser, men majoritetens förslag (s, m, c, l, kd och mp) vann. de två sd-ledamöterna reserverade sig mot beslutet. kostnadsökning investering klimatstrategi"
+    },
+    {
+      "id": "2025-10-14_ko_196",
+      "headline": "Negativ budgetavvikelse 210 mnkr – nämnderna får åtgärdskrav",
+      "summary": "Kommunens helårsprognos visar 257 mnkr resultat mot budgeterat 467 mnkr – en negativ budgetavvikelse på 210 mnkr. Nämnderna måste vidta konkretiserade åtgärder för att säkra långsiktigt hållbar ekonomi.",
+      "category": "budget",
+      "tags": [
+        "ekonomi",
+        "budget",
+        "prognosprognos",
+        "sparåtgärder"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_196.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_196/",
+      "text": "negativ budgetavvikelse 210 mnkr – nämnderna får åtgärdskrav kommunens helårsprognos visar 257 mnkr resultat mot budgeterat 467 mnkr – en negativ budgetavvikelse på 210 mnkr. nämnderna måste vidta konkretiserade åtgärder för att säkra långsiktigt hållbar ekonomi. delårsrapporten visar att kommunen inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året. endast 2 av 4 finansiella mål beräknas uppfyllas.\n\nprognosen visar att verksamhetens resultat är 78 mnkr lägre än budget, och finansverksamheten är 132 mnkr lägre. de nämnder som prognostiserar negativ avvikelse måste redovisa konkretiserade åtgärder senast i samband med årsredovisningen för 2025.\n\nmartha wicklund (v) och karolina wallström (l) motsatte sig beslutet och förlorade omröstningen. vänsterpartiet ville att nämnderna skulle få mer realistiska budgetramar istället för att krävas på sparåtgärder. l reserverade sig tillsammans med yngve alkman. ekonomi budget prognosprognos sparåtgärder"
+    },
+    {
+      "id": "2025-10-14_ko_197",
+      "headline": "Reviderat investeringsprogram 2025: 1 359 mnkr totalt",
+      "summary": "Kommunstyrelsen godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr. Lokalförsörjningsdriftkostnader uppgår till 56,2 mnkr för året.",
+      "category": "budget",
+      "tags": [
+        "investering",
+        "lokalförsörjning",
+        "infrastruktur",
+        "budget"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_197.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_197/",
+      "text": "reviderat investeringsprogram 2025: 1 359 mnkr totalt kommunstyrelsen godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr. lokalförsörjningsdriftkostnader uppgår till 56,2 mnkr för året. investeringsprogrammet reviderats från det ursprungliga beslut som togs i juni 2025. totalt investeras 1 359,2 mnkr, varav 780,6 mnkr är skattefinansierade och 578,6 mnkr taxefinansierade investeringar.\n\nde kommunövergripande lokalförsörjningsplanens driftkostnadskonsekvenser har ökat med 1,2 mnkr jämfört med beslutet om ösb 2025.\n\nkarolina wallström (l) och helena ståhl (sd) yrkat avslag till förmån för sina egna budgetförslag men förlorade. både l och sd reserverade sig tillsammans med sina ersättare mot beslutet. investering lokalförsörjning infrastruktur budget"
+    },
+    {
+      "id": "2025-10-14_ko_199",
+      "headline": "Budget 2026 fastställd: nya taxor och avgifter från 1 januari",
+      "summary": "Kommunstyrelsen fastställde övergripande strategier och budget 2026 med plan för 2027–2029 inklusive nya taxor för avfall, vatten-avlopp, alkoholtillstånd och parkeringsavgifter.",
+      "category": "regler",
+      "tags": [
+        "budget",
+        "taxor",
+        "avgifter",
+        "vatten",
+        "avfall",
+        "alkohol",
+        "parkering"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_199.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_199/",
+      "text": "budget 2026 fastställd: nya taxor och avgifter från 1 januari kommunstyrelsen fastställde övergripande strategier och budget 2026 med plan för 2027–2029 inklusive nya taxor för avfall, vatten-avlopp, alkoholtillstånd och parkeringsavgifter. beslutet omfattar tolv beslutspunkter:\n\n1. tilläggsbudget \"gemensamt ansvar för framtidens örebro\" fastställd\n2. reviderade driftbudgetramar för 2026 med plan för 2027–2029\n3. driftkostnadskonsekvenser från lokalförsörjningsplan beslutat\n4. reviderad investeringsplan för 2026 med plan för 2027–2029 fastställd\n5. avgifter för koncerninterna lån och borgen fastställd för 2026\n6. taxa för avfall från 1 januari 2026\n7. föreskrifter för avfall från 1 januari 2026\n8. taxa för vatten och avlopp från 1 januari 2026\n9. reviderad taxa enligt alkohollagen från 1 januari 2026\n10. revidering av markupplåtelseavgift från 1 januari 2026\n11. förlängd giltighetstid för generella dispenser från 6 månader till 1 år\n12. ny avgift för generella dispenser på 1 500 kr per tillstånd från 1 januari 2026\n\nflera partier lade egna budgetförslag (l, sd, v, kd) men majoritetens förslag (s, m, c och delar av opposition) vann. många reservationer lämnades. budget taxor avgifter vatten avfall alkohol parkering"
+    },
+    {
+      "id": "2025-10-14_ko_198",
+      "headline": "Lokalförsörjningsplan 2027-2037: 37 lokalprojekt prioriterade",
+      "summary": "Kommunstyrelsen antog den kommunövergripande lokalförsörjningsplanen för 2027–2037 med 37 prioriterade lokalprojekt, varav 15 är pågående och 13 beräknas färdigställas under 2026.",
+      "category": "bygg",
+      "tags": [
+        "lokalförsörjning",
+        "infrastruktur",
+        "investeringsplan",
+        "byggen"
+      ],
+      "location": "Örebro",
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_198.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_198/",
+      "text": "lokalförsörjningsplan 2027-2037: 37 lokalprojekt prioriterade kommunstyrelsen antog den kommunövergripande lokalförsörjningsplanen för 2027–2037 med 37 prioriterade lokalprojekt, varav 15 är pågående och 13 beräknas färdigställas under 2026. lokalförsörjningsplanen utgör underlag till investeringsprocessen och åskådliggör framtida lokalbehov. planen synliggör prioriterade lokalprojekt som kommunen avser att arbeta med inom prognosperioden 2027-2037.\n\nav de 37 projekten är 15 redan pågående. enligt planen kommer 13 projekt att vara färdigställda under 2026. en fullständig projektlista tillhör den kommunövergripande lokalförsörjningsplanen. örebro lokalförsörjning infrastruktur investeringsplan byggen"
+    },
+    {
+      "id": "2025-10-14_ko_206",
+      "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
+      "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "tags": [
+        "BRT",
+        "kollektivtrafik",
+        "infrastruktur",
+        "parkering",
+        "stadstrafik",
+        "resande"
+      ],
+      "location": "Örebro, Vivalla, Lundby, Mellringe, Tegnérlunden",
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_206.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_206/",
+      "text": "bus rapid transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat kommunstyrelsen godkände samarbetsavtal och genomförandeplan för brt etapp 2 med region örebro län. tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. l och sd reserverade sig mot beslutet. beslutet innebär att örebro kommun tillsammans med region örebro län fortsätter implementeringen av bus rapid transit enligt en genomförandeplan för etapp 2. projektet syftar till att skapa ett attraktivt och kapacitetsstarkt kollektivtrafiksystem.\n\nfärdigställelsen av etapp 1 beräknas under 2025. utvärderingen visar att resandet har ökat och prognosen pekar på en resandeökning på 18% för 2025 jämfört med 2023. restiden mellan örebro resecentrum och brickebacken har minskat med cirka 30% (cirka 8 minuter).\n\nmålet för det fullständiga brt-systemet är att öka resandet med 40% tre år efter färdigställandet av etapp 2 och att minska restiden med 30%.\n\ntilläggsyrkanden antogs:\n- kristdemokraterna yrkat och fick bifall för att särskilt beakta och i god förväg kommunicera förändringar till berörda näringsidkare och invånare\n- vänsterpartiet yrkat och fick bifall för att i arbetet med brt beakta frågan om pendlarparkeringar i anslutning till stråket\n- vänsterpartiet yrkat om prissänkning i stadstrafiken men detta avslogs\n\nkarolina wallström (l) och helena ståhl (sd) motsatte sig projektet helt, menade att det är kostsamt och försämrar framkomligheten. vänsterpartiet reserverade sig mot avslaget på prisfrågan. örebro, vivalla, lundby, mellringe, tegnérlunden brt kollektivtrafik infrastruktur parkering stadstrafik resande"
+    },
+    {
+      "id": "2025-10-14_ko_200",
+      "headline": "Stockholm Business Alliance-medlemskap 2026-2030 förlängt",
+      "summary": "Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance (SBA) för perioden 2026-2030. Avgiften förblir oförändrad på 4 kr per invånare plus fast bidrag från Stockholm.",
+      "category": "ovrigt",
+      "tags": [
+        "näringslivsutveckling",
+        "samarbete",
+        "stockholm",
+        "medlemskap"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_200.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_200/",
+      "text": "stockholm business alliance-medlemskap 2026-2030 förlängt kommunstyrelsen beslöt att förlänga medlemskapet i stockholm business alliance (sba) för perioden 2026-2030. avgiften förblir oförändrad på 4 kr per invånare plus fast bidrag från stockholm. örebro kommun har varit medlem i sba under lång tid. samarbetet omfattar 55 kommuner i storregionen stockholm mälardalen och fokuserar på näringslivsutveckling, nya investeringar, tillväxt i befintliga företag och förbättring av företagsklimatet.\n\nsba genomför årliga servicemätningar (nöjd kundindex) och örebro kommun deltar aktivt med flera förvaltningar. samarbetet stärker möjligheterna till nya etableringar, internationell exponering och regionalt investeringsarbete samt ger utvecklingsmöjligheter för personal.\n\nfinansiering sker inom befintlig budgetram för näringslivsavdelningen, kommunledningsförvaltningen.\n\nhelena ståhl (sd), david larsson (sd) och martha wicklund (v) reserverade sig mot beslutet. de motsatte sig medlemskapet med hänvisning till kostnader utan tydligt resultat för kommunen. näringslivsutveckling samarbete stockholm medlemskap"
+    },
+    {
+      "id": "2025-10-14_ko_201",
+      "headline": "Revidering av delegationsordning för finansiella beslut",
+      "summary": "Kommunstyrelsen reviderade delegationsordningen för finansiella beslut, fastställde firmatecknare och delegerade finansiella befogenheter till tjänstemän.",
+      "category": "regler",
+      "tags": [
+        "delegationsordning",
+        "finanser",
+        "firmatecknare",
+        "organisation"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_201.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_201/",
+      "text": "revidering av delegationsordning för finansiella beslut kommunstyrelsen reviderade delegationsordningen för finansiella beslut, fastställde firmatecknare och delegerade finansiella befogenheter till tjänstemän. beslutet omfattar elva delegationsbeslut gällande:\n\n1. firmatecknare för lån, finansiella derivatinstrument och värdepapper\n2. firmatecknare för borgensåtaganden och bankgarantier\n3. firmatecknare för banktjänster och bankgirokonton\n4. firmatecknare för skattedeklarationer\n5. firmatecknare för donationsstiftelser\n6. delegation för lånebeslut och finansiella derivatinstrument\n7. delegation för lån och betalningsgarantier till bolag\n8. delegation för interna lån till va- och avfallsverksamheten\n9. delegation för villkor vid in- och utlåning på koncernkonto\n10. delegation för ränteändring och inlösen av lån\n11. delegation för placeringar av likvida medel\n\nanmälan av delegationsbeslut ska ske varje månad till kommunstyrelsen. kommunstyrelsens ordförande ska omedelbar informeras om större förändringar och viktiga delegationsbeslut. delegationsordning finanser firmatecknare organisation"
+    },
+    {
+      "id": "2025-10-14_ko_202",
+      "headline": "Nya revisorer valda för kommunens bolag",
+      "summary": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+      "category": "ovrigt",
+      "tags": [
+        "revisor",
+        "bolagsstyrning",
+        "organisationell ändring"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_202.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_202/",
+      "text": "nya revisorer valda för kommunens bolag kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att gustav tönnies slutat på ernst & young ab. beslutet gäller revisorbyten i följande bolag:\n\n- kumbro vind ab: ernst & young ab som revisor (per modin som huvudansvarig)\n- kumbro utveckling ab, kumbro stadsnät ab, stadsnät i kumla ab, vätternvatten ab: per modin som revisor, joakim holmquist som revisorssuppleant\n- oslo-stockholm 255 ab, örebro läns flygplats ab: joakim holmquist som revisor\n- gustavsvik resorts ab: per modin entledigas som revisorssuppleant\n\nrevisionskontrakten med ernst & young ab gäller till och med 2027-02-28. gustav tönnies behövde entledigas från revisoruppdrag i samtliga nämnda bolag. revisor bolagsstyrning organisationell ändring"
+    },
+    {
+      "id": "2025-10-14_ko_203",
+      "headline": "Smart Säker Stad-samverkansavtal undertecknat",
+      "summary": "Kommundirektören fick i uppdrag att ingå samverkansavtal för projektet Smart Säker Stad som syftar till att förbättra säkerhet, resiliens och kostnadseffektiva kommunikationslösningar genom digitalisering.",
+      "category": "ovrigt",
+      "tags": [
+        "digitalisering",
+        "säkerhet",
+        "smart stad",
+        "samverkan"
+      ],
+      "location": "Örebro",
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_203.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_203/",
+      "text": "smart säker stad-samverkansavtal undertecknat kommundirektören fick i uppdrag att ingå samverkansavtal för projektet smart säker stad som syftar till att förbättra säkerhet, resiliens och kostnadseffektiva kommunikationslösningar genom digitalisering. projektet smart säker stad inleddes 2023 och syftar till att forma den smarta säkra staden. under initialfasen arbetade huvudsakligen kumbro stadsnät ab, örebrobostäder ab och kumla bostäder ab tillsammans.\n\nprojektet går nu över i nästa steg där övriga organisationer involveras. samverkansavtalet omfattar örebro kommun, kumbro stadsnät ab, örebrobostäder ab, futurum fastigheter i örebro ab och örebroporten fastigheter ab.\n\navtalet fungerar som ramverk och parternas åtaganden ska preciseras ytterligare när initiativ eller delprojekt inleds. örebro digitalisering säkerhet smart stad samverkan"
+    },
+    {
+      "id": "2025-10-14_ko_211",
+      "headline": "Sammanträdestider för 2026 fastställda",
+      "summary": "Kommunstyrelsen fastställde sammanträdestider för 2026 för kommunstyrelsen, dess utskott och kommunfullmäktige. Liberalerna ville förhindra driftnämndsammanträden samma vecka som kommunfullmäktige men förlorade.",
+      "category": "regler",
+      "tags": [
+        "möte",
+        "organisation",
+        "kommunstyrelsen",
+        "kommunfullmäktige"
+      ],
+      "location": null,
+      "date": "2025-10-14",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_211.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_211/",
+      "text": "sammanträdestider för 2026 fastställda kommunstyrelsen fastställde sammanträdestider för 2026 för kommunstyrelsen, dess utskott och kommunfullmäktige. liberalerna ville förhindra driftnämndsammanträden samma vecka som kommunfullmäktige men förlorade. beslut gäller:\n\n1. 11 ordinarie beslutssammanträden med kommunstyrelsen på tisdagar klockan 14.15 (20 januari – 1 december)\n2. beredningssammanträden tisdagar 09.00-12.00\n3. rekommendation till nämnderna om vilka veckor de bör förlägga sammanträden\n4. trygghetsutskottets sammanträden på 6 tisdagar\n5. personalutskottets sammanträden på 5 torsdagar\n6. hållbarhetsutskottets sammanträden på 6 tillfällen\n7. 11 ordinarie sammanträden med kommunfullmäktige på tisdagar/onsdagar\n\nkarolina wallström (l) yrkat att förvaltningen inte ska få planera driftnämndsammanträden samma vecka som kommunfullmäktige utan i särskild nöd. kd och v stödde detta men s majoritet avslogs yrkandet.\n\nliberalerna menade att detta tvingar fritidspolitiker att ta ledigt två dagar samma vecka från sitt ordinarie arbete om de sitter i både driftnämnd och kommunfullmäktige. möte organisation kommunstyrelsen kommunfullmäktige"
     },
     {
       "id": "2025-08-27_ko_221",
@@ -404,6 +616,201 @@
       "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_39.json",
       "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_39/",
       "text": "rapport över ej verkställda lss- och sol-beslut kvartal 3 - sd och l kritiska kommunstyrelsen mottog rapporter om beslut enligt lag om stöd och service (sol) och lag om stöd och service till vissa funktionshindrade (lss) som inte verkställts inom tre månader. sd och liberalerna yrkade på förbättringar i rapporteringen. funktionsstödsnämnden rapporterade 149 beslut totalt, varav 98 inte verkställda inom tre månader (ned från 157/97 föregående kvartal).\n\nvård- och omsorgsnämnden rapporterade 42 beslut, varav 26 inte verkställda inom tre månader (upp från 15 föregående kvartal).\n\nsocialnämnden rapporterade 29 beslut (ned från 41).\n\nhelena ståhl (sd) yrkade att framtida rapporter särredovisar om förseningar beror på kommunens eller individens handlingar, för att kunna skilja mellan verklig ineffektivitet och situationer då personer tackat nej till insatser. markus allard (örp) stödde sd:s yrkande. karolina wallström (l) skrev ett särskilt yttrande där hon betecknar situationen som \"oacceptabel\" och en \"kränkning av rättigheter\".\n\nstyrelsens majoritet avslogs sd:s tilläggsyrkande, men godkände att wallström (l) fick lämna ett särskilt yttrande. lss sol socialtjänst funktionshinder välfärd omsorg service"
+    },
+    {
+      "id": "2024-04-09_ko_76",
+      "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
+      "summary": "Kommunstyrelsen godkände att Örebroporten Fastigheter AB förvärvar fyra fastigheter från Region Örebro Län för cirka 140 miljoner kronor, och Örebroporten Holding AB förvärvar en fastighet från Länsgården för cirka 14 miljoner kronor. Fastigheterna vid Eklundavägen kommer att användas för utveckling av elitidrottsområdet på Eyrafältet.",
+      "category": "infrastruktur",
+      "tags": [
+        "Eyrafältet",
+        "elitidrottscenter",
+        "fastighetsförvärv",
+        "infrastrukturinvestering",
+        "Eklundavägen",
+        "1540000"
+      ],
+      "location": "Eklundavägen, Eyrafältet",
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_76.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/",
+      "text": "örebroporten förvärvar sex fastigheter från region örebro län kommunstyrelsen godkände att örebroporten fastigheter ab förvärvar fyra fastigheter från region örebro län för cirka 140 miljoner kronor, och örebroporten holding ab förvärvar en fastighet från länsgården för cirka 14 miljoner kronor. fastigheterna vid eklundavägen kommer att användas för utveckling av elitidrottsområdet på eyrafältet. region örebro län avser att lämna sina kontorslokaler vid eklundavägen under 2025 och avyttra sex fastigheter totalt. örebroporten erbjudits möjlighet att förvärva samtliga fastigheter för strategisk utveckling av eyrafältet.\n\nköpeskillingar: röl:s fastigheter cirka 140 miljoner kronor, länsgårdens fastighet cirka 14 miljoner kronor. totalt investeringsbehov överstiger 154 miljoner kronor. möjliga saneringskostnader beräknas till cirka 19 miljoner kronor, som säljare och köpare delar på enligt avtal.\n\ntillträde planeras till 1 april 2025 för röl:s fastigheter och 2 december 2024 för länsgårdens fastighet.\n\nfastigheterna som inte behövs för örebroportens del av utvecklingen föreslås senare erbjudas till marknaden och/eller annan part inom kommunkoncernen. besluten ska vidare till kommunfullmäktige.\n\nörebropartiet reserverade sig mot beslutet med avslagsyrkande. liberalerna och vänsterpartiet lämnade särskilda yttranden för att säkerställa att andra aktörer kan få möjlighet att lämna intresse för fastigheter och mark. eklundavägen, eyrafältet eyrafältet elitidrottscenter fastighetsförvärv infrastrukturinvestering eklundavägen 1540000"
+    },
+    {
+      "id": "2024-04-09_ko_73",
+      "headline": "Årsredovisning 2023: Kommun visar god ekonomisk hushållning trots osäkerhet",
+      "summary": "Kommunstyrelsen godkände årsredovisningen för 2023. Örebro kommun hade ett resultat på 570 miljoner kronor (286 miljoner högre än budgeterat), samtidigt som investeringarna uppgick till 821 miljoner kronor. Fyra av sex mål för god ekonomisk hushållning uppnåddes.",
+      "category": "budget",
+      "tags": [
+        "årsredovisning2023",
+        "ekonomi",
+        "stabilititet",
+        "investeringar",
+        "resultat"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_73.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_73/",
+      "text": "årsredovisning 2023: kommun visar god ekonomisk hushållning trots osäkerhet kommunstyrelsen godkände årsredovisningen för 2023. örebro kommun hade ett resultat på 570 miljoner kronor (286 miljoner högre än budgeterat), samtidigt som investeringarna uppgick till 821 miljoner kronor. fyra av sex mål för god ekonomisk hushållning uppnåddes. kommunkoncernen gjorde ett resultat på 659 miljoner kronor inklusive rådhuskoncernen. kommunens egna resultat var 570 miljoner kronor, vilket var 286 miljoner högre än budget. positiv börsutveckling påverkade kapitalförvaltningen positivt och skatteintäkterna utvecklades bättre än förväntat.\n\ninvesteringar i kommunal verksamhet uppgick till 821 miljoner kronor, vilket är 483 miljoner lägre än budgeterat. balanskravet samt tre av fyra finansiella mål uppnåddes. av 19 verksamhetsmål uppnåddes 8. av 49 uppdrag var 16 slutförda, 32 påbörjade men ej fullt genomförda, och ett påbörjat aldrig.\n\nkommunen reserverade 20 miljoner kronor för resultatutjämningsreserven och minskade markeringen för intraprenad-över- och underskott med 14,2 miljoner kronor. årsredovisningen ska vidare till revisorerna för granskning och till kommunfullmäktige för final godkännande.\n\nörebropartiet reserverade sig mot besluten. vänsterpartiet reserverade sig mot reserveringsbeslutet. årsredovisning2023 ekonomi stabilititet investeringar resultat"
+    },
+    {
+      "id": "2024-04-09_ko_72",
+      "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
+      "summary": "Kommunstyrelsen beviljade tilläggsanslag på 127,6 miljoner kronor för årlig indexuppräkning och andra kostnadsökningar i 2024 års budget. Ombudgeteringar mellan nämnder genomfördes enligt ny nämndstruktur från 2023.",
+      "category": "budget",
+      "tags": [
+        "budget",
+        "indexuppräkning",
+        "kostnadsökningar",
+        "nämndstruktur"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_72.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_72/",
+      "text": "tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024 kommunstyrelsen beviljade tilläggsanslag på 127,6 miljoner kronor för årlig indexuppräkning och andra kostnadsökningar i 2024 års budget. ombudgeteringar mellan nämnder genomfördes enligt ny nämndstruktur från 2023. tilläggsanslagen avsåg framför allt kompensation för årlig indexuppräkning av kostnader. ombudgeteringen berörde flytt av medel mellan nämnder enligt den ramfördelning som gjordes till ny nämndstruktur för 2023.\n\nfinansieringen kom från kommunstyrelsens utrymme för generella kostnadsökningar och för oförutsedda behov.\n\nörebropartiet reserverade sig mot beslutet med stöd av sitt eget budgetförslag. vänsterpartiet deltog inte i beslutet. budget indexuppräkning kostnadsökningar nämndstruktur"
+    },
+    {
+      "id": "2024-04-09_ko_71",
+      "headline": "Avskrivning av osäkra fordringar på 3,7 miljoner kronor",
+      "summary": "Kommunstyrelsen skriver av fordringar på 3,7 miljoner kronor för året 2023 enligt god redovisningssed, då dessa inte längre bedöms säkra. Kommunens krav mot enskilda kvarstår och hålls under bevakning via inkassobolag.",
+      "category": "budget",
+      "tags": [
+        "bokföring",
+        "fordringar",
+        "avskrivning",
+        "redovisning"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_71.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_71/",
+      "text": "avskrivning av osäkra fordringar på 3,7 miljoner kronor kommunstyrelsen skriver av fordringar på 3,7 miljoner kronor för året 2023 enligt god redovisningssed, då dessa inte längre bedöms säkra. kommunens krav mot enskilda kvarstår och hålls under bevakning via inkassobolag. avskrivningen omfattade utestående kundfordringar från fakturor med förfallodag t.o.m. 2023-12-31. totalt belopp var 3 721 015 kronor inklusive moms, fördelat på:\n\n- finansförvaltningen: 802 320 kronor\n- kommunledningsförvaltningen: 289 852 kronor\n- lokalförsörjningsavdelningen: 2 628 842 kronor\n\navskrivningen gjordes inför delårsbokslut för första året 2024 på grund av att kommunen byter ekonomimodell och uppdaterar ekonomisystemet i april 2024.\n\navskrivning registreras i bokföringen, men kommunens krav på den enskilde består. efter beslut avregistreras fakturor för fortsatt bevakning via inkassobolag. bokföring fordringar avskrivning redovisning"
+    },
+    {
+      "id": "2024-04-09_ko_76",
+      "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
+      "summary": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
+      "category": "infrastruktur",
+      "tags": [
+        "Eyrafältet",
+        "elitidrottsområde",
+        "infrastruktur",
+        "investeringar",
+        "fastighetsförvärv"
+      ],
+      "location": "Eyrafältet, Eklundavägen",
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_76.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_76/",
+      "text": "örebroporten ska investera i elitidrottscenter – 154 miljoner kronor örebroporten fastigheter ab och örebroporten holding ab godkändes att förvärva sex fastigheter vid eklundavägen för utveckling av elitidrottsområdet på eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor. region örebro län avser att lämna kontorslokaler vid eklundavägen 2025 och avyttra fastigheterna. örebroporten erbjudits möjlighet att förvärva samtliga sex fastigheter för att få rådighet över eyrafältet-utvecklingen.\n\ninvesteringsbelopp: 140 miljoner kronor för röl:s fastigheter, 14 miljoner kronor för länsgårdens fastighet. möjliga saneringskostnader cirka 19 miljoner kronor delas mellan säljare och köpare.\n\ntillträde planeras 1 april 2025 (röl) och 2 december 2024 (länsgården). fastigheterna som inte behövs för utvecklingen kan senare erbjudas till marknaden eller andra aktörer inom kommunkoncernen.\n\nörebropartiet reserverade sig mot beslutet. vänsterpartiet och liberalerna lämnade särskilda yttranden för att säkerställa marknadsmässiga villkor. eyrafältet, eklundavägen eyrafältet elitidrottsområde infrastruktur investeringar fastighetsförvärv"
+    },
+    {
+      "id": "2024-04-09_ko_77",
+      "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+      "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
+      "category": "ovrigt",
+      "tags": [
+        "Kumbrovind",
+        "vindkraft",
+        "elförsörjning",
+        "aktieägare",
+        "flygplats"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_77.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_77/",
+      "text": "kumbro vind får nya aktieägare – ölf och futurum kommunstyrelsen godkände att örebro läns flygplats ab (ölf) och futurum fastigheter blir aktieägare i kumbro vind ab för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut. kumbro vind ab ägs till 100% av kumbro utveckling ab (80% örebro kommun via örebro rådhus, 20% kumla kommun). ölf ägs av region örebro läns förvaltning (44,95%), örebro rådhus ab (44,95%), kumla kommun (5,05%) och karlskoga kommun (5,05%).\n\nkumbro vind och ölf bedömer att det vore fördelaktigt att ölf fortsättningsvis upphandlar elkraft från kumbro vind. kumbro vind har tillräcklig produktionskapacitet.\n\nför att möjliggöra detta föreslogs ändringar i kumbro vinds bolagsordning för att säkerställa att ölf – tillsammans med örebro kommun, kumla kommun och futurum – får avgörande inflytande över kumbro vinds strategiska mål.\n\nbeslutet förutsatte godkännande från kumla kommun, region örebro län och karlskoga kommun.\n\nkarolina wallström (l) och markus allard (örp) yrkade avslag. vänsterpartiet yrkade på att starta utredning om att sälja/lägga ner ölf, vilket avslogs. kumbrovind vindkraft elförsörjning aktieägare flygplats"
+    },
+    {
+      "id": "2024-04-09_ko_83",
+      "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
+      "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+      "category": "regler",
+      "tags": [
+        "styrdokument",
+        "parkeringsriktlinjer",
+        "cykelparkering",
+        "uteserveringar",
+        "riktlinjer"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_83.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_83/",
+      "text": "nya styrdokument övertas från tidigare programnämnd samhällsbyggnad kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. tretton inaktuella dokument avslutades. efter organisationsomvandlingen i januari 2023 fanns styrdokument som var antagna av nämnder som upphört. respektive nämnd behövde överta ägandeskapet för relevant styrdokument.\n\nkommunstyrelsen tog över ägarskapet för:\n- parkeringsriktlinjer för örebro kommun (sam 113/2013)\n- cykelparkering – riktlinjer för örebro kommun (sam 10/2016)\n- strategi för arkitektur och byggande i örebro kommun (sam 195/2016)\n- strategi för utveckling av kulturreservatet karlslund (sam 429/2019)\n- riktlinjer för friyta i förskola och skola (sam 264/2019)\n- strategi för utveckling av hjälmaren som rekreationsområde (sam 1143/2020)\n- uteserveringar i örebro – kvalitetskrav och riktlinjer (sam 1072/2017)\n\navslutade dokument var bland annat gångstrategi, handlingsplan för parkering, dagvattenstrategi och kollektivtrafikprogram. styrdokument parkeringsriktlinjer cykelparkering uteserveringar riktlinjer"
+    },
+    {
+      "id": "2024-04-09_ko_84",
+      "headline": "Delegation för Kronofogdens delgivning läggs till i delegationsordning",
+      "summary": "Kommunstyrelsen lade till en delegation för mottagande av delgivningar från Kronofogden i Kommunstyrelsens delegationsordning. Motsvarande delegation skulle även läggas till i nämndernas delegationsordningar.",
+      "category": "regler",
+      "tags": [
+        "delegationsordning",
+        "kronofogden",
+        "juridik"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": false,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_84.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_84/",
+      "text": "delegation för kronofogdens delgivning läggs till i delegationsordning kommunstyrelsen lade till en delegation för mottagande av delgivningar från kronofogden i kommunstyrelsens delegationsordning. motsvarande delegation skulle även läggas till i nämndernas delegationsordningar. det uppmärksammades att en delegation för att ta emot delgivningar från kronofogden saknades för nämnderna och styrelsen i örebro kommun. detta behövde läggas till för att säkerställa korrekt hantering av juridiska delgivningar. delegationsordning kronofogden juridik"
+    },
+    {
+      "id": "2024-04-09_ko_86",
+      "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan avslogs",
+      "summary": "Kommunstyrelsen avslög ledamotsinitiativet från Helena Ståhl (SD) och Bo Ammer (SD) om att tillsätta en haverikommission för att granska Arenaskolan. Kommunstyrelsen konstaterade att tillsynen av friskolor är ett statligt ansvar under Skolinspektionen.",
+      "category": "politik",
+      "tags": [
+        "Arenaskolan",
+        "friskolor",
+        "tillsyn",
+        "Skolinspektionen"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_86.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_86/",
+      "text": "ledamotsinitiativ om haverikommission för arenaskolan avslogs kommunstyrelsen avslög ledamotsinitiativet från helena ståhl (sd) och bo ammer (sd) om att tillsätta en haverikommission för att granska arenaskolan. kommunstyrelsen konstaterade att tillsynen av friskolor är ett statligt ansvar under skolinspektionen. helena ståhl och bo ammer yrkade på tillsättning av haverikommission för att utreda vad som hänt på arenaskolan, hur verksamheten kunnat fortgå trots tidigare stängning, och vad som ska göras för att förhindra detta igen.\n\nkommunledningen avslöj initiativet med motiveringen att utredning av friskolors verksamheter ligger utanför kommunstyrelsens ansvarsområde. friskolorna är ett statligt ansvar och tillsynen sorteras under skolinspektionen.\n\nmarkus allard (örp) yrkade bifall till ledamotsinitiativet men överröstades. arenaskolan friskolor tillsyn skolinspektionen"
+    },
+    {
+      "id": "2024-04-09_ko_87",
+      "headline": "KD-initiativ om regelbundna dragningar om strategi bedömdes besvarat",
+      "summary": "Kommunstyrelsen bedömde ledamotsinitiativet från Anna Andersson (KD) om regelbundna dragningar om viktiga strategiområden som besvarat. Kommunledningen föreslogs diskutera utskottledamöternas möjlighet att sammanfatta diskussioner under Kommunstyrelsens beredningssammanträden.",
+      "category": "politik",
+      "tags": [
+        "ledamotsinitiativ",
+        "strategi",
+        "dragning",
+        "kommunstyrelsen"
+      ],
+      "location": null,
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "contested": true,
+      "url": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_87.json",
+      "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_87/",
+      "text": "kd-initiativ om regelbundna dragningar om strategi bedömdes besvarat kommunstyrelsen bedömde ledamotsinitiativet från anna andersson (kd) om regelbundna dragningar om viktiga strategiområden som besvarat. kommunledningen föreslogs diskutera utskottledamöternas möjlighet att sammanfatta diskussioner under kommunstyrelsens beredningssammanträden. anna andersson (kd) yrkade på regelbundna kort dragningar om: utsatta områden, kompetensförsörjning, digital utveckling och ai, samt hållbarhetsmål.\n\nmotiveringen var att endast delar av oppositionen är representerad i kommunstyrelsens utskott för personal, trygghet och hållbarhet, varför hela styrelsen behöver uppdateringar om dessa områden.\n\nkommunledningen bedömde att en möjlig lösning var att låta utskottsledamöter sammanfatta utskottens diskussioner under kommunstyrelsens beredningssammanträden.\n\nsusanne lindholm henningsson (kd) reserverade sig mot beslutet att betrakta initiativet som besvarat. ledamotsinitiativ strategi dragning kommunstyrelsen"
     }
   ]
 }

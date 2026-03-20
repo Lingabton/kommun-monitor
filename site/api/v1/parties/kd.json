@@ -4,10 +4,10 @@
   "color": "#231977",
   "position": "Opposition",
   "ideology": "Kristdemokrati",
-  "votes_for": 8,
+  "votes_for": 24,
   "votes_against": 3,
-  "votes_abstained": 0,
-  "total_votes": 11,
+  "votes_abstained": 3,
+  "total_votes": 30,
   "contested_votes": [
     {
       "id": "2025-12-10_ko_390_391",
@@ -26,11 +26,13 @@
     }
   ],
   "key_issues": {
-    "regler": 2,
-    "ovrigt": 1,
+    "regler": 5,
+    "ovrigt": 4,
     "kultur": 1,
-    "politik": 2,
-    "budget": 4,
+    "politik": 3,
+    "budget": 9,
+    "bygg": 1,
+    "infrastruktur": 3,
     "skola": 1
   },
   "motions_filed": [
@@ -38,74 +40,89 @@
       "title": "Utred kompensation till drabbade företag",
       "status": "Remitterad",
       "date": "2025-12-10"
+    },
+    {
+      "title": "Förbättra och förenkla för idrotten (KD)",
+      "status": "Remitterad till Kultur- och fritidsnämnden",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Krisen väntar inte på kommunen (KD)",
+      "status": "Bereds av Kommunstyrelsen",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Öppna för seniorer att äta lunch i skolmatsalar",
+      "status": "Remitterad - Bereds av Kommunstyrelsen",
+      "date": "2024-04-09"
     }
   ],
   "agreement_with": {
-    "C": 7,
-    "L": 8,
-    "M": 7,
-    "S": 7,
-    "SD": 6,
-    "V": 7,
-    "ÖrP": 3,
-    "MP": 4
+    "V": 17,
+    "M": 23,
+    "C": 23,
+    "L": 21,
+    "S": 23,
+    "SD": 10,
+    "ÖrP": 6,
+    "MP": 11
   },
   "disagreement_with": {
     "C": 4,
-    "M": 4,
     "S": 4,
+    "M": 4,
     "V": 1,
+    "ÖrP": 8,
     "SD": 1,
-    "ÖrP": 4,
     "L": 1
   },
-  "for_pct": 73,
-  "against_pct": 27,
-  "abstained_pct": 0,
-  "activity_score": 65,
+  "for_pct": 80,
+  "against_pct": 10,
+  "abstained_pct": 10,
+  "activity_score": 100,
   "top_categories": [
     [
       "budget",
-      4
+      9
     ],
     [
       "regler",
-      2
-    ],
-    [
-      "politik",
-      2
+      5
     ],
     [
       "ovrigt",
-      1
+      4
     ],
     [
-      "kultur",
-      1
+      "politik",
+      3
+    ],
+    [
+      "infrastruktur",
+      3
     ]
   ],
   "top_allies": [
     [
-      "L",
-      8
+      "M",
+      23
     ],
     [
       "C",
-      7
+      23
     ],
     [
-      "M",
-      7
+      "S",
+      23
     ]
   ],
   "top_opponents": [
     [
-      "C",
-      4
+      "ÖrP",
+      8
     ],
     [
-      "M",
+      "C",
       4
     ],
     [

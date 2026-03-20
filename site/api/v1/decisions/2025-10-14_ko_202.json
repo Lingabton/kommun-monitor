@@ -1,0 +1,44 @@
+{
+  "id": "2025-10-14_ko_202",
+  "headline": "Nya revisorer valda för kommunens bolag",
+  "summary": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+  "detail": "Beslutet gäller revisorbyten i följande bolag:\n\n- Kumbro Vind AB: Ernst & Young AB som revisor (Per Modin som huvudansvarig)\n- Kumbro Utveckling AB, Kumbro Stadsnät AB, Stadsnät i Kumla AB, Vätternvatten AB: Per Modin som revisor, Joakim Holmquist som revisorssuppleant\n- Oslo-Stockholm 255 AB, Örebro läns Flygplats AB: Joakim Holmquist som revisor\n- Gustavsvik Resorts AB: Per Modin entledigas som revisorssuppleant\n\nRevisionskontrakten med Ernst & Young AB gäller till och med 2027-02-28. Gustav Tönnies behövde entledigas från revisoruppdrag i samtliga nämnda bolag.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 202",
+  "tags": [
+    "revisor",
+    "bolagsstyrning",
+    "organisationell ändring"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Kommunens stämmoombud får i uppdrag att vid extra bolagsstämma rösta för att entlediga Gustav Tönnies som revisor och utse ny revisor enligt förslagen.",
+  "quote_page": "s. 16-17",
+  "meeting": {
+    "id": "2025-10-14_ko",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_202.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_202/"
+  }
+}

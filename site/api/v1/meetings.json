@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 6,
   "meetings": [
     {
       "id": "2025-12-10_ko",
@@ -11,6 +11,17 @@
       "contested_count": 5,
       "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
       "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json"
+    },
+    {
+      "id": "2025-10-14_ko",
+      "date": "2025-10-14",
+      "type": "Kommunstyrelsen",
+      "municipality": "orebro",
+      "headline": "Budget 2026 och BRT-expansion godkänd trots oppositionskritik",
+      "decisions_count": 11,
+      "contested_count": 7,
+      "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json"
     },
     {
       "id": "2025-08-27_ko",
@@ -44,6 +55,17 @@
       "contested_count": 0,
       "source_url": "https://www.orebro.se/download/18.59abe9f8193debe46c88c90/1738229409630/2025-01-29%20Kommunfullm%C3%A4ktige%20%C2%A7%2013.pdf",
       "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_ko.json"
+    },
+    {
+      "id": "2024-04-09_ko",
+      "date": "2024-04-09",
+      "type": "Kommunstyrelsen",
+      "municipality": "orebro",
+      "headline": "Örebro köper Eklundaområdet för 154 miljoner kronor",
+      "decisions_count": 10,
+      "contested_count": 7,
+      "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json"
     }
   ]
 }

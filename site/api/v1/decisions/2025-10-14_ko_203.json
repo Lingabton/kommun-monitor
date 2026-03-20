@@ -1,0 +1,45 @@
+{
+  "id": "2025-10-14_ko_203",
+  "headline": "Smart Säker Stad-samverkansavtal undertecknat",
+  "summary": "Kommundirektören fick i uppdrag att ingå samverkansavtal för projektet Smart Säker Stad som syftar till att förbättra säkerhet, resiliens och kostnadseffektiva kommunikationslösningar genom digitalisering.",
+  "detail": "Projektet Smart Säker Stad inleddes 2023 och syftar till att forma den smarta säkra staden. Under initialfasen arbetade huvudsakligen Kumbro Stadsnät AB, Örebrobostäder AB och Kumla Bostäder AB tillsammans.\n\nProjektet går nu över i nästa steg där övriga organisationer involveras. Samverkansavtalet omfattar Örebro kommun, Kumbro Stadsnät AB, Örebrobostäder AB, Futurum Fastigheter i Örebro AB och Örebroporten Fastigheter AB.\n\nAvtalet fungerar som ramverk och parternas åtaganden ska preciseras ytterligare när initiativ eller delprojekt inleds.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Örebro",
+  "paragraph_ref": "§ 203",
+  "tags": [
+    "digitalisering",
+    "säkerhet",
+    "smart stad",
+    "samverkan"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Kommundirektören får i uppdrag att ingå samverkansavtal enligt förslag daterat, 2025-09-23.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-10-14_ko",
+    "date": "2025-10-14",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_203.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_203/"
+  }
+}

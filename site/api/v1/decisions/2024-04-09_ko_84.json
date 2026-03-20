@@ -1,0 +1,43 @@
+{
+  "id": "2024-04-09_ko_84",
+  "headline": "Delegation för Kronofogdens delgivning läggs till i delegationsordning",
+  "summary": "Kommunstyrelsen lade till en delegation för mottagande av delgivningar från Kronofogden i Kommunstyrelsens delegationsordning. Motsvarande delegation skulle även läggas till i nämndernas delegationsordningar.",
+  "detail": "Det uppmärksammades att en delegation för att ta emot delgivningar från Kronofogden saknades för nämnderna och styrelsen i Örebro kommun. Detta behövde läggas till för att säkerställa korrekt hantering av juridiska delgivningar.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 84",
+  "tags": [
+    "delegationsordning",
+    "kronofogden",
+    "juridik"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "ÖrP",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Det har uppmärksammats att en delegation för att ta emot delgivningar från Kronofogden saknas för nämnderna och styrelsen i Örebro kommun.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2024-04-09_ko",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_84.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_84/"
+  }
+}

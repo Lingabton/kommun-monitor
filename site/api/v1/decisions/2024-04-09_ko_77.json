@@ -1,0 +1,46 @@
+{
+  "id": "2024-04-09_ko_77",
+  "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+  "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
+  "detail": "Kumbro Vind AB ägs till 100% av Kumbro Utveckling AB (80% Örebro kommun via Örebro Rådhus, 20% Kumla kommun). ÖLF ägs av Region Örebro läns förvaltning (44,95%), Örebro Rådhus AB (44,95%), Kumla kommun (5,05%) och Karlskoga kommun (5,05%).\n\nKumbro Vind och ÖLF bedömer att det vore fördelaktigt att ÖLF fortsättningsvis upphandlar elkraft från Kumbro Vind. Kumbro Vind har tillräcklig produktionskapacitet.\n\nFör att möjliggöra detta föreslogs ändringar i Kumbro Vinds bolagsordning för att säkerställa att ÖLF – tillsammans med Örebro kommun, Kumla kommun och Futurum – får avgörande inflytande över Kumbro Vinds strategiska mål.\n\nBeslutet förutsatte godkännande från Kumla kommun, Region Örebro län och Karlskoga kommun.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag. Vänsterpartiet yrkade på att starta utredning om att sälja/lägga ner ÖLF, vilket avslogs.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 77",
+  "tags": [
+    "Kumbrovind",
+    "vindkraft",
+    "elförsörjning",
+    "aktieägare",
+    "flygplats"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kumbro Vind och ÖLF bedömer att det vore fördelaktigt att ÖLF fortsättningsvis upphandlar sin elkraft av Kumbro Vind.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2024-04-09_ko",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_77.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_77/"
+  }
+}

@@ -23,7 +23,19 @@
       "date": "2025-01-29",
       "body": "Kommunfullmäktige",
       "decisions": 0
+    },
+    "2025-10-14_ko": {
+      "at": "2026-03-20T07:43:19.798517",
+      "date": "2025-10-14",
+      "body": "Kommunstyrelsen",
+      "decisions": 11
+    },
+    "2024-04-09_ko": {
+      "at": "2026-03-20T07:44:53.548622",
+      "date": "2024-04-09",
+      "body": "Kommunstyrelsen",
+      "decisions": 10
     }
   },
-  "last_check": "2026-03-20T06:50:15.574316"
+  "last_check": "2026-03-20T07:44:53.548646"
 }

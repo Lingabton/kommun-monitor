@@ -1,0 +1,19 @@
+{
+  "id": "karlslund",
+  "name": "Karlslund",
+  "decisions": [
+    {
+      "id": "2024-04-09_ko_83",
+      "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
+      "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "regler",
+      "contested": false
+    }
+  ],
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/karlslund.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/karlslund/"
+  }
+}

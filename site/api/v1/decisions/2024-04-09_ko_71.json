@@ -1,0 +1,44 @@
+{
+  "id": "2024-04-09_ko_71",
+  "headline": "Avskrivning av osäkra fordringar på 3,7 miljoner kronor",
+  "summary": "Kommunstyrelsen skriver av fordringar på 3,7 miljoner kronor för året 2023 enligt god redovisningssed, då dessa inte längre bedöms säkra. Kommunens krav mot enskilda kvarstår och hålls under bevakning via inkassobolag.",
+  "detail": "Avskrivningen omfattade utestående kundfordringar från fakturor med förfallodag t.o.m. 2023-12-31. Totalt belopp var 3 721 015 kronor inklusive moms, fördelat på:\n\n- Finansförvaltningen: 802 320 kronor\n- Kommunledningsförvaltningen: 289 852 kronor\n- Lokalförsörjningsavdelningen: 2 628 842 kronor\n\nAvskrivningen gjordes inför delårsbokslut för första året 2024 på grund av att kommunen byter ekonomimodell och uppdaterar ekonomisystemet i april 2024.\n\nAvskrivning registreras i bokföringen, men kommunens krav på den enskilde består. Efter beslut avregistreras fakturor för fortsatt bevakning via inkassobolag.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 71",
+  "tags": [
+    "bokföring",
+    "fordringar",
+    "avskrivning",
+    "redovisning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "ÖrP",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhalligt"
+  },
+  "quote": "Fakturor till ett sammanlagt belopp om 3 721 015:35 kronor skrivs av på grund av att fordran inte längre kan anses som säker enligt kommunens redovisningsriktlinjer.",
+  "quote_page": "s. 2",
+  "meeting": {
+    "id": "2024-04-09_ko",
+    "date": "2024-04-09",
+    "type": "Kommunstyrelsen",
+    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_71.json",
+    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
+    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_71/"
+  }
+}

@@ -5,10 +5,10 @@
     "color": "#e8112d",
     "position": "Majoritet",
     "ideology": "Socialdemokrati",
-    "votes_for": 18,
+    "votes_for": 39,
     "votes_against": 1,
     "votes_abstained": 0,
-    "total_votes": 19,
+    "total_votes": 40,
     "contested_votes": [
       {
         "id": "2025-08-27_ko_221",
@@ -17,77 +17,80 @@
       }
     ],
     "key_issues": {
-      "regler": 3,
-      "ovrigt": 1,
+      "regler": 8,
+      "ovrigt": 5,
       "kultur": 2,
-      "politik": 3,
-      "budget": 5,
+      "politik": 5,
+      "budget": 11,
+      "bygg": 1,
+      "infrastruktur": 3,
       "skola": 3,
       "miljo": 1,
       "trygghet": 1
     },
     "motions_filed": [],
     "agreement_with": {
-      "C": 19,
-      "KD": 7,
-      "L": 9,
-      "M": 19,
-      "SD": 3,
-      "V": 7,
-      "MP": 4
+      "V": 17,
+      "M": 40,
+      "C": 40,
+      "L": 23,
+      "KD": 23,
+      "SD": 7,
+      "MP": 11,
+      "ÖrP": 3
     },
     "disagreement_with": {
-      "SD": 6,
-      "ÖrP": 9,
+      "ÖrP": 14,
+      "L": 3,
       "KD": 4,
-      "L": 2,
+      "SD": 6,
       "MP": 2,
       "V": 3
     },
-    "for_pct": 95,
-    "against_pct": 5,
+    "for_pct": 98,
+    "against_pct": 2,
     "abstained_pct": 0,
-    "activity_score": 95,
+    "activity_score": 100,
     "top_categories": [
       [
         "budget",
-        5
+        11
       ],
       [
         "regler",
-        3
+        8
+      ],
+      [
+        "ovrigt",
+        5
       ],
       [
         "politik",
-        3
+        5
       ],
       [
-        "skola",
+        "infrastruktur",
         3
-      ],
-      [
-        "kultur",
-        2
       ]
     ],
     "top_allies": [
       [
-        "C",
-        19
+        "M",
+        40
       ],
       [
-        "M",
-        19
+        "C",
+        40
       ],
       [
         "L",
-        9
+        23
       ]
     ],
     "top_opponents": [
       [
         "ÖrP",
-        9
+        14
       ],
       [
         "SD",
@@ -105,10 +108,10 @@
     "color": "#52bdec",
     "position": "Majoritet",
     "ideology": "Liberalkonservatism",
-    "votes_for": 18,
+    "votes_for": 39,
     "votes_against": 1,
     "votes_abstained": 0,
-    "total_votes": 19,
+    "total_votes": 40,
     "contested_votes": [
       {
         "id": "2025-08-27_ko_221",
@@ -117,77 +120,80 @@
       }
     ],
     "key_issues": {
-      "regler": 3,
-      "ovrigt": 1,
+      "regler": 8,
+      "ovrigt": 5,
       "kultur": 2,
-      "politik": 3,
-      "budget": 5,
+      "politik": 5,
+      "budget": 11,
+      "bygg": 1,
+      "infrastruktur": 3,
       "skola": 3,
       "miljo": 1,
       "trygghet": 1
     },
     "motions_filed": [],
     "agreement_with": {
-      "C": 19,
-      "KD": 7,
-      "L": 9,
-      "S": 19,
-      "SD": 3,
-      "V": 7,
-      "MP": 4
+      "V": 17,
+      "C": 40,
+      "L": 23,
+      "KD": 23,
+      "S": 40,
+      "SD": 7,
+      "MP": 11,
+      "ÖrP": 3
     },
     "disagreement_with": {
-      "SD": 6,
-      "ÖrP": 9,
+      "ÖrP": 14,
+      "L": 3,
       "KD": 4,
-      "L": 2,
+      "SD": 6,
       "MP": 2,
       "V": 3
     },
-    "for_pct": 95,
-    "against_pct": 5,
+    "for_pct": 98,
+    "against_pct": 2,
     "abstained_pct": 0,
-    "activity_score": 95,
+    "activity_score": 100,
     "top_categories": [
       [
         "budget",
-        5
+        11
       ],
       [
         "regler",
-        3
+        8
+      ],
+      [
+        "ovrigt",
+        5
       ],
       [
         "politik",
-        3
+        5
       ],
       [
-        "skola",
+        "infrastruktur",
         3
-      ],
-      [
-        "kultur",
-        2
       ]
     ],
     "top_allies": [
       [
         "C",
-        19
+        40
       ],
       [
         "S",
-        19
+        40
       ],
       [
         "L",
-        9
+        23
       ]
     ],
     "top_opponents": [
       [
         "ÖrP",
-        9
+        14
       ],
       [
         "SD",
@@ -205,10 +211,10 @@
     "color": "#009933",
     "position": "Majoritet",
     "ideology": "Centerism, grön liberalism",
-    "votes_for": 18,
+    "votes_for": 39,
     "votes_against": 1,
     "votes_abstained": 0,
-    "total_votes": 19,
+    "total_votes": 40,
     "contested_votes": [
       {
         "id": "2025-08-27_ko_221",
@@ -217,77 +223,80 @@
       }
     ],
     "key_issues": {
-      "regler": 3,
-      "ovrigt": 1,
+      "regler": 8,
+      "ovrigt": 5,
       "kultur": 2,
-      "politik": 3,
-      "budget": 5,
+      "politik": 5,
+      "budget": 11,
+      "bygg": 1,
+      "infrastruktur": 3,
       "skola": 3,
       "miljo": 1,
       "trygghet": 1
     },
     "motions_filed": [],
     "agreement_with": {
-      "KD": 7,
-      "L": 9,
-      "M": 19,
-      "S": 19,
-      "SD": 3,
-      "V": 7,
-      "MP": 4
+      "V": 17,
+      "M": 40,
+      "L": 23,
+      "KD": 23,
+      "S": 40,
+      "SD": 7,
+      "MP": 11,
+      "ÖrP": 3
     },
     "disagreement_with": {
-      "SD": 6,
-      "ÖrP": 9,
+      "ÖrP": 14,
+      "L": 3,
       "KD": 4,
-      "L": 2,
+      "SD": 6,
       "MP": 2,
       "V": 3
     },
-    "for_pct": 95,
-    "against_pct": 5,
+    "for_pct": 98,
+    "against_pct": 2,
     "abstained_pct": 0,
-    "activity_score": 95,
+    "activity_score": 100,
     "top_categories": [
       [
         "budget",
-        5
+        11
       ],
       [
         "regler",
-        3
+        8
+      ],
+      [
+        "ovrigt",
+        5
       ],
       [
         "politik",
-        3
+        5
       ],
       [
-        "skola",
+        "infrastruktur",
         3
-      ],
-      [
-        "kultur",
-        2
       ]
     ],
     "top_allies": [
       [
         "M",
-        19
+        40
       ],
       [
         "S",
-        19
+        40
       ],
       [
         "L",
-        9
+        23
       ]
     ],
     "top_opponents": [
       [
         "ÖrP",
-        9
+        14
       ],
       [
         "SD",
@@ -305,10 +314,10 @@
     "color": "#006ab3",
     "position": "Opposition",
     "ideology": "Socialliberalism",
-    "votes_for": 8,
-    "votes_against": 3,
-    "votes_abstained": 0,
-    "total_votes": 11,
+    "votes_for": 22,
+    "votes_against": 4,
+    "votes_abstained": 5,
+    "total_votes": 31,
     "contested_votes": [
       {
         "id": "2025-12-10_ko_390_391",
@@ -324,15 +333,22 @@
         "id": "2025-08-27_ko_221",
         "headline": "Motion om mindre barngrupper i förskolan avslogs",
         "date": "2025-08-27"
+      },
+      {
+        "id": "2024-04-09_ko_77",
+        "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+        "date": "2024-04-09"
       }
     ],
     "key_issues": {
-      "regler": 1,
-      "ovrigt": 1,
+      "regler": 4,
+      "ovrigt": 5,
       "kultur": 2,
-      "politik": 3,
+      "politik": 5,
+      "budget": 6,
+      "bygg": 1,
       "skola": 1,
-      "budget": 3
+      "infrastruktur": 2
     },
     "motions_filed": [
       {
@@ -341,82 +357,97 @@
         "date": "2025-12-10"
       },
       {
+        "title": "Förbättring av färdtjänsten genom att säga upp avtalet med Region Örebro Län (L)",
+        "status": "Avslagen - ansågs besvarad",
+        "date": "2025-10-14"
+      },
+      {
         "title": "Utmaningsrätt bygg- och driftverksamheten",
         "status": "Delvis tillgodosedd",
         "date": "2025-08-27"
+      },
+      {
+        "title": "Skapa magi genom att läsa tillsammans",
+        "status": "Remitterad - Till Grundskolenämnden",
+        "date": "2024-04-09"
+      },
+      {
+        "title": "Handlingsplan för suicidprevention",
+        "status": "Remitterad - Bereds av Kommunstyrelsen",
+        "date": "2024-04-09"
       }
     ],
     "agreement_with": {
-      "C": 9,
-      "KD": 8,
-      "M": 9,
-      "S": 9,
-      "SD": 5,
-      "V": 6,
-      "ÖrP": 2,
-      "MP": 5
+      "V": 15,
+      "M": 23,
+      "C": 23,
+      "KD": 21,
+      "S": 23,
+      "SD": 9,
+      "ÖrP": 6,
+      "MP": 10
     },
     "disagreement_with": {
-      "C": 2,
-      "M": 2,
-      "S": 2,
+      "C": 3,
+      "S": 3,
+      "M": 3,
       "SD": 4,
       "V": 3,
-      "ÖrP": 5,
-      "MP": 1,
-      "KD": 1
+      "ÖrP": 9,
+      "KD": 1,
+      "MP": 1
     },
-    "for_pct": 73,
-    "against_pct": 27,
-    "abstained_pct": 0,
-    "activity_score": 75,
+    "for_pct": 71,
+    "against_pct": 13,
+    "abstained_pct": 16,
+    "activity_score": 100,
     "top_categories": [
       [
-        "politik",
-        3
+        "budget",
+        6
       ],
       [
-        "budget",
-        3
+        "ovrigt",
+        5
+      ],
+      [
+        "politik",
+        5
+      ],
+      [
+        "regler",
+        4
       ],
       [
         "kultur",
         2
-      ],
-      [
-        "regler",
-        1
-      ],
-      [
-        "ovrigt",
-        1
       ]
     ],
     "top_allies": [
       [
-        "C",
-        9
+        "M",
+        23
       ],
       [
-        "M",
-        9
+        "C",
+        23
       ],
       [
         "S",
-        9
+        23
       ]
     ],
     "top_opponents": [
       [
         "ÖrP",
-        5
+        9
       ],
       [
         "SD",
         4
       ],
       [
-        "V",
+        "C",
         3
       ]
     ]
@@ -427,10 +458,10 @@
     "color": "#231977",
     "position": "Opposition",
     "ideology": "Kristdemokrati",
-    "votes_for": 8,
+    "votes_for": 24,
     "votes_against": 3,
-    "votes_abstained": 0,
-    "total_votes": 11,
+    "votes_abstained": 3,
+    "total_votes": 30,
     "contested_votes": [
       {
         "id": "2025-12-10_ko_390_391",
@@ -449,11 +480,13 @@
       }
     ],
     "key_issues": {
-      "regler": 2,
-      "ovrigt": 1,
+      "regler": 5,
+      "ovrigt": 4,
       "kultur": 1,
-      "politik": 2,
-      "budget": 4,
+      "politik": 3,
+      "budget": 9,
+      "bygg": 1,
+      "infrastruktur": 3,
       "skola": 1
     },
     "motions_filed": [
@@ -461,74 +494,89 @@
         "title": "Utred kompensation till drabbade företag",
         "status": "Remitterad",
         "date": "2025-12-10"
+      },
+      {
+        "title": "Förbättra och förenkla för idrotten (KD)",
+        "status": "Remitterad till Kultur- och fritidsnämnden",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Krisen väntar inte på kommunen (KD)",
+        "status": "Bereds av Kommunstyrelsen",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Öppna för seniorer att äta lunch i skolmatsalar",
+        "status": "Remitterad - Bereds av Kommunstyrelsen",
+        "date": "2024-04-09"
       }
     ],
     "agreement_with": {
-      "C": 7,
-      "L": 8,
-      "M": 7,
-      "S": 7,
-      "SD": 6,
-      "V": 7,
-      "ÖrP": 3,
-      "MP": 4
+      "V": 17,
+      "M": 23,
+      "C": 23,
+      "L": 21,
+      "S": 23,
+      "SD": 10,
+      "ÖrP": 6,
+      "MP": 11
     },
     "disagreement_with": {
       "C": 4,
-      "M": 4,
       "S": 4,
+      "M": 4,
       "V": 1,
+      "ÖrP": 8,
       "SD": 1,
-      "ÖrP": 4,
       "L": 1
     },
-    "for_pct": 73,
-    "against_pct": 27,
-    "abstained_pct": 0,
-    "activity_score": 65,
+    "for_pct": 80,
+    "against_pct": 10,
+    "abstained_pct": 10,
+    "activity_score": 100,
     "top_categories": [
       [
         "budget",
-        4
+        9
       ],
       [
         "regler",
-        2
-      ],
-      [
-        "politik",
-        2
+        5
       ],
       [
         "ovrigt",
-        1
+        4
       ],
       [
-        "kultur",
-        1
+        "politik",
+        3
+      ],
+      [
+        "infrastruktur",
+        3
       ]
     ],
     "top_allies": [
       [
-        "L",
-        8
+        "M",
+        23
       ],
       [
         "C",
-        7
+        23
       ],
       [
-        "M",
-        7
+        "S",
+        23
       ]
     ],
     "top_opponents": [
       [
-        "C",
-        4
+        "ÖrP",
+        8
       ],
       [
-        "M",
+        "C",
         4
       ],
       [
@@ -543,10 +591,10 @@
     "color": "#da291c",
     "position": "Opposition",
     "ideology": "Demokratisk socialism",
-    "votes_for": 8,
+    "votes_for": 18,
     "votes_against": 2,
-    "votes_abstained": 0,
-    "total_votes": 10,
+    "votes_abstained": 6,
+    "total_votes": 26,
     "contested_votes": [
       {
         "id": "2025-12-10_ko_389",
@@ -560,13 +608,36 @@
       }
     ],
     "key_issues": {
-      "regler": 1,
+      "regler": 4,
       "kultur": 2,
       "politik": 3,
-      "budget": 3,
+      "budget": 4,
+      "bygg": 1,
+      "infrastruktur": 3,
+      "ovrigt": 2,
       "skola": 1
     },
     "motions_filed": [
+      {
+        "title": "Återbruk i alla led – en självklarhet inom Örebro kommun (V)",
+        "status": "Avslagen - ansågs besvarad",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Kommunen ska ta övergripande ansvar för förtroendevaldas trygghet i hot- och våldssituationer (V)",
+        "status": "Avslagen",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Tydlig policy för kommunens stöd av förtroendevalda i hot- och våldssituationer (V)",
+        "status": "Avslagen",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Återinför tre-timmarsbiljett på bussen (V)",
+        "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+        "date": "2025-10-14"
+      },
       {
         "title": "Fler vuxna och mindre barngrupper i förskolan",
         "status": "Avslagen",
@@ -586,72 +657,87 @@
         "title": "Martha Wicklund (V) m.fl. om att trygga demokratin",
         "status": "Remitterad till Kommunstyrelsen för svar",
         "date": "2025-02-11"
+      },
+      {
+        "title": "Få bukt med oseriösa aktörer i välfärden",
+        "status": "Remitterad - Bereds av Kommunstyrelsen",
+        "date": "2024-04-09"
+      },
+      {
+        "title": "Välfärd i kommunal regi",
+        "status": "Remitterad - Bereds av Kommunstyrelsen",
+        "date": "2024-04-09"
+      },
+      {
+        "title": "Återbruk i alla led",
+        "status": "Remitterad - Bereds av Kommunstyrelsen",
+        "date": "2024-04-09"
       }
     ],
     "agreement_with": {
-      "C": 7,
-      "KD": 7,
-      "L": 6,
-      "M": 7,
-      "S": 7,
-      "SD": 5,
-      "MP": 4,
-      "ÖrP": 2
+      "M": 17,
+      "C": 17,
+      "L": 15,
+      "KD": 17,
+      "S": 17,
+      "SD": 9,
+      "MP": 8,
+      "ÖrP": 5
     },
     "disagreement_with": {
       "SD": 3,
       "MP": 2,
-      "KD": 1,
       "L": 3,
-      "ÖrP": 4,
+      "ÖrP": 6,
+      "KD": 1,
       "C": 3,
-      "M": 3,
-      "S": 3
+      "S": 3,
+      "M": 3
     },
-    "for_pct": 80,
-    "against_pct": 20,
-    "abstained_pct": 0,
-    "activity_score": 90,
+    "for_pct": 69,
+    "against_pct": 8,
+    "abstained_pct": 23,
+    "activity_score": 100,
     "top_categories": [
+      [
+        "regler",
+        4
+      ],
+      [
+        "budget",
+        4
+      ],
       [
         "politik",
         3
       ],
       [
-        "budget",
+        "infrastruktur",
         3
       ],
       [
         "kultur",
         2
-      ],
-      [
-        "regler",
-        1
-      ],
-      [
-        "skola",
-        1
       ]
     ],
     "top_allies": [
       [
+        "M",
+        17
+      ],
+      [
         "C",
-        7
+        17
       ],
       [
         "KD",
-        7
-      ],
-      [
-        "M",
-        7
+        17
       ]
     ],
     "top_opponents": [
       [
         "ÖrP",
-        4
+        6
       ],
       [
         "SD",
@@ -670,10 +756,10 @@
     "text_color": "#333",
     "position": "Opposition",
     "ideology": "Socialkonservatism",
-    "votes_for": 4,
+    "votes_for": 8,
     "votes_against": 5,
-    "votes_abstained": 1,
-    "total_votes": 10,
+    "votes_abstained": 5,
+    "total_votes": 18,
     "contested_votes": [
       {
         "id": "2025-12-10_ko_390_391",
@@ -702,14 +788,45 @@
       }
     ],
     "key_issues": {
-      "regler": 1,
-      "ovrigt": 1,
+      "regler": 2,
+      "ovrigt": 3,
       "kultur": 2,
       "politik": 2,
+      "bygg": 1,
       "skola": 1,
       "budget": 2
     },
     "motions_filed": [
+      {
+        "title": "Inkludera områden för kärnkraft (SMR) i Översiktsplanen (SD)",
+        "status": "Avslagen",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Egenskapade raster för bön på arbetstid ska upphöra (SD)",
+        "status": "Avslagen (alla tre förslag)",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Säkerställ att föreningsbidragen gynnar örebroarna (SD)",
+        "status": "Remitterad till Kultur- och fritidsnämnden",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Ställ krav på invandrare (SD)",
+        "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Krafttag för säkerhet och trygghet i skolan (SD)",
+        "status": "Remitterad till Förskolenämnden, Grundskolenämnden och Gymnasie- och arbetsmarknadsnämnden",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Svensk husmanskost ska vara standard i skolan och äldreomsorgen (SD)",
+        "status": "Remitterad till Teknik- och servicenämnden",
+        "date": "2025-10-14"
+      },
       {
         "title": "Helena Ståhl (SD) och Habib Brini (SD) om ekonomiska fallskärmar",
         "status": "Remitterad till Kommunstyrelsen för svar",
@@ -729,33 +846,51 @@
         "title": "Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i Översiktsplanen",
         "status": "Remitterad till Markplanerings- och exploateringsnämnden",
         "date": "2025-02-11"
+      },
+      {
+        "title": "Redovisa hela lönekostnaden för anställda i Örebro kommun",
+        "status": "Remitterad - Bereds av Kommunstyrelsen",
+        "date": "2024-04-09"
+      },
+      {
+        "title": "Redovisning och modell för integrationssatsningar",
+        "status": "Remitterad - Bereds av Kommunstyrelsen",
+        "date": "2024-04-09"
       }
     ],
     "agreement_with": {
-      "C": 3,
-      "KD": 6,
-      "L": 5,
-      "M": 3,
-      "S": 3,
-      "V": 5,
+      "V": 9,
+      "M": 7,
+      "C": 7,
+      "L": 9,
+      "KD": 10,
+      "S": 7,
       "ÖrP": 4,
-      "MP": 2
+      "MP": 5
     },
     "disagreement_with": {
       "C": 6,
-      "M": 6,
       "S": 6,
+      "M": 6,
+      "V": 3,
       "MP": 3,
       "L": 4,
-      "V": 3,
       "KD": 1,
       "ÖrP": 2
     },
-    "for_pct": 40,
-    "against_pct": 50,
-    "abstained_pct": 10,
-    "activity_score": 90,
+    "for_pct": 44,
+    "against_pct": 28,
+    "abstained_pct": 28,
+    "activity_score": 100,
     "top_categories": [
+      [
+        "ovrigt",
+        3
+      ],
+      [
+        "regler",
+        2
+      ],
       [
         "kultur",
         2
@@ -767,28 +902,20 @@
       [
         "budget",
         2
-      ],
-      [
-        "regler",
-        1
-      ],
-      [
-        "ovrigt",
-        1
       ]
     ],
     "top_allies": [
       [
         "KD",
-        6
-      ],
-      [
-        "L",
-        5
+        10
       ],
       [
         "V",
-        5
+        9
+      ],
+      [
+        "L",
+        9
       ]
     ],
     "top_opponents": [
@@ -797,11 +924,11 @@
         6
       ],
       [
-        "M",
+        "S",
         6
       ],
       [
-        "S",
+        "M",
         6
       ]
     ]
@@ -812,10 +939,10 @@
     "color": "#f47920",
     "position": "Opposition",
     "ideology": "Lokalt parti",
-    "votes_for": 0,
-    "votes_against": 9,
-    "votes_abstained": 1,
-    "total_votes": 10,
+    "votes_for": 3,
+    "votes_against": 14,
+    "votes_abstained": 2,
+    "total_votes": 19,
     "contested_votes": [
       {
         "id": "2025-12-10_ko_390_391",
@@ -861,91 +988,125 @@
         "id": "2025-02-11_ko_31",
         "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
         "date": "2025-02-11"
+      },
+      {
+        "id": "2024-04-09_ko_76",
+        "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
+        "date": "2024-04-09"
+      },
+      {
+        "id": "2024-04-09_ko_72",
+        "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
+        "date": "2024-04-09"
+      },
+      {
+        "id": "2024-04-09_ko_76",
+        "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
+        "date": "2024-04-09"
+      },
+      {
+        "id": "2024-04-09_ko_77",
+        "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
+        "date": "2024-04-09"
+      },
+      {
+        "id": "2024-04-09_ko_86",
+        "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan avslogs",
+        "date": "2024-04-09"
       }
     ],
     "key_issues": {
-      "ovrigt": 1,
+      "ovrigt": 2,
       "kultur": 1,
-      "politik": 2,
-      "budget": 4,
-      "regler": 1
+      "politik": 3,
+      "budget": 6,
+      "regler": 3,
+      "infrastruktur": 2
     },
     "motions_filed": [
       {
         "title": "Stänga förskolan Igelkotten",
         "status": "Tillgodosedd",
         "date": "2025-08-27"
+      },
+      {
+        "title": "Stänga förskolan Igelkotten",
+        "status": "Remitterad - Till Förskolenämnden",
+        "date": "2024-04-09"
       }
     ],
     "agreement_with": {
+      "L": 6,
+      "KD": 6,
       "SD": 4,
-      "KD": 3,
-      "L": 2,
       "MP": 1,
-      "V": 2
+      "V": 5,
+      "M": 3,
+      "C": 3,
+      "S": 3
     },
     "disagreement_with": {
-      "C": 9,
-      "M": 9,
-      "S": 9,
-      "V": 4,
+      "C": 14,
+      "S": 14,
+      "M": 14,
+      "V": 6,
       "MP": 2,
-      "KD": 4,
-      "L": 5,
+      "L": 9,
+      "KD": 8,
       "SD": 2
     },
-    "for_pct": 0,
-    "against_pct": 90,
-    "abstained_pct": 10,
-    "activity_score": 60,
+    "for_pct": 16,
+    "against_pct": 74,
+    "abstained_pct": 11,
+    "activity_score": 100,
     "top_categories": [
       [
         "budget",
-        4
+        6
       ],
       [
         "politik",
-        2
-      ],
-      [
-        "ovrigt",
-        1
-      ],
-      [
-        "kultur",
-        1
+        3
       ],
       [
         "regler",
-        1
+        3
+      ],
+      [
+        "ovrigt",
+        2
+      ],
+      [
+        "infrastruktur",
+        2
       ]
     ],
     "top_allies": [
       [
-        "SD",
-        4
+        "L",
+        6
       ],
       [
         "KD",
-        3
+        6
       ],
       [
-        "L",
-        2
+        "V",
+        5
       ]
     ],
     "top_opponents": [
       [
         "C",
-        9
-      ],
-      [
-        "M",
-        9
+        14
       ],
       [
         "S",
-        9
+        14
+      ],
+      [
+        "M",
+        14
       ]
     ]
   },
@@ -955,10 +1116,10 @@
     "color": "#83cf39",
     "position": "Opposition",
     "ideology": "Grön politik",
-    "votes_for": 5,
+    "votes_for": 12,
     "votes_against": 1,
     "votes_abstained": 0,
-    "total_votes": 6,
+    "total_votes": 13,
     "contested_votes": [
       {
         "id": "2025-12-10_ko_394_395",
@@ -969,9 +1130,28 @@
     "key_issues": {
       "kultur": 2,
       "politik": 3,
+      "budget": 2,
+      "infrastruktur": 1,
+      "ovrigt": 3,
+      "regler": 1,
       "skola": 1
     },
     "motions_filed": [
+      {
+        "title": "Publicera trädinventering (MP)",
+        "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Flaggan i topp – flaggning på kommunala byggnader (MP)",
+        "status": "Bereds av Kommunstyrelsen",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Arbeta för att behålla övertaliga lärare (MP)",
+        "status": "Remitterad till Grundskolenämnden",
+        "date": "2025-10-14"
+      },
       {
         "title": "Fossil reklam på allmän plats",
         "status": "Bordlagd",
@@ -979,31 +1159,35 @@
       }
     ],
     "agreement_with": {
-      "C": 4,
-      "L": 5,
-      "M": 4,
-      "S": 4,
-      "V": 4,
-      "KD": 4,
+      "V": 8,
+      "M": 11,
+      "C": 11,
+      "L": 10,
+      "S": 11,
       "ÖrP": 1,
-      "SD": 2
+      "KD": 11,
+      "SD": 5
     },
     "disagreement_with": {
       "SD": 3,
       "C": 2,
-      "M": 2,
       "V": 2,
       "S": 2,
+      "M": 2,
       "ÖrP": 2,
       "L": 1
     },
-    "for_pct": 83,
-    "against_pct": 17,
+    "for_pct": 92,
+    "against_pct": 8,
     "abstained_pct": 0,
-    "activity_score": 40,
+    "activity_score": 100,
     "top_categories": [
       [
         "politik",
+        3
+      ],
+      [
+        "ovrigt",
         3
       ],
       [
@@ -1011,22 +1195,26 @@
         2
       ],
       [
-        "skola",
+        "budget",
+        2
+      ],
+      [
+        "infrastruktur",
         1
       ]
     ],
     "top_allies": [
       [
-        "L",
-        5
+        "M",
+        11
       ],
       [
         "C",
-        4
+        11
       ],
       [
-        "M",
-        4
+        "S",
+        11
       ]
     ],
     "top_opponents": [
@@ -1039,7 +1227,7 @@
         2
       ],
       [
-        "M",
+        "V",
         2
       ]
     ]

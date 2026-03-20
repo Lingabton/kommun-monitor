@@ -2,15 +2,15 @@
   "api": "Kommun Monitor API",
   "version": "1.0.0",
   "base_url": "https://Lingabton.github.io/kommun-monitor/api/v1",
-  "generated_at": "2026-03-20T06:50:24.452498+00:00",
+  "generated_at": "2026-03-20T07:45:04.776489+00:00",
   "stats": {
     "municipalities": 1,
-    "meetings": 4,
-    "decisions": 20,
-    "contested_decisions": 16,
+    "meetings": 6,
+    "decisions": 41,
+    "contested_decisions": 30,
     "parties_tracked": 9,
     "date_range": {
-      "earliest": "2025-01-29",
+      "earliest": "2024-04-09",
       "latest": "2025-12-10"
     }
   },
