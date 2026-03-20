@@ -1,0 +1,49 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-08-27",
+  "summary_headline": "Naturreservat Garphytteklint beslutat trots opposition",
+  "decisions": [
+    {
+      "headline": "Naturreservat Garphytteklint bildas med skötselplan",
+      "summary": "Kommunfullmäktige beslutar att bilda naturreservatet Garphytteklint i Garphyttan. Beslutet innebär att område med höga naturvärden skyddas för rekreation, men en mindre del planlagd för bostäder undantas från reservatet.",
+      "detail": "Miljö- och stadsbyggnadsförvaltningen har arbetat med naturreservatsfrågan sedan 2022 efter att Länsstyrelsen avbrutit sin egen process. Förslaget bygger på bedömningen att allmänna intressen väger tyngre än enskilda, eftersom området har mycket höga naturvärden och är viktigt som rekreationsskog för Garphyttans invånare.\n\nKommunfullmäktige beslutar att anta förslag till bildande av naturreservatet Garphytteklint, skötselplan och föreskrifter för området. En mindre del som var planlagd för bostadsändamål undantas för att säkerställa överensstämmelse med miljöbalken.\n\nÅtta ledamöter från Socialdemokraterna, Vänsterpartiet, Liberalerna, Kristdemokraterna, Miljöpartiet, Moderaterna och Centerpartiet förespråkade bifall. Örebro Parter, Sverigedemokraterna och delar av SD motsatte sig reservatbildningen.\n\nSex ledamöter från Örebro Parter och elva från Sverigedemokraterna reserverade sig mot beslutet till förmån för avslagsyrkanden.",
+      "category": "miljö",
+      "contested": true,
+      "location": "Garphytteklint, Garphyttan",
+      "paragraph_ref": "§ 217",
+      "quote": "Bedömningen är att de allmänna intressena väger tyngre än de enskilda, då området hyser mycket höga naturvärden och är av stor betydelse som rekreationsskog för Garphyttans invånare.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "V",
+          "L",
+          "KD",
+          "MP",
+          "M",
+          "C"
+        ],
+        "against": [
+          "OrP",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "naturreservat",
+        "miljöskydd",
+        "Garphyttan",
+        "rekreation"
+      ],
+      "id": "2025-08-27_ko_217"
+    }
+  ],
+  "motions_of_interest": [],
+  "skipped_items_count": 1,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2025-08-27",
+  "pdf_path": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-08-27_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 1
+}

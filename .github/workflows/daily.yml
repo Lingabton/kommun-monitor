@@ -1,11 +1,26 @@
-name: Daily Update & Deploy
+name: Kommun Monitor — Daily Auto-Discovery
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # 08:00 Swedish time
-  workflow_dispatch:       # Manual trigger
-  push:
-    branches: [main]
+    # Run at 07:00 and 14:00 Stockholm time (05:00 and 12:00 UTC)
+    # 07:00 catches overnight protocol postings
+    # 14:00 catches same-day postings (protocols often posted mid-day)
+    - cron: '0 5 * * *'
+    - cron: '0 12 * * 1-5'   # Weekdays only for the afternoon run
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode'
+        required: true
+        default: 'auto'
+        type: choice
+        options:
+          - auto           # Full pipeline
+          - discover-only  # Just check RSS, don't process
+          - retry          # Retry protocols missing PDFs
+          - backfill-2025  # Backfill 2025 protocols
+          - backfill-2026  # Backfill 2026 protocols
+          - dry-run        # Show what would happen
 
 permissions:
   contents: write
@@ -13,53 +28,100 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
+          cache: 'pip'
 
       - name: Install dependencies
-        run: pip install anthropic pdfplumber requests beautifulsoup4
-
-      - name: Scrape new protocols
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: cd scripts && python3 scraper.py --max 5 --model haiku
-        continue-on-error: true
-
-      - name: Build analytics
         run: |
-          cd scripts
-          python3 analytics.py --base-url "https://${{ github.repository_owner }}.github.io/kommun-monitor"
-          python3 build_api.py --base-url "https://${{ github.repository_owner }}.github.io/kommun-monitor"
-          python3 insights.py --base-url "https://${{ github.repository_owner }}.github.io/kommun-monitor"
+          pip install anthropic pdfplumber requests beautifulsoup4 lxml
 
-      - name: Commit data changes
+      - name: Configure Git
         run: |
           git config user.name "Kommun Monitor Bot"
           git config user.email "bot@kommun-monitor.se"
-          git add -A
-          git diff --staged --quiet || git commit -m "🏛️ Auto-update $(date +%Y-%m-%d)"
-          git push || true
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Run Pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_ACTIONS: true
+        run: |
+          cd scripts
+
+          MODE="${{ github.event.inputs.mode || 'auto' }}"
+
+          case $MODE in
+            auto)
+              echo "🔄 Running full auto pipeline..."
+              python pipeline.py --max 5
+              ;;
+            discover-only)
+              echo "🔍 Discovery only..."
+              python pipeline.py --discover-only
+              ;;
+            retry)
+              echo "🔄 Retrying pending..."
+              python pipeline.py --retry
+              ;;
+            backfill-2025)
+              echo "📚 Backfilling 2025..."
+              python pipeline.py --backfill 2025 --max 10
+              ;;
+            backfill-2026)
+              echo "📚 Backfilling 2026..."
+              python pipeline.py --backfill 2026 --max 10
+              ;;
+            dry-run)
+              echo "🧪 Dry run..."
+              python pipeline.py --dry-run
+              ;;
+          esac
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          path: site/
+          name: pipeline-logs
+          path: logs/
+          retention-days: 14
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
       - name: Deploy to GitHub Pages
-        id: deployment
+        if: success()
         uses: actions/deploy-pages@v4
+        with:
+          artifact_path: site/
+
+  # Separate job: retry pending protocols every 3 days
+  retry-pending:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 5 * * 1'  # Monday mornings only
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests beautifulsoup4
+      - name: Retry pending
+        run: |
+          cd scripts
+          python -c "
+          from discovery import retry_pending
+          found = retry_pending(max_retries=10)
+          for p in found:
+              print(f'Found: {p[\"organ\"]} {p[\"meeting_date\"]}')
+          print(f'Total found: {len(found)}')
+          "

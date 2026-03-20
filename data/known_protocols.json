@@ -1,0 +1,48 @@
+{
+  "_comment": "Verified KF + KS protocol PDF URLs. Add new ones manually here if auto-discovery misses them.",
+  "_updated": "2026-03-19",
+  "protocols": [
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-02-11",
+      "pdf_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "pages": 18,
+      "note": "Bostadsförsörjning, dataskydd, planeringsförutsättningar, BRT"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-08-27",
+      "pdf_url": "https://www.orebro.se/download/18.51f8f580198e626bf11a67/1756478793570/2025-08-27%20Kommunfullm%C3%A4ktige%20%C2%A7%20217-218.pdf",
+      "pages": 6,
+      "note": "Garphytteklint naturreservat, val"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-10-14",
+      "pdf_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
+      "pages": 40,
+      "note": "Tilläggsbudget 2026, lokalförsörjningsplan, -210 MSEK budgetavvikelse, BRT etapp 2"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-10-14",
+      "pdf_url": "https://www.orebro.se/download/18.c8cb877199c901866611f3/1760517421951/2025-10-14%20%20Kommunstyrelsen%20%C2%A7%20207-209.pdf",
+      "pages": 5,
+      "note": "Remissvar klimatanpassning, länsplan transport 2026-2037"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-11-11",
+      "pdf_url": "https://www.orebro.se/download/18.532e2b0519a768a724f8ae/1763038918069/2025-11-11%20Kommunstyrelsen.pdf",
+      "pages": 19,
+      "note": "Likviditetsportfölj 568 MSEK, enprocentsregeln konst, motioner fossil reklam, värmestuga"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-12-10",
+      "pdf_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": 40,
+      "note": "9 timmar! Nämndreglemente, 202 ej verkställda SoL/LSS-beslut, farligt gods, cirkulationsbibliotek, kulturarvsvecka"
+    }
+  ]
+}

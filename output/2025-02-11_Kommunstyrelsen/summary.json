@@ -1,0 +1,239 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2025-02-11",
+  "summary_headline": "Budget, bostadsriktlinjer och motioner behandlade",
+  "decisions": [
+    {
+      "headline": "Överföring av investeringsanslag 360 mnkr från 2024",
+      "summary": "Kommunstyrelsen godkänner överföring av 360 miljoner kronor i investeringsanslag från 2024 till 2025. Beslutspunkten går vidare till Kommunfullmäktige.",
+      "detail": "I ärendet redovisas förslag till överförda driftresultat för intraprenader och politiska kanslier samt överföring av investeringsanslag. Totalt 36,7 miljoner kronor i ackumulerat resultat från intraprenader överförs till 2025. För politiska kanslier överförs 8,2 miljoner kronor från bokslut 2024.\n\nDet huvudsakliga beslutet avser överföring av 360 miljoner kronor i investeringsanslag - 193 miljoner för skattefinansierade investeringar och 167 miljoner för taxefinansierade investeringar. Balans- och kassaflödesbudgeten för 2025 revideras utifrån detta.\n\nÖrebropartiet (ÖrP) motsatte sig beslutet helt. Sverigedemokraterna (SD) motsatte sig specifikt överföringen av investeringsanslag. Beslutspunkten kräver godkännande från Kommunfullmäktige för att träda i kraft.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 29",
+      "quote": "Investeringsanslag på sammanlagt 360 048 tkr överförs från 2024 till 2025 i enlighet med kommunstyrelseförvaltningens förslag.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "budget",
+        "ekonomi"
+      ],
+      "id": "2025-02-11_ko_29"
+    },
+    {
+      "headline": "Tilläggsanslag 17 miljoner kronor för lokalförsörjning",
+      "summary": "Kommunstyrelsen beslutar att ge tilläggsanslag på totalt 17 miljoner kronor för kostnadsökningar och lokalförsörjningsobjekt.",
+      "detail": "Ärendet omfattar tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda kostnader under budgetåret 2025. Tilläggsansklagen avser bland annat kompensation till nämnder för färdigställda lokalförsörjningsobjekt. Ombudgetering sker på grund av organisationsförändringar.\n\nTotalt beviljas 17 044 tkr i tilläggsanslag. Finansieringen sker ur Kommunstyrelsens utrymme samt från anslagen för beslutade konsekvenser av investeringar och lokalförsörjning.\n\nÖrebropartiet motsatte sig beslutet och hänvisade till sitt eget budgetförslag. Övriga partier godkände den förvaltningssamordnade propositionen.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 31",
+      "quote": "Tilläggsanslag beviljas med totalt 17 044 tkr enligt Kommunledningsförvaltningens förslag.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "lokalförsörjning",
+        "anslag"
+      ],
+      "id": "2025-02-11_ko_31"
+    },
+    {
+      "headline": "Riktlinjer för bostadsförsörjning antas för remiss",
+      "summary": "Kommunstyrelsen antar riktlinjer för bostadsförsörjning och skickar dem till Kommunfullmäktige för slutgiltigt beslut.",
+      "detail": "Enligt lag om kommunernas bostadsförsörjningsansvar måste varje kommun anta riktlinjer för bostadsförsörjningen. Riktlinjerna syftar till att skapa förutsättningar för alla att leva i goda bostäder och att främja ändamålsenliga åtgärder för bostadsförsörjningen.\n\nRiktlinjerna innehåller Örebro kommuns mål för bostadsförsörjningen och konkreta insatser. Till dokumentet finns bilagor med analys av demografisk utveckling, marknadsförutsättningar och bostadsbehov. Riktlinjerna ska tillämpas förvaltnings- och bolagsövergripande och fungera som underlag till översiktsplanen.\n\nFlera partier krävde återremiss: Sverigedemokraterna ville fokus på villabygge och att småhusperspektivet stärktes. Vänsterpartiet ville få genomfört sina ändringar. Kristdemokraterna önskade tillägg om trädgårdsstäder, boendesegregation och bredare hemløshetslösningar. Örebropartiet ville helt avslå. Ordföranden avslogs alla återremissyrkanden.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 38",
+      "quote": "Riktlinjerna innehåller Örebro kommuns mål för bostadsförsörjningen och insatser för att uppnå målen.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [
+          "C",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "bostadsförsörjning",
+        "riktlinjer",
+        "boendeformer",
+        "småhus"
+      ],
+      "id": "2025-02-11_ko_38"
+    },
+    {
+      "headline": "Årsberättelse 2024 fastställd trots reservationer",
+      "summary": "Kommunstyrelsen fastställer årsberättelsen för 2024 som visar positiv ekonomisk resultat på 10,2 miljoner kronor.",
+      "detail": "Kommunledningsförvaltningen har sammanställt årsberättelse 2024. Verksamheten under Kommunstyrelsen bedrivs enligt reglemente och uppdrag och levererar positiva bidrag till kommuns utveckling och ekonomi.\n\nKommunstyrelsen redovisar en positiv avvikelse på 10,2 miljoner kronor. Kommunledningsförvaltningen visar positiv avvikelse med 14,8 miljoner kronor. Nio av tolv mål bedöms vara uppfyllda. Av tjugo uppdrag från budget 2024 är femton genomförda och fem påbörjade.\n\nÖrebropartiet yrkat avslag på årsberättelsen. Vänsterpartiet, Liberalerna och Kristdemokraterna deltog inte i beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 32",
+      "quote": "Kommunstyrelsen redovisar en positiv avvikelse uppgående till 10,2 mnkr.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [
+          "C",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "årsberättelse",
+        "ekonomi",
+        "verksamhetsresultat"
+      ],
+      "id": "2025-02-11_ko_32"
+    },
+    {
+      "headline": "Rapport ej verkställda LSS och SoL-beslut behandlad",
+      "summary": "Kommunstyrelsen tar del av rapport över ej verkställda LSS och SoL-beslut för tredje kvartalet 2024.",
+      "detail": "Funktionsstödsnämnden rapporterar 149 beslut varav 98 fortsatt ej verkställda efter tre månader. Vård- och omsorgsnämnden rapporterar 42 beslut med 26 ej verkställda. Socialnämnden rapporterar 29 beslut.\n\nSverigedemokraterna yrkat på att framtida rapporter särredovisar om anledningen till förseningar beror på kommunen eller individen, samt fortsatta skarpa krav på nämnder för att undvika IVO-anmälningar. Liberalerna gav ett särskilt yttrande om den bekymmersamma situationen och kallat på gemensamma krafttag över nästan alla politiska gränser.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 39",
+      "quote": "För det tredje kvartalet 2024 minskade Funktionsstödsnämndens totala antal rapporterade beslut till 149 stycken.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "LSS",
+        "SoL",
+        "välfärd",
+        "försörjning"
+      ],
+      "id": "2025-02-11_ko_39"
+    },
+    {
+      "headline": "Fem motioner remitteras till nämnder och styrelsen",
+      "summary": "Kommunstyrelsen beslutar om remittering av fem motioner från Kommunfullmäktige.",
+      "detail": "Motion från Martha Wicklund (V) m.fl. om att trygga demokratin besvaras av Kommunstyrelsen.\n\nMotion från Helena Ståhl (SD) och Habib Brini (SD) om att sluta med ekonomiska fallskärmar besvaras av Kommunstyrelsen.\n\nMotion från Carola Sunesson (SD) och Christer Johansson (SD) om klassisk arkitektur och lokal byggtradition remitteras till Bygg- och miljönämnden samt Markplanerings- och exploateringsnämnden.\n\nMotion från Helena Ståhl (SD) och Habib Brini (SD) om långtidsarbetslösa vid snöröjning remitteras till Gymnasie- och arbetsmarknadsnämnden.\n\nMotion från Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i översiktsplanen remitteras till Markplanerings- och exploateringsnämnden.",
+      "category": "politik",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 42",
+      "quote": "Motion från Martha Wicklund (V) m.fl. om att trygga demokratin besvaras av Kommunstyrelsen.",
+      "quote_page": "s. 14-15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "motioner",
+        "demokrati",
+        "arbetsmarknad",
+        "arkitektur",
+        "energi"
+      ],
+      "id": "2025-02-11_ko_42"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Trygga demokratin",
+      "party": "V",
+      "status": "Besvaras av Kommunstyrelsen"
+    },
+    {
+      "title": "Sluta med ekonomiska fallskärmar",
+      "party": "SD",
+      "status": "Besvaras av Kommunstyrelsen"
+    },
+    {
+      "title": "Främja klassisk arkitektur och lokal byggtradition",
+      "party": "SD",
+      "status": "Remitterad till nämnder"
+    },
+    {
+      "title": "Engagera långtidsarbetslösa vid snöröjning",
+      "party": "SD",
+      "status": "Remitterad till nämnder"
+    },
+    {
+      "title": "Inkludera områden för kärnkraft (SMR) i Översiktsplanen",
+      "party": "SD",
+      "status": "Remitterad till nämnder"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2025-02-11",
+  "pdf_path": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-02-11_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 6
+}

@@ -1,0 +1,381 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2025-11-11",
+  "summary_headline": "Pension, konst och omstridd informationsdeling",
+  "decisions": [
+    {
+      "headline": "Överföring av pensionsmedel och likviditet fastställs",
+      "summary": "Kommunstyrelsen fastställer storleken på kort- och långfristig likviditetsportfölj för 2026. 234 miljoner kronor överförs från pensionsportföljen och 510 miljoner från långfristig portfölj.",
+      "detail": "Kommunens kapitalförvaltning är indelad i tre portföljer: pensionsportfölj, kort- och långfristig likviditetsportfölj. Enligt placeringspolicyn fattar Kommunstyrelsen beslut om överföringar mellan dessa.\n\nÅrets pensionsutbetalningar beräknas till 234 miljoner kronor som överförs från pensionsportföljen till långfristig likviditet. Den kortfristiga portföljen förväntas uppgå till 58 miljoner kronor vid årets slut, men med ett budgeterat negativt kassaflöde på -567 miljoner kronor för 2026 behöver 510 miljoner överföras från långfristig till kortfristig portfölj.\n\nKommunstyrelsen fastställer därför den kortfristiga likviditetsportföljen till 568 miljoner kronor vid ingången av år 2026 för att skapa buffert för oförutsedda händelser.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 224",
+      "quote": "Storleken på den kortfristiga likviditetsportföljen fastställs till 568 miljoner kronor vid ingången av år 2026. Kapital tillförs från långfristig likviditetsportfölj.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "pensioner",
+        "likviditet",
+        "portfölj",
+        "ekonomi"
+      ],
+      "id": "2025-11-11_ko_224"
+    },
+    {
+      "headline": "Reviderad konstpolicy antas trots kritik från högern",
+      "summary": "Kultur- och fritidsnämndens förslag till reviderad konstpolicy antas. SD och ÖrP reserverar sig och yrkade på att enprocentsregeln ska upphöra helt.",
+      "detail": "Konstpolicyn för Örebro kommun antogs 2022 och nu föreslås en revidering av hur medel från enprocentsregeln (én procent av byggkostnader avsatt för konstnärlig utsmyckning) ska användas.\n\nDen nya policyn föreslår flexibel fördelning av enprocentsmedel mellan prioriterade projekt som standardförfarande. Sedan Lokalplaneringsenheten (LPE) antog nya riktlinjer under 2022 har det uppdagats skillnader i formuleringar mellan LPE:s riktlinjer och konstpolicyn gällande undantag från enprocentsregeln. Revidering föreslår liknade formuleringar i båda dokumenten.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på att enprocentsregeln ska avvecklas helt, men detta avslogs. SD och ÖrP reserverar sig mot beslutet. Ärendet går vidare till Kommunfullmäktige för slutgiltigt beslut.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 225",
+      "quote": "Förslag till reviderad konstpolicy antas. Ärendet ska vidare till Kommunfullmäktige för beslut.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "konstpolicy",
+        "enprocentsregeln",
+        "kultur",
+        "styrdokument"
+      ],
+      "id": "2025-11-11_ko_225"
+    },
+    {
+      "headline": "Örebro tillstyrker förbättrat informationsutbyte mellan myndigheter",
+      "summary": "Kommunen svarar positivt på remiss om utökat informationsutbyte mellan myndigheter för att bekämpa välfärdsbrott. SD och ÖrP motsätter sig, V ifrågasätter integritetsaspekter.",
+      "detail": "Justitiedepartementet remitterade slutbetänkandet 'Ökat informationsutbyte mellan myndigheter – några anslutande frågor' (SOU 2025:45). Utredningen föreslår att myndigheter ska kunna lämna ut icke-sekretessbelagda uppgifter på eget initiativ för att förbättra samverkan mot välfärdsbrott.\n\nÖrebro kommun tillstyrker förslagen och bedömer att utökat informationsutbyte kan stärka arbetet mot välfärdsbrott, förbättra samverkan mellan förskolor, skolor, socialtjänst och polis. Kommunen framhåller att detta möjliggör tidiga insatser för barn i risk och förbättrar informationsflödet mellan skola och socialtjänst.\n\nMarkus Allard (ÖrP) yrkade på avslag, Helena Ståhl (SD) på annat yttrande. Kommunstyrelsen godkände det framlagda yttrandet. Martha Wicklund (V) får lämna särskilt yttrande som betonar integritetsfrågorna och risken för missbruk i auktoritära sammanhang.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 226",
+      "quote": "Örebro kommun är positiv till utredningens förslag om förbättrade möjligheter till informationsutbyte mellan myndigheter. Se fördelar i att dela information för att stärka arbetet mot brott.",
+      "quote_page": "s. 1 (yttrande)",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "informationssäkerhet",
+        "myndighetssamverkan",
+        "välfärdsbrott",
+        "integritet"
+      ],
+      "id": "2025-11-11_ko_226"
+    },
+    {
+      "headline": "Örebro stödjer regional handlingsplan för civilsamhälle",
+      "summary": "Kommun svarar positivt på remiss om ny regional handlingsplan för civilsamhälle och social ekonomi 2026-2030. ÖrP och en C-ledamot reserverar sig.",
+      "detail": "Region Örebro län remitterade en ny regional handlingsplan för civilsamhälle och social ekonomi 2026-2030 som del av Regional utvecklingsstrategi 2022-2030 (RUS). Handlingsplanen syftar till ökat och stärkt deltagande av civilsamhälle och social ekonomi i länets utveckling.\n\nPlanen har fyra insatsområden med prioriterade aktiviteter och involverar civilsamhällets organisationer, offentlig sektor och näringslivet.\n\nKommunstyrelsen godkände det framlagda yttrandet. Markus Allard (ÖrP) yrkade på avslag. Anna Ekström (C) anmälde jäv och deltog inte i beredningen. Ärendet justerades omedelbar.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 227",
+      "quote": "Förslag till yttrande antas och överlämnas till Region Örebro län.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "civilsamhälle",
+        "regional samverkan",
+        "social ekonomi",
+        "örebro län"
+      ],
+      "id": "2025-11-11_ko_227"
+    },
+    {
+      "headline": "Kommun stödjer skärpad lagstiftning mot korruption",
+      "summary": "Örebro tillstyrker remiss om straffrättsliga åtgärder mot korruption och tjänstefel, förespråkar tydligare rekvisit och skärpta straff.",
+      "detail": "Justitiedepartementet remitterade slutbetänkandet 'Straffrättsliga åtgärder mot korruption och tjänstefel' (SOU 2025:87) för att se över lagstiftningen och säkerställa effektivitet samt överensstämmelse med Sveriges internationella åtaganden.\n\nÖrebro kommun tillstyrker utredningens övergripande förslag. Kommunen anser att samling av korruptionsbrott i egen lag förtydligar begreppet och att förslagen om ny lag för 'missbruk av offentlig ställning' skulle kunna fånga upp nepotism, jäv och intressekonflikter som inte kan åtalas under nuvarande lagstiftning.\n\nKommunen stödjer tydligare rekvisit, skärpta straff för normalgraden och grovt tjänstefel, och förtydligandet att ringa tjänstefel bör hanteras genom arbetsrättslig disciplinär åtgärd.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 228",
+      "quote": "Örebro kommun ser positivt på samtliga förslag i utredningen som bedöms kommer att ha positiva effekter både ur civilrättsligt och arbetsrättsligt perspektiv.",
+      "quote_page": "s. 1 (yttrande)",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "korruption",
+        "tjänstefel",
+        "lagstiftning",
+        "rättssäkerhet"
+      ],
+      "id": "2025-11-11_ko_228"
+    },
+    {
+      "headline": "Vänsterpartiet kritiserar försökt sänkning av straffbarhetsålder",
+      "summary": "Justitiedepartementet remitterade förslag om sänkt straffbarhetsålder för allvarliga brott till 13 år. V reserverar sig starkt och ifrågasätter effektiviteten.",
+      "detail": "I lagrådsremissen föreslås sänkning av straffbarhetsåldern från 15 till 13 år för brott med minimistraff fängelse fyra år eller mer, samt försök, förberedelse och stämpling till sådana brott. Regleringen skulle vara tidsbegränsad till fem år och träda i kraft 1 juli 2026.\n\nUtredningen motiverar förslaget med att systematisk och organiserad brottslighet ökar bland allt yngre personer.\n\nMartha Wicklund (V) yrkade på att i yttrandet tydligt avstyrka förslaget. Helena Ståhl (SD) yrkade på att ställa sig helt bakom lagrådsremissen. Markus Allard (ÖrP) yrkade på avslag. Kommunstyrelsen godkände det framlagda yttrandet utan inskärpningar.\n\nV reserverar sig starkt och argumenterar med att psykologisk forskning visar ungdomars begränsade impulskontroll och att strängare straff för ungdomar ofta leder till ökad återfallsrisk snarare än att förebygga brott.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 229",
+      "quote": "Yttrandet överlämnas till Justitiedepartementet. Paragrafen justeras omedelbar.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "straffbarhetsålder",
+        "ungdomar",
+        "brottslighet",
+        "rättssäkerhet"
+      ],
+      "id": "2025-11-11_ko_229"
+    },
+    {
+      "headline": "Motion om att riva fontänen på Järntorget avslås",
+      "summary": "Sverigedemokraterna och ÖrP ville riva fontänen och återupprätta parkering på Järntorget. Kommun bedömer att problemen kräver innehållsmässiga, inte parkeringsmässiga lösningar.",
+      "detail": "Helena Ståhl (SD) och Markus Allard (ÖrP) väckade motion om att riva fontänen på Järntorget och återupprätta parkeringsplatserna. Motionärerna hävdade att detta skulle förbättra näringslivet i området.\n\nMarkplanerings- och exploateringsnämnden bedömer att fontänens driftproblem skapade utmaningar, men att när fontänen fungerat har den varit väldigt uppskattad särskilt av barnfamiljer. Förvaltningens analys visar att problemen med trygghet och aktivitet på torget i första hand inte beror på frånvaron av parkering utan på bristen på innehål, aktiviteter och sammanhang i omgivningen.\n\nEn återgång till bilparkering skulle inte lösa dessa långsiktiga utmaningar utan riskera att försvaga möjligheten att utveckla torget till attraktiv mötesplats. Ärendet går vidare till Kommunfullmäktige.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Järntorget, Örebro",
+      "paragraph_ref": "§ 231",
+      "quote": "Förvaltningens analys visar att problemen kring trygghet och aktivitet på torget i första hand inte beror på frånvaron av parkering, utan snarare på bristen på innehål, aktiviteter och sammanhang.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "järntorget",
+        "parkering",
+        "stadsutveckling",
+        "mötesplats"
+      ],
+      "id": "2025-11-11_ko_231"
+    },
+    {
+      "headline": "Motion om att rensa bland styrdokument delvis tillgodosedd",
+      "summary": "SD väckade motion om översyn av samtliga styrdokument. Kommun bedömer att revisionen av Riktlinjer för styrdokument från maj 2025 redan tillgodoser intentionen.",
+      "detail": "Carola Sunesson (SD) och Bo Ammer (SD) väckade motion om att göra en omfattande översyn av samtliga styrdokument för att minska antalet och sammanföra nödvändiga nya dokumenten med befintliga.\n\nKommunfullmäktige reviderade redan den 21 maj 2025 Riktlinjer för styrdokument. Kommunledningsförvaltningen bedömer att denna revidering motsvarar motionens intention. Den nya riktlinjen utgår från att endast de styrdokument som behövs ska upprättas. Löpande skall varje förvaltning pröva om deras styrdokument fortfarande behövs eller om det ska upphävas, revideras eller sammanföras.\n\nMotionens första yrkande (om allmän översyn) avslås. Motionens andra yrkande (om försiktighet med nya dokument) anses tillgodosett.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 232",
+      "quote": "Motionens första yrkande avslås. Motionens andra yrkande anses tillgodosett.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Delvis bifall"
+      },
+      "tags": [
+        "styrdokument",
+        "administration",
+        "regelklar",
+        "effektivitet"
+      ],
+      "id": "2025-11-11_ko_232"
+    },
+    {
+      "headline": "Motion om avgångsvederlag avslås efter rättslig prövning",
+      "summary": "SD väckade motion om att begränsa avgångsvederlag och ekonomiska fallskärmar. Kommun bedömer att rättsordning och befintliga rutiner redan hanterar frågan.",
+      "detail": "Helena Ståhl (SD) och Habib Brini (SD) väckade motion om att begränsa användningen av avgångsvederlag och ekonomiska fallskärmar inom kommunen. De menade att nuvarande praxis kring överenskommelser om anställningsavslut riskerar att undergräva tillämpningen av lagen om anställningsskydd (LAS).\n\nMotionärerna föreslog att styrdokument ändras, att beslut om ekonomisk kompensation alltid fattas politiskt och att sådana beslut aldrig delegeras till enskilda politiker.\n\nKommunledningsförvaltningen bedömer att motionens intentioner redan hanteras genom gällande rättsordning, befintliga rutiner och varje nämnds och kommunstyrelsens ansvar för sina delegationsordningar. Därmed ses inget behov av särskilda åtgärder.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 233",
+      "quote": "Motionen avslås. Ärendet ska vidare till kommunfullmäktige för beslut.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "avgångsvederlag",
+        "anställning",
+        "rättssäkerhet",
+        "delegation"
+      ],
+      "id": "2025-11-11_ko_233"
+    },
+    {
+      "headline": "Fem nya motioner remitteras till nämnder och styrelse",
+      "summary": "Kommunfullmäktige remitterade fem motioner. Två går till Kommunstyrelsen för beredning, två till nämnder och en till Teknik- och servicenämnden.",
+      "detail": "Följande motioner remitterades från Kommunfullmäktige den 22 oktober 2025:\n\n1. Motion från Lea Strandberg (MP) om missvisande räkning av koldioxidutsläpp - bereds av Kommunstyrelsen\n\n2. Motion från Christina Håkansson (KD) om att utöka antalet gästlägenheter för anhörigstöd - remitteras till Vård- och omsorgsnämnden\n\n3. Motion från Karolina Wallström (L) om ett framtida och levande city i Örebro - remitteras till Teknik- och servicenämnden\n\n4. Motion från Helena Ståhl (SD) och Carola Sunesson (SD) om att aldrig glömma Pela och Fadime - bereds av Kommunstyrelsen\n\n5. Motion från Martha Wicklund (V) m.fl. om ett grönare Örebro - remitteras till Markplanerings- och exploateringsnämnden",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 235",
+      "quote": "Motion från Lea Strandberg (MP) om missvisande räkning av koldioxidutsläpp bereds av Kommunstyrelsen.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "motioner",
+        "remittering",
+        "nämndberedning",
+        "miljö",
+        "anhörigstöd"
+      ],
+      "id": "2025-11-11_ko_235"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Riv fontänen och återupprätta parkeringarna på Järntorget",
+      "party": "SD",
+      "status": "Avslagen av Kommunstyrelsen, går till Kommunfullmäktige"
+    },
+    {
+      "title": "Rensa bland styrdokument",
+      "party": "SD",
+      "status": "Delvis tillgodosedd av reviderad Riktlinje från maj 2025"
+    },
+    {
+      "title": "Det får vara nog med ekonomiska fallskärmar",
+      "party": "SD",
+      "status": "Avslagen av Kommunstyrelsen, går till Kommunfullmäktige"
+    },
+    {
+      "title": "Missvisande räkning av koldioxidutsläpp",
+      "party": "MP",
+      "status": "Remitterad till Kommunstyrelsen för beredning"
+    },
+    {
+      "title": "Utöka gästlägenheter för anhörigstöd",
+      "party": "KD",
+      "status": "Remitterad till Vård- och omsorgsnämnden"
+    },
+    {
+      "title": "Ett framtida och levande city i Örebro",
+      "party": "L",
+      "status": "Remitterad till Teknik- och servicenämnden"
+    },
+    {
+      "title": "Aldrig glömma Pela och Fadime",
+      "party": "SD",
+      "status": "Remitterad till Kommunstyrelsen för beredning"
+    },
+    {
+      "title": "Ett grönare Örebro",
+      "party": "V",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+    }
+  ],
+  "skipped_items_count": 4,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2025-11-11",
+  "pdf_path": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 10
+}
