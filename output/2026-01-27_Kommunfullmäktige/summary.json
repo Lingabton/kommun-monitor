@@ -1,0 +1,199 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2026-01-27",
+  "summary_headline": "Många motioner bordlagda, Oslo-Stockholm-ägarskifte godkänt",
+  "decisions": [
+    {
+      "headline": "Region Stockholm blir delägare i Oslo-Stockholm 255 AB",
+      "summary": "Kommunfullmäktige godkände att Region Stockholm blir delägare i infrastrukturbolaget Oslo-Stockholm 255 AB genom en nyemission.",
+      "detail": "Oslo-Stockholm 255 AB ägs av Örebro Rådhus AB, Region Örebro läns förvaltning AB, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland. Region Stockholm har uttryckt önskan att bli delägare.\n\nBolagets aktiekapital ökas med 8 800 kronor genom nyemission av 88 aktier. Region Stockholm tecknar 84 aktier, medan Region Örebro läns förvaltning AB, Region Värmland, Karlstads kommun och Örebro Rådhus AB var tecknar en aktie. Aktierna tecknas till kvotvärdet 100 kronor per aktie plus överkurs 800 kronor per aktie.\n\nKommunfullmäktige gav Örebro Rådhus AB i uppdrag att ingå nytt aktieägaravtal. Kommunens stämmoombud fick mandat att rösta för godkännande av reviderad bolagsordning och ägardirektiv vid bolagsstämman.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 13",
+      "quote": "Aktieägaravtal, bolagsordning och ägardirektiv har reviderats i samråd mellan nuvarande ägare och Region Stockholm. Dessa dokument behöver godkännas av respektive ägares fullmäktige.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Oslo-Stockholm AB",
+        "aktieägarskifte",
+        "infrastruktur"
+      ],
+      "id": "2026-01-27_ko_13"
+    },
+    {
+      "headline": "Motion om offentliga toaletter - bordlades efter meningsskiljaktighet",
+      "summary": "Kommunfullmäktige bordlade motionen från Liberalerna om utökning av offentliga toaletter efter oenighet om hur ärendet ska hanteras.",
+      "detail": "Karolina Wallström (L), Patrik Jämtvall (L) och Johanna Reimfelt (L) motionerade för att kommunen omedelbart ska påbörja att praktiskt ordna eller bygga nya offentliga toaletter i Örebros offentliga rum.\n\nKommunstyrelsen föreslog att motionen skulle anses besvarad, med hänvisning till att Teknik- och serviceförvaltningen redan fått i uppdrag att utöka antalet offentliga toaletter. En utredning av antal, plats och lämpliga lösningar skulle genomföras.\n\nUnder fullmäktiges behandling yrkade flera partier på bifall till motionen, medan andra stödde kommunstyrelsens förslag. Ordföranden fann att majoritet stödde kommunstyrelsens linje att motionen var besvarad, men 21 ledamöter från L, V, MP, ÖrP och KD reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 15",
+      "quote": "Motionen innehåller ett förslag om att Örebro kommun omedelbart beslutar att påbörja att praktiskt ordna/öppna eller bygga nya offentliga toaletter i Örebros offentliga rum.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [
+          "C"
+        ],
+        "result": "Bifall till kommunstyrelsens förslag"
+      },
+      "tags": [
+        "offentlig toalett",
+        "infrastruktur",
+        "Örebro stad"
+      ],
+      "id": "2026-01-27_ko_15"
+    },
+    {
+      "headline": "Flera SD-motioner bordlades på ordförandens initiativ",
+      "summary": "Ordförande bordlade flertalet motioner från Sverigedemokraterna, inklusive kärnkraft, arbetsmiljö, Järntorget och Kilsmo skola.",
+      "detail": "Ordförande Jan Zetterqvist (S) yrkade på och fick bifall till bordläggning av flera motioner från Helena Ståhl (SD) och andra SD-ledamöter. Dessa motioner gällde:\n\n1. SMR (små modulära reaktorer) i översiktsplanen - föreslogs avslås då det inte är tydligt på nationell nivå hur detta ska hanteras.\n\n2. Egenskapade raster för bön på arbetstid - kommunstyrelsen föreslog att alla tre delförslag skulle avslås, med argumentet att kommun följer lagstiftning och att nuvarande chefskontroll är tillräcklig.\n\n3. Rivning av fontänen på Järntorget - förvaltningen ansåg att problemen på torget beror på brist på innehål och aktiviteter, inte på frånvaron av parkering.\n\n4. Återöppnande av Kilsmo skola - skolan avvecklades 2020 med 14 av 15 röster. SD var ensamt mot. Argumenten var lågt elevantal och höga kostnader per elev.\n\nAlla fyra ärenden bordlades enligt ordförandens yrkande.",
+      "category": "politik",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 2, 3, 4, 5",
+      "quote": "Ordförande Jan Zetterqvist (S) yrkar att alla motioner från Helena Ståhl (SD) på dagens dagordningen bordläggs.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bordläggning"
+      },
+      "tags": [
+        "Sverigedemokraterna",
+        "bordläggning",
+        "kärnkraft",
+        "Järntorget",
+        "Kilsmo skola"
+      ],
+      "id": "2026-01-27_ko_2_3_4_5"
+    },
+    {
+      "headline": "Återbruk och cirkulär ekonomi - motionen ansågs besvarad",
+      "summary": "Motion från Vänsterpartiet om att utveckla återbruk i kommunen ansågs besvarad efter diskussion om cirkulär ekonomi.",
+      "detail": "Martha Wicklund (V) med flera motionerade för:\n1. Utveckling och främjande av verksamheter som arbetar med återbruk\n2. Utbildning av nyckelpersoner i cirkulärt byggande och återbruk\n3. Att hållbarhetsutskottet utreder cirkulär ekonomi\n\nKommunstyrelsen föreslog att alla tre förslag skulle anses besvarade, då intentionerna redan hanteras inom befintliga strukturer för hållbar utveckling.\n\nUnder fullmäktiges behandling yrkade flera ledamöter från V och MP på att motionen skulle bifallas fullt ut. Ordföranden fann att majoritet stödde kommunstyrelsens förslag om att motionen var besvarad. Dock reserverade sig 8 ledamöter från V och MP mot beslutet.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 16",
+      "quote": "Motionens intentioner är i linje med kommunens arbete för hållbar utveckling, men förslagen bedöms vara hanterade inom ramen för det arbete som redan bedrivs eller som kan utvecklas i befintliga strukturer.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "L"
+        ],
+        "result": "Bifall till kommunstyrelsens förslag"
+      },
+      "tags": [
+        "återbruk",
+        "miljö",
+        "cirkulär ekonomi",
+        "hållbarhet"
+      ],
+      "id": "2026-01-27_ko_16"
+    },
+    {
+      "headline": "Många motioner och interpellationer bordlades massivt",
+      "summary": "Ordförande bordlade stora mängder motioner och interpellationer, många från SD, flera tillhörande övriga partier.",
+      "detail": "En omfattande bordläggning genomfördes under mötet. Ordförande Jan Zetterqvist (S) yrkade på och fick bifall till bordläggning av ett flertal ärenden i slutfasen av mötet.\n\nMotioner som bordlades gällde bland annat: färdtjänst (L), förtroendevaldas säkerhet (V), styrdokument (SD), kulturarvsfond (SD), föreningsbidrag (SD), hederskultur i förskola och skola (SD), Meetings Plus-åtkomst (MP) och seniorer i skolan (KD).\n\nInterpellationer som bordlades gällde bland annat saknade barn, framkomlighet och krisberedskap, utsatta områden, hedersrelaterad problematik och national samordnare.\n\nEnligt protokollet yrkade Bo Ammer (SD) på att sammanträdet skulle fortsätta och att ärendena skulle avgöras samma dag, men detta möttes av ordförandens yrkande på bordläggning, som fick majoritetsstöd.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 31, 32, 33, 34, 35, 36, 37, 38",
+      "quote": "Ordförande Jan Zetterqvist (S) yrkar att resterande motioner på dagordningen bordläggs.",
+      "quote_page": "s. 25",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [
+          "L",
+          "V",
+          "ÖrP",
+          "MP"
+        ],
+        "result": "Bordläggning"
+      },
+      "tags": [
+        "bordläggning",
+        "motioner",
+        "interpellationer",
+        "politisk konflikt"
+      ],
+      "id": "2026-01-27_ko_31_32_33_34_35_36_37_38"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Motioner från Marcus Willén Ode (MP) om övernattningsstugor och biosfärsområde",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Susanne Lindholm Henningsson (KD) om minskad mittokrati",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Carola Sunesson (SD) och Habib Brini (SD) om Trainstation och Komtek",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Martha Wicklund (V) med flera om humanare socialtjänst",
+      "party": "V",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 12,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2026-01-27",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 5
+}

@@ -1,0 +1,182 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2026-02-25",
+  "summary_headline": "Gustavsvik privatiseras, motioner bordläggs, tolv ärenden skjuts upp",
+  "decisions": [
+    {
+      "headline": "Gustavsvik Resorts AB privatiseras genom upphandling",
+      "summary": "Kommunfullmäktige godkänner upphandling av driften av Gustavsviksanläggningen (bad och camping). GRAB omvandlas till fastighetsägare medan extern aktör driver verksamheten.",
+      "detail": "Gustavsvik Resorts AB ägs till 100 procent av Örebroporten Fastigheter AB och driver bad- och campinganläggningen. Kommunen har genomfört en upphandling enligt lagen om upphandling av tjänstekoncessioner (LUK) för att renodla GRAB till fastighetsägare medan en extern aktör med erfarenhet inom branschen övertar driften.\n\nKommunfullmäktige godkänner tre beslutspunkter: genomförandet av upphandlingen och omvandlingen av GRAB:s verksamhetsinriktning, att godkännandet gäller även vid eventuella rättningar eller omgöringar av upphandlingen under förutsättning att ändringar inte är av principiell beskaffenhet, samt att Örebroporten Fastigheter AB får godkännande att fusionera eller likvidera GRAB när bolaget bedömer det lämpligt.\n\nMartha Wicklund (V) och Markus Allard (ÖrP) reserverade sig mot beslutet och yrkade på avslag för att kommunen skulle behålla och fortsätta driva Gustavsvik inom den kommunala koncernen. Övriga partier stödde Kommunstyrelsens förslag.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Gustavsvik",
+      "paragraph_ref": "§ 46",
+      "quote": "GRAB renodlas till ett fastighetsägande bolag och en extern aktör med erfarenhet och kompetens inom branschen driver verksamheten inom Gustavsviksanläggningen.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [
+          "V",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Gustavsvik",
+        "privatisering",
+        "upphandling",
+        "fritid"
+      ],
+      "id": "2026-02-25_ko_46"
+    },
+    {
+      "headline": "Ej verkställda sociala beslut minskar men problem kvarstår",
+      "summary": "Kommunfullmäktige tar emot rapporter om att många beslut om äldreomsorg, funktionsstöd och socialtjänst inte verkställs i tid.",
+      "detail": "Socialnämndens rapporterade beslut minskade till 53 under kvartal 3 2025, med 14 fortsatt ej verkställda inom tre månader jämfört med 26 i föregående kvartal.\n\nVård- och omsorgsnämnden rapporterade en ökning till 101 beslut, en ökning om 46 sedan föregående kvartal. Vid kvartalets slut var 51 beslut fortsatt ej verkställda inom tre månader.\n\nFunktionsstödsnämnden rapporterade 105 beslut, ökning från 90 i föregående kvartal. Vid slutet var 80 beslut fortsatt ej verkställda inom tre månader, en ökning från 59.\n\nMartha Wicklund (V) yrkade på tillägg att Kommunledningsförvaltningen ska utreda orsakerna till svårigheterna och ta fram förslag på hur kommunen ska kunna verkställa gynnande beslut inom rimlig tid. Förslaget röstades ner. V och ÖrP reserverade sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 51",
+      "quote": "Vid kvartalets slut var 51 beslut fortsatt ej verkställda inom tre månader. För Funktionsstödsnämndens del var 80 beslut fortsatt ej verkställda inom tre månader.",
+      "quote_page": "s. 10-11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "äldreomsorg",
+        "socialtjänst",
+        "köer",
+        "bemanning"
+      ],
+      "id": "2026-02-25_ko_51"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Susanne Lindholm Henningsson (KD) om effektivisera utskott och delegation",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Lea Strandberg (MP) om återöppna vårdboendet i Ölmbrotorp",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Carola Sunesson (SD) och Helena Ståhl (SD) om motverka islamistiska uttryck och bekämpa hederskulturen",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Martha Wicklund (V) m.fl. om dags för action i klimatarbetet",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Martha Wicklund (V) m.fl. om ökat arbete mot akut hemlöshet",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Martha Wicklund (V) m.fl. om anlägg våtmark i Svartån",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Helena Ståhl (SD) m.fl. om att inkludera områden för kärnkraft (SMR) i Översiktsplanen",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Karolina Wallström (L) och Johanna Reimfelt (L) om förbättring av färdtjänsten genom att säga upp avtalet med region Örebro Län",
+      "party": "L",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Helena Ståhl (SD) om att egenskapade raster för bön på arbetstid ska upphöra",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Martha Wicklund (V) m.fl. om kommunen behöver ta övergripande ansvar för de förtroendevaldas trygghet",
+      "party": "V",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Helena Ståhl (SD) m.fl. riv den misslyckade fontänen och återupprätta parkeringarna på Järntorget",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Carola Sunesson (SD) och Bo Ammer (SD) om att rensa bland styrdokument",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Carola Sunesson (SD) och Habib Brini (SD) om kulturarvsfond för det lokala, svenska, historiska kulturarvet",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Carola Sunesson (SD) om kvalitetssäkrat kontrollsystem för föreningsbidrag",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Carola Sunesson (SD) m.fl. om att införa garanti mot hederskultur i förskola och skola",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Helena Ståhl (SD) och Bjarne Bäckström (SD) om att återöppna Kilsmo skola",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Lea Strandberg (MP) om att Meetings + öppnas upp",
+      "party": "MP",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Susanne Lindholm Henningsson (KD) om seniorer som volontärer i skolan",
+      "party": "KD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Karolina Wallström (L) och Mats-Olof Liljegren (L) om att öka tryggheten på våra skolor",
+      "party": "L",
+      "status": "Bordlad"
+    },
+    {
+      "title": "David Larsson (SD) om att införa anonym funktion för tidigare anställda för att berätta varför man sagt upp sig",
+      "party": "SD",
+      "status": "Bordlad"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2026-02-25",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-25_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 2
+}

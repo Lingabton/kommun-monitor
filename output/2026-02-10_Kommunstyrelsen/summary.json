@@ -1,0 +1,299 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2026-02-10",
+  "summary_headline": "Gustavsvik privatiseras, stadskärnan får strategi, ej verkställda beslut bekymrar",
+  "decisions": [
+    {
+      "headline": "Gustavsvik drift övergår till privat drift via upphandling",
+      "summary": "Kommunstyrelsen godkänner privatiseringen av Gustavsviksanläggningen. Gustavsvik Resorts AB renodlas till fastighetsbolag medan extern aktör tar över driften av bad och camping.",
+      "detail": "Gustavsvik Resorts AB, helägt av Örebroporten Fastigheter AB, bedriver idag både ägande och drift av bad- och campinganläggningen. Efter utredning har kommunen genomfört upphandling enligt lagen om tjänstekoncessioner (LUK). En extern aktör med branscherfarenhet vinner upphandlingen och kommer att driva verksamheten.\n\nGUSTAVSVIK RENODLAS: GRAB blir rensat fastighetsägande bolag. Möjlighet finns för Örebroporten att senare fusionera GRAB med moderbolaget eller låta det likvideras.\n\nKOMOUTRAD FRÅGA: Martha Wicklund (V) och Markus Allard (ÖrP) motsätter sig privat drift och förespråkar att kommunen fortsätter driva verksamheten själv. Karolina Wallström (L) lämnar särskilt yttrande.\n\nRÖSTNING: Majoritet för privat drift (S, M, C, KD). Ärendet går till Kommunfullmäktige för slutgiltigt beslut.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Gustavsvik",
+      "paragraph_ref": "§ 27",
+      "quote": "GRAB renodlas till ett fastighetsägande bolag och en extern aktör med erfarenhet och kompetens inom branschen driver verksamheten inom Gustavsviksanläggningen.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Gustavsvik",
+        "privatisering",
+        "drift",
+        "bad",
+        "camping"
+      ],
+      "id": "2026-02-10_ko_27"
+    },
+    {
+      "headline": "Stadskärnan får utvecklingsstrategi genom bred samverkan",
+      "summary": "Kommunstyrelsen ger Miljö- och stadsbyggnadsförvaltningen uppdrag att ta fram strategi för stadskärnans utveckling med fokus på samverkan mellan kommunens förvaltningar, näringsliv och civilsamhälle.",
+      "detail": "Stadskärnan är viktig för både invånares vardagsliv och stadens rykte utåt. Strukturella förändringar och nya samhällsutmaningar kräver strategiskt arbete.\n\nArbetet ska genomföras genom bred samverkan mellan: kommunens olika förvaltningar, kommunala bolag, privata aktörer, offentliga institutioner och civilsamhälle. Syftet är att skapa gemensam förståelse, nuläges- och målbild samt övergripande riktning för stadskärnans framtida utveckling.\n\nRESULTAT: Strategin ska lägga grund för efterföljande fördjupande arbete och klargöra organisationen för detta.\n\nMOTSTÅND: Markus Allard (ÖrP) förespråkar avslag men överröstas.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Stadskärnan, Örebro",
+      "paragraph_ref": "§ 26",
+      "quote": "Syftet med uppdraget är att genom bred och nära samverkan mellan dessa aktörer öka förståelsen, skapa en gemensam nuläges- och målbild samt övergripande riktning för arbetet med stadskärnans utveckling.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "stadskärna",
+        "utveckling",
+        "strategi",
+        "samverkan"
+      ],
+      "id": "2026-02-10_ko_26"
+    },
+    {
+      "headline": "Allvarligt: 145 sociala beslut ej verkställda inom rimlig tid",
+      "summary": "Rapport visar att många beslut enligt socialtjänstlagen (SoL) och LSS inte verkställs inom tre månader. Funktionsstödsnämnden har 80 overkställda beslut, Vård- och omsorgnämnden 51.",
+      "detail": "SOCIALNÄMNDEN: 14 beslut fortsatt ej verkställda inom tre månader (ner från 26 föregående kvartal). Totalt 53 rapporterade beslut i Q3 2025.\n\nVÅRD- OCH OMSORGNÄMNDEN: 51 beslut ej verkställda inom tre månader. Ökning till 101 totala rapporterade beslut från 55 förra kvartalet - en ökning om 46 ärenden.\n\nFUNKTIONSSTÖDSNÄMNDEN: Värst situation med 80 overkställda beslut (upp från 59). Totalt 105 rapporterade beslut.\n\nKRÄVS UTREDNING: Martha Wicklund (V) och Markus Allard (ÖrP) kräver att kommunledningsförvaltningen utreder orsakerna och tar fram handlingsplan. John Johansson (S) stöder befintliga åtgärder. Yrkandet avslås.\n\nKAROLINA WALLSTRÖM (L) lämnar särskilt yttrande om bristen.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 28",
+      "quote": "Vid kvartalets slut var 51 beslut fortsatt ej verkställda inom tre månader [vård- och omsorgnämnden], 80 beslut ej verkställda [funktionsstödsnämnden].",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "socialtjänst",
+        "LSS",
+        "verkställning",
+        "välfärd",
+        "bemanning"
+      ],
+      "id": "2026-02-10_ko_28"
+    },
+    {
+      "headline": "Skolsäkerhet: Motion om larm och besökarregistrering besvarad",
+      "summary": "Liberalerna motion om att öka skolsäkerheten genom skalskydd, högtalare och besökarregistrering klassas som besvarad utifrån pågående säkerhetsarbete.",
+      "detail": "MOTIONENS FÖRSLAG: Karolina Wallström (L) och Mats-Olof Liljegren (L) förespråkade:\n1. Låsbara skalskydd vid rektorskontor på alla skolor\n2. Högtalarsystem för anrop vid särskilda händelser\n3. Kontroll av fungerande larm på alla skolor\n4. Registrering av besökare före tillträde till skollokaler\n\nFÖRVALTNINGARNAS SVAR: Gymnasie- och arbetsmarknadsförvaltningen samt Förskole- och grundskoleförvaltningen anser motionen besvarad. Säkerhetsarbetet är redan igång utifrån ny skolsäkerhetslagstiftning och ökade lagkrav på begränsad tillträde för obehöriga.\n\nMOTSTÅND: Karolina Wallström (L), Helena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall till motionen för konkreta åtgärder men överröstas.",
+      "category": "skola",
+      "contested": true,
+      "location": "Skolor, Örebro kommun",
+      "paragraph_ref": "§ 31",
+      "quote": "Liberalerna föreslår kommunfullmäktige att besluta om att ge följande specifika uppdrag till kommundirektören: att omgående starta en utredning om hur alla kommunens skolor kan utrustas med av rektor/skolledare låsbart skalskydd.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "skolsäkerhet",
+        "trygghet",
+        "säkerhetsmåtgärder"
+      ],
+      "id": "2026-02-10_ko_31"
+    },
+    {
+      "headline": "Motion om anonyma avgångsamtal från SD avslås",
+      "summary": "Kommunstyrelsen avslår SD:s förslag om att införa anonym funktion för tidigare anställda att berätta varför de slutade.",
+      "detail": "MOTIONENS FÖRSLAG: David Larsson (SD) förespråkade en funktion för anonyma avslutningssamtal som komplement till befintliga samtal, för att få sanningsenlig feedback om varför anställda slutar.\n\nKOMMUNLEDNINGENS SVAR: Ärendet avslås. Fokus ligger på befintliga avslutningssamtalsprocesser.\n\nMOTSTÅND: Helena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall men överröstas av majoritet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 32",
+      "quote": "Motionen innehåller förslag om att Örebro kommun ska införa en funktion för anonyma avslutningssamtal.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "personalpolitik",
+        "anställda",
+        "arbetsmiljö"
+      ],
+      "id": "2026-02-10_ko_32"
+    },
+    {
+      "headline": "Stefan Ask blir tillförordnad förvaltningsdirektör till årsskiftet",
+      "summary": "Stefan Ask tillsätts som tillförordnad chef för Gymnasie- och arbetsmarknadsförvaltningen från 13 april till 31 december 2026 efter närmaste direktörs avgång.",
+      "detail": "BAKGRUND: Nuvarande förvaltningsdirektör lämnar tjänsten för att bli kommundirektör i Eskilstuna. Sista arbetsdagen är 10 april 2026.\n\nLÖSNING: Stefan Ask, dagens biträdande förvaltningsdirektör, tillsätts temporärt. Han bedöms ha rätt kompetens och erfarenhet för att säkerställa stabilitet under övergångsperioden till årsskiftet 2026/2027.\n\nFINANSIERING: Kostnad täcks inom befintlig budgetram.\n\nMOTSTÅND: Markus Allard (ÖrP) förespråkar avslag men överröstas.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 33",
+      "quote": "Stefan Ask, som idag är biträdande förvaltningsdirektör, bedöms ha rätt kompetens och erfarenhet för att säkerställa stabilitet i verksamheten under övergångsperioden fram till årsskiftet 2026/2027.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "personalpolitik",
+        "ledning",
+        "gymnasie- och arbetsmarknadsförvaltning"
+      ],
+      "id": "2026-02-10_ko_33"
+    },
+    {
+      "headline": "Marie Hollertz blir tillförordnad utvecklingsdirektör till årsskiftet",
+      "summary": "Marie Hollertz tillsätts som tillförordnad utvecklings- och hållbarhetsdirektör i Kommunledningsförvaltningen från 7 april till 31 december 2026.",
+      "detail": "BAKGRUND: Katrin Larsson slutar sin tjänst som utvecklings- och hållbarhetsdirektör på grund av pension. Sista arbetsdagen är 6 april 2026.\n\nLÖSNING: Marie Hollertz, analyschef med gedigen erfarenhet och medlem i ledningsgruppen, tillsätts temporärt. Rekrytering av ny permanent direktör beräknas ta tid.\n\nFINANSIERING: Löses inom befintlig budgetram.\n\nMOTSTÅND: Markus Allard (ÖrP) och Helena Ståhl (SD) förespråkar avslag men överröstas.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 34",
+      "quote": "Marie Hollertz, idag analyschef med gedigen erfarenhet och del av nuvarande ledningsgrupp, föreslås som tillförordnad direktör.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "personalpolitik",
+        "ledning",
+        "hållbarhet"
+      ],
+      "id": "2026-02-10_ko_34"
+    },
+    {
+      "headline": "Fem nya motioner remitteras till nämnder och beredning",
+      "summary": "Kommunfullmäktige har remitterat fem motioner. En om mittokrati beredas internt, fyra skickas till nämnder.",
+      "detail": "REMITTERADE MOTIONER:\n\n1. Marcus Willén Ode (MP) - Övernattningsstugor → Kultur- och fritidsnämnden\n2. Marcus Willén Ode (MP) - Biosfärsområde Hjälmaren → Markplanerings- och exploateringsnämnden\n3. Martha Wicklund (V) m.fl - Humanare socialtjänst → Gymnasie- och arbetsmarknadsnämnden\n4. Helena Ståhl (SD) m.fl - Avveckla Trainstation och vidareutveckla Komtek Örebro → Kultur- och fritidsnämnden\n\nBEREDS INTERNT:\n5. Susanne Lindholm Henningsson (KD) - Minska mittokrati och krångel → Kommunstyrelsen bereds själv",
+      "category": "politik",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 35",
+      "quote": "Motion från Marcus Willén Ode (MP) om övernattningsstugor remitteras till Kultur- och fritidsnämnden.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "motioner",
+        "remittering",
+        "nämnder"
+      ],
+      "id": "2026-02-10_ko_35"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Karolina Wallström (L) och Mats-Olof Liljegren (L) - Öka tryggheten på våra skolor",
+      "party": "L",
+      "status": "Avslagen - klassas som besvarad"
+    },
+    {
+      "title": "David Larsson (SD) - Anonym funktion för tidigare anställda",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Marcus Willén Ode (MP) - Övernattningsstugor",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Marcus Willén Ode (MP) - Biosfärsområde Hjälmaren",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Susanne Lindholm Henningsson (KD) - Minska mittokrati och krångel",
+      "party": "KD",
+      "status": "Bereds"
+    },
+    {
+      "title": "Martha Wicklund (V) m.fl - En humanare socialtjänst",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Helena Ståhl (SD) m.fl - Avveckla Trainstation och vidareutveckla Komtek Örebro",
+      "party": "SD",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2026-02-10",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 8
+}
