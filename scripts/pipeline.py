@@ -144,6 +144,8 @@ def save_process_state(state: dict):
 
 def is_processed(pdf_url: str, state: dict) -> bool:
     """Check if a PDF has already been processed."""
+    if not pdf_url:
+        return True
     url_hash = hashlib.md5(pdf_url.encode()).hexdigest()
     return url_hash in state["processed"]
 
