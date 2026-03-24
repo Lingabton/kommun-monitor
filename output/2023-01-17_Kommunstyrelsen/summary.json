@@ -1,0 +1,350 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2023-01-17",
+  "summary_headline": "Sociala investeringar återförs, riktlinjer för uppsikt antas",
+  "decisions": [
+    {
+      "headline": "Återföring av medel från sociala investeringar Team Oxhagen",
+      "summary": "Kommunstyrelsen beslutar att fastställa återföringsplan för tre avslutade satsningar och åläggs nämnder att återföra medel. L och KD motsatte sig återföringen.",
+      "detail": "Kommunstyrelsen godkänner uppföljande utvärdering av satsningarna Team Oxhagen, Specialpedagogisk kompetentutveckling och El Sistema som genomfördes 2015-2018 i Varberga och Oxhagen. Rapporten visar att insatsgruppens båda kohorter presterar bättre i svenska och matematik än helklassen.\n\nKommunstyrelsen fattar beslut om att fastställa gemensam återföringsplan och åtlägger Grundskolenämnd, Funktionsstödsnämnd och Socialnämnd att återföra medel i enlighet med planen.\n\nL och KD yrkar bifall till rapporten men avslag på återföringen, med motiveringen att skolområdet och socialvälfärdsområdet redan har stora miljonbesparingar budgeterade för 2023. De menar att det är omöjligt att både fortsätta verksamheten och kräva återföring av 34 procent av tidigare investerat belopp under lågkonjunkturår.\n\nÖrP yrkade helt avslag. V och SD stödde L/KD:s yrkande om uppskjuten återföring.",
+      "category": "budget",
+      "contested": true,
+      "location": "Varberga och Oxhagen",
+      "paragraph_ref": "§ 1",
+      "quote": "Att fortsätta innebär kostnader och då investeringen ännu inte visar ekonomiska mål, så innebär en fortsättning och återföring att resurserna måste tas från annat hål.",
+      "quote_page": "s. 3-4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "sociala investeringar",
+        "budget",
+        "Varberga",
+        "Oxhagen",
+        "skolvälfärd"
+      ],
+      "id": "2023-01-17_ko_1"
+    },
+    {
+      "headline": "Riktlinjer för uppsiktsplikt mellan kommunstyrelse och nämnder",
+      "summary": "Kommunstyrelsen antar riktlinjer för hur den ska utöva sin uppsiktsplikt över nämnder och bolag. ÖrP kritiserar att uppdraget begränsas till få individer.",
+      "detail": "Kommunstyrelsen antar riktlinjer för kommunstyrelsens uppsiktsplikt över övriga nämnders verksamhet, kommunala företag, stiftelser och kommunalförbund.\n\nRiktlinjerna syftar till att tydliggöra kommunstyrelsens ansvar och underlätta planering av uppsikt. En central del är att nämndpresidierna ska besöka kommunstyrelsen (eller utskott) en gång i mars och oktober för dialog kring uppdraget enligt reglementet.\n\nMarkus Allard (ÖrP) yrkar på återremiss, argumenterande att ansvaret sägs vara hela kommunstyrelsens medan man delegerar faktisk uppsikt till få individer. Han menar att antingen måste uppsiktsplikten begränsas lagligt eller så måste riktlinjerna förtydligas så samtliga ledamöter får fullständig insyn i verksamheter och bolag. Yrkandet avslås.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 2",
+      "quote": "Riktlinjerna syftar till att tydliggöra hur kommunstyrelsen ska fullgöra sitt ansvar, underlätta vid planering av uppsikt samt klargöra förväntningarna på styrelsen, nämnder och bolag.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "uppsiktsplikt",
+        "styrning",
+        "nämnder",
+        "bolag",
+        "delegering"
+      ],
+      "id": "2023-01-17_ko_2"
+    },
+    {
+      "headline": "Utökning av verksamhetsområden för vatten och avlopp",
+      "summary": "Kommunstyrelsen beslutar utöka VA-verksamhetsområdena för nya exploateringsområden och befintlig bebyggelse enligt Tekniska nämndens förslag.",
+      "detail": "Enligt lagstiftning måste Örebro kommun återkommande se över och vid behov utöka verksamhetsområdena för dricksvatten, spillvatten och dagvatten. Verksamhetsområdet definieras som geografiska områden där kommunen ansvar för VA-försörjning.\n\nTekniska nämnden föreslår utöka verksamhetsområdena enligt bifogade kartor och fastighetsförteckning för att möjliggöra VA-utbyggnad.\n\nSusanne Lindholm (KD) lämnar särskilt yttrande om vikten av god kommunikation med berörda fastighetsägare. Hon refererar till exempel där fastighetsägare inte fått tillräcklig information och tvingats bekosta egna anläggningar för att sedan tvingas ansluta till kommunens nät för ytterligare kostnader.\n\nBo Ammer (SD) lämnar särskilt yttrande där han vill att kommunen visar hänsyn till befintliga privata miljögodkända anläggningar och är generös med dispenser för fastigheter med redan tillräckliga lösningar.",
+      "category": "infrastruktur",
+      "contested": false,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 3",
+      "quote": "Verksamhetsområdet utgörs av geografiska områden inom vilka kommunen har ansvar att ordna kommunal VA-försörjning för berörda fastigheter.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "vatten och avlopp",
+        "infrastruktur",
+        "exploatering",
+        "fastighetsägare"
+      ],
+      "id": "2023-01-17_ko_3"
+    },
+    {
+      "headline": "Rotelansvariga utses för fyra huvudsakliga områden",
+      "summary": "Kommunstyrelsen inrättar fyra rotelansvariga för Samhälle och arbetsmarknad, Samhällsbyggnad, Skola och Social välfärd.",
+      "detail": "Kommunstyrelsen inrättar rotlar som en del av att stärka möjligheten att fullgöra sitt uppdrag. Rotlarna delas in i fyra områden: Samhälle och arbetsmarknad, Samhällsbyggnad, Skola och Social välfärd.\n\nRotelansvariga utses för mandatperioden 2023-2026: Maria Haglund (M) för Samhälle och arbetsmarknad, Kemal Hoso (S) för Samhällsbyggnad, Jimmy Nordengren (C) för Skola, och Jessica Ekerbring (S) för Social välfärd.\n\nRotelansvariga ska beredda ärenden kring ledning och styrning, dialoger med nämndpresidier, samordna insatser och föredra ärenden.\n\nMarkus Allard (ÖrP) yrkade avslag, kritiserande otydligheten i rotlars funktion. V, KD och SD lämnade särskilda yttranden. KD varnade för risk för \"tandlös\" styrning genom att rotelansvar inte innebär beslutsmandat.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 4",
+      "quote": "Ett rotelansvar innebär inte ett beslutsmandat, utan är en samlande och samordnande funktion.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "rotelansvariga",
+        "styrning",
+        "mandatperiod",
+        "samordning"
+      ],
+      "id": "2023-01-17_ko_4"
+    },
+    {
+      "headline": "Jämställdhetsdelegation inrättad trots kritik",
+      "summary": "Kommunstyrelsen inrättar jämställdhetsdelegation med arbetsordning. V önskar bredare uppdrag, vilket avslås.",
+      "detail": "Kommunstyrelsen beslutar inrätta en jämställdhetsdelegation och anta arbetsordning för denna, samt utse ledamöter enligt bilaga.\n\nMartha Wicklund (V) yrkar bifall med tillägget att arbetsordningen kompletteras med att \"jämställdhetsdelegationen granskar, följer upp, driver på och stimulerar Örebro kommuns arbete för jämställda och icke-diskriminerande arbetsvillkor med fokus på diskrimineringsgrunden kön.\" John Johansson (S) yrkar avslag på V:s tilläggsyrkande, som avslås.\n\nMarkus Allard (ÖrP) yrkade helt avslag på inrättandet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 5",
+      "quote": "Inrätta en jämställdhetsdelegation och anta arbetsordning för jämställdhetsdelegationen.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "jämställdhet",
+        "delegation",
+        "arbetsordning",
+        "diskriminering"
+      ],
+      "id": "2023-01-17_ko_5"
+    },
+    {
+      "headline": "Landsbygdsdelegation inrättad utan medborgardialoger",
+      "summary": "Kommunstyrelsen inrättar landsbygdsdelegation. V yrkade för åtta medborgardialoger under mandatperioden, vilket avslås.",
+      "detail": "Kommunstyrelsen inrättar landsbygdsdelegation och atar arbetsordning för denna, samt utse ledamöter enligt bilaga.\n\nMartha Wicklund (V) yrkar bifall med tillägget att \"delegationen ska under mandatperioden genomföra minst åtta medborgardialoger\". John Johansson (S) yrkar avslag på V:s tilläggsyrkande, som avslås.\n\nMarkus Allard (ÖrP) yrkade helt avslag på inrättandet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 6",
+      "quote": "Delegationen ska under mandatperioden genomföra minst åtta medborgardialoger",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "landsbygd",
+        "delegation",
+        "medborgardialoger",
+        "ruralt"
+      ],
+      "id": "2023-01-17_ko_6"
+    },
+    {
+      "headline": "Delegationsordning reviderad för kommunstyrelsens utskott",
+      "summary": "Kommunstyrelsen reviderar delegationsordningen för nyinrättade personalutskott, hållbarhetsutskott och trygghetsutskott.",
+      "detail": "Kommunstyrelsen hade på sammanträde 6 december inrättat ett personalutskott, hållbarhetsutskott och trygghetsutskott. Delegationsordningen revideras nu för att inkludera delegation för dessa utskott.\n\nMartha Wicklund (V) yrkade bifall med ändringen att beslut om lönestrategin bör fattas av Kommunstyrelsen i stället för att delegeras. V:s ändringsyrkande avslås.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 7",
+      "quote": "Revidera Kommunstyrelsen delegationsordning enligt förslag.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "delegationsordning",
+        "utskott",
+        "lönestrategi",
+        "styrning"
+      ],
+      "id": "2023-01-17_ko_7"
+    },
+    {
+      "headline": "Vaccination på arbetstid kompenseras med betald tid",
+      "summary": "Kommunstyrelsen erbjuder medarbetare möjlighet att vaccinera sig mot covid-19 på arbetstid eller fritid med timedarvtal.",
+      "detail": "Kommunstyrelsen beslutar att medarbetarna erbjuds möjlighet att vaccinera sig på arbetstid där det är praktiskt möjligt utan störningar för verksamheten. Om vaccination sker på fritiden kompenseras medarbetaren med tid motsvarande en timme per vaccinationstillfälle. Reseersättning utgår inte.\n\nBeslutet gäller för medarbetare med Kommunstyrelsen som arbetsgivarnämnd och rekommenderas för övriga nämnder. Beslutet gäller fram till 31 december 2023.\n\nFolkhälsomyndigheten rekommenderar alla 18 år och äldre minst tre doser vaccin (primärvaccination plus påfyllnadsdoser) med minst fyra månaders intervall.",
+      "category": "budget",
+      "contested": false,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 8",
+      "quote": "Erbjuds att vaccinera sig på arbetstid där det är praktiskt möjligt utan störningar för verksamheten.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "vaccination",
+        "covid-19",
+        "arbetstid",
+        "medarbetare",
+        "kompensation"
+      ],
+      "id": "2023-01-17_ko_8"
+    },
+    {
+      "headline": "Många väntar på biståndsbeslut enligt SoL och LSS",
+      "summary": "Rapport över ej verkställda biståndsbeslut visar problem med långa väntider. Bo Ammer (SD) kräver skarpa åtgärder.",
+      "detail": "Programnämnd social välfärd rapporterar att under kvartal 2 2022 uppgick totala antalet rapporterade beslut till 249, varav 148 var ej verkställda och 101 verkställda.\n\nEnligt lagkrav måste beslut om bistånd enligt Social-tjänstlagen (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) verkställas inom tre månader. Rapporten är obligatorisk för Inspektionen för vård och omsorg (IVO).\n\nMartha Wicklund (V) yrkar att Kommunstyrelseförvaltningen får i uppdrag att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid.\n\nBo Ammer (SD) och Markus Allard (ÖrP) yrkade bifall med tillägget att framtida rapporter ska inkludera orsak till vänttider och att skarpa krav ställs på nämnder för att undvika IVO:s vitesföreläggande. Båda tilläggen avslogs.",
+      "category": "social välfärd",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 9",
+      "quote": "148 rapporterades som ej verkställda och 101 som verkställda.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "bistånd",
+        "SoL",
+        "LSS",
+        "väntider",
+        "vård och omsorg"
+      ],
+      "id": "2023-01-17_ko_9"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Motion från Helena Ståhl (SD) och David Larsson (SD) om att avsluta samarbetet med Fairtrade",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Motion från Markus Allard (ÖrP) och Peter Springare (ÖrP) om att särredovisa vad ni betalat medierna",
+      "party": "ÖrP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Motion från Karolina Wallström (L) om utdrag ur belastningsregistret vid anställning i äldreomsorgen och LSS-boende",
+      "party": "L",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Motion från Bo Ammer (SD) och Helena Ståhl (SD) om biologisk mångfald i Örebro - första attsats tillgodosedd, andra avslagna",
+      "party": "SD",
+      "status": "Delvis tillgodosedd"
+    },
+    {
+      "title": "Motion från Carola Sunesson (SD) om utbildning i självförsvar och personlig säkerhet",
+      "party": "SD",
+      "status": "Remitterad till Kommunstyrelsen"
+    },
+    {
+      "title": "Motion från Johanna Reimfelt (L) om tak över huvudet-garanti för alla örebroare",
+      "party": "L",
+      "status": "Remitterad till Socialnämnden"
+    },
+    {
+      "title": "Motion från Johanna Reimfelt (L) om att öka förebyggande arbetet genom utökat stöd till civilsamhället",
+      "party": "L",
+      "status": "Remitterad till Kommunstyrelsen"
+    }
+  ],
+  "skipped_items_count": 6,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2023-01-17",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 9
+}

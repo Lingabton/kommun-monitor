@@ -1,0 +1,232 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2023-02-15",
+  "summary_headline": "Örebroporten-försäljning godkänd, flera motioner bordlagda",
+  "decisions": [
+    {
+      "headline": "Örebroporten säljer aktier i Marieberg Utvecklings AB",
+      "summary": "Kommunfullmäktige godkänner försäljning av Örebro kommuns aktier i MUAB till övriga delägare. Försäljningen genererar en realisationsvinst på cirka 8,8 miljoner kronor.",
+      "detail": "Örebroporten Förvaltning AB äger 50 procent av Marieberg Utvecklings AB (MUAB), som innehar fastigheten Örebro Rävgräva 1:52 i Mariebergs handelsområde. MUAB bildades för att möjliggöra Ikeas expansionsplaner, men Ikea har reviderat sina framtidsplaner.\n\nKommunfullmäktige beslutar att godkänna aktieöverlåtelseavtalet där aktierna säljs till Husherren Lokaler AB och Lindin Förvaltning AB. Köpeskillingen är preliminärt beräknad till 22,3 miljoner kronor, vilket genererar en realisationsvinst på 8,8 miljoner kronor för Örebroporten Förvaltning AB.\n\nFörsäljningen beslutas med 60 ja-röster och 5 nej-röster. Endast ÖrP röstar mot. Martha Wicklund (V) får lämna särskilt yttrande där hon kritiserar att kommunen agerar som ett vanligt företag och spekulerar med skattemedel.\n\nBeslut innebär att kommunen reducerar sitt bolagsägande och fokuserar på sitt kärnuppdrag. Realisationsvinsterna kan användas för välfärdsändamål.",
+      "category": "budget",
+      "contested": true,
+      "location": "Marieberg",
+      "paragraph_ref": "§ 47",
+      "quote": "En kommuns grunduppdrag är inte att, till vilket pris som helst, ingå i invecklade och ibland kostsamma bolagsbildningar med syfte att underlätta för näringslivet.",
+      "quote_page": "Särskilt yttrande Martha Wicklund",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Örebroporten",
+        "Marieberg",
+        "bolagsförsäljning",
+        "ekonomi"
+      ],
+      "id": "2023-02-15_ko_47"
+    },
+    {
+      "headline": "Arvodesriktlinje Vätternvatten AB revideras med retroaktiv giltighet",
+      "summary": "Kommunfullmäktige godkänner reviderad arvodesriktlinje för Vätternvatten AB med retroaktiv arvode för lekmannarevisor från 2021.",
+      "detail": "Vätternvatten ABs bolagsstämma beslutade 2021-01-14 om en arvodesriktlinje, men lekmannarevisorerna fanns inte inkluderade. Det var ett förbiseende, då tanken var att revisorerna skulle få arvode.\n\nKommunfullmäktige beslutar att instruera stämmoombudet att rösta för den reviderade riktlinjen, som ger lekmannarevisorerna arvode retroaktivt från 2021-01-14. I riktlinjen tydliggörs också att grundbeloppet är kopplat till riksdagsledamöternas arvode, att övriga ersättningar följer Örebro kommuns beslutade beloppsnivåer, och att beloppen justeras årligen.\n\nBeslut fattas enhälligt, med endast ÖrP som reserverar sig mot beslutet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 49",
+      "quote": "Lekmannarevisorerna ska erhålla arvode för sitt uppdrag från och med Bolagsstämmans beslut den 14 januari 2021.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Vätternvatten",
+        "arvode",
+        "bolagsstyrning"
+      ],
+      "id": "2023-02-15_ko_49"
+    },
+    {
+      "headline": "Motion om medborgarvittnen avslås",
+      "summary": "Kommunfullmäktige avslår motion från Niclas Persson (MP) om att införa medborgarvittnen i Örebro. Flera partier reserverar sig.",
+      "detail": "Motionen föreslår att Örebro kommun ska införa medborgarvittnen för att öka transparensen i polisens arbete. Kommunstyrelsen bedömer att medborgarvittnen är en komplicerad och kostsam verksamhet, och att det finns mer effektiva insatser för att skapa tillit till polisen.\n\nKommunstyrelsen hänvisar till att organisationen i Göteborg, där medborgarvittnen används, har identifierat stora brister, och att en större utredning behövs.\n\nMotionen avslås. Sverigedemokraterna reserverar sig för bifall och framhåller att medborgarvittnen skapar insyn och transparens i polisens viktiga arbete. Även Miljöpartiet, Vänsterpartiet och andra partier reserverar sig mot avslagsbeslutet.\n\nAvslagsbeslutet visar att det inte finns majoritet för denna typ av medborgarkontroll av polisen.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 50",
+      "quote": "Medborgarvittnen är en komplicerad och kostsam verksamhet och det finns andra, mer effektiva insatser som kan skapa större tillit till polisen.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "ÖrP"
+        ],
+        "against": [
+          "MP",
+          "SD",
+          "V",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "medborgarvittnen",
+        "polisen",
+        "trygghet",
+        "opposition"
+      ],
+      "id": "2023-02-15_ko_50"
+    },
+    {
+      "headline": "Motion om kommunala bolags avtalkrav avslås",
+      "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om att ställa krav på kollektivavtal för de kommunala bolagens leverantörer.",
+      "detail": "Vänsterpartiet föreslår att Örebro kommun via ägardirektiven säkerställer att företag och underleverantörer som de kommunala bolagen ingår avtal med följer rådande lagar och regler, samt har kollektivavtal eller motsvarande. De föreslår också att utred Oslomodellen för kommunala bolag.\n\nKommunstyrelsen bedömer att bolagen redan agerar inom ramarna för ÖSBn (Örebro Stadsbygge), Program för hållbar utveckling, upphandlings- och inköpspolicy samt LOU. Det finns redan möjlighet att ställa krav på kollektivavtal enligt LOU. Att ställa krav på andelen anställda hos leverantörer riskerar att diskvalificera mindre entreprenörer och strida mot LOU.\n\nMotionen avslås med 44 ja-röster, 18 nej-röster och 3 frånvarande. Vänsterpartiet och ÖrP reserverar sig för motionens första del om att ställa krav på att företag följer lagar och regler. Sverigedemokraterna reserverar sig för motionens första del.\n\nBeslut visar skillnad i syn på hur kommunen ska styra bolagen.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 51",
+      "quote": "Bolagen agerar inom ramarna för ÖSBn, Program för hållbar utveckling, Upphandlings- och inköpspolicy samt LOU, vilket ska innebära att upphandlingarna går rättssäkert till.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "kommunala bolag",
+        "kollektivavtal",
+        "upphandling",
+        "arbetarrätt"
+      ],
+      "id": "2023-02-15_ko_51"
+    },
+    {
+      "headline": "Motion om Örebro Airport avslås",
+      "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om att utreda förstatligande eller försäljning av flygplatsen.",
+      "detail": "Vänsterpartiet föreslår att ge kommunstyrelseförvaltningen tillsammans med flygplatsens ägare i uppdrag att utreda möjligheterna att förstatliga eller sälja flygplatsen.\n\nKommunstyrelsen bedömer att Örebro Airport är en viktig arbetsgivare och stor logistikaktör. En avveckling skulle skada både logistiken i länet och arbetstillfällen. Flygplatsen är Sveriges andra fossilfria flygplats och genererar cirka 375 miljoner kronor i årlig samhällsvinst. Region Örebro län har tidigare utrett ägarskapet utan att finna intresserade köpare. Flygplatsen har också ett viktigt samhällsuppdrag som beredskapsflygplats.\n\nMotionen avslås. Vänsterpartiet reserverar sig för bifall.\n\nBeslut visar kommunens vilja att behålla flygplatsen som en viktig infrastrukturinvestering och arbetsgivare.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro Airport",
+      "paragraph_ref": "§ 52",
+      "quote": "Flygplatsen är en stor och viktig arbetsgivare, och ett avvecklande skulle ge negativa effekter på både logistikverksamheten i länet och ett stort antal arbetstillfällen.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "ÖrP"
+        ],
+        "against": [
+          "V"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "Örebro Airport",
+        "flygplats",
+        "näringsliv",
+        "infrastruktur"
+      ],
+      "id": "2023-02-15_ko_52"
+    },
+    {
+      "headline": "Arkiv från Landsbygdsnämnden överlämnas till Stadsarkivet",
+      "summary": "Kommunfullmäktige godkänner förlängd tidsram för överlämnande av Landsbygdsnämndens arkiv från 12 april till 30 juni 2023.",
+      "detail": "Örebro kommuns nya nämndorganisation trädde i kraft 12 januari 2023. Flera nämnder upphörde, inklusive Landsbygdsnämnden. Enligt arkivlagen ska upphörande myndigheters arkiv överlämnas till arkivmyndigheten inom tre månader (senast 12 april 2023).\n\nKommunfullmäktige beslutar att förlänga denna deadline till 30 juni 2023 på grund av resursbrist inom Stadsarkivet. Arkivet för Landsbygdsnämnden ska överlämnas senast denna datum.\n\nBeslut fattas enhälligt utan reservationer.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 46",
+      "quote": "På grund av resursbrist inom Stadsarkivet kommer det dock att bli mycket svårt att överlämna arkivet inom den föreskrivna tiden.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "arkiv",
+        "Landsbygdsnämnden",
+        "administration"
+      ],
+      "id": "2023-02-15_ko_46"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Motion från Carola Sunesson (SD) och Bo Ammer (SD) om att främja näringslivet",
+      "party": "SD",
+      "status": "Remitterad till Kommunstyrelsen"
+    },
+    {
+      "title": "Motion från Vänsterpartiet om att återföra Örebronormen inom försörjningsstöd",
+      "party": "V",
+      "status": "Remitterad till Kommunstyrelsen"
+    },
+    {
+      "title": "Motion från Vänsterpartiet om ett gemensamt ansvar för att få bort de delade turerna inom äldreomsorgen",
+      "party": "V",
+      "status": "Remitterad till Kommunstyrelsen"
+    }
+  ],
+  "skipped_items_count": 18,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2023-02-15",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-15_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 6
+}

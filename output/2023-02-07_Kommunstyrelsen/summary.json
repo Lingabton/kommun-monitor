@@ -1,0 +1,458 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2023-02-07",
+  "summary_headline": "Budget, Örebroporten-försäljning och motioner behandlades",
+  "decisions": [
+    {
+      "headline": "Tilläggsanslag och ombudgeteringar för 2023",
+      "summary": "Kommunstyrelsen beviljade tilläggsanslag på 509 tkr för brandskydd i gruppbostäder och genomförde ombudgeteringar mellan nämnder. Flera partier reserverade sig mot beslutet.",
+      "detail": "Ärendet omfattade två delar: investeringskompensation för brandskydd i gruppbostäder (509 tkr) och ombudgeteringar mellan nämnder enligt ramfördelning för den nya nämndstrukturen 2023.\n\nOmbudgeteringarna innefattade bland annat finansiering till Tegelbruket genom överföringar från Kommunstyrelsen till Kultur- och fritidsnämnden på 2 000 tkr. Detta väckte motsättningar, då ÖBO:s minskade stöd till Tegelbruket skulle täckas genom kommunal finansiering.\n\nSD (Bo Ammer) yrkade avslag på ombudgeteringen till Tegelbruket. KD (Susanne Lindholm) och L (Karolina Wallström) yrkade avslag på hela ombudgeteringsdelen till förmån för egna budgetförslag. ÖrP (Markus Allard) föreslog helt andra ombudgeteringar med bland annat mindre överföringar till Kultur- och fritidsnämnden.\n\nMajoriteten (S, M och C) beslutade enligt förvaltningens förslag. V (Martha Wicklund) deltog inte i beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 19",
+      "quote": "Ombudgetering från Kommunstyrelsen till Kultur- och fritidsnämnden på 2 000 tkr som avser Tegelbruket",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "ombudgetering",
+        "Tegelbruket",
+        "nämndöversyn"
+      ],
+      "id": "2023-02-07_ko_19"
+    },
+    {
+      "headline": "Bokslutskommunikén för 2022 godkänd",
+      "summary": "Kommunstyrelsen godkände den preliminära bokslutsrapporten för 2022. V lämnade särskilt yttrande.",
+      "detail": "Bokslutskommunikén är en preliminär rapport över årets ekonomiska utfall. Årsredovisningen, som är en fullständig uppföljning av kommunens övergripande strategier och budget för 2022, skulle presenteras senare i mars till Kommunstyrelsen och i april till Kommunfullmäktige.\n\nRapporten behandlades enhälligt utan större invändningar. V (Martha Wicklund) fick lämna särskilt yttrande. L (Karolina Wallström) deltog inte i beslutet.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 20",
+      "quote": "Bokslutskommunikén för 2022 godkänns.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "bokslut",
+        "ekonomi",
+        "2022"
+      ],
+      "id": "2023-02-07_ko_20"
+    },
+    {
+      "headline": "Planeringsförutsättningar för budget 2024-2027 antagna",
+      "summary": "Kommunstyrelsen antog planeringsförutsättningar inför budgetarbetet 2024-2027 med identifierat effektiviseringsbehov på ca 143 mnkr.",
+      "detail": "Handlingen beskriver omvärldsförutsättningar som ekonomiskt läge, befolkningsprognos, arbetsmarknad och flyktingmottagande, samt interna förutsättningar som exploatering, kompetensförsörjning och digitalisering.\n\nViktiga bedömningar:\n- Kommunens köpkraft urholkas 2023-2024 då kostnader stiger genom inflation och pensionskostnader medan skatteunderlaget inte kompenserar detta\n- Befolkningstillväxten är på lägre nivå än tidigare\n- Antalet äldre ökar, vilket påverkar behovet av lokalinvesteringar\n- För gymnasiet bedöms störst volymökning, medan grundskola kan ge potential att minska lokalinvesteringar\n- Fortsatt stark efterfrågan på mark för näringsverksamhet\n- Kompetensförsörjning är en fortsatt stor utmaning\n\nL (Karolina Wallström) yrkade på ändring av beslutsmeningen, vilket S (John Johansson) bifölls. V reserverade sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 21",
+      "quote": "Kommunens köpkraft urholkas 2023–2024. Kommunens kostnader stiger till följd av inflation och ökade pensionskostnader.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "planering",
+        "ekonomi",
+        "effektivisering"
+      ],
+      "id": "2023-02-07_ko_21"
+    },
+    {
+      "headline": "Kommunstyrelsens årsberättelse 2022 fastställd",
+      "summary": "Årsberättelsen för Kommunstyrelsen 2022 fastställdes. Verksamheten visade positiv budgetavvikelse på 1,1 mnkr.",
+      "detail": "Rapporten visar att Kommunstyrelsens verksamhet bedrivits enligt reglemente, egna styrregler och givna uppdrag trots omvärldens påverkan.\n\nDen sammanställda budgetavvikelsen för Kommunstyrelsen var positiv på 1,1 mnkr. Kommunledning och kommunstyrelseförvaltning visade positiv avvikelse, främst från överskott från tidigare år för de politiska kanslierna. NOD-projektet (ombyggnad av administrativa lokaler) påverkade negativt då det saknade budget.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 22",
+      "quote": "Verksamheten under Kommunstyrelsen trots omvärldens påverkan, i allt väsentligt bedrivits utifrån givet reglemente",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "årsberättelse",
+        "ekonomi",
+        "2022"
+      ],
+      "id": "2023-02-07_ko_22"
+    },
+    {
+      "headline": "Aktieöverlåtelse av Marieberg Utvecklings AB genomförd",
+      "summary": "Kommunstyrelsen godkände försäljningen av Örebroportens aktier i Marieberg Utvecklings AB. Försäljningen beräknas ge realisationsvinst på 8,8 mnkr.",
+      "detail": "Örebroporten Förvaltning AB, som ägs 100% av Örebroporten Fastigheter AB, ägde 50% av aktierna i Marieberg Utvecklings AB (MUAB). Övriga ägare var Lindin Förvaltning AB (25%) och Husherren Lokaler AB (25%).\n\nUrsaltet för delägandet var att möjliggöra Ikeas expansionsplaner i området. Ikea reviderade senare sina framtidsplaner. Eftersom det primära syftet - lagakraftvunnen detaljplan för handel - inte uppnåddes, föresågs avveckling av engagemanget.\n\nköpeskillingen preliminärt beräknades till 22,3 mnkr, vilket skulle ge realisationsvinst på 8,8 mnkr för Örebroporten Förvaltning AB som därefter distribueras till Örebroporten Fastigheter AB.\n\nMarkus Allard (ÖrP) yrkade avslag, Martha Wicklund (V) lämnade särskilt yttrande. Majoriteten beslutade enligt förvaltningens förslag. Ärendet gick vidare till Kommunfullmäktige.",
+      "category": "budget",
+      "contested": true,
+      "location": "Marieberg, Örebro",
+      "paragraph_ref": "§ 24",
+      "quote": "Syftet med delägandet i MUAB var att möjliggöra Ikeas expansionsplaner. Ikea har därefter reviderat sina framtidsplaner",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "försäljning",
+        "Örebroporten",
+        "Marieberg",
+        "fastigheter"
+      ],
+      "id": "2023-02-07_ko_24"
+    },
+    {
+      "headline": "Arvodesriktlinje för Vätternvatten AB reviderad",
+      "summary": "Kommunstyrelsen beslutade låta stämmoombud rösta för reviderad arvodesriktlinje med retroaktivt arvode för lekmannarevisor från 2021.",
+      "detail": "Vätternvattens ursprungliga arvodesriktlinje från 2021 saknade regelering för lekmannarevisorernas arvode, vilket var ett förbiseende. Det fanns ingen tanke på att de skulle utföra uppdraget utan arvode.\n\nDen reviderade riktlinjen innehåller:\n- Retroaktivt arvode för lekmannarevisor från 14 januari 2021\n- Tydliggörande att grundbelopp är kopplat till riksdagsledamöternas arvode\n- Övriga arvoden följer Örebro kommuns beslutade beloppsnivåer\n- Årlig justering av beloppen\n\nVätternvatten AB har avsatt pengar för de retroaktiva arvodena. Markus Allard (ÖrP) yrkade avslag. Ärendet gick vidare till Kommunfullmäktige.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 25",
+      "quote": "Att lekmannarevisorerna inte ingår i den ursprungliga arvodesriktlinjen var ett förbiseende, då det inte var tanken att de skulle utföra sitt uppdrag utan arvode.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Vätternvatten",
+        "arvoden",
+        "bolagsstyrning"
+      ],
+      "id": "2023-02-07_ko_25"
+    },
+    {
+      "headline": "Riktlinje för hyresskulder antagen",
+      "summary": "Kommunstyrelsen fastställde ny riktlinje för hantering av sena hyresinbetalningar och uppkomna hyresskulder.",
+      "detail": "Riktlinjen syftar till att skapa tydlighet i processen för hantering av försenade och uteblivna hyresinbetalningar från vuxna personer som hyr bostad i andra hand från kommunen med målsättning att ta över kontraktet.\n\nSyftet är att:\n- Skapa förutsägbarhet för både verksamheter och hyresgäster\n- Tydliggöra konsekvenser av förseningar och uteblivna inbetalningar\n- Ge en enhetlig process inom det sociala välfärdsområdet\n\nV (Martha Wicklund) lämnade särskilt yttrande. Beslutet var enhälligt.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 26",
+      "quote": "Syftet med riktlinjen är att skapa tydlighet i processen för att hantera försenade och uteblivna hyresinbetalningar från målgrupperna.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "hyra",
+        "skulder",
+        "socialt",
+        "riktlinjer"
+      ],
+      "id": "2023-02-07_ko_26"
+    },
+    {
+      "headline": "Arkivöverslamlning för Landsbygdsnämnden förskjuten",
+      "summary": "Kommunstyrelsen beslutade förlänga tiden för arkivöverlämnande från Landsbygdsnämnden till Stadsarkivet från april till 30 juni 2023.",
+      "detail": "Den nya nämndorganisationen trädde i kraft 12 januari 2023, vilket innebar att Landsbygdsnämnden upphörde. Enligt arkivlagen ska myndigheternas arkiv överlämnas inom tre månader (skulle alltså avsluttas 12 april 2023).\n\nResourcebrist inom Stadsarkivet gör det mycket svårt att genomföra överlämnelsen inom lagstadgad tid. Kommunfullmäktige föreslogs därför förlänga perioden till 30 juni 2023. Kommunstyrelsen godkände förslaget som skulle vidare till Kommunfullmäktige.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 27",
+      "quote": "Den tremånadersgräns för överlämning som nämns i 14 § arkivlagen upphör den 12 april 2023.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "arkiv",
+        "Landsbygdsnämnden",
+        "administration"
+      ],
+      "id": "2023-02-07_ko_27"
+    },
+    {
+      "headline": "Gemensam Hjälmaren-strategi antagen",
+      "summary": "Kommunstyrelsen antog en gemensam strategi för utveckling av Hjälmaren tillsammans med andra kommuner och aktörer.",
+      "detail": "Under 2021-2022 formulerades en gemensam strategi för Hjälmarenomådet med representanter från omliggande kommuner, regioner, länsstyrelser och besöksorganisationer.\n\nStrategin omfattar:\n- Landsbygdsutveckling, friluftsliv och besöksnäring\n- Maritim utveckling\n- Naturmiljö och kulturmiljö\n- Vattennivå och vattenkvalité\n- Fiske\n\nStrategin var på remiss under hösten 2022 till aktörer inom civilsamhälle, näringsliv och politiska nämnder innan den återlämnades för slutligt beslut.",
+      "category": "miljo",
+      "contested": false,
+      "location": "Hjälmaren",
+      "paragraph_ref": "§ 28",
+      "quote": "Strategin innebär ett första steg för en samordnad utveckling inom policyområdena landsbygdsutveckling, friluftsliv och besöksnäring.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Hjälmaren",
+        "miljö",
+        "regional samordning",
+        "friluftsliv"
+      ],
+      "id": "2023-02-07_ko_28"
+    },
+    {
+      "headline": "Motion om naturreservat Sörbyskogen avslogs",
+      "summary": "Kommunstyrelsen avslogs Miljöpartiet de grönas motion om att inrätta naturreservatet Sörbyskogen. V och SD ville bifalla motionen.",
+      "detail": "Miljöpartiet (MP) inlämnade motion 15 juni 2021 (KF § 231) med förslag att:\n1. Örebro kommun inrättar naturreservatet Sörbyskogen\n2. Enheten för naturvård får uppdrag att utforma bevarande- och skötselplaner\n\nProgramnämnd samhällsbyggnad föreslog avslag på motionen med motiveringen att området enligt gällande översiktsplan är utpekat som utvecklingsområde för bostäder. Vid revidering av översiktsplanen skulle området ses över närmare.\n\nMartha Wicklund (V) och Bo Ammer (SD) yrkade bifall till motionen. Susanne Lindholm (KD) yrkade bifall till nämndens avslagsförslag. Majoriteten beslutade enligt nämndens förslag. Ärendet gick vidare till Kommunfullmäktige.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Sörbyskogen, Örebro",
+      "paragraph_ref": "§ 31",
+      "quote": "Enligt gällande översiktsplan är detta område utpekat som utvecklingsområde för bostäder.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "OrP"
+        ],
+        "against": [
+          "V",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "naturreservat",
+        "Sörbyskogen",
+        "miljö",
+        "planering"
+      ],
+      "id": "2023-02-07_ko_31"
+    },
+    {
+      "headline": "Motion om registerutdrag vid alla anställningar avslogs",
+      "summary": "Kommunstyrelsen avslogs Örebropartiets och SD:s motion om registerutdrag för alla anställningar inom kommunkoncernen.",
+      "detail": "Markus Allard (ÖrP) och Peter Springare (ÖrP) lämnade motion 28 september 2022 (KF § 167) med förslag att utdrag ur brotts- och misstankeregistren ska göras i samband med alla anställningar inom hela kommunkoncernen.\n\nKommunledningsförvaltningen bedömde att striktare lagstiftning för registerutdrag väntas, varför motionen föresågs avslogs.\n\nMarkus Allard (ÖrP) och Bo Ammer (SD) yrkade bifall till motionen. Majoriteten beslutade enligt förvaltningens förslag att avslå. Ärendet gick vidare till Kommunfullmäktige.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 32",
+      "quote": "Bedömningen är att en striktare lagstiftning för när det kommer vara tillåtet att begära utdrag ur belastningsregistret väntas.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "ansöllning",
+        "registerutdrag",
+        "säkerhet"
+      ],
+      "id": "2023-02-07_ko_32"
+    },
+    {
+      "headline": "Motion om kommunal second hand ansågs tillgodosedd",
+      "summary": "Kommunstyrelsen ansåg motionen från ÖrP om kommunal second hand redan tillgodosedd genom befintlig verksamhet.",
+      "detail": "Markus Allard (ÖrP) och Peter Springare (ÖrP) lämnade motion 28 september 2022 (KF § 167) med förslag att införa en kommunal second hand.\n\nKommunledningsförvaltningen bedömde att motionen redan är tillgodosedd genom:\n- Överskottscentralen som är en intern kommunal secondhandbutik som återbrukar, renoverar och säljer kontorsmöbler och andra inventarier\n- Planerat införande av byggretur för cirkulärt användande av byggmaterial\n\nMarkus Allard yrkade bifall till motionen. Majoriteten beslutade att motionen är redan tillgodosedd enligt förslaget. Ärendet gick vidare till Kommunfullmäktige.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 33",
+      "quote": "Verksamheten som bedrivs på Överskottscentralen är en intern kommunal secondhandbutik som återbrukar, renoverar och säljer kontorsmöbler",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall (tillgodosedd)"
+      },
+      "tags": [
+        "second hand",
+        "miljö",
+        "återbruk",
+        "cirkulär ekonomi"
+      ],
+      "id": "2023-02-07_ko_33"
+    },
+    {
+      "headline": "Motion om bemötandeproblematik avslogs",
+      "summary": "Kommunstyrelsen avslogs SD:s motion om omfattande utredning av bemötandeproblem inom kommunen.",
+      "detail": "Helena Ståhl (SD), Bo Ammer (SD), Daniel Spiik (SD) och David Larsson (SD) lämnade motion 15 juni 2022 (KF § 139) med förslag om att genomföra omfattande utredning avseende:\n- Om bemötandeproblematik existerar inom kommunen\n- Vilka grupper som uppfattar sig felbehandlade\n- Inom vilka verksamheter bemötandeproblematiken finns\n\nKommunledningsförvaltningen bedömde att kommunen redan har omfattande arbete för att stärka och säkerställa mänskliga rättigheter inom samtliga förvaltningar, inklusive HBTQI-personers rättigheter, barns rättigheter, kvinnors rättigheter, nationella minoriteters rättigheter och rättigheter för personer med funktionsnedsättningar. Ett proaktivt och generellt arbetssätt bedöms viktigt tillsammans med riktade insatser.\n\nBo Ammer (SD) och Markus Allard (ÖrP) yrkade bifall till motionen. Majoriteten beslutade enligt förvaltningens förslag att avslå. Ärendet gick vidare till Kommunfullmäktige.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 34",
+      "quote": "Kommunen är skyldiga att säkerställa människors rättigheter respekteras och efterlevs inom samtliga verksamheter.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "bemötande",
+        "mänskliga rättigheter",
+        "HBTQI"
+      ],
+      "id": "2023-02-07_ko_34"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Anna Andersson (KD) om att införa pratbänkar",
+      "party": "KD",
+      "status": "Remitterad till Kommunstyrelsen för beredning"
+    },
+    {
+      "title": "Lea Strandberg (MP) och Fredrik Persson (MP) om energiförsörjningsplan",
+      "party": "MP",
+      "status": "Remitterad till Kommunstyrelsen för beredning"
+    },
+    {
+      "title": "Sandra Fröjdenstam (KD) om att Örebro kommun bör upphöra som utförare av service",
+      "party": "KD",
+      "status": "Remitterad till Vård- och omsorgsnämnden"
+    },
+    {
+      "title": "Bo Ammer (SD) och Helena Ståhl (SD) om att återuppliva Rådhusets julkalender",
+      "party": "SD",
+      "status": "Remitterad till Kommunstyrelsen för beredning"
+    }
+  ],
+  "skipped_items_count": 6,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2023-02-07",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 13
+}
