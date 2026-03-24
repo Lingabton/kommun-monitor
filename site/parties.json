@@ -66,27 +66,269 @@
     },
     "motions_filed": [],
     "agreement_with": {
-      "M": 521,
       "V": 238,
-      "MP": 202,
-      "L": 334,
-      "KD": 367,
       "C": 484,
+      "L": 334,
+      "MP": 202,
+      "KD": 367,
+      "M": 521,
       "SD": 138,
       "ÖrP": 83
     },
     "disagreement_with": {
-      "V": 54,
       "ÖrP": 109,
+      "V": 54,
       "SD": 106,
-      "L": 37,
       "KD": 24,
+      "L": 37,
       "MP": 19
     },
+    "meetings_attended": 47,
+    "total_present_sum": 665,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 29
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 27
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 6
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 27
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 26
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 23
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 24
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 28
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 23
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 24
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 27
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 24
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 6
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 23
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 7
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 6
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 6
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 20
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      }
+    ],
     "for_pct": 99,
     "against_pct": 1,
     "abstained_pct": 0,
     "activity_score": 100,
+    "attendance_pct": 100,
+    "avg_present": 14.1,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "budget",
@@ -205,27 +447,269 @@
     },
     "motions_filed": [],
     "agreement_with": {
-      "S": 521,
       "V": 234,
-      "MP": 202,
-      "L": 335,
-      "KD": 367,
       "C": 480,
+      "L": 335,
+      "MP": 202,
+      "S": 521,
+      "KD": 367,
       "SD": 138,
       "ÖrP": 83
     },
     "disagreement_with": {
-      "V": 51,
       "ÖrP": 105,
+      "V": 51,
       "SD": 103,
-      "L": 34,
       "KD": 23,
+      "L": 34,
       "MP": 18
     },
+    "meetings_attended": 47,
+    "total_present_sum": 382,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 16
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 13
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 16
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 12
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 13
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 13
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 16
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 12
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 12
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 13
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 14
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 18
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 15
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 13
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 3
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 11
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 5
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 11
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 4
+      }
+    ],
     "for_pct": 98,
     "against_pct": 1,
     "abstained_pct": 0,
     "activity_score": 100,
+    "attendance_pct": 100,
+    "avg_present": 8.1,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "budget",
@@ -339,27 +823,269 @@
     },
     "motions_filed": [],
     "agreement_with": {
-      "M": 480,
-      "S": 484,
       "V": 231,
-      "MP": 198,
       "L": 329,
+      "MP": 198,
+      "S": 484,
       "KD": 362,
+      "M": 480,
       "SD": 135,
       "ÖrP": 81
     },
     "disagreement_with": {
-      "V": 49,
       "ÖrP": 98,
+      "V": 49,
       "SD": 95,
-      "L": 31,
       "KD": 20,
+      "L": 31,
       "MP": 17
     },
+    "meetings_attended": 47,
+    "total_present_sum": 183,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      }
+    ],
     "for_pct": 98,
     "against_pct": 1,
     "abstained_pct": 1,
     "activity_score": 100,
+    "attendance_pct": 100,
+    "avg_present": 3.9,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "budget",
@@ -863,29 +1589,271 @@
       }
     ],
     "agreement_with": {
-      "M": 335,
-      "S": 334,
       "V": 236,
-      "MP": 190,
-      "KD": 320,
       "C": 329,
+      "MP": 190,
+      "S": 334,
+      "KD": 320,
+      "M": 335,
       "SD": 152,
       "ÖrP": 94
     },
     "disagreement_with": {
-      "V": 24,
       "ÖrP": 71,
+      "V": 24,
       "SD": 63,
       "M": 34,
-      "C": 31,
       "S": 37,
+      "C": 31,
       "MP": 6,
       "KD": 17
     },
+    "meetings_attended": 47,
+    "total_present_sum": 180,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      }
+    ],
     "for_pct": 78,
     "against_pct": 9,
     "abstained_pct": 13,
     "activity_score": 100,
+    "attendance_pct": 100,
+    "avg_present": 3.8,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "budget",
@@ -1394,29 +2362,271 @@
       }
     ],
     "agreement_with": {
-      "M": 367,
-      "S": 367,
       "V": 224,
-      "MP": 190,
-      "L": 320,
       "C": 362,
+      "L": 320,
+      "MP": 190,
+      "S": 367,
+      "M": 367,
       "SD": 148,
       "ÖrP": 92
     },
     "disagreement_with": {
-      "V": 38,
       "ÖrP": 75,
+      "V": 38,
       "SD": 65,
       "M": 23,
-      "C": 20,
       "S": 24,
+      "C": 20,
       "L": 17,
       "MP": 15
     },
+    "meetings_attended": 47,
+    "total_present_sum": 138,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      }
+    ],
     "for_pct": 83,
     "against_pct": 6,
     "abstained_pct": 11,
     "activity_score": 100,
+    "attendance_pct": 100,
+    "avg_present": 2.9,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "budget",
@@ -1441,11 +2651,11 @@
     ],
     "top_allies": [
       [
-        "M",
+        "S",
         367
       ],
       [
-        "S",
+        "M",
         367
       ],
       [
@@ -2289,29 +3499,271 @@
       }
     ],
     "agreement_with": {
-      "M": 234,
-      "S": 238,
-      "MP": 174,
-      "L": 236,
-      "KD": 224,
       "C": 231,
+      "L": 236,
+      "MP": 174,
+      "S": 238,
+      "KD": 224,
+      "M": 234,
       "ÖrP": 87,
       "SD": 134
     },
     "disagreement_with": {
-      "M": 51,
-      "S": 54,
-      "MP": 8,
-      "L": 24,
-      "KD": 38,
       "C": 49,
+      "L": 24,
+      "MP": 8,
+      "S": 54,
+      "KD": 38,
+      "M": 51,
       "SD": 59,
       "ÖrP": 60
     },
+    "meetings_attended": 47,
+    "total_present_sum": 175,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      }
+    ],
     "for_pct": 58,
     "against_pct": 14,
     "abstained_pct": 28,
     "activity_score": 100,
+    "attendance_pct": 100,
+    "avg_present": 3.7,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "regler",
@@ -3900,29 +5352,266 @@
       }
     ],
     "agreement_with": {
-      "M": 138,
+      "C": 135,
       "S": 138,
       "KD": 148,
-      "C": 135,
+      "M": 138,
       "V": 134,
-      "MP": 105,
       "ÖrP": 129,
-      "L": 152
+      "L": 152,
+      "MP": 105
     },
     "disagreement_with": {
-      "M": 103,
-      "S": 106,
       "V": 59,
-      "MP": 38,
-      "L": 63,
-      "KD": 65,
       "C": 95,
+      "L": 63,
+      "MP": 38,
+      "S": 106,
+      "KD": 65,
+      "M": 103,
       "ÖrP": 16
     },
+    "meetings_attended": 46,
+    "total_present_sum": 219,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 9
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 9
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 9
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 9
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 10
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 8
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 2
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 9
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      }
+    ],
     "for_pct": 43,
     "against_pct": 34,
     "abstained_pct": 24,
     "activity_score": 100,
+    "attendance_pct": 98,
+    "avg_present": 4.8,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "regler",
@@ -3955,7 +5644,7 @@
         148
       ],
       [
-        "M",
+        "S",
         138
       ]
     ],
@@ -4666,28 +6355,265 @@
     ],
     "agreement_with": {
       "V": 87,
-      "M": 83,
       "SD": 129,
-      "S": 83,
-      "MP": 67,
+      "C": 81,
       "L": 94,
+      "MP": 67,
+      "S": 83,
       "KD": 92,
-      "C": 81
+      "M": 83
     },
     "disagreement_with": {
-      "M": 105,
-      "S": 109,
-      "MP": 39,
-      "L": 71,
-      "KD": 75,
       "C": 98,
+      "L": 71,
+      "MP": 39,
+      "S": 109,
+      "KD": 75,
+      "M": 105,
       "V": 60,
       "SD": 16
     },
+    "meetings_attended": 46,
+    "total_present_sum": 140,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-12-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 7
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-08-29",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 5
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 6
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      }
+    ],
     "for_pct": 27,
     "against_pct": 37,
     "abstained_pct": 36,
     "activity_score": 100,
+    "attendance_pct": 98,
+    "avg_present": 3.0,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "budget",
@@ -5215,29 +7141,261 @@
       }
     ],
     "agreement_with": {
-      "M": 202,
-      "S": 202,
       "V": 174,
-      "L": 190,
-      "KD": 190,
       "C": 198,
+      "L": 190,
+      "S": 202,
+      "KD": 190,
+      "M": 202,
       "SD": 105,
       "ÖrP": 67
     },
     "disagreement_with": {
-      "V": 8,
       "ÖrP": 39,
+      "V": 8,
       "SD": 38,
       "M": 18,
-      "C": 17,
       "S": 19,
+      "C": 17,
       "L": 6,
       "KD": 15
     },
+    "meetings_attended": 45,
+    "total_present_sum": 79,
+    "attendance_records": [
+      {
+        "date": "2025-03-26",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2025-03-18",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-02-25",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2025-02-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2025-01-29",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2025-01-21",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-12-11",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2024-12-03",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-11-20",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2024-11-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-10-23",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2024-10-15",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-09-25",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2024-09-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-08-28",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2024-08-27",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-06-10",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2024-05-14",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2024-05-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-04-24",
+        "organ": "Kommunfullmäktige",
+        "present": 1
+      },
+      {
+        "date": "2024-04-09",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-03-20",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2024-03-12",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-02-14",
+        "organ": "Kommunfullmäktige",
+        "present": 1
+      },
+      {
+        "date": "2024-02-06",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2024-01-23",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2023-12-12",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-11-22",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-11-13",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-10-24",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-10-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-09-27",
+        "organ": "Kommunfullmäktige",
+        "present": 4
+      },
+      {
+        "date": "2023-09-19",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-06-12",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-06-05",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-05-31",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-05-23",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-04-18",
+        "organ": "Kommunfullmäktige",
+        "present": 3
+      },
+      {
+        "date": "2023-04-11",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-03-22",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-03-14",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-02-15",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-02-07",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      },
+      {
+        "date": "2023-01-24",
+        "organ": "Kommunfullmäktige",
+        "present": 2
+      },
+      {
+        "date": "2023-01-17",
+        "organ": "Kommunstyrelsen",
+        "present": 1
+      }
+    ],
     "for_pct": 80,
     "against_pct": 8,
     "abstained_pct": 13,
     "activity_score": 100,
+    "attendance_pct": 96,
+    "avg_present": 1.8,
+    "total_meetings_with_attendance": 47,
     "top_categories": [
       [
         "ovrigt",
@@ -5262,11 +7420,11 @@
     ],
     "top_allies": [
       [
-        "M",
+        "S",
         202
       ],
       [
-        "S",
+        "M",
         202
       ],
       [

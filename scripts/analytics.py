@@ -130,6 +130,42 @@ def analyze_parties(data):
                     "date": m["date"],
                 })
 
+    # Load attendance data
+    for m in data.get("meetings", []):
+        date = m["date"]
+        organ = m.get("organ", m.get("meeting_type", ""))
+        safe = f"{date}_{organ.replace(' ', '_')}"
+        att_file = Path(__file__).parent.parent / "output" / safe / "attendance.json"
+        if not att_file.exists():
+            # Try old format
+            for d in (Path(__file__).parent.parent / "output").iterdir():
+                if d.is_dir() and date in d.name and (d / "attendance.json").exists():
+                    att_file = d / "attendance.json"
+                    break
+        if att_file.exists():
+            try:
+                att = json.loads(att_file.read_text("utf-8"))
+                for party, info in att.get("parties", {}).items():
+                    if party in parties and info.get("present", 0) > 0:
+                        parties[party].setdefault("meetings_attended", 0)
+                        parties[party]["meetings_attended"] += 1
+                        parties[party].setdefault("total_present_sum", 0)
+                        parties[party]["total_present_sum"] += info["present"]
+                        parties[party].setdefault("attendance_records", [])
+                        parties[party]["attendance_records"].append({
+                            "date": date, "organ": organ, "present": info["present"]
+                        })
+            except Exception:
+                pass
+
+    total_meetings_with_attendance = len([
+        m for m in data.get("meetings", [])
+        if (Path(__file__).parent.parent / "output" / f"{m['date']}_{m.get('organ', m.get('meeting_type', '')).replace(' ', '_')}" / "attendance.json").exists()
+        or any((Path(__file__).parent.parent / "output" / d.name / "attendance.json").exists()
+               for d in (Path(__file__).parent.parent / "output").iterdir()
+               if d.is_dir() and m["date"] in d.name)
+    ])
+
     # Calculate derived metrics
     for abbr, p in parties.items():
         total = p["total_votes"] or 1
@@ -137,6 +173,12 @@ def analyze_parties(data):
         p["against_pct"] = round(p["votes_against"] / total * 100)
         p["abstained_pct"] = round(p["votes_abstained"] / total * 100)
         p["activity_score"] = min(100, int(total * 5 + len(p["motions_filed"]) * 10))
+
+        # Attendance
+        attended = p.get("meetings_attended", 0)
+        p["attendance_pct"] = round(attended / max(total_meetings_with_attendance, 1) * 100)
+        p["avg_present"] = round(p.get("total_present_sum", 0) / max(attended, 1), 1)
+        p["total_meetings_with_attendance"] = total_meetings_with_attendance
 
         # Top categories
         p["top_categories"] = sorted(p["key_issues"].items(), key=lambda x: -x[1])[:5]
@@ -419,7 +461,7 @@ footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-si
 <div class="stat"><div class="val" style="color:#c44028">{p['against_pct']}%</div><div class="lbl">Röstade NEJ</div></div>
 <div class="stat"><div class="val">{total_motions}</div><div class="lbl">Motioner</div></div>
 {f'<div class="stat"><div class="val">{genomslag_pct}%</div><div class="lbl">Genomslag</div></div>' if total_motions > 0 else ''}
-<div class="stat"><div class="val">{len(p["contested_votes"])}</div><div class="lbl">Stred emot</div></div>
+<div class="stat"><div class="val">{p.get("attendance_pct", 0)}%</div><div class="lbl">Mötesnärvaro</div></div>
 </div>
 
 <div class="bar-big">
@@ -448,7 +490,19 @@ footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-si
 {alliance_html}
 </div>
 
-<!-- 6. Top issues -->
+<!-- 6. Attendance -->
+{f"""<div class="section">
+<h3>Närvaro på möten</h3>
+<p style="font-size:12px;color:#8a8a8a;margin-bottom:8px">Närvarande vid {p.get('meetings_attended',0)} av {p.get('total_meetings_with_attendance',0)} sammanträden. Snitt {p.get('avg_present',0)} ledamöter per möte.</p>
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+<div style="flex:1;height:8px;border-radius:4px;background:#f0ece8">
+<div style="width:{p.get('attendance_pct',0)}%;height:100%;border-radius:4px;background:{p['color']}"></div>
+</div>
+<span style="font-size:13px;font-weight:600">{p.get('attendance_pct',0)}%</span>
+</div>
+</div>""" if p.get('meetings_attended', 0) > 0 else ''}
+
+<!-- 7. Top issues -->
 <div class="section">
 <h3>Sakområden</h3>
 {issues_html or '<p style="color:#8a8a8a;font-size:13px">Ingen data ännu</p>'}
