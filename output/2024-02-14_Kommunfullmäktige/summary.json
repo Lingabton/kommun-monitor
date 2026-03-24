@@ -1,0 +1,367 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2024-02-14",
+  "summary_headline": "Investeringsanslag överförda, bolagsbildning godkänd, motioner avslagna",
+  "decisions": [
+    {
+      "headline": "Investeringsanslag 416,9 miljoner överförs från 2023 till 2024",
+      "summary": "Kommunfullmäktige beslutade att överföra investeringsanslag på 416,9 miljoner kronor från 2023 till 2024. Av dessa går 240,7 miljoner till skattefinansierade investeringar och 176,2 miljoner till taxefinansierade investeringar.",
+      "detail": "Ärendet gällde överföring av investeringsanslag från 2023 för pågående investeringsobjekt samt fastställande av intraprenadernas och digital arbetsplats ackumulerade resultat.\n\nIntraprenadernas resultat fastställdes till 21,5 miljoner kronor och Digital arbetsplats ackumulerade resultat till minus 25,7 miljoner kronor. Överförda anslag exkluderas från beräkningen av finansiella mål om självfinansieringsgrad för 2024.\n\nKommunstyrelsens förslag antogs med reservationer från SD, ÖrP, L och MP. SD, ÖrP, L och MP motsatte sig överföringarna med hänvisning till sina budgetförslag.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 38",
+      "quote": "Investeringsanslag på sammanlagt 416 884 tkr överförs från 2023 till 2024 i enlighet med kommunstyrelseförvaltningens förslag.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP",
+          "L",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "budget",
+        "anslag"
+      ],
+      "id": "2024-02-14_ko_38"
+    },
+    {
+      "headline": "Örebroporten får möjlighet bilda dotterbolag för fastighetsförsäljning",
+      "summary": "Kommunfullmäktige godkände att Örebroporten Fastigheter AB kan bilda ett eller flera dotterbolag för försäljning av fastigheter eller delar av fastigheter. Bolagsordning för dessa bolag godkändes.",
+      "detail": "Örebroporten Fastigheter AB planerar att överlåta en eller flera fastigheter genom att packetera dem i nybildade aktiebolag. Kommunledningen godkände föreslagen bolagsordning för de fastighetsägande bolagen.\n\nKommunfullmäktige beslutade att godkänna bolagsbildningen och föreslagen bolagsordning. För överlåtelser av bolag med fastighetsvärde över 500 prisbasbelopp ska frågan underställas kommunfullmäktige i särskilt ärende.\n\nJeanette Berggren utsågs till styrelseledamot, Susanne Odelberg-Johnson till styrelsesuppleant och Lars Bjurström till lekmannarevisor för sådana bolag. V och ÖrP reserverade sig mot beslutet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 39",
+      "quote": "Kommunfullmäktige godkänner att Örebroporten Fastigheter AB bildar ett eller flera dotterbolag eller dotterdotterbolag för försäljning av fastigheter eller del av fastigheter.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "SD",
+          "MP",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "bolagsbildning",
+        "fastigheter",
+        "Örebroporten"
+      ],
+      "id": "2024-02-14_ko_39"
+    },
+    {
+      "headline": "Rapporter om ej verkställda beslut inom LSS och SoL läggs till handlingarna",
+      "summary": "Kommunfullmäktige beslutade att rapporter från Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden över ej verkställda beslut för kvartal 3 2023 läggs till handlingarna. Flera partier ville ha åtgärdsförslag.",
+      "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden rapporterade om ej verkställda insatsbeslut enligt LSS och SoL. Syftet med rapporteringen är att kommunen ska kunna planera resurser för att verkställa insatser inom skälig tid.\n\nVänsterpartiet yrkade på att kommunledningen skulle få i uppdrag att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid och utvärdera insatser enligt SoL.\n\nSverigedemokraterna yrkade på att framtida rapporter inkluderar anledningar till varför individer får vänta på verkställande och att skarpt krav ställs för att undvika särskilda avgifter från IVO. Båda tilläggsyrkandena avslogs. V, ÖrP, L och KD reserverade sig.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 40",
+      "quote": "Socialnämndens statistikrapport till Kommunfullmäktige över ej verkställda SoL-beslut rapporterade kvartal 3, 2023 läggs till handlingarna.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP",
+          "L",
+          "SD",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "välfärd",
+        "socialtjänst",
+        "LSS",
+        "rapportering"
+      ],
+      "id": "2024-02-14_ko_40"
+    },
+    {
+      "headline": "Motion om Rådhusets julkalender bordläggs för fortsatt behandling",
+      "summary": "Kommunfullmäktige beslutade att bordlägga motion från SD om att återuppliva Rådhusets julkalender i egen regi.",
+      "detail": "Sverigedemokraterna lämnade motion om att utreda möjligheterna för och återuppliva Rådhusets julkalender, antingen genom att ta över varumärket eller utveckla eget projekt med liknande koncept.\n\nKommunledningen föreslog att motionen skulle avslås. Ärendet hade redan bordlagts vid tidigare möten den 27 september, 24 oktober, 22 november, 12 december 2023 och 23 januari 2024.\n\nKommunfullmäktige beslutade denna gång att bordlägga ärendet för fortsatt behandling.",
+      "category": "kultur",
+      "contested": false,
+      "location": "Rådhuset",
+      "paragraph_ref": "§ 41",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "julkalender",
+        "kultur",
+        "Rådhuset"
+      ],
+      "id": "2024-02-14_ko_41"
+    },
+    {
+      "headline": "Motion om pratbänkar i Örebro avslås på grund av ekonomiska prioriteringar",
+      "summary": "Kommunfullmäktige avslogs motion från KD om att införa pratbänkar i Örebro för att motverka ensamhet och skapa generationsmöten.",
+      "detail": "KD lämnade motion om att ta fram en modell för pratbänkar och placera ut dem på några platser i Örebro. Motionen syftade till att motverka ensamhet och skapa gemenskap mellan människor.\n\nKommunledningen (S, M, C) såg positivt på intentionen men menade att pratbänkarna medför engångskostnad för inköp och ökade driftskostnader för Teknik- och servicenämnden. Dessa kostnader fanns inte bland kommunledningens ekonomiska prioriteringar för mandatperioden.\n\nKommunfullmäktige avslogs motionen. KD, V, L och MP reserverade sig för bifall till motionen.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 42",
+      "quote": "Dessa kostnader finns inte med bland kommunledningens ekonomiska prioriteringar för mandatperioden.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "V",
+          "L",
+          "MP"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "praktbänkar",
+        "ensamhet",
+        "gemenskap"
+      ],
+      "id": "2024-02-14_ko_42"
+    },
+    {
+      "headline": "Motion om kommundelning för Östernärke avslås",
+      "summary": "Kommunfullmäktige avslogs SD:s motion om att utreda möjligheterna för kommundelning där Östernärke bildar egen kommun.",
+      "detail": "SD lämnade motion om att utreda för- och nackdelar med kommundelning där Östernärke skulle bli egen kommun. Motionärerna menade att klyftan mellan stad och land vuxit sig djupare i Örebro kommun.\n\nKommunledningen bedömde att det inte är aktuellt med kommundelning. Mindre kommuner får allt svårare att bära kostnader för skola, äldreomsorg och infrastruktur. Kommunledningen anser att man lämpligen bör invänta eventuell omvärdering av Sveriges kommunindelning innan ändringar genomförs.\n\nKommunfullmäktige avslogs motionen. SD och ÖrP reserverade sig för bifall.",
+      "category": "politik",
+      "contested": true,
+      "location": "Östernärke",
+      "paragraph_ref": "§ 45",
+      "quote": "Det blir allt svårare för mindre kommuner att bära sina egna kostnader för både skola, äldreomsorg och infrastruktur.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "M",
+          "SD",
+          "V",
+          "L",
+          "KD",
+          "ÖrP",
+          "MP"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "Östernärke",
+        "kommundelning",
+        "regionalpolitik"
+      ],
+      "id": "2024-02-14_ko_45"
+    },
+    {
+      "headline": "Motion om BRT-folkomröstning och Vätternvatten bordläggs",
+      "summary": "Kommunfullmäktige bordlade två motioner från ÖrP om folkomröstningar angående BRT och Vätternvatten.",
+      "detail": "ÖrP lämnade två motioner daterade från 2021 respektive 2022 om att låta örebroarna folkomrösta om Buss Rapid Transit (BRT) och om Vätternvatten.\n\nKommunledningen (S, M, C) menade att de är överens om att trafiksituationen behöver lösningar och att Vätternvatten är en avgörande fråga för vattenförsörjningen för flera kommuner. Kommunledningen motsatte sig folkomröstningar och ville fortsätta arbetet med BRT etapp 2 och 3 med Region Örebro län.\n\nBåda ärendena bordlades för fortsatt behandling snarare än att förklaras färdigbehandlade.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 46-47",
+      "quote": "Projekt av denna dignitet föregås av en grundlig undersökning där olika alternativ prövats.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "BRT",
+        "Vätternvatten",
+        "folkomröstning",
+        "infrastruktur"
+      ],
+      "id": "2024-02-14_ko_46-47"
+    },
+    {
+      "headline": "Motion om Open Art med barn avslogs, kostnadskritik från ÖrP",
+      "summary": "Kommunfullmäktige bordlade ÖrP:s motion om att omvandla Open Art till Children's Open Art för att spara pengar.",
+      "detail": "ÖrP lämnade motion om att göra om Open Art till barnens Open Art för att spara kostnader samtidigt som barns skapandekraft lyfts.\n\nKommunledningen menade att detta skulle förändra konceptet i grunden. Open Art har en unik position som Skandinaviens största biennal för samtidskonst i det offentliga rummet tack vare vissa verkshöjdskrav. Kommunledningen föreslår istället nya samarbetsformer och gemensam finansiering med näringslivet, samtidigt som anslagen dras ner.\n\nÄrendet bordlades för fortsatt behandling.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 48",
+      "quote": "Tack vare denna verkshöjd har OpenArt en unik position som Skandinaviens största biennal för samtidskonst i det offentliga rummet.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "Open Art",
+        "kultur",
+        "barn",
+        "budget"
+      ],
+      "id": "2024-02-14_ko_48"
+    },
+    {
+      "headline": "Motion om flexibelt boende för äldre, studenter och flyktingbarn bordläggs",
+      "summary": "Kommunfullmäktige bordlade V:s motion om att utreda och planlägga flexibel boendeform för äldre med omsorgsbehov, studenter och ensamsökande flyktingbarn.",
+      "detail": "Vänsterpartiet lämnade motion om att utreda en flexibel boendeform där äldre med visst omsorgsbehov, studenter och ensamsökande flyktingbarn kunde bo tillsammans. Motionen föreslog också att kommunen skulle planlägga för sådant boende.\n\nKommunledningen avslogs motionen med motiveringen att den inte var prioriterad. V, KD och L reserverade sig för bifall.\n\nÄrendet bordlades för fortsatt behandling.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 49",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "boende",
+        "bostäder",
+        "äldre",
+        "ungdomar"
+      ],
+      "id": "2024-02-14_ko_49"
+    },
+    {
+      "headline": "Motion om Törsjöterminal och jordbruksmark bordläggs",
+      "summary": "Kommunfullmäktige bordlade V:s motion om att bevara jordbruksmarken i Törsjö genom att inte bygga Törsjöterminal.",
+      "detail": "Vänsterpartiet lämnade motion med tre yrkanden: att inte bygga Törsjöterminal, att utreda expandering av terminal i annan kommun, och att kartlägga extra skyddsvärd jordbruksmark.\n\nKommunledningen avslogs motionen. En detaljplan för terminalen i Törsjö hade redan antagits av Kommunfullmäktige i maj 2023. Kommunledningen menade att det saknas syfte att utreda terminal i annan kommun och att kartläggning av skyddsvärd jordbruksmark inte är angelägen kommunal verksamhet.\n\nV, L och SD reserverade sig för bifall.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Törsjö",
+      "paragraph_ref": "§ 50",
+      "quote": "Utifrån den utredning som kommunen låtit göra har kommunledningen övervägt olika möjligheter vilket resulterat i att Kommunfullmäktige antagit detaljplanen för terminalen i Törsjö i maj 2023 och inget nytt har framkommit efter det.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "Törsjö",
+        "terminal",
+        "jordbruksmark",
+        "miljö"
+      ],
+      "id": "2024-02-14_ko_50"
+    },
+    {
+      "headline": "Motion om Fritte fritidsgård tillgodosedd med 600 000 kronor",
+      "summary": "Kommunfullmäktige ansåg MP:s motion om fritidsgården Fritte tillgodosedd. Kultur- och fritidsnämnden får 600 000 kronor för stärkt verksamhet.",
+      "detail": "Miljöpartiet lämnade motion med fyra yrkanden om fritidsgården Fritte för teckenspråkiga ungdomar. Motionen krävde ekonomisk förstärkning för befintliga öppettider, prioritering i utredning, att kommun ska säkerställa öppettider över tid, och att döva och hörselskadade ungdomar garanteras fritidsgård utifrån sina behov.\n\nKommunledningen delade bedömningen att Fritte behöver stärkt finansiering. Kultur- och fritidsnämnden får öka verksamhetsbidraget med 600 000 kronor. Detta möjliggör två heltidsanställda och minst tre personal per kväll, samt viss sommarverksamhet.\n\nKommunfullmäktige ansåg motionen tillgodosedd. V, ÖrP och SD reserverade sig för bifall.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 51",
+      "quote": "Den teckenspråkiga fritidsgården Fritte drivs av föreningen Kulturhuset Scenit via avtal med Kultur- och fritidsnämnden.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Fritte",
+        "fritidsgård",
+        "ungdomar",
+        "teckenspråk"
+      ],
+      "id": "2024-02-14_ko_51"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Fossil reklam - motion från Lea Strandberg (MP)",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Skydda Garphytteklint - motion från Lea Strandberg (MP)",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Utveckla enprocentsregeln - motion från Vänsterpartiet",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Mer pengar till personalen i välfärden - motion från Vänsterpartiet",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Förstärka skolan - motion från Vänsterpartiet",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Kommunal bojkott av israeliska varor och tjänster - motion från Vänsterpartiet",
+      "party": "V",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 7,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2024-02-14",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 11
+}
