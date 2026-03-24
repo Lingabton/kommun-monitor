@@ -21,6 +21,7 @@ on:
           - backfill-2025  # Backfill 2025 protocols
           - backfill-2026  # Backfill 2026 protocols
           - process-known  # Process all from known_protocols.json
+          - attendance     # Extract attendance data from PDFs
           - dry-run        # Show what would happen
 
 permissions:
@@ -104,6 +105,22 @@ jobs:
                 git push
                 DONE=$((DONE + NEW))
                 echo "Committed batch $i ($NEW new files)"
+                cd scripts
+              done
+              ;;
+            attendance)
+              echo "📋 Extracting attendance data..."
+              for i in $(seq 1 10); do
+                echo "=== Attendance batch $i ==="
+                python attendance.py --max 5
+                cd ..
+                git add -A
+                if git diff --cached --quiet; then
+                  echo "No new attendance data — done!"
+                  break
+                fi
+                git commit -m "Attendance batch $i"
+                git push
                 cd scripts
               done
               ;;

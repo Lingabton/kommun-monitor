@@ -1,61 +1,109 @@
 <!DOCTYPE html><html lang="sv"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Socialdemokraterna i Örebro kommun — Kommun Monitor</title>
-<meta name="description" content="Hur röstar Socialdemokraterna i Örebro? Röstningsstatistik, nyckelfrågor och motioner.">
-<link rel="canonical" href="https://Lingabton.github.io/kommun-monitor/parti/s/">
-<meta property="og:title" content="Socialdemokraterna — röstningsstatistik Örebro kommun">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
-<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:#f8fafc;color:#1e293b;line-height:1.5}a{color:#1e3a5f;text-decoration:none}
-header{background:linear-gradient(135deg,#0f2439,#1e3a5f 60%,#2d5a87);color:#fff;padding:24px 20px}
-.wrap{max-width:700px;margin:0 auto;padding:0 20px}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:20px 0}
-.stat{background:#fff;border-radius:10px;padding:14px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,.04)}
-.stat .val{font-size:24px;font-weight:700} .stat .lbl{font-size:11px;color:#64748b}
-.section{background:#fff;border-radius:10px;padding:18px;margin-bottom:14px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
-.section h3{font-size:14px;color:#64748b;margin-bottom:10px;text-transform:uppercase;letter-spacing:0.5px;font-size:12px}
-.bar-big{height:24px;border-radius:6px;display:flex;overflow:hidden;background:#f1f5f9;margin:8px 0}
+<title>Socialdemokraterna i Örebro kommun — Beslutskollen</title>
+<meta name="description" content="Vad har Socialdemokraterna gjort i Örebro kommun? Röstningsstatistik, motioner och politisk profil baserat på 536 röstningar.">
+<link rel="canonical" href="/parti/s/">
+<meta property="og:title" content="Socialdemokraterna — politisk profil Örebro kommun">
+<meta property="og:description" content="Socialdemokraterna styr Örebro kommun tillsammans med Moderaterna och Centerpartiet. Som del av majoriteten röstar de JA i 99% av frågorna — de flesta förslag h">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Instrument Sans',system-ui,sans-serif;background:#f7f5f2;color:#1a1a1a;line-height:1.6}
+a{color:#0f1f33;text-decoration:none}
+header{background:linear-gradient(160deg,#0a1628,#0f1f33 40%,#1e3a5f);color:#fff;padding:28px 24px}
+.wrap{max-width:700px;margin:0 auto;padding:0 24px}
+.summary{font-size:15px;color:#4a4a4a;line-height:1.7;margin:16px 0;padding:16px 20px;background:#fff;border-radius:10px;border-left:4px solid #e8112d;box-shadow:0 1px 4px rgba(0,0,0,.03)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:10px;margin:16px 0}
+.stat{background:#fff;border-radius:10px;padding:14px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,.03)}
+.stat .val{font-size:22px;font-weight:700} .stat .lbl{font-size:11px;color:#8a8a8a;margin-top:2px}
+.section{background:#fff;border-radius:10px;padding:18px;margin-bottom:12px;box-shadow:0 1px 3px rgba(0,0,0,.03)}
+.section h3{font-size:11px;font-weight:700;color:#8a8a8a;margin-bottom:10px;text-transform:uppercase;letter-spacing:0.8px}
+.context{background:#fefce8;border:1px solid #fde68a;border-radius:8px;padding:14px 16px;margin-bottom:12px;font-size:13px;color:#92400e;line-height:1.6}
+.context summary{font-weight:700;cursor:pointer;font-size:12px}
+.bar-big{height:24px;border-radius:6px;display:flex;overflow:hidden;background:#f0ece8;margin:8px 0}
 .bar-big div{display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff}
-footer{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-size:11px;color:#94a3b8;margin-top:40px}
+footer{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-size:11px;color:#8a8a8a;margin-top:40px}
+@media(max-width:600px){.stats{grid-template-columns:repeat(2,1fr)}}
 </style></head><body>
+
 <header><div class="wrap">
-<div style="display:flex;gap:12px;align-items:center;margin-bottom:8px">
-<a href="https://Lingabton.github.io/kommun-monitor/" style="color:#fff;opacity:.7;font-size:13px">🏛️ Kommun Monitor</a>
-<span style="opacity:.4">›</span>
-<a href="https://Lingabton.github.io/kommun-monitor/parti/" style="color:#fff;opacity:.7;font-size:13px">Partier</a>
+<div style="display:flex;gap:10px;align-items:center;margin-bottom:10px;font-size:13px">
+<a href="/" style="color:#fff;opacity:.6">📋 Beslutskollen</a>
+<span style="opacity:.3">›</span>
+<a href="/parti/" style="color:#fff;opacity:.6">Partier</a>
 </div>
 <div style="display:flex;align-items:center;gap:14px">
-<div style="width:48px;height:48px;border-radius:10px;background:#e8112d;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:800;color:#fff">S</div>
+<div style="width:52px;height:52px;border-radius:12px;background:#e8112d;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:800;color:#fff">S</div>
 <div>
-<h1 style="font-family:'DM Serif Display',serif;font-size:24px;font-weight:400">Socialdemokraterna</h1>
-<p style="font-size:13px;opacity:.7">Majoritet · Socialdemokrati</p>
+<h1 style="font-family:'Fraunces',serif;font-size:26px;font-weight:300">Socialdemokraterna</h1>
+<p style="font-size:13px;opacity:.6">Majoritet · Socialdemokrati</p>
 </div>
 </div>
 </div></header>
 
-<div class="wrap" style="padding-top:20px;padding-bottom:40px">
+<div class="wrap" style="padding-top:16px;padding-bottom:40px">
 
+<!-- 1. Summary -->
+<div class="summary">Socialdemokraterna styr Örebro kommun tillsammans med Moderaterna och Centerpartiet. Som del av majoriteten röstar de JA i 99% av frågorna — de flesta förslag har redan deras stöd innan omröstning. De driver sina frågor genom budgeten och styrningen, inte genom motioner. Budgetfrågor är deras starkaste profilområde.</div>
+
+<!-- 2. Key stats -->
 <div class="stats">
-<div class="stat"><div class="val">40</div><div class="lbl">Röstningar</div></div>
-<div class="stat"><div class="val" style="color:#22c55e">98%</div><div class="lbl">Röstade JA</div></div>
-<div class="stat"><div class="val" style="color:#ef4444">2%</div><div class="lbl">Röstade NEJ</div></div>
+<div class="stat"><div class="val">536</div><div class="lbl">Röstningar</div></div>
+<div class="stat"><div class="val" style="color:#1a8754">99%</div><div class="lbl">Röstade JA</div></div>
+<div class="stat"><div class="val" style="color:#c44028">1%</div><div class="lbl">Röstade NEJ</div></div>
 <div class="stat"><div class="val">0</div><div class="lbl">Motioner</div></div>
+
+<div class="stat"><div class="val">7</div><div class="lbl">Stred emot</div></div>
 </div>
 
 <div class="bar-big">
-<div class="for" style="width:98%;background:#22c55e">JA 98%</div>
-<div style="width:2%;background:#ef4444">NEJ 2%</div>
-<div style="width:0%;background:#d4d4d8;color:#666">AVSTOD 0%</div>
+<div style="width:99%;background:#1a8754">JA 99%</div>
+<div style="width:1%;background:#c44028"></div>
+<div style="width:0%;background:#d4d0cc;color:#666"></div>
 </div>
 
-<div class="section"><h3>Nyckelfrågor</h3><div style="display:flex;align-items:center;gap:8px;padding:6px 0"><span>💰</span><span style="flex:1">Budget</span><strong>11</strong> röstningar</div><div style="display:flex;align-items:center;gap:8px;padding:6px 0"><span>📜</span><span style="flex:1">Regler</span><strong>8</strong> röstningar</div><div style="display:flex;align-items:center;gap:8px;padding:6px 0"><span>📋</span><span style="flex:1">Ovrigt</span><strong>5</strong> röstningar</div><div style="display:flex;align-items:center;gap:8px;padding:6px 0"><span>⚖️</span><span style="flex:1">Politik</span><strong>5</strong> röstningar</div><div style="display:flex;align-items:center;gap:8px;padding:6px 0"><span>🛣️</span><span style="flex:1">Infrastruktur</span><strong>3</strong> röstningar</div></div>
+<!-- 3. Context box -->
+<details class="context">
+<summary>Vad betyder det att sitta i majoritet?</summary>
+<p style="margin-top:8px">Majoriteten (S+M+C) styr Örebro kommun. De flesta förslag som kommer till omröstning har redan deras stöd — därför röstar de JA i nästan alla frågor. Att de sällan lämnar motioner beror på att de driver sina frågor genom budgeten och styrningen.</p>
+</details>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
-<div class="section"><h3>Röstar oftast med</h3><div style="display:flex;gap:6px;flex-wrap:wrap"><span style="background:#52bdec;color:#fff;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:600">M</span> <span style="background:#009933;color:#fff;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:600">C</span> <span style="background:#006ab3;color:#fff;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:600">L</span> </div></div>
-<div class="section"><h3>Röstar oftast mot</h3><div style="display:flex;gap:6px;flex-wrap:wrap"><span style="background:#f47920;color:#fff;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:600">ÖrP</span> <span style="background:#dddd00;color:#fff;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:600">SD</span> <span style="background:#231977;color:#fff;padding:3px 10px;border-radius:4px;font-size:12px;font-weight:600">KD</span> </div></div>
+<!-- 4. Voting comparison -->
+<div class="section">
+<h3>Alla partier — jämförelse</h3>
+<p style="font-size:12px;color:#8a8a8a;margin-bottom:8px">Grönt = JA, rött = NEJ. Socialdemokraterna markerat.</p>
+<div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;background:rgba(0,0,0,.03);"><span style="width:28px;font-size:11px;font-weight:700;color:#e8112d">S</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:99%;background:#1a8754"></div><div style="width:1%;background:#c44028"></div><div style="width:0%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">1% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#52bdec">M</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:98%;background:#1a8754"></div><div style="width:1%;background:#c44028"></div><div style="width:0%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">1% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#009933">C</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:98%;background:#1a8754"></div><div style="width:1%;background:#c44028"></div><div style="width:1%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">1% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#006ab3">L</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:78%;background:#1a8754"></div><div style="width:9%;background:#c44028"></div><div style="width:13%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">9% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#231977">KD</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:83%;background:#1a8754"></div><div style="width:6%;background:#c44028"></div><div style="width:11%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">6% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#da291c">V</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:58%;background:#1a8754"></div><div style="width:14%;background:#c44028"></div><div style="width:28%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">14% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#dddd00">SD</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:43%;background:#1a8754"></div><div style="width:34%;background:#c44028"></div><div style="width:24%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">34% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#f47920">ÖrP</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:27%;background:#1a8754"></div><div style="width:37%;background:#c44028"></div><div style="width:36%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">37% nej</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:6px;"><span style="width:28px;font-size:11px;color:#83cf39">MP</span><div style="flex:1;display:flex;height:6px;border-radius:3px;overflow:hidden;background:#f0ece8"><div style="width:80%;background:#1a8754"></div><div style="width:8%;background:#c44028"></div><div style="width:13%;background:#d4d0cc"></div></div><span style="width:55px;font-size:11px;color:#8a8a8a;text-align:right">8% nej</span></div>
 </div>
 
-<div class="section"><h3>Röstade NEJ i dessa beslut</h3><a href="https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_221/" style="display:block;padding:6px 0;border-bottom:1px solid #f1f5f9;color:#1e293b;font-size:13px"><span style="color:#94a3b8">2025-08-27</span> · Motion om mindre barngrupper i förskolan avslogs</a></div>
+<!-- 5. Alliances -->
+<div class="section">
+<h3>Röstar oftast lika som</h3>
+<p style="font-size:12px;color:#8a8a8a;margin-bottom:8px">Andel beslut där de röstade på samma sida.</p>
+<div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#52bdec;font-weight:600">M</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:97%;background:#52bdec;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">97%</span></div><div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#009933;font-weight:600">C</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:90%;background:#009933;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">90%</span></div><div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#231977;font-weight:600">KD</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:68%;background:#231977;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">68%</span></div><div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#006ab3;font-weight:600">L</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:62%;background:#006ab3;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">62%</span></div><div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#da291c;font-weight:600">V</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:44%;background:#da291c;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">44%</span></div><div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#83cf39;font-weight:600">MP</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:38%;background:#83cf39;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">38%</span></div><div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#dddd00;font-weight:600">SD</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:26%;background:#dddd00;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">26%</span></div><div style="display:flex;align-items:center;gap:8px;padding:4px 0"><span style="width:28px;font-size:11px;color:#f47920;font-weight:600">ÖrP</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:15%;background:#f47920;border-radius:3px;height:100%"></div></div><span style="font-size:11px;color:#8a8a8a;width:55px;text-align:right">15%</span></div>
+</div>
 
+<!-- 6. Top issues -->
+<div class="section">
+<h3>Sakområden</h3>
+<div style="display:flex;align-items:center;gap:8px;padding:5px 0"><span>💰</span><span style="width:90px;font-size:13px">Budget</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:100%;background:#e8112d;border-radius:3px;height:100%"></div></div><span style="font-size:12px;color:#8a8a8a;width:20px;text-align:right">131</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 0"><span>📜</span><span style="width:90px;font-size:13px">Regler</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:56%;background:#e8112d;border-radius:3px;height:100%"></div></div><span style="font-size:12px;color:#8a8a8a;width:20px;text-align:right">73</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 0"><span>📋</span><span style="width:90px;font-size:13px">Ovrigt</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:54%;background:#e8112d;border-radius:3px;height:100%"></div></div><span style="font-size:12px;color:#8a8a8a;width:20px;text-align:right">71</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 0"><span>⚖️</span><span style="width:90px;font-size:13px">Politik</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:44%;background:#e8112d;border-radius:3px;height:100%"></div></div><span style="font-size:12px;color:#8a8a8a;width:20px;text-align:right">58</span></div><div style="display:flex;align-items:center;gap:8px;padding:5px 0"><span>🛣️</span><span style="width:90px;font-size:13px">Infrastruktur</span><div style="flex:1;height:6px;border-radius:3px;background:#f0ece8"><div style="width:32%;background:#e8112d;border-radius:3px;height:100%"></div></div><span style="font-size:12px;color:#8a8a8a;width:20px;text-align:right">42</span></div>
+</div>
+
+<!-- 7. Contested decisions -->
+<div class="section">
+<h3>Stridslinjerna — röstade emot majoriteten</h3>
+<p style="font-size:12px;color:#8a8a8a;margin-bottom:8px">De frågor Socialdemokraterna tyckte var viktiga nog att ta strid om.</p>
+<a href="/beslut/2025-08-27_ko_221/" style="display:block;padding:6px 0;border-bottom:1px solid #f0ece8;color:#1a1a1a;font-size:13px"><span style="color:#8a8a8a">2025-08-27</span> · Motion om mindre barngrupper i förskolan avslogs</a><a href="/beslut/2025-08-27_ko_223/" style="display:block;padding:6px 0;border-bottom:1px solid #f0ece8;color:#1a1a1a;font-size:13px"><span style="color:#8a8a8a">2025-08-27</span> · Motion om mer pengar till välfärdspersonal avslogs</a><a href="/beslut/2025-08-27_ko_225/" style="display:block;padding:6px 0;border-bottom:1px solid #f0ece8;color:#1a1a1a;font-size:13px"><span style="color:#8a8a8a">2025-08-27</span> · Motioner om läxfri skola och modersmålsundervisning avslogs</a><a href="/beslut/2023-10-17_ko_215/" style="display:block;padding:6px 0;border-bottom:1px solid #f0ece8;color:#1a1a1a;font-size:13px"><span style="color:#8a8a8a">2023-10-17</span> · Pratbänkar för att motverka ensamhet avslagnas</a><a href="/beslut/2023-10-17_ko_217/" style="display:block;padding:6px 0;border-bottom:1px solid #f0ece8;color:#1a1a1a;font-size:13px"><span style="color:#8a8a8a">2023-10-17</span> · Motion om kommundelning: Östernärke egen kommun avslås</a><a href="/beslut/2023-08-29_ko_180/" style="display:block;padding:6px 0;border-bottom:1px solid #f0ece8;color:#1a1a1a;font-size:13px"><span style="color:#8a8a8a">2023-08-29</span> · Ledamotsinitiativ om anmälningsplikt avslaget</a><a href="/beslut/2023-03-14_ko_57/" style="display:block;padding:6px 0;border-bottom:1px solid #f0ece8;color:#1a1a1a;font-size:13px"><span style="color:#8a8a8a">2023-03-14</span> · Motion om bilfri zon på Stortorget avslagen</a>
+</div>
+
+<!-- 8. Motions -->
+
+
+<!-- 9. Compare -->
+<div class="section">
+<h3>Jämför med annat parti</h3>
+<div style="display:flex;flex-wrap:wrap;gap:6px"><a href="/parti/m/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#52bdec;color:#fff;font-size:12px;font-weight:600">M</a> <a href="/parti/c/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#009933;color:#fff;font-size:12px;font-weight:600">C</a> <a href="/parti/l/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#006ab3;color:#fff;font-size:12px;font-weight:600">L</a> <a href="/parti/kd/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#231977;color:#fff;font-size:12px;font-weight:600">KD</a> <a href="/parti/v/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#da291c;color:#fff;font-size:12px;font-weight:600">V</a> <a href="/parti/sd/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#dddd00;color:#333;font-size:12px;font-weight:600">SD</a> <a href="/parti/örp/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#f47920;color:#fff;font-size:12px;font-weight:600">ÖrP</a> <a href="/parti/mp/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:#83cf39;color:#fff;font-size:12px;font-weight:600">MP</a> </div>
+</div>
 
 </div>
-<footer><p>Kommun Monitor — AI-sammanfattningar. Data baserad på publicerade protokoll från orebro.se.</p></footer></body></html>
+<footer><p>Beslutskollen — AI-sammanfattningar av kommunala beslut. Kan innehålla fel — kontrollera alltid originalprotokollet.</p></footer>
+</body></html>
