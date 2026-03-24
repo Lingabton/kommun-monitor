@@ -321,7 +321,7 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 </head>
 <body>
 
-<!-- Fix 4: Nav — removed dev links (API, RSS), kept user-facing ones -->
+<!-- Nav: citizen-focused, dev links in footer only -->
 <nav>
   <div class="inner">
     <a href="#" class="logo">📋 Beslutskollen</a>
@@ -334,59 +334,39 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   </div>
 </nav>
 
+<!-- 1. Hero with CTA -->
 <div class="hero">
   <div class="inner">
     <h1>Vad beslutade dina <em>politiker?</em></h1>
-    <p class="sub">Vi sammanfattar protokoll från Örebro kommun med AI, så du slipper läsa hundratals sidor.</p>
+    <p class="sub">Vi läser Örebro kommuns protokoll och sammanfattar varje beslut, så du slipper hundratals sidor PDF.</p>
     <div class="stats" id="hs"></div>
-  </div>
-</div>
-
-<div class="explainer">
-  <div class="card">
-    <div class="step">
-      <div class="icon">📄</div>
-      <div class="title">Protokoll publiceras</div>
-      <div class="desc">Kommunen lägger ut protokollet som PDF efter varje möte.</div>
-    </div>
-    <div class="step">
-      <div class="icon">🤖</div>
-      <div class="title">AI sammanfattar</div>
-      <div class="desc">Vi extraherar beslut, röstningar och citat automatiskt.</div>
-    </div>
-    <div class="step">
-      <div class="icon">✅</div>
-      <div class="title">Du läser det viktiga</div>
-      <div class="desc">Varje beslut sammanfattat med kontext, partier och konsekvenser.</div>
+    <div style="margin-top:16px">
+      <a href="#beslut" style="display:inline-block;padding:10px 22px;background:#fff;color:var(--navy);border-radius:8px;font-size:14px;font-weight:600">Se senaste besluten ↓</a>
     </div>
   </div>
 </div>
 
-<!-- Why section -->
-<div style="max-width:960px;margin:20px auto 0;padding:0 24px">
-  <div style="background:var(--card);border-radius:10px;padding:16px 20px;box-shadow:0 1px 6px rgba(0,0,0,.03);font-size:13px;color:var(--text-mid);line-height:1.7">
-    <strong style="color:var(--text)">Varför Beslutskollen?</strong>
-    Örebro kommun publicerar sina protokoll som PDF:er — ofta 20-40 sidor per möte. De flesta invånare har varken tid eller ork att läsa dem.
-    Vi gör det åt dig: varje beslut sammanfattas med AI, röstningsdata visas per parti, och du kan söka bland alla beslut sedan <span id="since-year">2023</span>.
-    <span id="pages-saved" style="font-weight:600;color:var(--navy)"></span>
-  </div>
-</div>
-
-<!-- Featured decision with human explanation -->
+<!-- 2. Featured: real decision as concrete proof of value -->
 <div class="featured" id="featured-wrap"></div>
 
-<!-- Latest meeting -->
+<!-- 3. Latest meeting -->
 <div class="latest-meeting" id="latest-meeting-wrap"></div>
 
-<!-- AI disclaimer -->
-<div class="ai-notice">
-  <div class="inner">
-    <span>⚠️</span>
-    <span>Sammanfattningarna görs av AI och kan innehålla fel. Kontrollera alltid mot <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a> innan du citerar eller delar.</span>
-  </div>
+<!-- 4. Teasers for Partier & Insikter -->
+<div style="max-width:960px;margin:20px auto 0;padding:0 24px;display:grid;grid-template-columns:1fr 1fr;gap:12px">
+  <a href="#partier" style="background:var(--card);border-radius:10px;padding:16px 20px;box-shadow:0 1px 4px rgba(0,0,0,.03);text-decoration:none;color:var(--text)">
+    <div style="font-size:20px;margin-bottom:4px">⚖️</div>
+    <div style="font-size:14px;font-weight:700;margin-bottom:4px">Hur röstar partierna?</div>
+    <div style="font-size:12px;color:var(--text-light);line-height:1.5">Vilka frågor driver de? Hur ofta reserverar de sig? Vilka röstar de oftast med?</div>
+  </a>
+  <a href="insikter/" style="background:var(--card);border-radius:10px;padding:16px 20px;box-shadow:0 1px 4px rgba(0,0,0,.03);text-decoration:none;color:var(--text)">
+    <div style="font-size:20px;margin-bottom:4px">🔍</div>
+    <div style="font-size:14px;font-weight:700;margin-bottom:4px">Politiska insikter</div>
+    <div style="font-size:12px;color:var(--text-light);line-height:1.5">Konfliktnivå, ovanliga allianser och mönster i besluten — automatiskt analyserat.</div>
+  </a>
 </div>
 
-<!-- Fix 1: Decisions BEFORE parties -->
+<!-- 5. All decisions -->
 <section id="beslut">
   <h2 class="st">Alla beslut</h2>
   <p class="ss">Klicka på ett beslut för att se detaljer, röstning och citat ur protokollet.</p>
@@ -397,18 +377,53 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   <button class="load-more" id="load-more-btn" style="display:none" onclick="showMore()">Visa fler beslut</button>
 </section>
 
-<!-- Parties -->
+<!-- 6. Parties -->
 <section id="partier">
   <h2 class="st">Hur röstar partierna?</h2>
   <div class="ss" id="psb"></div>
   <div class="pg" id="pgr"></div>
 </section>
 
-<!-- Attendance -->
+<!-- 7. Attendance -->
 <section id="narvaro">
   <h2 class="st">Närvaro på möten</h2>
   <p class="ss">Ledamöter som oftast nämns som frånvarande i protokollen. Orsak framgår inte — kan vara sjukdom, tjänstledighet eller annat.</p>
   <div id="att-list"></div>
+</section>
+
+<!-- 8. Trust section -->
+<section id="om">
+  <h2 class="st">Varför lita på Beslutskollen?</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:12px">
+    <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
+      <div style="font-size:14px;font-weight:700;margin-bottom:4px">📄 Offentliga källor</div>
+      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">All data kommer från protokoll publicerade av Örebro kommun. Offentliga handlingar enligt tryckfrihetsförordningen.</div>
+    </div>
+    <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
+      <div style="font-size:14px;font-weight:700;margin-bottom:4px">🔗 Länk till original</div>
+      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Varje beslut länkar till originalprotokollet i PDF. Du kan alltid kontrollera själv.</div>
+    </div>
+    <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
+      <div style="font-size:14px;font-weight:700;margin-bottom:4px">⚠️ AI kan ha fel</div>
+      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Sammanfattningarna genereras automatiskt och kan innehålla felaktigheter. Citera aldrig utan att kontrollera originalet.</div>
+    </div>
+    <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
+      <div style="font-size:14px;font-weight:700;margin-bottom:4px">🏛️ Oberoende projekt</div>
+      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Beslutskollen är inte kopplat till, godkänt av, eller finansierat av Örebro kommun eller något politiskt parti.</div>
+    </div>
+  </div>
+  <div style="margin-top:16px">
+    <details style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
+      <summary style="font-size:14px;font-weight:700;cursor:pointer">Så fungerar det — steg för steg</summary>
+      <div style="font-size:13px;color:var(--text-mid);line-height:1.7;margin-top:10px">
+        <p><strong>1. Vi hämtar protokollen.</strong> Örebro kommun publicerar protokoll som PDF:er på orebro.se efter varje sammanträde i Kommunfullmäktige och Kommunstyrelsen. Vi laddar ner dem automatiskt.</p>
+        <p style="margin-top:8px"><strong>2. AI extraherar besluten.</strong> Varje protokoll (ofta 20-40 sidor) analyseras av Claude AI (Anthropic). AI:n identifierar varje beslut, extraherar röstningsresultat, citat och kategoriserar ärendet.</p>
+        <p style="margin-top:8px"><strong>3. Vi publicerar och du söker.</strong> Besluten publiceras här med sök, filter och partistatistik. Allt uppdateras dagligen. Data finns även som öppet JSON-API.</p>
+        <p style="margin-top:8px"><strong>Vad betyder "omstritt"?</strong> Ett beslut markeras som omstritt om minst ett parti röstade emot. Vi utgår enbart från röstningsdata i protokollet — inte från egna bedömningar.</p>
+      </div>
+    </details>
+  </div>
+  <p style="font-size:12px;color:var(--text-light);margin-top:12px">Hittar du ett fel? <a href="mailto:kontakt@beslutskollen.se" style="text-decoration:underline">Kontakta oss</a> så rättar vi.</p>
 </section>
 
 <footer>
@@ -416,17 +431,15 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
     <a href="#beslut">Beslut</a>
     <a href="#partier">Partier</a>
     <a href="insikter/">Insikter</a>
-    <a href="api/v1/docs/">API</a>
-    <a href="feed.xml">RSS</a>
-    <a href="for-llms/">Data</a>
   </div>
-  <!-- Fix 8: More prominent disclaimer -->
+  <div style="font-size:11px;color:var(--text-light);margin-bottom:8px">
+    Utvecklare? <a href="api/v1/docs/" style="text-decoration:underline;color:var(--text-light)">API</a> · <a href="feed.xml" style="text-decoration:underline;color:var(--text-light)">RSS</a> · <a href="for-llms/" style="text-decoration:underline;color:var(--text-light)">Data</a>
+  </div>
   <div class="cp">
     Beslutskollen sammanfattar offentliga protokoll med AI och kan innehålla fel.
     Kontrollera alltid <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a>.
     Inte kopplat till Örebro kommun.
   </div>
-  <!-- Fix 7: Visible update date -->
   <div class="updated" id="fs"></div>
 </footer>
 
@@ -550,9 +563,8 @@ async function init() {
   A.sort((a, b) => b.mDate.localeCompare(a.mDate));
 
   renderStats();
-  renderWhy();
-  renderLatestMeeting();
   renderFeatured();
+  renderLatestMeeting();
   renderYearFilter();
   renderFilters();
   renderDecisions();

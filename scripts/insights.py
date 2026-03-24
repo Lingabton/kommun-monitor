@@ -52,9 +52,9 @@ def get_all_decisions(data):
         for d in m.get("decisions", []):
             out.append({
                 **d,
-                "meeting_id": m["id"],
+                "meeting_id": m.get("id", f"{m['date']}_{m.get('organ','')}"),
                 "date": m["date"],
-                "meeting_type": m.get("type", m.get("meeting_type", "")),
+                "meeting_type": m.get("type", m.get("meeting_type", m.get("organ", ""))),
             })
     return out
 
@@ -120,20 +120,20 @@ def analyze_power(decisions):
 def _interpret_power(pct, unan_pct, opp_lost, vot, total):
     lines = []
     if pct >= 95:
-        lines.append(f"Majoriteten (S, M, C) vinner {pct}% av alla röstningar — i praktiken total kontroll.")
+        lines.append(f"Majoriteten (S, M, C) vann {pct}% av alla röstningar i det analyserade materialet.")
     elif pct >= 80:
-        lines.append(f"Majoriteten vinner {pct}% av röstningarna — stark dominans men oppositionen har visst inflytande.")
+        lines.append(f"Majoriteten vann {pct}% av röstningarna.")
 
     if unan_pct >= 40:
-        lines.append(f"{unan_pct}% av besluten är enhälliga — det mesta är opolitiskt.")
+        lines.append(f"{unan_pct}% av besluten var enhälliga.")
     elif unan_pct < 15:
-        lines.append(f"Bara {unan_pct}% är enhälliga — politiken i Örebro är ovanligt polariserad.")
+        lines.append(f"{unan_pct}% av besluten var enhälliga — majoriteten av beslut hade oenighet.")
 
     if opp_lost >= 3:
-        lines.append(f"Vid {opp_lost} av {total} tillfällen var oppositionen samlad emot — men förlorade ändå varje gång.")
+        lines.append(f"Vid {opp_lost} av {total} tillfällen röstade en samlad opposition emot majoriteten.")
 
     if vot >= 3:
-        lines.append(f"{vot} formella voteringer visar att konfliktnivån är hög.")
+        lines.append(f"{vot} beslut gick till formell votering.")
 
     return " ".join(lines)
 
@@ -459,7 +459,7 @@ def generate_insights_page(insights, base_url=""):
         opp_html += f'''<div style="display:flex;align-items:center;gap:10px;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.05)">
 <span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:5px;background:{PC.get(o['party'],'#666')};color:{'#1a1a00' if o['party']=='SD' else '#fff'};font-size:11px;font-weight:800">{o['party']}</span>
 <div style="flex:1;font-size:13px"><strong>{o['name']}</strong></div>
-<div style="font-size:12px;color:#94a3b8">{o['motions_filed']} motioner · {o['reservations']} reservationer</div></div>'''
+<div style="font-size:12px;color:#94a3b8">{o['motions_filed']} {'motion' if o['motions_filed']==1 else 'motioner'} · {o['reservations']} {'reservation' if o['reservations']==1 else 'reservationer'}</div></div>'''
 
     # Pre-build trend chart bars (avoid nested f-strings)
     trend_bars = ""
@@ -497,7 +497,7 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 <span>Insikter</span>
 </div>
 <h1 style="font-family:'Fraunces',serif;font-size:30px;font-weight:300">Politiska insikter</h1>
-<p style="font-size:14px;color:#64748b;margin-top:4px">Automatiskt genererad djupanalys av {power['total_voted_decisions']} beslut i Örebro kommun</p>
+<p style="font-size:14px;color:#64748b;margin-top:4px">Statistik baserad på {power['total_voted_decisions']} beslut med röstningsdata i Örebro kommun</p>
 </header>
 
 <div style="padding-top:20px">
@@ -510,15 +510,15 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 <div class="stat"><div class="v" style="color:#22c55e">{power['majority_win_pct']}%</div><div class="l">Majoritetens vinster</div></div>
 <div class="stat"><div class="v">{power['unanimous_pct']}%</div><div class="l">Enhälliga beslut</div></div>
 <div class="stat"><div class="v" style="color:#ef4444">{power['opposition_united_but_lost']}</div><div class="l">Samlad opposition förlorade</div></div>
-<div class="stat"><div class="v" style="color:#f59e0b">{power['formal_votes']}</div><div class="l">Formella voteringer</div></div>
+<div class="stat"><div class="v" style="color:#f59e0b">{power['formal_votes']}</div><div class="l">Formella omröstningar</div></div>
 </div>
 <div class="interp">{power['interpretation']}</div>
 </div>
 
 <!-- ATTENTION RANKING -->
 <div class="card">
-<h2>🔥 Mest uppmärksamhetsvärda besluten</h2>
-<div class="sub">Automatiskt rankat efter konfliktnivå, ovanliga allianser och ekonomisk påverkan</div>
+<h2>Mest omstridda besluten</h2>
+<div class="sub">Rankat efter antal partier emot, formella omröstningar och ekonomisk storlek. <a href="#metod" style="color:#60a5fa">Så räknar vi →</a></div>
 {top_html}
 </div>
 
