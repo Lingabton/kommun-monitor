@@ -1,0 +1,115 @@
+{
+  "total_present": 61,
+  "parties": {
+    "S": {
+      "present": 20,
+      "names": [
+        "Jan Zetterqvist",
+        "John Johansson",
+        "Kemal Hoso",
+        "Maja Gullberg",
+        "Marie Brorson",
+        "Unnur Tryggvadottir Nordell",
+        "Jonas Håård",
+        "Pell Uno Larsson",
+        "Kent Vallén",
+        "Eva Eriksson",
+        "Per Lilja",
+        "Carina Toro Hartman",
+        "Anna Hedström",
+        "Frederick Axewill",
+        "Fisun Yavas",
+        "Mats Sjöström",
+        "Inger Carlsson",
+        "Daniel Ekblad",
+        "Per-Erik Andersson",
+        "Isabelle Nerelius"
+      ]
+    },
+    "M": {
+      "present": 10,
+      "names": [
+        "Daniel Granqvist",
+        "Stefan Stark",
+        "Hossein Azeri",
+        "Maria Haglund",
+        "Christopher Hedbom Rydaeus",
+        "Johan Kumlin",
+        "Monica Thyresjö",
+        "Håkan Jacobsson",
+        "Sara Dicksen",
+        "Milian Olavssønn Snekkerbakken"
+      ]
+    },
+    "C": {
+      "present": 5,
+      "names": [
+        "Jimmy Nordengren",
+        "Gunhild Wallin",
+        "Abdulrahman Ibrahim Muhammed",
+        "Anna Ekström",
+        "Anders Olsson"
+      ]
+    },
+    "L": {
+      "present": 5,
+      "names": [
+        "Karolina Wallström",
+        "Patrik Jämtvall",
+        "Willhelm Sundman",
+        "Johanna Reimfelt",
+        "Marianne Thyr"
+      ]
+    },
+    "KD": {
+      "present": 4,
+      "names": [
+        "Anders Hagström",
+        "Susanne Lindholm Henningsson",
+        "Anna Andersson",
+        "Kasper Avenbrand"
+      ]
+    },
+    "V": {
+      "present": 6,
+      "names": [
+        "Jaber Fawaz",
+        "Martha Wicklund",
+        "Linn Josefsson",
+        "Peter Ekström",
+        "Christina Hermansson Plaçon",
+        "Andreas Mäkelä"
+      ]
+    },
+    "SD": {
+      "present": 7,
+      "names": [
+        "Helena Ståhl",
+        "Habib Brini",
+        "Carola Sunesson",
+        "Daniel Spiik",
+        "Bo Ammer",
+        "David Larsson",
+        "Michael Larsson"
+      ]
+    },
+    "ÖrP": {
+      "present": 5,
+      "names": [
+        "Markus Allard",
+        "Peter Springare",
+        "Anna Lundberg",
+        "Tuomo Jänkälä",
+        "Glenn Roswall"
+      ]
+    },
+    "MP": {
+      "present": 2,
+      "names": [
+        "Lea Strandberg",
+        "Maria Sääf"
+      ]
+    }
+  },
+  "absent_mentioned": []
+}
