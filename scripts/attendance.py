@@ -104,17 +104,40 @@ def extract_attendance(text, api_key):
 
 
 def find_pdf_for_meeting(folder_name):
-    """Find the PDF file for a given output folder."""
-    # Try exact match
+    """Find the PDF file for a given output folder, downloading if needed."""
+    PDF_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Try local files first
     for pdf in PDF_DIR.glob("*.pdf"):
         if folder_name.replace("_", " ") in pdf.stem or folder_name in pdf.stem:
             return pdf
-
-    # Try date-based match
     date = folder_name[:10]
     for pdf in PDF_DIR.glob("*.pdf"):
         if date in pdf.stem:
             return pdf
+
+    # Not found locally — try to download from known_protocols.json
+    known_file = ROOT / "data" / "known_protocols.json"
+    if known_file.exists():
+        import requests
+        known = json.loads(known_file.read_text("utf-8"))
+        for p in known["protocols"]:
+            if not p.get("pdf_url"):
+                continue
+            if p["date"] in folder_name:
+                safe = f"{p['date']}_{p['organ'].replace(' ', '_')}.pdf"
+                dest = PDF_DIR / safe
+                if dest.exists():
+                    return dest
+                try:
+                    logger.info(f"Downloading {safe}...")
+                    r = requests.get(p["pdf_url"], timeout=60,
+                                     headers={"User-Agent": "Beslutskollen/2.0"})
+                    r.raise_for_status()
+                    dest.write_bytes(r.content)
+                    return dest
+                except Exception as e:
+                    logger.error(f"Download failed: {e}")
 
     return None
 
