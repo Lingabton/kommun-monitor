@@ -1,0 +1,433 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-09-24",
+  "summary_headline": "Många motioner bordlades, kapitaltillskott till Kommuninvest",
+  "decisions": [
+    {
+      "headline": "Kommuninvest får 32,9 miljoner kronor under 2025-2028",
+      "summary": "Örebro kommun ska inbetala insatskapital till Kommuninvest enligt kapitaliseringsplan. Beloppen stiger från dagens 171,7 mnkr till 204,6 mnkr för att medlemskapet ska fortsätta.",
+      "detail": "Kommuninvest är en viktig finansiell samarbetspartner för Örebro kommun och dess bolag. Enligt Kommuninvests stadgar beslutas insatsnivån vart fjärde år. Vid årsstämman 2024 fastställdes kapitaliseringsplanen. Efter ändrade beräkningsmodeller från Standard & Poor's och uppdaterade befolkningstal sänktes insatsen till 1 200 kronor per invånare för 2025. Totalt behöver kommunen betala in cirka 32,9 mnkr under perioden 2025-2028. Insatskapitalet ökar från 171,7 mnkr till 204,6 mnkr. Kommunstyrelsen bemyndigas att vidta de åtgärder som krävs för inbetalningen. Beslutet fattades enhälligt.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 267",
+      "quote": "Kommuninvest är en viktigt finansiell samarbetspartner och långivare för kommunen och kommunens bolag, och fortsatt medlemskap förutsätter att kommunen bidrar till Kommuninvests kapitalisering genom inbetalning av insatskapital.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Kommuninvest",
+        "ekonomi",
+        "kapitaltillskott"
+      ],
+      "id": "2025-09-24_ko_267"
+    },
+    {
+      "headline": "Valdistriktsindelning fastställs oförändrad inför nästa val",
+      "summary": "Kommunfullmäktige beslutar att behålla nuvarande valdistriktsindelning utan ändringar. Valdistrikten reviderades senast 2024 med målsättning att gälla för flera kommande val.",
+      "detail": "Inför varje allmänt val ska kommunfullmäktige fatta beslut om valdistrikt senast i oktober året innan valåret enligt vallagen. Valnämnden måste därför fatta beslut om eventuella ändringar senast i maj året före valår. Örebro kommuns valdistriktsindelning genomgick en omfattande revidering inför EU-valet 2024, med målsättningen att denna skulle kunna gälla för flera kommande allmänna val utan större justeringar. Vid revideringen användes 1 300 röstberättigade som referens för maximalt antal väljare per valdistrikt, medan vallagen anger 2 000 som maximalt.",
+      "category": "politik",
+      "contested": false,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 268",
+      "quote": "Inför varje val till Riksdag, Kommun- och Regionfullmäktige ska Kommunfullmäktige enligt vallagen fatta beslut om valdistrikt senast i oktober månad innan ett valår besluta angående valdistrikt.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "val",
+        "valdistriktsindelning",
+        "procedur"
+      ],
+      "id": "2025-09-24_ko_268"
+    },
+    {
+      "headline": "Motion om fossil reklam avslås",
+      "summary": "Kommunfullmäktige avslår motion från Lea Strandberg (MP) om att definiera fossil reklam och utvidga riktlinjer för reklamtyper på allmän plats.",
+      "detail": "Lea Strandberg (MP) föreslog två åtgärder: att Örebro kommun definierar vad som är fossil reklam, och att kommunens riktlinjer för reklamtyper som inte ska synas på allmän plats vidgas för att omfatta fossil reklam. Kommunledningen bedömer att det är svårt att definiera vad som är fossil reklam utan att en sådan definition blir väldigt snävande. Att förbjuda all fossil reklam skulle kunna medföra svårdefinierad bedömningsgrund, då det mesta i samhället kan argumenteras ha någon form av klimatpåverkan. Kommun har redan ett restriktivt förhållningssätt till reklam och ansvarar för väldigt få reklamytor på allmän plats. Motionen röstades ned med 43 ja-röster för avslag och 16 nej-röster för bifall.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 269",
+      "quote": "Att förbjuda all fossil reklam skulle kunna medföra en svårdefinierad bedömningsgrund att arbeta efter, då det mesta i samhället kan argumenteras ha någon form av klimatpåverkan.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V"
+        ],
+        "against": [
+          "MP",
+          "SD",
+          "ÖrP",
+          "KD"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "miljö",
+        "reklam",
+        "fossil"
+      ],
+      "id": "2025-09-24_ko_269"
+    },
+    {
+      "headline": "Motion om förbjudna böcker avslås med näkna majoritet",
+      "summary": "Kommunfullmäktige avslår motion från Lea Strandberg (MP) om att synliggöra fjärrlån av förbjudna böcker på stadsbiblioteket.",
+      "detail": "Miljöpartiet föreslog att Örebro kommun skulle synliggöra för besökare på stadsbiblioteket att fjärrlån av förbjudna böcker är möjligt. Kommunledningen instämmer i att yttrandefrihet och fri tillgång till litteratur är grundläggande för demokrati, och att censur av böcker är oroande. Samtidigt framhålls det som en viktig demokratisk princip att politiken ska hålla armlängds avstånd till kulturen. Hur bibliotek väljer att informera om sina tjänster bör enligt kommunledningen hanteras av biblioteksprofessionen och dess sakkunniga, inte genom politiska beslut. Motionen avslogs.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro stadsbibliotek",
+      "paragraph_ref": "§ 270",
+      "quote": "Hur bibliotek väljer att informera om sina tjänster, inklusive fjärrlån, bör därför hanteras av professionen och bibliotekens egna sakkunniga, inte av politiska beslut.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "bibliotek",
+        "böcker",
+        "yttrandefrihet",
+        "kultur"
+      ],
+      "id": "2025-09-24_ko_270"
+    },
+    {
+      "headline": "Närkeslätt-motion avslås efter omröstning",
+      "summary": "Kommunfullmäktige avslår Sverigedemokraternas motion om nivåfri asfalt i trafiksepareringsåtgärder. 43 röster för avslag, 16 emot.",
+      "detail": "Daniel Spiik (SD) föreslog att Örebro kommun vid anläggning av hastighetsdämpande och trafikseparerade åtgärder endast ska anlägga nivåfri asfalt med målade linjer och spärrfält, utom i särskilda undantagsfall. Vidare föreslogs att kommunen successivt ska ersätta kantsten, stolpar och vegetation med nivåfri asfalt. Teknik- och servicenämnden bedömde att motionen bör avslås. Kommunledningen framhåller att kantsten är viktigt för att skapa en trygg trafikmiljö när olika trafikslag ska separeras med nivåskillnad. Målningar är inte heller synliga året om. Motionen röstades ned med 43 ja-röster för avslag mot 16 nej-röster för bifall, med 5 som abstinerade.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro stad",
+      "paragraph_ref": "§ 271",
+      "quote": "Det är viktigt med kantsten för att skapa en trygg trafikmiljö där kommunen vill separera olika trafikslag med nivåskillnad. En målning är inte heller synlig året om.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP",
+          "KD"
+        ],
+        "abstained": [
+          "L"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "infrastruktur",
+        "trafikplanering",
+        "vägar"
+      ],
+      "id": "2025-09-24_ko_271"
+    },
+    {
+      "headline": "Motion om väg för lantbruksmaskiner avslås",
+      "summary": "Kommunfullmäktige avslår motion från Daniel Spiik (SD) om att säkerställa 4,5 meter breda vägar för lantbruksmaskiner.",
+      "detail": "Daniel Spiik (SD) föreslog två åtgärder: att inga passager på kommunens vägar (utom villagator) görs smalare än 4,5 meter, och att passager som är smalare än detta åtgärdas successivt. Kommunledningen bedömde att bredare vägpassager tenderar att generera högre hastigheter vilket leder till en mer otrygg och osäker trafikmiljö. För framkomligheten för breda lantbruksmaskiner och långa transporter har vägnät valts med hänsyn till kortast möjlig väg och så lite som möjligt genom centrala Örebro. I balansen mellan att tillgodose transportbehovet och att upprätthålla säker, hållbar och trivsam miljö föreslogs motionen avslås.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 273",
+      "quote": "Bredare vägpassager tenderar att generera högre hastigheter vilket leder till en mer otrygg och osäker trafikmiljö.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "vägar",
+        "infrastruktur",
+        "lantbruk"
+      ],
+      "id": "2025-09-24_ko_273"
+    },
+    {
+      "headline": "Motion om snöröjning med arbetslösa avslås",
+      "summary": "Kommunfullmäktige avslår motion från Helena Ståhl och Habib Brini (SD) om att engagera långtidsarbetslösa vid snöröjning.",
+      "detail": "Sverigedemokraterna föreslog att Örebro kommun skulle utreda hur försörjningsstödstagare kunde mobiliseras för snöröjning som komplement till befintlig snöröjning. Gymnasie- och arbetsmarknadsförvaltningen bedömde att att likställa denna målgrupp som arbetskraftsreserv är missvisande då majoriteten står långt från arbetsmarknaden och behöver omfattande stöd. Snöröjning kräver utbildning, samordning och säkerhetshänsyn vilket kan bli dyrare än effektivt. Förvaltningen bedömde det som mer verkningsfullt att ta fram stadigvarande praktikplatser för aktivering.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 274",
+      "quote": "Att likställa den aktuella målgruppen av försörjningsstödstagare som en arbetskraftsreserv upplever förvaltningen som missvisade då denna målgrupp i majoritet utgörs av personer som står långt i från arbetsmarknaden.",
+      "quote_page": "s. 26",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "sysselsättning",
+        "socialt",
+        "arbetsmarknad"
+      ],
+      "id": "2025-09-24_ko_274"
+    },
+    {
+      "headline": "Motion om försörjningsstöd och heltidskrav avslås",
+      "summary": "Kommunfullmäktige avslår motion från Sverigedemokraterna om att kravställa heltidssysselsättning för försörjningsstöd.",
+      "detail": "Helena Ståhl m.fl. (SD) föreslog att krav på heltidssysselsättning införs för att uppbära försörjningsstöd, inom särskilda satsningar på trygghet, civil beredskap och renhållning. Gymnasie- och arbetsmarknadsförvaltningen bedömde att en sådan kravställan inte är möjlig då försörjningstagare ofta har ohälsa och sociala hinder. Förvaltningen framhöll att det bedrivs parallellt arbete tillsammans med region och andra samhällsfunktioner. Alltför snäv kravställan kan få negativa konsekvenser för samhället. Motionen röstades ned med 52 ja-röster för avslag mot 7 nej-röster för bifall, med 5 som abstinerade.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 275",
+      "quote": "Det kan medföra konsekvenser för samhället om kravställan blir för snäv genom att utgå från att samtliga försörjningstagare ska kunna genomföra en heltidsaktivitet.",
+      "quote_page": "s. 28",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "försörjningsstöd",
+        "sysselsättning",
+        "socialt"
+      ],
+      "id": "2025-09-24_ko_275"
+    },
+    {
+      "headline": "Rapport: Ej verkställda beslut enligt LSS och SoL Q1 2025",
+      "summary": "Socialnämnden rapporterar färre ej verkställda beslut än förra året (19 mot 35), medan Funktionsstödsnämnden rapporterar 55 beslut ej verkställda. Vänsterpartiet reserverar sig för önskan om handlingsplan.",
+      "detail": "Socialnämnden rapporterar 62 totala beslut Q1 2025 (vs 47 Q4 2024) med 19 fortsatt ej verkställda inom tre månader (vs 35 Q4 2024). Funktionsstödsnämnden rapporterar 89 beslut (vs 117 Q4 2024) med 55 fortsatt ej verkställda (vs 64 Q4 2024). Vård- och omsorgsnämnden rapporterar 52 beslut med 15 fortsatt ej verkställda. Vänsterpartiet framhöll att resursbrister fortsätter särskilt för öppenvård för barn och unga, stödboendeplatser och bostad med särskild service, vilka är lagstadgade kommunala skyldigheter. Vänsterpartiet yrkade bifall till rapporten med tillägg om att Kommunstyrelseförvaltningen får uppdrag att ta fram förslag på hur gynnande beslut kan verkställas inom rimlig tid.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 265",
+      "quote": "För det första kvartalet 2025 ökade Socialnämndens totala antal rapporterade beslut till 62 stycken... Vid kvartalets slut var 19 beslut fortsatt ej verkställda inom tre månader.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "socialtjänst",
+        "LSS",
+        "SoL",
+        "resursbrister",
+        "verkställning"
+      ],
+      "id": "2025-09-24_ko_265"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Redovisning och modell för integrationssatsningar",
+      "party": "SD",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Beredskapsplan för kulturarvet",
+      "party": "SD",
+      "status": "Bordlagd (besvarad)"
+    },
+    {
+      "title": "Kravställande föräldrautbildning",
+      "party": "SD",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Transporter av farligt gods genom Örebro",
+      "party": "SD",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Motorgård för ungdomar i centrala Örebro",
+      "party": "SD",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Årlig återkommande kulturarvsvecka",
+      "party": "SD",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Byggnadsvård-pris för byggnader",
+      "party": "SD",
+      "status": "Bordlagd (tillgodosedd)"
+    },
+    {
+      "title": "Medborgarinflytande på arkitekturgestaltning",
+      "party": "SD",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Kravställande strategi mot hedersförtryck",
+      "party": "SD",
+      "status": "Bordlagd (besvarad)"
+    },
+    {
+      "title": "Undervisning om kulturarv och lokalhistoria",
+      "party": "SD",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Cirkulationsbibliotek med klassuppsättningar",
+      "party": "L",
+      "status": "Bordlagd (avslås)"
+    },
+    {
+      "title": "Offentliga toaletter i Örebro",
+      "party": "L",
+      "status": "Bordlagd (besvarad)"
+    },
+    {
+      "title": "Fossil reklam på allmän plats",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Synliggöra fjärrlån av förbjudna böcker",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Publicera trädinventering",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Flaggan i topp",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Behålla övertaliga lärare",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Tre-timmarsbiljett på bussen",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Förbättra och förenkla för idrotten",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Krisen väntar inte på kommunen",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Säkerställ att föreningsbidragen gynnar örebroarna",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Ställ krav på invandrare",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Krafttag för säkerhet och trygghet i skolan",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Svensk husmanskost standard i skola och äldreomsorg",
+      "party": "SD",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2025-09-24",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 9
+}
