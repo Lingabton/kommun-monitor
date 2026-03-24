@@ -1,0 +1,67 @@
+{
+  "total_present": 16,
+  "parties": {
+    "S": {
+      "present": 4,
+      "names": [
+        "Kemal Hoso",
+        "Jonas Håård",
+        "Maja Gullberg",
+        "Mats Sjöström"
+      ]
+    },
+    "M": {
+      "present": 3,
+      "names": [
+        "Anders Åhrlin",
+        "Christopher Hedbom Rydaeus",
+        "Johan Kumlin"
+      ]
+    },
+    "C": {
+      "present": 2,
+      "names": [
+        "Jimmy Nordengren",
+        "Anna Ekström"
+      ]
+    },
+    "L": {
+      "present": 2,
+      "names": [
+        "Karolina Wallström",
+        "Yngve Alkman"
+      ]
+    },
+    "KD": {
+      "present": 1,
+      "names": [
+        "Håkan Stålbert"
+      ]
+    },
+    "V": {
+      "present": 1,
+      "names": [
+        "Cristian Rehn Janowicz"
+      ]
+    },
+    "SD": {
+      "present": 1,
+      "names": [
+        "David Larsson"
+      ]
+    },
+    "ÖrP": {
+      "present": 1,
+      "names": [
+        "Markus Allard"
+      ]
+    },
+    "MP": {
+      "present": 1,
+      "names": [
+        "Lea Strandberg"
+      ]
+    }
+  },
+  "absent_mentioned": []
+}
