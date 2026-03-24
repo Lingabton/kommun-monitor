@@ -1,0 +1,356 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2023-06-12 och 2023-06-13",
+  "summary_headline": "Budget 2024 antagen, Epiroc-mark godkänd, exploateringsriktlinjer",
+  "decisions": [
+    {
+      "headline": "Budget 2024 antagen med 21,35 procent skattesats",
+      "summary": "Kommunfullmäktige antog budget för 2024 enligt förslag från S, M och C. Skattesatsen fastställdes till 21,35 per skattekrona, samma som 2023.",
+      "detail": "Budgetbeslutet omfattade flera punkter: övergripande strategier och budget 2024 med plan för 2025–2027 antogs enligt förslaget 'Gemensamt ansvar för framtidens Örebro'. Skattesatsen för allmän kommunalskatt år 2024 fastställdes till 21,35 per skattekrona.\n\nFinansiella mål och verksamhetsmål för god ekonomisk hushållning för 2024 fastställdes enligt förslaget i budgethandlingen. Driftbudgetramar för 2024 med plan för 2025–2027 fastställdes enligt förslaget. Investeringsprogrammet för 2024 med plan för 2025–2027 fastställdes.\n\nNämnderna fick i uppdrag att arbeta med effektiviseringar motsvarande 51 mnkr för 2024. Kommunstyrelsen fick i uppdrag att ta fram ett riktat effektiviseringsuppdrag om 50 mnkr för 2024 samt för effektiviseringar för år 2025 och 2026.\n\nBudgetdebatten var omstridd med alternativa förslag från V, SD, L, ÖrP, KD och MP. Efter propositionsordning där förslagen ställdes mot varandra avslogs alla motförslag och S/M/C-förslaget antogs.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 227",
+      "quote": "Övergripande strategier och budget 2024 med plan för 2025–2027 fastställs enligt förslaget 'Gemensamt ansvar för framtidens Örebro'.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget 2024",
+        "skattesats",
+        "ekonomi"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_227"
+    },
+    {
+      "headline": "Markanvisning till Epiroc godkänd – 75 milj kronor",
+      "summary": "Kommunfullmäktige godkände markanvisning för test- och kompetenscenter mellan Munkatorp och E18. Området är cirka 30 hektar och värderas till cirka 75 miljoner kronor.",
+      "detail": "Förvaltningen har sedan februari 2021 arbetat med lokaliseringsutredning för etablering av ett test- och kompetenscenter i Örebro. Flera möjliga platser utreddes och kommunen föreslår markanvisning på del av fastigheten Kränglan 3:1, öster om Munkatorp längs E18/20, med Epiroc Rock Drills AB avseende ett markområde om cirka 30 hektar.\n\nMarkanvisningen är en del av ett framtida exploateringsobjekt som väntas ge ett positivt ekonomiskt resultat. På grund av den beräknade storleken på framtida köpeskilling (75 000 000 kronor) skulle ärendet vidare till Kommunfullmäktige för beslut.\n\nMarkplanerings- och exploateringsnämnden behandlade ärendet den 25 maj 2023 och Kommunstyrelsen den 5 juni 2023. Kommunfullmäktige godkände markanvisningen enhälligt.",
+      "category": "infrastruktur",
+      "contested": false,
+      "location": "Kränglan 3:1, Munkatorp",
+      "paragraph_ref": "§ 219",
+      "quote": "Föreliggande markanvisning (reservationsavtal) mellan Örebro kommun och Epiroc Rock Drills AB godkänns.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Epiroc",
+        "markanvisning",
+        "E18",
+        "Munkatorp",
+        "investeringar"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_219"
+    },
+    {
+      "headline": "Riktlinjer för exploatering antagna trots motsättningar",
+      "summary": "Nya riktlinjer för exploatering antogs med nya zonpriser för mark. SD och ÖrP ville ha högre andel anbudsförfarande och takbelopp på tomträttsavgälder.",
+      "detail": "Styrdokumentet 'Riktlinjer för exploatering inkluderat riktlinjer för markanvisning och riktlinjer för exploateringsavtal' är en sammanfogning av tidigare styrdokument inom verksamheten samt nya avsnitt.\n\nRiktlinjerna innehåller uppdaterade zonpriser för mark. Markplanerings- och exploateringsnämnden fick i uppdrag att besluta om förändringar av zonpriserna enligt punkten 3.1.1 i riktlinjer för exploatering samt ändringar i Zonpriskartan.\n\nDe uppdaterade zonpriserna och zonindelningen gäller för försäljningar och nya markanvisningar som påbörjas efter beslut. För redan påbörjade markanvisningar gäller nuvarande prissättning med indexering. Den reviderade zonindelningen gäller för samtliga tomträtter från 2024-01-01.\n\nSD och ÖrP ville sätta takbelopp på avgifterna och öka anbudsförfarandet för att gynna näringslivet. Dessa yrkanden avslogs.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 224",
+      "quote": "Riktlinjer för exploatering antas. Markplanerings- och exploateringsnämnden får i uppdrag att besluta om förändringar av zonpriserna.",
+      "quote_page": "s. 17-18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "exploatering",
+        "zonpriser",
+        "markanvisning",
+        "mark",
+        "regler"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_224"
+    },
+    {
+      "headline": "ÖrebroBostäder AB resultatkrav sänkt till 10 mnkr",
+      "summary": "Kommunfullmäktige godkände delårsrapport prognos 1 och sänkte resultatkravet för ÖrebroBostäder AB från normalt till 10 mnkr för 2023 utan utdelning.",
+      "detail": "Kommunfullmäktige godkände delårsrapport med prognos 1 för 2023. Resultatet efter årets första fyra månader visade ett utfall på 22 mnkr. Årets prognos på helår visade ett resultat på 215 mnkr jämfört med budgeterat 284 mnkr, en budgetavvikelse på -69 mnkr.\n\nPrognosen för kommunens investeringar uppgick till 1 201 mnkr vilket var 166 mnkr lägre än budget. Två av fyra finansiella mål beräknades uppnås under året.\n\nSammtliga nämnder som prognostiserade negativ budgetavvikelse för år 2023 fick i uppdrag att vidta åtgärder för att säkra långsiktigt hållbar ekonomi. ÖrebroBostäder AB fick i uppdrag att säkerställa plan för långsiktigt hållbar ekonomi. Resultatkravet sänktes till 10 mnkr för 2023 och utdelning skulle inte lämnas till Örebro Rådhus AB 2023.\n\nV, SD och ÖrP reserverade sig mot delar av beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 221",
+      "quote": "ÖrebroBostäder AB ska säkerställa en plan för hur bolaget kan skapa en långsiktigt hållbar ekonomi med stabila resultat. Resultatkravet för ÖrebroBostäder AB sänks till 10 mnkr för 2023.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "ÖrebroBostäder",
+        "ekonomi",
+        "resultat"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_221"
+    },
+    {
+      "headline": "Investeringsprogram 2023 reviderat till 1 319 mnkr",
+      "summary": "Reviderat investeringsprogram för 2023 beslutades med totala investeringsutgifter på 1 319 mnkr. Flera partier reserverade sig mot beslutet.",
+      "detail": "Kommunfullmäktige beslutade om reviderat investeringsprogram för 2023. Efter revidering uppgick kommunens investeringsbudget till totala investeringsutgifter på 1 319 mnkr för år 2023, varav 744 mnkr avser skattefinansierade investeringar och 575 mnkr taxefinansierade investeringar.\n\nÅrets revideringar avser både utökning och minskning av investeringsbudget samt ombudgetering av redan beslutade medel mellan investeringsområden.\n\nMarkus Allard (ÖrP), Bo Ammer (SD), Anna Andersson (KD) och Karolina Wallström (L) yrkade avslag på förslaget till förmån för respektive partis eget budgetförslag för Örebro kommun 2023. Dessa avslogs.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 222",
+      "quote": "Det reviderade investeringsprogrammet beslutas i enlighet med förslaget, innebärande att kommunens totala investeringsutgifter 2023 uppgår till 1 319 mnkr.",
+      "quote_page": "s. 13-14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investering",
+        "budget 2023",
+        "ekonomi"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_222"
+    },
+    {
+      "headline": "Tilläggsanslag 113 miljoner för löner och kostnader",
+      "summary": "Kommunfullmäktige beviljade tilläggsanslag på 113 374 tkr för löneöversyn, indexkompensation och kostnadsökningar. Skatteintäkter höjdes med 80 mnkr.",
+      "detail": "Ärendet innefattade revidering av budget 2023 samt tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda kostnader för budgetåret 2023.\n\nKommunens budget för skatteintäkter och generella bidrag höjdes med 80 mnkr. Tilläggsanslag beviljade med totalt 113 374 tkr enligt förslag från kommunledningsförvaltningen. Åtgärderna omfattade kompensation för återstående delar av löneöversyn samt indexkompensation ekonomiskt bistånd.\n\nOmbudgeteringar berörde flytt av medel mellan nämnder med grund i ramfördelning till ny nämndstruktur för 2023 samt sista delen av Kommundirektörens effektiviseringskrav för 2023.\n\nFinansiering skedde ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar samt oförutsedda behov. ÖrP och SD reserverade sig mot delar av beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 223",
+      "quote": "Tilläggsanslag finansierade genom ökad budget för skatteintäkter och generella statsbidrag beviljas enligt Kommunledningsförvaltningens förslag.",
+      "quote_page": "s. 15-16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "tilläggsanslag",
+        "löner",
+        "budget",
+        "ekonomi"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_223"
+    },
+    {
+      "headline": "Nämndreglementen reviderade för 2023-2026",
+      "summary": "Reviderade nämndreglementen för mandatperioden 2023-2026 antogs och träder i kraft 1 juli 2023.",
+      "detail": "Reviderade nämndreglementen för mandatperioden 2023-2026 antogs. Framlagt förslag innebar flera förtydliganden och ändringar.\n\nÖvergripande ansvar för sociala hyreskontrakt togs bort från Kommunstyrelsens övergripande uppgifter. Förslaget innebar samtidigt ett förtydligande om att Socialnämnden enligt Socialtjänstlagen ansvarar för medverkan i samhällsplaneringen i syfte att bidra och samverka i utformning av bostäder. Kommunstyrelsen behållit övergripande och strategiskt ansvar för kommunens lokalförsörjning.\n\n'Externa fastighetsägare' strycktes och ersattes med enbart 'fastighetsägare'. Det förtydligades också i Kommunstyrelsens reglemente att styrelsen inte har ansvar för att teckna och säga upp avtal för elitarenorna i kommunen, då det är Kultur- och fritidsnämnden som har ansvaret.\n\nDe nya reglementena träder i kraft 1 juli 2023.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 220",
+      "quote": "Reviderat förslag till nämndreglementen för mandatperioden 2023-2026 antas. Reviderat förslag träder i kraft 1 juli 2023.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "nämndreglementen",
+        "organisation",
+        "regler"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_220"
+    },
+    {
+      "headline": "Biotopskyddsområde på Ramshyttan 1:17 inrättat",
+      "summary": "Förslag till biotopskyddsområde på fastigheten Ramshyttan 1:17 antogs. Området skyddas långsiktigt för att bevara skyddsvärd skog.",
+      "detail": "En privatperson tog initiativ till att köpa en skyddsvärd skog från Sveaskog som personen önskade skulle få långsiktigt skydd. Personen hade initialt velat skänka skogen till Örebro kommun, men fastighetsregleringsfrågor gjorde att lösningen inte gick att genomföra. Köpet gick igenom och skogsområdet reglerades till en fastighet ägd av bland annat privatpersonen.\n\nNaturvårdsenheten tog fram förslag till att inrätta ett biotopskyddsområde på fastigheten. Ersättning till fastighetsägarna för detta regleras genom överenskommelse mellan Markplanerings- och exploateringsnämnden och fastighetets ägare.\n\nMarkplanerings- och exploateringsnämnden behandlade ärendet den 27 april 2023 och godkände överenskommelsen. Kommunfullmäktige antog förslaget enhälligt.",
+      "category": "miljö",
+      "contested": false,
+      "location": "Ramshyttan 1:17",
+      "paragraph_ref": "§ 218",
+      "quote": "Förslag till beslut om biotopskyddsområde på fastigheten Ramshyttan 1:17 i Örebro kommun antas.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "biotopskydd",
+        "miljö",
+        "skog",
+        "naturvård"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_218"
+    },
+    {
+      "headline": "Visselblåsarfunktion med anonymitetsgaranti införs",
+      "summary": "Kommunfullmäktige beslutade att redovisad visselblåsarfunktion med anonymitetsgaranti ska nyttjas även av kommunens bolag.",
+      "detail": "Örebro kommun inrättade 2014 en visselblåsarfunktion. Syftet är att medarbetare och förtroendevalda utan att vända sig till media ska kunna anmäla allvarliga oegentligheter och känna sig trygga att anmälningarna hanteras korrekt.\n\nI februari 2020 kom PWC, på uppdrag av revisorerna, med rapport avseende visselblåsarfunktionen. Rapporten konstaterade att funktionen är relativt okänd, att oro finns för anonymiteten och att förtroende saknas då anmälningar utreds internt.\n\nKommunledningsförvaltningen fick i uppdrag att utreda externt alternativ och jämföra detta med intern rapporteringskanal. Utredningen visade att det finns skäl att garantera visselblåsarens anonymitet.\n\nKommundirektören fick i uppdrag att utforma en visselblåsarfunktion som garanterar anonymitet samt besluta om tillämpningsanvisningar, rutiner och informationsinsatser.\n\nKommunfullmäktige beslutade att funktionen även ska nyttjas av kommunens bolag.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 217",
+      "quote": "Redovisad Visselblåsarfunktion ska även nyttjas av kommunens bolag.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "visselblåsare",
+        "etik",
+        "anonymitet",
+        "organisationskulturell"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_217"
+    },
+    {
+      "headline": "Motion om Örebro läns museum remitterad till Kommunstyrelsen",
+      "summary": "Martha Wicklund (V) inkom med motion om att Örebro kommun åter ska bli del av stiftelsen Örebro läns museum. Motionen remitterades.",
+      "detail": "Martha Wicklund från Vänsterpartiet inkom med motion vid Kommunfullmäktiges sammanträde om att Örebro kommun åter ska bli en del av stiftelsen Örebro läns museum.\n\nMotionen remitterades till Kommunstyrelsen för behandling.",
+      "category": "kultur",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 230",
+      "quote": "Motionen remitteras till Kommunstyrelsen.",
+      "quote_page": "s. 27",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Remitterad"
+      },
+      "tags": [
+        "museum",
+        "motion",
+        "kultur"
+      ],
+      "id": "2023-06-12 och 2023-06-13_ko_230"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Örebro kommun åter del av Örebro läns museum",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Införa bilfria zoner kring skolor och förskolor",
+      "party": "MP",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Återöppna Öppen Ingång centrum mot hot och våld",
+      "party": "L",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Naturreservat i Sörbyskogen",
+      "party": "MP",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "ÖrebroBostäder AB som allmännyttig utan avkastningskrav",
+      "party": "V",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Busskort för alla grundskoleelever",
+      "party": "L",
+      "status": "Bordlagd"
+    }
+  ],
+  "skipped_items_count": 28,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2023-06-12",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 10
+}

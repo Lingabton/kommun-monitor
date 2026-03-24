@@ -1,0 +1,82 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2023-06-05",
+  "summary_headline": "Statligt huvudmannaskap personlig assistans och vattenförsörjning",
+  "decisions": [
+    {
+      "headline": "Svar på remiss: statligt huvudmannaskap för personlig assistans",
+      "summary": "Kommunstyrelsen antar yttrande om överföring av personlig assistans från kommunalt till statligt huvudmannaskap från 2026. KD lämnar särskilt yttrande om systemets förbättringar.",
+      "detail": "Socialdepartementet har remitterat slutbetänkandet SOU 2023:9 om att staten ska ta över huvudmannaskapet för personlig assistans från kommunerna.\n\nUtredningen föreslår att staten från 1 januari 2026 ska ha samlat ansvar för beslut och finansiering av personlig assistans. Kommunerna ska inte längre betala sjuklönekostnader för personliga assistenter eller medfinansiera assistansersättningen (första 20 timmar per vecka). De kommunala besluten ska löpande överföras till Försäkringskassan senast 31 december 2026.\n\nAnna Andersson (KD) betonar i sitt särskilda yttrande att det delade ansvaret mellan stat och kommun skapat osäkerhet och olika bedömningar. Hon menar att ett statligt huvudmannaskap säkrar rätten till assistans oavsett var i landet man bor.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 137",
+      "quote": "Med staten som ansvarig säkras rätten till assistans oavsett var i landet man bor. Kristdemokraterna Örebro välkomnar därför ett statligt huvudmannaskap för assistansen.",
+      "quote_page": "Yttrande, 2023-06-05",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "personlig assistans",
+        "statligt huvudmannaskap",
+        "försäkringskassan",
+        "kommunal ekonomi"
+      ],
+      "id": "2023-06-05_ko_137"
+    },
+    {
+      "headline": "Yttrande om regional vattenförsörjningsplan för Örebro län",
+      "summary": "Kommunstyrelsen antar yttrande över länsstyrelsens förslag till regional vattenförsörjningsplan och önskvärdhet av mer progressiva åtgärder.",
+      "detail": "Länsstyrelsen i Örebro län har utarbetat en regional vattenförsörjningsplan baserad på en kartläggning av hot och möjligheter för länets vattenförsörjning.\n\nMiljö- och stadsbyggnadsförvaltningen ställer sig uppmuntrande till planen men föreslår förbättringar. De noterar att planens åtgärder till stor del redan är inarbetade i kommunens rutiner enligt gällande lagstiftning. Förvaltningen efterfrågar mer progressiva, framåtsträvande och vägvisande åtgärder för att möta framtida utmaningar.\n\nDe nya åtgärder som påverkar Örebro kommun handlar bland annat om redovisning av fördröjningsåtgärder i planeringsprocessen, användning av tekniskt vatten och utökning av livsmedelstillsynen av dricksvatten. Remissvaret skickades till länsstyrelsen senast 9 juni 2023.",
+      "category": "miljo",
+      "contested": false,
+      "location": "Örebro län",
+      "paragraph_ref": "§ 138",
+      "quote": "För att vara en plan som syftar till att i framtiden klara av de utmaningar som finns för den regionala dricksvattenförsörjningen saknas åtgärder som är progressiva, framåtsträvande och vägvisande.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "vattenförsörjning",
+        "miljö",
+        "länsstyrelsen",
+        "dricksvatten"
+      ],
+      "id": "2023-06-05_ko_138"
+    }
+  ],
+  "motions_of_interest": [],
+  "skipped_items_count": 1,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2023-06-05",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-05_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 2
+}

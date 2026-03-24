@@ -1,0 +1,356 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2023-08-29",
+  "summary_headline": "Budget tilläggsanslag och tomtkö-avslag väcker debatt",
+  "decisions": [
+    {
+      "headline": "Tilläggsanslag 30 miljoner kronor för löner och indexering",
+      "summary": "Kommunstyrelsen beviljade 30,5 miljoner kronor i tilläggsanslag för att täcka löneöversyn, indexuppräckning och hyror. ÖrP reserverade sig mot beslutet.",
+      "detail": "Kommunledningsförvaltningen föreslögt totalt 30 456 tkr i tilläggsanslag för budgetåret 2023. Pengarna ska finansieras ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar och oförutsedda behov.\n\nTilläggsanslaget avser bland annat kompensation för återstående indexuppräkning, rättning av belopp från våren, hyra samt genomförd löneöversyn.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet i sin helhet. Vänsterpartiet (Martha Wicklund) deltog inte i beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 159",
+      "quote": "Tilläggsanslag beviljas med totalt 30 456 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar och oförutsedda behov.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "löner",
+        "indexering",
+        "finansiering"
+      ],
+      "id": "2023-08-29_ko_159"
+    },
+    {
+      "headline": "Avslag på förtur i tomtkö för familj med sjukt barn",
+      "summary": "Kommunstyrelsen avslog ansökan om förtur i tomtkön från familj vars barn har diabetes typ 1. ÖrP reserverade sig och ville återremittera ärendet.",
+      "detail": "En familj bosatt på landsbygden i Örebro kommun ansökte om förtur i tomtkön med hänvisning till att en son är diagnostiserad med diabetes typ 1. Familjen beskrev behovet av att flytta närmare skola och förskola för att underlätta sonens vardag. Sonen är även remitterad till Barn- och Ungdomspsykiatrin för NPF-utredning.\n\nAnsökan avsåg småhustomten Värberg 2:81 i Latorp, som inte ännu är anvisad till tomtkön eftersom det saknas infartsväg. Tomten beräknades kunna erbjudas under hösten 2023 eller våren 2024.\n\nMarkus Allard (ÖrP) yrkade på återremiss för komplettering, men Kommunstyrelsen beslöt att avgöra ärendet direkt. Miljö- och stadsbyggnadsförvaltningens förslag om avslag på ansökan antogs.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Latorp",
+      "paragraph_ref": "§ 165",
+      "quote": "Förfrågan om förtur i tomtkön avslås för den sökande.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "tomtkö",
+        "Latorp",
+        "diabetes",
+        "familj"
+      ],
+      "id": "2023-08-29_ko_165"
+    },
+    {
+      "headline": "Lokalbehovsanalys Kommunstyrelsen 2025-2035 antagen",
+      "summary": "Kommunstyrelsen antog lokalbehovsanalys för nästa tio år. NOD-projektet anses lösa kortvariga lokalbehov.",
+      "detail": "Lokalbehovsanalysen är underlag för den kommunövergripande lokalförsörjningsplanen. Analysen kartlägger befintliga och kommande behov av verksamhetslokaler baserat på befolkningsprognos och verksamheternas platsbehov.\n\nFörvaltningens lokalbehov är nära förknippad med implementeringen av det nya arbetssättet i NOD-projektet (Ny Organisation ochDigtialisering) samt distansarbete. I det korta perspektivet (cirka 2 år) bedöms NOD redan tillgodose lokalbehoven.\n\nKarolina Wallström (L) lämnade protokollsanteckning med anmärkning om att sparkrav och minskat tjänstemannabehov ska beaktas.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 164",
+      "quote": "Lokalbehovsanalysen grundas på analyser av befolkningsprognosen för tio år framåt i kombination med en analys av platsbehov och kapacitet för berörda verksamheter.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "lokaler",
+        "NOD-projekt",
+        "fastigheter",
+        "långsiktig planering"
+      ],
+      "id": "2023-08-29_ko_164"
+    },
+    {
+      "headline": "Riktlinjer bostadsförsörjning får uppdragsdirektiv",
+      "summary": "Kommunstyrelsen initierade arbetet med nya riktlinjer för kommunens bostadsförsörjning enligt lag.",
+      "detail": "Enligt lagen om kommunernas bostadsförsörjningsansvar ska varje kommun anta riktlinjer för bostadsförsörjningen under varje mandatperiod. Syftet är att skapa förutsättningar för att alla får leva i goda bostäder och för att främja ändamålsenliga åtgärder.\n\nMarkplanerings- och exploateringsnämnden föreslögt att uppdraget initieras enligt uppdragsdirektivet från 2023-04-28. Miljö- och stadsbyggnadsförvaltningen ansvarar för att ta fram förslaget.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 168",
+      "quote": "Uppdragets inriktning, berednings- och beslutssteg godkänns och uppdraget initieras i enlighet med uppdragsdirektivet.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "bostadsförsörjning",
+        "riktlinjer",
+        "lagkrav",
+        "exploatering"
+      ],
+      "id": "2023-08-29_ko_168"
+    },
+    {
+      "headline": "Motion om enprocentsregeln för konst avslogs",
+      "summary": "Kommunstyrelsen avslog motion från ÖrP om att slopa enprocentsregeln för offentlig konst. SD och ÖrP reserverade sig.",
+      "detail": "Markus Allard och Peter Springare (ÖrP) motionerade om att slopa enprocentsregeln för kommunkoncernen. Enprocentsregeln är en ekonomisk princip från 1930-talet som innebär att en procent av budgeten för ny-, om- och tillbyggnad avsätts för konstnärlig gestaltning. Örebro kommun tillämpat regeln sedan 1968.\n\nKommunledningsförvaltningen bedömde att enprocentsregeln är ett viktigt verktyg för att garantera medborgarna tillgång till konst och att nutida konst är viktig för framtida kulturarv. Kommunfullmäktige hade 23 november 2022 beslutat om ny Konstpolicy och gav Kulturnämnden uppdrag att föreslå revidering av hur medlen ska användas för ökad flexibilitet.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) yrkade bifall till motionen. Beslutet var omstritt med reservationer från båda partierna.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 170",
+      "quote": "Enprocentsregeln är ett viktigt verktyg för att kommunen ska kunna garantera att medborgarna har möjlighet att ta del av konst, samt att den nutida konsten är en viktig faktor för vårt framtida kulturarv.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "konst",
+        "enprocentsregeln",
+        "kultur",
+        "budget"
+      ],
+      "id": "2023-08-29_ko_170"
+    },
+    {
+      "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+      "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+      "detail": "Martha Wicklund och fyra andra ledamöter från Vänsterpartiet motionerade 2021 om pendlarparkering på flera platser: Lanna, Odensbacken, Björkhaga och Garphyttan samt Hovsta/Lillån och Almbro/Norra Bro/Brickebacken.\n\nMotionen efterfrågar även laddmöjligheter för elfordon och bättre information om befintliga pendleparkeringar.\n\nKommunledningsförvaltningen rapporterade att pilotprojekt redan påbörjats i Björkhaga, att områdena Hovsta/Lillån omprioriterats till Bettorp (som samlar trafikanter från större område), och att Brickebacken pekats ut för fördjupad utredning. Kommunen möjliggör laddplatser vid ny- och ombyggnation av mobilitetshubbarna och synliggör dessa på hemsidan.\n\nMartha Wicklund yrkade bifall till motionen men togs ned mot majoritet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Björkhaga, Bettorp, Brickebacken",
+      "paragraph_ref": "§ 171",
+      "quote": "Bedömningen är att ett pilotprojekt redan påbörjats i Björkhaga och en fördjupad utredning har gjorts för att peka ut prioriterade platser att fortsätta med.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "pendlarparkering",
+        "mobilitet",
+        "elfordon",
+        "infrastruktur",
+        "Björkhaga"
+      ],
+      "id": "2023-08-29_ko_171"
+    },
+    {
+      "headline": "Motion om Örebro läns museum remitterad för beredning",
+      "summary": "Motion från Vänsterpartiet om att kommun åter ska ingå i stiftelsen Örebro läns museum remitterades för beredning.",
+      "detail": "Martha Wicklund och flera andra ledamöter från Vänsterpartiet motionerade om att Örebro kommun åter ska bli medlem i stiftelsen Örebro läns museum.",
+      "category": "kultur",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 172",
+      "quote": "Motion från Martha Wicklund (V) m.fl. om att Örebro kommun åter ska bli en del av stiftelsen Örebro läns museum bereds av Kommunstyrelsen.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "museum",
+        "kultur",
+        "stiftelse",
+        "motion"
+      ],
+      "id": "2023-08-29_ko_172"
+    },
+    {
+      "headline": "Ej verkställda LSS- och SoL-beslut rapporterade",
+      "summary": "Kvartal 1 2023 rapporter om overkställda socialtjänst- och LSS-beslut presenterade. Vänsterpartiet ville ha åtgärdsförslag.",
+      "detail": "Socialnämnden, Funktionsstödsnämnden och Vård- och omsorgsnämnden rapporterade över beslut som ej verkställts enligt SoL (Socialtjänstlagen) och LSS (Lag om stöd och service för vissa funktionshindrade) under kvartal 1 2023.\n\nSyftet med rapporteringen är att kommunen ska ha kännedom och kunna planera resurser för att verkställa insatser inom skälig tid.\n\nMartha Wicklund (V) yrkade bifall med tillägget att Kommunledningsförvaltningen ska ta fram förslag om hur kommunen ska verkställa gynnande beslut inom rimlig tid. John Johansson (S) yrkade avslag på tilläggsyrkandet. Helena Ståhl (SD) och Markus Allard (ÖrP) stödde Vänsterpartiet. Tilläggsyrkandet avslogs.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 169",
+      "quote": "Syftet med rapporteringen är att kommunen ska ha kännedom om dessa ärenden samt kunna planera sina resurser för att kunna verkställa insatser inom skälig tid.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "socialtjänst",
+        "LSS",
+        "verkställning",
+        "vård",
+        "omsorg"
+      ],
+      "id": "2023-08-29_ko_169"
+    },
+    {
+      "headline": "Ledamotsinitiativ om anmälningsplikt avslaget",
+      "summary": "Martha Wicklund initiativ mot anmälningsplikt i kommunal verksamhet avslogs. S och M motsatte sig opinionsbildning.",
+      "detail": "Martha Wicklund (V) inkom med ledamotsinitiativ föreslående att Kommunstyrelsen skriver till regeringen mot införande av anmälningsplikt i kommunal verksamhet, särskilt gällande pedagogisk verksamhet, fritidsverksamhet, kulturell verksamhet för barn och unga, och socialtjänsten.\n\nKarolina Wallström (L) stödde initiativet. John Johansson (S) och Anders Åhrlin (M) yrkade avslag med motiveringen att Kommunstyrelsen inte bör användas för opinionsbildning.\n\nInitiativet avslogs. Martha Wicklund (V) och Karolina Wallström (L) reserverade sig.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 180",
+      "quote": "Att Kommunstyrelsen skriver till regeringen om att anmälningsplikt inte bör införas i kommunal verksamhet.",
+      "quote_page": "s. 17-18",
+      "voting": {
+        "for": [],
+        "against": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "anmälningsplikt",
+        "pedagogik",
+        "fritid",
+        "socialtjänst"
+      ],
+      "id": "2023-08-29_ko_180"
+    },
+    {
+      "headline": "Ledamotsinitiativ tomtkö behandlas av presidium",
+      "summary": "Initiativ om tomtkö remitterades till presidium istället för fullt behandling. ÖrP önskade helt debatt.",
+      "detail": "Karolina Wallström (L) och Susanne Lindholm (KD) inkom med ledamotsinitiativ föreslående att kommundirektören får uppdrag att återkomma med information om hur tomtkön i sin helhet ska fungera innan Mark- och exploateringsnämnden fattar nya beslut.\n\nMotiveringen var att tomtkön är en komplex situation med långkö, inbetalade avgifter och berör många örebroare.\n\nJohn Johansson (S) föreslögt att initiativet behandlas av presidium. Flera partier stödde detta (L, KD, SD, V). Markus Allard (ÖrP) yrkade bifall till själva initiativet men förlora. Presidium-behandling antogs.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 181",
+      "quote": "Det är en komplex situation med bland annat en lång kö, inbetalade avgifter och berör väldigt många örebroare.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "tomtkö",
+        "fastigheter",
+        "bostäder",
+        "medborgare"
+      ],
+      "id": "2023-08-29_ko_181"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Slopa enprocentsregeln för offentlig konst",
+      "party": "ÖrP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Pendlarparkering på fyra platser",
+      "party": "V",
+      "status": "Besvarad"
+    },
+    {
+      "title": "Örebro kommun medlem i stiftelsen Örebro läns museum",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Mot anmälningsplikt i kommunal verksamhet",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Tomtkön angelägenhet för Kommunstyrelsen",
+      "party": "L, KD",
+      "status": "Remitterad till presidium"
+    }
+  ],
+  "skipped_items_count": 6,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2023-08-29",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 10
+}
