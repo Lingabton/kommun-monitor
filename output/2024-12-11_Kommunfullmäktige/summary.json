@@ -1,0 +1,483 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2024-12-11",
+  "summary_headline": "Vattenskydd och tomträttsregler – många motioner bordlagda",
+  "decisions": [
+    {
+      "headline": "Vattenskyddsområde Gäddesta – ansökan till Länsstyrelsen",
+      "summary": "Kommunfullmäktige godkänner ansökan om inrättande av vattenskyddsområde för Gäddesta med skyddsföreskrifter för att säkerställa skyddet av grundvattenmagasinet för Bista och Jägarbacken.",
+      "detail": "Dricksvattenförsörjningen för Örebro tätort och flera kransorter baseras på råvatten från Svartån. Råvattnet behandlas i Skråmsta vattenverk och infiltreras sedan i tre vattentäktsområden.\n\nTeknik- och serviceförvaltningen föreslår utökning av skyddsområdet genom inrättande av vattenskyddsområde Gäddesta med tillhörande skyddsföreskrifter för att säkerställa grundvattenmagasinets skydd.\n\nBeslutet gick genom enhälligt med bifallsyrkanden från M, MP och SD. Två särskilda yttranden lämnades: Susanne Lindholm Henningsson (KD) och Helena Ståhl (SD) påpekade vikten av bättre dialog med berörda parter före beslutsfattandet.\n\nKD kritiserar också att kommunen inte hade omfattande dialog med berörda parter och framhöver vikten av att involvera medborgare i beslut som påverkar vardagen för enskilda och näringsverksamhet.",
+      "category": "miljö",
+      "contested": false,
+      "location": "Gäddesta, Svartån",
+      "paragraph_ref": "§ 419",
+      "quote": "Till Länsstyrelsen inlämna ansökan om inrättande av vattenskyddsområde för Gäddesta med skyddsföreskrifter enligt bifogat förslag och enligt bifogat tekniskt underlag och karta.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "M",
+          "S",
+          "MP",
+          "SD",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "vattenskydd",
+        "miljö",
+        "Gäddesta",
+        "Svartån",
+        "Skråmsta vattenverk"
+      ],
+      "id": "2024-12-11_ko_419"
+    },
+    {
+      "headline": "Vattenskyddsområde Eker – revidering av befintligt område",
+      "summary": "Kommunfullmäktige godkänner ansökan om revidering av befintligt vattenskyddsområde Eker med nya skyddsföreskrifter för att säkerställa grundvattenmagasinets skydd.",
+      "detail": "Vattenskyddsområde för Eker fastställdes av Länsstyrelsen 1997. Örebro kommun har genomfört en översyn av det befintliga vattenskyddsområdets utsträckning och skyddsföreskrifternas innehål.\n\nTeknik- och serviceförvaltningen föreslår ett reviderat vattenskyddsområde och nya skyddsföreskrifter baserat på riskanalys och åtgärdsförslag.\n\nBeslutet gick genom med bifallsyrkanden från M och MP. Helena Ståhl (SD) och Susanne Lindholm Henningsson (KD) lämnade särskilda yttranden om vikten av att kompensera berörda jordbruk och bättre kommunikation med berörda parter.",
+      "category": "miljö",
+      "contested": false,
+      "location": "Eker, Svartån",
+      "paragraph_ref": "§ 420",
+      "quote": "Till Länsstyrelsen inlämna ansökan om inrättande av vattenskyddsområde för Eker med skyddsföreskrifter enligt bifogat förslag och enligt bifogat tekniskt underlag och karta.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "M",
+          "S",
+          "MP",
+          "SD",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "vattenskydd",
+        "miljö",
+        "Eker",
+        "Svartån",
+        "jordbruk"
+      ],
+      "id": "2024-12-11_ko_420"
+    },
+    {
+      "headline": "Nya friköpspriser för tomträtter från 2026",
+      "summary": "Kommunfullmäktige beslutar att från 2026-01-01 basera friköpspriset för småhustomträtter på aktuellt marktaxeringsvärde istället för värden från 2009, med räknemodell på 70 procent.",
+      "detail": "Fastighetsenheten föreslår uppdatering av räknemodellen för friköpspriser på småhus (typkod 220). I dag används marktaxeringsvärde från 2009 som utgångspunkt.\n\nFörslaget är att från 2026-01-01 övergå till aktuellt marktaxeringsvärde och att sänka beräkningsvärdet från 73 procent till 70 procent. Marktaxeringsvärdet uppdateras vart tredje år (2024, 2027 och framåt).\n\nÖrebro Rådhus AB får i uppdrag att ingå tilläggsavtal för Region Örebro Innovation AB. Riktlinjer för exploatering uppdateras med den nya beräkningsmodellen.\n\nÖrP reserverade sig mot beslutet. Beslutet togs med bifallsyrkande från S.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 418",
+      "quote": "Från och med 2026-01-01 baseras friköpspriset för en småhustomträtt (typkod 220) på följande uträkning: (Aktuellt marktaxeringsvärde vid årets början) x 0,70 = friköpspris.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "tomträtter",
+        "friköpspriser",
+        "marktaxeringsvärde",
+        "exploatering"
+      ],
+      "id": "2024-12-11_ko_418"
+    },
+    {
+      "headline": "Tilläggsavtal Region Örebro Innovation AB godkänt",
+      "summary": "Kommunfullmäktige godkänner tilläggsavtal och ändringar i aktieägaravtal för Region Örebro Innovation AB för att kunna övergå från driftsbidrag till uppdragsavtal.",
+      "detail": "Region Örebro Innovation AB ägs av Region Örebro läns förvaltnings AB, Örebro Rådhus AB och Örebro Universitet Holding AB. Bolagets verksamhet finansieras genom årliga driftsbidrag.\n\nUniversitetet önskar ändra finansieringsmodellen eftersom det är förhindrat att utge bidrag till delägda bolag. Istället föreslås köp av tjänster enligt uppdragsavtal.\n\nKommunfullmäktige godkänner föreslagen bolagsordning och ägardirektiv för Region Örebro Innovation AB och Inkubera i Örebro AB. Örebro Rådhus AB får i uppdrag att ingå tilläggsavtal och Kommunstyrelsen får i uppdrag att ingå uppdragsavtal.\n\nÖrP reserverade sig mot beslutet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 417",
+      "quote": "Örebro Rådhus AB får i uppdrag att ingå tilläggsavtal till aktieägaravtal avseende ägandet i Region Örebro Innovation AB enligt förslag.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Region Örebro Innovation AB",
+        "aktieägaravtal",
+        "finansiering",
+        "uppdragsavtal"
+      ],
+      "id": "2024-12-11_ko_417"
+    },
+    {
+      "headline": "Motion om döva barns rättigheter avslaget",
+      "summary": "Kommunfullmäktige avslår motion från MP om implementering av deklarationen om döva barns rättigheter, då befintliga styrdokument täcker in området.",
+      "detail": "Lea Strandberg och Fredrik Persson (MP) motionerade om att implementera deklarationen om döva barns rättigheter i kommunens verksamheter.\n\nKommunledningen bedömer att det redan finns flera lagar och lokala styrdokument där döva barns rättigheter täcks in, och att kommunen arbetar för att främja teckenspråk och dövkultur för barn.\n\nMotionen avslogs. Röstningen resulterade i 45 ja (avslagsyrkande), 19 nej (bifallsyrkande), 1 frånvarande.\n\nMP, V, L, SD reserverade sig mot beslutet.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 422",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "ÖrP"
+        ],
+        "against": [
+          "V",
+          "L",
+          "SD",
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "döva barn",
+        "rättigheter",
+        "teckenspråk",
+        "implementering"
+      ],
+      "id": "2024-12-11_ko_422"
+    },
+    {
+      "headline": "Pilotprojekt skolfrukost – motioner tillgodosedda",
+      "summary": "Kommunfullmäktige anser två motioner om möjlighet för seniorer att äta i skolmatsalar tillgodosedda genom lanserat pilotprojekt.",
+      "detail": "Två motioner från KD och V föreslog att möjliggöra för seniorer att köpa och äta mat i skolmatsalar för att bekämpa ensamhet och erbjuda prisvärd mat.\n\nKommunledningen ämnar lansera pilotprojekt hösten 2024 på fyra skolor: Tullängsgymnasiet, Odenskolan, Vintrosaskolan och Västra Engelbrektsskolan. Projektet tar särskild hänsyn till landsbygdsfrågor.\n\nKommunledningen har inte frångått möjligheten att utvidga till fler skolor om resultaten blir positiva.\n\nKD, V och MP reserverade sig mot att motionerna endast ansågs tillgodosedda, och förespråkade istället fullt bifall.",
+      "category": "skola",
+      "contested": true,
+      "location": "Tullängsgymnasiet, Odenskolan, Vintrosaskolan, Västra Engelbrektsskolan",
+      "paragraph_ref": "§ 425,426",
+      "quote": "Pilotprojektet kommer att innebära att äldre ges möjlighet att köpa och äta mat på de utvalda skolorna som deltar i pilotprojektet.",
+      "quote_page": "s. 18-20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "äldreomsorg",
+        "skolmatsalar",
+        "pilotprojekt",
+        "ensamhet",
+        "landsbygd"
+      ],
+      "id": "2024-12-11_ko_425,426"
+    },
+    {
+      "headline": "Motion om kapell i Wadköping avslaget",
+      "summary": "Kommunfullmäktige avslår KD:s motion om att undersöka möjligheten att flytta kapell till Wadköping, då tidigare beslut fortsätter att gälla.",
+      "detail": "KD motionerade för att utreda möjligheter och kostnader för att flytta kapell till Wadköping för bröllop, högtidsdagar, konserter och event.\n\nFrågan har flera gånger lyfts under 20 år. 2000 gjordes en detaljplaneändring i syfte att få ett kapell i Wadköping, men det genomfördes aldrig. En förfrågan 2018 avslogs med motiveringen att byggnaden inte passar in i Wadköpings karaktär och att den fria ytan är viktig för events och aktiviteter.\n\nKommunledningen upprepar denna bedömning. Platsen värnas för verksamheten med lekladan och den öppna ytan är viktig för arrangemang som midsommar, marknader och pedagogisk verksamhet.\n\nKD och MP reserverade sig.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Wadköping",
+      "paragraph_ref": "§ 427",
+      "quote": "Bedömningen är att tidigare beslut och ställningstagande gäller, dvs att det inte är lämpligt att uppföra ett kapell på den aktuella platsen.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "ÖrP"
+        ],
+        "against": [
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "Wadköping",
+        "kapell",
+        "kulturverksamhet",
+        "event"
+      ],
+      "id": "2024-12-11_ko_427"
+    },
+    {
+      "headline": "Aktivitetspengen för funktionshindrade – motionen avslogs",
+      "summary": "Kommunfullmäktige avslår SD:s motion om att återinföra aktivitetspengen för individer med funktionsnedsättning.",
+      "detail": "SD motionerade för att återinföra aktivitetspengen för daglig verksamhet, som togs bort 2020 som del av ekonomi-i-balans arbete.\n\nAktivitetspengen var en budgeterad post i verksamheten som inte gick direkt till brukare utan gavs genom verksamheten. Verksamheterna genomför fortfarande trivselaktiviteter.\n\nSen 2018 gjordes en satsning från Programnämnd Social välfärd till Funktionsstödsnämnden för att organisera kultur- och fritidsaktiviteter som komplement till att aktivitetspengen togs bort.\n\nKommunledningen anser att återinförandet inte är en prioritet givet det ekonomiska läget. SD och ÖrP reserverade sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 428",
+      "quote": "Givet att satsningen från 2018, samt att trivselaktiviteter fortfarande genomförs är återinförandet av aktivitetspengen inte en prioritet givet det ekonomiska läget.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "funktionshinder",
+        "aktivitetspeng",
+        "daglig verksamhet",
+        "budget"
+      ],
+      "id": "2024-12-11_ko_428"
+    },
+    {
+      "headline": "Motion om delade turer äldreomsorg – avslaget",
+      "summary": "Kommunfullmäktige avslår V:s motion om att tillsätta parlamentarisk arbetsgrupp för att arbeta bort delade turer inom äldreomsorgen.",
+      "detail": "V motionerade för att tillsätta en parlamentarisk arbetsgrupp för att komma med förslag på hur delade turer inom äldreomsorgen ska avskaffas.\n\nKommunledningen påpekar oklarheter omkring mandatet för arbetsgruppen och konstaterar att kortsiktiga åtgärder för att avskaffa ofrivilliga delade turer skulle öka övertid, vikariebehov och kostnader.\n\nAktivt arbete pågår redan inom nämnderna på bemanning, schemaläggning och organisation för att minska vikariekostnader, öka grundbemanningen och få bort ofrivilliga delade turer och deltidstjänster.\n\nMajoriteten välkomnar diskussion om långsiktiga lösningar men föredrar fortsatt arbete i befintliga nämnder. V och ÖrP reserverade sig.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 429",
+      "quote": "Utifrån att ett aktivt arbete pågår ser vi hellre att ett konstruktivt arbete fortsätter i de aktuella nämnderna, och därför avslår vi motionen.",
+      "quote_page": "s. 25",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "V",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "äldreomsorg",
+        "arbetstider",
+        "delade turer",
+        "bemanning"
+      ],
+      "id": "2024-12-11_ko_429"
+    },
+    {
+      "headline": "Solceller – motioner delvis tillgodosedda och avslagna",
+      "summary": "Två motioner om solcellsanläggningar hanterades: en delvis tillgodosedd, en helt avslaget.",
+      "detail": "Motion från V (§430) om solcllar innehöll tre förslag: att Kumbro utveckling ska ta fram solcellsparker, att bolagen kartlägger och investerar i solceller, och att erbjuda privatpersoner möjlighet att abonnera.\n\nDe två första förslagen ansågs tillgodosedda då berörda bolag redan fått uppdrag/möjlighet att uppföra solcellsanläggningar. Det tredje förslaget (abonnemang) avslogs då kommunen arbetar på andra sätt för klimatsmart el.\n\nMotion från Sara Bronner/MP (§431) om Kumbro Utveckling AB:s hyra av ytor för solceller avslogs helt.\n\nV och MP reserverade sig mot båda besluten.",
+      "category": "miljö",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 430,431",
+      "quote": "Bedömningen är att de två första förslagen är tillgodosedda då de berörda bolagen har fått i uppdrag och/eller givits möjlighet att uppföra solcellsanläggningar och arbete pågår.",
+      "quote_page": "s. 27-28",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "V",
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Bifall/Avslag blandat"
+      },
+      "tags": [
+        "solceller",
+        "förnybar energi",
+        "Kumbro utveckling",
+        "klimat"
+      ],
+      "id": "2024-12-11_ko_430,431"
+    },
+    {
+      "headline": "Språktest vård- och omsorgspersonal – motionen avslaget",
+      "summary": "Kommunfullmäktige avslår SD:s motion om språktest vid nyanställningar inom vård och omsorg.",
+      "detail": "David Larsson och Helena Ståhl (SD) motionerade för att införa språktest för att säkerställa adekvat svenska hos vård- och omsorgspersonal.\n\nKommunledningen anser att kommunen istället arbetar för att stärka språkkunskaperna hos befintliga medarbetare och för att framtida medarbetare ska ha tillräcklig språkkompetens.\n\nFokus ligger på kompetensförsörjning genom att \"fånga in\" intresserade personer för att sedan kompetensutveckla genom utbildningsinsatser, inklusive språkförstärkning.\n\nRöstningen resulterade i 48 ja (avslagsyrkande), 11 nej (bifallsyrkande), 6 frånvarande. SD och ÖrP reserverade sig.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 432",
+      "quote": "Förslaget är att motionen ska avslås då kommunen istället valt att arbeta för att stärka språkkunskaperna hos befintliga medarbetare.",
+      "quote_page": "s. 30",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "vård och omsorg",
+        "språkkompetens",
+        "nyanställning",
+        "integration"
+      ],
+      "id": "2024-12-11_ko_432"
+    },
+    {
+      "headline": "Bordläggningar: elfte motioner skjutet på framtiden",
+      "summary": "Elfte motioner bordlades till kommande sammanträde, inklusive äldreomsorg, effektivisering, lönefrågor och kulturinstitutioner.",
+      "detail": "Följande motioner bordlades: Äldreomsorgsteam med fokus missbruk (§433), Effektivisering av kommunala processer (§434), Höjning av lägstalöner (§435), Mensskydd gymnasie/högstadiet (§436,437), Kapell i Wadköping redan behandlat, Kilsmo-verksamhet (§438), Mentorsmammor (§439), Hundrastgårdar (§440), Örebro läns museum (§441,442), Tak-över-huvudet-garanti (§443), Skogsbruk (§444), Våld mot kvinnor (§445), Bojkott israeliska varor (§446).\n\nOrdförande Jan Zetterqvist yrkat bordläggning av resterande ärenden. Votering genomfördes med resultat 46 ja (bordläggning), 11 nej, 8 frånvarande. Detta indikerar att majoriteten ville avsluta mötet medan opposition ville fortsätta.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 433-446",
+      "quote": "Ordförande Jan Zetterqvist (S) finner att det finns två förslag, det vill säga ordförandens eget yrkande om att ärendena bordläggs respektive Helena Ståhls (SD) yrkande om att sammanträdet ska fortsätta.",
+      "quote_page": "s. 32",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bordläggning"
+      },
+      "tags": [
+        "motioner",
+        "bordläggning",
+        "flexa motioner",
+        "senare behandling"
+      ],
+      "id": "2024-12-11_ko_433-446"
+    },
+    {
+      "headline": "Nämndreglementets revision – ansvar för sociala hyreskontrakt flyttat",
+      "summary": "Kommunfullmäktige godkänner revidering av nämndreglementen för 2023-2026 för att förtydliga ansvaret för sociala hyreskontrakt.",
+      "detail": "I samband med ny politisk organisation 2023 flyttades ansvar för sociala hyreskontrakt från Kommunstyrelsen till Socialnämnden för att lösa organisatoriska mellanrum och oklarheter.\n\nNu visar sig nya organisatoriska mellanrum ha uppstått. Förslaget är att ansvaret för att teckna avtal med fastighetsägare och tillhörande hyresadministration tas bort från Kommunstyrelsens övergripande uppgifter och läggs på Socialnämnden.\n\nSocialnämnden har redan enligt Socialtjänstlagen ansvar för att bidra till samhällsplaneringen och främja boendelösningar. Kommunstyrelsen behåller övergripande strategiskt ansvar för kommunens lokalförsörjning.\n\nReglementet träder i kraft 1 januari 2025. ÖrP reserverade sig.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 421",
+      "quote": "Reviderat förslag till nämndreglementen för mandatperioden 2023-2026 antas i enlighet med föreliggande förslag.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "nämndreglementen",
+        "sociala hyreskontrakt",
+        "organisering",
+        "ansvar"
+      ],
+      "id": "2024-12-11_ko_421"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Döva barns rättigheter – implementering av internationell deklaration",
+      "party": "MP",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Seniorer i skolmatsalar – två motioner",
+      "party": "KD,V",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Kapell i Wadköping",
+      "party": "KD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Aktivitetspengen för funktionshindrade",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Delade turer äldreomsorg – parlamentarisk arbetsgrupp",
+      "party": "V",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Solcellsanläggningar – två motioner",
+      "party": "V,MP",
+      "status": "Delvis tillgodosedd/Avslaget"
+    },
+    {
+      "title": "Språktest vård- och omsorgspersonal",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Elfte motioner bordlagda till kommande sammanträde",
+      "party": "KD,V,L,SD,MP",
+      "status": "Bereds vidare"
+    }
+  ],
+  "skipped_items_count": 3,
+  "notes_on_skipped": "Följande rena formaliteter hoppades över: Val av protokollsjusterare (§409), Enkla frågor från ledamöter (§410-416), Anmälan av handlingar (§424) samt Anmälan av interpellationer och motioner (§447-448).",
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2024-12-11",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 13
+}
