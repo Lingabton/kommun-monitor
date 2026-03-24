@@ -1,0 +1,385 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2023-10-17",
+  "summary_headline": "Budget, investeringar och Hjälmarsamarbetet beslutade",
+  "decisions": [
+    {
+      "headline": "Fastighet Kranbilen 1 säljs till NeH Svenska AB",
+      "summary": "Kommunstyrelsen godkänner reservationsavtal för försäljning av fastigheten Kranbilen 1 till Nasta Gård AB för cirka 12,3 miljoner kronor. Bolaget planerar att bygga kontor och lager för egen verksamhet.",
+      "detail": "NeH Svenska AB (Nasta Gård AB) har tilldelats en förstudie enligt Örebromodellen för fastigheten Kranbilen 1. Under förstudien har projektets utformning tagits fram och godkänts av kommunen.\n\nReservationsavtalet från 2021 har löpt ut och aktören vill förlänga det. Det nya reservationsavtalet löper till och med den 31 maj 2024 och omfattar cirka 22 298 kvadratmeter.\n\nKöpeskillingen uppgår till cirka 12,3 miljoner kronor, där planavgift och gatukostnad är inkluderade. Kommunen kommer att överlåta fastigheten under förutsättning att bygglov erhålls och byggnadsarbeten påbörjas under reservationstiden.\n\nMarkplanerings- och exploateringsnämndens ordförande får i uppdrag att godkänna och underteckna alla erforderliga handlingar för transaktionen.",
+      "category": "bygg",
+      "contested": false,
+      "location": "Kranbilen 1",
+      "paragraph_ref": "§ 202",
+      "quote": "Köpeskillingen uppgår till ca 12,3 miljoner kronor, i köpeskillingen ingår planavgift och gatukostnad.",
+      "quote_page": "s. 2",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "fastighetsköp",
+        "Kranbilen",
+        "investeringar"
+      ],
+      "id": "2023-10-17_ko_202"
+    },
+    {
+      "headline": "Omstridd Hjälmarsamarbetet-förening efter kritik från flera partier",
+      "summary": "Kommunstyrelsen beslutar att bilda föreningen Hjälmarsamarbetet tillsammans med andra kommuner och regioner, trots att fyra partier ville ha ärende återremitterat för att få svar på frågor om ansvarsfördelning.",
+      "detail": "Örebro kommun har sedan 2021 drivit projektet 'Hjälmarens framtida utveckling' tillsammans med andra kommuner, regioner och länsstyrelser. En gemensam utvecklingsstrategi har tagits fram som konstaterar att utvecklingen av Hjälmaren kräver en samordningsfunktion.\n\nEn ideell förening föreslås bildas med medlemmar från Arboga, Eskilstuna, Katrineholm, Vingåker, Region Örebro län, länsstyrelser i Västmanland, Södermanland och Örebro län, samt olika destinationsbolag.\n\nKommunstyrelsen tilldelas ett anslag motsvarande 2 kronor per invånare, totalt 316 000 kronor, för 2024. Kemal Hoso (S) utses till ledamot och Susanne Lindholm Henningsson (KD) till ersättare.\n\nSusanne Lindholm Henningsson (KD) yrka på återremiss för att få svar på frågor om vattenkvalitet, kompetensfördelning mellan liknande föreningar och möjligheten att slå samman organisationerna. Helena Ståhl (SD), Martha Wicklund (V), Markus Allard (ÖrP) och Karolina Wallström (L) stödde återremissyrkandet, men förlorade omröstningen.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Hjälmaren",
+      "paragraph_ref": "§ 203",
+      "quote": "Det är nödvändigt att utvecklingen av Hjälmaren sker samordnat, och att det för detta krävs en samordningsfunktion.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "KD",
+          "SD",
+          "V",
+          "OrP",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Hjälmaren",
+        "miljö",
+        "samarbete",
+        "vattenvård"
+      ],
+      "id": "2023-10-17_ko_203"
+    },
+    {
+      "headline": "700 000 kronor till Stadsmissionen Porten under två år",
+      "summary": "Kommunstyrelsen beslutar ge 700 000 kronor årligen 2023-2024 till Stadsmissionen för att förstärka verksamheten Porten, som möter människor i hemlöshet och utsatthet.",
+      "detail": "Örebro stadsmission har rapporterat om ökad efterfrågan på sitt arbete med Porten, en viktig mötesplats för människor i hemlöshet och annan utsatthet. Verksamheten har vuxit i spåren av pandemin och den ekonomiska krisen.\n\nKommunledningsförvaltningen föreslår ett tillfälligt anslag på 700 000 kronor för 2023 och 2024, finansierat från Kommunstyrelsens utrymme för oförutsedda behov.\n\nFlera partier ville ge mer pengar: Karolina Wallström (L) yrkade på totalt 1,4 miljoner 2024, Helena Ståhl (SD) på 1,7 miljoner årligen, och Kristdemokraterna hade ett eget förslag. Örebropartiet stödde Sverigedemokraternas högre siffra, men majoritet gick för administrationens förslag.",
+      "category": "budget",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 204",
+      "quote": "Stadsmissionen möter via Porten människor i hemlöshet och annan form av utsatthet.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "L",
+          "KD",
+          "SD",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "hemlöshet",
+        "socialt arbete",
+        "budget",
+        "Stadsmissionen"
+      ],
+      "id": "2023-10-17_ko_204"
+    },
+    {
+      "headline": "10,25 miljoner till akut park- och gatunderhåll hösten 2023",
+      "summary": "Kommunstyrelsen omfördelar 10,25 miljoner kronor från oförutsedda behov till Teknik- och servicenämnden för att genomföra akut underhåll inom park och gata.",
+      "detail": "Teknik- och serviceförvaltningen rapporterar om eftersatt underhåll inom verksamheten park och gata som behöver åtgärdas under hösten 2023. Efter många års effektiviseringar finns flera akuta åtgärder som behöver vidtas för att delar av anläggningen inte ska behöva tas ur bruk.\n\nInnerparker behöver driftunderhåll av möbler, bryggor, träbroar, byggnader och lekutrustning. Gångvägar kräver skötsel, naturvårdsåtgärder och trädvård. Gatusidan behöver underhåll av körbanor, gångbanor, asfaltreparationer efter grävjobb och brunnsbyten.\n\nMed tillfört kapital finns möjlighet att tidigarelägga åtgärder som annars skulle skjutas på 2024, vilket minskar risken för väsentligare skador senare. Markus Allard (ÖrP) yrkade på avslag men förlorade.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 205",
+      "quote": "Inom park är det bland annat driftunderhåll av parkmöbler, bryggor, mindre träbroar byggnader och lekutrustning.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "park",
+        "gata",
+        "underhåll",
+        "infrastruktur"
+      ],
+      "id": "2023-10-17_ko_205"
+    },
+    {
+      "headline": "Delårsrapport: kommun har bra ekonomi men mål uppfylls inte",
+      "summary": "Delårsrapport med prognos 2 för 2023 visar att Örebro kommuns helårsresultat beräknas bli 362 miljoner kronor, 78 miljoner högre än budgeterat, men flera verksamhetsmål uppfylls inte.",
+      "detail": "Delårsrapporten efter årets första åtta månader visar ett utfall på 509 miljoner kronor. Helårsprognosen för 2023 visar ett resultat på 362 miljoner kronor, vilket är 78 miljoner kronor högre än budgeterat.\n\nAv avvikelsen går -19 miljoner till verksamhetens resultat och 97 miljoner till finansverksamheten. Den löpande verksamheten i nämnderna prognostiserar dock en samlad negativ budgetavvikelse på 206 miljoner kronor.\n\nInvesteringsprognoser ligger på 1 078 miljoner kronor, 241 miljoner lägre än budget. Skattefinansierade investeringar beräknas till 636 miljoner (108 miljoner under budget) och taxefinansierade till 442 miljoner (133 miljoner under budget).\n\nAv sex verksamhetsmål uppfylls fem, men målet om alla elevers kunskapsmål i skolan beräknas inte uppfyllas. Av fyra finansiella mål uppfylls två. Årets resultat efter balanskravsjusteringar är positivt, vilket visar att kommunen uppfyller kravet på ekonomi i balans.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 206",
+      "quote": "Prognosen för de verksamhetsmässiga målen av betydelse för god ekonomisk hushållning är att fem av sex mål uppfylls.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "V",
+          "OrP"
+        ],
+        "abstained": [
+          "L",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "ekonomi",
+        "budget",
+        "investeringar",
+        "resultat"
+      ],
+      "id": "2023-10-17_ko_206"
+    },
+    {
+      "headline": "Investeringsprogram 2023 reviderat till 1,3 miljarder kronor",
+      "summary": "Det reviderade investeringsprogrammet för 2023 fastställs till totalt 1 304 miljoner kronor, med nya driftkostnadskonsekvenser på 95,1 miljoner kronor.",
+      "detail": "Kommunens investeringsprogram revideras två gånger per år, i juni och oktober. Efter revidering uppgår 2023 års totala investeringsbudget till 1 304 miljoner kronor.\n\nAv detta är 744 miljoner kronor skattefinansierade investeringar och 560 miljoner kronor taxefinansierade investeringar. Den kommunövergripande lokalförsörjningsplanen har reviderats, och beräknade driftkostnadskonsekvenser har ökat med 5,9 miljoner kronor jämfört med juni-revideringen.\n\nKommunstyrelsen beslutar även att realisationsvinster från försäljning av bostadsrätter och fastigheter inom Markplanerings- och exploateringsnämnden kan nyttjas för att öka investeringsbudgeten för markinköp. Kvarvarande medel från markåtkomstbidrag kan också användas för att förvärva mark för naturvårdsändamål.\n\nMartha Wicklund (V), Markus Allard (ÖrP) och Karolina Wallström (L) lade egna budgetförslag men förlorade mot majoritetens yrkande.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 207",
+      "quote": "Efter revidering uppgår kommunens totala investeringsbudget för 2023 till 1 304 mnkr.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "V",
+          "OrP",
+          "L"
+        ],
+        "abstained": [
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "budget",
+        "lokalförsörjning"
+      ],
+      "id": "2023-10-17_ko_207"
+    },
+    {
+      "headline": "Tilläggsanslag oktober 2023: 34,2 miljoner kronor",
+      "summary": "Kommunstyrelsen beviljar tilläggsanslag på totalt 34,2 miljoner kronor för kostnadsökningar och oförutsedda behov under 2023.",
+      "detail": "Ärendet innefattar tilläggsanslag och ombudgetering för budgetåret 2023, vilket bland annat kompenserar för tidigare beslutade tilläggsanslag från september.\n\nTotalt beviljas 34 192 000 kronor, finansierat ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar och oförutsedda behov.\n\nOmbudgetering sker mellan nämnder enligt förslaget. En särskild debatt fördes om nivån på förstärkningen till Porten (Stadsmissionen), där Kristdemokraterna och Sverigedemokraterna ville höjda posterna, men majoriteten godkände administrationens förslag.\n\nFlera partier, inklusive Liberalerna, reserverade sig mot delar av beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 208",
+      "quote": "Tilläggsanslag avser bland annat kompensation för av Kommunstyrelsen beslutade tilläggsanslag avseende beslut som skett i Kommunstyrelsen i september.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "KD",
+          "SD",
+          "L",
+          "OrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "tilläggsanslag",
+        "ombudgetering"
+      ],
+      "id": "2023-10-17_ko_208"
+    },
+    {
+      "headline": "Reviderad budget 2024 antagen: 21,35 procents kommunalskatt",
+      "summary": "Kommunstyrelsen fastställer reviderad övergripande strategi och budget för 2024 med plan för 2025-2027, med samma skattesats på 21,35 procent.",
+      "detail": "Den reviderade budgeten 'Gemensamt ansvar för framtidens Örebro' bygger på det ursprungliga budgetbeslut från juni 2023 och har reviderats för ändrade förutsättningar inför 2024.\n\nSkattesatsen för allmän kommunalskatt fastställs till 21,35 per skattekrona. Reviderade driftbudgetramar och investeringsprogram för 2024 med plan för 2025-2027 fastställs enligt förslaget.\n\nFem olika budgetalternativ presenterades: Socialdemokraternas majoritetbudget (S-M-C), Liberalernas, Kristdemokraternas, Sverigedemokraternas och Vänsterpartiets. En rad olika taxor och avgifter för 2024 antogs, bland annat för avfall, vatten och avlopp, bygglov, miljötillsyn och alkoholövervakning.\n\nBeslutet ska vidare till Kommunfullmäktige. Flera partier reserverade sig för att de ville driva alternativa budgetförslag.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 209",
+      "quote": "Reviderad Övergripande strategier och budget 2024 med plan för 2025–2027 fastställs enligt förslaget.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "L",
+          "KD",
+          "SD",
+          "V",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "skattesats",
+        "strategi",
+        "2024"
+      ],
+      "id": "2023-10-17_ko_209"
+    },
+    {
+      "headline": "Lokalförsörjningsplan 2025-2035 antagen: 29 projekt prioriterade",
+      "summary": "Kommunstyrelsen antar kommunövergripande lokalförsörjningsplan för 2025-2035 med 29 prioriterade lokalprojekt, varav 16 är redan pågående.",
+      "detail": "Lokalförsörjningsplanen är en handlingsplan som åskådliggör framtida lokalbehov för kommunen och utgör underlag för investeringsprocessen. Prioriteringen är gjord ur ett kommunövergripande perspektiv baserat på behovsanalyser från samtliga nämnder.\n\nPlanen synliggör 29 lokalprojekt mellan 2025-2035, varav 16 är redan pågående projekt. Under år 2024 genomförs ett stort antal lokalprojekt parallellt.\n\nMarkus Allard (ÖrP) yrkade på avslag men förlorade.",
+      "category": "bygg",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 210",
+      "quote": "Mellan år 2025–2035 prioriteras 29 lokalprojekt varav 16 är pågående.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "lokalförsörjning",
+        "investeringar",
+        "planering"
+      ],
+      "id": "2023-10-17_ko_210"
+    },
+    {
+      "headline": "Pratbänkar för att motverka ensamhet avslagnas",
+      "summary": "Kommunstyrelsen avslår motion från KD om att införa pratbänkar på olika platser i Örebro för att motverka ensamhet och skapa generationsmöten.",
+      "detail": "Anna Andersson (KD) motionerade om att ta fram en modell för pratbänkar i Örebro och placera ut dem på några platser i staden.\n\nKommunledningen (S-M-C) såg positivt på motionens intention om att motverka ensamhet, skapa generationsmöten och öka gemenskap mellan människor, men bedömde att initialkostnader för bänkarna och ökade driftskostnader för Teknik- och servicenämnden inte passar in i kommunledningens ekonomiska prioriteringar för mandatperioden.\n\nSusanne Lindholm Henningsson (KD) yrkade på bifall till motionen men förlorade.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 215",
+      "quote": "Dessa kostnader finns inte med bland kommunledningens ekonomiska prioriteringar för mandatperioden.",
+      "quote_page": "s. 25",
+      "voting": {
+        "for": [],
+        "against": [
+          "S",
+          "M",
+          "C"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "motion",
+        "ensamhet",
+        "socialt",
+        "trivsel"
+      ],
+      "id": "2023-10-17_ko_215"
+    },
+    {
+      "headline": "Motion om kommundelning: Östernärke egen kommun avslås",
+      "summary": "Kommunstyrelsen avslår motion från tre SDare om att utreda framtida kommundelning där Östernärke bildar egen kommun.",
+      "detail": "Daniel Spiik, Habib Brini och Bjarne Bäckström (alla SD) motionerade om att utreda för- och nackdelar med en kommundelning, med utgångspunkten att klyftan mellan stad och land vuxit sig djupare i Örebro kommun.\n\nKommunledningen bedömer att det inte är aktuellt med en sådan kommundelning. Argumentationen är att det blir allt svårare för mindre kommuner att bära sina egna kostnader för skola, äldreomsorg och infrastruktur. Kommunledningen anser att Sverige bör invänta en eventuell framtida statlig diskussion om kommunernas storlek innan ändringar genomförs.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på bifall till motionen men förlorade.",
+      "category": "politik",
+      "contested": true,
+      "location": "Östernärke",
+      "paragraph_ref": "§ 217",
+      "quote": "Det blir allt svårare för mindre kommuner att bära sina egna kostnader för både skola, äldreomsorg och infrastruktur.",
+      "quote_page": "s. 28",
+      "voting": {
+        "for": [],
+        "against": [
+          "S",
+          "M",
+          "C"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "motion",
+        "kommundelning",
+        "Östernärke",
+        "regionalpolitik"
+      ],
+      "id": "2023-10-17_ko_217"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Anna Andersson (KD) - Pratbänkar i Örebro för att motverka ensamhet",
+      "party": "KD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Sandra Fröjdenstam (KD) - Örebro kommun ska upphöra som utförare av service",
+      "party": "KD",
+      "status": "Besvarad (båda att-satser)"
+    },
+    {
+      "title": "Daniel Spiik, Habib Brini, Bjarne Bäckström (SD) - Utreda framtida kommundelning",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Lea Strandberg (MP) - Fritidsgård utifrån ungdomarnas behov",
+      "party": "MP",
+      "status": "Remitterad för beredning"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2023-10-17",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 11
+}

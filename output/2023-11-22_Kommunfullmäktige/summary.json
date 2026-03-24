@@ -1,0 +1,242 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2023-11-22",
+  "summary_headline": "Örebrobostäder får sälja fastigheter, vattentjänstplan antagen",
+  "decisions": [
+    {
+      "headline": "Örebrobostäder höjer försäljningsgräns för fastigheter",
+      "summary": "Gränsen för när fastighetsförsäljningar ska underställas kommunfullmäktige höjs från 1 000 till 3 000 prisbasbelopp (från ca 52,5 mnkr till ca 157,5 mnkr). Detta möjliggör försäljning av delar av Örebrobostäders fastighetsbestånd för att lösa ekonomiska utmaningar.",
+      "detail": "Örebrobostäder har cirka 23 000 bostäder, varav cirka 15 000 är i behov av renovering och underhåll de kommande 20 åren. Det årliga investeringsbehovet beräknas till cirka 1 000 mnkr, men bolagets ekonomi tål endast cirka 750 mnkr per år.\n\nSamtidigt har försämrade marknadsförutsättningar – höga inflationstakt och höjda marknadsräntor – påverkat bolagets ekonomi negativt. Hyreshöjningen kompenserar endast för hälften av kostnaderna.\n\nKommunfullmäktige godkände ändringar i bolagsordningen för både Örebrobostäder AB och dotterbolaget ÖBO Holding AB. Detta möjliggör effektivare fastighetsförsäljningar genom paketering i aktiebolag.\n\nVänsterpartiet (V) och Örebro Piratparti (ÖrP) reserverade sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 389",
+      "quote": "Försäljning av fastigheter kan komma att ske genom att fastigheterna paketeras i aktiebolag som överlåts till köparen.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "SD"
+        ],
+        "against": [
+          "V",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Örebrobostäder",
+        "fastighetsförsäljning",
+        "ekonomi",
+        "bostäder"
+      ],
+      "id": "2023-11-22_ko_389"
+    },
+    {
+      "headline": "Vattentjänstplan 2024 antagen trots invändningar",
+      "summary": "Kommunfullmäktige antog vattentjänstplanen för 2024 som innehåller utbyggnadsplan, skyfallsplan och miljökonsekvensbeskrivning för VA-anläggningar. Planen identifierar 9 områden för utbyggnad innan 2035.",
+      "detail": "Vattentjänstplanen är ett omfattande styrande dokument för kommunens vattentjänster. Den innehåller en utbyggnadsplan för långsiktig VA-expansion, en skyfallsplan för hantering av extrema väderförhållanden och en strategisk miljökonsekvensbeskrivning.\n\nPlanen identifierar 9 områden där kommunen ska besluta om verksamhetsområde 2024-2035, samt 15 områden där kommunen anses ha ansvar enligt lag men först efter 2035. Tre områden anses kunna ta eget ansvar för vattentjänsterna.\n\nKristendemokraterna (KD) ville ha tillägg om formaliserad kommunikation med mark- och fastighetsägare, dispens för nya anläggningar och obligatorisk dialog innan stopp för bygglov. Detta avslogs. Örebro Piratparti (ÖrP) ville helt avslå planen.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 390",
+      "quote": "I utbyggnadsplanen lyfts 9 områden där kommunen planerar att besluta om verksamhetsområde inom tidsperioden år 2024-2035.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "vattentjänster",
+        "VA",
+        "infrastruktur",
+        "miljö",
+        "planering"
+      ],
+      "id": "2023-11-22_ko_390"
+    },
+    {
+      "headline": "Förpackningsavfallstaxa för hämtning införs från 2024",
+      "summary": "Kommunfullmäktige antog en ny förpackningsavfallstaxa för fastighetsnära insamling av förpackningar i flerfamiljshus. Taxan gäller från 1 januari 2024.",
+      "detail": "Teknik- och servicenämnden har beslutat att Örebro kommun ska ha ett auktorisationssystem för hämtning av förpackningar (FNI) i flerfamiljshus från 1 januari 2024.\n\nKommunfullmäktige behövde sätta en taxa för hur mycket en tömning av ett kärl med förpackningsmaterial får kosta mot fastighetsägare. Taxan reglerar vad de auktoriserade privata entreprenörerna maximalt får ta betalt för fastighetsnära insamling.\n\nTaxan är avsedd att vara fristående från avfallstaxan för enklare administration och justeringar. Vänsterpartiet ville utvärdera totalkostnaden för återvinningen, men detta avslogs.",
+      "category": "miljö",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 391",
+      "quote": "Taxan reglerar vad de auktoriserade privata entreprenörerna maximalt får ta betalt för att hämta förpackningar fastighetsnära i flerfamiljshus.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "avfallshantering",
+        "miljö",
+        "taxa",
+        "förpackningar"
+      ],
+      "id": "2023-11-22_ko_391"
+    },
+    {
+      "headline": "Avfallsföreskrifter för 2024 fastställda",
+      "summary": "Kommunfullmäktige fastställde nya avfallsföreskrifter för Örebro kommun med start 1 januari 2024.",
+      "detail": "Avfallsverksamheten föreslog reviderade avfallsföreskrifter för att träda i kraft 1 januari 2024. Föreskrifterna är fastställda med stöd av miljöbalken och avfallsförordningen.\n\nBeslutet är tekniskt nödvändigt för att säkerställa aktuell avfallshantering i kommunen. Örebro Piratparti (ÖrP) reserverade sig mot beslutet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 392",
+      "quote": "Kommunfullmäktige fastställer, med stöd av 15 kap. (38, 39 och 41 §§) miljöbalken (1998:808) och 9 kap. (1–2 §§) avfallsförordningen (2020:614), föreliggande förslag till nya avfallsföreskrifter 2024.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "SD",
+          "MP",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "avfallshantering",
+        "regler",
+        "miljö"
+      ],
+      "id": "2023-11-22_ko_392"
+    },
+    {
+      "headline": "Överenskommelse civil samhälle 2024-2027 godkänd",
+      "summary": "Kommunfullmäktige godkände ny överenskommelse om samverkan mellan det civila samhället och kommunen för perioden 2024-2027.",
+      "detail": "Överenskommelsen mellan kommunen och det civila samhället förnyades för perioden 2024-2027. Den tidigare gällde 2020-2023 och har evaluerats med utgångspunkt i inkomna synpunkter.\n\nSamverkansrådet får mandat att besluta om uteslutning av ansluten aktör om det kan påvisas att aktören aktivt motarbetar syftet med överenskommelsen.\n\nUnder perioden 2024-2027 ska en översyn av stödstrukturen genomföras, med fokus på Samverkansrådet och C-nätverket, för att säkerställa behovsanpassad struktur. Örebro Piratparti (ÖrP) reserverade sig mot beslutet.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 393",
+      "quote": "Under överenskommelseperioden 2024-2027 ska en översyn av stödstrukturen genomföras, med fokus på Samverkansrådet och C-nätverket.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "SD",
+          "MP",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "civilsamhälle",
+        "samverkan",
+        "gräsrötter"
+      ],
+      "id": "2023-11-22_ko_393"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Motion från Sara Bronner (MP) om miljöbidrag för lokala initiativ (2017)",
+      "party": "MP",
+      "status": "Bordlad – avslag föreslaget men uppskjutet"
+    },
+    {
+      "title": "Motion från Niclas Persson (MP) om hemlöshet och socialtjänstens ansvar (2019)",
+      "party": "MP",
+      "status": "Bordlad – avslag föreslaget men uppskjutet"
+    },
+    {
+      "title": "Motion från Markus Allard & Peter Springare (ÖrP) om att slopa enprocentsregeln (2022)",
+      "party": "ÖrP",
+      "status": "Bordlad – avslag föreslaget men uppskjutet"
+    },
+    {
+      "title": "Motion från Vänsterpartiet om pendlarparkering (2021)",
+      "party": "V",
+      "status": "Bordlad – anses besvarad"
+    },
+    {
+      "title": "Motion från David Larsson & Sigvard Blixt (SD) om beredskapsgeneratorer och satellitkommunikation (2022)",
+      "party": "SD",
+      "status": "Bordlad – delvis tillgodosedd"
+    },
+    {
+      "title": "Motion från Carola Sunesson m.fl. (SD) om SMR-reaktor i Örebro (2022)",
+      "party": "SD",
+      "status": "Bordlad – avslag föreslaget men uppskjutet"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om mobil fritidsgård (2021)",
+      "party": "MP",
+      "status": "Bordlad – anses besvarad"
+    },
+    {
+      "title": "Motion från Bo Ammer & Helena Ståhl (SD) om Rådhusets julkalender (2023)",
+      "party": "SD",
+      "status": "Bordlad – avslag föreslaget men uppskjutet"
+    },
+    {
+      "title": "Motion från Anna Andersson (KD) om pratbänkar i Örebro (2023)",
+      "party": "KD",
+      "status": "Bordlad – avslag föreslaget men uppskjutet"
+    },
+    {
+      "title": "Motion från Sandra Fröjdenstam (KD) om att kommunen upphör som tjänsteproducent (2023)",
+      "party": "KD",
+      "status": "Bordlad – anses besvarad"
+    },
+    {
+      "title": "Motion från Daniel Spiik m.fl. (SD) om att utreda kommundelning (2023)",
+      "party": "SD",
+      "status": "Bordlad – avslag föreslaget men uppskjutet"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2023-11-22",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-22_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 5
+}
