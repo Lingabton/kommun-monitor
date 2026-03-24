@@ -1,0 +1,580 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2024-08-28",
+  "summary_headline": "Motioner behandlade, FRITTE får 600 tkr, flera ärendenämnder",
+  "decisions": [
+    {
+      "headline": "FRITTE fritidsgård får förstärkt finansiering",
+      "summary": "Kultur- och fritidsnämnden får 600 000 kronor extra till teckenspråkig fritidsgård för att säkerställa öppettider och bemanning.",
+      "detail": "Miljöpartiet de gröna motionerade för stärkt finansiering av fritidsgården FRITTE, som drivs för döva och hörselskadade ungdomar. Kommunledningen (S, M, C) delade bedömningen att FRITTE behövde förstärkning.\n\nKommunfullmäktige beslutade att motionen anses tillgodosedd. Kultur- och fritidsnämnden ökar verksamhetsbidraget med 600 000 kronor.\n\nDen ekonomiska förstärkningen möjliggör två heltidsanställda, minst tre personal per kväll, och viss sommarverksamhet. Detta säkerställer att FRITTE kan fortsätta vara en viktig mötesplats för teckenspråkiga ungdomar.\n\nMotionen hade bordlagts flera gånger sedan februari 2024 innan den slutligen behandlades.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Fritte fritidsgård",
+      "paragraph_ref": "§ 193",
+      "quote": "Den ekonomiska förstärkningen leder bl.a. till att Fritte kan ha två heltidsanställda och att bemanningen blir minst tre personal per kväll.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "FRITTE",
+        "fritidsgård",
+        "döva",
+        "teckenspråk",
+        "kultur"
+      ],
+      "id": "2024-08-28_ko_193"
+    },
+    {
+      "headline": "Hjärtstartare på äldreboenden - motion tillgodosedd",
+      "summary": "Alla kommunala vård- och omsorgsboenden är nu utrustad med hjärtstartare enligt beslut från 2023.",
+      "detail": "David Larsson (SD) motionerade 2021 för att införa hjärtstartare på Örebro kommuns äldreboenden.\n\nVård- och omsorgsnämnden beslutade redan den 31 augusti 2023 att utrusta samtliga kommunala vård- och omsorgsboenden med hjärtstartare.\n\nKommunfullmäktige beslutade enhälligt att motionen är tillgodosedd. Ärendet hade bordlagts från mars till juni 2024.",
+      "category": "trygghet",
+      "contested": false,
+      "location": "Kommunala vård- och omsorgsboenden",
+      "paragraph_ref": "§ 195",
+      "quote": "Vård- och omsorgsnämnden den 31 augusti 2023 beslutade att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "hjärtstartare",
+        "äldreboenden",
+        "vård",
+        "omsorgs"
+      ],
+      "id": "2024-08-28_ko_195"
+    },
+    {
+      "headline": "Energiförsörjningsplan - delvis tillgodosedd",
+      "summary": "Tre av fyra delar av Miljöpartiets energimotionsförslag anses tillgodosedda genom befintliga mål och planerad energistrategi.",
+      "detail": "Lea Strandberg och Fredrik Persson (MP) motionerade för en ny energiförsörjningsplan. Motionen innehöll fyra förslag: kommunen ska tillverka all el själv och göra den förnybar, samt att privatpersoner ska kunna producera egen energi.\n\nKommunledningen bedömde att motionens första, andra och tredje förslag är tillgodosedda genom mål i Örebro strategiska bårkontakt (ÖSB) och Vårt hållbara Örebro samt genom den energistrategi som tas fram. Det fjärde förslaget anses besvarat.\n\nKommunfullmäktige beslutade enligt detta förslag. Flera partier reserverade sig, bland annat L, OrP och V som ville att motionen bifölls helt.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 197",
+      "quote": "Motionens första, andra och tredje förslag är tillgodosedda då dessa tillgodoses av mål i ÖSB och Vårt hållbara Örebro samt av den energistrategi för Örebro som ska tas fram.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "OrP",
+          "V",
+          "MP",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "energi",
+        "miljö",
+        "förnybar",
+        "strategi"
+      ],
+      "id": "2024-08-28_ko_197"
+    },
+    {
+      "headline": "Gratis frukost i skolor - motion avslagen",
+      "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om avgiftsfri frukost i grund- och gymnasieskolan.",
+      "detail": "Vänsterpartiet motionerade för att kommunen ska införa gratis frukost till elever i grundskolor och gymnasieskolor. Motionen hade fyra yrkanden kopplade till skolfrukost.\n\nKommunledningen avslog motionen med motivering att motsvarande motsättningar redan finns i olika grad i skolorna. Kommunstyrelsen behandlade ärendet den 3 juni 2024.\n\nKommunfullmäktige beslutade att avslå motionen. Flera partier reserverade sig, inklusive V, MP, KD och SD som ville bifalla motionen.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 200",
+      "quote": "Motion från Vänsterpartiet, 2023-03-29",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "MP",
+          "KD",
+          "SD",
+          "OrP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "skola",
+        "frukost",
+        "elever",
+        "kostnad"
+      ],
+      "id": "2024-08-28_ko_200"
+    },
+    {
+      "headline": "Försörjningsstöd - Örebronorm återinföring avslaget",
+      "summary": "Motion om höjning av försörjningsstöd och återinförande av Örebronorm avslaget.",
+      "detail": "Vänsterpartiet motionerade i februari 2023 för att kommunen ska utreda en generell höjning av försörjningsstödet och återinföra den så kallade Örebronormen inom försörjningsstödet.\n\nKommunledningen föreslog att motionen skulle avslås. Kommunstyrelsen behandlade ärendet den 3 juni 2024.\n\nKommunfullmäktige beslutade att avslå motionen. Vänsterpartiet och Miljöpartiet reserverade sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 201",
+      "quote": "Vänsterpartiet har i februari 2023 lämnat in en motion till kommunfullmäktige med ett förslag om att Örebro kommun ska utreda en generell höjning av försörjningsstödet",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "MP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "försörjningsstöd",
+        "budget",
+        "välfärd"
+      ],
+      "id": "2024-08-28_ko_201"
+    },
+    {
+      "headline": "HBTQI-inkludering - arbetssätt framtages",
+      "summary": "Motion om HBTQI-inkludering anses besvarad; kommun arbetar med strukturerat arbetssätt och skräddarsydda utbildningar.",
+      "detail": "Vänsterpartiet motionerade för att göra Örebro till en HBTQI-inkluderande kommun med 11 konkreta förslag, bland annat hbtqi-råd, trygghetsundersökning, diplomering av politiker, och hbtqi-profil på äldreboenden.\n\nKommunledningen delar bedömningen att mer behöver göras men föreslog att motionen anses besvarad. Anledningen är att ÖSB 2024 redan innehöll uppdrag om att ta fram arbetssätt/färdplan för konkreta insatser. Kartläggning pågår, skräddarsydda utbildningar genomförs, och statsbidrag beviljats.\n\nKommunledningen avslår att inrätta ett nytt hbtqi-råd men förhandlar med RFSL om att använda dem som remissinstans. Regnbågsflaggan flaggas redan under Nerike Pride vid Nikolaikyrkan och Storbron.\n\nKommunfullmäktige beslutade enligt kommunledningens förslag. Flera partier reserverade sig för starkare åtgärder.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 202",
+      "quote": "Kommunledningen delar bilden av att mer behöver göras på det här området vilket också var anledningen till att kommunledningen i ÖSB 2024 lade ett uppdrag om att ta fram ett arbetssätt/färdplan",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "OrP",
+          "V",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "HBTQI",
+        "inkludering",
+        "RFSL",
+        "regnbågsflagga"
+      ],
+      "id": "2024-08-28_ko_202"
+    },
+    {
+      "headline": "Daglig verksamhet extern/företagsansluten - tillgodosedd",
+      "summary": "Motion om daglig verksamhet på extern plats för LSS-användare anses tillgodosedd; nya grupper startas.",
+      "detail": "Susanne Lindholm Henningsson (KD) motionerade för att Örebro kommun på målmedvetet och strukturellt sätt ska förlägga daglig verksamhet på extern eller företagsansluten plats för LSS-användare.\n\nKommunen arbetar redan för att alla deltagare som kan och vill får lämplig placering på extern plats eller i företagsansluten grupp. Nya företagsanslutna grupper har startats sedan motionen anmäldes, och fler planeras under 2024.\n\nKommunfullmäktige beslutade att motionen anses tillgodosedd. KD reserverade sig för att vilja bifalla motionen i sin helhet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 203",
+      "quote": "Kommunen arbetar för att alla deltagare som kan och vill ska få en lämplig placering på extern plats eller i företagsansluten grupp.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "L",
+          "OrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "LSS",
+        "daglig verksamhet",
+        "funktionsstöd"
+      ],
+      "id": "2024-08-28_ko_203"
+    },
+    {
+      "headline": "Örebro Parkering AB - motionen besvarad",
+      "summary": "Motion om avveckling av parkeringsbolaget anses besvarad; utredning och diskussioner pågår.",
+      "detail": "Sverigedemokraterna motionerade 2021 för utredning av avyttring eller likvidering av Örebro Parkering AB med största möjliga varsamhet för skattemedlen.\n\nDiskussionerna om parkeringsbolagets framtid har pågått en tid. Omvärldsbevakning genomförs - Uppsala och Göteborg har besökts för att se framgångsrika modeller.\n\nKommunledningen bedömde att flera spår finns i diskussionerna men att utredningen inte är avslutad. Motionen anses därför besvarad snarare än bifallen.\n\nKommunfullmäktige beslutade enligt detta. SD, L och OrP reserverade sig för att bifalla motionen.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 204",
+      "quote": "Flera olika spår finns med i diskussionerna kring Örebro Parkering AB. Den utredningen och de diskussionerna är i dagsläget inte avslutade.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "L",
+          "OrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Parkering",
+        "AB",
+        "utredning"
+      ],
+      "id": "2024-08-28_ko_204"
+    },
+    {
+      "headline": "Maxtak förskolan - två motioner avslagna",
+      "summary": "Motioner om maxtak för barngruppsstorlek i förskolan avslagna; kommunen vill behålla rektorernas handlingsfrihet.",
+      "detail": "Miljöpartiet (Lea Strandberg, Fredrik Persson) och Liberalerna (Mats-Olof Liljegren) motionerade båda för att införa maxtak för barngrupper i förskolan: 6-12 barn för ålder 1-3 år, 9-15 barn för ålder 4-5 år.\n\nFörskole- och grundskoleförvaltningen avslog båda motionerna med motiveringen att maxtak skulle medföra svårigheter med kompetensförsörjning, höjda personal- och lokalkostnader. Förvaltningen vill behålla rektorernas handlingsutrymme att anpassa organisation efter barnens behov.\n\nKommunfullmäktige beslutade att avslå båda motionerna. Flera partier reserverade sig: V, MP, KD, SD, L och OrP ville bifalla motionerna.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 208-209",
+      "quote": "bedömningen är att ett införande av maxtak för barngrupper skulle medföra svårigheter kopplat till framför allt kompetensförsörjning och ökade personal- och lokalkostnader",
+      "quote_page": "s. 29-31",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "MP",
+          "KD",
+          "SD",
+          "L",
+          "OrP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "förskola",
+        "barn",
+        "maxtak",
+        "barngrupp"
+      ],
+      "id": "2024-08-28_ko_208-209"
+    },
+    {
+      "headline": "Näringsliv - motion om främjande bordlagd",
+      "summary": "Motion från SD om näringslivsprogram och företagarvänlighet bordlades utan slutgiltigt beslut.",
+      "detail": "Sverigedemokraterna motionerade för att främja näringslivet genom: tydligt näringslivsfrämjande uppdrag, utökad strategi med mål, förkortad handläggning för företagärenden, och att konkurrensnackdelar för kommunala bolag byggs bort.\n\nKommunledningen hade nyligen tagit fram ett reviderat näringslivsprogram under parlamentarisk arbetsgrupp med samtliga partier. Programmet sträcker sig till 2030 med fokusområden och mål.\n\nEn del av Sverigedemokraternas förslag fanns redan i näringslivsprogrammet. Kommunledningen bedömde därför att motionen var besvarad.\n\nKommunfullmäktige bordlade ärendet utan slutgiltigt beslut.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 205",
+      "quote": "En del av Sverigedemokraternas förslag finns med i någon form i näringslivsprogrammet, om än inte samtliga.",
+      "quote_page": "s. 25",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "näringsliv",
+        "företag",
+        "strategi"
+      ],
+      "id": "2024-08-28_ko_205"
+    },
+    {
+      "headline": "Självförsvar - motion bordlades utan slutbeslut",
+      "summary": "Motion om självförsvarsutbildning och personlig säkerhet bordlades vid nytt sammanträde.",
+      "detail": "Carola Sunesson (SD) motionerade för att kommunen ska etablera självförsvarsutbildning för extra utsatta personer, enskilda personer, företagare och verksamheter. Förslaget var att undersöka befintlig utbildning och finansieringsmöjligheter.\n\nKommunledningen föreslog att motionen skulle avslås då ingen motsvarande utbildning finns inom kommunens verksamhet och kommunledningen valt att fokusera på andra åtgärder.\n\nKommunfullmäktige bordlade ärendet utan att anta Kommunstyrelsens avslagesförslag.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 194",
+      "quote": "Bedömningen är att motionen ska avslås då det inte finns någon motsvarande utbildning inom kommunens verksamhet idag",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "trygghet",
+        "utbildning",
+        "självförsvar"
+      ],
+      "id": "2024-08-28_ko_194"
+    },
+    {
+      "headline": "Skolskjuts - motion tillgodosedd",
+      "summary": "Motion om skolskjuts i mån av plats anses tillgodosedd; förvaltningen utreder redan frågan.",
+      "detail": "Susanne Lindholm Henningsson (KD) motionerade för att utreda möjlighet för elever utan rätt till skolskjuts att åka med i mån av plats.\n\nFörskole- och grundskoleförvaltningen utreder redan frågan om skolskjuts i mån av plats. Motionens syfte bedöms därför vara uppfyllt.\n\nKommunfullmäktige beslutade att motionen anses tillgodosedd. KD reserverade sig för att vilja bifalla motionen i sin helhet.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 206",
+      "quote": "Förskole- och grundskoleförvaltningen redan utreder frågan om skolskjuts i mån av plats.",
+      "quote_page": "s. 27",
+      "voting": {
+        "for": [
+          "S",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "L",
+          "OrP",
+          "V",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "skolskjuts",
+        "skola",
+        "barn"
+      ],
+      "id": "2024-08-28_ko_206"
+    },
+    {
+      "headline": "Specialkost - motion avslagen",
+      "summary": "Motion om optimering av specialkost och religion avslaget; regler redan antas minimera behov.",
+      "detail": "Helena Ståhl (SD) motionerade för utredning av välbalanserade kostalternativ för att minska specialkostbehovet, samt att religiöst betingad specialkost inte ska bekostas av skattebetalarna.\n\nKommunledningen avslog motionen med motiveringen att nyligen antagna riktlinjer och befintligt utbud redan minimerar behovet av specialkost. Kostnaden för religiöst betingad specialkost är ringa.\n\nKommunfullmäktige beslutade att avslå motionen. SD och OrP reserverade sig för att bifalla motionen.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 198",
+      "quote": "De nyligen politiskt antagna riktlinjerna samt det utbud som redan erbjuds i dag minimerar behovet av specialkost",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "L",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "OrP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "mat",
+        "specialkost",
+        "religion"
+      ],
+      "id": "2024-08-28_ko_198"
+    },
+    {
+      "headline": "Återvandringsstöd - motion bordlades",
+      "summary": "Motion om informationsinsats om återvandringsstöd bordlades utan slutbeslut.",
+      "detail": "Carola Sunesson (SD) motionerade för regelbunden informationsinsats om möjligheter till stöd för frivillig återvandring till relevanta målgrupper.\n\nKommunledningen föreslog att motionen skulle avslås då det inte ingår i befintlig lagstiftning och en statlig utredning pågår om ansvarsfördelning. Bedömningen var att invänta statliga resultat.\n\nKommunfullmäktige bordlade ärendet utan slutbeslut.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 199",
+      "quote": "Migrationsverket har regeringens uppdrag att administrera stödinsatser för frivillig återvandring.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "migration",
+        "återvandring"
+      ],
+      "id": "2024-08-28_ko_199"
+    },
+    {
+      "headline": "Hemlöshet - motion avslagen",
+      "summary": "Motion om utökat stöd till civilsamhället för hemlösa avslaget; kommun arbetar redan med strategier.",
+      "detail": "Johanna Reimfelt (L) motionerade för att kommunen utredde och utökade stödet till civilsamhället för långsiktiga möjligheter till dagtidsverksamhet för hemlösa.\n\nKommunledningen avslog motionen med motiveringen att Örebro kommun redan arbetar med hemlöshetsproblematiken. En strategi mot hemlöshet antogs 2022, och en samordnare tillsattes 2023. Kommunen bedriver verksamhet i egen regi och samarbetar med civilsamhället.\n\nKommunfullmäktige beslutade att avslå motionen. L, MP, V, SD och KD reserverade sig för att bifalla motionen.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 196",
+      "quote": "Örebro kommun antog 2022 en strategi mot hemlöshet och sedan början av 2023 finns en samordnare tillsatt",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "MP",
+          "V",
+          "SD",
+          "KD",
+          "OrP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "hemlöshet",
+        "socialtjänst",
+        "välfärd"
+      ],
+      "id": "2024-08-28_ko_196"
+    },
+    {
+      "headline": "Skadegörelse skolor - motion bordlades",
+      "summary": "Motion om debiteringsprincip för uppsåtlig skadegörelse i skolor bordlades utan slutbeslut.",
+      "detail": "Helena Ståhl, Bo Ammer och Carola Sunesson (SD) motionerade för att rekommendera rektorer att debitera vårdnadshavare vid uppsåtlig skadegörelse och att ge elever möjlighet att arbeta av skulder.\n\nFörskole- och grundskoleförvaltningen föreslog att motionen skulle avslås med motiveringen att det redan finns tillräckligt underlag för att begära ersättning.\n\nKommunfullmäktige bordlade ärendet utan att anta avslagesförslaget.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 207",
+      "quote": "det i nuläget inte finns några planer inom Förskole- och grundskoleförvaltningen att förändra något i hanteringen av skadegörelse i skolor",
+      "quote_page": "s. 28",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "skada",
+        "skola",
+        "ansvar"
+      ],
+      "id": "2024-08-28_ko_207"
+    },
+    {
+      "headline": "Kameraövervakning - motion bordlades",
+      "summary": "Motion om plan för kameraövervakning vid alla kommunala verksamheter bordlades.",
+      "detail": "Helena Ståhl, Carola Sunesson och Christer Johansson (SD) motionerade för att kommunen lägger upp plan för kameraövervakning och ansöker om tillstånd för övervakning i alla kommunala verksamheter.\n\nKommunledningen föreslog att motionen skulle avslås med motiveringen att kommunen inte kan motivera övervakning av samtliga verksamheter.\n\nKommunfullmäktige bordlade ärendet utan att anta avslagesförslaget.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 211",
+      "quote": "Bedömningen är att kommunen inte kan motivera övervakning av samtliga kommunala verksamheter",
+      "quote_page": "s. 33",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "övervakning",
+        "kamera",
+        "säkerhet"
+      ],
+      "id": "2024-08-28_ko_211"
+    },
+    {
+      "headline": "TABB familjestödjare - motion bordlades",
+      "summary": "Motion om permanenta rollen som familjestödjare enligt TABB-modellen bordlades utan slutbeslut.",
+      "detail": "Gunilla Werme (L) motionerade för att permanenta rollen som familjestödjare enligt TABB-modellen som del i skolors hälsofrämjande arbete för att förebygga psykisk ohälsa.\n\nKommunledningen föreslog att motionen anses besvarad då dialog om lärdomarna från TABB pågår, men det finns fortfarande frågor kvar att utforska innan permanentisering.\n\nKommunfullmäktige bordlade ärendet istället för att anta förslaget.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 210",
+      "quote": "Dialog om hur lärdomarna från TABB bäst tillvaratas och om hur arbetet med samverkan ska fortgå pågår",
+      "quote_page": "s. 33",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "TABB",
+        "psykisk hälsa",
+        "familj",
+        "skola"
+      ],
+      "id": "2024-08-28_ko_210"
+    },
+    {
+      "headline": "Upphandling små företag - motion bordlades",
+      "summary": "Motion om förbättring av upphandling för små lokala företag bordlades utan slutbeslut.",
+      "detail": "Carola Sunesson (SD) motionerade för fyra åtgärder: tydligt näringslivsfrämjande uppdrag, utökad strategi med mål, förkortad handläggning, och att konkurrensnackdelar för kommunala bolag byggs bort.\n\nKommunledningen bedömde att motionens första, andra och fjärde yrkanden är besvarade (kommunen arbetar redan aktivt med detta) men att det tredje yrkandet skulle avslås (olika prioriteringar gör olika åtgärder relevanta beroende på vad som upphandlas).\n\nKommunfullmäktige bordlade ärendet utan slutbeslut.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 212",
+      "quote": "Örebro kommun har sedan lång tid mycket aktivt arbetat med att uppnå de målsättningar som motionären lyfter",
+      "quote_page": "s. 34",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "upphandling",
+        "företag",
+        "konkurrens"
+      ],
+      "id": "2024-08-28_ko_212"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Beredskapsplan för kulturarvet",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "En farbar stad",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Ett närkeslätt Örebro",
+      "party": "SD",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 9,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2024-08-28",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 19
+}

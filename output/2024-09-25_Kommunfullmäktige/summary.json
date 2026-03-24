@@ -1,0 +1,365 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2024-09-25",
+  "summary_headline": "Markköp, ekonomiska riktlinjer och flera motioner avslagna",
+  "decisions": [
+    {
+      "headline": "Köp av mark i Ekeby-Almby för 31,5 miljoner kronor",
+      "summary": "Kommunfullmäktige godkänner förvärv av tre fastigheter (Almby 13:454, 13:384 och 13:372) totalt cirka 41 hektar för framtida bostadsexploatering, naturvård och allmänna platser.",
+      "detail": "Miljö- och stadsbyggnadsförvaltningen föreslår att Örebro kommun förvärvar fastigheterna för 31 500 000 kronor. Förvärvets syfte är en framtida sammanhållen exploatering av bostäder, bevara höga naturvärden och kunna ge möjlighet till allmänna platser i området.\n\nKommunfullmäktige beslutar att godkänna köpehandlingarna och förvärvet. Markplanerings- och exploateringsnämndens ordförande får i uppdrag att underteckna kontrakten. Medel tas från nämndens budget för förvärv.\n\nBesluten fattades enhälligt med stöd från S, M, C, L och KD. V och ÖrP lämnade särskilda yttranden om behov av infrastrukturinvesteringar och planering för området.\n\nKristdemokraterna påpekar i sitt yttrande att medborgare i området hittills sköpt vägar, idrottsplats och skola själva, och att kommunens köp kommer att öka förväntningarna på infrastruktur som trafiksäkra cykelvägar och plogning.",
+      "category": "bygg",
+      "contested": false,
+      "location": "Ekeby-Almby, Örebro",
+      "paragraph_ref": "§ 236",
+      "quote": "Förvärvets syfte är en framtida sammanhållen exploatering av bostäder, bevara höga naturvärden och kunna ge möjlighet till allmänna platser i Ekeby-Almby.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "markköp",
+        "bostäder",
+        "exploatering",
+        "Ekeby-Almby",
+        "infrastruktur"
+      ],
+      "id": "2024-09-25_ko_236"
+    },
+    {
+      "headline": "Nya riktlinjer för god ekonomisk hushållning antas",
+      "summary": "Kommunfullmäktige antar reviderade riktlinjer för ekonomisk hushållning och beslutar om resultatreserv från 2024.",
+      "detail": "Nya riktlinjer för god ekonomisk hushållning med principer för verksamhets- och ekonomistyrning antas. Riktlinjerna definierar lokal tillämpning av när resultatreserven kan användas och beskriver hur kommunens ekonomistyrning ska utövas för att nå övergripande målsättningar.\n\nKommunfullmäktige beslutar att:\n1. Inrätta en resultatreserv i Örebro kommun från och med räkenskapsår 2024\n2. Anta nya riktlinjer för god ekonomisk hushållning\n3. Upphäva tidigare riktlinjer från 2020 och 2021\n4. Besluten gäller från 1 november 2024\n\nVänsterpartiet reserverade sig mot beslutet, motsatt av Martha Wicklund (V) m.fl., till förmån för egna principer för ekonomisk hushållning. Beslut fattades enligt majoritetens förslag (S, M, C, L, KD, SD, MP).",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 235",
+      "quote": "Riktlinjen beskriver hanteringen av kommunens resultatreserv och resultatutjämningsreserv. Riktlinjen visar även hur verksamhets- och ekonomistyrningen ska utövas och bidra till att nå kommunens övergripande målsättningar för verksamhet och ekonomi.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "ekonomi",
+        "riktlinjer",
+        "resultatreserv",
+        "styrning"
+      ],
+      "id": "2024-09-25_ko_235"
+    },
+    {
+      "headline": "Motionen om självförsvarsutbildning avslaget",
+      "summary": "Carola Sunesson (SD):s motion om att etablera självförsvarsutbildning för utsatta personer avslås.",
+      "detail": "Carola Sunesson föreslår att Örebro kommun ska etablera en självförsvarsutbildning och erbjuda denna till extra utsatta personer, företagare och andra. Motionen föreslår att kommunen ska undersöka möjligheterna till finansiering genom statligt eller EU-stöd.\n\nKommunledningen bedömer att motionen ska avslås då det inte finns motsvarande utbildning inom kommunens verksamhet och ledningen har valt att fokusera på andra åtgärder för trygghet och mot brottslighet.\n\nMotionen avslogs med majoritetens röster (S, M, V, C, KD, L, MP). SD och ÖrP reserverade sig för bifall till motionen. Ärendet bordlades flera gånger innan slutgiltigt avslag.",
+      "category": "trygghet",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 238",
+      "quote": "Bedömningen är att motionen ska avslås då det inte finns någon motsvarande utbildning inom kommunens verksamhet idag och kommunledningen har valt att fokusera på andra typer av åtgärder för trygghet och mot brottslighet.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "V",
+          "C",
+          "KD",
+          "L",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "trygghet",
+        "brottslighet",
+        "självförsvar",
+        "SD-motion"
+      ],
+      "id": "2024-09-25_ko_238"
+    },
+    {
+      "headline": "Motion om återvandringsstöd avslaget",
+      "summary": "Motion från Carola Sunesson (SD) om att informera om statligt stöd för frivillig återvandring avslås.",
+      "detail": "Carola Sunesson föreslår att kommunen ska uppdra åt Kommunstyrelsen att utforma regelbundna informationsinsatser om möjligheterna till stöd för frivillig återvandring till relevanta målgrupper.\n\nKommunledningen bedömer att eftersom det inte ingår i befintlig lagstiftning och en statlig utredning pågår gällande ansvarsfördelning, bör man invänta den statliga utredningens slutsatser innan kommunen tar på sig ett uppdrag som ligger på Migrationsverkets ansvar.\n\nMotionen avslogs med majoritetens röster. SD och ÖrP reserverade sig för bifall. Ärendet bordlades flera gånger före slutgiltigt avslag.",
+      "category": "politik",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 239",
+      "quote": "Kommunledningsförvaltningen menar att eftersom det inte ingår i befintlig lagstiftning och då det pågår en statlig utredning gällande ansvarsfördelning bör man invänta den statliga utredningens slutsatser innan kommunen tar på sig ett uppdrag som ligger på Migrationsverkets ansvar.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "V",
+          "C",
+          "KD",
+          "L",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "återvandring",
+        "migration",
+        "information",
+        "SD-motion"
+      ],
+      "id": "2024-09-25_ko_239"
+    },
+    {
+      "headline": "Motion om näringslivsfrämjande anses besvarad",
+      "summary": "Sverigedemokraternas motion om att främja näringslivet genom tydligare uppdrag och minskad byråkrati anses besvarad genom reviderat näringslivsprogram.",
+      "detail": "SD föreslår flera åtgärder för att främja näringslivet: tydligt näringslivsfrämjande uppdrag med extern rådgivare, utökad strategi med följupmätning, förkortat handläggningstider för företagaräenden, och lika villkor för företag gentemot kommunala bolag.\n\nÖrebro kommun har nyligen tagit fram ett reviderat näringslivsprogram till 2030 i ett parlamentariskt representativt arbete där alla partier bjudits in. Programmet sätter riktningen för kommunens nämnder, förvaltningar och bolag gällande näringslivets förutsättningar för tillväxt.\n\nKommunstyrelsen föreslår att motionen anses besvarad då en del av förslagen finns med i näringslivsprogrammet. Beslut fattades enhälligt.",
+      "category": "ekonomi",
+      "contested": false,
+      "location": "Örebro",
+      "paragraph_ref": "§ 240",
+      "quote": "Syftet med Näringslivsprogrammet är att sätta riktningen och den önskvärda utvecklingen för alla kommunens nämnder, förvaltningar och bolag inom koncernen vad gäller näringslivets förutsättningar för fortsatt tillväxt och hållbar utveckling.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "näringslivsprogram",
+        "företagande",
+        "ekonomi",
+        "utveckling"
+      ],
+      "id": "2024-09-25_ko_240"
+    },
+    {
+      "headline": "Motion om skadegörelse i skolor avslaget",
+      "summary": "Helena Ståhl (SD) m.fl.:s motion om att debitera vårdnadshavare för uppsåtlig skadegörelse på skolorna avslås.",
+      "detail": "Helena Ståhl (SD), Bo Ammer (SD) och Carola Sunesson (SD) föreslår att Örebro kommun rekommenderar rektorer att alltid debitera vårdnadshavare vid uppsåtlig skadegörelse och att elever kan arbeta av uppkomna skulder.\n\nFörskole- och grundskoleförvaltningen bedömer att motionen ska avslås då det redan finns tillräckliga möjligheter att begära ersättning för skador enligt nuvarande regler. Ingen förändring i hanteringen av skadegörelse planeras.\n\nMotionen avslogs med majoritetens röster (C, V, L, S, M, KD, MP). SD och ÖrP reserverade sig för bifall.",
+      "category": "skola",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 241",
+      "quote": "Förskole- och grundskoleförvaltningen föreslår att motionen avslås eftersom det i nuläget inte finns några planer inom Förskole- och grundskoleförvaltningen att förändra något i hanteringen av skadegörelse i skolor.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "V",
+          "C",
+          "KD",
+          "L",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "skola",
+        "skadegörelse",
+        "disciplin",
+        "förvaltningsansvar"
+      ],
+      "id": "2024-09-25_ko_241"
+    },
+    {
+      "headline": "Motion om familjestödjare TABB anses besvarad",
+      "summary": "Gunilla Werme (L):s motion om att permanenta rollen som familjestödjare enligt TABB-modellen anses besvarad.",
+      "detail": "Gunilla Werme föreslår att Örebro kommun permanentar rollen som familjestödjare enligt TABB-modellen som del av skolors och kommunens hälsofrämjande arbete för att förebygga psykisk ohälsa hos barn och ungdomar.\n\nDialog pågår om hur lärdomarna från TABB bäst tillvaratas och om samverkan ska fortgå, men det finns fortfarande frågor att utforska innan beslut fattas om att permanenta projektet på fler skolor.\n\nMotionen anses besvarad. Beslut motsägdes av L, KD, V och MP som reserverade sig för bifall till motionen.",
+      "category": "skola",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 242",
+      "quote": "Dialog om hur lärdomarna från TABB bäst tillvaratas och om hur arbetet med samverkan ska fortgå pågår, men det finns fortfarande frågor kvar att utforska innan beslut kan fattas om att permanenta projektet.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "skola",
+        "psykisk hälsa",
+        "elever",
+        "TABB-modellen"
+      ],
+      "id": "2024-09-25_ko_242"
+    },
+    {
+      "headline": "Motion om kameraövervakning avslaget",
+      "summary": "Helena Ståhl (SD) m.fl.:s motion om kameraövervakning vid samtliga kommunala verksamheter avslås.",
+      "detail": "Helena Ståhl (SD), Carola Sunesson (SD) och Christer Johansson (SD) föreslår att kommunen lägger upp en plan för kameraövervakning och ansöker om tillstånd för övervakning i alla kommunala verksamheter.\n\nKommunstyrelsen bedömer att kommunen inte kan motivera övervakning av samtliga kommunala verksamheter och föreslår därför att motionen avslås.\n\nMotionen avslogs med majoritetens röster (S, M, V, C, KD, L, MP). SD och ÖrP reserverade sig för bifall.",
+      "category": "trygghet",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 243",
+      "quote": "Bedömningen är att kommunen inte kan motivera övervakning av samtliga kommunala verksamheter och förslaget är därför att motionen avslås.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "V",
+          "C",
+          "KD",
+          "L",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "säkerhet",
+        "integritet",
+        "övervakning",
+        "kommunala verksamheter"
+      ],
+      "id": "2024-09-25_ko_243"
+    },
+    {
+      "headline": "Pilotprojekt med seniorluncher i skolmatsalar startar hösten 2024",
+      "summary": "Motion om att öppna skolmatsalar för seniorer tillgodoses genom pilotprojekt på fyra skolor.",
+      "detail": "Susanne Lindholm Henningsson (KD) och Martha Wicklund (V) har inkommit med motioner om att möjliggöra för seniorer att äta lunch i skolmatsalar för att få tillgång till prisvärd näringsrik mat och skapa inkluderande miljö.\n\nKommunledningen tillgodoser båda motionerna genom att lansera ett pilotprojekt med start hösten 2024. Fyra kommunala skolor deltar: Tullängsgymnasiet, Odenskolan, Vintrosaskolan och Västra Engelbrektsskolan. Piloten inkluderar även ett särskilt perspektiv på landsbygden. Äldre ges möjlighet att köpa och äta mat på de utvalda skolorna.\n\nOm pilotprojektet lyckas väl är kommunledningen positiv till att utvidga till fler skolor.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 246-247",
+      "quote": "Kommunledningen ämnar lansera ett pilotprojekt med start hösten 2024, där fyra av Örebros kommunala skolor [...] ska öppna upp skolmatsalarna för äldre.",
+      "quote_page": "s. 26",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "äldreomsorg",
+        "ensamhet",
+        "skolor",
+        "socialt"
+      ],
+      "id": "2024-09-25_ko_246-247"
+    },
+    {
+      "headline": "Rapport om ej verkställda SoL- och LSS-beslut läggs till handlingarna",
+      "summary": "Statistikrapporter från tre nämnder över beslut som inte verkställts inom tre månader läggs till handlingarna.",
+      "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden rapporterar kvartalsvis om ej verkställda biståndsärenden enligt Socialtjänstlagen och LSS.\n\nQ1 2024: Socialnämnden rapporterade 25 ärenden, varav 22 fortsatt ej verkställda. Vård- och omsorgsnämnden rapporterade 18 ärenden (minskning om 2), varav 5 fortsatt ej verkställda. Funktionsstödsnämnden rapporterade 18 ärenden (minskning om 2), varav 5 fortsatt ej verkställda.\n\nRapporterna läggs till handlingarna. SD yrkar på utökad rapportering med anledningar till varför verkställning försenades. Helena Ståhl (SD) m.fl. reserverade sig för detta tilläggsyrkande som avslogs av majoriteten.\n\nV och ÖrP reserverade sig för att Kommunstyrelsen skulle få i uppdrag att ta fram förslag på hur kommunen verkställer gynnande beslut inom rimlig tid.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 237",
+      "quote": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden är som beslutande nämnder skyldig att till Inspektionen för vård och omsorg (IVO) och Stadsrevisionen kvartalsvis rapportera de beslut om bistånd [...] som inte verkställts inom tre månader.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "omsorg",
+        "äldre",
+        "funktionsstöd",
+        "verkställning",
+        "väntetider"
+      ],
+      "id": "2024-09-25_ko_237"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Martha Wicklund (V) m.fl. om kommunen behöver ta övergripande ansvar för de förtroendevaldas trygghet",
+      "party": "V",
+      "status": "Remitterad till Kommunstyrelsen"
+    },
+    {
+      "title": "Carola Sunesson m.fl. om kravställande föräldrautbildning",
+      "party": "SD",
+      "status": "Remitterad till Kommunstyrelsen"
+    },
+    {
+      "title": "Habib Brini (SD) och Bo Ammer (SD) om transporter av farligt gods genom Örebro",
+      "party": "SD",
+      "status": "Remitterad till Kommunstyrelsen"
+    }
+  ],
+  "skipped_items_count": 18,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2024-09-25",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 10
+}

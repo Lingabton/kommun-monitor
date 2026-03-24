@@ -1,0 +1,307 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2024-09-17",
+  "summary_headline": "Almby-köp, seniorluncher och nya ekonomiregler beslutade",
+  "decisions": [
+    {
+      "headline": "Nya riktlinjer för god ekonomisk hushållning antagna",
+      "summary": "Kommunstyrelsen antar nya riktlinjer för ekonomisk styrning och inrättar en resultatreserv från 2024. Vänsterpartiet reserverade sig mot beslutet.",
+      "detail": "Kommunallagen kräver att kommuner har riktlinjer för god ekonomisk hushållning. Kommunstyrelsen beslutar att anta nya riktlinjer med principer för verksamhets- och ekonomistyrning som gäller från 1 november 2024. Samtidigt inrättas en resultatreserv i Örebro kommun från räkenskapsår 2024.\n\nDe tidigare riktlinjerna från 2020 och 2021 upphävs. Riktlinjerna reglerar hur kommunen hanterar resultatreserver och resultatutjämningsreserver samt hur långsiktig ekonomisk styrning ska utövas för att nå kommunens mål.\n\nMartha Wicklund (V) motsatte sig beslutet och yrkade på en ny riktlinje enligt Vänsterpartiets principer. Wicklund reserverade sig skriftligt mot beslutet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 149",
+      "quote": "Riktlinjen beskriver hanteringen av kommunens resultatreserv och resultatutjämningsreserv. Riktlinjen visar även hur verksamhets- och ekonomistyrningen ska utövas och bidra till att nå kommunens övergripande målsättningar.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "ekonomi",
+        "riktlinjer",
+        "resultatreserv"
+      ],
+      "id": "2024-09-17_ko_149"
+    },
+    {
+      "headline": "Kommunen förvärvar 41 hektar mark i Ekeby-Almby för 31,5 miljoner",
+      "summary": "Kommunstyrelsen godkänner köp av fastigheterna Almby 13:454, 13:384 och 13:372 för framtida exploatering av bostäder och bevarande av naturvärden.",
+      "detail": "Miljö- och stadsbyggnadsförvaltningen föreslog att Örebro kommun förvärvar tre fastigheter om cirka 41 hektar i Ekeby-Almby-området för en köpeskilling om 31 500 000 kronor. Köpet syftar till en sammanhållen framtida exploatering med bostäder, bevarade höga naturvärden och allmänna platser.\n\nBeslutet fattas av Kommunstyrelsen men måste sedan beslutas av Kommunfullmäktige eftersom köpeskillingen överstiger 25 miljoner kronor. Medel för förvärvet tas från Mark- och exploateringsnämndens budget.\n\nSusanne Lindholm Henningsson (KD) och Martha Wicklund (V) lämnjade särskilda yttranden. Henningsson noterade att medborgare i området förväntar sig ökad infrastruktur som cykelvägar, snöröjning och vägar när kommunen börjar bebygga marken.",
+      "category": "bygg",
+      "contested": false,
+      "location": "Ekeby-Almby, Örebro",
+      "paragraph_ref": "§ 152",
+      "quote": "Förvärvets syfte är en framtida sammanhållen exploatering av bostäder, bevara höga naturvärden och kunna ge möjlighet till allmänna platser i Ekeby-Almby.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "fastighetsköp",
+        "exploatering",
+        "bostäder",
+        "Ekeby-Almby"
+      ],
+      "id": "2024-09-17_ko_152"
+    },
+    {
+      "headline": "Pilotprojekt startar: seniorluncher vid fyra skolrestauranger",
+      "summary": "Kommunstyrelsen beslutar att starta pilotprojekt med seniorluncher vid fyra skolor från oktober 2024 för att motverka ensamhet bland äldre.",
+      "detail": "Kommunstyrelsen godkänner ett pilotprojekt för seniorluncher vid skolrestauranger från 14 oktober 2024 till slutet av vårterminen 2025. Projektet genomförs vid fyra skolor: Odenskolan, Vintrosa skola, Västra Engelbrektsskolan och Tullängsgymnasiet.\n\nSyftet är att motverka ofrivillig ensamhet hos äldre genom att erbjuda prisvärd och näringsrik mat samt möjlighet till social gemenskap över generationsgränserna. Projektet följer en ny riktlinje för seniorluncher som antas tillsammans med beslutet.\n\nJohn Johansson (S) föreslogs ändringar som accepterades för att klargöra att både rektorer och kökschefer ansvarar för verksamheten. Karolina Wallström (L) föreslog ändringar för att riktlinjerna ska gälla för alla skolrestauranger som säljer seniorluncher. Martha Wicklund (V) yrkade på att se över måltidsavgiften för att sänka den, men detta avslogs. Projektet ska utvärderas våren 2025.",
+      "category": "skola",
+      "contested": true,
+      "location": "Odenskolan, Vintrosa skola, Västra Engelbrektsskolan, Tullängsgymnasiet",
+      "paragraph_ref": "§ 153",
+      "quote": "Kommunen ska erbjuda möjligheten för seniorer att äta lunch vid skolor där Örebro kommun är huvudman i syfte att motverka ofrivillig ensamhet hos äldre.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "seniorluncher",
+        "skolrestauranger",
+        "ensamhet",
+        "äldre"
+      ],
+      "id": "2024-09-17_ko_153"
+    },
+    {
+      "headline": "Motion om kapell i Wadköping avslås - platsen behövs för andra aktiviteter",
+      "summary": "Kommunstyrelsen avslår Kristdemokraternas motion om att flytta ett kapell till Wadköping med hänvisning till att platsen är viktig för befintliga evenemang och verksamheter.",
+      "detail": "Kristdemokraterna motionerade för att utreda möjligheter att flytta ett kapell till Wadköping för att användas till bröllop, högtidsdagar, konserter och event. Kommunledningen avslår motionen.\n\nBedömningen är att tidigare beslut från 2018 fortfarande gäller. En stadsantikvarisk bedömning visade att en sådan byggnad inte passar in i Wadköpings karaktär. Dessutom är den fria ytan (Lars Bohms udde) viktig för olika aktiviteter som lekladan, midsommar, marknader, pedagogisk verksamhet och spontana besökare.\n\nSusanne Lindholm Henningsson (KD) reserverade sig mot beslutet med sitt eget bifallsyrkande.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Wadköping",
+      "paragraph_ref": "§ 161",
+      "quote": "Platsen värnas för verksamheten med lekladan och den öppna ytan är viktig för alla olika arrangemang till exempel midsommar, marknader, pedagogisk verksamhet och spontana besökare.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "KD"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "Wadköping",
+        "kapell",
+        "kultur"
+      ],
+      "id": "2024-09-17_ko_161"
+    },
+    {
+      "headline": "Motion om aktivitetspengen för funktionshindrade avslås",
+      "summary": "Kommunstyrelsen avslår Sverigedemokraternas motion om att återinföra aktivitetspengen inom daglig verksamhet för funktionshindrade.",
+      "detail": "Sverigedemokraterna motionerade för att återinföra 'aktivitetspengen' - en tidigare budgeterad post för trivselaktiviteter inom daglig verksamhet för personer med funktionsnedsättning. Postens togs bort 2020 som del av arbetet med ekonomi i balans.\n\nKommunledningen avslår motionen med hänvisningen att trivselaktiviteter fortfarande genomförs och att en satsning från 2018 om kultur- och fritidsaktiviteter fortsätter. Bedömningen är att återinförandet inte är en prioritet givet det ekonomiska läget och att det inte är en lagstadgad del av insatsen daglig verksamhet.\n\nHelena Ståhl (SD) och Karolina Wallström (L) yrkade bifall till motionen, men reserverade sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 162",
+      "quote": "Givet att satsningen från 2018, samt att trivselaktiviteter fortfarande genomförs är återinförandet av aktivitetspengen inte en prioritet givet det ekonomiska läget.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "L"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "funktionshinder",
+        "daglig verksamhet",
+        "budget",
+        "aktiviteter"
+      ],
+      "id": "2024-09-17_ko_162"
+    },
+    {
+      "headline": "Motion om parlamentarisk arbetsgrupp för delade turer avslås",
+      "summary": "Kommunstyrelsen avslår Vänsterpartiets motion om att tillsätta parlamentarisk arbetsgrupp för att ta bort delade turer inom äldreomsorgen.",
+      "detail": "Vänsterpartiet motionerade för att tillsätta en parlamentarisk arbetsgrupp som skulle komma med förslag på hur kommunen tar bort ofrivilliga delade turer inom äldreomsorgen. Motionen avslås.\n\nKommunledningen bedömer att det finns oklarheter kring mandatet för en sådan arbetsgrupp och föredrar att ett konstruktivt arbete fortsätter inom befintliga nämnder. Samtidigt konstaterar majoriteten att det är en viktig fråga att på längre sikt arbeta bort ofrivilliga delade turer.\n\nArbete pågår redan med att se över bemanning, schemaläggning och NOD-organisation för att minska vikariekostnader, övertid och få bort ofrivilliga delade turer. Kortsiktigt finns dock inte förutsättningar att säkerställa grundbemanningen utan ökade kostnader.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 163",
+      "quote": "Att arbeta bort de ofrivilliga delade turerna kräver en långsiktig plan som bygger på ett helhetsgrepp om hur kommunen arbetar med bemanning.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "äldreomsorg",
+        "arbetsmiljö",
+        "delade turer"
+      ],
+      "id": "2024-09-17_ko_163"
+    },
+    {
+      "headline": "Motion om solceller - två av tre förslag tillgodosedda",
+      "summary": "Kommunstyrelsen tillgodoser två delar av motionen om solcellsparker men avslår förslaget om abonnemang för privatpersoner.",
+      "detail": "Nadia Abdellah (V) m.fl. motionerade för tre solcellsåtgärder: att Kumbro utveckling ska ta fram plan för solcellspark, att kommunala bostadsbolag ska kartlägga lämpliga ytor och investera i solceller, samt att bolagen ska ta fram lösning för privatpersoner att abonnera på eller köpa in sig i solceller.\n\nDe två första förslagen bedöms tillgodosedda då bolagen redan har fått uppdrag och/eller möjligheter att uppföra solcellsanläggningar. Det tredje förslaget avslås då kommunledningen valt att arbeta på andra sätt för att öka produktionen av klimatsmart el.\n\nMartha Wicklund (V) yrkade bifall till hela motionen och reserverade sig mot beslutet.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 164",
+      "quote": "Det tredje förslaget föreslås avslås då kommunledningen har valt att arbeta på andra sätt för att öka produktionen av klimatsmart el i kommunen.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Delvis"
+      },
+      "tags": [
+        "solceller",
+        "klimat",
+        "förnybar energi"
+      ],
+      "id": "2024-09-17_ko_164"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Kapell i Wadköping",
+      "party": "KD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Trygghet för förtroendevalda i hot- och våldssituationer",
+      "party": "V",
+      "status": "Besvarat/Avslagen"
+    },
+    {
+      "title": "Barns lika rätt - deklaration om döva barns rättigheter",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Seniorluncher i skolmatsalar",
+      "party": "KD",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Seniorluncher i skolmatsalar",
+      "party": "V",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Aktivitetspengen för funktionshindrade",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Parlamentarisk arbetsgrupp för delade turer i äldreomsorgen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Solceller - parker och privat abonnemang",
+      "party": "V",
+      "status": "Delvis tillgodosedd"
+    },
+    {
+      "title": "Närkeslätt Örebro",
+      "party": "SD",
+      "status": "Remitterad till Teknik- och servicenämnden"
+    },
+    {
+      "title": "Farbar stad",
+      "party": "SD",
+      "status": "Remitterad till Teknik- och servicenämnden"
+    },
+    {
+      "title": "Beredskapsplan för kulturarvet",
+      "party": "SD",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Fler vuxna och mindre barngrupper i förskolan",
+      "party": "V",
+      "status": "Remitterad till Förskolenämnden"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2024-09-17",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 7
+}
