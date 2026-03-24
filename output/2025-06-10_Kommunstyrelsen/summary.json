@@ -1,0 +1,401 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2025-06-10",
+  "summary_headline": "Budget 2026, sparåtgärder och sociala tjänster debatteras",
+  "decisions": [
+    {
+      "headline": "Delårsrapport 1 fastställd - positiv avvikelse 16,2 mnkr",
+      "summary": "Kommunstyrelsen fastställde delårsrapporten för första halvåret 2025. Kommunledningsförvaltningen redovisar positiv avvikelse om 16,2 mnkr och bedömer att strategiska mål är på rätt väg.",
+      "detail": "Kommunledningsförvaltningen presenterade delårsrapport för första hälften av 2025 där kommunstyrelsens verksamhet bedömdes vara i fas med strategiska mål och uppdrag. Rapporten visade på en positiv budgetavvikelse om 16,2 mnkr.\n\nMarkus Allard (ÖrP) yrkade avslag på rapporten, men detta avslogs. Wallström (L), Henningsson (KD) och Rehn Janowicz (V) deltog inte i beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 126",
+      "quote": "Kommunstyrelsens egen verksamhet bedöms vara i fas med de strategiska mål och uppdrag som finns.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "V",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "kommunstyrelsen",
+        "prognos",
+        "ekonomi"
+      ],
+      "id": "2025-06-10_ko_126"
+    },
+    {
+      "headline": "Kommun prognostiserar 83 mnkr resultat - 330 mnkr underskott i nämnder",
+      "summary": "Delårsrapporten för hela kommunen visar resultat -153,5 mnkr efter fyra månader och helårsprognos 83 mnkr, men nämnder prognostiserar samlad negativ avvikelse på -330 mnkr. Två av fyra finansiella mål beräknas uppnås.",
+      "detail": "Kommunledningsförvaltningen presenterade delårsrapport för Örebro kommun där resultat efter första fyra månader visar utfall på -153,5 mnkr. Helårsprognos för 2025 visar resultat 83 mnkr mot budgeterat 467 mnkr, vilket utgör budgetavvikelse på -384 mnkr.\n\nPrognosen för kommunens nämnders löpande verksamhet prognostiserar samlad negativ budgetavvikelse på -330 mnkr. Investeringsbudgeten prognostiseras uppgå till 1 193 mnkr (336 mnkr under budget). Endast två av fyra finansiella mål beräknas uppnås.\n\nSusanne Lindholm Henningsson (KD) yrka på att nämnder som inte konkretiserat åtgärder ska återkomma till Kommunstyrelsen. Detta tilläggsyrkande bifölls och införlivades i beslutet. Markus Allard (ÖrP) yrkade avslag.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 127",
+      "quote": "Prognosen för kommunens investeringar uppgår till 1 193 mnkr vilket är 336 mnkr lägre än budget.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "ekonomi",
+        "nämnder",
+        "underskott",
+        "sparåtgärder"
+      ],
+      "id": "2025-06-10_ko_127"
+    },
+    {
+      "headline": "Budget 2026: Skattesats oförändrad 21,35 kronor, 82 mnkr sparning krävd",
+      "summary": "Kommunstyrelsen antog budget för 2026 med samma skattesats som 2025 (21,35 kr/skattekrona). Effektiviseringskrav på 82 mnkr lagts på Kommunstyrelsen. Investeringsbudget 2026 på 1 377 mnkr beslutad.",
+      "detail": "Kommunledningsförvaltningen presenterade proposerat budget \"Gemensamt ansvar för framtidens Örebro\" inför 2026. Skattesatsen för allmän kommunalskatt fastställdes till 21,35 per skattekrona, samma nivå som 2025.\n\nKommunstyrelsen får uppdrag att ta fram riktat effektiviseringsuppdrag om 82 mnkr för 2026 och arbeta vidare med effektiviseringsförslag för 2027-2029. Låneramar fastställdes: kommunkoncernen 23,8 miljarder kronor, Örebro kommun 22,0 miljarder kronor för perioden 2026-2029.\n\nInvesteringsprojektet Södra infarten kategoriserades som större investering och undantogs från finansiella mål. Flera oppositionspartier lämnade egna budgetförslag. Vänsterpartiet (V) yrka på återremiss av beslutspunkt 8 för att ge kommundirektören sparuppdrag. Liberalerna (L), Sverigedemokraterna (SD), Kristdemokraterna (KD) och Väl presenterade alternativa budgetar.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 131",
+      "quote": "Kommunstyrelsen får i uppdrag att ta fram ett riktat effektiviseringsuppdrag om 82 mnkr för 2026 samt arbeta vidare med förslag till effektiviseringar för år 2027-2029.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "2026",
+        "skattesats",
+        "sparningar",
+        "investeringar",
+        "Södra infarten"
+      ],
+      "id": "2025-06-10_ko_131"
+    },
+    {
+      "headline": "Tilläggsanslag 39,2 mnkr för hyror och investeringsobjekt beviljat",
+      "summary": "Kommunstyrelsen beviljade tilläggsanslag på totalt 39,2 mnkr för indexuppräkning av hyror och färdigställda investerings- och lokalförsörjningsobjekt.",
+      "detail": "Kommunledningsförvaltningen föreslög tilläggsanslag och ombudgeteringar för kostnadsökningar och oförutsedda kostnader för 2025. Tilläggsanslag på 39 246 tkr beviljades för bland annat kompensation för årlig indexuppräkning av hyror samt färdigställda investerings- och lokalförsörjningsobjekt.\n\nOmbudgetering mellan nämnder genomfördes enligt förslaget för att hantera organisationsförändringar. Helena Ståhl (SD) yrkade avslag och ville lämna anteckning om bristande information. Markus Allard (ÖrP) yrkade också avslag.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 129",
+      "quote": "Tilläggsanslag beviljas med totalt 39 246 tkr enligt Kommunledningsförvaltningens förslag.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "L"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "hyror",
+        "investeringar",
+        "kostnadsökningar"
+      ],
+      "id": "2025-06-10_ko_129"
+    },
+    {
+      "headline": "Investeringsprogram 2025 reviderat till 1 377 mnkr",
+      "summary": "Kommunstyrelsen fastställde reviderat investeringsprogram för 2025 på totalt 1 377 mnkr (781 mnkr skattefinansierat, 596 mnkr taxefinansierat).",
+      "detail": "Kommunledningsförvaltningen presenterade reviderat investeringsprogram för 2025 med totala investeringsutgifter på 1 377 mnkr. Skattefinansierade investeringar uppgår till 781 mnkr och taxefinansierade till 596 mnkr. Driftkostnadskonsekvenser från lokalförsörjningsplanen beräknades till 55 mnkr för 2025 (minskning om 2 mnkr från tidigare beslut om ÖSB 2025).\n\nFlera oppositionspartier yrkade avslag enligt sina budgetförslag. Susanne Lindholm Henningsson (KD) yrka att medel för investeringsplanen förvaltades för bästa möjlig avkastning, men detta avslogs.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 130",
+      "quote": "Kommunens totala investeringsutgifter 2025 uppgår till 1 377 mnkr.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "budget",
+        "2025",
+        "lokalförsörjning"
+      ],
+      "id": "2025-06-10_ko_130"
+    },
+    {
+      "headline": "Seniorluncher vid skolor fortsätter till mars 2026, fler skolor kan delta",
+      "summary": "Pilotprojektet med seniorluncher vid skolrestauranger förlängs till 31 mars 2026 och möjlighet öppnas för fler grundskolor och gymnasieskolor att delta.",
+      "detail": "Kommunstyrelsen följde upp pilotprojektet \"Seniorluncher vid skolrestauranger\" som startade 2024 och pågick till slutet av vårterminen 2025 på fem skolor. Uppföljningen visade positiva resultat: såväl seniorer, elever och personal uppskattat initiativet. Seniorerna har deltagit i sociala sammanhang och flera blivit återkommande gäster.\n\nProjektet förlängs till 31 mars 2026 och öppnas för fler grundskolor och gymnasieskolor. Susanne Lindholm Henningsson (KD) yrka på att förvaltningen tillsammans med näringslivsavdelningen ordnar dialogmöten, att information sprids aktivt via pensionärsråd och pensionärsorganisationer, samt att skolor på landsbygden särskilt uppmuntras. Detta avslogs.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 134",
+      "quote": "Uppföljningen visar bland annat att såväl seniorer, elever och personal har uppskattat seniorluncher vid skolrestauranger.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "seniorluncher",
+        "skolor",
+        "sociala aktiviteter",
+        "pilotprojekt"
+      ],
+      "id": "2025-06-10_ko_134"
+    },
+    {
+      "headline": "Markområden till Peab och Epiroc för bostäder och industri",
+      "summary": "Kommunstyrelsen godkände tre reservationsavtal för markområden: Peab Bostad AB för Hovsta-fastigheter (15 mnkr), Epiroc för test-/kompetenscenter (75 mnkr) och distributionscenter (40 mnkr).",
+      "detail": "Kommunstyrelsen godkände tre reservationsavtal för försäljning av kommunal mark:\n\n1. Peab Bostad AB får fastigheterna Kumla 1:71, 1:92 och 2:36 i Hovsta för ny bebyggelse. Köpeskilling cirka 15 mnkr.\n\n2. Epiroc Rock Drills AB får del av fastigheten Kränglan 3:1 för test- och kompetenscenter. Köpeskilling cirka 75 mnkr. Reservationsavtalet förlängs.\n\n3. Epiroc Rock Drills AB får fastigheten del av Ånsta 20:209 för distributionscenter. Köpeskilling cirka 40 mnkr.\n\nMarkus Allard (ÖrP) yrkade avslag på alla tre ärendena. Vid behandlingen av Ånsta-fastigheten korrigerades ett skrivfel i beslutsförslaget.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Hovsta, Kränglan, Ånsta",
+      "paragraph_ref": "§ 141, 142, 143",
+      "quote": "Föreliggande reservationsavtal för fastigheterna Kumla 1:71, 1:92 och 2:36 godkänns.",
+      "quote_page": "s. 20-23",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "mark",
+        "försäljning",
+        "Peab",
+        "Epiroc",
+        "Hovsta",
+        "industri",
+        "bostäder"
+      ],
+      "id": "2025-06-10_ko_141_142_143"
+    },
+    {
+      "headline": "Svar på remiss: Regeringens vandelsregler avges utan klara ställningstaganden",
+      "summary": "Kommunstyrelsen antog svar på remiss från Justitiedepartementet om skärpta vandelsregler för uppehållstillstånd utan att tydligt avvisa förslagen.",
+      "detail": "Kommunstyrelsen skulle svara på Justitiedepartementets remiss om betänkande \"Skärpta och tydligare krav på vandel för uppehållstillstånd\" (SOU 2025:33). Utredningen föreslår att Migrationsverket får tillgång till information från kommuner.\n\nKommunledningsförvaltningens förslag antogs, där Kommunstyrelsen accepterade att lämna ett yttrande utan att tydligt avvisa förslagen. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade avslag på förslaget. Cristian Rehn Janowicz (V) yrka att yttrandet tydligt avstyrka lagändringen. Dessa yrkanden avslogs.\n\nWallström (L) och Henningsson (KD) deltog inte i beslutet.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 137",
+      "quote": "Justitiedepartementet har inbjudit Örebro kommun att lämna yttrande över betänkande Skärpta och tydligare krav på vandel för uppehållstillstånd.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "remiss",
+        "vandel",
+        "uppehållstillstånd",
+        "migrationsverket",
+        "rättssäkerhet"
+      ],
+      "id": "2025-06-10_ko_137"
+    },
+    {
+      "headline": "Ej verkställda sociala beslut fortsatt stort problem - köer växer",
+      "summary": "Rapport visar allvarlig backlog av ej verkställda SoL- och LSS-beslut. Socialnämnden: 35 ej verkställda, Funktionsstöd: 64 ej verkställda, Vård och omsorg: 23 ej verkställda.",
+      "detail": "Kommunstyrelsen tog del av statistik över ej verkställda sociala beslut för kvartal 4 2024:\n\n- Socialnämnd: 47 nya beslut ej verkställda, varav 35 fortsatt ej verkställda vid kvartalets slut\n- Funktionsstödsnämnd: 117 rapporterade beslut (ned från 149 kv 3), varav 64 fortsatt ej verkställda inom tre månader\n- Vård- och omsorgsnämnd: 54 rapporterade beslut (upp från 42 kv 3), varav 23 fortsatt ej verkställda\n\nHelena Ståhl (SD) yrkade skarpt krav på förvaltningarna om att säkerställa att IVO-avgift inte riskeras, samt återrapportering om förutsättningar och åtgärder. Cristian Rehn Janowicz (V) yrkade att Kommunledningsförvaltningen tar fram förslag på hur gynnande beslut kan verkställas inom rimlig tid. Båda yrkandena avslogs.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 144",
+      "quote": "För det fjärde kvartalet 2024 blev Socialnämndens totala antal rapporterade ej verkställda beslut 47.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "socialtjänst",
+        "LSS",
+        "SoL",
+        "köer",
+        "verkställning",
+        "funktionsstöd"
+      ],
+      "id": "2025-06-10_ko_144"
+    },
+    {
+      "headline": "Motion om förbjudna böcker på bibliotek avslås",
+      "summary": "Kommunstyrelsen avslog motion från Lea Strandberg (MP) om att Örebro stadsbibliotek synliggör möjligheten att låna förbjudna böcker via fjärrlån.",
+      "detail": "Miljöpartiet (MP) hade lämnat motion föreslående att Örebro stadsbibliotek informerar om möjligheten att fjärrlåna böcker som är förbjudna i andra länder. Kommunledningen konstaterade att yttrandefrihet och fri litteraturtillgång är fundamentalt för demokrati, men att bibliotek själva bör avgöra informationsstrategier utan politiska påbud.\n\nKultur- och fritidsnämnden föreslög avslag på motionen. Cristian Rehn Janowicz (V) yrkade bifall till motionen, men detta avslogs.",
+      "category": "kultur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 145",
+      "quote": "Kommunledningen delar uppfattningen om att yttrandefrihet och fri tillgång till litteratur är grundläggande för en levande demokrati.",
+      "quote_page": "s. 27",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "bibliotek",
+        "yttrandefrihet",
+        "litteratur",
+        "censur",
+        "motion"
+      ],
+      "id": "2025-06-10_ko_145"
+    },
+    {
+      "headline": "NOD-projektrapport: Administrativ lokalisering slutförd med kostnadsöverslitningar",
+      "summary": "Slutrapport för NOD-projektet (administrativa lokaler) läggs till handlingarna. Projektet är genomfört men väckte kritik för kostnadskontroll och arbetsmiljökonsekvenser.",
+      "detail": "Kommunstyrelsen avslutade formellt NOD-projektet som initierades 2019 för att samla administrativa lokaler i moderna noder. Inflyttningen till Åbylunden 1 är genomförd och inga andra delar är aktiva.\n\nCristian Rehn Janowicz (V) lämnade särskilt yttrande kritiserande projektet för rusande kostnader, dålig styrning, bristfällig planering och bristande budgetkontroll. V påtalade att konsekvensanalyser för medarbetare inte genomförts ordentligt, att arbetsmiljöpåverkan inte utvärderats, och att coronapandemins effekter på öppna kontorslandskap inte beaktades tillräckligt.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Åbylunden",
+      "paragraph_ref": "§ 133",
+      "quote": "Nod-projektet initierades 2019 för att samla administrativa lokaler i ett fåtal moderna noder.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "NOD-projekt",
+        "lokaler",
+        "administrativa",
+        "arbetsmiljö",
+        "Åbylunden"
+      ],
+      "id": "2025-06-10_ko_133"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Helena Ståhl (SD) - Egenskapade raster för bön på arbetstid ska upphöra",
+      "party": "SD",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Fredrik Persson (MP) - Prioritera busstrafiken i Örebro",
+      "party": "MP",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+    },
+    {
+      "title": "Carola Sunesson (SD) m.fl. - Garanti mot hederskultur i förskola och skola",
+      "party": "SD",
+      "status": "Remitterad till Förskolenämnden och Grundskolenämnden"
+    },
+    {
+      "title": "Carola Sunesson (SD) - AI-språktolk för kostnadsbesparingar",
+      "party": "SD",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Carola Sunesson (SD) och Habib Brini (SD) - Förenklingar för näringslivet",
+      "party": "SD",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Habib Brini (SD) m.fl. - Utveckla fritidslivet vid Alnängarna",
+      "party": "SD",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+    },
+    {
+      "title": "Susanne Lindholm Henningsson (KD) - Seniorer som volontärer i skolan",
+      "party": "KD",
+      "status": "Remitterad till Grundskolenämnden"
+    },
+    {
+      "title": "Lea Strandberg (MP) - Förbjudna böcker på bibliotek",
+      "party": "MP",
+      "status": "Avslagen"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2025-06-10",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 11
+}

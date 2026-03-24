@@ -1,0 +1,403 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-04-23",
+  "summary_headline": "Årsredovisning godkänd, flera motioner bordlagda",
+  "decisions": [
+    {
+      "headline": "Årsredovisning 2024 godkänd, 645 mnkr resultat",
+      "summary": "Kommunfullmäktige godkände årsredovisningen för 2024 med ett kommunkoncernresultat på 645 miljoner kronor. Balanskravet och de flesta finansiella mål uppnåddes.",
+      "detail": "Kommunkoncernen gör ett resultat på 645 miljoner kronor, varav kommunens egen resultat uppgår till 530 miljoner kronor - 203 miljoner kronor högre än budgeterat. Positiv börsutveckling 2024 påverkade kapitalförvaltningen positivt, liksom bättre än budgeterade statsbidrag. Kommunens investeringar uppgick till 948 miljoner kronor, vilket är 529 miljoner lägre än budgeterat.\n\nAv 19 verksamhetsmål uppnåddes 13. Sex av åtta mål av betydelse för god ekonomisk hushållning uppnåddes. Kommunfullmäktige konstaterade att Örebro kommun uppfyller målen för god ekonomisk hushållning och har stabil ekonomi trots osäkert världsläge.\n\nJusteringar gjordes för intraprenadernas ackumulerade resultat från 36,7 miljoner kronor till 38,5 miljoner kronor för året 2024. Beslut fattades också om att reservera 203 miljoner kronor inom eget kapital för resultatreserven.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 109",
+      "quote": "Den sammantagna bedömningen baserad på Kommunfullmäktiges verksamhetsmål och finansiella mål är att Örebro kommun uppfyller målen av betydelse för god ekonomisk hushållning.",
+      "quote_page": "s. 15-16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "ekonomi",
+        "budget",
+        "årsredovisning",
+        "resultat"
+      ],
+      "id": "2025-04-23_ko_109"
+    },
+    {
+      "headline": "Årsredovisning Örebro Rådhus AB godkänd, 32,6 mnkr resultat",
+      "summary": "Kommunfullmäktige godkände årsredovisningen för Örebro Rådhus AB och dess dotterbolag med ett resultat på 32,6 miljoner kronor efter skatt.",
+      "detail": "Örebro Rådhus AB ägs till 100 procent av Örebro kommun och äger samtliga aktier i ÖrebroBostäder AB, Örebroporten Fastigheter AB, Futurum Fastigheter i Örebro AB, Örebrokompaniet AB och Örebro Parkering AB. Bolaget äger också ägarandelar i flera andra bolag som Länsmusiken, Vätternvatten och Örebro Läns Flygplats.\n\nResultatet för Örebro Rådhus AB var 32,6 miljoner kronor efter skatt, medan hela Örebro Rådhuskoncernen redovisade 157 miljoner kronor efter skatt (137 miljoner 2023). Ingen utdelning från Örebro Rådhus föreslogs till kommunen.\n\nKommunstyrelsens presidium instruerade kommunens stämmoombud att vid årsstämmorna rösta för resultaträkningars godkännande, disponering av vinster/förluster, beviljande av ansvarsfrihet för styrelseledamöter och direktörer, samt arvoden enligt kommunens bestämmelser.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 110",
+      "quote": "Resultatet för Örebro Rådhus AB är 32,6 mnkr efter skatt. Ingen utdelning från Örebro Rådhus föreslås till Örebro kommun.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Örebro Rådhus",
+        "bolag",
+        "ekonomi",
+        "resultat"
+      ],
+      "id": "2025-04-23_ko_110"
+    },
+    {
+      "headline": "Motion om minskade klassdelningar i grundskolan avslogs",
+      "summary": "Kommunfullmäktige avslogs motionen från Mats-Olof Liljegren (L) om att införa nya delningstal för skolklasser med maximal 20-30 elever beroende på årskurs.",
+      "detail": "Liberalen Mats-Olof Liljegren föreslog att Kommunfullmäktige skulle ge förvaltningen uppgift att utreda införande av nya delningstal: max 20 elever per klass från förskoleklass, max 25 från årskurs 4, och max 30 från årskurs 7.\n\nFörskole- och grundskoleförvaltningen rekommenderade avslag med motiveringen att de idag har en funktionell process som ger flexibilitet för rektorer att anpassa organisationen efter elevers behov, lokaler och möjlighet att säkra behöriga lärare - allt inom budgetramen.\n\nMotionen avslogs i votering. Liberalerna, Miljöpartiet, Vänsterpartiet, Sverigedemokraterna och KD reserverade sig mot beslutet och förespråkade bifallande av motionen.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 108",
+      "quote": "Förskole- och grundskoleförvaltningen föreslår att motionen avslås eftersom bedömningen är att förvaltningen idag har en funktionell och bra process som ger förvaltningen och rektorer möjlighet att vara flexibla och anpassa skolans organisation och resurser efter elevers behov.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "L",
+          "V",
+          "MP",
+          "SD",
+          "KD"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "skola",
+        "klassdelning",
+        "elever",
+        "utbildning"
+      ],
+      "id": "2025-04-23_ko_108"
+    },
+    {
+      "headline": "Motion om konsultkostnadsnedskärning avslogs trots reservationer",
+      "summary": "Kommunfullmäktige avslogs Martha Wicklunds (V) motion om att halvera kostnaderna för köp av konsulttjänster.",
+      "detail": "Vänsterpartiet genom Martha Wicklund och flera partikollegor föreslog att Kommunfullmäktige skulle ge kommundirektören uppdrag att halvera kostnaderna för konsulttjänster.\n\nKommunledningsförvaltningen bedömde att motionen skulle avslås. Argumentationen var att kommunen arbetade systematiskt och strategiskt med kompetensförsörjning, och att när konsulttjänster avropas är det nödvändigt utifrån verksamhetens behov av kompetens.\n\nCommunisternas förslag avslogs. Vänsterpartiet och Sverigedemokraterna reserverade sig starkt mot beslutet. SD-ledamöterna David Larsson, Habib Brini, Bjarne Bäckström, Carola Sunesson, Daniel Spiik och övriga SD-medlemmar reserverade sig, liksom V:s Martha Wicklund och flera andra vänstersidekamrater.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 102",
+      "quote": "Kommunen ska bemanna med kompetens utifrån verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning, vilket bedöms bidra till att minimera kommunens behov av att avropa konsulttjänster.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "MP"
+        ],
+        "against": [
+          "V",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "konsulter",
+        "kostnader",
+        "budget",
+        "effektivitet"
+      ],
+      "id": "2025-04-23_ko_102"
+    },
+    {
+      "headline": "Motion om suicidpreventionsplan bordlades utan slutgiltigt beslut",
+      "summary": "Kommunfullmäktige bordlade svaret på Liberalernas motion om att uppretta en handlingsplan för suicidprevention.",
+      "detail": "Johanna Reimfelt och Karolina Wallström från Liberalerna motionerade för att Örebro kommun skulle upprätta en handlingsplan för suicidprevention inkluderande förebyggande arbete.\n\nKommunledningen (S, M, C) svarade att det är viktigt med aktivt arbete mot psykisk ohälsa för att förhindra suicid. De bedömde dock att en handlingsplan eller specifika riktlinjer riskerar att bli för smala. Enligt kommunen arbetar man redan idag med bredt psykisk hälsoarbete och suicidprevention genom tre utbildningsinsatser: \"Första hjälpen till psykisk hälsa\", \"Suicidnära samtal\" och elevhälsans utbildningar för skolsköterskor.\n\nKommunledningen väntade på en kommande nationell strategi för psykisk hälsa och suicidprevention från Folkhälsomyndigheten, Socialstyrelsen och andra myndigheter innan man fastställde lokala riktlinjer.\n\nMobiliteten reserverade sig för bifallande av motionen, liksom SD och V-ledamöter. Ärendet bordlades utan slutgiltigt beslut.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 100",
+      "quote": "Idag arbetar Örebro kommun utifrån att psykisk ohälsa och det suicidpreventiva arbetet hör ihop, då detta ger arbetet en bredd än om man separerar och arbetar med områdena var för sig.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "L",
+          "V",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "psykisk hälsa",
+        "suicid",
+        "prevention",
+        "välfärd"
+      ],
+      "id": "2025-04-23_ko_100"
+    },
+    {
+      "headline": "Motion om lönekostnad för anställda bordlades utan avslut",
+      "summary": "Kommunfullmäktige bordlade Sverigedemokraternas motion om att visa hela lönekostnaden inklusive arbetsgivaravgift i lönebeskeden.",
+      "detail": "Helena Ståhl från Sverigedemokraterna motionerade för att Örebro kommun ska redovisa hela lönekostnaden inklusive arbetsgivaravgift i lönespecifikationerna till anställda.\n\nKommunledningen rekommenderade avslag med motiveringen att kommunen inte bör föregå en pågående utredning från regeringen i denna fråga. Det kan finnas lärdomar att dra från eventuella juridiska aspekter och praktiska genomförande. Kommunen bedömde också att det finns värde i att lönespecifikationerna enkelt och tydligt visar den utbetalda lönen.\n\nSD-ledamöterna David Larsson och Markus Allard från ÖrP reserverade sig för bifallande av motionen. Ärendet bordlades utan att slutgiltigt beslut fattades.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 101",
+      "quote": "Bedömningen är att motionen ska avslås eftersom Örebro kommun inte bör föregripa den utredning i frågan som påbörjats av regeringen.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "lön",
+        "lönespecifikation",
+        "transparens",
+        "personal"
+      ],
+      "id": "2025-04-23_ko_101"
+    },
+    {
+      "headline": "Flera motioner om välfärd, förskola och skola bordlagda",
+      "summary": "Många motioner avslogs eller bordlades angående välfärd, förskolegrupper, och skolresurser utan slutgiltiga beslut.",
+      "detail": "Kommunfullmäktige bordlade flera motioner utan att fatta slutgiltiga beslut under mötet. Bland dessa var Martha Wicklunds motion om mindre barngrupper i förskolan (med förslag om max 6-12 barn för 1-3 åringar och max 4 barn per pedagog), som kommunledningen rekommenderade avslag för.\n\nMotion från Örebropartiet om att stänga förskolan Igelkotten bordlades. Kommunledningen hade bedömt motionen som tillgodosedd, men ärendet skjöts upp.\n\nMartha Wicklunds motion om välfärd i kommunal regi (avslutande LoV och avslutande av vinstdrivna entreprenader) bordlades. Kommunledningen ville behålla LoV enligt överenskommelse mellan S, M och C.\n\nMotioner om att förstärka skolan (läxfri skola, avgiftsfri mat/utrustning, socialt förebyggande arbete) bordlades likaså.\n\nOrdföranden fann att resterande ärenden skulle bordläggas efter votering (49 ja-röster, 16 nej-röster). SD och flera oppositionspartier ville fortsätta med ärendena samma dag.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 117-126",
+      "quote": "Ordförande Jan Zetterqvist finner att Kommunfullmäktige, med resultatet 49 ja-röster och 16 nej-röster, beslutar att resterande ärenden bordläggs.",
+      "quote_page": "s. 27",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "välfärd",
+        "förskola",
+        "skola",
+        "barngrupper",
+        "resurser"
+      ],
+      "id": "2025-04-23_ko_117-126"
+    },
+    {
+      "headline": "Örebro läns trädgårdsaktiebolag årsredovisning godkänd",
+      "summary": "Årsredovisningen för Örebro läns trädgårdsaktiebolag 2024 godkändes med ett resultat på 100 025 kronor.",
+      "detail": "Bolaget, som ägs av Örebro kommun till 74 procent, har till uppgift att förvärva, äga och underhålla konstverk i Stadsparken, Skytteparken och Stora Holmen. Under 2024 invigdes ett nytt konstverk, Fågelhamn, i Skytteparken. Arbete pågick också med att återställa ett konstverk till dess tidigare placering i Stadsparken.\n\nBolagets resultat för 2024 uppgick till 100 025 kronor (90 003 kronor 2023). Bolaget innehar anläggningstillgångar i form av konstverk och installationer till ett värde av cirka 2,6 miljoner kronor och har inga anställda.\n\nÖrebropartiet reserverade sig och förespråkade en avveckling av bolaget, men detta avslogs.",
+      "category": "kultur",
+      "contested": false,
+      "location": "Stadsparken, Skytteparken, Stora Holmen",
+      "paragraph_ref": "§ 111",
+      "quote": "Bolagets resultat för 2024 uppgår till 100 025 kr. Under året invigdes ett nytt konstverk, Fågelhamn, i Skytteparken.",
+      "quote_page": "s. 20-21",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "konst",
+        "kultur",
+        "bolag",
+        "ekonomi"
+      ],
+      "id": "2025-04-23_ko_111"
+    },
+    {
+      "headline": "Sex nya motioner inkomna och remitterade till Kommunstyrelsen",
+      "summary": "Sex nya motioner anmäldes och remitterades för beredning: om livsmedel i kris, kollektivtrafik, studie- och yrkesvägledning, konkurrensöversyn, nyttoparkeringstillstånd och näringslivssäkring.",
+      "detail": "Följande motioner anmäldes och remitterades till Kommunstyrelsen för beredning:\n\n1. Lea Strandberg (MP): säkra kommunens tillgång till livsmedel under krig och kris (Ks 943/2025)\n2. Fredrik Persson (MP): underlätta för kollektivtrafiken vid resecentrum (Ks 944/2025)\n3. Helena Ståhl (SD): införa garantin om studie- och yrkesvägledning (Ks 945/2025)\n4. Carola Sunesson och Bo Ammer (SD): konkurrensöversyn av kommunal verksamhet (Ks 946/2025)\n5. Helena Ståhl och Carola Sunesson (SD): införa nyttoparkeringstillstånd för näringsidkare (Ks 947/2025)\n6. Susanne Lindholm Henningsson (KD): näringslivssäkra de kommunala besluten (Ks 948/2025)",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 106",
+      "quote": "Motionerna remitteras till Kommunstyrelsen.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "MP",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "motioner",
+        "beredskning",
+        "infrastruktur",
+        "näringsliv",
+        "parkering"
+      ],
+      "id": "2025-04-23_ko_106"
+    },
+    {
+      "headline": "Fem interpellationer anmälda för kommande sammanträde",
+      "summary": "Fem interpellationer anmäldes för behandling på kommande Kommunfullmäktige-sammanträde från SD och V.",
+      "detail": "Följande interpellationer anmäldes för behandling på kommande sammanträde:\n\n1. Helena Ståhl (SD) till Christopher Hedbom Rydaeus (M): hur säkerställs effektiv svenskinlärning (Ks 953/2025)\n2. David Larsson (SD) till John Johansson (S): att politiker ska veta vad de beslutar om (Ks 954/2025)\n3. Lena Lindén (SD) till Jessica Ekerbring (S): tomma hyror kostar mest (Ks 955/2025)\n4. Sunil Jayasooriya (V) till John Johansson (S): bättre sent än aldrig - personal och julgåva (Ks 956/2025)\n5. Sunil Jayasooriya (V) till Mattias Ottosson (S): hur hälsosamma är hälsoscheman (Ks 957/2025)",
+      "category": "politik",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 107",
+      "quote": "Interpellationerna får ställas.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "MP",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "interpellationer",
+        "politik",
+        "debatt"
+      ],
+      "id": "2025-04-23_ko_107"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Handlingsplan för suicidprevention",
+      "party": "L",
+      "status": "Aterremiss"
+    },
+    {
+      "title": "Halvera konsulttjänstkostnader",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Nya delningstal för skolklasser (max 20-30 elever)",
+      "party": "L",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Mindre barngrupper i förskolan",
+      "party": "V",
+      "status": "Aterremiss"
+    },
+    {
+      "title": "Välfärd i kommunal regi, avsluta LoV",
+      "party": "V",
+      "status": "Aterremiss"
+    },
+    {
+      "title": "Förstärka skolan - läxfri, avgiftsfri mat",
+      "party": "V",
+      "status": "Aterremiss"
+    },
+    {
+      "title": "Lönekostnad inklusive arbetsgivaravgift",
+      "party": "SD",
+      "status": "Aterremiss"
+    },
+    {
+      "title": "Stänga förskolan Igelkotten",
+      "party": "ÖrP",
+      "status": "Aterremiss"
+    },
+    {
+      "title": "Upprättelse för konsten - medborgarinflytande",
+      "party": "SD",
+      "status": "Aterremiss"
+    },
+    {
+      "title": "Fossil reklam på allmän plats",
+      "party": "MP",
+      "status": "Aterremiss"
+    }
+  ],
+  "skipped_items_count": 9,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2025-04-23",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 10
+}
