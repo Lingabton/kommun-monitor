@@ -1,0 +1,451 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-01-29",
+  "summary_headline": "Vätternvatten-borgen och styrelsedokument reviderade",
+  "decisions": [
+    {
+      "headline": "Vätternvatten AB: 536 miljoner kronor borgen för vattenledning",
+      "summary": "Kommunfullmäktige godkänner tilläggsavtal för Vätternvatten AB och går i borgen för maximalt 536,6 miljoner kronor för projektet Fas 1. Kostnaden har ökat med 315 miljoner kronor sedan 2021.",
+      "detail": "Vätternvatten AB har uppdaterat kostnadsbedömningen för Fas 1 av vattenledningsprojektet. Utgifterna beräknas nu till ca 650 miljoner kronor, en ökning med 315 miljoner kronor från tidigare budget från 2021. Huvudsakliga kostnadsökningar beror på förändrad tidplan, ökat kostnadsindex, kunskap om befintliga förhållanden samt val av reservvattenlösning.\n\nKommunfullmäktige beslutar att Örebro Rådhus AB får i uppdrag att ingå tilläggsavtal enligt förslag, att kommunen ingår borgen för låneförpliktelser upp till 536,6 miljoner kronor jämte ränta och kostnader, samt att ramen för kommunkoncernens samlade externa låneskuld fastställs till 23 700 miljoner kronor för perioden 2025–2028.\n\nÖrebro Rädhus AB är gemensam ägare av Vätternvatten tillsammans med Region Örebro läns förvaltning AB, Karlstad, Region Värmland, Västerås och Region Västmanland. Beslutet är omstritt, där Örebro Piraterna reserverade sig mot beslutet i sin helhet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 14",
+      "quote": "Den uppdaterade budgeten innebär att aktieägaravtalet behöver uppdateras genom ett tilläggsavtal samt att nya borgensbeslut fattas.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Vätternvatten",
+        "vattenledning",
+        "borgen",
+        "budget"
+      ],
+      "id": "2025-01-29_ko_14"
+    },
+    {
+      "headline": "Oslo-Stockholm 255 AB: Styrdokument uppdateras",
+      "summary": "Bolagsordning, ägardirektiv och aktieägaravtal för Oslo-Stockholm 255 AB revideras. SD och ÖrP reserverar sig mot delar av beslutet.",
+      "detail": "Oslo-Stockholm 255 AB ägs gemensamt av Örebro Rådhus AB, Region Örebro läns förvaltning AB, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland. Bolaget bildades 2007 och ägarkretsen utökades 2018, men styrdokumenten har inte reviderats sedan dess.\n\nKommunfullmäktige godkänner föreslagna ändringar i bolagsordningen och ägardirektivet för att uppdatera dem enligt revisorernas synpunkter och hur bolaget praktiskt strukturerat sitt arbetssätt. En omstridd förändring i ägardirektivet handlar om förskjutning av beslut kring verksamhetsmål och budget från bolagsstämman till styrelsen, vilket SD opponerade mot.\n\nÖrebro Rådhus AB får i uppdrag att ingå nytt aktieägaravtal med de övriga aktieägarna. Besluten är omstridda med reservationer från SD och ÖrP.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 15",
+      "quote": "Det finns behov av att uppdatera styrdokumenten dels till följd av synpunkter från revisorerna dels utifrån hur bolaget i praktiken kommit att strukturera sitt arbetssätt.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Oslo-Stockholm 255 AB",
+        "styrdokument",
+        "bolagsordning"
+      ],
+      "id": "2025-01-29_ko_15"
+    },
+    {
+      "headline": "41 ej verkställda socialtjänstbeslut - långtidsväntande klienter",
+      "summary": "Rapport visar att 41 beslut om socialtjänst inte verkställts inom tre månader under Q2 2024. Vanligaste orsaken är platsbrist eller att individen tackat nej till insats.",
+      "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden rapporterar kvartalsvis om ej verkställda beslut enligt SoL och LSS. För Q2 2024 ökade Socialnämndens ej verkställda beslut från 25 (Q1) till 41 (Q2).\n\nFunktionsstödsnämnden rapporterade 97 ej verkställda beslut (av totalt 157), en minskning från 108 i Q1. Vård- och omsorgsnämnden hade 10 ej verkställda beslut av totalt 15.\n\nKommunfullmäktige beslutar att rapporterna läggs till handlingarna. Två tilläggsyrkanden från V och SD avslogs - ett om att framtida rapporter ska inkludera orsaker till väntan, och ett om skarpt krav på nämnder för att undvika IVO-anmälan. Reservationer från V, SD och ÖrP.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 16",
+      "quote": "Vanligaste orsaken för ej verkställda beslut under kvartal 2 är att det saknas plats eller att individen har tackat nej till insatsen.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "socialtjänst",
+        "LSS",
+        "köer",
+        "välfärd"
+      ],
+      "id": "2025-01-29_ko_16"
+    },
+    {
+      "headline": "Motion om äldreomsorgsteam för missbruk avslås",
+      "summary": "Vänsterpartiet yrkar på äldreomsorgsteam med fokus på missbruk, men motionen avslås. 43 ja-röster, 21 nej-röster.",
+      "detail": "Martha Wicklund (V) och övriga vänsterpartister har föreslagit ett resursteam inom äldreomsorgen med särskild inriktning mot missbruk. Kommunledningen avslår motionen med motivering att frågan nyligen utreddes och att pågående arbete redan fokuserar på boendelösningar för äldre missbrukande individer samt kompetensutveckling för personal inom vård och omsorg.\n\nKommunfullmäktige avslår motionen med 43 ja-röster och 21 nej-röster. Reservationer från V, ÖrP, C, L, KD och MP. Motionen har varit bordlagd sedan oktober 2024 och behandlades nu för slutgiltigt beslut.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 17",
+      "quote": "Bedömningen är att motionen föreslås avslås. Frågan om missbrukande äldre har relativt nyligen utretts och det pågår arbete för att skapa en boendelösning för äldre missbrukande individer.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "SD"
+        ],
+        "against": [
+          "V",
+          "L",
+          "ÖrP",
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "äldreomsorg",
+        "missbruk",
+        "välfärd"
+      ],
+      "id": "2025-01-29_ko_17"
+    },
+    {
+      "headline": "SD:s motion om effektivering av kommunala processer delvis tillgodosedd",
+      "summary": "Motion om 30 procent kortare handläggning avslås, men två andra delar om LEAN-utbildning anses tillgodosedda.",
+      "detail": "Carola Sunesson (SD) och Bo Ammer (SD) motionerade om att Örebro kommun ska fokusera mer på kärnverksamheten och effektivisera administrativa processer. De föreslogs tre åtgärder: att korta ned liggtid och handläggning med minst 30 procent, att chefer identifierar tidsläckage, och att implementera LEAN-utbildning för alla chefer.\n\nKommunfullmäktige avslår första punkten (30-procents kortning) men anser andra och tredje punkten tillgodosedda. KD reserverade sig för att vilja se mer ambition kring de andra punkterna. Motionen var bordlagd sedan oktober 2024.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 18",
+      "quote": "Att korta ner samtlig liggtid och handläggning av ärenden, möten, föredragningar med åtminstone 30 procent.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "ÖrP"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [
+          "KD"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "effektivitet",
+        "processer",
+        "organisation"
+      ],
+      "id": "2025-01-29_ko_18"
+    },
+    {
+      "headline": "Motion om löneökning för låglönade yrkesgrupper avslås",
+      "summary": "Vänsterpartiet föreslår att kommunen begär regeringsmedel för att höja låga löner, men motionen avslås.",
+      "detail": "Martha Wicklund (V) och övriga vänsterpartister motionerade om att kommunen ska begära pengar från regeringen för att göra en permanent höjning av lönerna för yrkesgrupper under nivån som utgör \"god försörjning\" enligt regeringens definition. De ville att beviljade extramedel ska användas för att höja lönerna för de lägst betalda grupperna.\n\nKommunledningen avslår motionen med motiveringen att en sådan löneökning skulle få stora konsekvenser på kommuns befintliga lönestruktur, innebära stora kostnader på sikt, och att det inte finns en struktur för att ansöka om extra medel för detta ändamål. Motionen var bordlagd sedan oktober 2024. V reserverar sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 19",
+      "quote": "En höjning av kommunens lägstalöner med flera tusen kronor skulle få stora konsekvenser på kommunens befintliga lönestruktur och innebära stora kostnader på sikt.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S"
+        ],
+        "against": [
+          "V"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "löner",
+        "välfärd",
+        "budget"
+      ],
+      "id": "2025-01-29_ko_19"
+    },
+    {
+      "headline": "Gratis mensskydd på högstadiet avslås, gymnasiet redan löst",
+      "summary": "Motion om gratis mensskydd på högstadiet avslås, men gymnasieskolor har redan löst detta med behållare.",
+      "detail": "Helena Ståhl (SD) motionerade om behållare för kostnadsfria mensskydd i både högstadiet och gymnasiet. Kommunledningen rapporterar att gymnasieskolor redan tillhandahåller gratis mensskydd via behållare (kostnad ca 140 tkr/år), vilket är tillgodosett.\n\nFör högstadieskolorna avslås motionen med motiveringen att det är mer kostnadseffektivt att distribuera mensskydd genom elevhälsan än att köpa behållare. Varje skola arbetar för att mensskydd ska finnas tillgängliga hela skoldagen.\n\nBeslut: Gymnasiedelen tillgodosedd, högstadiedelen avslås. Många partier reserverar sig för att vilja tillgodose även högstadiedelen: SD, ÖrP, V, KD och C.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 20",
+      "quote": "Bedömningen är att det är mer kostnadseffektivt att högstadieskolorna fortsätter att distribuera mensskydden i egen regi i stället för att köpa in behållare.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP",
+          "V",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "menstruation",
+        "skola",
+        "jämlikhet"
+      ],
+      "id": "2025-01-29_ko_20"
+    },
+    {
+      "headline": "Miljöpartiets motion om gratis mensskydd blir besvarad",
+      "summary": "Miljöpartiet yrkar på gratis mensskydd på skolor och arbetsplatser. Motion anses besvarad då utredning genomförts men saknar finansiering.",
+      "detail": "Miljöpartiet motionerade om att kostnadsfria mensskydd ska finnas på kommunens skolor och egna arbetsplatser. Motion hade tre yrkanden: utreda kostnader för mensskydd i skola, utreda kostnader för arbetsplatser, och se över övriga förvaltningar.\n\nKommunledningen anser första yrkandet besvarad då gymnasieskolor redan har behållare och högstadieskolor distribuerar via elevhälsan. Andra och tredje yrkandet anses besvarat då utredningen genomförts, men saknar finansiering för implementering på övriga arbetsplatser och förvaltningar.\n\nMotion anses besvarad men reservationer från V och MP som yrkar bifall för faktisk implementering.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 21",
+      "quote": "Kostnaderna för införandet av gratis mensskydd på kommunens egna arbetsplatser och övriga skolor är utredda.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "menstruation",
+        "arbetsplatser",
+        "jämlikhet"
+      ],
+      "id": "2025-01-29_ko_21"
+    },
+    {
+      "headline": "Kilsmo-motion om nya verksamheter i tom skola avslås",
+      "summary": "Motion om att använda tomma lokaler i Kilskolans villa för verksamheter för hemmasittare och seniorer avslås. 35 ja, 29 nej.",
+      "detail": "Susanne Lindholm Henningsson (KD) motionerade baserat på medborgarförslag om att utreda möjlighet att skapa verksamhet för barn, unga, hemmasittare med skolfrånvaro och daglediga seniorer i Kilsmo. Delar av villan står tom sedan 2020 - hemrum, kapprum, förråd, grupprum och verkstad.\n\nKommunledningen ser positivt på att motverka urholkandet av Kilsmo och att tomma lokaler nyttjas. Dock motsätter man sig \"hemmasittare\" med problematisk skolfrånvaro som målgrupp. Dessutom är villan hyrd av förskolan Sotterngården och sekretessregler gör det komplicerat att hyra ut förskolelokaler.\n\nKommunfullmäktige avslår motionen. Votering: 35 ja, 29 nej. Många partier reserverar sig (KD, SD, V, L, ÖrP, MP) för bifall.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Kilsmo",
+      "paragraph_ref": "§ 22",
+      "quote": "Nu har dock delar av lokalen stått tom sedan 2020. Skolan, eller villan, brukas inte fullt ut.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "SD",
+          "V",
+          "L",
+          "ÖrP",
+          "MP"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "Kilsmo",
+        "möjliggörande",
+        "lokaler"
+      ],
+      "id": "2025-01-29_ko_22"
+    },
+    {
+      "headline": "Mentorsmammor-motion för nyfödigar och familjer avslås",
+      "summary": "KD yrkar på mentorsmammor-modell för praktisk hjälp och rådgivning till familjer, motion avslås.",
+      "detail": "Paula Säker (KD) motionerade om att utreda en mentorsmammor-modell för att erbjuda praktisk hjälp, rådgivning och öppen dialog. Tanken är att mentorsmammorna tillsammans med familjecentraler, mödrahälsovård och BVC ska motverka hot och desinformation mot socialtjänsten.\n\nKommunledningen avslår motionen. Trots detta reserverar sig KD-medlemmar Paula Säker, Susanne Lindholm Henningsson och andra för att vilja tillgodose förslaget. Även V reserverar sig.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 23",
+      "quote": "Motionen innehåller förslag om att mentorsmammorna ska, tillsammans med familjecentralerna, mödrahälsovården och BVC motverka hot och desinformation mot socialtjänsten.",
+      "quote_page": "s. 26",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "V"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "familjer",
+        "föräldrastöd",
+        "välfärd"
+      ],
+      "id": "2025-01-29_ko_23"
+    },
+    {
+      "headline": "Hundrastgårdar-motion avslås, andra frågor lösta",
+      "summary": "KD yrkar på utredning av fler hundrastgårdar i Örebro, men motion avslås. Flera partier reserverar sig.",
+      "detail": "Susanne Lindholm Henningsson (KD) motionerade om att undersöka möjligheten att skapa fler hundrastgårdar på lämpliga platser i Örebro kommun. Kommunledningen avslår motionen med motiveringen att detta inte är en prioriterad fråga.\n\nReservationer från KD, V, ÖrP och SD. SD reserverar sig för att motionen bör anses besvarad istället för avslågen.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 24",
+      "quote": "Bedömningen är att motionen bör avslås eftersom detta för närvarande inte är en prioriterad fråga.",
+      "quote_page": "s. 27",
+      "voting": {
+        "for": [
+          "S"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "V",
+          "ÖrP",
+          "SD"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "hundar",
+        "rekreation"
+      ],
+      "id": "2025-01-29_ko_24"
+    },
+    {
+      "headline": "Två motioner om Örebro läns museum bordlades",
+      "summary": "Två motioner om att Örebro kommun ska bli del av Örebro läns museum bordlades för senare behandling.",
+      "detail": "Martha Wicklund (V) och Susanne Lindholm Henningsson (KD) motionerade båda om att Örebro kommun åter ska bli en del av Stiftelsen Örebro läns museum. V vill att kommunen verkar för att snart åter bli del av stiftelsen, KD vill att kommunen tar initiativ till samtal och förhandlingar med Region Örebro län.\n\nBåda ärendena bordlades på initiativ av ordförande efter att ordföranden yrkade på att resterande ärenden på dagordningen skulle bordläggas. Votering: 50 ja, 12 nej för bordläggning. SD yrkar för att sammanträdet skulle fortsätta.",
+      "category": "kultur",
+      "contested": false,
+      "location": "Örebro",
+      "paragraph_ref": "§ 25-26",
+      "quote": "Motionen innehåller förslag om att Örebro kommun ska verka för att snarat åter bli en del av Stiftelsen Örebro läns museum och vara med och ta ansvar för Örebro läns museum.",
+      "quote_page": "s. 29-30",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "C",
+          "V",
+          "L"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "museum",
+        "kultur",
+        "kulturarv"
+      ],
+      "id": "2025-01-29_ko_25-26"
+    },
+    {
+      "headline": "Sex motioner om bostäder, skogsbruk och väld bordlades",
+      "summary": "Motioner om tak-över-huvudet-garanti, husbilar, småhusmark, Garphytteklint, väld mot kvinnor och israelisk bojkott bordlades.",
+      "detail": "Följande motioner bordlades på ordförandens initiativ för behandling vid senare sammanträde:\n\n- Johanna Reimfelt (L) om \"tak över huvudet\"-garanti för hemlösa\n- Susanne Lindholm Henningsson (KD) om ställplatser för husbilar\n- Helena Ståhl (SD) m.fl. om markförvärv för småhusbebyggelse  \n- Lea Strandberg (MP) om att skydda Garphytteklint\n- Martha Wicklund (V) m.fl. om krafttag mot mäns våld mot kvinnor\n- Martha Wicklund (V) m.fl. om kommunal bojkott av israeliska varor\n\nOrdföranden yrkade på att resterande ärenden skulle bordläggas för att spara tid. Votering om bordläggning: 50 ja, 12 nej, 3 frånvarande.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": "Örebro",
+      "paragraph_ref": "§ 27-30",
+      "quote": "Ordförande Jan Zetterqvist (S) yrkar på att resterande ärenden på dagordningen bordläggs.",
+      "quote_page": "s. 29",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "bostäder",
+        "miljö",
+        "väld"
+      ],
+      "id": "2025-01-29_ko_27-30"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Martha Wicklund (V) m.fl. - Trygga demokratin",
+      "party": "V",
+      "status": "Anmäld"
+    },
+    {
+      "title": "Helena Ståhl (SD), Habib Brini (SD) - Engagera långtidsarbetslösa vid snöröjning",
+      "party": "SD",
+      "status": "Anmäld"
+    },
+    {
+      "title": "Carola Sunesson (SD), Christer Johansson (SD) - Främja klassisk arkitektur",
+      "party": "SD",
+      "status": "Anmäld"
+    },
+    {
+      "title": "Helena Ståhl (SD) m.fl. - Kärnkraft (SMR) i Översiktsplanen",
+      "party": "SD",
+      "status": "Anmäld"
+    },
+    {
+      "title": "Helena Ståhl (SD), Habib Brini (SD) - Ekonomiska fallskärmar",
+      "party": "SD",
+      "status": "Anmäld"
+    }
+  ],
+  "skipped_items_count": 16,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2025-01-29",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 13
+}

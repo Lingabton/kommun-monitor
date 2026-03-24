@@ -1,0 +1,196 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2025-03-26",
+  "summary_headline": "Motioner om våld mot kvinnor och husbilar avslogs",
+  "decisions": [
+    {
+      "headline": "Motion om krafttag mot mäns våld mot kvinnor delvis avslagen",
+      "summary": "Vänsterpartiet yrkade på grundläggande utbildning för anställda och politiker om våld mot kvinnor, ökad myndighetssamverkan och haverikommission vid mord. Tre av fyra yrkanden godkändes, men kravet på haverikommission avslogs.",
+      "detail": "Vänsterpartiet inlämnade en gruppmotion med fyra yrkanden för att bekämpa mäns våld mot kvinnor. Motion från Martha Wicklund (V) m.fl. krävde: (1) grundläggande utbildning för alla anställda och politiker om strukturer kring våld mot kvinnor, (2) kunskapshöjning för arbetsgivare för att fånga upp våldsutsatthet, (3) ökad myndighetssamverkan mellan polis, vård och socialtjänst, samt (4) haverikommission vid varje kvinnomord.\n\nKommunstyrelsen föreslogs godkänna de tre första yrkandena som redan tillgodosedda, men avslå kravet på haverikommission. Vänsterpartiet och Miljöpartiet yrkade på full bifallelse, medan S, M, C, L och ÖrP stödde styrelsen.\n\nKommunfullmäktige beslutade enhälligt att godkänna de tre första yrkandena men avslå det fjärde. Sex ledamöter från V och MP reserverade sig för full bifallelse, vilket visar politisk splittring i frågan.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 77",
+      "quote": "Motionen föreslår att en grundläggande utbildning ska ges till Örebro kommuns samtliga anställda och politiker om strukturer kring mäns våld mot kvinnor samt samhällets ansvar",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Delvis bifall"
+      },
+      "tags": [
+        "våld mot kvinnor",
+        "utbildning",
+        "socialtjänst"
+      ],
+      "id": "2025-03-26_ko_77"
+    },
+    {
+      "headline": "Motion om ställplatser för husbilar avslogs",
+      "summary": "Motion från KD om att utreda och inrymma ställplatser för husbilar nära Örebro centrum avslogs. Flera partier ville bibehålla detta för framtida utredning.",
+      "detail": "Susanne Lindholm Henningsson (KD) motionerade för att Örebro kommun ska utreda lämpliga platser för husbilar i nära anslutning till Örebro city och därefter iordningställa dessa. Miljö- och stadsbyggnadsförvaltningen rekommenderade avslag med motiveringen att detta inte är en prioriterad fråga.\n\nKommunstyrelsen föreslog avslag. Motionen fick stöd från KD, V, SD, L och ÖrP, men S:s Kemal Hoso yrkade på avslag enligt styrelsen. Efter proposition beslutade fullmäktige att avslå motionen.\n\nAvslaget väckte motsättningar. Sex partier reserverade sig: KD, V (5 ledamöter), SD (7 ledamöter), L (4 ledamöter) och ÖrP (5 ledamöter) mot beslutet, vilket visar breda politiska intressen för husbilarnas situation.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro centrum",
+      "paragraph_ref": "§ 78",
+      "quote": "Motionen behandlar möjligheten för Örebro kommun att utöka antalet ställplatser för husbilar och innehåller följande förslag: 1. Lämpliga platser för husbilar i nära anslutning till Örebro city ska utredas.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S"
+        ],
+        "against": [
+          "KD",
+          "V",
+          "SD",
+          "L",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "husbilar",
+        "ställplatser",
+        "infrastruktur",
+        "Örebro centrum"
+      ],
+      "id": "2025-03-26_ko_78"
+    },
+    {
+      "headline": "Motion om småhusbebyggelse ansågs besvarad",
+      "summary": "SD:s motion om att kommunen ska prioritera småhusbebyggelse vid markövertagande ansågs besvarad. Kommunen arbetar redan med detta enligt beslutet.",
+      "detail": "Helena Ståhl (SD) m.fl. motionerade för att Örebro kommun ska ha ett prioriterat syfte för planering av småhus när kommunen förvärvar mark i områden lämpade för bostadsbyggande. Kommunstyrelsen bedömde att motionen redan var tillgodosedd då kommunen arbetar med att prioritera att tillgången på bostäder överensstämmer med efterfrågan.\n\nMotionen hade stöd från KD, SD och ÖrP som yrkade på bifall, medan V:s Linn Josefsson yrkade på avslag. Efter proposition fann fullmäktige att motionen var besvarad enligt styrelsens förslag.\n\nReservationer lämnades av SD (8 ledamöter), ÖrP (5 ledamöter) och KD (3 ledamöter) som ville se ett mer explicit bifallande, samt V (6 ledamöter) som ville avslå helt.",
+      "category": "bygg",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 79",
+      "quote": "Motionen innehåller ett förslag om att kommun ska ha ett prioriterat syfte för planering av småhus, när kommunen förvärvar mark i områden och orter där förutsättningar finns för bostadsbyggande.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Ansågs besvarad"
+      },
+      "tags": [
+        "småhusbebyggelse",
+        "mark",
+        "bostäder"
+      ],
+      "id": "2025-03-26_ko_79"
+    },
+    {
+      "headline": "Motion om att skydda Garphytteklint delvis godkänd efter votering",
+      "summary": "Motion från Miljöpartiet om långsiktigt skydd för Garphytteklint ansågs besvarad. Kommunen arbetar med naturreservatsbildning och naturvårdsavtal för området.",
+      "detail": "Lea Strandberg (MP) motionerade för att Örebro kommun långsiktigt ska skydda Garphytteklint och dess höga naturvärden. Miljö- och stadsbyggnadsförvaltningen bedömde att motionen redan var besvarad genom pågående uppdrag att utreda naturreservatsbildning och eventuella naturvårdsavtal.\n\nKommunstyrelsen rekommenderade att motionen ansågs besvarad. Stöd för detta kom från S, M och ÖrP. Emellertid yrkade MP, L, KD och V på full bifallelse för att säkra ett starkare juridiskt skydd.\n\nEn votering verkställdes: 47 ja-röster för styrelsens förslag mot 16 nej-röster för bifallelse. Reservationer lämnades av 16 ledamöter från MP, V, KD och L som ville se ett mer bindande skyddsbeslut.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Garphytteklint",
+      "paragraph_ref": "§ 80",
+      "quote": "Motionen innehåller ett förslag om att Örebro kommun långsiktigt skyddar Garphytteklint och den artrikedom som finns där.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "SD",
+          "C",
+          "ÖrP"
+        ],
+        "against": [
+          "MP",
+          "V",
+          "KD",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Ansågs besvarad"
+      },
+      "tags": [
+        "naturvård",
+        "Garphytteklint",
+        "naturreservat",
+        "artrikedom"
+      ],
+      "id": "2025-03-26_ko_80"
+    },
+    {
+      "headline": "Flera motioner bordlades för senare behandling",
+      "summary": "Ordföranden Jan Zetterqvist (S) yrkade på att bordlägga återstående ärenden från dagordningen. Efter votering godkändes detta med 45 ja-röster mot 18 nej-röster, trots SD:s protester.",
+      "detail": "Vid slutet av mötet uppstod en procedurell konflikt. Ordförande Jan Zetterqvist (S) yrkade på att alla återstående motioner och ärenden skulle bordläggas för senare behandling. Helena Ståhl (SD) motsatte sig detta och yrkade på att ärendena skulle avgöras samma dag.\n\nEnlig reglerna för propositionsordning ställdes förslagen mot varandra. Fullmäktige röstade: 45 ja-röster för bordläggning mot 18 nej-röster. SD reserverade sig mot beslutet.\n\nBordlades motioner om suicidprevention (Reimfelt/Wallström L), lönekostnader (Ståhl SD), konsulttjänster (Wicklund V), skolklassstorlekar (Liljegren L), och enprocentsregeln (Wicklund V). Detta påverkade många örebropolitiker negativt.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 84",
+      "quote": "Ordförande Jan Zetterqvist (S) finner att det finns två förslag, det vill säga ordförandens eget yrkande om att ärendena bordläggs respektive Helena Ståhls (SD) yrkande om att resterande ärenden ska avgöras idag.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall till bordläggning"
+      },
+      "tags": [
+        "procedur",
+        "bordläggning",
+        "politisk taktik"
+      ],
+      "id": "2025-03-26_ko_84"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Motion från Karolina Wallström (L) om förbättring av färdtjänsten",
+      "party": "L",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Bo Ammer (SD) om bättre kollektivtrafik",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Helena Ståhl (SD) om att riva fontänen på Järntorget",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Helena Ståhl (SD) om lärarnas auktoritet i skolan",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Martha Wicklund (V) om kortare arbetstid - samma lön",
+      "party": "V",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 11,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2025-03-26",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-26_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 5
+}
