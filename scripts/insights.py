@@ -571,7 +571,7 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Generate political insights")
-    parser.add_argument("--base-url", default="")
+    parser.add_argument("--base-url", default="https://lingabton.github.io/kommun-monitor")
     args = parser.parse_args()
 
     data = load_data()

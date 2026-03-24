@@ -3,13 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kommun Monitor — Örebro kommunbeslut sammanfattade med AI</title>
+<title>Beslutskollen — Kommunbeslut i Örebro, sammanfattade med AI</title>
 <meta name="description" content="AI-sammanfattningar av kommunala beslut i Örebro. Sök beslut, se hur partierna röstar, och följ vad som händer i din kommun.">
 <link rel="canonical" href="https://lingabton.github.io/kommun-monitor/">
-<meta property="og:title" content="Kommun Monitor — Örebro">
+<meta property="og:title" content="Beslutskollen — Örebro">
 <meta property="og:description" content="AI-sammanfattningar av kommunala beslut. Sök beslut, se hur partierna röstar.">
 <meta property="og:type" content="website">
-<link rel="alternate" type="application/rss+xml" title="Kommun Monitor" href="feed.xml">
+<meta property="og:image" content="https://lingabton.github.io/kommun-monitor/og-image.svg">
+<link rel="alternate" type="application/rss+xml" title="Beslutskollen" href="https://lingabton.github.io/kommun-monitor/feed.xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Beslutskollen",
+  "alternateName": "Beslutskollen Örebro",
+  "url": "https://lingabton.github.io/kommun-monitor/",
+  "description": "AI-sammanfattningar av kommunala beslut i Örebro kommun. Röstningsstatistik per parti och politiska insikter.",
+  "inLanguage": "sv",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Beslutskollen"
+  }
+}
+</script>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -59,19 +75,13 @@ nav .mob-toggle { display: none; background: none; border: none; font-size: 22px
 }
 .hero h1 em { font-weight: 600; font-style: italic; }
 .hero .sub { font-size: 15px; opacity: .6; margin-bottom: 20px; line-height: 1.6; }
-.hero .stats {
-  display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;
-}
+.hero .stats { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; }
 .hero .stat { text-align: center; }
-.hero .stat .n {
-  font-family: 'Fraunces', serif; font-size: 28px; font-weight: 700;
-}
+.hero .stat .n { font-family: 'Fraunces', serif; font-size: 28px; font-weight: 700; }
 .hero .stat .l { font-size: 11px; opacity: .45; margin-top: 2px; }
 
 /* ── Explainer ── */
-.explainer {
-  max-width: 960px; margin: -20px auto 0; padding: 0 24px; position: relative; z-index: 2;
-}
+.explainer { max-width: 960px; margin: -20px auto 0; padding: 0 24px; position: relative; z-index: 2; }
 .explainer .card {
   background: var(--card); border-radius: 12px; padding: 20px 24px;
   box-shadow: 0 4px 24px rgba(0,0,0,.06);
@@ -91,23 +101,46 @@ section .st {
 section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
 
 /* ── Featured decision ── */
-.featured {
-  max-width: 960px; margin: 24px auto 0; padding: 0 24px;
-}
+.featured { max-width: 960px; margin: 24px auto 0; padding: 0 24px; }
 .featured .card {
   background: var(--card); border-radius: 12px; padding: 24px 28px;
   box-shadow: 0 4px 24px rgba(0,0,0,.06); border-left: 5px solid var(--accent);
 }
 .featured .tag {
   font-size: 10px; font-weight: 700; letter-spacing: 1.5px;
-  text-transform: uppercase; color: var(--text-light); margin-bottom: 8px;
+  text-transform: uppercase; color: var(--text-light); margin-bottom: 4px;
 }
+.featured .tag-explain { font-size: 12px; color: var(--text-light); margin-bottom: 10px; }
 .featured h2 {
   font-family: 'Fraunces', serif; font-size: clamp(17px, 2.5vw, 22px);
   font-weight: 400; line-height: 1.3; margin-bottom: 6px;
 }
 .featured .sum { font-size: 14px; color: var(--text-mid); line-height: 1.6; margin-bottom: 10px; }
 .featured .meta { font-size: 12px; color: var(--text-light); display: flex; flex-wrap: wrap; gap: 6px; }
+
+/* ── AI disclaimer banner ── */
+.ai-notice {
+  max-width: 960px; margin: 16px auto 0; padding: 0 24px;
+}
+.ai-notice .inner {
+  background: #fefce8; border: 1px solid #fde68a; border-radius: 8px;
+  padding: 10px 16px; font-size: 12px; color: #92400e; line-height: 1.5;
+  display: flex; align-items: flex-start; gap: 8px;
+}
+.ai-notice .inner a { color: #92400e; text-decoration: underline; }
+
+/* ── Date group header ── */
+.date-group {
+  font-size: 13px; font-weight: 700; color: var(--text-light);
+  letter-spacing: 0.3px; margin-top: 20px; margin-bottom: 8px;
+  padding-bottom: 6px; border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 8px;
+}
+.date-group:first-child { margin-top: 0; }
+.date-group .org-badge {
+  font-size: 10px; font-weight: 600; padding: 1px 7px;
+  border-radius: 4px; background: #e8e4df; color: var(--text-mid);
+}
 
 /* ── Party grid ── */
 .pg { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; }
@@ -150,10 +183,15 @@ section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
 }
 .dc.op { box-shadow: 0 4px 20px rgba(0,0,0,.07); }
 .dc .hd { padding: 14px 18px; cursor: pointer; display: flex; align-items: flex-start; gap: 10px; }
+.dc .hd:hover { background: rgba(0,0,0,.01); }
 .dc .hl { font-size: 14px; font-weight: 600; line-height: 1.35; }
 .dc .ds { font-size: 13px; color: var(--text-mid); margin-top: 2px; line-height: 1.5; }
 .dc .dm { font-size: 11px; color: var(--text-light); margin-top: 4px; display: flex; flex-wrap: wrap; gap: 5px; }
-.dc .ar { font-size: 10px; color: var(--text-light); flex-shrink: 0; margin-top: 4px; transition: transform .2s; }
+.dc .ar {
+  font-size: 11px; color: var(--navy); flex-shrink: 0; margin-top: 3px;
+  transition: transform .2s; background: var(--bg); border-radius: 4px;
+  width: 22px; height: 22px; display: flex; align-items: center; justify-content: center;
+}
 .dc.op .ar { transform: rotate(180deg); }
 .dc .bd { padding: 0 18px 16px 46px; border-top: 1px solid var(--border); display: none; }
 .dc.op .bd { display: block; }
@@ -161,7 +199,10 @@ section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
 .dc .dt p { margin-bottom: 8px; }
 
 /* ── Badges ── */
-.bg { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 700; white-space: nowrap; }
+.bg {
+  display: inline-block; padding: 2px 8px; border-radius: 12px;
+  font-size: 10px; font-weight: 700; white-space: nowrap; cursor: help;
+}
 .bc { background: #fef2f2; color: var(--red); }
 .bv { background: #fef3c7; color: #92400e; }
 .bu { background: #ecfdf5; color: var(--green); }
@@ -197,7 +238,9 @@ section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
 /* ── Footer ── */
 footer { border-top: 1px solid var(--border); padding: 28px 24px; text-align: center; }
 footer .fl2 { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; font-size: 13px; color: var(--text-mid); margin-bottom: 10px; }
-footer .cp { font-size: 11px; color: var(--text-light); max-width: 600px; margin: 0 auto; line-height: 1.6; }
+footer .cp { font-size: 12px; color: var(--text-mid); max-width: 600px; margin: 0 auto; line-height: 1.6; }
+footer .cp a { text-decoration: underline; }
+footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
@@ -217,16 +260,15 @@ footer .cp { font-size: 11px; color: var(--text-light); max-width: 600px; margin
 </head>
 <body>
 
+<!-- Fix 4: Nav — removed dev links (API, RSS), kept user-facing ones -->
 <nav>
   <div class="inner">
-    <a href="#" class="logo">🏛️ Kommun Monitor</a>
+    <a href="#" class="logo">📋 Beslutskollen</a>
     <button class="mob-toggle" onclick="document.querySelector('.links').classList.toggle('open')" aria-label="Meny">☰</button>
     <div class="links">
       <a href="#beslut">Beslut</a>
       <a href="#partier">Partier</a>
       <a href="insikter/">Insikter</a>
-      <a href="api/v1/docs/">API</a>
-      <a href="feed.xml">RSS</a>
     </div>
   </div>
 </nav>
@@ -259,34 +301,60 @@ footer .cp { font-size: 11px; color: var(--text-light); max-width: 600px; margin
   </div>
 </div>
 
+<!-- Why section -->
+<div style="max-width:960px;margin:20px auto 0;padding:0 24px">
+  <div style="background:var(--card);border-radius:10px;padding:16px 20px;box-shadow:0 1px 6px rgba(0,0,0,.03);font-size:13px;color:var(--text-mid);line-height:1.7">
+    <strong style="color:var(--text)">Varför Beslutskollen?</strong>
+    Örebro kommun publicerar sina protokoll som PDF:er — ofta 20-40 sidor per möte. De flesta invånare har varken tid eller ork att läsa dem.
+    Vi gör det åt dig: varje beslut sammanfattas med AI, röstningsdata visas per parti, och du kan söka bland alla beslut sedan <span id="since-year">2023</span>.
+    <span id="pages-saved" style="font-weight:600;color:var(--navy)"></span>
+  </div>
+</div>
+
+<!-- Featured decision with human explanation -->
 <div class="featured" id="featured-wrap"></div>
 
+<!-- Fix 8: AI disclaimer — prominent, not hidden -->
+<div class="ai-notice">
+  <div class="inner">
+    <span>⚠️</span>
+    <span>Sammanfattningarna görs av AI och kan innehålla fel. Kontrollera alltid mot <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a> innan du citerar eller delar.</span>
+  </div>
+</div>
+
+<!-- Fix 1: Decisions BEFORE parties -->
+<section id="beslut">
+  <h2 class="st">Alla beslut</h2>
+  <p class="ss">Klicka på ett beslut för att se detaljer, röstning och citat ur protokollet.</p>
+  <div class="fl" id="flt"></div>
+  <div id="dcn" style="font-size:13px;color:var(--text-light);margin-bottom:10px"></div>
+  <div id="dl"></div>
+</section>
+
+<!-- Fix 1: Parties AFTER decisions -->
 <section id="partier">
   <h2 class="st">Hur röstar partierna?</h2>
   <div class="ss" id="psb"></div>
   <div class="pg" id="pgr"></div>
 </section>
 
-<section id="beslut">
-  <h2 class="st">Alla beslut</h2>
-  <div class="fl" id="flt"></div>
-  <div id="dcn" style="font-size:13px;color:var(--text-light);margin-bottom:10px"></div>
-  <div id="dl"></div>
-</section>
-
 <footer>
   <div class="fl2">
     <a href="#beslut">Beslut</a>
+    <a href="#partier">Partier</a>
     <a href="insikter/">Insikter</a>
     <a href="api/v1/docs/">API</a>
     <a href="feed.xml">RSS</a>
     <a href="for-llms/">Data</a>
   </div>
+  <!-- Fix 8: More prominent disclaimer -->
   <div class="cp">
-    Kommun Monitor sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid
-    <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a>.
-    <br><span id="fs"></span>
+    Beslutskollen sammanfattar offentliga protokoll med AI och kan innehålla fel.
+    Kontrollera alltid <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a>.
+    Inte kopplat till Örebro kommun.
   </div>
+  <!-- Fix 7: Visible update date -->
+  <div class="updated" id="fs"></div>
 </footer>
 
 <script>
@@ -309,11 +377,16 @@ const CC = {
   "miljö":"#16a34a", miljo:"#16a34a", trygghet:"#dc2626", kultur:"#9333ea",
   politik:"#475569", regler:"#b45309", "övrigt":"#94a3b8", ovrigt:"#94a3b8"
 };
-const MO = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+const MO = ["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"];
+const MO_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
 
 function fmt(s) {
   const d = new Date(s + "T12:00:00");
-  return d.getDate() + " " + MO[d.getMonth()] + " " + d.getFullYear();
+  return d.getDate() + " " + MO_SHORT[d.getMonth()] + " " + d.getFullYear();
+}
+function fmtLong(s) {
+  const d = new Date(s + "T12:00:00");
+  return MO[d.getMonth()][0].toUpperCase() + MO[d.getMonth()].slice(1) + " " + d.getFullYear();
 }
 function g(d, a, b) { return d[a] !== undefined ? d[a] : d[b]; }
 
@@ -339,12 +412,13 @@ function vh(v) {
   return h + "</div>";
 }
 
+// Fix 3: Badges with tooltips explaining what they mean
 function badges(d) {
   let h = "";
-  if (d.contested) h += '<span class="bg bc">⚡ Omstritt</span> ';
+  if (d.contested) h += '<span class="bg bc" title="Minst ett parti röstade emot — beslutet var inte alla överens om">⚡ Omstritt</span> ';
   const r = (g(d,"vote","voting") || {}).r || (g(d,"vote","voting") || {}).result || "";
-  if (r.toLowerCase().includes("votering")) h += '<span class="bg bv">🗳️ Votering</span> ';
-  if (r.toLowerCase().includes("enhälligt")) h += '<span class="bg bu">✓ Enhälligt</span> ';
+  if (r.toLowerCase().includes("votering")) h += '<span class="bg bv" title="Ledamöterna fick rösta formellt — inte bara med handuppräckning">🗳️ Votering</span> ';
+  if (r.toLowerCase().includes("enhälligt")) h += '<span class="bg bu" title="Alla partier var överens">✓ Enhälligt</span> ';
   return h;
 }
 
@@ -365,10 +439,11 @@ async function init() {
   A.sort((a, b) => b.mDate.localeCompare(a.mDate));
 
   renderStats();
+  renderWhy();
   renderFeatured();
-  renderParties();
   renderFilters();
   renderDecisions();
+  renderParties();
   renderFooterStats();
 }
 
@@ -388,13 +463,24 @@ function renderStats() {
   });
 }
 
+// Social proof: how many pages saved
+function renderWhy() {
+  // Estimate ~25 pages per meeting protocol on average
+  const pages = D.meetings.length * 25;
+  const minutes = Math.round(A.length * 0.5); // ~30 sec per decision summary vs ~5 min reading original
+  const el = document.getElementById("pages-saved");
+  if (el) el.textContent = "Hittills: ~" + pages + " protokollsidor sammanfattade till " + minutes + " minuters läsning.";
+}
+
+// Fix 5: Featured with human-readable explanation
 function renderFeatured() {
   const d = A.find(x => x.contested) || A[0];
   if (!d) return;
   const wrap = document.getElementById("featured-wrap");
   const cat = g(d,"cat","category") || "";
   wrap.innerHTML = '<div class="card" style="border-left-color:' + (CC[cat] || "var(--accent)") + '">' +
-    '<div class="tag">⚡ Senaste omstridda beslutet</div>' +
+    '<div class="tag">Senaste omstridda beslutet</div>' +
+    '<div class="tag-explain">Det här beslutet var inte alla partier överens om.</div>' +
     '<h2>' + g(d,"hl","headline") + '</h2>' +
     '<div class="sum">' + g(d,"sum","summary") + '</div>' +
     '<div class="meta"><span>' + d.mType + ' · ' + fmt(d.mDate) + '</span> ' + badges(d) + '</div>' +
@@ -421,7 +507,7 @@ function renderParties() {
     });
   });
 
-  document.getElementById("psb").textContent = "Baserat på " + A.length + " beslut i Kommunfullmäktige och Kommunstyrelsen";
+  document.getElementById("psb").textContent = "Baserat på " + A.length + " beslut i Kommunfullmäktige och Kommunstyrelsen. Grönt = röstade ja, rött = röstade nej.";
   const gr = document.getElementById("pgr");
 
   Object.entries(s)
@@ -454,6 +540,7 @@ function renderFilters() {
   });
 }
 
+// Fix 2: Group decisions by meeting date
 function renderDecisions() {
   const filtered = A.filter(d => {
     if (cCat && g(d,"cat","category") !== cCat) return false;
@@ -469,6 +556,8 @@ function renderDecisions() {
   const e = document.getElementById("dl");
   e.innerHTML = "";
 
+  let lastGroup = "";
+
   filtered.forEach((d, i) => {
     const hl = g(d,"hl","headline");
     const sm = g(d,"sum","summary");
@@ -478,31 +567,46 @@ function renderDecisions() {
     const v = g(d,"vote","voting");
     const dt = d.detail || "";
 
+    // Fix 2: Date group headers
+    const groupKey = d.mDate + "_" + d.mType;
+    if (groupKey !== lastGroup) {
+      lastGroup = groupKey;
+      e.innerHTML += '<div class="date-group">' +
+        '<span>' + fmtLong(d.mDate) + '</span>' +
+        '<span class="org-badge">' + d.mType + '</span>' +
+        '</div>';
+    }
+
     let bh = "";
     if (dt) bh += '<div class="dt">' + dt.split("\n\n").map(p => "<p>" + p + "</p>").join("") + '</div>';
     bh += vh(v);
     if (d.quote) bh += '<div class="qb">"' + d.quote + '" <span class="qp">— ' + (d.qp || d.quote_page || "") + '</span></div>';
     if (d.id) bh += '<a class="read-more" href="beslut/' + d.id + '/">Läs hela beslutet →</a>';
 
+    // Fix 6: More visible expand arrow
     e.innerHTML += '<div class="dc" id="d' + i + '" style="border-left-color:' + (CC[cat] || "var(--border)") + '">' +
       '<div class="hd" onclick="document.getElementById(\'d' + i + '\').classList.toggle(\'op\')">' +
       '<span style="font-size:18px;flex-shrink:0;margin-top:1px">' + (CE[cat] || "📋") + '</span>' +
       '<div style="flex:1;min-width:0">' +
       '<div class="hl">' + hl + ' ' + badges(d) + '</div>' +
       '<div class="ds">' + sm + '</div>' +
-      '<div class="dm"><span>' + d.mType + '</span><span>·</span><span>' + fmt(d.mDate) + '</span>' +
-      (ref ? '<span>·</span><span>' + ref + '</span>' : '') +
-      (loc ? '<span>·</span><span>📍 ' + loc + '</span>' : '') +
+      '<div class="dm">' +
+      (ref ? '<span>' + ref + '</span><span>·</span>' : '') +
+      (loc ? '<span>📍 ' + loc + '</span><span>·</span>' : '') +
+      '<span>' + fmt(d.mDate) + '</span>' +
       '</div></div>' +
       '<span class="ar">▼</span></div>' +
       '<div class="bd">' + bh + '</div></div>';
   });
 }
 
+// Fix 7: Show update date
 function renderFooterStats() {
   const ds = D.meetings.map(m => m.date).sort();
   document.getElementById("fs").textContent =
-    D.meetings.length + " sammanträden · " + A.length + " beslut · " + ds[0] + " — " + ds[ds.length - 1];
+    "Senast uppdaterad: " + fmt(ds[ds.length - 1]) + " · " +
+    D.meetings.length + " sammanträden · " + A.length + " beslut · " +
+    ds[0] + " — " + ds[ds.length - 1];
 }
 
 init();

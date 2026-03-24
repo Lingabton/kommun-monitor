@@ -268,7 +268,7 @@ def generate_404(base_url):
 
 def main():
     parser = argparse.ArgumentParser(description="Build static site")
-    parser.add_argument("--base-url", default="", help="Base URL for the site (e.g. https://kommunmonitor.se)")
+    parser.add_argument("--base-url", default="https://lingabton.github.io/kommun-monitor", help="Base URL for the site")
     args = parser.parse_args()
     base = args.base_url.rstrip("/")
 

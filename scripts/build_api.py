@@ -646,7 +646,7 @@ def build_areas(data, base_url):
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Generate static JSON API")
-    parser.add_argument("--base-url", default="")
+    parser.add_argument("--base-url", default="https://lingabton.github.io/kommun-monitor")
     args = parser.parse_args()
     base_url = args.base_url.rstrip("/")
 

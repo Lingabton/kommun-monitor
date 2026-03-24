@@ -490,7 +490,7 @@ def save_schema_files(data, base_url):
 def main():
     import argparse
     parser = argparse.ArgumentParser(description="Build SEO & AI visibility layer")
-    parser.add_argument("--base-url", default="")
+    parser.add_argument("--base-url", default="https://lingabton.github.io/kommun-monitor")
     args = parser.parse_args()
     base_url = args.base_url.rstrip("/")
 
