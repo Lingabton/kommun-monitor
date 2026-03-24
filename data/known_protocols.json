@@ -1,5 +1,5 @@
 {
-  "_comment": "Verified KF + KS protocol PDF URLs. Covers mandate period 2023-2026.",
+  "_comment": "Complete KF + KS protocols for mandate period 2023-2026. Auto-scraped from orebro.se.",
   "_updated": "2026-03-24",
   "protocols": [
     {
@@ -7,7 +7,14 @@
       "date": "2023-01-17",
       "pdf_url": "https://www.orebro.se/download/18.130a4d0d18529dd1cf22a137/1675250506317/2023-01-17%20Kommunstyrelsen.pdf",
       "pages": null,
-      "note": "Mandatperiodens första KS-möte"
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-01-24",
+      "pdf_url": "https://www.orebro.se/download/18.ce5ebe018529a0661346ca5/1675416999476/2023-01-24%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunstyrelsen",
@@ -18,10 +25,31 @@
     },
     {
       "organ": "Kommunfullmäktige",
+      "date": "2023-02-15",
+      "pdf_url": "https://www.orebro.se/download/18.1ba9ffa31864b7346ed22fa/1677236644365/2023-02-15%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-03-14",
+      "pdf_url": "https://www.orebro.se/download/18.1fea80c91872c95e96613d4/1680272455815/2023-03-14%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
       "date": "2023-03-22",
       "pdf_url": "https://www.orebro.se/download/18.1fea80c91872c95e96610fe/1680253427278/2023-03-22%20Kommunfullm%C3%A4ktige.pdf",
       "pages": null,
       "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-04-11",
+      "pdf_url": "https://www.orebro.se/download/18.15b82e2b1884c6c058f8ae0/1685962980881/2023-04-11%20Kommunstyrelsen%20%C2%A7%C2%A7%2066%E2%80%9391%20och%2093%E2%80%9399.pdf",
+      "pages": null,
+      "note": "delprotokoll"
     },
     {
       "organ": "Kommunfullmäktige",
@@ -45,9 +73,107 @@
       "note": ""
     },
     {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-06-05",
+      "pdf_url": "https://www.orebro.se/download/18.50e8c760188b9ef82db27cd/1687332011794/2023-06-05%20Kommunstyrelsen%20%C2%A7%C2%A7%20137-138,%20%C2%A7%20158.pdf",
+      "pages": null,
+      "note": "delprotokoll"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-06-12",
+      "pdf_url": "https://www.orebro.se/download/18.4db05994188ba05ea203715/1687442569121/2023-06-12%20och%202023-06-13%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-08-29",
+      "pdf_url": "https://www.orebro.se/download/18.58059dd318a8d4dd6122da1/1695726721111/2023-08-29%20Kommunstyrelsen%20%C2%A7%C2%A7%20159%E2%80%93160,%20164%E2%80%93178%20,180%E2%80%93181.pdf",
+      "pages": null,
+      "note": "delprotokoll"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-08-30",
+      "pdf_url": "https://www.orebro.se/download/18.43958d8118a20dbc1cf43cf/1694090652096/2023-08-30%20Kommunfullm%C3%A4ktige%20%C2%A7%C2%A7%20267-304.pdf",
+      "pages": null,
+      "note": "delprotokoll"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-09-19",
+      "pdf_url": "https://www.orebro.se/download/18.6140b52918b37d6048821e4/1698158914227/2023-09-19%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-09-27",
+      "pdf_url": "https://www.orebro.se/download/18.23a8be7518b656675ccf2b/1698407522531/2023-09-27%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-10-17",
+      "pdf_url": "https://www.orebro.se/download/18.76459e2118bcc06c67865e/1700035803168/2023-10-17%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
       "organ": "Kommunfullmäktige",
       "date": "2023-10-24",
       "pdf_url": "https://www.orebro.se/download/18.76459e2118bcc06c678663/1700035931725/2023-10-24%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-11-13",
+      "pdf_url": "https://www.orebro.se/download/18.1f4c2d0e18bf5f0346412da/1701264122289/2023-11-13%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-11-22",
+      "pdf_url": "https://www.orebro.se/download/18.69036fd618c3e1944b02d14/1701876989022/2023-11-22%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-12-05",
+      "pdf_url": "https://www.orebro.se/download/18.208226e718d2a83777116b9/1706196544236/2023-12-05%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-12-12",
+      "pdf_url": "https://www.orebro.se/download/18.208226e718d2a83777116b7/1706196125694/2023-12-12%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-01-16",
+      "pdf_url": "https://www.orebro.se/download/18.5270978318d54c04e08dc5/1706774462835/2024-01-16%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-01-23",
+      "pdf_url": "https://www.orebro.se/download/18.5270978318d54c04e081088/1706860788241/2024-01-23%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-02-06",
+      "pdf_url": "https://www.orebro.se/download/18.2fded9ff18d829405932ba5/1708442269141/2024-02-06%20Kommunstyrelsen.pdf",
       "pages": null,
       "note": ""
     },
@@ -56,19 +182,75 @@
       "date": "2024-02-14",
       "pdf_url": "https://www.orebro.se/download/18.2fded9ff18d82940593375a/1708679841456/2024-02-14%20Kommunfullm%C3%A4ktige.pdf",
       "pages": null,
-      "note": "Heldagsmöte 09:00-17:20"
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-03-12",
+      "pdf_url": "https://www.orebro.se/download/18.19a5819318e5a4c8ee2465/1711013694450/2024-03-12%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-03-20",
+      "pdf_url": "https://www.orebro.se/download/18.45e37b6318e5a7b16a233bd/1712128565286/2024-03-20%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunstyrelsen",
       "date": "2024-04-09",
       "pdf_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
       "pages": null,
-      "note": "Redan processad"
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-04-24",
+      "pdf_url": "https://www.orebro.se/download/18.1626429218f37900f12c51/1714989626738/2024-04-24%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-05-07",
+      "pdf_url": "https://www.orebro.se/download/18.7020d79c18f9ec65a4d3c77/1716385897248/2024-05-07%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2024-05-14",
       "pdf_url": "https://www.orebro.se/download/18.7020d79c18f9ec65a4d8cf3/1716793048747/2024-05-14%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-06-03",
+      "pdf_url": "https://www.orebro.se/download/18.1cd49ebe1900c485a7b14b6/1718701236031/2024-06-03%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-06-10",
+      "pdf_url": "https://www.orebro.se/download/18.1feed43f1900c58b9d51f9e/1719239742509/2024-06-10%20-%202024-06-11%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-08-27",
+      "pdf_url": "https://www.orebro.se/download/18.418e3b72191df98650ae92/1726475794759/2024-08-27%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-08-28",
+      "pdf_url": "https://www.orebro.se/download/18.a3da954191dfb3886d15c/1726044357051/2024-08-28%20Kommunfullm%C3%A4ktige.pdf",
       "pages": null,
       "note": ""
     },
@@ -84,77 +266,252 @@
       "date": "2024-09-25",
       "pdf_url": "https://www.orebro.se/download/18.3ed7b4801924bc2c8f51424/1728313695392/2024-09-25%20Kommunfullm%C3%A4ktige.pdf",
       "pages": null,
-      "note": "Heldagsmöte 09:00-17:10"
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-10-15",
+      "pdf_url": "https://www.orebro.se/download/18.34845f44192b793f4ee420d/1730369563474/2024-10-15%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-10-23",
+      "pdf_url": "https://www.orebro.se/download/18.75393d1b192b7a18fef5c2f/1730730390780/2024-10-23%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-11-06",
+      "pdf_url": "https://www.orebro.se/download/18.61860de0193243bcf891b1e/1732029848687/2024-11-06%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-11-12",
+      "pdf_url": "https://www.orebro.se/download/18.b14473719367f7d9141a35/1733139343639/2024-11-12%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-11-20",
+      "pdf_url": "https://www.orebro.se/download/18.4d38189d193244943f62bd7/1732197453949/2024-11-20%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-12-03",
+      "pdf_url": "https://www.orebro.se/download/18.199688021939024f1446064/1734599376029/2024-12-03%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-12-11",
+      "pdf_url": "https://www.orebro.se/download/18.59abe9f8193debe46c8e0d/1734951952351/2024-12-11%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-01-21",
+      "pdf_url": "https://www.orebro.se/download/18.2b7da780193deb3827595f3/1738665489591/2025-01-21%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2025-01-29",
-      "pdf_url": "https://www.orebro.se/download/18.59abe9f8193debe46c88c90/1738229409630/2025-01-29%20Kommunfullm%C3%A4ktige%20%C2%A7%2013.pdf",
-      "pages": 6,
-      "note": "Delprotokoll, bara paragraph 13"
+      "pdf_url": "https://www.orebro.se/download/18.59abe9f8193debe46c8bb69/1738929723671/2025-01-29%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunstyrelsen",
       "date": "2025-02-11",
       "pdf_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
-      "pages": 18,
-      "note": "Redan processad. Bostadsförsörjning, dataskydd, BRT"
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-02-25",
+      "pdf_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf35e5/1741776557758/2025-02-25%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-03-18",
+      "pdf_url": "https://www.orebro.se/download/18.2be88190195ad87aa321cbd7/1743669110401/2025-03-18%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-03-26",
+      "pdf_url": "https://www.orebro.se/download/18.66f592fc19618bf6fcf1192/1744183028098/2025-03-26%20Kommunfullm%C3%A4ktige%20%C2%A7%C2%A7%2067%E2%80%9374%20och%2077%E2%80%9393.pdf",
+      "pages": null,
+      "note": "delprotokoll"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-04-08",
+      "pdf_url": "https://www.orebro.se/download/18.29282bee19618cb0e5bbcb6/1744788706081/2025-04-08%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-04-23",
+      "pdf_url": "https://www.orebro.se/download/18.7f33d9fe1969f5e06fa3bf4/1746708912267/2025-04-23%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-05-13",
+      "pdf_url": "https://www.orebro.se/download/18.10f29bbe196f10bee7b2981/1747989391671/2025-05-13%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-05-21",
+      "pdf_url": "https://www.orebro.se/download/18.45e4837f196f12a88865fd9/1748440311413/2025-05-21%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-06-10",
+      "pdf_url": "https://www.orebro.se/download/18.73dc4e9a1975d2ffff24529/1750247643733/2025-06-10%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-06-18",
+      "pdf_url": "https://www.orebro.se/download/18.6641008c197a1e1ab089cd/1751011978235/2025-06-18%20och%202025-06-19%20Kommunfullm%C3%A4ktige%20%C2%A7%C2%A7%20171%E2%80%93187,%20%C2%A7%C2%A7%20189%E2%80%93210.pdf",
+      "pages": null,
+      "note": "delprotokoll"
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2025-06-19",
       "pdf_url": "https://www.orebro.se/download/18.64c9951f1975d4dc5de4fa3/1750669452413/2025-06-19%20Kommunfullm%C3%A4ktige%20%C2%A7%20188.pdf",
       "pages": null,
-      "note": "Delprotokoll, paragraph 188"
+      "note": "delprotokoll"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-08-26",
+      "pdf_url": "https://www.orebro.se/download/18.7c23397219931e08dd1bc5/1757680441327/2025-08-26%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2025-08-27",
       "pdf_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
-      "pages": 37,
-      "note": "Fullständigt protokoll (37 sidor)"
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-09-16",
+      "pdf_url": "https://www.orebro.se/download/18.10d35aed1999e1646058a4/1759484104173/2025-09-16%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2025-09-24",
-      "pdf_url": "https://www.orebro.se/download/18.1261093c1993221cf6833fb/1758724837829/2025-09-24%20Kommunfullm%C3%A4ktige%20%C2%A7%20266,%20271.pdf",
-      "pages": 6,
-      "note": "Delprotokoll, paragraf 266 och 271"
+      "pdf_url": "https://www.orebro.se/download/18.10d35aed1999e164605a2f/1759499586298/2025-09-24%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunstyrelsen",
       "date": "2025-10-14",
       "pdf_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
-      "pages": 40,
-      "note": "Redan processad. Tilläggsbudget 2026, lokalförsörjningsplan, BRT etapp 2"
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-10-22",
+      "pdf_url": "https://www.orebro.se/download/18.5a8b45019a0a48e3072211/1761913754933/2025-10-22%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunstyrelsen",
       "date": "2025-11-11",
       "pdf_url": "https://www.orebro.se/download/18.532e2b0519a768a724f8ae/1763038918069/2025-11-11%20Kommunstyrelsen.pdf",
-      "pages": 19,
-      "note": "Redan processad. Likviditetsportfölj, enprocentsregeln, motioner"
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-11-18",
+      "pdf_url": "https://www.orebro.se/download/18.2755e3bf19a767c7ea73dee/1764258293926/2025-11-18%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2025-12-02",
+      "pdf_url": "https://www.orebro.se/download/18.3fe8f33c19afcca2f3affe/1765465397339/2025-12-02%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2025-12-10",
       "pdf_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
-      "pages": 40,
-      "note": "Redan processad. Nämndreglemente, 202 ej verkställda beslut"
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2026-01-20",
+      "pdf_url": "https://www.orebro.se/download/18.2cc7f27a19c27129255e05/1770645874896/2026-01-20%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2026-01-27",
+      "pdf_url": "https://www.orebro.se/download/18.2cc7f27a19c27129255d69/1770633686189/2026-01-27%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2026-02-10",
+      "pdf_url": "https://www.orebro.se/download/18.7d5d1aa219c934a544f168/1772022326292/2026-02-10%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2026-02-25",
-      "pdf_url": null,
+      "pdf_url": "https://www.orebro.se/download/18.4d5d36eb19cff8b08f32bc7/1774278088296/2026-02-25%20Kommunfullm%C3%A4ktige.pdf",
       "pages": null,
-      "note": "Finns på anslagstavlan men PDF ej hittad ännu"
+      "note": ""
     },
     {
       "organ": "Kommunstyrelsen",
       "date": "2026-03-17",
-      "pdf_url": null,
+      "pdf_url": "https://www.orebro.se/download/18.18301f7919cff7cd06588/1773823530413/2026-03-17%20Kommunstyrelsen%20%C2%A7%C2%A7%2048-49,%2066.pdf",
       "pages": null,
-      "note": "Finns på anslagstavlan (§§ 48-49, 66) men PDF ej hittad ännu"
+      "note": "delprotokoll"
     }
   ]
 }
