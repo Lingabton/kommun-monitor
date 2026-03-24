@@ -51,7 +51,7 @@
           "L",
           "V",
           "SD",
-          "OrP",
+          "ÖrP",
           "MP"
         ],
         "against": [],
@@ -86,7 +86,7 @@
         "against": [],
         "abstained": [
           "L",
-          "OrP",
+          "ÖrP",
           "V",
           "MP",
           "SD"
@@ -124,7 +124,7 @@
           "MP",
           "KD",
           "SD",
-          "OrP"
+          "ÖrP"
         ],
         "result": "Avslag"
       },
@@ -186,7 +186,7 @@
         "against": [],
         "abstained": [
           "L",
-          "OrP",
+          "ÖrP",
           "V",
           "MP"
         ],
@@ -219,7 +219,7 @@
         "abstained": [
           "KD",
           "L",
-          "OrP"
+          "ÖrP"
         ],
         "result": "Bifall"
       },
@@ -250,7 +250,7 @@
         "abstained": [
           "SD",
           "L",
-          "OrP"
+          "ÖrP"
         ],
         "result": "Bifall"
       },
@@ -284,7 +284,7 @@
           "KD",
           "SD",
           "L",
-          "OrP"
+          "ÖrP"
         ],
         "result": "Avslag"
       },
@@ -361,7 +361,7 @@
         "abstained": [
           "KD",
           "L",
-          "OrP",
+          "ÖrP",
           "V",
           "MP"
         ],
@@ -394,7 +394,7 @@
         "against": [],
         "abstained": [
           "SD",
-          "OrP"
+          "ÖrP"
         ],
         "result": "Avslag"
       },
@@ -449,7 +449,7 @@
           "V",
           "SD",
           "KD",
-          "OrP"
+          "ÖrP"
         ],
         "result": "Avslag"
       },

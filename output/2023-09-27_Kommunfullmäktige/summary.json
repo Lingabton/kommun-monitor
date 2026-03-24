@@ -22,7 +22,7 @@
           "KD",
           "V",
           "SD",
-          "OrP",
+          "ÖrP",
           "MP"
         ],
         "against": [],
@@ -56,7 +56,7 @@
           "L",
           "KD",
           "SD",
-          "OrP"
+          "ÖrP"
         ],
         "against": [
           "V"
@@ -96,7 +96,7 @@
         ],
         "against": [],
         "abstained": [
-          "OrP"
+          "ÖrP"
         ],
         "result": "Bifall"
       },
@@ -129,7 +129,7 @@
         ],
         "against": [
           "SD",
-          "OrP"
+          "ÖrP"
         ],
         "abstained": [],
         "result": "Avslagen"
@@ -157,7 +157,7 @@
           "S"
         ],
         "against": [
-          "OrP"
+          "ÖrP"
         ],
         "abstained": [],
         "result": "Avslagen"
@@ -254,7 +254,7 @@
           "KD",
           "V",
           "SD",
-          "OrP",
+          "ÖrP",
           "MP"
         ],
         "against": [],
@@ -289,7 +289,7 @@
         "against": [
           "L",
           "V",
-          "OrP",
+          "ÖrP",
           "MP"
         ],
         "abstained": [],
@@ -326,7 +326,7 @@
         ],
         "against": [],
         "abstained": [
-          "OrP",
+          "ÖrP",
           "SD"
         ],
         "result": "Bifall"

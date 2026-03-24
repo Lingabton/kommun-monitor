@@ -258,6 +258,7 @@ section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
   display: flex; align-items: flex-start; gap: 8px; font-size: 13px;
 }
 .latest-meeting .mini-decision:last-child { border-bottom: none; }
+.latest-meeting .mini-decision:hover { background: var(--bg); border-radius: 6px; }
 .latest-meeting .mini-hl { font-weight: 600; color: var(--text); }
 .latest-meeting .mini-sum { color: var(--text-mid); margin-top: 1px; }
 
@@ -463,13 +464,20 @@ function vh(v) {
   return h + "</div>";
 }
 
-// Fix 3: Badges with tooltips explaining what they mean
+// Determine if a decision is actually contested (has opposing votes)
+function isContested(d) {
+  const v = g(d,"vote","voting");
+  if (!v) return false;
+  const against = v.a || v.against || [];
+  return against.length > 0;
+}
+
 function badges(d) {
   let h = "";
-  if (d.contested) h += '<span class="bg bc" title="Minst ett parti röstade emot — beslutet var inte alla överens om">⚡ Omstritt</span> ';
+  if (isContested(d)) h += '<span class="bg bc" title="Minst ett parti röstade emot — beslutet var inte alla överens om">⚡ Omstritt</span> ';
   const r = (g(d,"vote","voting") || {}).r || (g(d,"vote","voting") || {}).result || "";
   if (r.toLowerCase().includes("votering")) h += '<span class="bg bv" title="Ledamöterna fick rösta formellt — inte bara med handuppräckning">🗳️ Votering</span> ';
-  if (r.toLowerCase().includes("enhälligt")) h += '<span class="bg bu" title="Alla partier var överens">✓ Enhälligt</span> ';
+  if (!isContested(d) && (r.toLowerCase().includes("enhälligt") || r.toLowerCase().includes("enhalligt") || r.toLowerCase().includes("bifall"))) h += '<span class="bg bu" title="Alla partier var överens">✓ Enhälligt</span> ';
   return h;
 }
 
@@ -501,7 +509,7 @@ async function init() {
 }
 
 function renderStats() {
-  const contested = A.filter(d => d.contested).length;
+  const contested = A.filter(d => isContested(d)).length;
   const e = document.getElementById("hs");
   const items = [
     { n: A.length, l: "beslut", c: "#60a5fa" },
@@ -521,22 +529,43 @@ function renderLatestMeeting() {
   const m = D.meetings[0];
   if (!m) return;
   const wrap = document.getElementById("latest-meeting-wrap");
-  const contested = m.decisions.filter(d => d.contested).length;
+  const contested = m.decisions.filter(d => isContested(d)).length;
   let items = "";
-  m.decisions.slice(0, 8).forEach(d => {
+  m.decisions.forEach((d, i) => {
     const hl = g(d,"hl","headline");
     const sm = g(d,"sum","summary");
-    items += '<div class="mini-decision">' +
-      '<span style="flex-shrink:0">' + (CE[g(d,"cat","category")] || "📋") + '</span>' +
-      '<div><div class="mini-hl">' + hl + ' ' + badges(d) + '</div>' +
-      '<div class="mini-sum">' + sm + '</div></div></div>';
+    const cat = g(d,"cat","category");
+    const loc = g(d,"loc","location");
+    const ref = g(d,"ref","paragraph_ref");
+    const v = g(d,"vote","voting");
+    const dt = d.detail || "";
+    const uid = "lm" + i;
+
+    let bh = "";
+    if (dt) bh += '<div class="dt">' + dt.split("\n\n").map(p => "<p>" + p + "</p>").join("") + '</div>';
+    bh += vh(v);
+    if (d.quote) bh += '<div class="qb">"' + d.quote + '" <span class="qp">— ' + (d.qp || d.quote_page || "") + '</span></div>';
+    if (d.id) bh += '<a class="read-more" href="beslut/' + d.id + '/">Läs hela beslutet →</a>';
+
+    items += '<div class="dc" id="' + uid + '" style="border-left-color:' + (CC[cat] || "var(--border)") + '">' +
+      '<div class="hd" onclick="document.getElementById(\'' + uid + '\').classList.toggle(\'op\')">' +
+      '<span style="font-size:18px;flex-shrink:0;margin-top:1px">' + (CE[cat] || "📋") + '</span>' +
+      '<div style="flex:1;min-width:0">' +
+      '<div class="hl">' + hl + ' ' + badges(d) + '</div>' +
+      '<div class="ds">' + sm + '</div>' +
+      '<div class="dm">' +
+      (ref ? '<span>' + ref + '</span><span>·</span>' : '') +
+      (loc ? '<span>📍 ' + loc + '</span><span>·</span>' : '') +
+      '<span>' + fmt(m.date) + '</span>' +
+      '</div></div>' +
+      '<span class="ar">▼</span></div>' +
+      '<div class="bd">' + bh + '</div></div>';
   });
-  const more = m.decisions.length > 8 ? '<div style="font-size:12px;color:var(--text-light);padding-top:6px">+ ' + (m.decisions.length - 8) + ' fler beslut</div>' : '';
-  wrap.innerHTML = '<div class="card">' +
+  wrap.innerHTML = '<div style="margin-bottom:8px">' +
     '<div class="header"><h2>Senaste sammanträdet</h2>' +
     '<div class="meeting-meta">' + m.organ + ' · ' + fmt(m.date) + ' · ' + m.decisions.length + ' beslut' +
     (contested > 0 ? ' · <span style="color:var(--red)">' + contested + ' omstridda</span>' : '') +
-    '</div></div>' + items + more + '</div>';
+    '</div></div></div>' + items;
 }
 
 // Year filter
@@ -566,7 +595,7 @@ function renderWhy() {
 
 // Fix 5: Featured with human-readable explanation
 function renderFeatured() {
-  const d = A.find(x => x.contested) || A[0];
+  const d = A.find(x => isContested(x)) || A[0];
   if (!d) return;
   const wrap = document.getElementById("featured-wrap");
   const cat = g(d,"cat","category") || "";
@@ -584,12 +613,17 @@ function renderFeatured() {
 function renderParties() {
   const s = {};
   Object.keys(PC).forEach(p => { s[p] = {y:0, n:0, a:0, t:0}; });
+
+  // Count total decisions that have any voting data
+  let decisionsWithVotes = 0;
   A.forEach(d => {
     const v = g(d,"vote","voting");
     if (!v) return;
     const f = v.f || v["for"] || [];
     const a = v.a || v.against || [];
     const ab = v.ab || v.abstained || [];
+    if (f.length + a.length + ab.length === 0) return;
+    decisionsWithVotes++;
     [...f,...a,...ab].forEach(p => {
       if (!s[p]) return;
       s[p].t++;
@@ -599,7 +633,7 @@ function renderParties() {
     });
   });
 
-  document.getElementById("psb").textContent = "Baserat på " + A.length + " beslut i Kommunfullmäktige och Kommunstyrelsen. Grönt = röstade ja, rött = röstade nej.";
+  document.getElementById("psb").textContent = "Baserat på " + decisionsWithVotes + " beslut med röstningsdata. Grönt = ja, rött = nej.";
   const gr = document.getElementById("pgr");
 
   Object.entries(s)

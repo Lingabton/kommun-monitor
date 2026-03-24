@@ -22,7 +22,7 @@
           "KD",
           "V",
           "SD",
-          "OrP",
+          "ÖrP",
           "MP"
         ],
         "against": [],
@@ -56,7 +56,7 @@
           "L",
           "KD",
           "SD",
-          "OrP",
+          "ÖrP",
           "MP"
         ],
         "against": [],
@@ -87,7 +87,7 @@
         "for": [],
         "against": [
           "SD",
-          "OrP"
+          "ÖrP"
         ],
         "abstained": [],
         "result": "Avslaget"
@@ -117,7 +117,7 @@
           "SD",
           "V",
           "KD",
-          "OrP"
+          "ÖrP"
         ],
         "abstained": [],
         "result": "Avslaget"
@@ -222,7 +222,7 @@
         ],
         "against": [
           "SD",
-          "OrP"
+          "ÖrP"
         ],
         "abstained": [],
         "result": "Bifall"
