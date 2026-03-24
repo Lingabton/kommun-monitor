@@ -1,0 +1,130 @@
+{
+  "total_present": 79,
+  "parties": {
+    "S": {
+      "present": 23,
+      "names": [
+        "Jan Zetterqvist",
+        "John Johansson",
+        "Kemal Hoso",
+        "Jessica Ekerbring",
+        "Mats Sjöström",
+        "Maja Gullberg",
+        "Marie Brorson",
+        "Unnur Tryggvadottir Nordell",
+        "Jonas Håård",
+        "Jenny Thor",
+        "Pell Uno Larsson",
+        "Ellen Leijen",
+        "Eva Eriksson",
+        "Carina Toro Hartman",
+        "Anna Hedström",
+        "Frederick Axewill",
+        "Fisun Yavas",
+        "Zezo Alnaji",
+        "Inger Carlsson",
+        "Thomas Börjesson",
+        "Daniel Ekblad",
+        "Niclas Helander",
+        "Matilda Jansson"
+      ]
+    },
+    "M": {
+      "present": 13,
+      "names": [
+        "Daniel Granqvist",
+        "Anders Åhrlin",
+        "Lucas Holmberg",
+        "Hossein Azeri",
+        "Maria Haglund",
+        "Emelie Jaxell",
+        "Christopher Hedbom Rydaeus",
+        "Johan Kumlin",
+        "Maria Hedwall",
+        "Monica Thyresjö",
+        "Sara Dicksen",
+        "Milian Olavssønn Snekkerbakken",
+        "Magnus Stålberg",
+        "Krister Eriksson"
+      ]
+    },
+    "C": {
+      "present": 8,
+      "names": [
+        "Jimmy Nordengren",
+        "Gunhild Wallin",
+        "Abdulrahman Ibrahim Muhammed",
+        "Anna Ekström",
+        "Anders Olsson",
+        "Alexandra Royal",
+        "Elisabeth Malmqvist",
+        "Tina Fingal"
+      ]
+    },
+    "L": {
+      "present": 5,
+      "names": [
+        "Karolina Wallström",
+        "Patrik Jämtvall",
+        "Johanna Reimfelt",
+        "Mats-Olof Liljegren",
+        "Gunilla Werme",
+        "Marianne Thyr"
+      ]
+    },
+    "KD": {
+      "present": 6,
+      "names": [
+        "Anders Hagström",
+        "Susanne Lindholm Henningsson",
+        "Sandra Fröjdenstam",
+        "Paula Säker",
+        "Kasper Avenbrand"
+      ]
+    },
+    "V": {
+      "present": 7,
+      "names": [
+        "Sunil Jayasooriya",
+        "Martha Wicklund",
+        "Elisabeth Nilesol",
+        "Linn Josefsson",
+        "Peter Ekström",
+        "Christina Hermansson Plaçon",
+        "Andreas Mäkelä"
+      ]
+    },
+    "SD": {
+      "present": 9,
+      "names": [
+        "Helena Ståhl",
+        "Habib Brini",
+        "Carola Sunesson",
+        "David Larsson",
+        "Bjarne Bäckström",
+        "Christer Johansson",
+        "Lena Lindén",
+        "Michael Larsson"
+      ]
+    },
+    "ÖrP": {
+      "present": 5,
+      "names": [
+        "Markus Allard",
+        "Peter Springare",
+        "Anna Lundberg",
+        "Tuomo Jänkälä",
+        "Glenn Roswall"
+      ]
+    },
+    "MP": {
+      "present": 3,
+      "names": [
+        "Fredrik Persson",
+        "Lea Strandberg",
+        "Marcus Willén Ode"
+      ]
+    }
+  },
+  "absent_mentioned": []
+}
