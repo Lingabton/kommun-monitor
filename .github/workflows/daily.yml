@@ -20,6 +20,7 @@ on:
           - retry          # Retry protocols missing PDFs
           - backfill-2025  # Backfill 2025 protocols
           - backfill-2026  # Backfill 2026 protocols
+          - process-known  # Process all from known_protocols.json
           - dry-run        # Show what would happen
 
 permissions:
@@ -30,7 +31,7 @@ permissions:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
 
     steps:
       - name: Checkout
@@ -82,6 +83,10 @@ jobs:
             backfill-2026)
               echo "📚 Backfilling 2026..."
               python pipeline.py --backfill 2026 --max 10
+              ;;
+            process-known)
+              echo "📄 Processing all known protocols..."
+              python pipeline.py --process-known --skip-git
               ;;
             dry-run)
               echo "🧪 Dry run..."
