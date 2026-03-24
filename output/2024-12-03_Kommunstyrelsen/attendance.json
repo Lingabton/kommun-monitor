@@ -1,0 +1,73 @@
+{
+  "total_present": 16,
+  "parties": {
+    "S": {
+      "present": 5,
+      "names": [
+        "Jessica Ekerbring",
+        "Kemal Hoso",
+        "Marie Brorson",
+        "Jonas Håård",
+        "Maja Gullberg",
+        "Mats Sjöström"
+      ]
+    },
+    "M": {
+      "present": 3,
+      "names": [
+        "Anders Åhrlin",
+        "Maria Haglund",
+        "Johan Kumlin"
+      ]
+    },
+    "C": {
+      "present": 2,
+      "names": [
+        "Jimmy Nordengren",
+        "Anna Ekström"
+      ]
+    },
+    "L": {
+      "present": 2,
+      "names": [
+        "Karolina Wallström",
+        "Yngve Alkman"
+      ]
+    },
+    "KD": {
+      "present": 1,
+      "names": [
+        "Susanne Lindholm Henningsson"
+      ]
+    },
+    "V": {
+      "present": 1,
+      "names": [
+        "Martha Wicklund"
+      ]
+    },
+    "SD": {
+      "present": 1,
+      "names": [
+        "Helena Ståhl"
+      ]
+    },
+    "ÖrP": {
+      "present": 1,
+      "names": [
+        "Markus Allard"
+      ]
+    },
+    "MP": {
+      "present": 1,
+      "names": [
+        "Lea Strandberg"
+      ]
+    }
+  },
+  "absent_mentioned": [
+    "John Johansson (S)",
+    "Christopher Hedbom Rydaeus (M)",
+    "Bo Ammer (SD)"
+  ]
+}
