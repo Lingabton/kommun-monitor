@@ -1,0 +1,311 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2023-12-12",
+  "summary_headline": "Låneramen, översiktsplan och VA-utökning beslutat",
+  "decisions": [
+    {
+      "headline": "Låneramen för kommunkoncernen fastställs till 22,5 miljarder kronor",
+      "summary": "Kommunfullmäktige fastställde ramen för extern låneskuld för perioden 2024–2026 till 22,5 miljarder kronor och avgifter för koncerninterna lån. SD och ÖrP motsatte sig beslutet.",
+      "detail": "Enligt den koncerngemensamma finanspolicyn ska Kommunfullmäktige årligen fastställa en ram för externa lån till kommunkoncernen. Ramen inrymmer internbankens lån, kommunens egna lån och beslutad borgen till de kommunägda bolagen.\n\nKommunfullmäktige beslutade att fastställa ramen till 22,5 miljarder kronor för perioden 2024–2026 och att avgifter för koncerninterna lån och borgen fastställs enligt bifogad bilaga 2.\n\nBo Ammer (SD) yrkade på återremiss med hänvisning till Sverigedemokraternas tidigare budgetförslag, och Markus Allard (ÖrP) yrkade på återremiss enligt Örebropartiets senast lagda budget. Båda återremissyrkandena avslogs. Karolina Wallström (L) fick lämna ett särskilt yttrande till protokollet.\n\nSD-ledamöterna reserverade sig mot beslutspunkt 1, och ÖrP-ledamöterna reserverade sig skriftligt mot hela beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 420",
+      "quote": "Ramen för kommunkoncernens samlade externa låneskuld fastställs till 22,5 miljarder kronor för perioden 2024–2026.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "låneram",
+        "ekonomi",
+        "kommunkoncern"
+      ],
+      "id": "2023-12-12_ko_420"
+    },
+    {
+      "headline": "Planeringsstrategi för översiktsplanen 2023–2026 antagen",
+      "summary": "Kommunfullmäktige antog planringsstrategi för översiktsplanen för åren 2023–2026. ÖrP och MP motsatte sig eller yrkade ändringar.",
+      "detail": "Enligt plan- och bygglagen ska kommunen kontinuerligt utvärdera översiktsplanen och beskriva områden där den behöver ändras. Miljö- och stadsbyggnadsförvaltningen identifierade flera områden av stor betydelse för att översiktsplanen ska uppfylla sitt syfte att visa på långsiktig hållbar utveckling.\n\nKommunfullmäktige beslutade att anta planingsstrategi för Örebro kommuns översiktsplan för åren 2023–2026.\n\nMarkus Allard (ÖrP) yrkade på återremiss men avslogs. Lea Strandberg (MP) yrkade på att tillägga \"Strategi för ett jämställt Örebro 2016-2025\" bland planeringsunderlagen, men detta tilläggsyrkande avslogs.\n\nÖrebropartiet och MP-ledamöterna reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 422",
+      "quote": "Planeringsstrategi för Örebro kommuns översiktsplan för åren 2023–2026 antas.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "översiktsplan",
+        "planering",
+        "hållbarhet"
+      ],
+      "id": "2023-12-12_ko_422"
+    },
+    {
+      "headline": "VA-verksamhetsområden utökade för ny bebyggelse",
+      "summary": "Kommunfullmäktige beslutade att utöka verksamhetsområdena för dricks-, spill- och dagvatten för nya och planerade exploateringsområden.",
+      "detail": "Örebro kommun måste återkommande se över och vid behov förändra och utöka verksamhetsområdena för vatten och avlopp (VA) enligt gällande lagstiftning. Detta behövs för nya och planerade exploateringsområden och för befintliga bebyggelseområden där det finns behov av kommunal VA-försörjning.\n\nKommunfullmäktige beslutade att utöka verksamhetsområdena för dricksvatten, spillvatten och dagvatten i enlighet med förslag i bifogade kartor och fastighetsförteckning. Ett beslut om utökat verksamhetsområde är nödvändigt för att VA-utbyggnaden ska kunna genomföras.\n\nMarkus Allard (ÖrP) yrkade på återremiss men avslogs. ÖrP-ledamöterna reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 423",
+      "quote": "Verksamhetsområdena för dricksvatten, spillvatten och dagvatten utökas i enlighet med förslag i bifogade kartor och fastighetsförteckning.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "vatten",
+        "avlopp",
+        "infrastruktur",
+        "exploatering"
+      ],
+      "id": "2023-12-12_ko_423"
+    },
+    {
+      "headline": "Kulturpolitiska och idrottspolitiska programmen förlängda",
+      "summary": "Kommunfullmäktige förklarade kultur- och idrottspolitiska programmen gällande till vidare med utvärdering inför varje mandatperiod.",
+      "detail": "De kulturpolitiska och idrottspolitiska programmen är två styrdokument för de kommunala nämndernas och bolagens strategiarbete. De antogs 2018 med giltighetstid 2018–2022, men eftersom ställningstagandena fortfarande är aktuella föreslog förvaltningen att förlänga giltigheten.\n\nKommunfullmäktige beslutade att båda programmen ska gälla till och med att behov av revidering uppstår och ställningstaganden inte längre ses aktuella. Utvärdering ska återrapporteras till Kultur- och fritidsnämnden inför varje mandatperiod.\n\nV, L och KD hade reservationer. Lea Strandberg (MP) yrkade på att idrottsprogrammet utvärderas årligen med könsuppdelad statistik, könskonsekvensanalys och jämställdhetsbudgetering, men detta avslogs.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 421",
+      "quote": "Kulturpolitiskt program (Km 396/2016) ska gälla till och med att behov av revidering uppstår och ställningstaganden inte längre ses aktuella.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "V"
+        ],
+        "abstained": [
+          "L"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "kultur",
+        "idrott",
+        "styrdokument",
+        "policy"
+      ],
+      "id": "2023-12-12_ko_421"
+    },
+    {
+      "headline": "Motion om miljöbidrag för hållbar utveckling avslogs",
+      "summary": "Kommunfullmäktige avslog motion från MP om inrättning av årligt miljöbidrag för lokala initiativ för hållbar utveckling.",
+      "detail": "Sara Bronner och Niclas Persson (MP) föreslog inrättande av ett årligt miljöbidrag med en fond på cirka 200 000 kr som successivt skulle ökas. Syftet var att uppmuntra och stödja aktörer som genomför åtgärder för miljömässigt hållbar utveckling.\n\nKommunfullmäktige beslutade att avslå motionen. Bedömningen var att det genom nuvarande föreningsbidrag redan finns möjlighet för föreningar att ansöka om bidrag för åtgärder som bidrar till minskad klimatpåverkan.\n\nLea Strandberg (MP) och Jaber Fawaz (V) yrkade på bifall till motionen, men detta avslogs. MP och V-ledamöterna reserverade sig mot beslutet.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 424",
+      "quote": "Motionen innehåller ett förslag om att inrätta ett årligt miljöbidrag för att uppmuntra och stödja aktörer som vill genomföra åtgärder för en miljömässigt hållbar utveckling.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "MP",
+          "V"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "miljöbidrag",
+        "hållbarhet",
+        "motion",
+        "miljö"
+      ],
+      "id": "2023-12-12_ko_424"
+    },
+    {
+      "headline": "Motion om hemlöshetsansvar delvis tillgodosedd",
+      "summary": "Kommunfullmäktige avslog motion från MP om att tydliggöra kommunens ansvar för att motverka hemlöshet, men V ville tillgodose del av motionen.",
+      "detail": "Niclas Persson (MP) föreslog att socialtjänsten ska utse en socialsekreterare vid placering på härbärge och att härbärgesplatser ska betalas per natt med kostnad som ökar med tiden. Syftet var att ge ekonomiska incitament för aktiva insatser mot hemlöshet.\n\nKommunfullmäktige beslutade att avslå motionen. Programnämnd social välfärd bedömde att förslagen inte skulle leda till att kommunen når och hjälper fler i hemlöshet utan snarare försämra kontakten med målgruppen.\n\nJaber Fawaz (V) yrkade på bifall till första att-satsen (att socialtjänsten utser socialsekreterare), vilket blev motförslag men avslogs till förmån för huvudförslaget. MP och V-ledamöterna reserverade sig mot beslutet.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 425",
+      "quote": "Motionen innehåller förslag om att socialtjänsten ska ansvara över att utse en socialsekreterare vid beslut om placering på härbärge.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "MP",
+          "V"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "hemlöshet",
+        "socialtjänst",
+        "motion",
+        "välfärd"
+      ],
+      "id": "2023-12-12_ko_425"
+    },
+    {
+      "headline": "Enprocentsregeln för offentlig konst behålls",
+      "summary": "Kommunfullmäktige avslogs motion från ÖrP om att slopa enprocentsregeln för offentlig konst i kommunkoncernen.",
+      "detail": "Markus Allard och Peter Springare (ÖrP) föreslog att slopa enprocentsregeln, en ekonomisk princip som betyder att en procent av budgeten för ny-, om- och tillbyggnad avsätts för konstnärlig gestaltning. Regeln tillämpas sedan 1930-talet i Sverige och sedan 1968 i Örebro kommun.\n\nKommunfullmäktige beslutade att avslå motionen med 51 ja-röster mot 12 nej-röster. Bedömningen var att enprocentsregeln är ett viktigt verktyg för att garantera att medborgare får möjlighet att ta del av konst och att nutida konst är viktig för framtida kulturarv.\n\nÖrebropartiet, SD-ledamöter reserverade sig mot beslutet. Votering genomfördes.",
+      "category": "kultur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 426",
+      "quote": "Enprocentsregeln är en ekonomisk princip för offentlig konst som innebär att en procent av den totala budgeten avsätts för konstnärlig gestaltning vid ny-, om- och tillbyggnad.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "konst",
+        "enprocentsregeln",
+        "kultur",
+        "budget"
+      ],
+      "id": "2023-12-12_ko_426"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Pendlarparkering - utökning av mobilitetshubbarna",
+      "party": "V",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Reservgeneratorer och satellitkommunikation för beredskap",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "SMR-reaktor i Örebro kommun",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Mobil fritidsgård i Örebro",
+      "party": "MP",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Återuppliva Rådhusets julkalender",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Pratbänkar i Örebro mot ensamhet",
+      "party": "KD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Kommunen upphör som utförare av service",
+      "party": "KD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Kommundelning - Östernärke egen kommun",
+      "party": "SD",
+      "status": "Bordlad"
+    },
+    {
+      "title": "Kameraövervakning vid samtliga kommunala verksamheter",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Markförvärv för småhusbebyggelse",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Utmaningsrätt bygg och driftsverksamheten",
+      "party": "L",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Skär ner på konsulttjänster",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Begär pengar från regeringen för god försörjning",
+      "party": "V",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 12,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2023-12-12",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-12_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 7
+}

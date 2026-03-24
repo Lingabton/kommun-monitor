@@ -1,0 +1,429 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2023-12-05",
+  "summary_headline": "Budget, lån och flyg­plats­stöd omstritt i decembermöte",
+  "decisions": [
+    {
+      "headline": "Låneramar 22,5 miljarder för koncernen 2024–2026",
+      "summary": "Kommunstyrelsen fastställde externa låneramar för kommunkoncernen på 22,5 miljarder kronor för perioden 2024–2026. Beslutet mötte motstånd från SD och Örebropartiet.",
+      "detail": "Kommunfullmäktige ska årligen fastställa en ram för externa lån till kommunkoncernen. Kommunstyrelsen beslutade att ramen för kommunkoncernens samlade externa låneskuld fastställs till 22,5 miljarder kronor för perioden 2024–2026. Samtidigt fastställdes Örebro kommuns egen låneinskuld till 20,8 miljarder kronor.\n\nHelena Ståhl (SD) yrkade på återremiss för beräkning enligt Sverigedemokraternas budgetförslag, eller i andra hand avslag. Markus Allard (Örebropartiet) yrkade på återremiss enligt sitt partis förslag, eller avslag. \n\nOrdföranden John Johansson (S) fann att ärendet skulle avgöras omedelbar och ställde förslagen mot varandra. Kommunstyrelsen beslutade enligt förvaltningens förslag. Liberalernas Karolina Wallström lämnade en anteckning om återhållen investeringspolitik.\n\nBeslutet sendes till Kommunfullmäktige för final fatning. SD, Örebropartiet reserverade sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 241",
+      "quote": "Ramen för kommunkoncernens samlade externa låneskuld fastställs till 22,5 miljarder kronor för perioden 2024–2026.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "låneramar",
+        "koncernen",
+        "ekonomi",
+        "2024-2026"
+      ],
+      "id": "2023-12-05_ko_241"
+    },
+    {
+      "headline": "Flygplats får 37 miljoner i driftbidrag 2024",
+      "summary": "Kommunstyrelsen beviljade Örebro Läns Flygplats AB totalt 37,3 miljoner kronor i driftbidrag för 2024, varav Örebro kommuns andel är 17,6 miljoner. Vänsterpartiet reserverade sig.",
+      "detail": "Örebro Läns Flygplats AB är ett delägt bolag där Örebro Rådhus AB och Region Örebro Län äger 44,95 procent vardera, medan Kumla och Karlskoga kommuner äger 5,05 procent vardera. Flygplatsen hade endast 67 018 passagerare 2022.\n\nKommunstyrelsen beslutade att bevilja totalt 37 335 600 kronor för att täcka flygplatsens rörelseförluster 2024. Örebro kommun och Region Örebro Län bidrar vardera med 17 590 400 kronor. Stödet ges med stöd av EU:s gruppundantagsförordning (GBER) för flygplatser under 200 000 passagerare per år.\n\nMartha Wicklund (V) yrkade på avslag och att kommunen skulle utreda möjlighet för förstatligande eller försäljning/avveckling av flygplatsen. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutade enligt förvaltningens förslag. Vänsterpartiet reserverade sig skriftligt.",
+      "category": "budget",
+      "contested": true,
+      "location": "Örebro Läns Flygplats",
+      "paragraph_ref": "§ 243",
+      "quote": "Bevilja 37 335 600 SEK till Örebro Läns Flygplats AB för täckning av förluster under år 2024.",
+      "quote_page": "s. 6-7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "flygplats",
+        "driftbidrag",
+        "miljoner",
+        "EU-stöd"
+      ],
+      "id": "2023-12-05_ko_243"
+    },
+    {
+      "headline": "Kommunstyrelsens budget 2024 fastställd trots reservationer",
+      "summary": "Kommunstyrelsen fastställde sin egen verksamhetsplan och budget för 2024 enligt förvaltningens förslag. Fyra oppositionspartier reserverade sig för egna budgetförslag.",
+      "detail": "Kommunstyrelsen fastställde sin verksamhetsplan med budget 2024 enligt förvaltningens förslag. Planen utgår från Örebros övergripande strategier och ska leda till måluppfyllelse enligt Kommunfullmäktiges fastställda strategiska områden.\n\nFör 2024 måste kommunens verksamheter klara budget och kostnadsutvecklingen för att hålla de finansiella målen. Detta kräver mer samarbete mellan förvaltningarna. Kommundirektören fick besluta om ombudgetering inom kommunledningsförvaltningens verksamhetsområden under året.\n\nKarolina Wallström (L) yrkade avslag till förmån för Liberalernas förslag. Susanne Lindholm Henningsson (KD) yrkade avslag för Kristdemokraternas satsningar. Helena Ståhl (SD) yrkade avslag för Sverigedemokraternas budgetförslag. Markus Allard (Örebropartiet) yrkade avslag för sitt partis budgetförslag. Martha Wicklund (V) avstod från att delta. Ordföranden fann att Kommunstyrelsen beslutade enligt förvaltningens förslag. Fyra partier reserverade sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 245",
+      "quote": "Verksamhetsplan med budget 2024 för Kommunstyrelsen fastställs.",
+      "quote_page": "s. 9-10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "kommunstyrelsen",
+        "2024",
+        "verksamhetsplan"
+      ],
+      "id": "2023-12-05_ko_245"
+    },
+    {
+      "headline": "Teckenspråkig fritidsgård Fritte får 400 000 kronor extra",
+      "summary": "Kultur- och fritidsnämnden får 400 000 kronor för att möta ökad efterfrågan på den teckenspråkiga fritidsgården Fritte från 2024 och framåt.",
+      "detail": "Den teckenspråkiga fritidsgården Fritte drivs av föreningen Kulturhuset Scenit med avtal från Kultur- och fritidsnämnden. För att möta ökad efterfrågan och säkerställa rimliga förutsättningar för verksamheten avsåg nämnden att öka verksamhetsbidraget med 600 000 kronor.\n\nKommunstyrelsen tilldelade därför Kultur- och fritidsnämnden ett budgetanslag på 400 000 kronor från 2024 och framåt för att finansiera detta. Medel finansierades från Kommunstyrelsens oförutsedda budget. Detta var ett av sex beslut i ett samlingsärende för tilläggsanslag 2024.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 248",
+      "quote": "Kultur- och fritidsnämnden tilldelas ett budgetanslag för Teckenspråkig fritidsgård Fritte med 400 tkr från 2024 och tills vidare.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "fritidsgård",
+        "teckenspråk",
+        "budget",
+        "Fritte"
+      ],
+      "id": "2023-12-05_ko_248"
+    },
+    {
+      "headline": "Tegelbruket får långsiktig finansiering på 2 miljoner",
+      "summary": "Kommunstyrelsen tilldelade Tegelbruket-verksamheten 2 miljoner kronor från 2024 framåt för långsiktig finansiering av ungdomsaktivitetshuset.",
+      "detail": "Tegelbruket är ett aktivitetshus för ungdomar som drivs som ideell förening av KFUM Örebro och Sensus studieförbund med stöd av externa finansiärer. 2023 tilldelade Örebro Bostäder ett avtal med Tegelbruket.\n\nFör att säkerställa långsiktig finansiering av Tegelbruket från 2024 och framåt tilldelade Kommunstyrelsen 2 000 000 kronor från Kommunstyrelsens investeringsutrymme. Detta är en permanent anslagssats till skillnad från tidigare tillfälliga lösningar.\n\nHelena Ståhl (SD) och Bo Ammer (SD) reserverade sig mot detta beslutspunkt, där de yrkade på att Tegelbruket skulle undantas.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 248",
+      "quote": "Kommunstyrelsen tilldelas ett budgetanslag på 2 000 tkr för finansiering av Tegelbruket från 2024 och tills vidare.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Tegelbruket",
+        "ungdomar",
+        "aktivitetshus",
+        "finansiering"
+      ],
+      "id": "2023-12-05_ko_248"
+    },
+    {
+      "headline": "Budget för välfärdsbrott får 850 000 kronor från 2024",
+      "summary": "Kommunstyrelsen tilldelade 850 000 kronor från 2024 framåt för arbete mot välfärdsbrottslighet i kommunen.",
+      "detail": "Arbete mot välfärdsbrott är relevant ur flera aspekter. Välfärdsbrottslighet undergräver förtroende för samhällssystemet och kan finansiera organiserad brottslighet, enligt en rapport från polismyndigheten. Samtliga förvaltningar som beslutar om bidrag måste fokusera på välfärdsbrottslighet.\n\nKommunstyrelsen tilldelade därför 850 000 kronor från 2024 framåt för att säkerställa samverkan och samordning avseende välfärdsbrott mellan förvaltningar. Medel finansierades från Kommunstyrelsens oförutsedda budget.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 248",
+      "quote": "Kommunstyrelsen tilldelas ett budgetanslag på 850 tkr för arbete mot välfärdsbrott från 2024 och tills vidare.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "välfärdsbrott",
+        "brottsbekämpning",
+        "budget"
+      ],
+      "id": "2023-12-05_ko_248"
+    },
+    {
+      "headline": "Vård- och omsorgsboende får 11 miljoner extra för 2024",
+      "summary": "Vård- och omsorgsnämnden får 11 miljoner kronor för att förstärka vård- och omsorgsboende under 2024 på grund av upphörd pandemiersättning.",
+      "detail": "Under 2021–2023 fanns ett riktat statsbidrag för äldreomsorg på grund av pandemin. Från 2024 fördelas detta statsbidrag istället som del i den kommunalekonomiska utjämningen, motsvarande 41 miljoner kronor 2024. Inför 2025 minskar det generella statsbidraget med motsvarande summa.\n\nFör att kompensera denna förändring tilldelade Kommunstyrelsen Vård- och omsorgsnämnden ett tillfälligt budgetanslag på 11 000 000 kronor för 2024 för förstärkning av vård- och omsorgsboende. Detta är en tillfällig lösning medan frågorna löses långsiktigt. Medel finansierades från Kommunstyrelsens oförutsedda budget.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 248",
+      "quote": "Vård- och omsorgsnämnden tilldelas ett tillfälligt budgetanslag för 2024 på 11 000 tkr för förstärkning av vård- och omsorgsboende.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "äldreomsorg",
+        "vård",
+        "budget",
+        "pandemin"
+      ],
+      "id": "2023-12-05_ko_248"
+    },
+    {
+      "headline": "Nya IT-system får 30 miljoner kronor för 2024",
+      "summary": "Kommunstyrelsen tilldelade 30 miljoner kronor för 2024 för byte av verksamhetssystem och digitaliseringsprojekt.",
+      "detail": "Från och med 2024 behöver kommunen byta de nuvarande verksamhetssystemen Treserva och Procapita för vård- och omsorgsverksamheten. Kommunstyrelsen tilldelade därför 30 000 000 kronor för 2024 för byte av dessa system och övriga projekt inom digitaliseringsportföljen.\n\nMedel finansierades från Kommunstyrelsens oförutsedda budget. Karolina Wallström (L) reserverade sig mot detta beslut tillsammans med andra oppositionspartier som hade alternativa budgetförslag.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 248",
+      "quote": "Kommunstyrelsen tilldelas ett tillfälligt budgetanslag för 2024 på 30 000 tkr för byte av verksamhetssystem (Treserva/procapita) samt övriga projekt inom digitaliseringsportföljen.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "IT-system",
+        "digitalisering",
+        "Treserva",
+        "Procapita"
+      ],
+      "id": "2023-12-05_ko_248"
+    },
+    {
+      "headline": "Planeringsstrategi för översiktsplan 2023–2026 antagen",
+      "summary": "Kommunstyrelsen antog en planeringsstrategi för uppdatering av Örebro kommuns översiktsplan för åren 2023–2026. Beslut sendes till Kommunfullmäktige.",
+      "detail": "Enligt plan- och bygglagen måste kommunen kontinuerligt utvärdera sin översiktsplan. Miljö- och stadsbyggnadsförvaltningen genomförde en sådan bedömning och identifierade flera områden som behöver revideras eller tillkomma för att översiktsplanen ska uppfylla sitt syfte.\n\nKommunstyrelsen antog planeringstrategin för 2023–2026, som visar vägen för hur kommunen ska arbeta med dessa revisioner. Strategin skickas vidare till Kommunfullmäktige för beslut. Markus Allard (Örebropartiet) yrkade på återremiss eller avslag men fann inte gehör.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 256",
+      "quote": "Planeringsstrategi för Örebro kommuns översiktsplan för åren 2023–2026 antas.",
+      "quote_page": "s. 27",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "översiktsplan",
+        "planeringsstrategi",
+        "2023-2026",
+        "stadsplanering"
+      ],
+      "id": "2023-12-05_ko_256"
+    },
+    {
+      "headline": "VA-verksamhetsområden utökas för nya exploateringar",
+      "summary": "Kommunstyrelsen beslutade att utöka verksamhetsområdena för dricks-, spill- och dagvatten för nya och befintliga bebyggelseområden. Beslut sendes till Kommunfullmäktige.",
+      "detail": "Enligt lagstiftning för vatten och avlopp (VA) ska kommunen återkommande se över och vid behov utöka verksamhetsområdena. Utökningen behövs för nya exploateringsområden och befintliga områden där det finns behov av kommunal VA-försörjning.\n\nVerksamhetsområdet utgörs av geografiska områden där kommunen har ansvar för VA-försörjning. Inom dessa gäller Örebro kommuns VA-taxa och Allmänna bestämmelser (ABVA). Kommunstyrelsen beslutade att utöka dessa områden enligt förslag i bifogade kartor och fastighetsförteckningar. Beslutet skickas vidare till Kommunfullmäktige. Markus Allard (Örebropartiet) reserverade sig.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 257",
+      "quote": "Verksamhetsområdena för dricksvatten, spillvatten och dagvatten utökas i enlighet med förslag i bifogade kartor och fastighetsförteckning.",
+      "quote_page": "s. 28",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "vatten",
+        "avlopp",
+        "VA-områden",
+        "infrastruktur"
+      ],
+      "id": "2023-12-05_ko_257"
+    },
+    {
+      "headline": "Kulturpolitiska och idrottspolitiska program blir permanenta",
+      "summary": "Kommunstyrelsen beslutade att göra de kulturpolitiska och idrottspolitiska programmen permanenta med utvärdering vid varje mandatperiod.",
+      "detail": "De kulturpolitiska och idrottspolitiska programmen är styrdokument som uttrycker värdegrund och önskvärd utveckling av kultur- och idrottslivet i Örebro. Programmen antogs av Kommunfullmäktige 2018 med giltighetstid 2018–2022.\n\nFörvaltningen bedömde att de strategiska ställningstagandena i programmen fortfarande är aktuella och väl samordnade med andra mål. Kommunstyrelsen beslutade därför att ändra giltighetstiden från begränsad tid till permanent, med utvärdering inför varje mandatperiod. Beslutet sendes till Kommunfullmäktige. Kristdemokraterna och Liberalerna reserverade sig med önskemål om revidering av idrottsprogrammet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 255",
+      "quote": "Kulturpolitiskt program (Km 396/2016) ska gälla till och med att behov av revidering uppstår och ställningstaganden inte längre ses aktuella.",
+      "quote_page": "s. 26",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "L"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "kulturpolitik",
+        "idrottspolitik",
+        "styrdokument",
+        "program"
+      ],
+      "id": "2023-12-05_ko_255"
+    },
+    {
+      "headline": "Daniel Skipper tillsatt som digital- och IT-direktör",
+      "summary": "Kommunstyrelsen tillsatte Daniel Skipper som ny informationsförsörjning- och digitaliseringsdirektör i Örebro kommun.",
+      "detail": "Den tidigare informationsförsörjnings- och digitaliseringsdirektören avslutade sin anställning i november 2023. En rekryteringsprocess inleddes i september och leddes av kommundirektör Peter Larsson.\n\nKommunstyrelsen beslutade att tillsätta Daniel Skipper som informationsförsörjning- och digitaliseringsdirektör. Tillsättningen sker under förutsättning att erforderlig säkerhetsprövning är genomförd och godkänd. Datum för tillträde ska avtalas i dialog med kommundirektören. Markus Allard (Örebropartiet) yrkade avslag. Helena Ståhl (SD) fick lämna ett särskilt yttrande till protokollet.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 259",
+      "quote": "Daniel Skipper tillsätts som informationsförsörjning- och digitaliseringsdirektör.",
+      "quote_page": "s. 29-30",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "personalärende",
+        "IT-direktör",
+        "digitaliseringsmål"
+      ],
+      "id": "2023-12-05_ko_259"
+    },
+    {
+      "headline": "Fyra motioner remitterade till nämnder för beredning",
+      "summary": "Kommunstyrelsen remitterade fyra motioner från Kristdemokraterna och Liberalerna till olika nämnder för beredning och behandling.",
+      "detail": "Kommunfullmäktige överlämnade följande motioner till Kommunstyrelsen för beredning den 22 november 2023:\n\n1. Motion från Susanne Lindholm Henningsson (KD) om ställplatser för husbilar remitterades till Markplanerings- och exploateringsnämnden.\n\n2. Motion från Susanne Lindholm Henningsson (KD) om att Örebro kommun bör bli en aktiv del i Örebro Läns Museum. Denna motion bereds av Kommunstyrelsen själv.\n\n3. Motion från Mats-Olof Liljegren (L) om nya delningstal för skolklasser för bättre måluppfyllelse remitterades till Förskolenämnden och Grundskolenämnden.\n\n4. Motion från Mats-Olof Liljegren (L) om att införa maxtak för barngruppernas storlek inom förskolan remitterades till Förskolenämnden.",
+      "category": "politik",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 260",
+      "quote": "Motion från Susanne Lindholm Henningsson (KD) om ställplatser för husbilar remitteras till Markplanerings- och exploateringsnämnden.",
+      "quote_page": "s. 31",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "motioner",
+        "husbilar",
+        "barngrupper",
+        "skola"
+      ],
+      "id": "2023-12-05_ko_260"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Ställplatser för husbilar",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Örebro kommun aktiv del i Örebro Läns Museum",
+      "party": "KD",
+      "status": "Bereds"
+    },
+    {
+      "title": "Nya delningstal för skolklasser för bättre måluppfyllelse",
+      "party": "L",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Maxtak för barngruppernas storlek inom förskolan",
+      "party": "L",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 12,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2023-12-05",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 13
+}

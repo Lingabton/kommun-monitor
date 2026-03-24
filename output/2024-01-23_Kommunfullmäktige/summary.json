@@ -1,0 +1,406 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2024-01-23",
+  "summary_headline": "Motioner avslagna, pendlarparkering besvarad, nya motioner",
+  "decisions": [
+    {
+      "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+      "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+      "detail": "Vänsterpartiet lämnade motion 2021-11-17 med förslag om pendlarparkering på flera platser (Lanna, Odensbacken, Björkhaga, Garphyttan) samt möjligheter för elfordonsladding.\n\nKommunledningen bedömer att motionens krav är tillgodosedda genom pågående arbete. Pilotprojekt har redan påbörjats i Björkhaga. De tidigare prioriterade områdena Hovsta och Lillån har omprioriterats till Bettorp, som samlar trafikanter från större område. Brickebacken är utpekat för fördjupande utredning.\n\nKommunen möjliggör laddplatser vid nybyggnation och ombyggnation av mobilitetshubbarna. Privata aktörer kan etablera laddningsplatser på kommunal mark. Nya och upprustade mobilitetshubbarna kommer synliggöras på kommunens hemsida.\n\nMotionen från V ställdes mot Kommunstyrelsens förslag. Vänsterpartiet och Miljöpartiet reserverade sig för bifallsyrkande till själva motionen, men ordföranden fann att fullmäktige beslutat enligt Kommunstyrelsens förslag.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Björkhaga, Bettorp, Brickebacken, Lanna, Odensbacken, Garphyttan",
+      "paragraph_ref": "§ 8",
+      "quote": "Pilotprojekt redan påbörjats i Björkhaga och en fördjupad utredning har gjorts för att peka ut prioriterade platser. De tidigare utpekade områdena i Hovsta och Lillån har omprioriterats till förmån för Bettorp.",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "pendlarparkering",
+        "mobilitet",
+        "elfordon",
+        "Björkhaga",
+        "Bettorp"
+      ],
+      "id": "2024-01-23_ko_8"
+    },
+    {
+      "headline": "Reservgeneratorer och internetberedskap - SD motion avslåd",
+      "summary": "Motion från SD om utökning av beredskap för elektricitet och kommunikation. Två av tre förslag tillgodosedda genom pågående arbete, tredje om satellit-internet avslaget.",
+      "detail": "SD lämnade motion 2022-04-27 med tre förslag: inventering av befintliga reservgeneratorer, utredning kring behov av reservgeneratorer på kritiska anläggningar, och möjligheter för satellit-internet som reservsystem.\n\nKommunledningen bedömer att de två första förslagen redan tillgodoses genom förvaltningarnas pågående arbete med att identifiera behov av reservlösningar i kris. Det tredje förslaget avslås med motiveringen att ett nationellt kommunikationssystem redan finns för säker och effektiv informationsdelning i vardag och kris.\n\nSD reserverade sig mot avslaget av det tredje förslaget. Även Örebropartiet reserverade sig. Majoriteten röstade för Kommunstyrelsens förslag.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 9",
+      "quote": "Bedömningen är att motionens första och andra förslag är tillgodosedda genom förvaltningarnas pågående arbete. Tredje förslaget avslås eftersom det redan finns ett nationellt kommunikationssystem.",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "V",
+          "L",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "beredskap",
+        "krisberedskap",
+        "reservgenerator",
+        "trygghet"
+      ],
+      "id": "2024-01-23_ko_9"
+    },
+    {
+      "headline": "SMR-reaktor utredning - SD motion avslåd av majoritet",
+      "summary": "Sverigedemokraternas förslag att utreda förutsättningarna för Small Modular Reactors i Örebro avslaget. Kommunledningen anser det finns för många osäkerhetsfaktorer.",
+      "detail": "SD inlämnade motion 2022-11-23 om att Örebro kommun skulle undersöka möjligheterna för framtida etablering av SMR-reaktor (Small Modular Reactors).\n\nKommunledningen avslår motionen med motiveringen att det finns alltför många osäkerhetsfaktorer för att kommun ska lägga pengar och resurser på sådan utredning. Frågan behöver stabiliseras på nationell nivå före det kan vara aktuellt för kommunal nivå.\n\nSD, Örebropartiet och några andra reserverade sig för bifall till motionen, men majoriteten röstade för avslag.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 10",
+      "quote": "Det finns alltför många osäkerhetsfaktorer för att Örebro kommun ska lägga pengar och resurser på att undersöka förutsättningarna för en framtida etablering av SMR-reaktor.",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "kärnkraft",
+        "SMR",
+        "energi",
+        "miljö"
+      ],
+      "id": "2024-01-23_ko_10"
+    },
+    {
+      "headline": "Rådhusets julkalender - ärendet bordlagt igen",
+      "summary": "SD motion om att återuppliva Rådhusets julkalender bordlades utan slutgörande beslut.",
+      "detail": "SD föreslog att kommunen ska utreda möjligheterna för och återuppliva Rådhusets julkalender i egen regi, antingen genom övertagande av varumärket eller genom att utveckla eget projekt med liknande koncept.\n\nKommunfullmäktige hade bordlagt ärendet flera gånger tidigare (27 september, 24 oktober, 22 november, 12 december 2023). På sammanträdet 2024-01-23 bordlades det åter utan slutgörande beslut.",
+      "category": "kultur",
+      "contested": false,
+      "location": "Rådhuset",
+      "paragraph_ref": "§ 11",
+      "quote": "Motionen avslås.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "julkalender",
+        "kultur",
+        "Rådhuset"
+      ],
+      "id": "2024-01-23_ko_11"
+    },
+    {
+      "headline": "Pratbänkar i Örebro - ärendet bordlagt utan slutgöring",
+      "summary": "Motion från KD om att installera pratbänkar för att motverka ensamhet bordlades. Kommunledningen såg god intention men saknade ekonomiska prioriteringar.",
+      "detail": "KD-ledamot Anna Andersson föreslog 2023-01-24 att ta fram en modell för pratbänkar i Örebro och placera ut dem på flera platser.\n\nKommunledningen (S, M, C) såg positivt på intentionen att motverka ensamhet och skapa generationsmöten, men angav att pratbänkar medför både engångskostnad för själva bänkarna och ökade driftskostnader för teknik- och servicenämnden. Dessa kostnader fanns inte bland kommunledningens ekonomiska prioriteringar för mandatperioden.\n\nÄrendet hade bordlats tidigare (24 oktober, 22 november, 12 december 2023) och bordlades igen utan slutgöring.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": "Örebro",
+      "paragraph_ref": "§ 12",
+      "quote": "Dessa kostnader finns inte med bland kommunledningens ekonomiska prioriteringar för mandatperioden.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "pratbänkar",
+        "ensamhet",
+        "social sammanhållning"
+      ],
+      "id": "2024-01-23_ko_12"
+    },
+    {
+      "headline": "Serviceverksamhet upphörande - ärendet bordlagt",
+      "summary": "KD motion om att kommunen ska utreda och upphöra som utförare av service bordlades utan slutgöring.",
+      "detail": "Sandra Fröjdenstam (KD) föreslog 2023-01-24 att kommunen gör en konsekvensutredning avseende upphörande av serviceverksamhet, med särskild hänsyn till landsbygdsperspektivet.\n\nKommunledningen bedömde båda attsatserna som besvarade, men ärendet bordlades på fullmäktige flera gånger (24 oktober, 22 november, 12 december 2023) och bordlades igen 2024-01-23 utan slutgörande beslut.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 13",
+      "quote": "Motionens första att-sats är besvarad. Motionens andra att-sats är besvarad.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "serviceverksamhet",
+        "landsbygd"
+      ],
+      "id": "2024-01-23_ko_13"
+    },
+    {
+      "headline": "Kommundelning Östernärke - SD motion bordlad utan slutgöring",
+      "summary": "SD motion om att utreda kommundelning där Östernärke blir egen kommun bordlades.",
+      "detail": "Daniel Spiik, Habib Brini och Bjarne Bäckström (SD) föreslog 2023-04-18 att kommunen ska utreda för- och nackdelar med kommundelning där Östernärke bildar egen kommun, med motivering att klyftan mellan stad och land vuxit sig djupare.\n\nKommunledningen avslår motionen med utgångspunkt att mindre kommuner allt svårare bär sina kostnader för skola, äldreomsorg och infrastruktur. Lämpligen bör man invänta nationell diskussion om kommunindelning före egna ändringar.\n\nÄrendet bordlades tidigare (24 oktober, 22 november, 12 december 2023) och bordlades igen 2024-01-23.",
+      "category": "politik",
+      "contested": false,
+      "location": "Östernärke",
+      "paragraph_ref": "§ 14",
+      "quote": "Det blir allt svårare för mindre kommuner att bära sina egna kostnader för både skola, äldreomsorg och infrastruktur.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "kommundelning",
+        "Östernärke",
+        "organisation"
+      ],
+      "id": "2024-01-23_ko_14"
+    },
+    {
+      "headline": "BRT folkomröstning - Örebropartiet motion bordlad",
+      "summary": "Motion om folkomröstning rörande BusRapidTransit bordlades utan slutgöring.",
+      "detail": "Örebropartiet (Markus Allard, Peter Springare) föreslog 2021-04-09 folkomröstning om BRT-projektet och pausning tills svar erhålls.\n\nKommunledningen (S, M, C) är överens om trafikbehovet vid stadstillväxt men ser motionen som överspelad (relaterar till tidigare folkinitiativ \"Stoppa BRT\"). I styrande budget är beslut att fortsätta BRT etapp 2 och 3 tillsammans med Region Örebro län.\n\nÄrendet bordlades tidigare (27 september, 24 oktober, 22 november, 12 december 2023) och bordlades igen.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 15",
+      "quote": "Vi är överens om att fortsätta arbetet med BRT etapp 2 och 3 tillsammans med Region Örebro län med örebroarnas bästa för ögonen.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "BRT",
+        "BusRapidTransit",
+        "trafik",
+        "folkomröstning"
+      ],
+      "id": "2024-01-23_ko_15"
+    },
+    {
+      "headline": "Vätternvatten folkomröstning - motion bordlad",
+      "summary": "Motion från Örebropartiet om folkomröstning angående Vätternvatten dricksvattenprojekt bordlades.",
+      "detail": "Örebropartiet (Markus Allard, Peter Springare) föreslog 2022-08-11 folkomröstning om Vätternvatten-projektet med motivering att det är en avgörande fråga för kommunen.\n\nKommunledningen (S, M, C) är överens med Örebropartiet om att Vätternvatten är en mycket viktig fråga för vattenförsörjning. Kommunledningen konstaterar att denna typ av projekt föregås av grundlig utredning och att Vätternvatten är den långsiktiga lösningen.\n\nÄrendet bordlades tidigare och bordlades igen 2024-01-23 utan slutgöring.",
+      "category": "miljö",
+      "contested": true,
+      "location": "Vättern",
+      "paragraph_ref": "§ 16",
+      "quote": "Ytterst handlar det om att säkra vattenförsörjningen för flera kommuner vilket gör projektet till ett av landets viktigaste dricksvattenprojekt.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "Vätternvatten",
+        "dricksvatten",
+        "miljö",
+        "infrastruktur"
+      ],
+      "id": "2024-01-23_ko_16"
+    },
+    {
+      "headline": "Barns OpenArt - Örebropartiet motion bordlad",
+      "summary": "Motion om att låta barn ställa ut på OpenArt-utställningen för att sänka kostnader bordlades.",
+      "detail": "Markus Allard (Örebropartiet) föreslog att OpenArt ska omvandlas till barnens OpenArt för att spara pengar och skapa familjeupplevelse med barns utställda verk.\n\nKommunledningen (S, M, C) håller med om att barns skapandekraft är viktig, men menar att det skulle förändra utställningens grundkoncept. OpenArt har unik position som Skandinaviens största biennal för samtidskonst i offentligt rum tack vare höga verkskvalitetskrav. Enligt överenskommelse ska OpenArt finnas kvar, nya samarbetsformer och gemensam finansiering med näringslivet utredas, men anslag dras ner i budgeten.\n\nÄrendet bordlades tidigare och bordlades igen 2024-01-23.",
+      "category": "kultur",
+      "contested": false,
+      "location": "Örebro",
+      "paragraph_ref": "§ 17",
+      "quote": "Att låta barn ställa ut är dock att i grunden förändra hela konceptet kring utställningen då syftet är att hålla en viss verkshöjd på konsten.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "OpenArt",
+        "konst",
+        "kultur",
+        "barn"
+      ],
+      "id": "2024-01-23_ko_17"
+    },
+    {
+      "headline": "Flexibelt boende äldreomsorg-studenter - V motion bordlad",
+      "summary": "Vänsterpartiet motion om flexibel boendeform för äldre, studenter och ensamkommande barn bordlades.",
+      "detail": "Vänsterpartiet föreslog motion där man pekar på bostadsbristen i Sverige och föreslår utreda flexibel boendeform där äldre med omsorgsbehov, studenter och ensamkommande flyktingbarn kan dela boendemiljö. Motion föreslår även att kommunen planlägg för sådant boende.\n\nKommunledningen avslår motionen. Ärendet bordlades tidigare (24 oktober, 22 november, 12 december 2023) och bordlades igen utan slutgöring.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 18",
+      "quote": "Motionen avslås.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "boende",
+        "äldreomsorg",
+        "studenter",
+        "migration"
+      ],
+      "id": "2024-01-23_ko_18"
+    },
+    {
+      "headline": "Jordbruksmark Törsjö terminal - V motion bordlad",
+      "summary": "Vänsterpartiet motion om att bevara jordbruksmark i Törsjö genom att stoppa terminalen bordlades.",
+      "detail": "Vänsterpartiet föreslog tre yrkanden: 1) Inte bygga Törsjöterminal, 2) Utreda terminal i annan kommun, 3) Kartlägga skyddsvärd jordbruksmark.\n\nKommunledningen (S, M, C) hanterar förslagen som helhet. Kommunfullmäktige antog detaljplan för terminalen Törsjö i maj 2023 och inget nytt har framkommit. Kommunledningen saknar rådighet att utreda terminal i annan kommun. Kartläggning av skyddsvärd jordbruksmark anses inte angelägen kommunal verksamhet.\n\nArendet bordlades tidigare och bordlades igen 2024-01-23 utan slutgöring.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Törsjö",
+      "paragraph_ref": "§ 19",
+      "quote": "Kommunfullmäktige antagit detaljplanen för terminalen i Törsjö i maj 2023 och inget nytt har framkommit efter det.",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Borderläggning"
+      },
+      "tags": [
+        "jordbruksmark",
+        "Törsjö",
+        "terminal",
+        "miljö",
+        "mark"
+      ],
+      "id": "2024-01-23_ko_19"
+    },
+    {
+      "headline": "Mobil fritidsgård - MP motion anses besvarad",
+      "summary": "Motion om att utreda mobil fritidsgård för ungdomar anses besvarad.",
+      "detail": "Lea Strandberg (MP) föreslog 2021-06-15 att kommunen ska utreda möjligheten för mobil fritidsgård.\n\nMotionen är besvarat enligt kommunledning. Ärendet hade bordlats flera gånger (27 september, 24 oktober, 22 november, 12 december 2023). Vid sammanträdet 2024-01-23 röstades det: bifall till Kommunstyrelsens förslag (motionen anses besvarad) mot bifall till själva motionen.\n\nKommunstyrelsen vann denna proposition. KD, Liberalerna, Vänsterpartiet och MP reserverade sig för bifall till motionen.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 27",
+      "quote": "Motionen anses besvarad.",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "fritidsgård",
+        "ungdom",
+        "kultur",
+        "mobilitet"
+      ],
+      "id": "2024-01-23_ko_27"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Pendlarparkering i Lanna, Odensbacken, Björkhaga och Garphyttan",
+      "party": "V",
+      "status": "Besvarad - V och MP reserverade sig"
+    },
+    {
+      "title": "Utöka beredskap för elektricitet och kommunikation",
+      "party": "SD",
+      "status": "Delvis tillgodosedd - Tredje förslaget avslaget"
+    },
+    {
+      "title": "SMR-reaktor i Örebro kommun",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Återuppliva Rådhusets julkalender",
+      "party": "SD",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Pratbänkar i Örebro",
+      "party": "KD",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Upphöra som utförare av service",
+      "party": "KD",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Kommundelning - Östernärke egen kommun",
+      "party": "SD",
+      "status": "Bordlat"
+    },
+    {
+      "title": "BRT folkomröstning",
+      "party": "ÖrP",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Vätternvatten folkomröstning",
+      "party": "ÖrP",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Barns OpenArt",
+      "party": "ÖrP",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Flexibel boendeform äldreomsorg-studenter",
+      "party": "V",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Bevara jordbruksmark Törsjö",
+      "party": "V",
+      "status": "Bordlat"
+    },
+    {
+      "title": "Mobil fritidsgård",
+      "party": "MP",
+      "status": "Besvarad - MP, V, KD och L reserverade sig"
+    },
+    {
+      "title": "Hundrastgårdar",
+      "party": "KD",
+      "status": "Nyligen inlämnad - Remitterad till Kommunstyrelsen"
+    }
+  ],
+  "skipped_items_count": 15,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2024-01-23",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 13
+}
