@@ -1,0 +1,178 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2023-05-31",
+  "summary_headline": "Törsjö logistikområde antaget, placeringspolicy omstridd",
+  "decisions": [
+    {
+      "headline": "Detaljplan Törsjö logistikområde godkänd",
+      "summary": "Kommunfullmäktige antog detaljplan för Törsjö 13:2 för järnvägsanknuten logistik och kombiterminal. Planen möjliggör omlokalisering av företag från andra områden till nya bostäder och kontor.",
+      "detail": "Planarbetet initierades 2016 och syftar till att etablera en kombiterminal samt möjliggöra omlokalisering av verksamheter från CV-området och Holmens verksamhetsområde. De omflyttade områdena kan därefter omvandlas till bostäder och kontor.\n\nEtt större antal politiker från olika partier motsatte sig beslutet. SD, V, MP och L yrka avslag. Ärendet återremitterades från det tidigare sammanträdet för kompletteringar.\n\nKommunfullmäktige beslutade enligt Kommunstyrelsens förslag att anta detaljplanen. Sju SD-ledamöter, sex V-ledamöter, två MP-ledamöter och fem L-ledamöter reserverade sig mot beslutet.\n\nPlanen omfattar möjligheter för järnvägsanknuten lager-, logistik- och terminalverksamhet samt tekniska anläggningar. Omfattande utredningar har gjorts gällande miljökonsekvenseringar, naturvärden, arkeologi, trafik och dagvatten.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Törsjö",
+      "paragraph_ref": "§ 176",
+      "quote": "Syftet med detaljplanen är att möjliggöra byggnation av en kombiterminal samt möjliggöra omlokalisering av företag i CV-området samt Holmens verksamhetsområde.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "MP",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Törsjö",
+        "logistik",
+        "kombiterminal",
+        "järnväg",
+        "detaljplan"
+      ],
+      "id": "2023-05-31_ko_176"
+    },
+    {
+      "headline": "Riktlinjer för exploatering bordlagda",
+      "summary": "Kommunfullmäktige bordlade ärendet om nya riktlinjer för exploatering, markanvisning och exploateringsavtal. SD, ÖrP reserverade sig.",
+      "detail": "Kommunledningsförvaltningen presenterade ett övergripande styrdokument för exploateringsverksamheten som sammanfogade tidigare styrdokument med nya avsnitt.\n\nRiktlinjerna inkluderar zonprisbild, medfinansieringsersättningskarta och mekanismer för prissättning av mark. Beslutspunkterna omfattade möjligheter för Markplanerings- och exploateringsnämnden att justerade zonpriser och zonindelning.\n\nKommunstyrelsen föreslog bifall. Helena Ståhl (SD), Bo Ammer (SD) och Markus Allard (ÖrP) reserverade sig mot beslutet.\n\nFull Fullmäktige beslutade att bordlägga ärendet för vidare behandling.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 178",
+      "quote": "Riktlinjen är en sammanfogning av tidigare styrdokument inom verksamheten samt nya avsnitt.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "exploatering",
+        "markanvisning",
+        "zonpriser",
+        "riktlinjer"
+      ],
+      "id": "2023-05-31_ko_178"
+    },
+    {
+      "headline": "Placeringspolicy för kapitalförvaltning omstridd",
+      "summary": "Kommunfullmäktige antog reviderad placeringspolicy med omfördelning av 4,2 mdkr till pensionsportföljen. V, MP, KD och ÖrP motsatte sig etiska krav.",
+      "detail": "Revisionen av placeringspolicyn från 2017 föreslogs för att bättre matcha avsatta medel med åtaganden. Pensionsportföljen behövde förstärkas med 4,2 miljarder kronor för att motsvara 120% av pensionsskulden.\n\nOlika partier föreslog olika etiska kriterier för placeringar. Vänsterpartiet, Miljöpartiet och KD ville stärkare restriktioner mot placeringar i fossila bränslen, vapen och tobak/alkohol. ÖrP förespråkade mer pragmatisk tillämpning med fokus på risk och avkastning.\n\nKommunfullmäktige beslutade enligt Kommunstyrelsens förslag att anta policyn. Fem V-ledamöter, två MP-ledamöter, tre KD-ledamöter och fyra ÖrP-ledamöter reserverade sig.\n\nOmfördelningen ska genomföras senast 2023-06-30. Avkastningsmål sattes till 2,25% för pensionsportföljen och 1,50% för långfristig likviditetsportfölj.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 179",
+      "quote": "Målet för pensionsportföljen ändras till att kapitalet över tid ska motsvara 120% av åtagandet för att skapa en buffert för att möta eventuella förändringar.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "MP",
+          "KD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "placeringar",
+        "kapitalförvaltning",
+        "pensioner",
+        "etik",
+        "fossila bränslen"
+      ],
+      "id": "2023-05-31_ko_179"
+    },
+    {
+      "headline": "Arbetsmiljörapport 2022 bordlagd",
+      "summary": "Årlig uppföljning av systematiskt arbetsmiljöarbete 2022 bordlades. Rapporterande visar utmaningar kring lokaler, frånvaro och chefernas förutsättningar.",
+      "detail": "Rapporten visade gemensamma utmaningar för flera nämnder: lokaler, höga sjukfrånvaro, hög arbetsbelastning, pandemins effekter, svaga chefsförutsättningar, förändringsarbete och brist på skyddsombud.\n\nKommunen bedömdes behöva fortsatt arbete med resursplanering för hållbar bemanning, chefers arbetsbelastning och förutsättningar samt rekrytering och stöd för skyddsombud.\n\nMartha Wicklund (V) reserverade sig mot behandlingen på Kommunstyrelsen. Fullmäktige bordlade ärendet.",
+      "category": "trygghet",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 180",
+      "quote": "Arbetsmiljöutmaningar som är gemensamt för flera nämnder är lokaler, hög frånvaro, hög arbetsbelastning, pandemin, chefers förutsättningar, förändringsarbete och brist på skyddsombud.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "arbetsmiljö",
+        "bemanning",
+        "chefer",
+        "frånvaro",
+        "lokaler"
+      ],
+      "id": "2023-05-31_ko_180"
+    },
+    {
+      "headline": "Rapportering ej verkställda SoL/LSS-beslut bordlagd",
+      "summary": "Rapport över ej verkställda beslut inom socialtjänst, funktionsstöd och äldreomsorg för Q4 2022 bordlades. V reserverade sig.",
+      "detail": "Socialnämnden rapporterade 11 ej verkställda beslut varav 9 fortfarande ej verkställda inom 3 månader. Funktionsstödsnämnden rapporterade 200 ej verkställda beslut varav 143 fortfarande väntande. Vård- och omsorgsnämnden rapporterade 49 ej verkställda beslut varav 5 fortfarande väntande.\n\nRapporterna visar på behov av resursplanering för att kunna verkställa insatser inom skälig tid.\n\nMartha Wicklund (V) reserverade sig mot behandlingen. Fullmäktige bordlade ärendet för vidare hantering.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 181",
+      "quote": "Syftet med rapporteringen är att kommunen ska ha kännedom om dessa ärenden samt kunna planera sina resurser för att kunna verkställa insatser inom skälig tid.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "socialtjänst",
+        "äldreomsorg",
+        "verkställning",
+        "resurser",
+        "LSS"
+      ],
+      "id": "2023-05-31_ko_181"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Motion från Susanne Lindholm (KD) om daglig verksamhet på extern eller företagsansluten plats",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Bjarne Bäckström (SD) om motorgård för ungdomar",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Motion från Carola Sunesson (SD) om information om återvandringsstödet",
+      "party": "SD",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 42,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2023-05-31",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-31_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 5
+}

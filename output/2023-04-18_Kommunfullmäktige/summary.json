@@ -1,0 +1,311 @@
+{
+  "meeting_type": "Kommunfullmäktige",
+  "date": "2023-04-18",
+  "summary_headline": "Törsjö-plan återremitterad, investeringsanslag överförda",
+  "decisions": [
+    {
+      "headline": "Investeringsanslag 371 miljoner överförda från 2022 till 2023",
+      "summary": "Kommunfullmäktige beslutade att överföra investeringsanslag på sammanlagt 371 454 tkr från 2022 till 2023 för pågående investeringsobjekt.",
+      "detail": "Ärendet handlade om överförda driftresultat för intraprenader samt överförda investeringsanslag från 2022. Intraprenadernas resultat överfördes till kommande år, dock maximalt sju procent av årsbudgeten.\n\nKommunstyrelsen förslag bifölls. Både Sverigedemokraterna och Örebropartiet reserverade sig mot beslutet. Martha Wicklund (V) fick lämna särskilt yttrande om vikten av realistiska budgetar och att digitaliseringsinvesteringar måste få tid att ge effekt.\n\nHelena Ståhl (SD), Bjarne Bäckström (SD), Michael Larsson (SD), David Larsson (SD), Bo Ammer (SD), Habib Brini (SD) och Carola Sunesson (SD) reserverade sig till förmån för avslagsyrkande. Markus Allard (ÖrP), Peter Springare (ÖrP), Robert Stenberg (ÖrP), Tuomo Jänkälä och Glenn Roswall (ÖrP) reserverade sig för återremissyrkande.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 132",
+      "quote": "Investeringsanslag på sammanlagt 371 454 tkr överförs från 2022 till 2023 i enlighet med kommunstyrelseförvaltningens förslag.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "budget",
+        "driftresultat",
+        "intraprenader"
+      ],
+      "id": "2023-04-18_ko_132"
+    },
+    {
+      "headline": "Årsredovisning 2022 godkänd trots oenighet om resultatreserver",
+      "summary": "Kommunfullmäktige godkände årsredovisningen för 2022. Kommunkoncernen gjorde 504 miljoner kronor resultat. Vänsterpartiet avslog reservering av 19 miljoner till resultatutjämningsreserven.",
+      "detail": "Kommunkoncernens resultat uppgick till 504 miljoner kronor. Kommunens eget resultat var 297 miljoner kronor, vilket är 12 miljoner lägre än budgeterat. En gynnsam skatteintäktsutveckling och extra statsbidrag påverkade resultatet positivt, medan negativ utveckling av kapitalförvaltningens placeringar påverkade negativt.\n\nInvesteringarna uppgick till 3 023 miljoner kronor i koncernen och 811 miljoner i kommunen. Alla fyra finansiella mål och balanskravet uppnåddes. Dock uppnåddes endast 12 av 33 verksamhetsmål.\n\nVänsterpartiet motsatte sig beslutet att reservera 19 mnkr till resultatutjämningsreserven, då de anser RUR är ett trubbigt instrument. Vänsterpartiet ville inte öka reserverna till dess SKR:s utredning var klar.\n\nMartha Wicklund (V) deltog inte i beslutspunkt 1. Vänsterpartigruppen reserverade sig mot beslutspunkt 2.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 133",
+      "quote": "Samtliga fyra finansiella mål och balanskravet uppnås. Den sammantagna bedömningen är att Örebro kommun inte uppfyller målen av betydelse för god ekonomisk hushållning. Mot bakgrund av att samtliga finansiella mål är uppfyllda, att kommunen har en stabil ekonomi och att nämnderna fortsatt bedriver sina grunduppdrag med god kvalitet är bedömningen dock att kommunen som helhet har en god ekonomisk hushållning.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "årsredovisning",
+        "budget",
+        "ekonomi",
+        "resultat"
+      ],
+      "id": "2023-04-18_ko_133"
+    },
+    {
+      "headline": "Törsjö logistikplan återremitterad för vidare utredning",
+      "summary": "Detaljplan för Törsjö logistikområde återremitterades till Kommunstyrelsen för att utreda alternativ lokalisering, miljökonsekvenser och kompensation till närboende.",
+      "detail": "Planarbetet initierades 2016 för att möjliggöra byggnation av en kombiterminal och omlokalisering av företag från CV-området och Holmens verksamhetsområde. Syftet var att skapa plats för järnvägsanknuten lager- och logistikverksamhet.\n\nAtt Jämtvall (L), Helena Ståhl (SD), Bo Ammer (SD) yrkade på återremiss för att utreda: om det finns andra områden för kombiterminal, konsekvenser för närboende, möjligheter att kompensera fastighetsägare, miljöpåverkan av ytterligare industrimark, och behov av ytterligare samrådsrund.\n\nMarkus Allard (ÖrP), Linn Josefsson (V), Martha Wicklund (V), Lea Strandberg (MP) och Fredrik Persson (MP) höll ursprungligen egna yrkanden men drog tillbaka dessa för att stödja Jämtvalls återremissyrkande.\n\nSusanne Lindholm (KD) stödde planen men lämnade särskilt yttrande om oro för jordbruksmarkanvändning och påverkan på enskilda fastighetsägare.\n\nBeslutet fattades enligt minoritetsåterremissregler i kommunallagen.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Törsjö",
+      "paragraph_ref": "§ 137",
+      "quote": "Ärendet återremitteras till Kommunstyrelsen i enlighet med Patriks Jämtvalls (L) m.fl. yrkande. Beslutet fattas med stöd av Kommunallagens (2017:725) regler för minoritetsåterremiss.",
+      "quote_page": "s. 23-24",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Återremiss"
+      },
+      "tags": [
+        "detaljplan",
+        "logistik",
+        "kombiterminal",
+        "jordbruksmark",
+        "miljö",
+        "Törsjö"
+      ],
+      "id": "2023-04-18_ko_137"
+    },
+    {
+      "headline": "Årsredovisningar för Rådhuskoncernen och dotterbolag godkända",
+      "summary": "Årsredovisningar för Örebro Rådhus AB och dotterbolag 2022 godkändes. Rådhuskoncernen gjorde 255 miljoner resultat efter skatt, moderbolaget 71,7 miljoner med 33 miljoner föreslaget utdelat.",
+      "detail": "Örebro Rådhus AB ägs 100% av kommunen och förvaltar kommunens aktier i bland annat ÖrebroBostäder AB, Örebrokompaniet AB, Vätternvatten AB, Alfred Nobel Science Park AB och Örebro Läns Flygplats AB.\n\nRådhuskoncernens resultat för 2022 var 255 miljoner kronor efter skatt (295 miljoner 2021). Moderbolaget Örebro Rådhus AB gjorde 71,7 miljoner efter skatt, varav 33 miljoner föreslagits utdelat till kommunen.\n\nMartha Wicklund (V) deltog inte i beslutspunkt 1 och reserverade sig mot beslutspunkt 2b (disponering av vinster). Markus Allard (ÖrP) reserverade sig mot hela beslutet och yrkade på att ändringstext om Örebropartiets arvodespolicy samt att sälja av aktierna i Örebrokompaniet AB, Kumbro Vind AB och Vätternvatten AB.\n\nKommunstyrelsens förslag bifölls trots reservationerna.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 134",
+      "quote": "Resultatet för hela Örebro Rådhuskoncernen är 255 mnkr efter skatt. Av bolagets resultat föreslås bolagsstämman besluta att 33 mnkr ska delas ut till Örebro kommun.",
+      "quote_page": "s. 15-16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "årsredovisning",
+        "Rådhus AB",
+        "dotterbolag",
+        "resultat",
+        "utdelning"
+      ],
+      "id": "2023-04-18_ko_134"
+    },
+    {
+      "headline": "Trädgårdsaktiebolaget årsredovisning godkänd",
+      "summary": "Årsredovisning för Örebro läns trädgårdsaktiebolag 2022 godkändes. Bolaget gjorde 50 032 kronor resultat efter skatt.",
+      "detail": "Bolaget ansvarar för att förvärva, äga och underhålla konstverk i Stadsparken, Skytteparken och Stora Holmen. Resultatet uppgick till 50 032 kronor efter skatt (53 263 kronor 2021). Anläggningstillgångar i form av konstverk värderades till 2 188 240 kronor.\n\nUnder året planerades och påbörjades uppbyggnad av kapital för anskaffning av nytt konstverk genom samarbete med konstnär.\n\nMarkus Allard (ÖrP) reserverade sig mot beslutet och yrkade på ändringstext om Örebropartiets arvodespolicy samt att avyttra bolaget.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Stadsparken, Skytteparken, Stora Holmen",
+      "paragraph_ref": "§ 135",
+      "quote": "Bolagets resultat för 2022 uppgår till 63 013 kr före skatt och 50 032 kr efter skatt.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "årsredovisning",
+        "trädgårdsaktiebolag",
+        "konstverk",
+        "park"
+      ],
+      "id": "2023-04-18_ko_135"
+    },
+    {
+      "headline": "Nerikes Brandkår årsredovisning godkänd enhälligt",
+      "summary": "Årsredovisning för Nerikes Brandkår 2022 godkändes. Förbundet gick med överskott på 1,8 miljoner kronor.",
+      "detail": "Nerikes Brandkår är ett kommunalförbund för räddningstjänst med nio medlemskommuner: Askersund, Hallsbergs, Kumla, Laxå, Lekeberg, Lindesberg, Ljusnarsberg, Nora och Örebro.\n\nFörbundet redovisade överskott på 1,8 miljoner kronor (6,7 miljoner 2021). Balanskravsresultatet var 3,4 miljoner kronor (7,1 miljoner 2021).",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 136",
+      "quote": "Nerikes Brandkår redovisar ett överskott på 1,8 mnkr. Balanskravsresultatet är 3,4 mnkr.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "räddningstjänst",
+        "Nerikes Brandkår",
+        "årsredovisning"
+      ],
+      "id": "2023-04-18_ko_136"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Förbättra upphandlingen",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Utreda framtida kommundelning",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Extern granskning av vård och omsorg",
+      "party": "L",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Kvinnerstaområdet som center för miljö och gröna näringar",
+      "party": "V",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Bilfria zoner kring skolor och förskolor",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Öppen Ingång - centrum mot våld",
+      "party": "L",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Motverka diskriminering och rasism på arbetet",
+      "party": "V",
+      "status": "Delvis avslagen"
+    },
+    {
+      "title": "Avsluta samarbetet med Fairtrade",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Särredovisa mediebidrag",
+      "party": "OrP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Belastningsregister vid anställning i äldreomsorg",
+      "party": "L",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Biologisk mångfald och fjärilens landskap",
+      "party": "SD",
+      "status": "Delvis tillgodosedd"
+    },
+    {
+      "title": "Naturreservat Sörbyskogen",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Registerutdrag för alla anställningar",
+      "party": "OrP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Kommunal second hand",
+      "party": "OrP",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Utreda bemötandeproblematik i kommunen",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Dans för hälsa - permanent verksamhet",
+      "party": "L",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Omgöra nedre delen av Stortorget - bilfri zon",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Slopa avgifterna för solceller",
+      "party": "OrP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "30 km/h hastighetsgräns i centrala Örebro",
+      "party": "MP",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "ÖrebroBostäder - avskaffa avkastningskrav",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "ÖrebroBostäder - sluta medlemskap Fastighetsägarföreningen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "ÖrebroBostäder - driva mer i egen regi",
+      "party": "V",
+      "status": "Delvis avslagen"
+    },
+    {
+      "title": "ÖrebroBostäder - inga marknadshyror",
+      "party": "V",
+      "status": "Avslagen"
+    }
+  ],
+  "skipped_items_count": 8,
+  "organ": "Kommunfullmäktige",
+  "meeting_date": "2023-04-18",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-18_Kommunfullmäktige.pdf",
+  "status": "ok",
+  "decisions_count": 6
+}

@@ -1,0 +1,409 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2023-04-11",
+  "summary_headline": "Budget, flygplats och logistikområde beslutas med reservationer",
+  "decisions": [
+    {
+      "headline": "Tilläggsanslag och ombudgeteringar för 2023 beviljade",
+      "summary": "Kommunstyrelsen beviljar tilläggsanslag för löneöversyn, indexuppräkningar och väghållaransvar. Finansiering från generella kostnadsökningar (224 040 tkr), oförutsedda kostnader (1 960 tkr) och investeringskompensation (3 723 tkr).",
+      "detail": "Ärendet omfattar ersättning till nämnder för årlig löneöversyn och indexuppräkningar. Teknik- och servicenämnden får tilläggsanslag för nytt väghållaransvar. Kultur- och fritidsnämnden kompenseras för hyresökning gällande ÖSK. Totala anslag uppgår till cirka 229,7 miljoner kronor.\n\nKommunledningsförvaltningen förespråkade förslaget medan flera oppositionspartier presenterade egna budgetalternativ. KD yrka avslag på ombudgeteringen, SD presenterade ett alternativt belopp (220 939 + 1 460 + 3 192 tkr) och ÖrP ville att ärendet återremitterades eller avslogs helt.\n\nOrdförande John Johansson (S) beslöt att ärendet skulle avgöras samma dag och ställde förslagen mot varandra. Kommunstyrelsen antog kommunledningsförvaltningens förslag.\n\nReservationer lämnades av Susanne Lindholm (KD), Helena Ståhl (SD), Bo Ammer (SD) och Markus Allard (ÖrP). Martha Wicklund (V) deltog inte i beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 66",
+      "quote": "Tilläggsanslag beviljas enligt Kommunledningsförvaltningens förslag. Finansiering sker ur Kommunstyrelsen utrymme för generella kostnadsökningar med 224 040 tkr, från Kommunstyrelsen utrymme för oförutsedda kostnader med 1 960 tkr samt från Kommunstyrelsens utrymme för investeringskompensation med 3 723 tkr.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget2023",
+        "löneöversyn",
+        "väghållaransvar"
+      ],
+      "id": "2023-04-11_ko_66"
+    },
+    {
+      "headline": "Årsinvesteringar på 371 miljoner kronor överförda från 2022",
+      "summary": "Kommunstyrelsen fastställer intraprenadernas resultat (61,3 mkr) och digital arbetsplats resultat (-17,7 mkr). Investeringsanslag på 371,5 miljoner kronor överförs från 2022.",
+      "detail": "Ärendet behandlar överförda driftresultat för intraprenader och investeringsanslag från föregående år. Intraprenadernas ackumulerade resultat fastställs till 61 346 tkr och digital arbetsplats till -17 723 tkr.\n\nFör pågående investeringsobjekt överförs 371 454 tkr från 2022 till 2023. Överfört anslag påverkar inte det finansiella målet om självfinansieringsgrad då överförda anslag exkluderas från denna beräkning.\n\nMartha Wicklund (V) yrka avslag på beslutspunkt 3 om investeringsanslag. Helena Ståhl (SD) yrka avslag enligt Sverigedemokraternas budgetförslag. Markus Allard (ÖrP) ville att ärendet återremitterades enligt Örebropartiets program.\n\nOrdförande Johansson ställde förslagen mot varandra och beslutet antogs enligt kommunledningsförvaltningens förslag. Beslutspunkt 3 ska till Kommunfullmäktige för slutgiltigt beslut.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 68",
+      "quote": "Investeringsanslag på sammanlagt 371 454 tkr överförs från 2022 till 2023 i enlighet med kommunstyrelseförvaltningens förslag.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "intraprenader",
+        "överföring"
+      ],
+      "id": "2023-04-11_ko_68"
+    },
+    {
+      "headline": "Årsredovisning 2022: kommun har god ekonomisk hushållning",
+      "summary": "Örebro kommun redovisar resultat på 297 miljoner kronor och investeringar på 811 miljoner kronor. Alla fyra finansiella mål uppnås men endast 12 av 33 verksamhetsmål.",
+      "detail": "Kommunkoncernen gör ett resultat på 504 miljoner kronor efter att ha räknat in Rådhuskoncernens resultat. Kommunens resultat är 297 miljoner kronor, 12 miljoner lägre än budgeterat. Investeringarna uppgår till 811 miljoner kronor, vilket är 455 miljoner mindre än budgeterat.\n\nAlla fyra finansiella mål och balanskravet uppnås. Dock uppnås endast 12 av 33 kommunfullmäktigemål. Av 51 inriktningar har 39 genomförts medan 12 inte har genomförts.\n\nTrots att alla finansiella mål är uppfyllda och kommunen har stabil ekonomi, bedöms inte målen av betydelse för god ekonomisk hushållning uppfyllas fullt ut. Bedömningen är dock att kommunen som helhet har god ekonomisk hushållning.\n\nMartha Wicklund (V) yrka avslag på beslutspunkt 2 (reservering på 19 mkr). Susanne Lindholm (KD) yrka bifall men med tillägget att målen ses över. Beslutet fattades enligt kommunledningsförvaltningens förslag. Beslutspunkterna 1-3 ska till Kommunfullmäktige.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 70",
+      "quote": "Kommunens resultat uppgår till 297 miljoner kronor. Det är 12 miljoner kronor lägre än budgeterat. En gynnsam skatteintäktsutveckling samt extra tillskott av generella statsbidrag har påverkat det ekonomiska resultatet positivt.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "årsredovisning2022",
+        "ekonomi",
+        "resultat"
+      ],
+      "id": "2023-04-11_ko_70"
+    },
+    {
+      "headline": "Flygplatsens driftbidrag på 37 miljoner kronor godkänd för 2023",
+      "summary": "Driftsbidrag på totalt 37,3 miljoner kronor beviljas Örebro Läns Flygplats, varav Örebro kommuns andel är 17,6 miljoner kronor.",
+      "detail": "Örebro Läns Flygplats AB är ett delägt bolag där Örebro Rådhus AB äger 44,95 procent. Flygplatsen erhål driftbidrag på 37 335 600 kronor för 2023, varav Örebro kommuns och Region Örebro läns andel är 17 590 400 kronor vardera. Bidraget ges under stöd av EU:s allmänna gruppundantagsförordning (GBER) för flygplatser med färre än 200 000 passagerare per år.\n\nÖrebro Läns Flygplats hade 67 018 passagerare under 2022. Kommunstyrelseförvaltningen bedömde att de tillämpliga villkoren i GBER är uppfyllda och att EU-förordningen därför kan åberopas som rättslig grund för bidraget.\n\nMartha Wicklund (V) yrka avslag på ärendet i sin helhet och förespråka att kommunen tillsammans med övriga ägare utreder möjligheterna för förstatligande eller försäljning/avveckling av flygplatsen. Ordförande Johansson ställde förslagen mot varandra och beslutet antogs enligt kommunledningsförvaltningens förslag.",
+      "category": "budget",
+      "contested": true,
+      "location": "Örebro Läns Flygplats",
+      "paragraph_ref": "§ 74",
+      "quote": "EU-kommissionen har fr.o.m. 1 januari 2018 beslutat att inkludera driftsstöd för flygplatser i den allmänna gruppundantagsförordningen för statligt stöd (GBER), som medger att flygplatser som har färre än 200 000 passagerare per år kan ges stöd som täcker flygplatsens rörelseförluster.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "flygplats",
+        "driftsbidrag",
+        "Örebro"
+      ],
+      "id": "2023-04-11_ko_74"
+    },
+    {
+      "headline": "Detaljplan för Törsjö logistikområde antagen med reservationer",
+      "summary": "Detaljplan för Törsjö 13:2 godkänns för järnvägsanknuten logistik, kombiterminal och omlokalisering av företag från CV-området och Holmens verksamhetsområde.",
+      "detail": "Detaljplanarbetet initierades 2016 av Törsjö logistik AB och utökades senare med mark från Törsjö Fastighetsutveckling AB. Planen möjliggör byggnation av kombiterminal och omlokalisering av företag från CV-området och Holmens verksamhetsområde för att dessa kan omvandlas till bostäder och kontor.\n\nLogistikbranschen bedöms ha goda förutsättningar att attrahera fler företag till regionen. Detaljplanen medger järnvägsanknuten lager- och logistikverksamhet med kombiterminal, kontor och järnvägsrelaterade verksamheter samt tekniska anläggningar.\n\nYngve Alkman (L) och Helena Ståhl (SD) yrka avslag. Martha Wicklund (V) yrka först på återremiss för att pröva alternativ lokalisering ur regionalt perspektiv, i andra hand avslag. Markus Allard (ÖrP) yrka på kompensation till närliggande fastighetsägare, i andra hand avslag.\n\nOrdförande Johansson avslöade återremissyrkandena och fattade beslut enligt Bygg- och miljönämndens förslag. Susanne Lindholm (KD) fick lämna ett särskilt yttrande. Beslutet ska till Kommunfullmäktige.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Törsjö, Örebro",
+      "paragraph_ref": "§ 77",
+      "quote": "Syftet med detaljplanen är att möjliggöra byggnation av en kombiterminal samt möjliggöra omlokalisering av företag i CV-området samt Holmens verksamhetsområde.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD"
+        ],
+        "against": [
+          "L",
+          "SD"
+        ],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "detaljplan",
+        "Törsjö",
+        "logistik",
+        "kombiterminal"
+      ],
+      "id": "2023-04-11_ko_77"
+    },
+    {
+      "headline": "Riktlinje för arbete med nationella minoriteter och minoritetsspråk antagen",
+      "summary": "Kommunstyrelsen beslutar att anta riktlinje för arbetet med nationella minoriteter och minoritetsspråk enligt lagkrav.",
+      "detail": "Lagen om nationella minoriteter och minoritetsspråk har stärkts och det är numera obligatoriskt att alla kommuner ska ha riktlinjer för detta arbete. Riktlinjen tar upp Örebro kommuns skyldigheter gällande nationella minoriteter och minoritetsspråk enligt lagar, konventioner och kommuns egen styrning.\n\nArbetet med nationella minoriteter och minoritetsspråk måste integreras i ordinarie verksamhet. En del nämnder och verksamheter behöver arbeta systematiskt för att integrera arbetet och ha en tydlig plan för fortsatt arbete. Riktlinjen anger de krav som ställs på kommunens verksamheter för att leva upp till sitt lagliga ansvar.\n\nKommundirektören får i uppdrag att skapa förutsättningar för implementering av riktlinjen. Beslutet fattades enhälligt.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 79",
+      "quote": "För att arbetet med nationella minoriteter och minoritetsspråk ska ge resultat krävs att arbetet integreras i ordinarie verksamhet. Kommunens nämnder, förvaltningar och verksamheter ska ha kännedom om vad kommunens skyldigheter innefattar.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "minoriteter",
+        "minoritetsspråk",
+        "riktlinje",
+        "lagkrav"
+      ],
+      "id": "2023-04-11_ko_79"
+    },
+    {
+      "headline": "Motion om Örebrobostäder avslås - avkastningskrav kan inte tas bort",
+      "summary": "Kommunstyrelsen avslår motion från Vänsterpartiet om att Örebrobostäder ska avskaffa avkastningskrav och sätta rimliga hyror.",
+      "detail": "Martha Wicklund, Cecilia Lönn Elgstrand och Linn Josefsson (alla V) inkom med motion 2020 om att Örebrobostäder AB ska avskaffa avkastningskravet, sätta rimliga hyror för att undvika rabattsystem och använda slopad avkastning för renovering.\n\nKommunledningsförvaltningen bedömde att det enligt Lag (2010:879) om allmännyttiga kommunala bostadsaktiebolag inte är möjligt att avskaffa avkastningskravet. Vidare konstaterades att Örebrobostäder redan har snitthyra lägre än alla regionhuvudstäder och motsvarande bolag med över 10 000 bostäder. Den introducerade rabattstegen möjliggör för fler att kunna bo i både nyproducerade och renoverade lägenheter.\n\nMartha Wicklund (V) yrka bifall. Motionen avslogs. Martha Wicklund reserverade sig för sitt bifallsyrkande. Ärendet skickas till Kommunfullmäktige.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 88",
+      "quote": "Bedömningen är att det enligt Lag (2010:879) om allmännyttiga kommunala bostadsaktiebolag inte är möjligt att avskaffa avkastningskravet samt att Örebrobostäder AB idag har en snitthyra som ligger lägre än alla Regionhuvudstäder-, och bostadsbolag med fler än 10 000 bostäder.",
+      "quote_page": "s. 28",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "V"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "Örebrobostäder",
+        "avkastningskrav",
+        "hyror"
+      ],
+      "id": "2023-04-11_ko_88"
+    },
+    {
+      "headline": "Motion om gratis frukost i grundskolan remitterad till Kommunstyrelsen",
+      "summary": "Motion från Vänsterpartiet och andra om gratis frukost i grundskolan och gymnasiet remitteras för beredning.",
+      "detail": "Kommunfullmäktige den 22 mars 2023 överlämnade motion från Martha Wicklund och andra (V) om gratis frukost i grundskolan och gymnasiet till Kommunstyrelsen för beredning.\n\nMotionen remitteras till Kommunstyrelsen för att utredas och beredskapas. Denna typ av elevhälsofrågor kan ha betydelse för både barns hälsa och skolprestation.",
+      "category": "skola",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 93",
+      "quote": "Motion från Martha Wicklund (V) m.fl. om gratis frukost i grundskolan och gymnasiet bereds av Kommunstyrelsen.",
+      "quote_page": "s. 33",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "motion",
+        "frukost",
+        "grundskola",
+        "gymnasium"
+      ],
+      "id": "2023-04-11_ko_93"
+    },
+    {
+      "headline": "Motion om jordbruksmark i Törsjö remitterad till Bygg- och miljönämnden",
+      "summary": "Motion från Vänsterpartiet om att bevara jordbruksmarken i Törsjö remitteras för beredning.",
+      "detail": "Kommunfullmäktige den 22 mars 2023 överlämnade motion från Martha Wicklund och andra (V) om att bevara jordbruksmarken i Törsjö till Kommunstyrelsen.\n\nMotionen remitteras till Bygg- och miljönämnden för beredning. Denna fråga är direkt relevant till detaljplanen för Törsjö logistikområde som just antogs, då den aktualiserar miljö- och markutnyttjingsfrågor.",
+      "category": "miljo",
+      "contested": false,
+      "location": "Törsjö",
+      "paragraph_ref": "§ 93",
+      "quote": "Motion från Martha Wicklund (V) m.fl. om bevara jordbruksmarken i Törsjö remitteras till Bygg- och miljönämnden.",
+      "quote_page": "s. 33",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "motion",
+        "jordbruksmark",
+        "Törsjö",
+        "miljö"
+      ],
+      "id": "2023-04-11_ko_93"
+    },
+    {
+      "headline": "Yttrande över kärnkraftspromemoria - kärnkraft bedöms inte lösa elbehov",
+      "summary": "Kommunstyrelsen skickar yttrande till staten angående ny kärnkraft där man tillstyrker betänkandet men Martha Wicklund (V) reserverar sig.",
+      "detail": "Klimat- och näringslivsdepartementet inbjöd Örebro kommun att yttra sig över promemorian 'Ny kärnkraft i Sverige – ett första steg' som föreslår ändringar i miljöbalken för att möjliggöra nya kärnkraftsreaktorer.\n\nKommunledningsförvaltningen föreslöeg att yttrandet antas och överlämnas. Martha Wicklund (V) yrkade på att lägga till omfattande synpunkter kritiska mot kärnkraft. Hon argumenterade att kärnkraften är dyr, långsam att bygga och inte hinner möta behovet under klimatomställningen. Hon lyfte också fram säkerhetsrisker, beroendet av utländskt bränsle och det olösta problemet med slutförvaring av utbränt kärnbränsle i minst 100 000 år.\n\nOrdförande Johansson ställde förslagen mot varandra. Kommunstyrelsen beslutat enligt kommunledningsförvaltningens förslag. Wicklund reserverade sig för sitt tilläggsyrkande.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 81",
+      "quote": "Det stora, olöst problemet med kärnkraften är att det saknas en trovärdig lösning för slutförvaring av utbränt kärnbränsle. Det använda kärnbränslet måste förvaras i minst 100 000 år, vilket gör det nästintill omöjligt att hitta bergsäkra tekniska lösningar för slutförvaringen.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "kärnkraft",
+        "energi",
+        "miljö",
+        "remiss"
+      ],
+      "id": "2023-04-11_ko_81"
+    },
+    {
+      "headline": "Viljeinriktning för friluftsliv och besöksnäring i Kilsbergen på remiss",
+      "summary": "Gemensam viljeinriktning från fem kommuner och regionala aktörer om utveckling av Kilsbergen skickas på remiss.",
+      "detail": "Kilsbergen är ett strategiskt viktigt rekreationsområde för omkring 200 000 invånare i Degerfors, Karlskoga, Lekeberg, Nora och Örebro kommuner. Trots stora upplevelsevärden bedöms områdets potential för rekreation och besöksnäring inte tillvaratas tillräckligt.\n\nEn huvudanledning är att förvaltning och utveckling inte samordnas mellan berörda organisationer. En gemensam viljeinriktning med fokus på friluftsliv och besöksnäring har tagits fram av Degerfors kommun, Karlskoga kommun, Lekebergs kommun, Nora kommun, Örebro kommun, Region Örebro län, Länsstyrelsen i Örebro län, Försvarsmakten, Saab Bofors Testcenter, Sveaskog och Örebrokompaniet.\n\nKommunstyrelsen beslutar att skicka viljeinriktningen på remiss enligt framtagen missiv och sändlista.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": "Kilsbergen",
+      "paragraph_ref": "§ 78",
+      "quote": "Kilsbergen utgör ett strategisk viktigt rekreationsområde för cirka 200 000 invånare i kommunerna Degerfors, Karlskoga, Lekeberg, Nora och Örebro.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Kilsbergen",
+        "friluftsliv",
+        "besöksnäring",
+        "regionalt samarbete"
+      ],
+      "id": "2023-04-11_ko_78"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Om gratis frukost i grundskolan och gymnasiet",
+      "party": "V",
+      "status": "Remitterad till Kommunstyrelsen"
+    },
+    {
+      "title": "Om bevara jordbruksmarken i Törsjö",
+      "party": "V",
+      "status": "Remitterad till Bygg- och miljönämnden"
+    },
+    {
+      "title": "Om våga tänk nytt om Kilsmo skola",
+      "party": "KD",
+      "status": "Remitterad till Grundskolenämnden"
+    },
+    {
+      "title": "Om krafttag mot mäns våld mot kvinnor",
+      "party": "V",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Om hållbart skogsbruk",
+      "party": "MP",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Örebrobostäder ska avskaffa avkastningskrav och sätta rimliga hyror",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Örebrobostäder ska avsluta medlemskap i Fastighetsägarföreningen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Örebrobostäder ska driva mer verksamhet i egen regi",
+      "party": "V",
+      "status": "Delvis avslagen"
+    },
+    {
+      "title": "Inga marknadshyror i allmännyttan",
+      "party": "V",
+      "status": "Avslagen"
+    }
+  ],
+  "skipped_items_count": 12,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2023-04-11",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 11
+}
