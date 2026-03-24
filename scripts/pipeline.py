@@ -516,10 +516,13 @@ def main():
         known = json.loads(known_file.read_text("utf-8"))
         process_state = load_process_state()
         count = 0
+        limit = args.max
         for p in known["protocols"]:
+            if count >= limit:
+                print(f"\n  ⏸️  Batch limit reached ({limit}). Run again to continue.")
+                break
             url = p["pdf_url"]
             if is_processed(url, process_state):
-                print(f"  ⏭️  Already done: {p['organ']} {p['date']}")
                 continue
             print(f"\n  📄 Processing: {p['organ']} {p['date']} ({p.get('pages','?')} pages)...")
             pdf_path = download_pdf(url, p["organ"], p["date"])

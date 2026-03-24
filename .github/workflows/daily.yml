@@ -31,7 +31,7 @@ permissions:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
 
     steps:
       - name: Checkout
@@ -85,8 +85,27 @@ jobs:
               python pipeline.py --backfill 2026 --max 10
               ;;
             process-known)
-              echo "📄 Processing all known protocols..."
-              python pipeline.py --process-known --skip-git
+              echo "📄 Processing known protocols in batches of 5..."
+              TOTAL=$(python -c "import json; d=json.load(open('../data/known_protocols.json')); print(len([p for p in d['protocols'] if p.get('pdf_url')]))")
+              DONE=0
+              for i in $(seq 1 20); do
+                echo ""
+                echo "=== Batch $i (processed so far: $DONE) ==="
+                python pipeline.py --process-known --skip-git --max 5
+
+                cd ..
+                git add -A
+                if git diff --cached --quiet; then
+                  echo "No new changes — all done!"
+                  break
+                fi
+                NEW=$(git diff --cached --name-only | grep -c "output/" || true)
+                git commit -m "Batch $i: +${NEW} protokoll processade"
+                git push
+                DONE=$((DONE + NEW))
+                echo "Committed batch $i ($NEW new files)"
+                cd scripts
+              done
               ;;
             dry-run)
               echo "🧪 Dry run..."
