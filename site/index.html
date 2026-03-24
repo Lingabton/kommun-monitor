@@ -472,6 +472,37 @@ function isContested(d) {
   return against.length > 0;
 }
 
+// Score how important/interesting a decision is for a regular citizen
+function importanceScore(d) {
+  let score = 0;
+  const v = g(d,"vote","voting") || {};
+  const against = v.a || v.against || [];
+  const forP = v.f || v["for"] || [];
+  const result = (v.r || v.result || "").toLowerCase();
+  const detail = (d.detail || "").toLowerCase();
+  const summary = (g(d,"sum","summary") || "").toLowerCase();
+  const text = detail + " " + summary;
+
+  // Political conflict signals
+  if (against.length > 0) score += 20;
+  if (against.length >= 4) score += 15;
+  if (result.includes("votering")) score += 25;
+
+  // Money signals
+  if (/\d+\s*(msek|mnkr|miljoner|miljarder)/.test(text)) score += 10;
+  if (/budget|investering|tilläggsanslag/.test(text)) score += 5;
+
+  // Affects people directly
+  if (g(d,"loc","location")) score += 5;
+  if (/skola|förskola|äldreomsorg|bostäder|hyra|avgift|taxa/.test(text)) score += 5;
+
+  // Boring formalities get penalized
+  if (!against.length && (result.includes("enhälligt") || result.includes("bifall"))) score -= 5;
+  if (/val av justerare|dagordning/.test(text)) score -= 20;
+
+  return Math.max(score, 0);
+}
+
 function badges(d) {
   let h = "";
   if (isContested(d)) h += '<span class="bg bc" title="Minst ett parti röstade emot — beslutet var inte alla överens om">⚡ Omstritt</span> ';
@@ -530,8 +561,11 @@ function renderLatestMeeting() {
   if (!m) return;
   const wrap = document.getElementById("latest-meeting-wrap");
   const contested = m.decisions.filter(d => isContested(d)).length;
+  // Sort by importance — most interesting first
+  const sorted = [...m.decisions].sort((a, b) => importanceScore(b) - importanceScore(a));
+
   let items = "";
-  m.decisions.forEach((d, i) => {
+  sorted.forEach((d, i) => {
     const hl = g(d,"hl","headline");
     const sm = g(d,"sum","summary");
     const cat = g(d,"cat","category");
@@ -562,7 +596,7 @@ function renderLatestMeeting() {
       '<div class="bd">' + bh + '</div></div>';
   });
   wrap.innerHTML = '<div style="margin-bottom:8px">' +
-    '<div class="header"><h2>Senaste sammanträdet</h2>' +
+    '<div class="header"><h2>Senaste sammanträdet — ' + fmt(m.date) + '</h2>' +
     '<div class="meeting-meta">' + m.organ + ' · ' + fmt(m.date) + ' · ' + m.decisions.length + ' beslut' +
     (contested > 0 ? ' · <span style="color:var(--red)">' + contested + ' omstridda</span>' : '') +
     '</div></div></div>' + items;
