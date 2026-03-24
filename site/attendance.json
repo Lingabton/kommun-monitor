@@ -1,0 +1,249 @@
+{
+  "total_meetings": 47,
+  "absent": [
+    {
+      "name": "Frederick Axewill (S)",
+      "party": "S",
+      "absent_count": 8,
+      "dates": [
+        "2023-04-18",
+        "2023-05-31",
+        "2024-03-20",
+        "2024-06-10",
+        "2024-08-28",
+        "2024-11-20",
+        "2025-01-29",
+        "2025-02-25"
+      ]
+    },
+    {
+      "name": "Abraham Begallo (SD)",
+      "party": "SD",
+      "absent_count": 7,
+      "dates": [
+        "2023-04-18",
+        "2023-05-31",
+        "2024-03-20",
+        "2024-06-10",
+        "2024-11-20",
+        "2025-01-29",
+        "2025-02-25"
+      ]
+    },
+    {
+      "name": "Adam Heivert Taylor (ÖrP)",
+      "party": "ÖrP",
+      "absent_count": 7,
+      "dates": [
+        "2023-04-18",
+        "2023-05-31",
+        "2024-03-20",
+        "2024-06-10",
+        "2024-08-28",
+        "2025-01-29",
+        "2025-02-25"
+      ]
+    },
+    {
+      "name": "Bo Ammer (SD)",
+      "party": "SD",
+      "absent_count": 7,
+      "dates": [
+        "2024-06-10",
+        "2024-08-27",
+        "2024-08-28",
+        "2024-10-15",
+        "2024-11-20",
+        "2024-12-03",
+        "2025-01-29"
+      ]
+    },
+    {
+      "name": "Jessica Ekerbring (S)",
+      "party": "S",
+      "absent_count": 5,
+      "dates": [
+        "2023-02-07",
+        "2023-11-13",
+        "2024-10-15",
+        "2024-11-20",
+        "2025-01-29"
+      ]
+    },
+    {
+      "name": "Daniel Spiik (SD)",
+      "party": "SD",
+      "absent_count": 4,
+      "dates": [
+        "2023-04-18",
+        "2024-03-20",
+        "2024-08-28",
+        "2025-02-25"
+      ]
+    },
+    {
+      "name": "Maria Hedwall (M)",
+      "party": "M",
+      "absent_count": 3,
+      "dates": [
+        "2023-04-18",
+        "2023-05-31",
+        "2024-11-20"
+      ]
+    },
+    {
+      "name": "Jaber Fawaz (V)",
+      "party": "V",
+      "absent_count": 3,
+      "dates": [
+        "2023-04-18",
+        "2023-05-31",
+        "2024-03-20"
+      ]
+    },
+    {
+      "name": "Helena Ståhl (SD)",
+      "party": "SD",
+      "absent_count": 2,
+      "dates": [
+        "2023-01-17",
+        "2023-02-07"
+      ]
+    },
+    {
+      "name": "Johan Hurtig (S)",
+      "party": "S",
+      "absent_count": 2,
+      "dates": [
+        "2023-04-18",
+        "2023-05-31"
+      ]
+    },
+    {
+      "name": "Linda Smedberg (S)",
+      "party": "S",
+      "absent_count": 2,
+      "dates": [
+        "2023-04-18",
+        "2023-05-31"
+      ]
+    },
+    {
+      "name": "Elisabeth Nilesol (V)",
+      "party": "V",
+      "absent_count": 2,
+      "dates": [
+        "2023-04-18",
+        "2025-02-25"
+      ]
+    },
+    {
+      "name": "Unnur Tryggvadottir Nordell (S)",
+      "party": "S",
+      "absent_count": 2,
+      "dates": [
+        "2023-05-31",
+        "2024-08-28"
+      ]
+    },
+    {
+      "name": "Cristian Rehn Janowicz (V)",
+      "party": "V",
+      "absent_count": 2,
+      "dates": [
+        "2023-05-31",
+        "2024-08-28"
+      ]
+    },
+    {
+      "name": "Willhelm Sundman (L)",
+      "party": "L",
+      "absent_count": 2,
+      "dates": [
+        "2023-05-31",
+        "2025-01-29"
+      ]
+    },
+    {
+      "name": "John Johansson (S)",
+      "party": "S",
+      "absent_count": 2,
+      "dates": [
+        "2024-02-06",
+        "2024-12-03"
+      ]
+    },
+    {
+      "name": "Kent Vallén (S)",
+      "party": "S",
+      "absent_count": 2,
+      "dates": [
+        "2024-03-20",
+        "2024-06-10"
+      ]
+    },
+    {
+      "name": "Johan Kumlin (M)",
+      "party": "M",
+      "absent_count": 2,
+      "dates": [
+        "2024-03-20",
+        "2025-01-29"
+      ]
+    },
+    {
+      "name": "Sandra Fröjdenstam (KD)",
+      "party": "KD",
+      "absent_count": 2,
+      "dates": [
+        "2024-03-20",
+        "2024-08-28"
+      ]
+    },
+    {
+      "name": "Gunhild Wallin (C)",
+      "party": "C",
+      "absent_count": 2,
+      "dates": [
+        "2024-06-10",
+        "2024-08-28"
+      ]
+    },
+    {
+      "name": "Abdulrahman Ibrahim Muhammed (C)",
+      "party": "C",
+      "absent_count": 2,
+      "dates": [
+        "2024-08-28",
+        "2025-02-25"
+      ]
+    },
+    {
+      "name": "Jenny Thor (S)",
+      "party": "S",
+      "absent_count": 2,
+      "dates": [
+        "2024-11-20",
+        "2025-01-29"
+      ]
+    },
+    {
+      "name": "Paula Säker (KD)",
+      "party": "KD",
+      "absent_count": 2,
+      "dates": [
+        "2024-11-20",
+        "2025-02-25"
+      ]
+    },
+    {
+      "name": "Fredrik Persson (MP)",
+      "party": "MP",
+      "absent_count": 2,
+      "dates": [
+        "2024-11-20",
+        "2025-02-25"
+      ]
+    }
+  ]
+}
