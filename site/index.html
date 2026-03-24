@@ -235,6 +235,52 @@ section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
 }
 .read-more:hover { background: #e8e4df; }
 
+/* ── Latest meeting highlight ── */
+.latest-meeting {
+  max-width: 960px; margin: 0 auto; padding: 24px 24px 0;
+}
+.latest-meeting .card {
+  background: var(--card); border-radius: 12px; padding: 20px 24px;
+  box-shadow: 0 2px 12px rgba(0,0,0,.04);
+}
+.latest-meeting .header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 12px; flex-wrap: wrap; gap: 8px;
+}
+.latest-meeting h2 {
+  font-family: 'Fraunces', serif; font-size: 20px; font-weight: 400;
+}
+.latest-meeting .meeting-meta {
+  font-size: 12px; color: var(--text-light);
+}
+.latest-meeting .mini-decision {
+  padding: 8px 0; border-bottom: 1px solid var(--border);
+  display: flex; align-items: flex-start; gap: 8px; font-size: 13px;
+}
+.latest-meeting .mini-decision:last-child { border-bottom: none; }
+.latest-meeting .mini-hl { font-weight: 600; color: var(--text); }
+.latest-meeting .mini-sum { color: var(--text-mid); margin-top: 1px; }
+
+/* ── Year filter ── */
+.year-filter {
+  display: flex; gap: 4px; margin-bottom: 10px;
+}
+.year-filter button {
+  padding: 5px 12px; border-radius: 6px; border: 1.5px solid var(--border);
+  background: var(--card); font: inherit; font-size: 12px; font-weight: 600;
+  color: var(--text-mid); cursor: pointer; transition: all .15s;
+}
+.year-filter button.on { background: var(--navy); color: #fff; border-color: var(--navy); }
+
+/* ── Load more ── */
+.load-more {
+  display: block; width: 100%; padding: 12px; margin-top: 12px;
+  border-radius: 8px; border: 2px solid var(--border); background: var(--card);
+  font: inherit; font-size: 14px; font-weight: 600; color: var(--navy);
+  cursor: pointer; text-align: center; transition: all .15s;
+}
+.load-more:hover { border-color: var(--navy); background: #f0ede9; }
+
 /* ── Footer ── */
 footer { border-top: 1px solid var(--border); padding: 28px 24px; text-align: center; }
 footer .fl2 { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; font-size: 13px; color: var(--text-mid); margin-bottom: 10px; }
@@ -314,7 +360,10 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 <!-- Featured decision with human explanation -->
 <div class="featured" id="featured-wrap"></div>
 
-<!-- Fix 8: AI disclaimer — prominent, not hidden -->
+<!-- Latest meeting -->
+<div class="latest-meeting" id="latest-meeting-wrap"></div>
+
+<!-- AI disclaimer -->
 <div class="ai-notice">
   <div class="inner">
     <span>⚠️</span>
@@ -326,9 +375,11 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 <section id="beslut">
   <h2 class="st">Alla beslut</h2>
   <p class="ss">Klicka på ett beslut för att se detaljer, röstning och citat ur protokollet.</p>
+  <div class="year-filter" id="yf"></div>
   <div class="fl" id="flt"></div>
   <div id="dcn" style="font-size:13px;color:var(--text-light);margin-bottom:10px"></div>
   <div id="dl"></div>
+  <button class="load-more" id="load-more-btn" style="display:none" onclick="showMore()">Visa fler beslut</button>
 </section>
 
 <!-- Fix 1: Parties AFTER decisions -->
@@ -390,7 +441,7 @@ function fmtLong(s) {
 }
 function g(d, a, b) { return d[a] !== undefined ? d[a] : d[b]; }
 
-let D, A, cCat = null, cQ = "";
+let D, A, cCat = null, cQ = "", cYear = null, PAGE_SIZE = 20, visibleCount = 20;
 
 function pp(p, s) {
   s = s || 18;
@@ -440,7 +491,9 @@ async function init() {
 
   renderStats();
   renderWhy();
+  renderLatestMeeting();
   renderFeatured();
+  renderYearFilter();
   renderFilters();
   renderDecisions();
   renderParties();
@@ -461,6 +514,45 @@ function renderStats() {
       '<div class="n" style="color:' + s.c + '">' + s.n + '</div>' +
       '<div class="l">' + s.l + '</div></div>';
   });
+}
+
+// Latest meeting section
+function renderLatestMeeting() {
+  const m = D.meetings[0];
+  if (!m) return;
+  const wrap = document.getElementById("latest-meeting-wrap");
+  const contested = m.decisions.filter(d => d.contested).length;
+  let items = "";
+  m.decisions.slice(0, 8).forEach(d => {
+    const hl = g(d,"hl","headline");
+    const sm = g(d,"sum","summary");
+    items += '<div class="mini-decision">' +
+      '<span style="flex-shrink:0">' + (CE[g(d,"cat","category")] || "📋") + '</span>' +
+      '<div><div class="mini-hl">' + hl + ' ' + badges(d) + '</div>' +
+      '<div class="mini-sum">' + sm + '</div></div></div>';
+  });
+  const more = m.decisions.length > 8 ? '<div style="font-size:12px;color:var(--text-light);padding-top:6px">+ ' + (m.decisions.length - 8) + ' fler beslut</div>' : '';
+  wrap.innerHTML = '<div class="card">' +
+    '<div class="header"><h2>Senaste sammanträdet</h2>' +
+    '<div class="meeting-meta">' + m.organ + ' · ' + fmt(m.date) + ' · ' + m.decisions.length + ' beslut' +
+    (contested > 0 ? ' · <span style="color:var(--red)">' + contested + ' omstridda</span>' : '') +
+    '</div></div>' + items + more + '</div>';
+}
+
+// Year filter
+function renderYearFilter() {
+  const years = [...new Set(A.map(d => d.mDate.slice(0, 4)))].sort().reverse();
+  const e = document.getElementById("yf");
+  e.innerHTML = '<button class="on" onclick="cYear=null;visibleCount=PAGE_SIZE;document.querySelectorAll(\'#yf button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">Alla år</button>';
+  years.forEach(y => {
+    const count = A.filter(d => d.mDate.startsWith(y)).length;
+    e.innerHTML += '<button onclick="cYear=\'' + y + '\';visibleCount=PAGE_SIZE;document.querySelectorAll(\'#yf button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">' + y + ' (' + count + ')</button>';
+  });
+}
+
+function showMore() {
+  visibleCount += PAGE_SIZE;
+  renderDecisions();
 }
 
 // Social proof: how many pages saved
@@ -532,10 +624,10 @@ function renderParties() {
 function renderFilters() {
   const cats = [...new Set(A.map(d => g(d,"cat","category")).filter(Boolean))].sort();
   const e = document.getElementById("flt");
-  e.innerHTML = '<input placeholder="Sök bland beslut..." oninput="cQ=this.value.toLowerCase();renderDecisions()">' +
-    '<button class="on" onclick="cCat=null;document.querySelectorAll(\'#flt button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">Alla</button>';
+  e.innerHTML = '<input placeholder="Sök bland beslut..." oninput="cQ=this.value.toLowerCase();visibleCount=PAGE_SIZE;renderDecisions()">' +
+    '<button class="on" onclick="cCat=null;visibleCount=PAGE_SIZE;document.querySelectorAll(\'#flt button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">Alla</button>';
   cats.forEach(c => {
-    e.innerHTML += '<button onclick="cCat=\'' + c + '\';document.querySelectorAll(\'#flt button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">' +
+    e.innerHTML += '<button onclick="cCat=\'' + c + '\';visibleCount=PAGE_SIZE;document.querySelectorAll(\'#flt button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">' +
       (CE[c] || "📋") + " " + c[0].toUpperCase() + c.slice(1) + '</button>';
   });
 }
@@ -543,6 +635,7 @@ function renderFilters() {
 // Fix 2: Group decisions by meeting date
 function renderDecisions() {
   const filtered = A.filter(d => {
+    if (cYear && !d.mDate.startsWith(cYear)) return false;
     if (cCat && g(d,"cat","category") !== cCat) return false;
     if (cQ) {
       const s = [g(d,"hl","headline"), g(d,"sum","summary"), d.detail || "",
@@ -552,13 +645,24 @@ function renderDecisions() {
     return true;
   });
 
-  document.getElementById("dcn").textContent = filtered.length + " beslut";
+  const showing = Math.min(visibleCount, filtered.length);
+  document.getElementById("dcn").textContent = showing + " av " + filtered.length + " beslut";
   const e = document.getElementById("dl");
   e.innerHTML = "";
 
-  let lastGroup = "";
+  // Show/hide load more button
+  const btn = document.getElementById("load-more-btn");
+  if (filtered.length > visibleCount) {
+    btn.style.display = "block";
+    btn.textContent = "Visa fler beslut (" + (filtered.length - visibleCount) + " kvar)";
+  } else {
+    btn.style.display = "none";
+  }
 
-  filtered.forEach((d, i) => {
+  let lastGroup = "";
+  const toShow = filtered.slice(0, visibleCount);
+
+  toShow.forEach((d, i) => {
     const hl = g(d,"hl","headline");
     const sm = g(d,"sum","summary");
     const cat = g(d,"cat","category");

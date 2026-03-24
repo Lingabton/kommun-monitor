@@ -2,6 +2,8 @@
 Aggregates all output/*/summary.json into site/data.json
 so the website and build_site.py can read them.
 
+Deduplicates meetings with the same date+organ (prefers fuller data).
+
 Usage:
     python3 aggregate.py
 """
@@ -18,8 +20,8 @@ DATA_FILE = SITE_DIR / "data.json"
 def aggregate():
     SITE_DIR.mkdir(parents=True, exist_ok=True)
 
-    meetings = []
-    total_decisions = 0
+    # Collect all meetings, keyed by date+organ for dedup
+    by_key = {}
 
     for summary_file in sorted(OUTPUT_DIR.glob("*/summary.json")):
         folder = summary_file.parent.name
@@ -45,10 +47,14 @@ def aggregate():
             "headline": data.get("summary_headline", ""),
             "motions_of_interest": data.get("motions_of_interest", []),
         }
-        meetings.append(meeting)
-        total_decisions += len(decisions)
 
-    meetings.sort(key=lambda m: m["date"], reverse=True)
+        # Dedup: keep the version with more decisions
+        key = f"{date}_{organ}"
+        if key not in by_key or len(decisions) > by_key[key]["decisions_count"]:
+            by_key[key] = meeting
+
+    meetings = sorted(by_key.values(), key=lambda m: m["date"], reverse=True)
+    total_decisions = sum(m["decisions_count"] for m in meetings)
 
     site_data = {
         "total_meetings": len(meetings),
