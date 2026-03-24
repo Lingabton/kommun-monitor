@@ -1,48 +1,160 @@
 {
-  "_comment": "Verified KF + KS protocol PDF URLs. Add new ones manually here if auto-discovery misses them.",
-  "_updated": "2026-03-19",
+  "_comment": "Verified KF + KS protocol PDF URLs. Covers mandate period 2023-2026.",
+  "_updated": "2026-03-24",
   "protocols": [
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-01-17",
+      "pdf_url": "https://www.orebro.se/download/18.130a4d0d18529dd1cf22a137/1675250506317/2023-01-17%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": "Mandatperiodens första KS-möte"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-02-07",
+      "pdf_url": "https://www.orebro.se/download/18.68a507b01864b837bb41a1b/1677077288172/2023-02-07%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-03-22",
+      "pdf_url": "https://www.orebro.se/download/18.1fea80c91872c95e96610fe/1680253427278/2023-03-22%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-04-18",
+      "pdf_url": "https://www.orebro.se/download/18.34b9a46187742095fe4d50/1682675677661/2023-04-18%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2023-05-23",
+      "pdf_url": "https://www.orebro.se/download/18.15b82e2b1884c6c058faa02/1686301405726/2023-05-23%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-05-31",
+      "pdf_url": "https://www.orebro.se/download/18.15b82e2b1884c6c058faa20/1686301896066/2023-05-31%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2023-10-24",
+      "pdf_url": "https://www.orebro.se/download/18.76459e2118bcc06c678663/1700035931725/2023-10-24%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-02-14",
+      "pdf_url": "https://www.orebro.se/download/18.2fded9ff18d82940593375a/1708679841456/2024-02-14%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": "Heldagsmöte 09:00-17:20"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-04-09",
+      "pdf_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": "Redan processad"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-05-14",
+      "pdf_url": "https://www.orebro.se/download/18.7020d79c18f9ec65a4d8cf3/1716793048747/2024-05-14%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2024-09-17",
+      "pdf_url": "https://www.orebro.se/download/18.5e29a890191dfc1d05f588d/1727774570939/2024-09-17%20Kommunstyrelsen.pdf",
+      "pages": null,
+      "note": ""
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2024-09-25",
+      "pdf_url": "https://www.orebro.se/download/18.3ed7b4801924bc2c8f51424/1728313695392/2024-09-25%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": null,
+      "note": "Heldagsmöte 09:00-17:10"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-01-29",
+      "pdf_url": "https://www.orebro.se/download/18.59abe9f8193debe46c88c90/1738229409630/2025-01-29%20Kommunfullm%C3%A4ktige%20%C2%A7%2013.pdf",
+      "pages": 6,
+      "note": "Delprotokoll, bara paragraph 13"
+    },
     {
       "organ": "Kommunstyrelsen",
       "date": "2025-02-11",
       "pdf_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
       "pages": 18,
-      "note": "Bostadsförsörjning, dataskydd, planeringsförutsättningar, BRT"
+      "note": "Redan processad. Bostadsförsörjning, dataskydd, BRT"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-06-19",
+      "pdf_url": "https://www.orebro.se/download/18.64c9951f1975d4dc5de4fa3/1750669452413/2025-06-19%20Kommunfullm%C3%A4ktige%20%C2%A7%20188.pdf",
+      "pages": null,
+      "note": "Delprotokoll, paragraph 188"
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2025-08-27",
-      "pdf_url": "https://www.orebro.se/download/18.51f8f580198e626bf11a67/1756478793570/2025-08-27%20Kommunfullm%C3%A4ktige%20%C2%A7%20217-218.pdf",
+      "pdf_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
+      "pages": 37,
+      "note": "Fullständigt protokoll (37 sidor)"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2025-09-24",
+      "pdf_url": "https://www.orebro.se/download/18.1261093c1993221cf6833fb/1758724837829/2025-09-24%20Kommunfullm%C3%A4ktige%20%C2%A7%20266,%20271.pdf",
       "pages": 6,
-      "note": "Garphytteklint naturreservat, val"
+      "note": "Delprotokoll, paragraf 266 och 271"
     },
     {
       "organ": "Kommunstyrelsen",
       "date": "2025-10-14",
       "pdf_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf",
       "pages": 40,
-      "note": "Tilläggsbudget 2026, lokalförsörjningsplan, -210 MSEK budgetavvikelse, BRT etapp 2"
-    },
-    {
-      "organ": "Kommunstyrelsen",
-      "date": "2025-10-14",
-      "pdf_url": "https://www.orebro.se/download/18.c8cb877199c901866611f3/1760517421951/2025-10-14%20%20Kommunstyrelsen%20%C2%A7%20207-209.pdf",
-      "pages": 5,
-      "note": "Remissvar klimatanpassning, länsplan transport 2026-2037"
+      "note": "Redan processad. Tilläggsbudget 2026, lokalförsörjningsplan, BRT etapp 2"
     },
     {
       "organ": "Kommunstyrelsen",
       "date": "2025-11-11",
       "pdf_url": "https://www.orebro.se/download/18.532e2b0519a768a724f8ae/1763038918069/2025-11-11%20Kommunstyrelsen.pdf",
       "pages": 19,
-      "note": "Likviditetsportfölj 568 MSEK, enprocentsregeln konst, motioner fossil reklam, värmestuga"
+      "note": "Redan processad. Likviditetsportfölj, enprocentsregeln, motioner"
     },
     {
       "organ": "Kommunfullmäktige",
       "date": "2025-12-10",
       "pdf_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf",
       "pages": 40,
-      "note": "9 timmar! Nämndreglemente, 202 ej verkställda SoL/LSS-beslut, farligt gods, cirkulationsbibliotek, kulturarvsvecka"
+      "note": "Redan processad. Nämndreglemente, 202 ej verkställda beslut"
+    },
+    {
+      "organ": "Kommunfullmäktige",
+      "date": "2026-02-25",
+      "pdf_url": null,
+      "pages": null,
+      "note": "Finns på anslagstavlan men PDF ej hittad ännu"
+    },
+    {
+      "organ": "Kommunstyrelsen",
+      "date": "2026-03-17",
+      "pdf_url": null,
+      "pages": null,
+      "note": "Finns på anslagstavlan (§§ 48-49, 66) men PDF ej hittad ännu"
     }
   ]
 }
