@@ -1,0 +1,526 @@
+{
+  "meeting_type": "Kommunstyrelsen",
+  "date": "2025-08-26",
+  "summary_headline": "Tilläggsanslag på 140 miljoner och flera SD-motioner avslagna",
+  "decisions": [
+    {
+      "headline": "Tilläggsanslag 140,8 miljoner för löneöversyn och lokalförsörjning",
+      "summary": "Kommunstyrelsen beviljar tilläggsanslag på totalt 140 819 tkr för bland annat löneöversyner och färdigställda lokalförsörjningsobjekt. Finansiering sker från KS utrymme för oförutsedda behov och generella kostnadsökningar.",
+      "detail": "Ärendet omfattar tilläggsanslag för budgetåret 2025 avseende kostnadsökningar och oförutsedda kostnader. Huvuddelen går till kompensation för årlig löneöversyn till nämnderna samt färdigställda lokalförsörjningsobjekt.\n\nKarolina Wallström (L) yrkade avslag på 13,5 miljoner kronor till Vård- och omsorgsnämnden för korttidsplatser, med hänvisning till otydligt samarbete mellan kommun och region samt höga kostnader utan klarlagd budget för nästa år. Helena Ståhl (SD) yrka på att ta bort 1 miljoner till Sommartorg 2025. Markus Allard (ÖrP) yrkade avslag på hela ärendet.\n\nKommunstyrelsen beslutade enligt Kommunledningsförvaltningens ursprungliga förslag. Susanne Lindholm Henningsson (KD) fick lämna särskilt yttrande där hon förespeglade att omkostade platser på Ölmbrogården borde återöppnas istället för ny avdelning på USÖ.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 153",
+      "quote": "Tilläggsanslag beviljas med totalt 140 819 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur KS utrymme för oförutsedda behov, KS utrymme för generella kostnadsökningar samt från KS utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "löneöversyn",
+        "lokalförsörjning",
+        "korttidsvård"
+      ],
+      "id": "2025-08-26_ko_153"
+    },
+    {
+      "headline": "Motioner från SD avslagna: nivåfri asfalt i trafikåtgärder",
+      "summary": "Kommunstyrelsen avslår Daniel Spiiks motion om att endast använda nivåfri asfalt med målade linjer vid trafikseparerande åtgärder. Kantsten bedöms viktiga för trafiksäkerhet.",
+      "detail": "Daniel Spiik (SD) föreslog att Örebro kommun vid anläggning av hastighetsdämpande åtgärder endast anlägger nivåfri asfalt med målade linjer, och successivt ersätter kantsten och stolpar med detta material.\n\nTeknik- och servicenämnden rekommenderade avslag med motiveringen att kantsten är viktiga för att skapa en trygg trafikmiljö vid nivåskillnader mellan trafikslag. Målningar är inte tillräckligt synliga året runt.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall, men majoriteteten röstade för avslag. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 160",
+      "quote": "Det är viktigt med kantsten för att skapa en trygg trafikmiljö där kommunen vill separera olika trafikslag med nivåskillnad. En målning är inte heller synlig året om.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "trafiksäkerhet",
+        "infrastruktur",
+        "SD-motion"
+      ],
+      "id": "2025-08-26_ko_160"
+    },
+    {
+      "headline": "Motioner från SD avslagna: vägar minst 4,5 meter för lantbruksmaskiner",
+      "summary": "Kommunstyrelsen avslår SD-motion om att säkerställa vägar på minst 4,5 meter för framkomlighet för lantbruksmaskiner. Bredare vägar ökar hastigheter och minskar trafiksäkerhet.",
+      "detail": "Daniel Spiik (SD) föreslog att inga passager på kommunens vägar (utom villagator) görs smalare än 4,5 meter, och att smalare passager åtgärdas successivt.\n\nTeknik- och servicenämnden rekommenderade avslag med motiveringen att bredare vägar genererar högre hastigheter och skapar otrygg trafikmiljö. Vägnätet är redan valt för att minimera passage genom centrala Örebro.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall. Kommunstyrelsen beslutade att avslå motionen. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 161",
+      "quote": "Bredare vägpassager tenderar att generera högre hastigheter vilket leder till en mer otrygg och osäker trafikmiljö.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "trafiksäkerhet",
+        "lantbruk",
+        "vägnät",
+        "SD-motion"
+      ],
+      "id": "2025-08-26_ko_161"
+    },
+    {
+      "headline": "SD-motion om farligt gods-transporter genom Örebro avslagna",
+      "summary": "Kommunstyrelsen avslår motion från Habib Brini och Bo Ammer (SD) om att minimera transporter av farligt gods genom Örebro och driva järnvägsfrågorna vidare.",
+      "detail": "Habib Brini och Bo Ammer (SD) föreslog att Örebro kommun ska vara pådrivande i diskussioner med Trafikverket om hur transporter av farligt gods kan minimeras och hur framtida järnväg enligt översiktsplanen blir verklighet.\n\nMarkplanerings- och exploateringsnämnden rekommenderade avslag med motiveringen att andra åtgärder i dagsläget har högre prioritet.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall, men majoriteten röstade för avslag. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 162",
+      "quote": "Bedömningen är att motionen ska avslås eftersom andra åtgärder i dagsläget har en högre prioritet.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "farligt gods",
+        "transport",
+        "miljö",
+        "järnväg"
+      ],
+      "id": "2025-08-26_ko_162"
+    },
+    {
+      "headline": "SD-motion avslagna: långtidsarbetslösa vid snöröjning och försörjningskrav",
+      "summary": "Två motioner från SD avslagna: förslagom att engagera långtidsarbetslösa vid snöröjning samt att kravställa försörjningsstödet för heltidssysselsättning.",
+      "detail": "Helena Ståhl och Habib Brini (SD) föreslog att långtidsarbetslösa med försörjningsstöd mobiliseras för snöröjning som arbetskraftsreserv.\n\nGymnasie- och arbetsmarknadsnämnden rekommenderade avslag med motiveringen att denna målgrupp majoritärt står långt från arbetsmarknaden och behöver omfattande individuell anpassning. Snöröjning kräver utbildning, samordning och säkerhetshänsyn som blir kostnadseffektiv jämfört med temporära behov.\n\nI en andra motion föreslog SD att krav på heltidssysselsättning införs för försörjningsstöd. Nämnden bedömde att detta inte är genomförbart då målgruppen till stor del har ohälsa och sociala skäl, och påminde om möjligheter till parallellt arbete med region och andra samhällsfunktioner.\n\nBåda motionerna avslogs efter yrkanden från Helena Ståhl (SD) och Markus Allard (ÖrP). Ärendena ska vidare till Kommunfullmäktige.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 163, 164",
+      "quote": "Att likställa den aktuella målgruppen av försörjningsstödstagare som en arbetskraftsreserv upplever förvaltningen som missvisade då denna målgrupp i majoritet utgörs av personer som står långt i från arbetsmarknaden.",
+      "quote_page": "s. 11-13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "försörjningsstöd",
+        "arbetslöshet",
+        "arbetsmarknad",
+        "SD-motioner"
+      ],
+      "id": "2025-08-26_ko_163_164"
+    },
+    {
+      "headline": "SD-motioner om motorgård och kulturarvsvecka avslagna",
+      "summary": "Motioner från Bjarne Bäckström om motorgård för ungdomar och från Carola Sunesson om återkommande kulturarvsvecka avslagna.",
+      "detail": "Bjarne Bäckström (SD) föreslog att Örebro kommun startar motorgård för ungdomar i närheten av centrala Örebro, antingen i egen regi eller i samarbete med föreningar.\n\nKultur- och fritidsnämnden rekommenderade avslag. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall, men majoriteteten röstade för avslag.\n\nCarola Sunesson och Bo Ammer (SD) föreslog årlig återkommande kulturarvsvecka inom befintlig verksamhet.\n\nKultur- och fritidsnämnden rekommenderade avslag. Helena Ståhl (SD) yrkade bifall (Markus Allard deltog inte i denna röstning). Ärendena ska vidare till Kommunfullmäktige.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 165, 166",
+      "quote": "Motionen behandlar möjligheten för Örebro kommun att starta upp en motorgård för ungdomar i närheten av centrala Örebro.",
+      "quote_page": "s. 14-15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "ungdomar",
+        "kultur",
+        "fritid",
+        "kulturarv"
+      ],
+      "id": "2025-08-26_ko_165_166"
+    },
+    {
+      "headline": "Byggnadsvårdspris 2025 tillgodosedning av SD-motion",
+      "summary": "Motion från Carola Sunesson (SD) om byggnadsvårdspris anses tillgodosedd då pris för 2025 kommer delas ut med planerad utvärdering.",
+      "detail": "Carola Sunesson (SD) föreslog att Örebro kommun utreder hur ett pris för byggnadsvård kan ges utrymme inom eller komplettera nuvarande byggnadspris.\n\nBygg- och miljönämnden bedömde motionen som tillgodosedd eftersom byggnadsvårdspris för 2025 kommer delas ut och en utvärdering planeras för att se om priset ska permanentas.\n\nHelena Ståhl (SD) yrkade bifall, men kommunstyrelsen beslutade enligt nämndens förslag. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 167",
+      "quote": "Bedömningen är att motionen bör anses vara tillgodosedd då ett byggnadsvårdspris för 2025 kommer delas ut samt att en utvärdering kommer göras för att se om priset ska permanentas.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "byggnadsarv",
+        "kultur",
+        "pris"
+      ],
+      "id": "2025-08-26_ko_167"
+    },
+    {
+      "headline": "Arkitektur-medborgarinflytande motion avslagna",
+      "summary": "Motion från Carola Sunesson och Habib Brini (SD) om medborgarundersökning och arkitekturinflytande avslagna. Befintliga styrdokument anses tillräckliga.",
+      "detail": "Carola Sunesson och Habib Brini (SD) föreslog tre åtgärder: medborgarundersökning om arkitekturinriktning, omformulering av arkitekturpolicy, och utredning av modell för medborgarinflytande på arkitektur.\n\nBygg- och miljönämnden bedömde att befintliga styrdokument och former för medborgarinflytande redan är tillräckliga.\n\nHelena Ståhl (SD) yrkade bifall till motionen. Markus Allard (ÖrP) yrkade bifall till den tredje delen. Kommunstyrelsen avslogs motionen helhet. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "regler",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 168",
+      "quote": "Bedömningen är att de existerande styrdokument som antagits och de former som finns för medborgarinflytande inför ny- och ombyggnation är tillräckliga.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "arkitektur",
+        "medborgarinflytande",
+        "stadsplanering"
+      ],
+      "id": "2025-08-26_ko_168"
+    },
+    {
+      "headline": "Cirkulationsbibliotek motion avslagna: inte folkbibliotekets uppgift",
+      "summary": "Motion från Johanna Reimfelt och Mats-Olof Liljegren (L) om cirkulationsbibliotek med klassuppsättningar för skolor avslagna.",
+      "detail": "Johanna Reimfelt och Mats-Olof Liljegren (L) föreslog att Örebro kommun utvecklar cirkulationsbibliotek där folkbiblioteket köper in och tillhandahåller klassuppsättningar till grundskolorna.\n\nKultur- och fritidsförvaltningen och Förskole- och grundskoleförvaltningen bedömde att denna typ av verksamhet inte är en uppgift för folkbiblioteket utan för grundskolan. I dagsläget finns ingen bedömd behov eller förutsättningar för centralt cirkulationsbibliotek, men viktig att skapa förutsättningar för samarbete mellan skolbibliotek och folkbibliotek.\n\nMotionen återremitterades 31 mars 2025 för att utreda förutsättningar och ekonomiska aspekter.\n\nKarolina Wallström (L), Helena Ståhl (SD), Martha Wicklund (V) och Markus Allard (ÖrP) yrkade bifall, men kommunstyrelsen avslogs motionen. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "skola",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 169",
+      "quote": "Förvaltningarna är överens om att den typ av verksamhet som föreslås i motionen dock inte är en fråga för folkbiblioteket utan snarare för grundskolan.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "bibliotek",
+        "skola",
+        "läsning",
+        "ungdomar"
+      ],
+      "id": "2025-08-26_ko_169"
+    },
+    {
+      "headline": "Motion om offentliga toaletter ansedd besvarad",
+      "summary": "Motion från Karolina Wallström m.fl. (L) om fler offentliga toaletter ansedd besvarad. Teknik- och serviceförvaltningen får uppdrag att utreda.",
+      "detail": "Karolina Wallström, Patrik Jämtvall och Johanna Reimfeldt (L) föreslog att Örebro kommun omedelbart börjar praktiskt ordna och öppna eller bygga nya offentliga toaletter i det offentliga rummet.\n\nKommunledningsförvaltningen föreslå motionen som besvarad med motiveringen att Teknik- och serviceförvaltningen fått uppdrag att utöka antalet offentliga toaletter. Antal, plats och lämpliga lösningar ska utredas.\n\nKarolina Wallström (L), Susanne Lindholm Henningsson (KD), Martha Wicklund (V) och Markus Allard (ÖrP) yrkade bifall, men kommunstyrelsen ansåg motionen besvarad. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 170",
+      "quote": "Teknik- och serviceförvaltningen har fått i uppdrag att utöka antalet offentliga toaletter i Örebro.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "offentlig miljö",
+        "stadsmiljö"
+      ],
+      "id": "2025-08-26_ko_170"
+    },
+    {
+      "headline": "Ej verkställda LSS/SoL-beslut: Vänsterpartiet yrkar åtgärder",
+      "summary": "Rapport över ej verkställda beslut enligt LSS och SoL visar problem med långvariga köer. Vänsterpartiet yrkar uppdrag om lösning på verkställningsproblem.",
+      "detail": "Rapporteringen visar att Socialnämndens ej verkställda beslut inom tre månader var 19 av totalt 62 rapporterade för Q1 2025 (minskat från 35 av 47 föregående kvartal).\n\nFunktionsstödsnämndens rapporterade beslut var 89 (ned från 117), men 55 var ej verkställda (ned från 64). Vård- och omsorgsnämndens rapporterade beslut var 52 med 15 ej verkställda.\n\nMartha Wicklund (V) yrka bifall till underlaget med tillägg att förvaltningen får uppdrag att ta fram förslag på hur gynnande beslut kan verkställas inom rimlig tid. Markus Allard (ÖrP) yrka samma tillägg. John Johansson (S) yrkade avslag på tillägget.\n\nKommunstyrelsen beslutade enligt huvudförslaget men avslogs Vänsterpartiets tilläggsyrkande. Karolina Wallström (L) fick lämna särskilt yttrande om allvarliga resursbrister inom öppenvård för barn, stödboendeplatser och bostad med särskild service.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 159",
+      "quote": "För det första kvartalet 2025 ökade Socialnämndens totala antal rapporterade beslut till 62 stycken. Vid kvartalets slut var 19 beslut fortsatt ej verkställda inom tre månader.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "LSS",
+        "SoL",
+        "äldreomsorg",
+        "funktionsstöd",
+        "resursbrister"
+      ],
+      "id": "2025-08-26_ko_159"
+    },
+    {
+      "headline": "8 nya motioner remitterade för beredning och utredning",
+      "summary": "Kommunfullmäktige har remitterat 8 nya motioner till nämnderna, bland annat om bussresor för pensionärer, maträtt i grundskolan och parkeringsavgifter.",
+      "detail": "8 motioner från SD, KD och ÖrP remitterades enligt följande:\n\n1. Fria bussresor för pensionärer (SD) - remitterad till Markplanerings- och exploateringsnämnden\n2. Fler hörande som kan svenskt teckenspråk (SD) - bereds av Kommunstyrelsen\n3. Stående maträtt i grundskolan (SD) - remitterad till Grundskolenämnden\n4. Nollbasbudget (SD) - bereds av Kommunstyrelsen\n5. Elevernas rätt att ta med matlåda till skolan (SD) - remitterad till Grundskole- och Gymnasie- och arbetsmarknadsnämnden\n6. Återinförande av lägre parkeringsavgift (KD) - remitterad till Teknik- och servicenämnden\n7. Krogarnas öppettider (ÖrP) - remitterad till Bygg- och miljönämnden\n8. Markeringar tio meter från korsningar (ÖrP) - remitterad till Teknik- och servicenämnden",
+      "category": "politik",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 172",
+      "quote": "Kommunfullmäktige har remitterat följande motioner till Kommunstyrelsen",
+      "quote_page": "s. 21-22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "motioner",
+        "remittering",
+        "beredning"
+      ],
+      "id": "2025-08-26_ko_172"
+    },
+    {
+      "headline": "Minnesmärke över tragedin på Campus Risbergska initierat",
+      "summary": "Martha Wicklund (V) initiativ om minnesmärke över tragedi på Campus Risbergska remitteras till presidium för vidare beredning.",
+      "detail": "Martha Wicklund (V) har inlämnat ett ledamotsinitiativ om att uprätta ett minnesmärke över tragedin som inträffade på Campus Risbergska.\n\nKommunstyrelsen beslutade att remittera initiativet till Kommunstyrelsens presidium för vidare beredning.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": "Campus Risbergska",
+      "paragraph_ref": "§ 178",
+      "quote": "Ledamotsinitiativet remitteras till Kommunstyrelsens presidium.",
+      "quote_page": "s. 26",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "minnesmärke",
+        "tragedie",
+        "Campus Risbergska"
+      ],
+      "id": "2025-08-26_ko_178"
+    }
+  ],
+  "motions_of_interest": [
+    {
+      "title": "Nivåfri asfalt i trafikåtgärder (Daniel Spiik, SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Vägar minst 4,5 meter för lantbruksmaskiner (Daniel Spiik, SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Farligt gods-transporter genom Örebro (Habib Brini, Bo Ammer, SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Långtidsarbetslösa vid snöröjning (Helena Ståhl, Habib Brini, SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Kravställa försörjningsstödet för heltidssysselsättning (Helena Ståhl m.fl., SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Motorgård för ungdomar (Bjarne Bäckström, SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Årlig kulturarvsvecka (Carola Sunesson, Bo Ammer, SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Byggnadsvårdspris (Carola Sunesson, SD)",
+      "party": "SD",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Medborgarinflytande på arkitektur (Carola Sunesson, Habib Brini, SD)",
+      "party": "SD",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Cirkulationsbibliotek för klassuppsättningar (Johanna Reimfelt, Mats-Olof Liljegren, L)",
+      "party": "L",
+      "status": "Avslaget"
+    },
+    {
+      "title": "Fler offentliga toaletter (Karolina Wallström m.fl., L)",
+      "party": "L",
+      "status": "Besvarad"
+    },
+    {
+      "title": "Fria bussresor för pensionärer (Helena Ståhl, Bo Ammer, SD)",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Fler hörande som kan svenskt teckenspråk (Helena Ståhl, SD)",
+      "party": "SD",
+      "status": "Bereds"
+    },
+    {
+      "title": "Stående maträtt i grundskolan (Helena Ståhl, Bjarne Bäckström, SD)",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Nollbasbudget (Helena Ståhl m.fl., SD)",
+      "party": "SD",
+      "status": "Bereds"
+    },
+    {
+      "title": "Elevernas rätt till matlåda i skolan (Habib Brini, Bjarne Bäckström, SD)",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Återinförande av lägre parkeringsavgift (Susanne Lindholm Henningsson, KD)",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Krogarnas öppettider (Markus Allard, ÖrP)",
+      "party": "ÖrP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Markeringar tio meter från korsningar (Markus Allard, ÖrP)",
+      "party": "ÖrP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Minnesmärke över tragedin på Campus Risbergska (Martha Wicklund, V)",
+      "party": "V",
+      "status": "Remitterad"
+    }
+  ],
+  "skipped_items_count": 5,
+  "organ": "Kommunstyrelsen",
+  "meeting_date": "2025-08-26",
+  "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf",
+  "status": "ok",
+  "decisions_count": 13
+}

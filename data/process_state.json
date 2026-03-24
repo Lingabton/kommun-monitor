@@ -487,7 +487,47 @@
       "meeting_date": "2025-06-10",
       "decisions_count": 11,
       "status": "ok"
+    },
+    "259f1cb13199fe066c3ca7350752a775": {
+      "url": "https://www.orebro.se/download/18.6641008c197a1e1ab089cd/1751011978235/2025-06-18%20och%202025-06-19%20Kommunfullm%C3%A4ktige%20%C2%A7%C2%A7%20171%E2%80%93187,%20%C2%A7%C2%A7%20189%E2%80%93210.pdf",
+      "processed_at": "2026-03-24T16:30:52.578202",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-06-18",
+      "decisions_count": 10,
+      "status": "ok"
+    },
+    "514df016fe6249d3e2d1de8966ae539d": {
+      "url": "https://www.orebro.se/download/18.64c9951f1975d4dc5de4fa3/1750669452413/2025-06-19%20Kommunfullm%C3%A4ktige%20%C2%A7%20188.pdf",
+      "processed_at": "2026-03-24T16:30:58.349985",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-06-19",
+      "decisions_count": 0,
+      "status": "ok"
+    },
+    "e0080bbdeb27520e831f61ea38b739a3": {
+      "url": "https://www.orebro.se/download/18.7c23397219931e08dd1bc5/1757680441327/2025-08-26%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-24T16:32:12.105970",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-08-26",
+      "decisions_count": 13,
+      "status": "ok"
+    },
+    "622b2e6e199f764cff00200fb0e338f0": {
+      "url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-24T16:32:56.856580",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-08-27",
+      "decisions_count": 7,
+      "status": "ok"
+    },
+    "08310ecb00af0049ab086e5d9db2c1b3": {
+      "url": "https://www.orebro.se/download/18.10d35aed1999e1646058a4/1759484104173/2025-09-16%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-24T16:33:45.496962",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-09-16",
+      "decisions_count": 7,
+      "status": "ok"
     }
   },
-  "last_run": "2026-03-24T16:29:46.374850"
+  "last_run": "2026-03-24T16:33:45.496996"
 }
