@@ -439,7 +439,47 @@
       "meeting_date": "2025-05-21",
       "decisions_count": 0,
       "status": "error"
+    },
+    "2376a820da130dcbfab6fd7fbee1c29d": {
+      "url": "https://www.orebro.se/download/18.73dc4e9a1975d2ffff24529/1750247643733/2025-06-10%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T14:56:59.070319",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-06-10",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "259f1cb13199fe066c3ca7350752a775": {
+      "url": "https://www.orebro.se/download/18.6641008c197a1e1ab089cd/1751011978235/2025-06-18%20och%202025-06-19%20Kommunfullm%C3%A4ktige%20%C2%A7%C2%A7%20171%E2%80%93187,%20%C2%A7%C2%A7%20189%E2%80%93210.pdf",
+      "processed_at": "2026-03-25T14:57:08.274030",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-06-18",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "514df016fe6249d3e2d1de8966ae539d": {
+      "url": "https://www.orebro.se/download/18.64c9951f1975d4dc5de4fa3/1750669452413/2025-06-19%20Kommunfullm%C3%A4ktige%20%C2%A7%20188.pdf",
+      "processed_at": "2026-03-25T14:57:11.856204",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-06-19",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "e0080bbdeb27520e831f61ea38b739a3": {
+      "url": "https://www.orebro.se/download/18.7c23397219931e08dd1bc5/1757680441327/2025-08-26%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T14:57:20.647418",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-08-26",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "622b2e6e199f764cff00200fb0e338f0": {
+      "url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T14:57:27.928018",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-08-27",
+      "decisions_count": 0,
+      "status": "error"
     }
   },
-  "last_run": "2026-03-25T14:25:02.617857"
+  "last_run": "2026-03-25T14:57:27.928081"
 }
