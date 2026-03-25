@@ -39,7 +39,47 @@
       "meeting_date": "2023-03-14",
       "decisions_count": 21,
       "status": "ok"
+    },
+    "296ecd967771034e44fc6814f1c582d9": {
+      "url": "https://www.orebro.se/download/18.1fea80c91872c95e96610fe/1680253427278/2023-03-22%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T12:43:24.853095",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-03-22",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "a6f877ba1470df7d8c307ee93d554e84": {
+      "url": "https://www.orebro.se/download/18.15b82e2b1884c6c058f8ae0/1685962980881/2023-04-11%20Kommunstyrelsen%20%C2%A7%C2%A7%2066%E2%80%9391%20och%2093%E2%80%9399.pdf",
+      "processed_at": "2026-03-25T12:45:44.946650",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-04-11",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "f7ca1c269bf75082f965bd8db125ff29": {
+      "url": "https://www.orebro.se/download/18.34b9a46187742095fe4d50/1682675677661/2023-04-18%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T12:47:47.294988",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-04-18",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "b561cb6546c9db99c431da7f92390461": {
+      "url": "https://www.orebro.se/download/18.15b82e2b1884c6c058faa02/1686301405726/2023-05-23%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T12:50:00.227266",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-05-23",
+      "decisions_count": 21,
+      "status": "ok"
+    },
+    "1aa5e201e4c18b6bf2ec5f00b0da49e1": {
+      "url": "https://www.orebro.se/download/18.15b82e2b1884c6c058faa20/1686301896066/2023-05-31%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T12:51:55.153158",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-05-31",
+      "decisions_count": 0,
+      "status": "error"
     }
   },
-  "last_run": "2026-03-25T12:41:27.097066"
+  "last_run": "2026-03-25T12:51:55.153211"
 }

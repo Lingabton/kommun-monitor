@@ -1,15 +1,30 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2023-05-23",
-  "summary_headline": "Logistikområde Törsjö, placeringar och namnrättigheter debatterade",
+  "summary_headline": "Budget omfördelning, placeringspolicy, detaljplan Törsjö och exploateringsriktlinjer",
   "decisions": [
     {
-      "headline": "Ombudgetering IT-objekt mellan nämnder",
-      "summary": "Kommunstyrelsen omfördelade 43,5 miljoner kronor mellan nämnder för IT-objekt inom ramfördelningen för den nya nämndstrukturen 2023.",
-      "detail": "Ärendet behandlade ombudgetering av medel mellan nämnder på grund av kostnadsökningar och oförutsedda kostnader för budgetåret 2023. Ombudgeteringen rörde flytt av nämndernas budget för IT-objekt till Kommunstyrelsen.\n\nMarkus Allard (ÖrP) kritiserade bristen på detaljerad information och yrkade på återremiss för att få fullständig redogörelse över vad de 43,5 miljonerna faktiskt avsåg. Han yrkade i andra hand på avslag.\n\nOrdförande John Johansson (S) ställde återremissyrkandet under proposition och fann att Kommunstyrelsen skulle avgöra ärendet omedelbar. Efter proposition beslutade Kommunstyrelsen enligt Kommunledningsförvaltningens ursprungliga förslag.\n\nMarkus Allard reserverade sig skriftligt mot beslutet till förmån för sitt eget yrkande.",
+      "headline": "Ombudgetering mellan nämnder för IT-objekt och kostnadsökningar",
+      "human_headline": "Kommunen flyttar pengar mellan nämnder för IT och oförutsedda kostnader",
+      "summary": "Kommunstyrelsen godkänner ombudgetering mellan nämnder enligt Kommunledningsförvaltningens förslag. Ärendet avser flytt av medel mellan nämnder med grund i ramfördelningen till ny nämndstruktur för 2023 samt flytt av nämndernas IT-objekt till Kommunstyrelsen.",
+      "plain_language_summary": "Kommunen omfördelar pengar mellan olika nämnder för att hantera kostnadsökningar och IT-utgifter.",
+      "relevance": "Påverkar alla nämnder som får sina budgetar justerade.",
+      "detail": "Ärendet innefattar tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda kostnader för budgetåret 2023. Ombudgeteringen berör flytt av medel mellan nämnder med grund i den ramfördelning som gjordes till ny nämndstruktur för 2023. Ärendet hanterar flytt av nämndernas budget för IT-objekt till Kommunstyrelsen.\n\nMarkus Allard (ÖrP) yrkar i första hand att ärendet återremitteras och kompletteras med fullständig information om vad de 43,5 miljonerna faktiskt avser och i andra hand att ärendet avslås. Ordförande John Johansson (S) ställer först Markus Allards yrkande om återremiss under proposition och finner att Kommunstyrelsen beslutar att ärendet ska avgöras idag.\n\nKommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag. Markus Allard (ÖrP) reserverar sig skriftligt mot beslutet till förmån för sitt eget yrkande.",
       "category": "budget",
-      "contested": true,
-      "location": null,
+      "decision_type": "budget",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": true,
       "paragraph_ref": "§ 100",
       "quote": "Ombudgetering mellan nämnder sker enligt Kommunledningsförvaltningens förslag.",
       "quote_page": "s. 3",
@@ -24,28 +39,42 @@
           "MP"
         ],
         "against": [],
-        "abstained": [
-          "SD"
-        ],
+        "abstained": [],
         "result": "Bifall"
       },
       "tags": [
         "budget",
-        "IT",
-        "ombudgetering",
-        "förvaltning"
+        "nämnder",
+        "IT-objekt",
+        "kostnader"
       ],
+      "confidence": "medel",
       "id": "2023-05-23_ko_100"
     },
     {
-      "headline": "Reviderad placeringspolicy för kapitalförvaltning fastställd",
-      "summary": "Kommunstyrelsen fastställde reviderad placeringspolicy för kommunens kapitalförvaltning med omallokering av kapital mellan portföljer och etiska riktlinjer för investeringar.",
-      "detail": "Policyn reviderades för första gången sedan 2017. Målen för pensionsportföljen ändrades för att kapitalet över tid ska motsvara 120% av åtagandet, vilket kräver en avsättning på 4,2 miljarder kronor. Den kortfristiga likviditetsportföljen ska uppgå till 300 miljoner kronor.\n\nPolicyn innehåller etiska riktlinjer som förbjuder placeringar i bolag vars omsättning kommer från tobak, alkohol, droger, kommersiell spelverksamhet, vapen och pornografi. Vidare förbjuds placeringar i bolag vars omsättning från fossila bränslen överstiger 5%. Martha Wicklund (V) ville skärpa kraven till ett totalförbud medan Markus Allard (ÖrP) kritiserade de etiska begränsningarna som onödiga hinder för avkastning.\n\nJohn Johansson (S) yrkade på tillägg om fotnot till tobaksvaror som även omfattar nikotinbaserade produkter som e-cigaretter. Karolina Wallström (L) och Helena Ståhl (SD) bifoll detta tillägg.\n\nKommunstyrelsen beslutade enligt förslaget med tillägg om fotnoten. Martha Wicklund (V) och Markus Allard (ÖrP) reserverade sig mot beslutet.",
-      "category": "regler",
-      "contested": true,
-      "location": null,
+      "headline": "Reviderad placeringspolicy för kapitalförvaltningen med etiska riktlinjer",
+      "human_headline": "Kommunen anger etiska regler för var den ska investera sina pengar",
+      "summary": "Kommunstyrelsen fastställer reviderad placeringspolicy för kommunens kapitalförvaltning. Pensionsportföljen ökas till 4,2 miljarder kronor och kortfristig likviditetsportfölj till 0,3 miljarder. Etiska investeringskriterier inkluderas med förbud mot placeringar i fossila bränslen, tobak, alkohol, droger och vapen. Policy med nikotinhaltiga produkters definition tillämpas från juni 2023.",
+      "plain_language_summary": "Kommunen bestämmer hur den ska placera sina sparade pengar och vilka företag den inte vill investera i på grund av etiska skäl, bland annat fossila bränslen.",
+      "relevance": "Påverkar hur kommunens pensionsskuld finansieras och vilka företag som får kommunens investeringar.",
+      "detail": "Kommunledningsförvaltningen föreslår reviderad placeringspolicy för kommunens kapitalförvaltning. Målet för pensionsportföljen ändras till att kapitalet över tid ska motsvara 120% av åtagandet för att skapa buffert för eventuella förändringar. För att klara målet behöver 4,2 miljarder kronor avsättas i pensionsportföljen med realt avkastningsmål om 2,25 procent per år. Kortfristig portfölj behöver uppgå till 300 miljoner kronor motsvarande halvårseffekt av kassaflöde 2023.\n\nMartha Wicklund (V) yrkar att stycke 3 ändras för att helt förbjuda placeringar i fossila bränslen. John Johansson (S) yrkar ändringsyrkande om fotnot till tobaksvaror som inkluderar nikotinbaserade produkter såsom e-cigaretter. Helena Ståhl (SD) drar tillbaka sitt yrkande och stöder John Johanssons yrkande. Karolina Wallström (L) yrkar bifall till John Johanssons yrkande. Markus Allard (ÖrP) yrkar återremiss för mer pragmatisk och flexibel form där risk och avkastning vägs mot varandra.\n\nKommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag med tillägg om fotnot till tobaksvaror angående nikotinbaserade produkter. Martha Wicklund (V) och Markus Allard (ÖrP) reserverar sig.",
+      "category": "budget",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": false,
+      "has_reservation": true,
       "paragraph_ref": "§ 101",
-      "quote": "Placeringspolicy för Örebro kommuns kapitalförvaltning fastställs i enlighet med kommunledningsförvaltningens förslag.",
+      "quote": "Placeringar ska inte ske i företag vars omsättning kommer från produktion och distribution av tobak, alkohol, droger, kommersiell spelverksamhet, krigsmateriel, vapen och pornografi.",
       "quote_page": "s. 4-6",
       "voting": {
         "for": [
@@ -54,208 +83,946 @@
           "C",
           "L",
           "KD",
-          "SD"
+          "SD",
+          "MP"
         ],
         "against": [],
-        "abstained": [
-          "V"
-        ],
+        "abstained": [],
         "result": "Bifall"
       },
       "tags": [
-        "placeringar",
         "kapitalförvaltning",
-        "etik",
-        "investeringar",
-        "miljö"
+        "etiska investeringar",
+        "fossila bränslen",
+        "pensioner"
       ],
+      "confidence": "hog",
       "id": "2023-05-23_ko_101"
     },
     {
-      "headline": "Namnrättigheter för Eyrafältets arenor förhandlade med Behrn",
-      "summary": "Tilläggsavtal godkändes för Behrn Fastigheter ABs namnrättigheter till Eyrafältets arenor. Avtalet förlängs till 2028 med årlig ersättning på 3 miljoner kronor.",
-      "detail": "Avtalet mellan Örebro kommun och Behrn Fastigheter AB förlängdes för namnrättigheterna till arenorna på Eyrafältet. Parterna kom överens om förlängd avtalsperiod till 31 december 2028. Behrn ska erlägga årlig ersättning om 1,5 miljoner kronor enligt avtal Ks 846-04 och 1,5 miljoner kronor enligt avtal Ks 551/2008, totalt 3 miljoner kronor årligen.\n\nErsättningen ska utges 1 mars årligen och indexeras enligt konsumentprisindex med januari 2024 som basmånad. Avtalet upphör utan föregående uppsägning vid avtalstidens utgång, men båda parter kan säga upp det med 12 månaders uppsägningstid, dock tidigast 31 december 2026.\n\nMarkus Allard (ÖrP) yrkade avslag och kritiserade att priset var alldeles för lågt och att processen var skum. Martha Wicklund (V) yrkade på återremiss för att få in fler intressenter och högre intäkter. Karolina Wallström (L) och Susanne Lindholm (KD) bifoll förslaget men ville lämna särskilda yttranden angående prissättning och beredningsprocess.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": "Eyrafältet",
-      "paragraph_ref": "§ 103",
-      "quote": "Behrn ska till Kommunen årligen utge 1 500 000 kronor för namnrättigheterna enligt avtal Ks 846-04 och 1 500 000 kronor för namnrättigheterna enligt avtal Ks 551/2008.",
-      "quote_page": "s. 8",
+      "headline": "Övergripande tillsynsrapport för intern kontroll 2022 godkänd",
+      "human_headline": "Kommundirektören får i uppdrag att fortsätta utveckla internkontrollen",
+      "summary": "Kommunstyrelsen godkänner övergripande tillsynsrapport för intern kontroll 2022 och överlämnar den till Stadsrevisionen. Kommundirektören får i uppdrag att fortsätta utveckla den interna kontrollen så att resultaten bidrar till verksamhetens utveckling.",
+      "plain_language_summary": "Kommunen granskat sina nämnders interna kontroller och godkänner rapporten, med uppdrag att fortsätta förbättra.",
+      "relevance": "Påverkar hur väl kommunens nämnder kontrollerar sin verksamhet och ekonomi.",
+      "detail": "Nämnderna ska enligt kommunallagen se till att den interna kontrollen är tillräcklig. Kommunstyrelsen ska ha uppsikt över övriga nämnders verksamhet. Kommunledningsförvaltningen ger Kommunstyrelsen en sammanfattning och analys av genomförd intern kontroll i kommunens nämnder året efter verksamhetsåret.\n\nMartha Wicklund (V) yrkar att få lämna ett särskilt yttrande till protokollet. Ordförande John Johansson (S) godkänner detta.\n\nKommunstyrelsen beslutar att rapporten godkänns och överlämnas till Stadsrevisionen samt att kommundirektören får i uppdrag att fortsätta utveckla den interna kontrollen.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 102",
+      "quote": null,
+      "quote_page": null,
       "voting": {
         "for": [
           "S",
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
         ],
         "against": [],
-        "abstained": [
-          "SD",
-          "V"
-        ],
+        "abstained": [],
         "result": "Bifall"
       },
       "tags": [
-        "Eyrafältet",
-        "namnrättigheter",
-        "Behrn",
-        "arenor",
-        "intäkter"
+        "internkontroll",
+        "revision",
+        "nämndöversikt"
       ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_102"
+    },
+    {
+      "headline": "Tilläggsavtal för namnrättigheter Eyrafältet förlängs till 2028",
+      "human_headline": "Behrn får förlong avtalet för arenornas namn",
+      "summary": "Kommunstyrelsen godkänner tilläggsavtal mellan Örebro kommun och Behrn Fastigheter AB för namnrättigheter till arenorna på Eyrafältet. Avtalstiden förlängs till 2028-12-31. Behrn betalar 1,5 miljoner kronor årligen per avtal, sammanlagt 3 miljoner kronor årligen för namnrättigheterna, indexerad från januari 2024.",
+      "plain_language_summary": "Kommunen förlänger avtalet med Behrn om att de får namnge arenorna på Eyrafältet fram till 2028 för ungefär 3 miljoner kronor per år.",
+      "relevance": "Ökar kommunens intäkter och påverkar hur arenorna marknadsförs framåt.",
+      "detail": "Behrn fastigheter AB har genom avtal namnrättigheterna till arenorna på Eyrafältet. Genom förhandlingar tas ett förslag till tilläggsavtal fram. Avtalstiden förlängs till 2028-12-31. Behrn ska till Kommunen årligen utge 1 500 000 kronor för namnrättigheterna enligt avtal Ks 846–04 och 1 500 000 kronor för namnrättigheterna enligt avtal Ks 551/2008, sammanlagt 3 miljoner kronor årligen. Ersättningen ska erläggas den 1 mars årligen och räknas upp enligt konsumentprisindex med januari 2024 som basmånad. Avtalet upphör vid avtalstidens utgång utan uppsägning, men båda parter har rätt att säga upp med 12 månaders uppsägningstid, tidigast 2026-12-31.\n\nMarkus Allard (ÖrP) yrkar avslag. Martha Wicklund (V) yrkar återremiss för att få in fler intressenter och högre intäkter. Karolina Wallström (L) och Susanne Lindholm (KD) yrkar bifall och få lämna särskilda yttranden.\n\nKommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag. Karolina Wallström (L) och Susanne Lindholm (KD) får lämna särskilda yttranden. Markus Allard (ÖrP) och Martha Wicklund (V) reserverar sig.",
+      "category": "naringsliv",
+      "decision_type": "remiss",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsagare",
+        "foretagare"
+      ],
+      "geographic_scope": "specifik_fastighet",
+      "location_name": "Eyrafältet",
+      "controversial_level": "medel",
+      "has_vote": false,
+      "has_reservation": true,
+      "paragraph_ref": "§ 103",
+      "quote": "Avtalstiden för avtalen förlängs t.o.m. 2028-12-31. Behrn ska till Kommunen årligen utge 1 500 000 kronor för namnrättigheterna.",
+      "quote_page": "s. 7-8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "namnrättigheter",
+        "Eyrafältet",
+        "arenor",
+        "Behrn"
+      ],
+      "confidence": "hog",
       "id": "2023-05-23_ko_103"
     },
     {
-      "headline": "Detaljplan för Törsjö logistikområde antagen trots motstånd",
-      "summary": "Kommunstyrelsen antog detaljplan för Törsjö 13:2 m.fl. för järnvägsanknuten lager- och logistikverksamhet med kombiterminal. Flera partier opponerade sig.",
-      "detail": "Detaljplanen initierades 2016 av Törsjö logistik AB och syftar till att möjliggöra byggnation av kombiterminal samt omlokalisering av företag från CV-området och Holmens verksamhetsområde. Planområdet möjliggör omvandling till bostäder och kontor på tidigare verksamhetsområden.\n\nLogistikbranschen bedöms ha goda förutsättningar för expansion och nya etableringar med direktanslutning till järnväg. Detaljplanen medger järnvägsanknuten lager- och logistikverksamhet, kombiterminal, kontor och verksamheter kopplade till järnväg samt tekniska anläggningar.\n\nÄrendet återremitterades av Kommunfullmäktige den 18 april. Helena Ståhl (SD), Martha Wicklund (V), Karolina Wallström (L) och Markus Allard (ÖrP) yrkade på avslag. Martha Wicklund ville utöver avslag utreda möjligheten för godsterminal ur regionalt perspektiv. Kommunstyrelsen beslutade enligt Bygg- och miljönämndens förslag.\n\nFyra ledamöter reserverade sig mot beslutet.",
+      "headline": "Bedömning av kommunens hel- och delägda bolag 2022 godkänd",
+      "human_headline": "Kommunens bolag bedöms ha följt sina uppdrag under 2022",
+      "summary": "Kommunstyrelsen bedömer att verksamheterna under år 2022 för kommunens helägda och delägda aktiebolag har varit förenligt med det fastställda kommunala ändamålet och utförts inom ramen för de kommunala befogenheterna. Avslag görs på yrkanden om att inkludera näringslivets uppfattning och att starta utredning för att minska antalet bolag.",
+      "plain_language_summary": "Kommunen kontrollerar sina företag och fastslår att de gjort det de ska under 2022.",
+      "relevance": "Påverkar alla kommunala bolag och deras verksamhet.",
+      "detail": "Enligt kommunallagen ska kommunstyrelsen årligen pröva om verksamheten i kommunägda bolag varit förenlig med det fastställda kommunala ändamålet. Kommunstyrelseförvaltningen har granskat relevant dokumentation för respektive bolag och bedömer att bolagens verksamheter under år 2022 varit förenligt med det fastställda ändamålet och utförts inom ramen för de kommunala befogenheterna.\n\nSusanne Lindholm (KD) yrkar tillägg om att näringslivets uppfattning ska beaktas. Karolina Wallström (L) och Markus Allard (ÖrP) yrkar bifall till detta. Martha Wicklund (V) yrkar bifall till förslaget med tillägg om att starta utredning för att minska antalet bolag. John Johansson (S) yrkar avslag på båda tilläggsyrkandena.\n\nKommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag. Båda tilläggsyrkandena avslås. Susanne Lindholm (KD), Karolina Wallström (L), Markus Allard (ÖrP) och Martha Wicklund (V) reserverar sig.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": true,
+      "paragraph_ref": "§ 104",
+      "quote": "Verksamheterna under år 2022 för de aktiebolag som anges i förteckning daterad 2023-04-18 har varit förenligt med det fastställda kommunala ändamålet.",
+      "quote_page": "s. 9-10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "aktiebolag",
+        "bolagskontroll",
+        "kommunal verksamhet"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_104"
+    },
+    {
+      "headline": "Bokslut 2022 för donationsstiftelser godkänt och revisor utsedd",
+      "human_headline": "Kommunen godkänner årsräkningar för sina stiftelser",
+      "summary": "Kommunstyrelsen godkänner bokslut 2022 för donationsstiftelser förvaltade av kommunen. Årsredovisningar fastställs för 18 stiftelser. Öhrlings Pricewaterhouse Coopers AB utses till revisor för alla donationsstiftelser för år 2023.",
+      "plain_language_summary": "Kommunen godkänner räkenskaperna för de stiftelser den förvaltar och anställer en revisor.",
+      "relevance": "Påverkar förvaltningen av stiftelsernas medel för understöd, stipendier och samfondsverksamhet.",
+      "detail": "Kommunledningsförvaltningen redovisar årsredovisningar för år 2022 för stiftelser med donationsmedel som förvaltas av Örebro kommun där värdet av tillgångarna överstiger en och en halv miljon kronor. Dessa är enligt bokföringslagen skyldiga att upprätta årsredovisning med godkänd eller auktoriserad revisor. Kommunstyrelsen är styrelse för 18 stiftelser, inklusive J W Gyllanders understödsfond, Gottfrid Ericssons fond, John Sundbergs donation, C-A och G Carléns minnesfond och flera andra understöds- och stipendiefonder.",
+      "category": "formellt",
+      "decision_type": "budget",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "aldre",
+        "elever"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 105",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "stiftelser",
+        "donationer",
+        "bokslut",
+        "revision"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_105"
+    },
+    {
+      "headline": "Detaljplan för Törsjö logistikområde antas med järnvägsanknuten verksamhet",
+      "human_headline": "Kommunen tillåter logistikterminal och företagsetableringar vid järnvägen",
+      "summary": "Kommunstyrelsen antar detaljplan för fastigheten Törsjö 13:2 och tillhörande mark för järnvägsanknuten lager- och logistikverksamhet med kombiterminal. Planen möjliggör omlokalisering av företag från CV-området och Holmens verksamhetsområde till logistikområdet, vilket kan möjliggöra omvandling av befintliga områden till bostäder och kontor. Ärendet återremitterades av Kommunfullmäktige innan beslut fattades.",
+      "plain_language_summary": "Kommunen godkänner en byggplan som tillåter en godsterminal och lagerlokaler vid järnvägen för att attrahera logistikföretag.",
+      "relevance": "Påverkar framtida markanvändning, näringslivsutveckling och möjligheten att omvandla andra områden från industri till bostäder.",
+      "detail": "Planarbetet initierades 2016 av Törsjö logistik AB och utökades senare med mark från Törsjö Fastighetsutveckling AB. Syftet är att möjliggöra byggnation av kombiterminal och omlokalisering av företag från CV-området och Holmens verksamhetsområde. Detaljplanen medger järnvägsanknuten lager- och logistikverksamhet med kombiterminal, kontor och verksamheter kopplade till järnväg samt tekniska anläggningar. Logistikbranschen bedöms ha goda förutsättningar att attrahera fler företag till regionen.\n\nHelena Ståhl (SD) yrkar avslag. Martha Wicklund (V) yrkar avslag med tillägget att man ska utreda möjligheten att uppföra en godsterminal ur regionalt perspektiv. Karolina Wallström (L) och Markus Allard (ÖrP) yrkar avslag. John Johansson (S) yrkar avslag på Martha Wicklunds tilläggsyrkande.\n\nKommunstyrelsen beslutar att anta detaljplanen. Ärendet ska vidare till Kommunfullmäktige för slutgiltigt beslut. Helena Ståhl (SD), Bo Ammer (SD), Karolina Wallström (L), Martha Wicklund (V) och Markus Allard (ÖrP) reserverar sig.",
       "category": "bygg",
-      "contested": true,
-      "location": "Törsjö",
+      "decision_type": "detaljplan",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "foretagare",
+        "invanare"
+      ],
+      "geographic_scope": "specifik_fastighet",
+      "location_name": "Törsjö",
+      "controversial_level": "hog",
+      "has_vote": false,
+      "has_reservation": true,
       "paragraph_ref": "§ 106",
-      "quote": "Anta detaljplan för fastigheten Törsjö 13:2 m.fl.",
+      "quote": "Detaljplanen medger järnvägsanknuten lager- och logistikverksamhet med kombiterminal, kontor och verksamheter kopplade till järnväg.",
       "quote_page": "s. 13-14",
       "voting": {
         "for": [
           "S",
-          "M"
-        ],
-        "against": [],
-        "abstained": [
-          "C",
-          "L",
-          "SD",
-          "V"
-        ],
-        "result": "Bifall"
-      },
-      "tags": [
-        "Törsjö",
-        "detaljplan",
-        "logistik",
-        "järnväg",
-        "kombiterminal",
-        "miljö"
-      ],
-      "id": "2023-05-23_ko_106"
-    },
-    {
-      "headline": "Riktlinjer för exploatering antagna med omstridd zonprissättning",
-      "summary": "Kommunstyrelsen antog riktlinjer för exploatering med nya zonpriser för markanvisning. SD yrkade på takbelopp för tomträttshöjningar utan framgång.",
-      "detail": "Styrdokumentet \"Riktlinjer för exploatering inkluderat riktlinjer för markanvisning och riktlinjer för exploateringsavtal\" är en sammanfogning av tidigare styrdokument inom exploateringsverksamheten. Markplanerings- och exploateringsnämnden fick i uppdrag att besluta om förändringar av zonpriserna.\n\nDe uppdaterade zonpriserna gäller för försäljningar och nya markanvisningar från beslutet. För redan påbörjade markanvisningar gäller nuvarande prissättning med indexering för försäljningar där köpekontrakt tecknas före 31 december 2024.\n\nHelena Ståhl (SD) yrkade på tillägg om takbelopp för avgifter och höjningar av tomträttsavgäld för att ge större förutsägbarhet. Hon menade att husägare som inte äger sin tomt kan drabbas av kraftigt höjda boendekostnader. SD önskade också ökad användning av anbudsförfarande för att gynna näringslivet och öka konkurrensen. Markus Allard (ÖrP) bifoll yrkandet men Kommunstyrelsen avslogs det.",
-      "category": "regler",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 107",
-      "quote": "Riktlinjer för exploatering antas.",
-      "quote_page": "s. 15-17",
-      "voting": {
-        "for": [
-          "S",
           "M",
-          "C",
-          "L",
-          "KD",
           "MP"
         ],
         "against": [],
-        "abstained": [
-          "SD"
-        ],
+        "abstained": [],
         "result": "Bifall"
       },
       "tags": [
-        "exploatering",
-        "zonpriser",
-        "tomträtter",
-        "markanvisning",
-        "näringsliv"
+        "detaljplan",
+        "logistik",
+        "järnväg",
+        "Törsjö",
+        "kombiterminal"
       ],
-      "id": "2023-05-23_ko_107"
+      "confidence": "hog",
+      "id": "2023-05-23_ko_106"
     },
     {
-      "headline": "Motion om fyrverkeritillstånd avslogs, en tillgodosedd",
-      "summary": "Motion från SD om att alltid kräva fyrverkeritillstånd avslogs. Motionen från L om att begränsa skjuttider tillgodoseddes.",
-      "detail": "Helena Ståhl (SD) och Bo Ammer (SD) inlämnade motion om att ändra lokala allmänna ordningsföreskrifter för att alltid kräva tillstånd från Polismyndigheten för fyrverkerier. Kommunledningsförvaltningen bedömde att det enligt gällande lagstiftning och praxis inte är möjligt att begränsa användningen av pyrotekniska varor mer än redan gjorts i lokala ordningsföreskrifter. Motionen avslogs.\n\nKarolina Wallström (L) hade inlämnat en motion från 2017 om att begränsa fyrverkeritider och se över § 9 i ordningsföreskrifterna. Kommunledningsförvaltningen konstaterade att denna motion var tillgodosedd, då Tekniska förvaltningen redan genomfört en översyn. Kommunfullmäktige antog reviderade allmänna lokala ordningsföreskrifter 12 december 2022 där skjuttiden begränsades och § 9 sågs över.",
-      "category": "trygghet",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 118-119",
-      "quote": "Motionen avslås. / Motionen är tillgodosedd.",
-      "quote_page": "s. 22-24",
+      "headline": "Riktlinjer för exploatering antas med zonpriser och markanvisningsregler",
+      "human_headline": "Kommunen fastställer regler för markpriser och markförsäljning",
+      "summary": "Kommunstyrelsen antar riktlinjer för exploatering inklusive markanvisning och exploateringsavtal. Markplanerings- och exploateringsnämnden får i uppdrag att besluta om zonpriser. De uppdaterade zonpriserna och zonindelningen gäller från beslutsdatum för nya markanvisningar, medan befintliga avtal följer gamla priser fram till definierade slutdatum. För tomträtter gäller ny zonindelning från 2024-01-01. Avslag görs på yrkande om takbelopp för tomträttsavgäld.",
+      "plain_language_summary": "Kommunen fastställer nya regler för hur mycket markmark ska kosta och hur tomträtter ska prissättas.",
+      "relevance": "Påverkar fastighetsägare och företags kostnader för markinköp och tomträtter.",
+      "detail": "En revision av exploateringsverksamheten ledde till förslag att ta fram ett övergripande styrdokument. Efter politisk avstämning fastställdes detta. Dokumentet sammanfogar tidigare styrdokument och nya avsnitt. Det inkluderar zonpriskartan och medfinansieringsersättningskarta.\n\nHelena Ståhl (SD) yrkar på tillägg om takbelopp på avgiften och höjningar för tomträttsavgäld för större förutsägbarhet. Hon framför att husägare som nyttjar tomten men inte äger den kan drabbas av kraftigt höjda boendekostnader. Hon yrkar även på ökat anbudsförfarande för att gynna näringslivet inom Örebromodellen. Markus Allard (ÖrP) yrkar bifall till Helena Ståhls yrkande. John Johansson (S) yrkar avslag.\n\nKommunstyrelsen beslutar enligt Markplanerings- och exploateringsnämndens förslag. Tilläggsyrkandet avslås. Ärendet ska vidare till Kommunfullmäktige. Helena Ståhl (SD), Bo Ammer (SD) och Markus Allard (ÖrP) reserverar sig.",
+      "category": "infrastruktur",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "fastighetsagare",
+        "foretagare",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": false,
+      "has_reservation": true,
+      "paragraph_ref": "§ 107",
+      "quote": "De uppdaterade zonpriserna samt zonindelningen gäller för försäljningar och nya markanvisningar som påbörjas efter beslut.",
+      "quote_page": "s. 15-16",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
+          "L",
           "KD",
           "V",
           "MP"
         ],
-        "against": [
-          "SD"
-        ],
+        "against": [],
         "abstained": [],
-        "result": "Avslag och Tillgodosedd"
+        "result": "Bifall"
       },
       "tags": [
-        "fyrverkerier",
-        "ordningsföreskrifter",
-        "trygghet",
-        "motion"
+        "exploatering",
+        "markanvisning",
+        "zonpriser",
+        "riktlinjer"
       ],
-      "id": "2023-05-23_ko_118-119"
+      "confidence": "hog",
+      "id": "2023-05-23_ko_107"
     },
     {
-      "headline": "Ej verkställda sociala beslut rapporteras, ingen åtgärdsplan antagen",
-      "summary": "Rapport över ej verkställda SoL- och LSS-beslut för Q4 2022 godkändes. Martha Wicklund (V) ville åtgärdsprogram men röstades ned.",
-      "detail": "Socialnämnden rapporterade 11 ej verkställda beslut, varav 9 var fortsatt ej verkställda efter tre månader. Funktionsstödsnämnden rapporterade 200 beslut varav 143 var ej verkställda efter tre månader. Vård- och omsorgsnämnden rapporterade 49 beslut varav 5 var ej verkställda efter tre månader.\n\nMartha Wicklund (V) yrkade på att Kommunledningsförvaltningen skulle få uppdrag att ta fram förslag på hur gynnande beslut kan verkställas inom rimlig tid. Markus Allard (ÖrP) bifoll yrkandet men John Johansson (S) yrkade avslag. Kommunstyrelsen avslogs tilläggsyrkandet.\n\nRapporterna lades till handlingarna enligt förslaget.",
-      "category": "budget",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 117",
-      "quote": "Vid kvartalets slut var 143 beslut fortsatt ej verkställda inom tre månader.",
-      "quote_page": "s. 20-21",
+      "headline": "Effektbedömning BRT läggs till handlingarna",
+      "human_headline": "Kommun presenterar resultat av BRT-satsningen",
+      "summary": "Kommunstyrelsen tar emot informationsärende om effekter och nyttor av BRT (Bussnära Reconnaissancetrafik eller liknande snabbbussprogram). Informationen läggs till handlingarna.",
+      "plain_language_summary": "Kommunen presenterar rapportering om hur väl BRT-projektet fungerat.",
+      "relevance": null,
+      "detail": "Informationsärende om effekter och nyttor av BRT. Markplanerings- och exploateringsnämnden presenterar effektbedömning.",
+      "category": "infrastruktur",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "bilister",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 108",
+      "quote": null,
+      "quote_page": null,
       "voting": {
         "for": [
           "S",
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
         ],
         "against": [],
-        "abstained": [
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "BRT",
+        "trafikeffekter",
+        "rapport"
+      ],
+      "confidence": "lag",
+      "id": "2023-05-23_ko_108"
+    },
+    {
+      "headline": "Årlig uppföljning av arbetsmiljöarbete 2022 läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar om arbetsmiljöproblem: hög frånvaro och arbetsbelastning",
+      "summary": "Kommunstyrelsen godkänner årlig uppföljning av det systematiska arbetsmiljöarbetet 2022. Rapporten identifierar gemensamma arbetsmiljöutmaningar: lokaler, hög frånvaro, hög arbetsbelastning, pandemieffekter, chefers förutsättningar, förändringsarbete och brist på skyddsombud. Kommunen behöver fortsätta arbeta med resursplanering för hållbar bemanning, chefers arbetsbelastning och rekrytering av skyddsombud. Avslag görs på yrkande om återkoppling senast november.",
+      "plain_language_summary": "Kommunen rapporterar om arbetsmiljöproblem på sina arbetsplatser och planerar att arbeta vidare med att förbättra situationen.",
+      "relevance": "Påverkar alla kommunanställda och deras arbetsmiljö.",
+      "detail": "Resultatet av den årliga uppföljningen av det systematiska arbetsmiljöarbetet för 2022 visar arbetsmiljöutmaningar gemensamma för flera nämnder: lokaler, hög frånvaro, hög arbetsbelastning, pandemieffekter, chefers förutsättningar, förändringsarbete och brist på skyddsombud. Utifrån resultatet behöver kommunen fortsätta jobba med resursplanering för hållbar bemanningssituation, chefers arbetsbelastning och förutsättningar, rekrytering av fler skyddsombud och stärkande av chefernas riskbedömning.\n\nSusanne Lindholm (KD) yrkar att få lämna ett särskilt yttrande om att sjukfrånvaron måste minska och att chefs- och ledarskapet behöver kraftfull förstärkning. Martha Wicklund (V) yrkar bifall med tillägget att Kommunstyrelsen får återkoppling på arbetet senast på sammanträdet i november. John Johansson (S) yrkar avslag på Martha Wicklunds tilläggsyrkande.\n\nKommunstyrelsen beslutar enligt Personalutskottets förslag. Tilläggsyrkandet avslås. Susanne Lindholm (KD) får lämna särskilt yttrande. Martha Wicklund (V) reserverar sig.",
+      "category": "omsorg",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": true,
+      "paragraph_ref": "§ 109",
+      "quote": "Arbetsmiljöutmaningar som är gemensamt för flera nämnder är lokaler, hög frånvaro, hög arbetsbelastning, pandemin, chefers förutsättningar, förändringsarbete och brist på skyddsombud.",
+      "quote_page": "s. 17-18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
           "SD",
-          "V"
+          "OerP",
+          "MP"
         ],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "arbetsmiljö",
+        "frånvaro",
+        "sjukskrivning",
+        "personalvård"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_109"
+    },
+    {
+      "headline": "Revidering av nämndreglemente utgår från dagordningen",
+      "human_headline": "Ärendet om nämndreglemente tas inte upp denna gång",
+      "summary": "Ärendet utgår från dagordningen.",
+      "plain_language_summary": "Ärendet tas bort från dagordningen och behandlas inte.",
+      "relevance": null,
+      "detail": "Ärendet utgår från dagordningen.",
+      "category": "formellt",
+      "decision_type": "ovrigt",
+      "outcome": "bordlagd",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": null,
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 114",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "nämndreglemente"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_114"
+    },
+    {
+      "headline": "Nils Gunnarsson (SD) utsedd till revisorsersättare i Stiftelsen Nora Järnvägsmuseum",
+      "human_headline": "Kommunen väljer ny revisorsersättare för järnvägsmuseum-stiftelsen",
+      "summary": "Kommunstyrelsen utser Nils Gunnarsson (SD) till revisorsersättare i Stiftelsen Nora Järnvägsmuseum enligt förslag från Stadsrevisionen.",
+      "plain_language_summary": "En ny revisorsersättare utses för en stiftelse som sköter ett järnvägsmuseum.",
+      "relevance": null,
+      "detail": "Stadsrevisionen föreslår att utse Nils Gunnarsson (SD) till revisorsersättare i Stiftelsen Nora Järnvägsmuseum.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": null,
+      "location_name": "Nora",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 115",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
         "result": "Bifall"
       },
       "tags": [
-        "socialt stöd",
-        "LSS",
-        "Sol",
-        "beslutverkställande"
+        "personval",
+        "revisor",
+        "järnvägsmuseum"
       ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_115"
+    },
+    {
+      "headline": "Kommunstyrelsen tar över ägarskap för styrdokument från Programnämnd Social välfärd",
+      "human_headline": "Kommunstyrelsen övertar två styrdokument från den gamla nämnden",
+      "summary": "Kommunstyrelsen tar över ägarskapet för Riktlinje för avtals- och verksamhetsuppföljning (Sov 215/2020) från den tidigare Programnämnden Social välfärd. Detta är nödvändigt efter organisationsförändring då Programnämndens ansvarsområde fördelats på Funktionsstödsnämnden, Vård- och omsorgsnämnden och Socialnämnden.",
+      "plain_language_summary": "Efter en omorganisation tar Kommunstyrelsen över ett dokument som tidigare hörde till en nämnd som upphört.",
+      "relevance": null,
+      "detail": "I varje styrdokument i kommunen ska det anges vilken politisk styrelse eller nämnd, och vilken förvaltning, som ansvarar för dokumentet. Sedan den nya nämndorganisationen trädde i kraft den 12 januari 2023 finns styrdokument som \"ägs\" av nämnder som upphört. Programnämnd Social välfärds ansvarsområde fördelats på Funktionsstödsnämnden, Vård- och omsorgsnämnden och Socialnämnden. Respektive nämnd behöver överta ägandeskapet för styrdokument som beslutats av programnämnden. Styrdokument vars innehål reglerar eller påverkar flera nämnders ansvarsområden beslutas av Kommunstyrelsen.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 116",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "styrdokument",
+        "nämnder",
+        "organisationsförändring"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_116"
+    },
+    {
+      "headline": "Rapportering av ej verkställda SoL och LSS-beslut Q4 2022 läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar om beslut som inte kunnat genomföras",
+      "summary": "Kommunstyrelsen godkänner statistikrapporter från tre nämnder om ej verkställda beslut enligt SoL och LSS för fjärde kvartalet 2022. Socialnämnden hade 11 rapporterade beslut med 9 fortsatt ej verkställda. Funktionsstödsnämnden hade 200 rapporterade beslut med 143 fortsatt ej verkställda. Vård- och omsorgsnämnden hade 49 rapporterade beslut med 5 fortsatt ej verkställda. Avslag görs på yrkande om uppdrag till Kommunledningsförvaltningen att ta fram förslag på genomförande inom rimlig tid.",
+      "plain_language_summary": "Kommunen rapporterar att många beslut om stöd och omsorg ännu inte har genomförts på grund av resursbrister.",
+      "relevance": "Påverkar personer som beviljats omsorgsstöd enligt socialtjänstlagen och lagen om stöd och service till personer med funktionsnedsättning.",
+      "detail": "Socialnämnden, Funktionsstödsnämnden och Vård- och omsorgsnämnden ska lämna in statistikrapport till Kommunfullmäktige över ej verkställda beslut varje kvartal. Syftet är att kommunen ska ha kännedom om dessa ärenden och kunna planera resurser för att verkställa insatser inom skälig tid.\n\nFör Q4 2022 minskade Socialnämndens totala antal rapporterade beslut till 11, med 9 fortsatt ej verkställda inom tre månader. Funktionsstödsnämndens antal ökade till 200 med 143 fortsatt ej verkställda. Vård- och omsorgsnämnden minskade till 49 med 5 fortsatt ej verkställda.\n\nMartha Wicklund (V) yrkar bifall med tillägget att Kommunledningsförvaltningen får i uppdrag att ta fram förslag på hur man ska kunna verkställa gynnande beslut inom rimlig tid. Markus Allard (ÖrP) yrkar bifall till Martha Wicklunds yrkande. John Johansson (S) yrkar avslag på tillägget.\n\nKommunstyrelsen beslutar enligt förslaget. Tilläggsyrkandet avslås. Martha Wicklund (V) och Markus Allard (ÖrP) reserverar sig. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "omsorg",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "aldre",
+        "elever"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": true,
+      "paragraph_ref": "§ 117",
+      "quote": "Funktionsstödsnämndens totala antal rapporterade beslut ökade till 200 stycken. Vid kvartalets slut var 143 beslut fortsatt ej verkställda inom tre månader.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "SoL",
+        "LSS",
+        "verkställning",
+        "omsorg"
+      ],
+      "confidence": "hog",
       "id": "2023-05-23_ko_117"
+    },
+    {
+      "headline": "Motion om fyrverkeri-tillstånd från Helena Ståhl (SD) avslås",
+      "human_headline": "Kommun säger nej till skärpade regler för fyrverkerier",
+      "summary": "Kommunstyrelsen avslår motion från Helena Ståhl och Bo Ammer (SD) om att alltid kräva tillstånd från Polismyndigheten för användning av fyrverkerier. Bedömningen är att det enligt gällande lagstiftning och praxis inte är möjligt att begränsa användningen av pyrotekniska varor mer än vad som redan är gjort i de lokala allmänna ordningsföreskrifterna för Örebro kommun.",
+      "plain_language_summary": "Kommunen vill inte skärpa reglerna för fyrverkerier då det lagstiftning hindrar det.",
+      "relevance": "Påverkar möjligheten att använda fyrverkerier utan tillstånd under vissa tider.",
+      "detail": "Helena Ståhl och Bo Ammer (SD) föreslår att de lokala allmänna ordningsföreskrifterna ändras så att det alltid krävs tillstånd från Polismyndigheten för användning av fyrverkerier. Kommunledningsförvaltningen bedömer att motionen bör avslås då det enligt gällande lagstiftning och praxis inte är möjligt att begränsa användningen av pyrotekniska varor mer än vad som redan är gjort i ordningsföreskrifterna. Helena Ståhl (SD) yrkar bifall till motionen. Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag. Helena Ståhl (SD) och Bo Ammer (SD) reserverar sig. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "regler",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": true,
+      "paragraph_ref": "§ 118",
+      "quote": "Motionen innehåller ett förslag om att de lokala allmänna ordningsföreskrifterna ska ändras så att det alltid krävs tillstånd från Polismyndigheten för användning av fyrverkerier.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Avslagen"
+      },
+      "tags": [
+        "fyrverkerier",
+        "ordningsföreskrifter",
+        "tillstånd"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_118"
+    },
+    {
+      "headline": "Motion från Karolina Wallström (L) om fyrverkeribegränsning bedömd som tillgodosedd",
+      "human_headline": "Kommunen säger att fyrverkeriförslaget redan är genomfört",
+      "summary": "Kommunstyrelsen bedömer att motion från Karolina Wallström (L) från 2017 om att begränsa fyrverkeritillstånd är tillgodosedd. Då Kommunfullmäktige antog reviderade allmänna lokala ordningsföreskrifter i december 2022 där tiden för fyrverkerier utan tillstånd begränsades och § 9 reviderades, bedöms motionen redan vara genomförd.",
+      "plain_language_summary": "Kommunen anser att det förslag som motionären ville ha redan genomfördes 2022.",
+      "relevance": "Påverkar möjligheten att använda fyrverkerier utan tillstånd.",
+      "detail": "Karolina Wallström (L) inkom med motion anmäld i Kommunfullmäktige den 25 januari 2017. Motionen innehåller förslag om att förändra de allmänna lokala ordningsföreskrifterna angående fyrverkerier och andra pyrotekniska varor i § 9, med förslag om att skjuttiden begränsas och § 9 ses över i sin helhet. Kommunledningsförvaltningen konstaterar att Tekniska förvaltningen gjorde en översyn av ordningsföreskrifterna och tog fram förslag. I förslaget begränsades tiden då fyrverkerier utan tillstånd är tillåtet och § 9 reviderades. Förslaget antogs av Kommunfullmäktige den 12 december 2022 § 257. Bedömningen är därför att motionen är tillgodosedd. Karolina Wallström (L) yrkar bifall till motionen. Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag. Karolina Wallström (L) reserverar sig. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "regler",
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": true,
+      "paragraph_ref": "§ 119",
+      "quote": "Motionen innehåller förslag till förändring av de allmänna lokala ordningsföreskrifterna angående fyrverkerier och andra pyrotekniska varor.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Tillgodosedd"
+      },
+      "tags": [
+        "fyrverkerier",
+        "ordningsföreskrifter",
+        "motion"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_119"
+    },
+    {
+      "headline": "Två motioner remitteras till Kommunstyrelsen för beredning",
+      "human_headline": "Två nya motioner ska beredas av Kommunstyrelsen",
+      "summary": "Kommunfullmäktige remitterar två motioner till Kommunstyrelsen för beredning: Motion från Carola Sunesson (SD) om att förbättra upphandlingen och motion från Daniel Spiik (SD) m.fl. om att utreda framtida kommundelning.",
+      "plain_language_summary": "Två nya förslag från politiker ska nu behandlas av Kommunstyrelsen.",
+      "relevance": null,
+      "detail": "Kommunfullmäktige den 18 april remitterar två motioner till Kommunstyrelsen för beredning. Motion från Carola Sunesson (SD) om att förbättra upphandlingen (819/2023) och motion från Daniel Spiik (SD) m.fl. om att utreda framtida kommundelning (820/2023). Kommunledningsförvaltningen föreslår att båda motionerna bereds av Kommunstyrelsen.",
+      "category": "formellt",
+      "decision_type": "ovrigt",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 2,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 120",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "motioner",
+        "upphandling",
+        "kommundelning"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_120"
+    },
+    {
+      "headline": "Rapport över finansverksamheter april 2023 läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar finansverksamheter från april",
+      "summary": "Kommunstyrelsen godkänner och lägger till handlingarna finansrapport för april 2023.",
+      "plain_language_summary": "En månadlig finansrapport presenteras och noteras.",
+      "relevance": null,
+      "detail": "Kommunledningsförvaltningen anmäler rapport över finansverksamheter för april 2023.",
+      "category": "budget",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 121",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "finansrapport",
+        "ekonomi"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_121"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut från april 2023 läggs till handlingarna",
+      "human_headline": "Alla delegationsbeslut från april registreras",
+      "summary": "Kommunstyrelsen noterar delegationsbeslut fattade under april 2023 enligt delegationsförteckningen antagen 27 mars 2003 och reviderad 17 januari 2023. Rapporter över delegationsbeslut inom övrig verksamhet och finansverksamhet läggs till handlingarna.",
+      "plain_language_summary": "En lista på alla beslut som fattats på delegering från Kommunstyrelsen presenteras och registreras.",
+      "relevance": null,
+      "detail": "Alla beslut fattade med stöd av delegation av tjänsteperson, ordförande, presidium eller utskott ska anmälas till Kommunstyrelsen på närmast följande sammanträde enligt 6 kap. 40 § KL. Det är först efter återrapporteringen som delegationsbesluten kan vinna laga kraft och är ett sätt att hålla ledamöter och ersättare informerade.",
+      "category": "formellt",
+      "decision_type": "ovrigt",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 122",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "delegationsbeslut",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_122"
+    },
+    {
+      "headline": "Anmälan av handlingar läggs till handlingarna",
+      "human_headline": "Handlingar från ideburna välfärdsföretag anmäls",
+      "summary": "Kommunstyrelsen läggs till handlingarna för information anmäld från Fremia och Famna om nya möjligheter till idéburen välfärd.",
+      "plain_language_summary": "Två organisationer presenterar möjligheter inom idéburen välfärd.",
+      "relevance": null,
+      "detail": "Varje månad anmäler Kommunledningsförvaltningen handlingar som inkommit och bedöms relevanta för Kommunstyrelsen att få kännedom om. Denna månad anmäls skrivelse från Fremia och Famna om nya möjligheter till idéburen välfärd.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "foreningar"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 123",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "idéburen välfärd",
+        "Fremia",
+        "Famna"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_123"
+    },
+    {
+      "headline": "Kommundirektörens rapport läggs till handlingarna",
+      "human_headline": "Kommundirektören rapporterar om nyheter i förvaltningen",
+      "summary": "Kommunstyrelsen noterar och lägger till handlingarna kommundirektörens rapport från mars-maj 2023 innehållande nyheter inom förvaltningen.",
+      "plain_language_summary": "Kommundirektören presenterar en uppdatering om vad som händer inom kommunens förvaltning.",
+      "relevance": null,
+      "detail": "Kommundirektören redogör i en rapport för nyheter inom förvaltningen.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 124",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "OerP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "kommundirektör",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2023-05-23_ko_124"
     }
   ],
   "motions_of_interest": [
     {
-      "title": "Motion från Carola Sunesson (SD) om att förbättra upphandlingen",
+      "title": "Alltid kräva tillstånd för fyrverkerier",
       "party": "SD",
-      "status": "Remitterad för beredning"
+      "status": "avslagen"
     },
     {
-      "title": "Motion från Daniel Spiik (SD) m.fl. om att utreda framtida kommundelning",
+      "title": "Begränsa fyrverkeritillstånd i Örebro kommun",
+      "party": "L",
+      "status": "tillgodosedd"
+    },
+    {
+      "title": "Förbättra upphandlingen",
       "party": "SD",
-      "status": "Remitterad för beredning"
+      "status": "under_beredning"
+    },
+    {
+      "title": "Utreda framtida kommundelning",
+      "party": "SD",
+      "status": "under_beredning"
     }
   ],
-  "skipped_items_count": 12,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2023-05-23",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 7
+  "decisions_count": 21
 }
