@@ -1,57 +1,41 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2025-05-13",
-  "summary_headline": "Näringslivsdirektör tillsatt, pensionsregler ändras, omstridda motioner avslagna",
+  "summary_headline": "Ny näringslivsdirektör tillsatt. Flera motioner avslagna.",
   "decisions": [
     {
-      "headline": "Pia Norstedt tillsätts som näringslivsdirektör",
-      "summary": "Pia Norstedt tillsätts som ny näringslivsdirektör för Örebro kommun från och med 1 september 2025. Markus Allard (ÖrP) reserverade sig mot beslutet.",
-      "detail": "Nuvarande näringslivsdirektör går i pension efter drygt sju år i tjänsten. En rekryteringsprocess leddes av kommundirektören med deltagande från kommunstyrelsens presidium och fackliga representanter. Processen resulterade i förslaget om Pia Norstedt som ny chef för näringslivssektorn.\n\nMarkus Allard från Örebro Piratpartiet yrkade avslag på ärendet, men blev omröstad. Han reserverade sig mot beslutet.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": null,
+      "headline": "Pia Norstedt tillsätts som näringslivsdirektör från 1 september 2025",
+      "human_headline": "Kommunen anställer ny näringslivsdirektör",
+      "summary": "Pia Norstedt tillsätts som näringslivsdirektör för Örebro kommun från och med 1 september 2025 efter att nuvarande direktör går i pension.",
+      "plain_language_summary": "Kommunen har rekryterat en ny person som ska leda näringslivsarbetet i Örebro från hösten.",
+      "relevance": "Påverkar näringslivsutveckling och kommunens arbete med företagsstöd.",
+      "detail": "Nuvarande näringslivsdirektör ska gå i pension efter drygt sju år i Örebro kommun. En rekryteringsprocess leddes av kommundirektören med deltagande av presidium och fackliga representanter. Genomförd process resulterade i förslaget att tillsätta Pia Norstedt. Markus Allard (ÖrP) yrkade avslag men förslaget bifölls. Markus Allard reserverade sig mot beslutet.",
+      "category": "naringsliv",
+      "decision_type": "personval",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 100",
       "quote": "Pia Norstedt tillsätts som näringslivsdirektör för Örebro kommun från och med den 1 september 2025.",
       "quote_page": "s. 3",
       "voting": {
         "for": [
           "S",
-          "M",
           "L",
-          "C",
+          "M",
           "KD",
           "V",
           "MP"
-        ],
-        "against": [],
-        "abstained": [],
-        "result": "Bifall"
-      },
-      "tags": [
-        "näringsliv",
-        "tillsättning",
-        "ledning"
-      ],
-      "id": "2025-05-13_ko_100"
-    },
-    {
-      "headline": "Nya regler för omställningsstöd och pension förtroendevalda",
-      "summary": "Kommunstyrelsen antar nya bestämmelser OPF-KR 25 för omställningsstöd och pension till förtroendevalda, som ersätter tidigare regler.",
-      "detail": "Sveriges Kommuner och Regioners styrelse antog reviderade bestämmelser om omställningsstöd och pension (OPF-KR 25) i oktober 2024. Dessa gäller förtroendevalda som omfattades av tidigare regelverk eller tillträdde vid valet 2018 eller senare.\n\nSD:s Helena Ståhl yrkade på återremiss med motiveringen att reglerna inte tar hänsyn till varför förtroendevalda lämnar uppdraget, exempelvis på grund av kriminalitet. Hon ville att ärendet skulle bereds vidare. Ordförande John Johansson (S) avvisade återremiss och föreslög att ärendet avgjordes omedelbar.\n\nMarkus Allard (ÖrP) yrkade avslag. Beslutet fattades enligt förvaltningens förslag med reservationer från SD och ÖrP.",
-      "category": "regler",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 104",
-      "quote": "Anta OPF-KR 25 som ersätter OPF-KL 18.",
-      "quote_page": "s. 6",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "L",
-          "C",
-          "KD",
-          "V"
         ],
         "against": [],
         "abstained": [
@@ -61,119 +45,291 @@
         "result": "Bifall"
       },
       "tags": [
-        "pensioner",
-        "förtroendevalda",
-        "regler"
+        "näringslivsdirektör",
+        "personval",
+        "rekrytering"
       ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_100"
+    },
+    {
+      "headline": "Årsredovisning 2024 för Nerikes Brandkår godkänd",
+      "human_headline": "Brandkårens redovisning för 2024 godkänd",
+      "summary": "Årsredovisningen för Nerikes Brandkår år 2024 läggs med godkännande till handlingarna. Förbundsdirektionen beviljas ansvarsfrihet för verksamheten.",
+      "plain_language_summary": "Brandkårens räkenskaper för förra året godkändes av kommunen.",
+      "relevance": null,
+      "detail": "Nerikes Brandkår är ett kommunalförbund för räddningstjänsten för nio kommuner inklusive Örebro. Verksamheten redovisade ett underskott på -4,5 milj kr (-4,7 milj kr). Balanskravsresultatet var -5,9 milj kr (-5,7 milj kr). Ärendet ska vidare till kommunfullmäktige för beslut.",
+      "category": "rapport",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 101",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "brandkår",
+        "räddningstjänst",
+        "årsredovisning"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_101"
+    },
+    {
+      "headline": "Bokslut och årsredovisningar för donationsstiftelser 2024 godkänd",
+      "human_headline": "Kommunens stiftelsers räkenskaper godkänd",
+      "summary": "Bokslut 2024 för stiftelser med donationsmedel godkänns. Årsredovisningar fastställs och påtecknas. Cedera Sverige AB utses som revisor för 2025 med Andreas Claesson som huvudansvarig.",
+      "plain_language_summary": "Kommunen godkände räkenskaperna för alla donationsstiftelser som den förvaltar.",
+      "relevance": null,
+      "detail": "Kommunledningsförvaltningen har sammanställt bokslut för 2024 för stiftelser med donationsmedel som förvaltas av Örebro kommun. Stiftelsernas årsredovisningar upprättades enligt årsredovisningslagen och bokföringsnämndens BFNAR 2012:1. Redovisningsprinciperna är oförändrade från föregående år. Sexton stiftelser listas varav flera innehar större kapital. Bokslut godkänns, årsredovisningar fastställs, och revisor utses för 2025.",
+      "category": "budget",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 102",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "donationsstiftelser",
+        "bokslut",
+        "revisor"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_102"
+    },
+    {
+      "headline": "Antar OPF-KR 25 och reviderade tillämpningsanvisningar för pension",
+      "human_headline": "Ny pensionsreglering för förtroendevalda antagen",
+      "summary": "Kommunstyrelsen antar OPF-KR 25 som ersätter OPF-KL 18 och reviderade tillämpningsanvisningar för omställningsstöd och pension till förtroendevalda. Tidigare tillämpningsanvisningar från 2018 upphör att gälla.",
+      "plain_language_summary": "Kommunen antar nya regler för pension och försörjning till kommunalpolitiker.",
+      "relevance": "Påverkar förtroendevalda politiker och deras pensionsförsäkring.",
+      "detail": "Sveriges Kommuner och Regioners styrelse antog förslag till reviderade bestämmelser OPF-KR 25 den 18 oktober 2024. Dessa ersätter tidigare OPF-KL 18 och gäller förtroendevalda som tidigare omfattats av OPF-KL14/KL18 eller tillträdde vid valet 2018. För att äga giltighet krävs lokalt antagande. Helena Ståhl (SD) yrkade på återremiss med argument om att reglerna inte tar hänsyn till varför förtroendevald lämnat sitt uppdrag (t.ex. kriminalitet). Detta avslogs. Markus Allard (ÖrP) yrkade avslag men beslutet fattades enligt kommunledningsförvaltningens förslag. Helena Ståhl och David Larsson (SD) samt Markus Allard reserverade sig.",
+      "category": "politik",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 104",
+      "quote": "OPF-KR 25 är utformat för tillämpning hos respektive kommun och /region. För att äga giltighet krävs ett lokalt antagande av bestämmelserna.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "L",
+          "M",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "pension",
+        "förtroendevalda",
+        "OPF-KR 25"
+      ],
+      "confidence": "hog",
       "id": "2025-05-13_ko_104"
     },
     {
       "headline": "Reviderad riktlinje för pension antagen",
-      "summary": "Kommunstyrelsen antar reviderad riktlinje för pension som ersätter tidigare riktlinjer från 2021 och 2007.",
-      "detail": "De tidigare riktlinjerna för pension från 2021 och 2007 upphävs och ersätts med en samlad reviderad riktlinje daterad 2024-12-05. Riktlinjen innehåller bestämmelser om pensionsförstärkning vid förtida uttag, särskild avtalspension, löneväxling och utökad pensionslösning.\n\nPersonalutskottet behandlade ärendet den 6 februari 2025 och rekommenderade antagandet. Beslutet fattades enhälligt utan motsättningar.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
+      "human_headline": "Nya pensionsregler för kommunanställda antagna",
+      "summary": "Kommunstyrelsen antar reviderad riktlinje för pension som ersätter tidigare riktlinjer från 2021 och 2007. Riktlinjen behandlar pensionsförstärkning, avtalspension, löneväxling och utökad pensionslösning.",
+      "plain_language_summary": "Kommunen uppdaterade sina regler för hur anställda sparar till pension.",
+      "relevance": "Påverkar kommunanställdas pensionsförmåner.",
+      "detail": "Riktlinje för pension innehåller bestämmelser om pensionsförstärkning vid förtida uttag, särskild avtalspension, löneväxling och utökad pensionslösning. Riktlinjen gäller tills vidare men uppdateras vid behov samt efter vart fjärde år. Kommunstyrelsens personalutskott behandlade ärendet den 6 februari 2025. Två tidigare riktlinjer avslutas och ersätts av denna reviderade version.",
+      "category": "omsorg",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 105",
-      "quote": "Anta reviderad riktlinje för pension, 2024-12-05",
-      "quote_page": "s. 7",
+      "quote": null,
+      "quote_page": null,
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifall"
       },
       "tags": [
         "pension",
         "riktlinjer",
-        "personal"
+        "personalfrågor"
       ],
+      "confidence": "hog",
       "id": "2025-05-13_ko_105"
     },
     {
-      "headline": "Arbetsmiljörapporten antagen, återkoppling avslaget",
-      "summary": "Årlig uppföljning av arbetsmiljöarbetet för 2024 läggs till handlingarna. Vänsterpartiet yrkade på återkoppling i slutet av året, vilket avslogs.",
-      "detail": "Rapporten visar att arbetsmiljöarbetet utvecklas framåt men kvarstår allvarliga brister. Gemensamma utmaningar för flera nämnder är hög personalomsättning, säkerhet och trygghet, samt digital arbetsmiljö. Kommunen måste prioritera sjukfrånvaron, stärka det organisatoriska och sociala arbetsmiljöarbetet, och arbeta systematiskt med hot och våldssituationer.\n\nMartha Wicklund (V) yrkade bifall till beslutet samt att kommunstyrelsen skulle få återkoppling på arbetet att åtgärda bristerna vid slutet av året. Markus Allard (ÖrP) stödde detta. John Johansson (S) yrkade avslag på återkopplingskravet och avslogs i omröstningen.\n\nWicklund och Allard reserverade sig mot beslutet.",
+      "headline": "Årlig uppföljning av systematiskt arbetsmiljöarbete 2024 antagen",
+      "human_headline": "Kommunen ska öka fokus på arbetsmiljö och sjukfrånvaro",
+      "summary": "Årlig uppföljning av det systematiska arbetsmiljöarbetet läggs till handlingarna. Kommundirektören ges i uppdrag att arbeta med prioriterade områden som bemanningsfrågor, säkerhet, digital arbetsmiljö och sjukfrånvaro.",
+      "plain_language_summary": "Kommunens årliga arbetsmiljööversyn visar att personalomsättningen och sjukfrånvaron är för hög, och kommunen måste förbättra situationen.",
+      "relevance": "Påverkar alla kommunanställda och arbetsmiljön på arbetsplatserna.",
+      "detail": "Resultatet visar att arbetsmiljöarbetet utvecklas men kvarstår brister och utmaningar. Flera nämnder har bemanningsfrågor, säkerhet- och trygghetsbrister, och digital arbetsmiljöutmaningar. Kommunen måste prioritera sänkning av sjukfrånvaron, stärka arbetet med organisatorisk och social arbetsmiljö (OSA), fokusera på friskfaktorer, och arbeta systematiskt med hot och våldssituationer. Martha Wicklund (V) yrkade på att få återkoppling i slutet av året om arbetet att åtgärda bristerna. Markus Allard (ÖrP) stödde detta. Ordföranden (S) avslogs tilläggsyrkandet. Martha Wicklund och Markus Allard reserverade sig.",
       "category": "trygghet",
-      "contested": true,
-      "location": null,
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 106",
-      "quote": "Kommundirektören ges i uppdrag att arbeta med de prioriterade områdena som identifierats på kommunövergripande nivå.",
-      "quote_page": "s. 9",
+      "quote": "Resultatet av den årliga uppföljningen av det systematiska arbetsmiljöarbetet för 2024 visar att även om arbetsmiljöarbetet utvecklas framåt kvarstår en del brister och det finns arbetsmiljöutmaningar.",
+      "quote_page": "s. 8",
       "voting": {
         "for": [
           "S",
-          "M",
-          "C",
           "L",
-          "KD"
+          "M",
+          "KD",
+          "V",
+          "MP"
         ],
         "against": [],
         "abstained": [
-          "V",
+          "SD",
           "ÖrP"
         ],
         "result": "Bifall"
       },
       "tags": [
         "arbetsmiljö",
-        "personalbrister",
-        "sjukfrånvaro"
+        "sjukfrånvaro",
+        "personalomsättning"
       ],
+      "confidence": "hog",
       "id": "2025-05-13_ko_106"
     },
     {
-      "headline": "Informationssäkerhetspolicy upphävd",
-      "summary": "Den tidigare Informationssäkerhetspolicyn från 2016 upphävs och ersätts av Informationshanteringspolicyn från 2023.",
-      "detail": "Den tidigare Informationssäkerhetspolicyn (Ks 412/2016) upphävs då en samlad policy för informationshantering, Informationshanteringspolicyn (beslutad november 2024), förväntas förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering. Den nya policyn skapar förutsättningar för ett enhetligt arbetssätt och uppföljning av informationshanteringen.",
+      "headline": "Upphäva gällande Informationssäkerhetspolicy",
+      "human_headline": "Kommunen ersätter informationssäkerhetspolicy",
+      "summary": "Kommunstyrelsen upphäver gällande Informationssäkerhetspolicy från 2016 som ersätts av en samlad Informationshanteringspolicy beslutad i november 2024.",
+      "plain_language_summary": "Kommunen upphäver en gammal säkerhetspolicy och ersätter den med en ny som är bredare och omfattar informationshantering.",
+      "relevance": null,
+      "detail": "En samlad policy för informationshantering förväntas förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering. Den nya Informationshanteringspolicyn från november 2024 ersätter Informationssäkerhetspolicyn från 2016 i sin omfattning och skapar förutsättningar för enhetligt arbetssätt och uppföljning.",
       "category": "regler",
-      "contested": false,
-      "location": null,
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 107",
-      "quote": "Upphäva gällande Informationssäkerhetspolicy (Ks 412/2016).",
-      "quote_page": "s. 10",
+      "quote": null,
+      "quote_page": null,
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifall"
       },
       "tags": [
-        "information",
-        "säkerhet",
-        "policyer"
+        "informationssäkerhet",
+        "policy",
+        "informationshantering"
       ],
+      "confidence": "hog",
       "id": "2025-05-13_ko_107"
     },
     {
-      "headline": "Ny riktlinje för styrdokument antagen trots motstånd",
-      "summary": "Kommunstyrelsen antar reviderad riktlinje för styrdokument från 2025-06-01. Liberalerna och SD motsatte sig beslutet.",
-      "detail": "Den tidigare riktlinjen för styrdokument från 2014 var föråldrad och behövde revideras. Den nya riktlinjen reglerar kraven vid utformandet och användandet av styrdokument i kommunen, ska stödja utgångspunkterna i styrmodellen och fastställer en struktur för framtagande av styrdokument. Revideringen innebär förändringar av vilka styrdokument som används på olika beslutsnivåer.\n\nKarolina Wallström (L) yrkade i första hand på återremiss för bred beredning, i andra hand på avslag. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade avslag. Martha Wicklund (V) lämnade ett särskilt yttrande.\n\nOrdföranden avslogs återremissynrandet och kommunstyrelsen beslutade enligt förvaltningens förslag. Wallström, Ståhl, Larsson och Allard reserverade sig.",
+      "headline": "Ny riktlinje för styrdokument antagen från 1 juni 2025",
+      "human_headline": "Kommunen uppdaterar regler för styrdokument",
+      "summary": "Kommunstyrelsen antar ny riktlinje för styrdokument gällande från 1 juni 2025. Riktlinjen reviderades från 2014 för att reglera krav på utformning och användning av styrdokument.",
+      "plain_language_summary": "Kommunen antar nya regler för hur dokument som styr verksamheten ska utformas och användas.",
+      "relevance": "Påverkar alla kommunens förvaltningar och nämnder.",
+      "detail": "Nuvarande riktlinjer från 2014 är inaktuella och behövde revidering. Syftet är att reglera kraven vid utformandet och användandet av styrdokument i Örebro kommun för att stödja utgångspunkterna i styrmodellen. Revideringen innebär förslag till förändring av vilka styrdokument som används på olika beslutsnivåer. Karolina Wallström (L) yrkade först återremiss för att hinna bereda bredt, i andra hand avslag. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade avslag. Martha Wicklund (V) yrkade på att få lämna särskilt yttrande. Återremissynkandet avslogs och förslaget bifölls. Martha Wicklund fick lämna yttrande. Karolina Wallström, Yngve Alkman, Helena Ståhl, David Larsson och Markus Allard reserverade sig.",
       "category": "regler",
-      "contested": true,
-      "location": null,
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 108",
-      "quote": "Förslag till Riktlinje för styrdokument antas. Beslutet gäller från och med den 1 juni 2025.",
+      "quote": "Förslag till Riktlinje för styrdokument antas.",
       "quote_page": "s. 11",
       "voting": {
         "for": [
@@ -194,178 +350,73 @@
       "tags": [
         "styrdokument",
         "riktlinjer",
-        "organisation"
+        "organisationsutveckling"
       ],
+      "confidence": "hog",
       "id": "2025-05-13_ko_108"
     },
     {
-      "headline": "Taxa för alkohollagen reviderad med nya gårdsförsäljningsregler",
-      "summary": "Kommunstyrelsen antar reviderad taxa för prövning och tillsyn enligt alkohollagen från 2025-06-01.",
-      "detail": "Den som vill bedriva gårdsförsäljning av alkoholdrycker föreslås debiteras samma prövningsavgift som restauranger: 10 000 kronor för nytt tillstånd, 3 000 kronor för redan befintliga serverings- eller provsmakningstillstånd. Den årliga tillsynsavgiften föreslås vara 3 600 kronor per år.\n\nFörvaltningen bedömer att 5-10 företag i Örebro kommer att ansöka om tillstånd för gårdsförsäljning. Intäksökningen och merarbetet bedöms vara litet. Taxan för servering och detaljhandel med folköl höjdes enligt index från 1 140 till 1 200 kronor per timme.\n\nMarkus Allard (ÖrP) yrkade avslag men blev omröstad. Han reserverade sig mot beslutet.",
-      "category": "regler",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 114",
-      "quote": "Anta reviderad Taxa för prövning och tillsyn enligt alkohollagen. Beslutet gäller från och med den 1 juni 2025.",
-      "quote_page": "s. 14",
+      "headline": "Slutrapport IOP Crossroads/Vinternatt 2024 noterad",
+      "human_headline": "Kommunen avslutar överenskommelse om skydd för utsatta EU-medborgare",
+      "summary": "Slutrapporten för samarbetet IOP Vinternatt mellan Örebro kommun och Örebro Stadsmission läggs till handlingarna. Partnerskapet avslutades i december 2024.",
+      "plain_language_summary": "Kommunen noterade slutrapporten för ett projekt som erbjöd skydd mot kylan för hemlösa EU-medborgare under vintermånaderna.",
+      "relevance": "Påverkar utsatta EU-medborgare i Örebro.",
+      "detail": "Överenskommelsen IOP Vinternatt var ett samarbete mellan 2018-2024 för att avhjälpa akut nöd hos målgruppen utsatta EU/EES-medborgare genom skydd mot kylan under vintermånaderna och motverka parallellsamhälle. Stadsmission sammanställde slutrapport vid avslut i december 2024. Antalet individer från målgruppen minskade kraftigt under året. Trots uppsökande arbete stod verksamheten nästan tom på besökare. Stadsmissionen anser beslutet att avsluta är korrekt då så få besökare rättfärdigar inte egen verksamhet.",
+      "category": "omsorg",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Örebro",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 109",
+      "quote": null,
+      "quote_page": null,
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Bifall"
+        "result": "Noterad"
       },
       "tags": [
-        "alkohol",
-        "taxa",
-        "näringsliv",
-        "gårdsförsäljning"
+        "utsatta EU-medborgare",
+        "stadsmission",
+        "vinterstöd"
       ],
-      "id": "2025-05-13_ko_114"
+      "confidence": "hog",
+      "id": "2025-05-13_ko_109"
     },
     {
-      "headline": "Svar på motion om föräldrautbildning för hedersförtryck avslaget",
-      "summary": "Motion från SD om kravställande föräldrautbildning kopplad till hedersförtryck avslås som oförenlig med lagstiftningen.",
-      "detail": "Carola Sunesson m.fl. (SD) föreslog att kommunen ska ta fram kravställande föräldrautbildning fokuserad på föräldraansvar och barnrätt enligt svenska regler. De föreslog även att sådan utbildning kunde bli obligatorisk för vårdnadshavare vars barn utsatts för hedersförtryck, hedersvåld eller annat våld, och att annat kommunalt stöd kunde nekas om utbildningen inte genomfördes.\n\nKommunledningsförvaltningen bedömde att förslagen inte är förenliga med lagstiftningen. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen, men avslogs. Ståhl, Larsson (SD) och Allard reserverade sig.",
-      "category": "politik",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 116",
-      "quote": "Bedömningen är att motionen bör avslås eftersom förslagen inte är förenliga med lagstiftningen på området.",
-      "quote_page": "s. 16",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "MP"
-        ],
-        "against": [],
-        "abstained": [],
-        "result": "Avslaget"
-      },
-      "tags": [
-        "hedersförtryck",
-        "barn",
-        "utbildning",
-        "familjepolitik"
-      ],
-      "id": "2025-05-13_ko_116"
-    },
-    {
-      "headline": "Motion om kulturarv i skolor avslaget",
-      "summary": "Motion från SD om att stärka undervisningen i kulturarv och lokalhistoria i skolor avslås som stridande mot lärarnas professionella frihet.",
-      "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) föreslog att varje skolklass minst en gång per termin ska genomföra besök på lokalhistoriskt viktiga platser och att sakkunniga från föreningar, länsstyrelsen eller länsmuseet bjuds in till klasserna.\n\nKommunledningsförvaltningen menade att detta strider mot lärarnas ansvar och professionella frihet att utforma undervisningen enligt nationella läroplan och kursplaner. Förslaget bedömdes som alltför styrande för undervisningen.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen men avslogs. Ståhl, Larsson (SD) och Allard reserverade sig.",
-      "category": "skola",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 117",
-      "quote": "Motionens förslag innebär en mer styrd inriktning av undervisningen, vilket inte fullt ut överensstämmer med lärarnas ansvar och professionella frihet.",
-      "quote_page": "s. 18",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "MP"
-        ],
-        "against": [],
-        "abstained": [],
-        "result": "Avslaget"
-      },
-      "tags": [
-        "skola",
-        "kulturarv",
-        "lokalhistoria",
-        "undervisning"
-      ],
-      "id": "2025-05-13_ko_117"
-    },
-    {
-      "headline": "Motion om strategi mot hedersförtryck förklarad besvarad",
-      "summary": "Motion från SD om kravställande strategi mot hedersförtryck förklaras besvarad då motsvarande arbete redan pågår.",
-      "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) krävde en kravställande strategi mot hedersförtryck och hedersvåld och menade att nuvarande handlingsplan mot våld i nära relationer saknar fokus på hedersproblematik.\n\nKommunledningsförvaltningen hävdade att kommunen redan aktivt arbetar med att utveckla ny styrning för att bekämpa våld i nära relationer, hedersrelaterat våld och sexuell exploatering. Den nya strategin innehåller insatser för både utsatta och förövare samt förstärkt samverkan och uppföljning. Därför förklarades motionen besvarad.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen men avslogs. Ståhl, Larsson och Allard reserverade sig.",
-      "category": "politik",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 118",
-      "quote": "Då detta arbete redan pågår och innefattar de åtgärder som motionen efterfrågar, anses motionen besvarad.",
-      "quote_page": "s. 19",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "MP"
-        ],
-        "against": [],
-        "abstained": [],
-        "result": "Enhälligt"
-      },
-      "tags": [
-        "hedersförtryck",
-        "våld",
-        "strategi"
-      ],
-      "id": "2025-05-13_ko_118"
-    },
-    {
-      "headline": "Ledamotsinitiativ om HBT-monument i Vivalla avslaget",
-      "summary": "SD:s Helena Ståhl initiativ om att upprätta monument över Muhsin Hendricks i Vivalla avslås som stridande mot konstnärlig frihet.",
-      "detail": "Helena Ståhl (SD) inkom med ledamotsinitiativ om att upprätta ett monument över Muhsin Hendricks på Vivallakullen finansierat genom försäljning av konstverket \"Äppeltanke\".\n\nKommunledningsförvaltningen hävdade att detta strider mot kommunens konstpolicy som grundas på konstnärlig frihet, professionell bedömning och långsiktiga strategier. Policyn slår fast principen om armlängds avstånd, vilket innebär att politiker inte ska styra innehål eller utformning av konstverk - detta ska göras av sakkunniga med konstnärlig kompetens.\n\nEn politisk beslut om ett specifikt monument på angiven plats står i direkt strid med dessa principer och riskerar undergräva konstnärlig frihet. Kultur- och fritidsnämnden har enligt reglementet ansvar för kommunens konst.\n\nStåhl yrkade bifall men avslogs. Ståhl och Larsson (SD) reserverade sig.",
-      "category": "kultur",
-      "contested": true,
-      "location": "Vivalla",
-      "paragraph_ref": "§ 119",
-      "quote": "Ett politiskt beslut om att uppföra ett specifikt monument på en angiven plats och med ett föreskrivet innehål står i direkt strid med dessa principer.",
-      "quote_page": "s. 20",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "MP"
-        ],
-        "against": [],
-        "abstained": [],
-        "result": "Avslaget"
-      },
-      "tags": [
-        "monument",
-        "konst",
-        "Muhsin Hendricks",
-        "HBT",
-        "Vivalla"
-      ],
-      "id": "2025-05-13_ko_119"
-    },
-    {
-      "headline": "Remissvar på regionalt trafikförsörjningsprogram antaget",
-      "summary": "Kommunstyrelsen antar remissvar på regionalt trafikförsörjningsprogram 2025-2035 trots att flera partier motsatte sig.",
-      "detail": "Region Örebro län erbjöd kommunen att lämna synpunkter på förslaget till Regionalt trafikförsörjningsprogram för Örebro län 2025-2035. Programmet innehåller mål och principer för kollektivtrafikens framtida utveckling. Synpunkter skulle inlämnas senast 31 maj 2025.\n\nMarkus Allard (ÖrP) och Karolina Wallström (L) yrkade avslag på yttrandet. Susanne Lindholm Henningsson (KD) yrkade på komplettering med inspel om digitala lösningar för samordning av kollektivtrafik och AI-baserade system. Helena Ståhl (SD) yrkade på att landsbygdsperspektivet skulle poängteras starkare. Martha Wicklund (V) lämnade särskilt yttrande.\n\nOrdföranden avslogs alla ändringsyrkanden och beslutet fattades enligt förvaltningens förslag. Wallström, Henningsson, Ståhl och Allard samt Wicklund reserverade sig.",
+      "headline": "Yttrande till Region Örebro län om trafikförsörjningsprogram antagen",
+      "human_headline": "Kommunen sänder synpunkter på regionens trafikplan till 2035",
+      "summary": "Kommunstyrelsen antar yttrande som överlämnas till Region Örebro län om nytt regionalt trafikförsörjningsprogram för 2025-2035. Martha Wicklund får lämna särskilt yttrande.",
+      "plain_language_summary": "Kommunen skickar sina synpunkter till regionen om hur kollektivtrafiken bör utvecklas framöver.",
+      "relevance": "Påverkar alla invånares möjlighet att använda kollektivtrafik.",
+      "detail": "Region Örebro län tagit fram nytt förslag på regionalt trafikförsörjningsprogram för Örebro län. Örebro kommun erbjudits att lämna synpunkter senast 31 maj 2025. Programmet utgör långsiktig strategisk planering för regional kollektivtrafik och innehåller mål och principer för framtida utveckling. Markus Allard (ÖrP) och Karolina Wallström (L) yrkade avslag. Susanne Lindholm Henningsson (KD) yrkade på inspel om digitala lösningar och AI-baserade system för samordning. Helena Ståhl (SD) yrkade på att poängtera landsbygdsperspektiv starkare. Martha Wicklund (V) yrkade på att få lämna särskilt yttrande. Förslaget bifölls. Flera reserverade sig.",
       "category": "infrastruktur",
-      "contested": true,
-      "location": null,
+      "decision_type": "remiss",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "bilister"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Örebro",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 110",
       "quote": "Trafikförsörjningsprogrammet utgör den långsiktiga strategiska planeringen för regional kollektivtrafik i Örebro län.",
       "quote_page": "s. 13",
@@ -373,69 +424,543 @@
         "for": [
           "S",
           "M",
-          "V"
+          "KD",
+          "V",
+          "MP"
         ],
         "against": [],
         "abstained": [
           "L",
-          "KD",
           "SD",
-          "ÖrP",
-          "MP"
+          "ÖrP"
         ],
         "result": "Bifall"
       },
       "tags": [
-        "trafik",
         "kollektivtrafik",
-        "region",
         "infrastruktur",
-        "landsbygd"
+        "region"
       ],
+      "confidence": "hog",
       "id": "2025-05-13_ko_110"
+    },
+    {
+      "headline": "Reviderad taxa för prövning och tillsyn enligt alkohollagen antagen",
+      "human_headline": "Kommunen höjer avgifter för alkoholtillstånd och lägger till gårdsförsäljning",
+      "summary": "Kommunstyrelsen antar reviderad taxa för prövning och tillsyn enligt alkohollagen gällande från 1 juni 2025. Gårdsförsäljning av alkoholdrycker tillkommer med samma avgifter som restauranger.",
+      "plain_language_summary": "Kommunen uppdaterar sina avgifter för att få tillstånd att sälja alkohol och lägger till möjlighet för gårdsförsäljning.",
+      "relevance": "Påverkar restauranger, detaljhandel och framtida gårdsförsäljare av alkoholdrycker.",
+      "detail": "Den som vill bedriva gårdsförsäljning föreslås debiteras samma prövningsavgift som restauranger (10 000 kr för nytt tillstånd, 3 000 kr för redan befintliga). Årlig tillsynsavgift föreslås vara lägsta taxan (3 600 kr/år). Förvaltningen bedömer att fem till tio företag kommer att ansöka. Intäktsökningen och merarbetet bedöms ganska litet. Taxa för servering och detaljhandel med folköl justerades enligt index från 1 140 till 1 200 kr/timme. Mindre språkliga justeringar gjordes. Bygg- och miljönämnden hanterade ärendet 20 mars 2025. Markus Allard (ÖrP) yrkade avslag men förslaget bifölls. Markus Allard reserverade sig.",
+      "category": "naringsliv",
+      "decision_type": "taxa",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 114",
+      "quote": "Den som vill bedriva gårdsförsäljning av alkoholdrycker föreslås debiteras samma prövningsavgift som restauranger gör idag.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "L",
+          "M",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "alkoholtillstånd",
+        "taxa",
+        "gårdsförsäljning"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_114"
+    },
+    {
+      "headline": "Kommunstyrelsens uppsiktsplikt - dialogmöten 2025 noterad",
+      "human_headline": "Kommunstyrelsen följer upp nämndernas arbete",
+      "summary": "Anmälan om dialogmöten för kommunstyrelsens uppsiktsplikt läggs till handlingarna. Kommunstyrelsen bjuder in nämndernas presidier för dialog om verksamheten.",
+      "plain_language_summary": "Kommunstyrelsen noterade att den ska hålla dialogmöten med alla nämnder för att följa upp deras arbete.",
+      "relevance": null,
+      "detail": "Enligt kommunallagen ska Kommunstyrelsen leda och samordna förvaltningen samt ha uppsikt över övriga nämnder. Riktlinjer fastställdes 2023-01-17. För att stärka uppsiktsplikten bjuds nämndernas presidier in till dialog kring verksamheten. Utgångspunkten är att följa upp hur uppdraget enligt reglementet verkställs. Nämnden ska skicka skriftlig dokumentation enligt riktlinjer. Markus Allard (ÖrP) yrkade avslag med hänvisning till att ledamöter inte har möjlighet utöva uppsiktsplikten, och yrkade på att ledamöter får möjligheter för total insyn i kommunala verksamheter. Martha Wicklund (V) stödde yrkandet. Förslaget bifölls enligt ordföranden. Markus Allard och Martha Wicklund reserverade sig.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 115",
+      "quote": "Kommunstyrelsen ska enligt 6 kap 1 § kommunallagen leda och samordna förvaltningen av kommunens angelägenheter.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "L",
+          "M",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "uppsiktsplikt",
+        "nämndsamordning",
+        "dialogmöten"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_115"
+    },
+    {
+      "headline": "Motion om kravställande föräldrautbildning avslad",
+      "human_headline": "Kommunen säger nej till obligatorisk föräldrautbildning",
+      "summary": "Kommunstyrelsen avslår motion från Carola Sunesson m.fl. (SD) om att ta fram kravställande föräldrautbildning fokuserad på föräldraansvar och barnrätt. Tre delförslag avslogs på grund av lagstiftningskonflikt.",
+      "plain_language_summary": "En motion från SD om att tvinga vissa föräldrar att gå en utbildning om barn- och föräldrarätt avslogs för att det strider mot lagstiftningen.",
+      "relevance": "Påverkar föräldrar som utsatt sitt barn för hedersförtryck eller våld.",
+      "detail": "Motion från Carola Sunesson m.fl. (SD) innehöll tre förslag: (1) Ta fram kravställande föräldrautbildning fokuserad på föräldraansvar och barnrätt enligt svenska regler, demokrati och jämlikhet. (2) Undersöka om sådan utbildning kan vara obligatorisk för vårdnadshavare som utsatt barn för hedersförtryck, hedersvåld eller annat våld. (3) Möjlighet att neka annat stöd från kommunen tills utbildning genomförd. Kommunledningsförvaltningen bedömde att förslagen inte är förenliga med gällande lagstiftning och rekommenderade avslag. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen. Ordföranden ställde förslaget mot bifallsyrkandeoch fann bifall till avslag. Alla tre delbeslut om avslag antogs. Helena Ståhl, David Larsson och Markus Allard reserverade sig.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "hog",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 116",
+      "quote": "Bedömningen är att motionen bör avslås eftersom förslagen inte är förenliga med lagstiftningen på området.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "hedersförtryck",
+        "föräldrautbildning",
+        "barnrätt"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_116"
+    },
+    {
+      "headline": "Motion om kunskapsutveckling om kulturarv och lokalhistoria avslad",
+      "human_headline": "Kommunen avslår krav på lokalhistoria i skolorna",
+      "summary": "Kommunstyrelsen avslår motion från Helena Ståhl m.fl. (SD) om att stärka undervisningen i kulturarv och lokalhistoria i grund- och gymnasieskolor genom obligatoriska besök och gästföreläsningar.",
+      "plain_language_summary": "En motion om att tvinga skolor att genomföra besök på historiska platser och bjuda in föreläsare avslogs för att det strider mot lärarnas professionella frihet.",
+      "relevance": "Påverkar elever i grund- och gymnasieskolor.",
+      "detail": "Motion från Helena Ståhl, Carola Sunesson och Habib Brini (SD) anmäldes 14 maj 2024. Motionärerna föreslår att varje klass minst en gång per termin genomför besök på lokalhistoriskt betydelsefulla platser och att sakkunniga från föreningar, länsstyrelsen eller länsmuseet bjuds in. Kommunledningsförvaltningen bedömde att undervisningens innehål enligt nationale läroplanerna och kursplaner beslutas av respektive lärare. Motionen innebar mer styrd inriktning vilket inte överensstämmer med lärarnas professionella frihet och ansvar för undervisning. Helena Ståhl och Markus Allard yrkade bifall men förslaget avslogs. Helena Ståhl, David Larsson och Markus Allard reserverade sig.",
+      "category": "skola",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "elever"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 117",
+      "quote": "Motionens förslag innebär en mer styrd inriktning av undervisningen, vilket inte fullt ut överensstämmer med lärarnas ansvar och professionella frihet.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "lokalhistoria",
+        "skola",
+        "kulturarv"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_117"
+    },
+    {
+      "headline": "Motion om kravställande strategi mot hedersförtryck ansågs besvarad",
+      "human_headline": "Kommunen anser redan arbeta med hedersförtryck",
+      "summary": "Kommunstyrelsen anser motion från Helena Ståhl m.fl. (SD) om kravställande strategi mot hedersförtryck och hederskultur redan besvarad. Kommunen arbetar redan med ny styrning för att bekämpa våld i nära relationer och hedersrelaterat våld.",
+      "plain_language_summary": "En motion om att ta fram en ny strategi mot hedersförtryck avslogs för att kommunen redan arbetar med sådan strategi.",
+      "relevance": "Påverkar personer utsatta för hedersförtryck och hederskultur.",
+      "detail": "Motion från Helena Ståhl, Carola Sunesson och Habib Brini (SD) anmäldes 12-13 juni 2024. Motionen framhöll att nuvarande handlingsplan mot våld i nära relationer och hedersvåld saknar tillräckligt fokus på hedersproblematik och efterfrågar mer proaktiv strategi. Kommunledningsförvaltningen bedömde att Örebro kommun redan arbetar aktivt med att utveckla ny styrning för bekämpning av våld i nära relationer, hedersrelaterat våld och sexuell exploatering. Ny strategi innehåller insatser för både utsatta och förövare samt förstärkt samverkan och uppföljning. Då detta arbete redan pågår och innefattar åtgärderna motionen efterfrågar, anses motionen besvarad. Helena Ståhl och Markus Allard yrkade bifall men förslaget bifölls. Helena Ståhl, David Larsson och Markus Allard reserverade sig.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "besvarad",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "hog",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 118",
+      "quote": "Örebro kommun arbetar redan aktivt med att utveckla en ny styrning för att bekämpa våld i nära relationer, hedersrelaterat våld och sexuell exploatering.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "hedersförtryck",
+        "hedersvåld",
+        "strategi"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_118"
+    },
+    {
+      "headline": "Ledamotsinitiativ om HBT-monument avslat",
+      "human_headline": "Kommunen avslår monument över Muhsin Hendricks",
+      "summary": "Kommunstyrelsen avslår ledamotsinitiativ från Helena Ståhl (SD) om att upprätta monument över Muhsin Hendricks på Vivallakullen finansierat genom försäljning av konstverket Äppeltanke.",
+      "plain_language_summary": "En förfrågan om att bygga ett monument över aktivisten Muhsin Hendricks i Vivalla avslogs för att sådana beslut ska fattas av kulturförvaltningen efter konstnärliga, inte politiska överväganden.",
+      "relevance": "Påverkar användare av offentliga platser i Vivalla.",
+      "detail": "Helena Ståhl (SD) inkom med ledamotsinitiativ vid Kommunstyrelsens sammanträde 8 april 2025. Kommunstyrelsen hänskjöt det till presidium för beredning. Initiativet yrkade: (1) Örebro kommun upprättar monument över Muhsin Hendricks på Vivallakullen. (2) Monument finansieras genom försäljning av konstverket Äppeltanke. Enligt kommunens konstpolicy ska offentlig konst hanteras med utgångspunkt i konstnärlig frihet, professionell bedömning och långsiktiga strategier. Principen om armlängds avstånd innebär att politiskt beslutsfattande inte ska styra innehål eller utformning av enskilda konstverk. Sådana bedömningar ska göras av sakkunniga med konstnärlig kompetens. Enligt nämndreglementet för 2023-2026 har Kultur- och fritidsnämnden det uttryckliga ansvaret för hantering av kommunens konst. Ärenden om nya monument och ändringar av befintlig offentlig konst åvilar Kultur- och fritidsnämnden, inte Kommunstyrelsen. Ledamotsinitiativet avslogs. Helena Ståhl reserverade sig tillsammans med David Larsson.",
+      "category": "kultur",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Vivalla",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 119",
+      "quote": "Ett politiskt beslut om att uppföra ett specifikt monument på en angiven plats och med ett föreskrivet innehåll står i direkt strid med dessa principer.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [],
+        "against": [
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "monument",
+        "Vivalla",
+        "konstpolicy"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_119"
+    },
+    {
+      "headline": "Sju motioner remitterade till olika nämnder och förvaltning",
+      "human_headline": "Kommunstyrelsen fördelar motioner för beredning",
+      "summary": "Kommunstyrelsen remitterar sju motioner till olika nämnder och behåller två för egen beredning. Motionerna handlar om livsmedelsförsörjning, kollektivtrafik, studie- och yrkesvägledning, konkurrensöversyn, parkering, näringslivssäkerhet och arbetstidsfördeling.",
+      "plain_language_summary": "Kommunstyrelsen delade ut motioner från olika partier för att olika förvaltningar och nämnder ska undersöka möjligheterna att genomföra förslagen.",
+      "relevance": null,
+      "detail": "Sju motioner remitterades enligt följande: (1) Motion från Lea Strandberg (MP) om livsmedelsförsörjning under krig och kris - bereds av Kommunstyrelsen. (2) Motion från Fredrik Persson (MP) om kollektivtrafik vid resecentrum - remitteras till Markplanerings- och exploateringsnämnden. (3) Motion från Helena Ståhl (SD) om studie- och yrkesvägledning - remitteras till Grundskolenämnden och Gymnasie- och arbetsmarknadsnämnden. (4) Motion från Carola Sunesson och Bo Ammer (SD) om konkurrensöversyn - bereds av Kommunstyrelsen. (5) Motion från Helena Ståhl och Carola Sunesson (SD) om nyttoparkeringstillstånd - remitteras till Teknik- och servicenämnden. (6) Motion från Susanne Lindholm Henningsson (KD) om näringslivssäkerhet - bereds av Kommunstyrelsen. (7) Motion från Martha Wicklund m.fl. (V) om kortare arbetstid - samma lön - remitteras till Förskolenämnden och Vård- och omsorgsnämnden.",
+      "category": "formellt",
+      "decision_type": "motion",
+      "outcome": "remitterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 121",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Remitterad"
+      },
+      "tags": [
+        "motioner",
+        "remittering",
+        "nämnder"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_121"
+    },
+    {
+      "headline": "Rapport över finansverksamheter april 2025 noterad",
+      "human_headline": "Kommunens finansverksamhet rapporterad",
+      "summary": "Rapport över finansverksamheter för april 2025 läggs till handlingarna.",
+      "plain_language_summary": "Kommunen noterade sin finansrapport för april månad.",
+      "relevance": null,
+      "detail": "Rutinmässig anmälan av rapport över finansverksamheter för april 2025.",
+      "category": "budget",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 122",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "finansverksamhet",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_122"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut april 2025 noterad",
+      "human_headline": "Kommunen rapporterade delegationsbeslut",
+      "summary": "Anmälan av delegationsbeslut fattade under april 2025 läggs till handlingarna.",
+      "plain_language_summary": "Kommunen noterade vilka beslut som fattades av delegering under april månad.",
+      "relevance": null,
+      "detail": "Enligt kommunallagen 6 kap 40 § ska alla beslut fattade med stöd av delegation av tjänsteperson, ordförande, presidium eller utskott anmälas till Kommunstyrelsen. Det är först efter återrapporteringen som delegationsbesluten kan vinna laga kraft. Delegationsförteckningen antogs 27 mars 2003 och reviderades 3 december 2024. Två sammanställningar presenterades över delegationsbeslut inom finansverksamhet och övrig verksamhet under april 2025.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 123",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "delegationsbeslut",
+        "rapportering"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_123"
+    },
+    {
+      "headline": "Anmälan av handlingar från Nerikes Brandkår och Region noterad",
+      "human_headline": "Kommunen mottog och registrerade handlingar",
+      "summary": "Anmälan av relevanta handlingar från Nerikes Brandkår och Region Örebro län läggs till handlingarna.",
+      "plain_language_summary": "Kommunen noterade viktiga dokument från brandkåren och regionen.",
+      "relevance": null,
+      "detail": "Varje månad anmäler Kommunledningsförvaltningen handlingar som inkommit och bedöms relevanta för Kommunstyrelsen. Under denna period anmäldes protokoll från Nerikes Brandkår från 25 april 2025 och regionstyrels protokoll samt ekonomisk redovisning 2024 från Region Örebro län beträffande utbetalade medel i enlighet med överenskommelser om samverkan för god hälsa.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 124",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "handlingar",
+        "anmälan"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_124"
+    },
+    {
+      "headline": "Kommundirektörens rapport för april-maj 2025 noterad",
+      "human_headline": "Kommundirektör rapporterade om förvaltningen",
+      "summary": "Kommundirektörens rapport med nyheter inom förvaltningen för april-maj 2025 läggs till handlingarna.",
+      "plain_language_summary": "Kommundirektören rapporterade om viktiga händelser och utveckling inom kommunens förvaltning.",
+      "relevance": null,
+      "detail": "Rutinmässig rapport från kommundirektören om nyheter inom förvaltningen.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 125",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "kommundirektör",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2025-05-13_ko_125"
     }
   ],
   "motions_of_interest": [
     {
+      "title": "Kravställande föräldrautbildning för vårdnadshavare vid hedersförtryck",
+      "party": "SD",
+      "status": "avslagen"
+    },
+    {
+      "title": "Kunskapsutveckling om kulturarv och lokalhistoria i grund- och gymnasieskolor",
+      "party": "SD",
+      "status": "avslagen"
+    },
+    {
+      "title": "Kravställande strategi mot hedersförtryck och hederskultur",
+      "party": "SD",
+      "status": "besvarad"
+    },
+    {
+      "title": "HBT-monument över Muhsin Hendricks på Vivallakullen",
+      "party": "SD",
+      "status": "avslagen"
+    },
+    {
       "title": "Säkra kommunens tillgång till livsmedel under krig och kris",
       "party": "MP",
-      "status": "Remitterad för beredning i Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
       "title": "Underlätta för kollektivtrafiken vid resecentrum",
       "party": "MP",
-      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+      "status": "remitterad"
     },
     {
       "title": "Införa garanti om studie- och yrkesvägledning",
       "party": "SD",
-      "status": "Remitterad till Grundskolenämnden och Gymnasie- och arbetsmarknadsnämnden"
+      "status": "remitterad"
     },
     {
       "title": "Konkurrensöversyn av kommunal verksamhet",
       "party": "SD",
-      "status": "Remitterad för beredning i Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
       "title": "Införa nyttoparkeringstillstånd för näringsidkare",
       "party": "SD",
-      "status": "Remitterad till Teknik- och servicenämnden"
+      "status": "remitterad"
     },
     {
       "title": "Näringslivssäkra de kommunala besluten",
       "party": "KD",
-      "status": "Remitterad för beredning i Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
       "title": "Kortare arbetstid - samma lön",
       "party": "V",
-      "status": "Remitterad till Förskolenämnden och Vård- och omsorgsnämnden"
+      "status": "remitterad"
     }
   ],
-  "skipped_items_count": 6,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2025-05-13",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 12
+  "decisions_count": 21
 }

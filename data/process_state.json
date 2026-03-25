@@ -399,7 +399,47 @@
       "meeting_date": "2025-03-18",
       "decisions_count": 20,
       "status": "ok"
+    },
+    "dac0b9ef36c6de467f479a1c4489ca7d": {
+      "url": "https://www.orebro.se/download/18.66f592fc19618bf6fcf1192/1744183028098/2025-03-26%20Kommunfullm%C3%A4ktige%20%C2%A7%C2%A7%2067%E2%80%9374%20och%2077%E2%80%9393.pdf",
+      "processed_at": "2026-03-25T14:16:06.473711",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-03-26",
+      "decisions_count": 25,
+      "status": "ok"
+    },
+    "457a3f9d8b5ad0d33358238ba066b8e4": {
+      "url": "https://www.orebro.se/download/18.29282bee19618cb0e5bbcb6/1744788706081/2025-04-08%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T14:18:32.672458",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-04-08",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "6cc114585fe09fbd9e5f7fdf141be64f": {
+      "url": "https://www.orebro.se/download/18.7f33d9fe1969f5e06fa3bf4/1746708912267/2025-04-23%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T14:20:43.927314",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-04-23",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "16b20aae3c4795f6a767cde0a5983efc": {
+      "url": "https://www.orebro.se/download/18.10f29bbe196f10bee7b2981/1747989391671/2025-05-13%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T14:22:47.371280",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-05-13",
+      "decisions_count": 21,
+      "status": "ok"
+    },
+    "cf9721ee4bffa2d00b87dfa15955c7f0": {
+      "url": "https://www.orebro.se/download/18.45e4837f196f12a88865fd9/1748440311413/2025-05-21%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T14:25:02.617806",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-05-21",
+      "decisions_count": 0,
+      "status": "error"
     }
   },
-  "last_run": "2026-03-25T14:14:13.997851"
+  "last_run": "2026-03-25T14:25:02.617857"
 }

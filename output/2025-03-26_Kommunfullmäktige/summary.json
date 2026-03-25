@@ -1,46 +1,396 @@
 {
   "meeting_type": "Kommunfullmäktige",
   "date": "2025-03-26",
-  "summary_headline": "Motioner om våld mot kvinnor och husbilar avslogs",
+  "summary_headline": "Kommunen avslår husbilar och skyddet för Garphytteklint",
   "decisions": [
     {
-      "headline": "Motion om krafttag mot mäns våld mot kvinnor delvis avslagen",
-      "summary": "Vänsterpartiet yrkade på grundläggande utbildning för anställda och politiker om våld mot kvinnor, ökad myndighetssamverkan och haverikommission vid mord. Tre av fyra yrkanden godkändes, men kravet på haverikommission avslogs.",
-      "detail": "Vänsterpartiet inlämnade en gruppmotion med fyra yrkanden för att bekämpa mäns våld mot kvinnor. Motion från Martha Wicklund (V) m.fl. krävde: (1) grundläggande utbildning för alla anställda och politiker om strukturer kring våld mot kvinnor, (2) kunskapshöjning för arbetsgivare för att fånga upp våldsutsatthet, (3) ökad myndighetssamverkan mellan polis, vård och socialtjänst, samt (4) haverikommission vid varje kvinnomord.\n\nKommunstyrelsen föreslogs godkänna de tre första yrkandena som redan tillgodosedda, men avslå kravet på haverikommission. Vänsterpartiet och Miljöpartiet yrkade på full bifallelse, medan S, M, C, L och ÖrP stödde styrelsen.\n\nKommunfullmäktige beslutade enhälligt att godkänna de tre första yrkandena men avslå det fjärde. Sex ledamöter från V och MP reserverade sig för full bifallelse, vilket visar politisk splittring i frågan.",
+      "headline": "Val av protokollsjusterare och tid för justering",
+      "human_headline": "Protokollsjusterare valda för dagens möte",
+      "summary": "Johan Kumlin (M) och Habib Brini (SD) valdes som justerare för dagens protokoll, med Monica Thyresjö (M) och Lea Strandberg (MP) som ersättare. Justering äger rum 3 april 2025.",
+      "plain_language_summary": "Två ledamöter utsågs för att kontrollera att mötesprotokollet blir korrekt skrivit.",
+      "relevance": null,
+      "detail": "Formell procedur vid början av kommunfullmäktigemöte.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 67",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "protokoll",
+        "justering",
+        "formell"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_67"
+    },
+    {
+      "headline": "Enkel fråga om likvärdiga betyg oavsett skola",
+      "human_headline": "Fråga om betyg ska vara samma på alla skolor",
+      "summary": "Lea Strandberg (MP) ställde en enkel fråga till Jonas Håård (S) om likvärdiga betyg oavsett skola. Frågan behandlades och är färdigbehandlad.",
+      "plain_language_summary": "En ledamot frågade om eleverna får samma betyg oavsett vilken skola de går på.",
+      "relevance": "Berör elever och föräldrar genom att påverka betygssättningen i skolor.",
+      "detail": "Enkel fråga anmäld 26 mars 2025. Lea Strandberg (MP) och Jonas Håård (S) yttrade sig i ärendet. Ärendet är nu färdigbehandlat.",
+      "category": "skola",
+      "decision_type": "informationsarende",
+      "outcome": "besvarad",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 68",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "skola",
+        "betyg",
+        "likvärdighet"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_68"
+    },
+    {
+      "headline": "Enkel fråga om Hjälmaren blir biosfärområde",
+      "human_headline": "Fråga om Hjälmaren ska bli skyddat område",
+      "summary": "Lea Strandberg (MP) ställde en enkel fråga till Kemal Hoso (S) om Hjälmaren kommer att bli ett biosfärområde. Frågan är färdigbehandlad.",
+      "plain_language_summary": "En ledamot frågade om sjön Hjälmaren kommer att få ett starkt naturskydd.",
+      "relevance": "Påverkar naturvård och miljöskydd i området kring Hjälmaren.",
+      "detail": "Enkel fråga anmäld 26 mars 2025. Lea Strandberg (MP) och Kemal Hoso (S) yttrade sig. Ärendet är färdigbehandlat.",
+      "category": "miljo",
+      "decision_type": "informationsarende",
+      "outcome": "besvarad",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "specificka_fastighet",
+      "location_name": "Hjälmaren",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 69",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "Hjälmaren",
+        "miljo",
+        "naturvard"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_69"
+    },
+    {
+      "headline": "Enkel fråga om vad som är politiska beslut",
+      "human_headline": "Fråga om vad som räknas som politiska beslut",
+      "summary": "Mats-Olof Liljegren (L) ställde en enkel fråga till Jonas Håård (S) om vad som är politiska beslut. Frågan är färdigbehandlad.",
+      "plain_language_summary": "En ledamot frågade om vad som definieras som ett politiskt beslut.",
+      "relevance": null,
+      "detail": "Enkel fråga anmäld 26 mars 2025. Mats-Olof Liljegren (L) och Jonas Håård (S) yttrade sig. Ärendet är färdigbehandlat.",
       "category": "politik",
-      "contested": true,
-      "location": null,
+      "decision_type": "informationsarende",
+      "outcome": "besvarad",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 70",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "politik",
+        "beslutsggang"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_70"
+    },
+    {
+      "headline": "Enkel fråga om permanent stöd inom vuxenutbildning",
+      "human_headline": "Fråga om vuxenutbildning behöver permanent stöd",
+      "summary": "Sunil Jayasooriya (V) ställde en enkel fråga till Christopher Hedbom Rydaeus (M) om det är dags att införa permanent stöd inom vuxenutbildning. Frågan är färdigbehandlad.",
+      "plain_language_summary": "En ledamot frågade om vuxenutbildningen bör få mer permanent ekonomiskt stöd.",
+      "relevance": "Påverkar vuxna studerande och utbildningsmöjligheter.",
+      "detail": "Enkel fråga anmäld 26 mars 2025. Sunil Jayasooriya (V) och Christopher Hedbom Rydaeus (M) diskuterade frågan. Ärendet är färdigbehandlat.",
+      "category": "skola",
+      "decision_type": "informationsarende",
+      "outcome": "besvarad",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "elever"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 71",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "vuxenutbildning",
+        "skola",
+        "stod"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_71"
+    },
+    {
+      "headline": "Enkel fråga om cykelhandelkonkurrens",
+      "human_headline": "Fråga om varför kommunen säljer cyklar som handlare",
+      "summary": "Susanne Lindholm Henningsson (KD) ställde en enkel fråga till Kemal Hoso (S) om varför kommunen konkurrerar med cykelhandlarna. Frågan är färdigbehandlad.",
+      "plain_language_summary": "En ledamot frågade varför kommunen själv säljer cyklar i stället för att låta cykelhandlare göra det.",
+      "relevance": "Påverkar näringsidkare som driver cykelhandel.",
+      "detail": "Enkel fråga anmäld 26 mars 2025. Susanne Lindholm Henningsson (KD) och Kemal Hoso (S) yttrade sig. Ärendet är färdigbehandlat.",
+      "category": "naringsliv",
+      "decision_type": "informationsarende",
+      "outcome": "besvarad",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 72",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "cyklar",
+        "handelskoncurrens",
+        "naringsliv"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_72"
+    },
+    {
+      "headline": "Enkel fråga om inrymningsbeslut och skolors information",
+      "human_headline": "Fråga om skolor får stöd vid beredskapsbeslut",
+      "summary": "Elisabeth Nilesol (V) ställde en enkel fråga till Jimmy Nordengren (C) om hur kommunen säkerställer att samtliga skolor får information och stöd vid inrymningsbeslut. Ärendet bordlades på nytt.",
+      "plain_language_summary": "En ledamot frågade hur kommunen ser till att alla skolor informeras och får hjälp när de måste ta emot elever från andra skolor.",
+      "relevance": "Påverkar skolor och elever vid beredskapssituationer.",
+      "detail": "Anmäld 25 februari 2025. Bordlades tidigare och bordlades på nytt 26 mars 2025.",
+      "category": "skola",
+      "decision_type": "informationsarende",
+      "outcome": "bordlagd",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "elever",
+        "skolpersonal"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 73",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "skola",
+        "beredskap",
+        "inryming"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_73"
+    },
+    {
+      "headline": "Enkel fråga om trygghet för teckenspråkiga i krissituationer",
+      "human_headline": "Fråga om kommunen skyddar teckenspråkiga vid nödsituationer",
+      "summary": "Cristian Rehn Janowicz (V) ställde en enkel fråga till Christopher Hedbom Rydaeus (M) om hur kommunen säkerställer trygghet för teckenspråkiga och icke-svensktalande i krissituationer. Ärendet bordlades på nytt.",
+      "plain_language_summary": "En ledamot frågade hur kommunen gör för att teckenspråkiga och personer som inte talar svenska är säkra vid nödsituationer.",
+      "relevance": "Påverkar personer med funktionsnedsättningar och invandrare.",
+      "detail": "Anmäld 25 februari 2025. Bordlades tidigare och bordlades på nytt 26 mars 2025.",
+      "category": "trygghet",
+      "decision_type": "informationsarende",
+      "outcome": "bordlagd",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 74",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "beredskap",
+        "tillganglighet",
+        "teckensprak"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_74"
+    },
+    {
+      "headline": "Motion om krafttag mot mäns våld mot kvinnor - delvis bifallen",
+      "human_headline": "Kommunen godkänner två av fyra förslag mot våld mot kvinnor",
+      "summary": "Vänsterpartiet motionerade om utbildning, myndighetssamverkan och haverikommission vid kvinnomord. Kommunfullmäktige beslutade att tre av fyra åtgärder är tillgodosedda, men avslog kravet på haverikommission. Flera partier reserverade sig.",
+      "plain_language_summary": "Vänsterpartiet ville att kommunen gör mer för att bekämpa våld mot kvinnor. Kommunen säger ja till utbildning och samverkan, men nej till att kräva haverikommission vid mord.",
+      "relevance": "Påverkar tryggheten för kvinnor i kommunen och arbetssätt vid våldsbrott.",
+      "detail": "Motionen inlämnad av Martha Wicklund (V) m.fl. innehöll fyra yrkanden: utbildning för anställda och politiker, kunskapshöjning för arbetsgivare, ökad myndighetssamverkan mellan polis, vård och socialtjänst, samt krav på haverikommission vid kvinnomord.\n\nKommunfullmäktige beslutade:\n1. Första åtgärden (utbildning) anses tillgodosedd.\n2. Andra åtgärden (kunskapshöjning) anses tillgodosedd.\n3. Tredje åtgärden (myndighetssamverkan) anses tillgodosedd.\n4. Fjärde åtgärden (haverikommission) avslås.\n\nReservationer från V, MP, KD och SD:s ledamöter som ville bifalla hela motionen.",
+      "category": "trygghet",
+      "decision_type": "motion",
+      "outcome": "delvis_bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 4,
+      "target_group": [
+        "invanare",
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": false,
+      "has_reservation": true,
       "paragraph_ref": "§ 77",
-      "quote": "Motionen föreslår att en grundläggande utbildning ska ges till Örebro kommuns samtliga anställda och politiker om strukturer kring mäns våld mot kvinnor samt samhällets ansvar",
+      "quote": "Motionen föreslår att en grundläggande utbildning ska ges till Örebro kommuns samtliga anställda och politiker om strukturer kring mäns våld mot kvinnor.",
       "quote_page": "s. 7",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
-          "L",
-          "ÖrP"
+          "L"
         ],
         "against": [],
-        "abstained": [],
-        "result": "Delvis bifall"
+        "abstained": [
+          "V",
+          "MP",
+          "KD",
+          "SD"
+        ],
+        "result": "Delvis bifallen"
       },
       "tags": [
-        "våld mot kvinnor",
+        "vald mot kvinnor",
+        "trygghet",
         "utbildning",
-        "socialtjänst"
+        "samverkan"
       ],
+      "confidence": "hog",
       "id": "2025-03-26_ko_77"
     },
     {
-      "headline": "Motion om ställplatser för husbilar avslogs",
-      "summary": "Motion från KD om att utreda och inrymma ställplatser för husbilar nära Örebro centrum avslogs. Flera partier ville bibehålla detta för framtida utredning.",
-      "detail": "Susanne Lindholm Henningsson (KD) motionerade för att Örebro kommun ska utreda lämpliga platser för husbilar i nära anslutning till Örebro city och därefter iordningställa dessa. Miljö- och stadsbyggnadsförvaltningen rekommenderade avslag med motiveringen att detta inte är en prioriterad fråga.\n\nKommunstyrelsen föreslog avslag. Motionen fick stöd från KD, V, SD, L och ÖrP, men S:s Kemal Hoso yrkade på avslag enligt styrelsen. Efter proposition beslutade fullmäktige att avslå motionen.\n\nAvslaget väckte motsättningar. Sex partier reserverade sig: KD, V (5 ledamöter), SD (7 ledamöter), L (4 ledamöter) och ÖrP (5 ledamöter) mot beslutet, vilket visar breda politiska intressen för husbilarnas situation.",
+      "headline": "Motion om ställplatser för husbilar - avslagen",
+      "human_headline": "Kommunen siger nej till parkering för husbilar nära centrum",
+      "summary": "Susanne Lindholm Henningsson (KD) motionerade för att utreda och iordningställa ställplatser för husbilar nära Örebro city. Kommunfullmäktige avslog motionen med motiveringen att det inte är en prioriterad fråga. Flera partier reserverade sig.",
+      "plain_language_summary": "En ledamot ville att kommunen skulle skapa parkering för husbilar nära centrum, men flertalet säger att detta inte är viktigt nu.",
+      "relevance": "Påverkar husbilsägare och turister som vill besöka Örebro.",
+      "detail": "Motionen anmäld 22 november 2023, § 413. Markplanerings- och exploateringsnämnden behandlade ärendet 14 november 2024 och Kommunstyrelsen 21 januari 2025. Ärendet bordlades 29 januari 2025 och återkom nu för beslut.\n\nMotionen innehöll två förslag:\n1. Lämpliga platser för husbilar nära Örebro city ska utredas.\n2. Förvaltningen får uppdrag att iordningställa dessa platser.\n\nKommunfullmäktige beslutade att motionen avslås eftersom den inte är en prioriterad fråga enligt kommunledningen.\n\nReservationer från KD, SD, V, ÖrP och L.",
       "category": "infrastruktur",
-      "contested": true,
-      "location": "Örebro centrum",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "bilister"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Örebro city",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 78",
-      "quote": "Motionen behandlar möjligheten för Örebro kommun att utöka antalet ställplatser för husbilar och innehåller följande förslag: 1. Lämpliga platser för husbilar i nära anslutning till Örebro city ska utredas.",
+      "quote": "Bedömningen är att motionen bör avslås eftersom detta för närvarande inte är en prioriterad fråga.",
       "quote_page": "s. 9",
       "voting": {
         "for": [
@@ -48,55 +398,94 @@
         ],
         "against": [
           "KD",
-          "V",
           "SD",
-          "L",
-          "ÖrP"
+          "V",
+          "ÖrP",
+          "L"
         ],
         "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
+        "parkering",
         "husbilar",
-        "ställplatser",
-        "infrastruktur",
-        "Örebro centrum"
+        "city",
+        "turism"
       ],
+      "confidence": "hog",
       "id": "2025-03-26_ko_78"
     },
     {
-      "headline": "Motion om småhusbebyggelse ansågs besvarad",
-      "summary": "SD:s motion om att kommunen ska prioritera småhusbebyggelse vid markövertagande ansågs besvarad. Kommunen arbetar redan med detta enligt beslutet.",
-      "detail": "Helena Ståhl (SD) m.fl. motionerade för att Örebro kommun ska ha ett prioriterat syfte för planering av småhus när kommunen förvärvar mark i områden lämpade för bostadsbyggande. Kommunstyrelsen bedömde att motionen redan var tillgodosedd då kommunen arbetar med att prioritera att tillgången på bostäder överensstämmer med efterfrågan.\n\nMotionen hade stöd från KD, SD och ÖrP som yrkade på bifall, medan V:s Linn Josefsson yrkade på avslag. Efter proposition fann fullmäktige att motionen var besvarad enligt styrelsens förslag.\n\nReservationer lämnades av SD (8 ledamöter), ÖrP (5 ledamöter) och KD (3 ledamöter) som ville se ett mer explicit bifallande, samt V (6 ledamöter) som ville avslå helt.",
+      "headline": "Motion om markförvärv för småhusbebyggelse - besvarad",
+      "human_headline": "Kommunen säger att småhusplan redan finns",
+      "summary": "Helena Ståhl (SD) m.fl. motionerade om att kommunen ska prioritera småhusbebyggelse vid markförvärv. Kommunfullmäktige beslutade att motionen är besvarad med motiveringen att kommunen redan arbetar med detta. Flera partier reserverade sig.",
+      "plain_language_summary": "En motion ville att kommunen ska fokusera på småhus när den köper mark. Kommunen säger att detta redan är gjort.",
+      "relevance": "Påverkar möjligheten för människor att köpa småhus och bosättning i kommunen.",
+      "detail": "Motionen inlämnad av Helena Ståhl (SD), Carola Sunesson (SD), Habib Brini (SD) och Christer Johansson (SD) anmäld 12 december 2023, § 443.\n\nMotionen föreslår att kommunen ska ha ett prioriterat syfte för planering av småhus vid markförvärv i områden och orter med goda förutsättningar för bostadsbyggande.\n\nKommunfullmäktige beslutade att motionen är besvarad då Örebro kommun redan arbetar med att prioritera att tillgången av bostäder överensstämmer med efterfrågan.\n\nReservationer från SD, ÖrP, KD och V som ville bifalla eller avslå motionen.",
       "category": "bygg",
-      "contested": true,
-      "location": null,
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "fastighetsagare",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 79",
-      "quote": "Motionen innehåller ett förslag om att kommun ska ha ett prioriterat syfte för planering av småhus, när kommunen förvärvar mark i områden och orter där förutsättningar finns för bostadsbyggande.",
+      "quote": "Bedömningen är att motionen är tillgodosedd. Örebro kommun arbetar med att prioritera att tillgången av bostäder ska överensstämma med efterfrågan.",
       "quote_page": "s. 11",
       "voting": {
         "for": [
           "S",
           "M"
         ],
-        "against": [],
+        "against": [
+          "SD",
+          "ÖrP",
+          "KD",
+          "V"
+        ],
         "abstained": [],
-        "result": "Ansågs besvarad"
+        "result": "Besvarad"
       },
       "tags": [
-        "småhusbebyggelse",
-        "mark",
-        "bostäder"
+        "bostader",
+        "småhus",
+        "markforvärv",
+        "byggande"
       ],
+      "confidence": "hog",
       "id": "2025-03-26_ko_79"
     },
     {
-      "headline": "Motion om att skydda Garphytteklint delvis godkänd efter votering",
-      "summary": "Motion från Miljöpartiet om långsiktigt skydd för Garphytteklint ansågs besvarad. Kommunen arbetar med naturreservatsbildning och naturvårdsavtal för området.",
-      "detail": "Lea Strandberg (MP) motionerade för att Örebro kommun långsiktigt ska skydda Garphytteklint och dess höga naturvärden. Miljö- och stadsbyggnadsförvaltningen bedömde att motionen redan var besvarad genom pågående uppdrag att utreda naturreservatsbildning och eventuella naturvårdsavtal.\n\nKommunstyrelsen rekommenderade att motionen ansågs besvarad. Stöd för detta kom från S, M och ÖrP. Emellertid yrkade MP, L, KD och V på full bifallelse för att säkra ett starkare juridiskt skydd.\n\nEn votering verkställdes: 47 ja-röster för styrelsens förslag mot 16 nej-röster för bifallelse. Reservationer lämnades av 16 ledamöter från MP, V, KD och L som ville se ett mer bindande skyddsbeslut.",
+      "headline": "Motion om skydd för Garphytteklint - besvarad",
+      "human_headline": "Kommunen arbetar redan med att skydda naturklintens artrikedom",
+      "summary": "Lea Strandberg (MP) motionerade för att långsiktigt skydda Garphytteklint och dess artrikedom. Kommunfullmäktige beslutade att motionen är besvarad. Pågår arbete med naturreservatsbildning och naturvårdsavtal. Votering genomfördes med 47 ja-röster och 16 nej-röster.",
+      "plain_language_summary": "En ledamot ville skydda klintens värdefulla natur. Kommunen säger detta redan pågår genom planering av naturreservat.",
+      "relevance": "Påverkar bevarandet av naturvärden och möjligheter för rekreation.",
+      "detail": "Motionen inlämnad av Lea Strandberg (MP) anmäld 14 februari 2024, § 53.\n\nMotionen föreslår att Örebro kommun långsiktigt skyddar Garphytteklint och dess artrikedom.\n\nKommunfullmäktige beslutade att motionen är besvarad då Miljö- och stadsbyggnadsförvaltningen delar motionärens åsikt att området bör åtnjuta långsiktigt skydd. Pågår uppdrag för att utreda möjligheten till naturreservatsbildning och parallellt undersöks möjligheten att ingå naturvårdsavtal.\n\nVotering: 47 ja-röster för kommunstyrelsens förslag, 16 nej-röster för bifallsyrkande till motionen.\n\nReservationer från MP, V, KD och L.",
       "category": "miljo",
-      "contested": true,
-      "location": "Garphytteklint",
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "specificka_fastighet",
+      "location_name": "Garphytteklint",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 80",
       "quote": "Motionen innehåller ett förslag om att Örebro kommun långsiktigt skyddar Garphytteklint och den artrikedom som finns där.",
       "quote_page": "s. 12",
@@ -104,93 +493,650 @@
         "for": [
           "S",
           "M",
-          "SD",
           "C",
+          "SD",
           "ÖrP"
         ],
         "against": [
-          "MP",
-          "V",
           "KD",
-          "L"
+          "V",
+          "L",
+          "MP"
         ],
         "abstained": [],
-        "result": "Ansågs besvarad"
+        "result": "Tillgodosedd"
       },
       "tags": [
-        "naturvård",
+        "naturvard",
+        "artrikedom",
         "Garphytteklint",
-        "naturreservat",
-        "artrikedom"
+        "miljo"
       ],
+      "confidence": "hog",
       "id": "2025-03-26_ko_80"
     },
     {
-      "headline": "Flera motioner bordlades för senare behandling",
-      "summary": "Ordföranden Jan Zetterqvist (S) yrkade på att bordlägga återstående ärenden från dagordningen. Efter votering godkändes detta med 45 ja-röster mot 18 nej-röster, trots SD:s protester.",
-      "detail": "Vid slutet av mötet uppstod en procedurell konflikt. Ordförande Jan Zetterqvist (S) yrkade på att alla återstående motioner och ärenden skulle bordläggas för senare behandling. Helena Ståhl (SD) motsatte sig detta och yrkade på att ärendena skulle avgöras samma dag.\n\nEnlig reglerna för propositionsordning ställdes förslagen mot varandra. Fullmäktige röstade: 45 ja-röster för bordläggning mot 18 nej-röster. SD reserverade sig mot beslutet.\n\nBordlades motioner om suicidprevention (Reimfelt/Wallström L), lönekostnader (Ståhl SD), konsulttjänster (Wicklund V), skolklassstorlekar (Liljegren L), och enprocentsregeln (Wicklund V). Detta påverkade många örebropolitiker negativt.",
+      "headline": "Interpellation om bygg- och driftsverksamhetens effektivisering",
+      "human_headline": "Fråga om konkurrensutsättning av byggverksamhet bordlades",
+      "summary": "Patrik Jämtvall (L) interpellerade Kemal Hoso (S) om hur bygg- och driftsverksamheten kan effektiviseras genom konkurrensutsättning. Interpellationen bordlades för andra gången.",
+      "plain_language_summary": "En ledamot ville diskutera om kommunens byggnadsarbete kan göras bättre genom att öppna för konkurrens.",
+      "relevance": null,
+      "detail": "Interpellation anmäld 11 december 2024. Bordlades tidigare och bordlades på nytt 26 mars 2025.",
       "category": "politik",
-      "contested": true,
-      "location": null,
+      "decision_type": "interpellation",
+      "outcome": "bordlagd",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 81",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "byggnation",
+        "konkurrens",
+        "effektivitet"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_81"
+    },
+    {
+      "headline": "Interpellation om trygghetsmiljarden",
+      "human_headline": "Fråga om var pengarna för trygghet gick bordlades",
+      "summary": "Helena Ståhl (SD) interpellerade John Johansson (S) om vad som hände med trygghetsmiljarden. Interpellationen bordlades för andra gången.",
+      "plain_language_summary": "En ledamot ville fråga vart pengarna gick som kommunen avsåg för att öka tryggheten.",
+      "relevance": null,
+      "detail": "Interpellation anmäld 29 januari 2025. Bordlades tidigare och bordlades på nytt 26 mars 2025.",
+      "category": "budget",
+      "decision_type": "interpellation",
+      "outcome": "bordlagd",
+      "routine": true,
+      "routine_reason": "rutinarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 82",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "budget",
+        "trygghet",
+        "pengar"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_82"
+    },
+    {
+      "headline": "Interpellation om företagens rädsla för repressalier från kommunen",
+      "human_headline": "Diskussion om företagare är rädda för kommunen",
+      "summary": "Carola Sunesson (SD) interpellerade Anders Åhrlin (M) om varför företagen är rädda för repressalier från kommunen. Interpellationen débatterades och är färdigbehandlad.",
+      "plain_language_summary": "En ledamot frågade varför företagare verkar vara nervösa för hur kommunen behandlar dem.",
+      "relevance": "Påverkar näringslivsklimat och företagens vilja att investera i kommunen.",
+      "detail": "Interpellation anmäld 25 februari 2025. Carola Sunesson (SD), Anders Åhrlin (M), Markus Allard (ÖrP) och Habib Brini (SD) yttrade sig i interpellationsdebatten. Ärendet är färdigbehandlat.",
+      "category": "naringsliv",
+      "decision_type": "interpellation",
+      "outcome": "besvarad",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 83",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "naringsliv",
+        "företagare",
+        "klimat"
+      ],
+      "confidence": "medel",
+      "id": "2025-03-26_ko_83"
+    },
+    {
+      "headline": "Motion om handlingsplan för suicidprevention - bordlades",
+      "human_headline": "Diskussion om att bekämpa självmord bordlades",
+      "summary": "Johanna Reimfelt och Karolina Wallström (L) motionerade för handlingsplan för suicidprevention. Kommunfullmäktige bordlade ärendet efter att ordföranden föreslog att resterande ärenden bordläggs. Votering genomfördes med 45 ja-röster och 18 nej-röster.",
+      "plain_language_summary": "En motion ville att kommunen gör en handlingsplan för att förhindra självmord. Diskussionen om detta och övriga ärenden skjuts upp till senare.",
+      "relevance": "Påverkar möjligheten att förhindra självmord och stödet till människor i psykisk ohälsa.",
+      "detail": "Motion anmäld 20 april 2024. Kommunstyrelsen behandlade ärendet 18 mars 2025 och föreslogs att motionen ska anses besvarad med motiveringen att arbetet med psykisk hälsa och suicidprevention är ett kommunövergripande arbete.\n\nKommunfullmäktige beslutade att bordlägga ärendet efter votering där ordförandens förslag om att bordlägga resterande ärenden på dagordningen antogs med 45 ja-röster mot 18 nej-röster.\n\nReservationer från SD.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "bordlagd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 84",
-      "quote": "Ordförande Jan Zetterqvist (S) finner att det finns två förslag, det vill säga ordförandens eget yrkande om att ärendena bordläggs respektive Helena Ståhls (SD) yrkande om att resterande ärenden ska avgöras idag.",
-      "quote_page": "s. 17",
+      "quote": "Suicid är tragiska händelser som påverkar människorna runt omkring den person som valt att avsluta sitt liv, och får stor samhällspåverkan.",
+      "quote_page": "s. 16",
       "voting": {
         "for": [
           "S",
           "M",
-          "C",
-          "L",
           "KD",
+          "L",
+          "ÖrP",
           "MP"
         ],
         "against": [
           "SD",
-          "V",
-          "ÖrP"
+          "V"
         ],
         "abstained": [],
-        "result": "Bifall till bordläggning"
+        "result": "Bordlagd"
       },
       "tags": [
-        "procedur",
-        "bordläggning",
-        "politisk taktik"
+        "psykisk halsa",
+        "suicid",
+        "prevention",
+        "handlingsplan"
       ],
+      "confidence": "medel",
       "id": "2025-03-26_ko_84"
+    },
+    {
+      "headline": "Motion om lönekostnad i lönebesked - bordlades",
+      "human_headline": "Fråga om hela lönekostnaden visas bordlades",
+      "summary": "Helena Ståhl (SD) motionerade för att hela lönekostnaden inklusive arbetsgivaravgift redovisas i lönebeskeden. Kommunfullmäktige bordlade ärendet tillsammans med övriga ärenden på dagordningen.",
+      "plain_language_summary": "En motion ville att arbetstagare ska se hela kostnaden för sin lön, inte bara det de får utbetalt.",
+      "relevance": "Påverkar kommunens anställda genom att ge bättre inblick i sina kostnader.",
+      "detail": "Motion från Helena Ståhl (SD) anmäld 20 mars 2024. Förslaget är att hela lönekostnaden inklusive arbetsgivaravgift redovisas. Kommunstyrelsen föreslog att motionen avslås med motiveringen att kommunen inte bör föregripa regeringens utredning och att lönespecifikationerna enkelt och tydligt ska visa utbetald lön. Ärendet bordlades tillsammans med övriga motioner.",
+      "category": "budget",
+      "decision_type": "motion",
+      "outcome": "bordlagd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 85",
+      "quote": "Bedömningen är att motionen ska avslås eftersom Örebro kommun inte bör föregripa den utredning i frågan som påbörjats av regeringen.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "lon",
+        "anstallda",
+        "kostnader"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_85"
+    },
+    {
+      "headline": "Motion om minskning av konsulttjänster - bordlades",
+      "human_headline": "Motion om att spara pengar på konsulter bordlades",
+      "summary": "Martha Wicklund (V) m.fl. motionerade för att halvera kostnaderna för konsulttjänster. Kommunfullmäktige bordlade ärendet tillsammans med övriga motioner. Vänsterpartiet reserverade sig.",
+      "plain_language_summary": "En motion ville att kommunen ska använda mindre konsulter för att spara pengar.",
+      "relevance": "Påverkar kommunens budget och personalbehov.",
+      "detail": "Motion från Martha Wicklund (V), Jaber Fawaz (V), Linn Josefsson (V), Andreas Mäkelä (V), Peter Ekström (V) och Christina Hermansson Plaçon (V) anmäld 12 december 2023, § 443. Förslaget är att kommundirektören får uppdrag att halvera konsultkostnaderna. Kommunledningsförvaltningen föreslog att motionen avslås med motiveringen att kommunen ska bemanna enligt verksamhetens behov. Ärendet bordlades tillsammans med övriga ärenden.",
+      "category": "budget",
+      "decision_type": "motion",
+      "outcome": "bordlagd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 86",
+      "quote": "Motionen innehåller ett förslag om att ge kommundirektören i uppdrag att halvera kostnaderna för köp av konsulttjänster.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "budget",
+        "konsulter",
+        "utgifter"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_86"
+    },
+    {
+      "headline": "Motion om nya delningstal för skolklasser - bordlades",
+      "human_headline": "Motion om mindre klasser för bättre undervisning bordlades",
+      "summary": "Mats-Olof Liljegren (L) motionerade för nya max-gränser för elevantal i klasser. Kommunfullmäktige bordlade ärendet tillsammans med övriga motioner.",
+      "plain_language_summary": "En ledamot ville att klasserna blir mindre för att eleverna ska lära sig bättre.",
+      "relevance": "Påverkar elever och skolors möjlighet att bedriva bra undervisning.",
+      "detail": "Motion från Mats-Olof Liljegren (L) anmäld 22 november 2023. Förslaget innehåller tre förslag: max 20 elever från förskoleklass, max 25 elever från årskurs 4, och max 30 elever från årskurs 7. Förskole- och grundskoleförvaltningen föreslog att motionen avslås med motiveringen att nuvarande system är flexibelt och anpassat efter elevers behov. Ärendet bordlades tillsammans med övriga ärenden.",
+      "category": "skola",
+      "decision_type": "motion",
+      "outcome": "bordlagd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 87",
+      "quote": "Mats-Olof Liljegren (L) föreslår att Kommunfullmäktige ger förvaltningen i uppgift att utreda ett införande av nya delningstal för skolklasser.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "skola",
+        "klassdelning",
+        "elever"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_87"
+    },
+    {
+      "headline": "Motion om utveckling av enprocentsregeln för konst - bordlades",
+      "human_headline": "Diskussion om offentlig konst och samverkan bordlades",
+      "summary": "Martha Wicklund (V) m.fl. motionerade för utveckling av enprocentsregeln för konst. Kommunfullmäktige bordlade ärendet tillsammans med övriga motioner.",
+      "plain_language_summary": "En motion ville att samverkan ska vara regel när kommunen placerar konstverk och att 5 procent av medlen används för samverkan.",
+      "relevance": "Påverkar konstnärlig verksamhet och samverkan kring offentlig konst.",
+      "detail": "Motion från Martha Wicklund (V) m.fl. anmäld 14 februari 2024. Motionen föreslår två åtgärder: att samverkan gällande konstverk ska vara regel och att 5 procent av enprocentsmedlen ska användas till samverkan. Kultur- och fritidsnämnden bedömde att första förslaget redan är tillgodosett och att det andra förslaget bör avslås för att inte begränsa konstnärlig frihet. Ärendet bordlades tillsammans med övriga ärenden.",
+      "category": "kultur",
+      "decision_type": "motion",
+      "outcome": "bordlagd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foreningar"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 88",
+      "quote": "Motionen innehåller förslag på hur Örebro kommun kan utveckla enprocentsregeln.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "konst",
+        "enprocentsregeln",
+        "kultur",
+        "samverkan"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_88"
+    },
+    {
+      "headline": "Motion om att bekämpa oseriösa välfärdsaktörer - bordlades",
+      "human_headline": "Motion om att stoppa fusket i välfärden bordlades",
+      "summary": "Martha Wicklund (V) motionerade för att tillsätta granskningstjänst för privata välfärdsaktörer. Kommunfullmäktige bordlade ärendet tillsammans med övriga motioner. Kommunledningen säger att detta redan arbetas på.",
+      "plain_language_summary": "En motion ville att kommunen granskar privata välfärdsaktörer för att stoppa fusk.",
+      "relevance": "Påverkar välfärdstagare genom möjligheten att få tillförlitlig vård och omsorg.",
+      "detail": "Motion från Martha Wicklund (V) anmäld 20 mars 2024. Förslaget är att tillsätta en tjänst för granskning av privata välfärdsaktörer. Kommunledningen bedömde motionen som tillgodosedd då det redan finns etablerade riktlinjer för avtalsuppföljning och att arbete mot välfärdsbrottslighet redan pågår med en samordnare på Säkerhetsavdelningen. Ärendet bordlades tillsammans med övriga ärenden.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "bordlagd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "aldre",
+        "funktionshindrade"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 89",
+      "quote": "Välfärden är en viktig bärpelare i samhället. Därför är det särskilt viktigt att ha en välfärd som man vet att man kan lita på.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "valfard",
+        "privat",
+        "granskning",
+        "omsorg"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_89"
+    },
+    {
+      "headline": "Motion om välfärd i kommunal regi - bordlades",
+      "human_headline": "Motion om att sluta med privata välfärdsaktörer bordlades",
+      "summary": "Martha Wicklund (V) motionerade för att avsluta LoV (valfrihetssystem) och slutföra privata välfärdskontrakt. Kommunfullmäktige bordlade ärendet tillsammans med övriga motioner.",
+      "plain_language_summary": "En motion ville att kommunen ska stoppa användningen av privata välfärdsföretag.",
+      "relevance": "Påverkar välfärdstagare och välfärdsanstalltda genom möjligheten att välja leverantör.",
+      "detail": "Motion från Martha Wicklund (V) anmäld 20 mars 2024. Motionen yrkar att kommunen ska avsluta LoV och avsluta entreprenader med vinstdrivna företag. Kommunledningen bedömde motionen som avslagen med motiveringen att de enats om att behålla LoV under mandatperioden enligt S-M-C-överenskommelsen. Ärendet bordlades tillsammans med övriga ärenden.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "bordlagd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "aldre",
+        "funktionshindrade",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 90",
+      "quote": "Idag arbetar Örebro kommun enligt LoV, vilket innebär en reglering för vad som ska gälla när upphandlande myndigheter konkurrensutsätter delar av sin verksamhet.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bordlagd"
+      },
+      "tags": [
+        "valfard",
+        "LoV",
+        "privatisering",
+        "omsorg"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_90"
+    },
+    {
+      "headline": "Anmälan av enkla frågor och interpellationer",
+      "human_headline": "Fyra nya interpellationer anmäldes",
+      "summary": "Fyra interpellationer anmäldes till kommande kommunfullmäktigemöte: från David Larsson om förvaltarenhetens framtid, från Helena Ståhl om försvunna elever av hedersrelaterade skäl, från Carola Sunesson om utökad beredskap och från Helena Ståhl om Teknik- och serviceförvaltningen.",
+      "plain_language_summary": "Fyra ledamöter anmälde frågor som de vill ställa vid nästa möte.",
+      "relevance": null,
+      "detail": "Anmäld: Interpellation från David Larsson (SD) till Ulf Södersten (M) om förvaltarenhetens framtid. Interpellation från Helena Ståhl (SD) till Jessica Ekerbring (S) om hur många elever som har försvunnit av hedersrelaterade skäl. Interpellation från Carola Sunesson (SD) till John Johansson (S) om statusen för utökad beredskap. Interpellation från Helena Ståhl (SD) till Johan Kumlin (M) om kaos på Teknik- och serviceförvaltningen.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 91",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "interpellation",
+        "framtid"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_91"
+    },
+    {
+      "headline": "Anmälan av motioner",
+      "human_headline": "Åtta nya motioner anmäldes",
+      "summary": "Åtta nya motioner anmäldes och remitterades till Kommunstyrelsen: färdtjänsterna, kollektivtrafik, exitsamtal för anställda, QR-koder för kulturarv, försäkringar och risker, lärarnas auktoritet, Järntorgets fontän och kortare arbetstid.",
+      "plain_language_summary": "Åtta nya förslag från ledamöter anmäldes och ska behandlas vidare.",
+      "relevance": null,
+      "detail": "Anmälda motioner:\n1. Motion från Karolina Wallström (L) och Johanna Reimfelt (L) om förbättring av färdtjänsten genom att säga upp avtalet med Region Örebro län.\n2. Motion från Bo Ammer (SD) m.fl. om att agera för bättre kollektivtrafik.\n3. Motion från David Larsson (SD) om att införa anonym funktion för tidigare anställda.\n4. Motion från Carola Sunesson (SD) och Bo Ammer (SD) om QR-koder för kulturarv.\n5. Motion från David Larsson (SD) m.fl. om rekommendationer om försäkringar och risker.\n6. Motion från Helena Ståhl (SD) m.fl. om att återupprätta lärarnas auktoritet.\n7. Motion från Helena Ståhl (SD) m.fl. om att riva fontänen på Järntorget.\n8. Motion från Martha Wicklund (V) m.fl. om kortare arbetstid - samma lön.\n\nAlla remitterades till Kommunstyrelsen.",
+      "category": "formellt",
+      "decision_type": "remiss",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 2,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 92",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "motioner",
+        "remiss"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_92"
+    },
+    {
+      "headline": "Anmälan av handlingar",
+      "human_headline": "Inga handlingar anmäldes",
+      "summary": "Inga handlingar anmäldes till kommunfullmäktiges möte 26 mars 2025.",
+      "plain_language_summary": "Inga nya dokument lämnades in till mötet.",
+      "relevance": null,
+      "detail": "Rutinpunkt. Ingen särskild information.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 93",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "handlingar"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-26_ko_93"
     }
   ],
   "motions_of_interest": [
     {
-      "title": "Motion från Karolina Wallström (L) om förbättring av färdtjänsten",
-      "party": "L",
-      "status": "Remitterad"
-    },
-    {
-      "title": "Motion från Bo Ammer (SD) om bättre kollektivtrafik",
-      "party": "SD",
-      "status": "Remitterad"
-    },
-    {
-      "title": "Motion från Helena Ståhl (SD) om att riva fontänen på Järntorget",
-      "party": "SD",
-      "status": "Remitterad"
-    },
-    {
-      "title": "Motion från Helena Ståhl (SD) om lärarnas auktoritet i skolan",
-      "party": "SD",
-      "status": "Remitterad"
-    },
-    {
-      "title": "Motion från Martha Wicklund (V) om kortare arbetstid - samma lön",
+      "title": "Krafttag mot mäns våld mot kvinnor",
       "party": "V",
-      "status": "Remitterad"
+      "status": "delvis_bifallen"
+    },
+    {
+      "title": "Ställplatser för husbilar i Örebro",
+      "party": "KD",
+      "status": "avslagen"
+    },
+    {
+      "title": "Markförvärv för småhusbebyggelse",
+      "party": "SD",
+      "status": "tillgodosedd"
+    },
+    {
+      "title": "Skydda Garphytteklint",
+      "party": "MP",
+      "status": "tillgodosedd"
+    },
+    {
+      "title": "Handlingsplan för suicidprevention",
+      "party": "L",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Redovisa hela lönekostnaden för anställda",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Skära ner på konsulttjänster",
+      "party": "V",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Nya delningstal för skolklasser",
+      "party": "L",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Utveckla enprocentsregeln",
+      "party": "V",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Bekämpa oseriösa välfärdsaktörer",
+      "party": "V",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Välfärd i kommunal regi",
+      "party": "V",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Förbättring av färdtjänsten",
+      "party": "L",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Agera för bättre kollektivtrafik",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Anonym funktion för tidigare anställda",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "QR-koder för Örebro kommuns kulturarv",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Rekommendationer om försäkringar och risker",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Återupprätta lärarnas auktoritet i skolan",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Riva fontänen och återupprätta parkeringarna på Järntorget",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Kortare arbetstid - samma lön",
+      "party": "V",
+      "status": "under_beredning"
     }
   ],
-  "skipped_items_count": 11,
   "organ": "Kommunfullmäktige",
   "meeting_date": "2025-03-26",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-26_Kommunfullmäktige.pdf",
   "status": "ok",
-  "decisions_count": 5
+  "decisions_count": 25
 }
