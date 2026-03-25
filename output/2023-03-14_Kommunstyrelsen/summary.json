@@ -1,371 +1,937 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2023-03-14",
-  "summary_headline": "Budget 2023 antagen trots oppositionsmotstånd, infrastrukturprojekt godkända",
+  "summary_headline": "Budget 2023 antagen. Effektiviseringar på 18 miljoner. Lokalplan 2024-2034 godkänd",
   "decisions": [
     {
-      "headline": "Kommunstyrelsens verksamhetsplan med budget 2023 fastställd",
-      "summary": "Kommunstyrelsen fastställde budgeten för 2023 med krav på 18 miljoner kronor i effektiviseringar. Ett flertal oppositionspartier reserverade sig mot beslutet.",
-      "detail": "Kommunledningsförvaltningen presenterade verksamhetsplan med budget för 2023. Motiveringen var att Örebro kommun står inför utmaningar med demografisk utveckling som ökar välfärdskostnaderna, samtidigt som tillväxttakten avtar. Kommundirektören fick i uppdrag att presentera effektiviseringsförslag på 18 miljoner kronor.\n\nMarkus Allard (ÖrP) yrkade avslag till förmån för Örebropartiets budget. Martha Wicklund (V) yrkade avslag på beslutspunkt 1 och att beslutspunkt 2 återremitterades. Susanne Lindholm (KD) yrkade avslag för Kristdemokraternas budget. Helena Ståhl (SD) yrkade avslag för Sverigedemokraternas budget. Karolina Wallström (L) yrkade avslag för Liberalernas budget.\n\nOrdföranden ställde yrkandena mot varandra. Martha Wicklunds yrkande om återremiss avslogs. Därefter valdes Kommunledningsförvaltningens förslag framför oppositionens avslagsyrkanden.\n\nReservationer lämnades av samtliga oppositionspartier. Kristdemokraterna kritiserade att löften om miljardsatsning mot utanförskap inte finansierades. Liberalerna ville minska förvaltningsorganisationen med 1,6 procent som första steg.",
+      "headline": "Årsredovisning 2022 och verksamhetsresultat presenteras",
+      "human_headline": "Kommunen presenterar sitt årsresultat för 2022",
+      "summary": "Kommunstyrelsen tog del av presentation om verksamhetsresultat för 2022. Endast 13 av 33 verksamhetsmål uppfylldes och 39 av 51 inriktningar genomfördes.",
+      "plain_language_summary": "Kommunen rapporterar att endast ungefär 40 procent av sina mål uppnåddes under 2022, vilket beror på målsättningar som var för höga och svag uppföljning.",
+      "relevance": "Berör alla invånare då det visar om kommunen presterar enligt plan.",
+      "detail": "Informationsärende där Kommunledningsförvaltningen presenterade årsredovisningen för 2022. Endast 13 av 33 verksamhetsmål uppfylldes. Av inriktningarna genomfördes 39 av 51. Anledningarna uppgavs vara för högt ställda mål, visionära utan tillräcklig styrning, för lite resurser och otydlig ansvar. Susanne Lindholm (KD) fick lämna särskilt yttrande om vikten av smartare målsättning enligt SMART-principen. Karolina Wallström (L) och Martha Wicklund (V) deltog inte i beslutet.",
+      "category": "rapport",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare",
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 42",
+      "quote": "Endast 13 av 33 verksamhetsmål är uppfyllda och av inriktningarna är 39 av 51 inriktningar genomförda.",
+      "quote_page": "s. 2",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [
+          "L",
+          "V"
+        ],
+        "result": "Noterad"
+      },
+      "tags": [
+        "årsredovisning",
+        "måluppfyllelse",
+        "verksamhetsmål"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_42"
+    },
+    {
+      "headline": "Kommunstyrelsens verksamhetsplan och budget 2023 fastställs",
+      "human_headline": "Kommunen godkänner budget 2023 med 18 miljoner i effektiviseringar",
+      "summary": "Kommunstyrelsen fastställde verksamhetsplan och budget för 2023. Kommundirektören fick uppdrag att återkomma med förslag på effektiviseringar om 18 miljoner kronor. Fem oppositionspartier reserverade sig.",
+      "plain_language_summary": "Kommunen antar sin budget för 2023 och ger ledningen i uppdrag att spara 18 miljoner kronor genom effektiviseringar under året.",
+      "relevance": "Påverkar alla invånare då det styr kommunens utgifter för välfärd, skola och omsorg.",
+      "detail": "Kommunledningsförvaltningen föreslog att verksamhetsplan med budget 2023 fastställs. Kommundirektören skulle få uppdrag att återkomma med effektiviseringsförslag på 18 miljoner kronor. Kommundirektören fick även delegationsrätt för ombudgering inom verksamhetsområdena.\n\nMartin Allard (ÖrP) yrkat avslag till förmån för Örebropartiets budget. Martha Wicklund (V) yrkat avslag på huvudförslaget med återremiss för redovisning av hur 18 miljoner skulle sparas. Susanne Lindholm (KD) yrkat avslag för Kristdemokraternas budget som innehöll 30 miljoner mer i satsningar. Helena Ståhl (SD) yrkat avslag för Sverigedemokraternas budget. Karolina Wallström (L) yrkat avslag för Liberalernas budget.\n\nOrdföranden John Johansson (S) avvisade Martha Wicklunds återremissyrkande och ställde förslagen mot varandra. Kommunstyrelsen beslöt enligt Kommunledningsförvaltningens förslag.\n\nFem ledamöter från oppositionspartierna reserverade sig mot beslutet.",
       "category": "budget",
-      "contested": true,
-      "location": null,
+      "decision_type": "budget",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "invanare",
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "hog",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 43",
-      "quote": "Stora ord i texten om viktiga områden som kompetensförsörjning, klimat o miljö samt att motverka utanförskap. Det sistnämnde har Socialdemokraterna i valrörelsen lovat miljardsatsning... men när vi läser om uppdraget i KS plan och budget, finns inga pengar avsatta 2023.",
-      "quote_page": "s. 4, yttrande Susanne Lindholm (KD)",
+      "quote": "Kommundirektören får i uppdrag att återkomma med förslag på effektiviseringar i kommunen som uppgår till 18 miljoner kronor.",
+      "quote_page": "s. 3-4",
       "voting": {
         "for": [
           "S",
-          "M"
+          "M",
+          "C",
+          "KD"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "ÖrP",
+          "V",
+          "SD",
+          "L"
+        ],
         "result": "Bifall"
       },
       "tags": [
-        "budget 2023",
+        "budget",
         "effektiviseringar",
-        "välfärd",
-        "kritik från opposition"
+        "verksamhetsplan"
       ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_43"
     },
     {
-      "headline": "Kommunövergripande lokalförsörjningsplan 2024-2034 antagen",
-      "summary": "Kommunstyrelsen antog lokalförsörjningsplanen med 29 prioriterade lokalprojekt, varav 18 är pågående. Flera oppositionspartier reserverade sig mot beslutet.",
-      "detail": "Lokalförsörjningsplanen är en handlingsplan för framtida lokalbehov och investeringsprocess. Planen synliggör 29 prioriterade lokalprojekt.\n\nMarkus Allard (ÖrP) yrkade avslag på hela förslaget. Susanne Lindholm (KD) yrkade återremiss för att undersöka möjligheten att komma ifatt med åtminstone delar av renoveringsbehoven för gruppbostäder. Helena Ståhl (SD) yrkade att objektet 'Vivalla socialkontor, nya ändamålsenliga lokaler' skulle strykas ur planen, med motiveringen att socialkontoret inte hade givit önskade resultat och personalen haft säkerhetsproblem.\n\nOrdföranden avvisade Lindholms yrkande om återremiss och ställde förslagen mot varandra genom acklamation. Kommunledningsförvaltningens ursprungliga förslag antogs. Reservationer lämnades av ÖrP, KD och SD.",
-      "category": "bygg",
-      "contested": true,
-      "location": "Vivalla, Örebro",
-      "paragraph_ref": "§ 46",
-      "quote": "En gruppbostad är inte bara tak över huvudet för en person. Det är ett hem. För en målgrupp som vistas många timmar hemma... här väljer man att spara på en av de svagaste och mest utsatta grupperna.",
-      "quote_page": "s. 8, yttrande Susanne Lindholm (KD)",
+      "headline": "Tillsynsplan 2023 för Kommunstyrelsens egen verksamhet fastställs",
+      "human_headline": "Kommunen fastställer plan för egen kontroll och tillsyn 2023",
+      "summary": "Kommunstyrelsen fastställde tillsynsplan 2023 för sin egen verksamhet baserat på risk- och väsentlighetsanalys.",
+      "plain_language_summary": "Kommunstyrelsen beslutar vilka områden inom sin egen verksamhet som ska kontrolleras extra noga under 2023.",
+      "relevance": null,
+      "detail": "Rutinarende. Enligt Riktlinjer för intern kontroll ska nämnder årligen besluta om tillsynsplan. Kommunledningsförvaltningens avdelningsdirektörer bidrog med underlag för risk- och väsentlighetsanalys enligt Örebro kommuns handbok. Analysen prioriterades genom flera beredningar och resulterade i denna tillsynsplan.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 44",
+      "quote": null,
+      "quote_page": null,
       "voting": {
-        "for": [
-          "S",
-          "M"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
         "result": "Bifall"
       },
       "tags": [
-        "lokalförsörjning",
-        "gruppbostäder",
-        "renovation",
-        "Vivalla socialkontor"
+        "intern kontroll",
+        "tillsyn",
+        "riskanalys"
       ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_44"
+    },
+    {
+      "headline": "Reviderad instruktion för kommundirektör antas",
+      "human_headline": "Kommunen antar ny instruktion för sin högste tjänsteman",
+      "summary": "Kommunstyrelsen antog reviderad instruktion för kommundirektör med tillägg om uppsiktsplikt, krishantering och civilt försvar.",
+      "plain_language_summary": "Kommunstyrelsen fastställer nya regler för hur kommundirektören ska arbeta, med förtydligade krav på krishantering och säkerhet.",
+      "relevance": null,
+      "detail": "Rutinarende. Instruktionen reviderades på grund av ny politisk organisation och förändrad förvaltningsorganisation. Tillägg gjordes om kommundirektörens uppdrag att bistå Kommunstyrelsen i uppsiktsplikt och hantering av kris och extraordinära händelser samt grundläggande civilt försvar.",
+      "category": "formellt",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "Teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 45",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "instruktion",
+        "kommundirektör",
+        "styrning"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_45"
+    },
+    {
+      "headline": "Kommunövergripande lokalförsörjningsplan 2024-2034 antagen",
+      "human_headline": "Kommunen antar plan för sina lokalbehov 2024-2034",
+      "summary": "Kommunstyrelsen antog lokalförsörjningsplan 2024-2034 med 29 prioriterade lokalprojekt varav 18 redan pågår. Tre oppositionspartier reserverade sig.",
+      "plain_language_summary": "Kommunen fastställer en långsiktig plan för vilka lokaler den behöver under de kommande tio åren, med 29 prioriterade projekt.",
+      "relevance": "Påverkar invånare genom lokalernas påverkan på skolkvalitet, äldreomsorgsstandard och andra välfärdstjänster.",
+      "detail": "Lokalförsörjningsplanen är en handlingsplan som synliggör framtida lokalbehov och utgör underlag för investeringsprocessen. Under prognosperioden prioriterades 29 lokalprojekt varav 18 var redan pågande.\n\nMarkus Allard (ÖrP) yrkat avslag på hela förslaget. Susanne Lindholm (KD) yrkat på återremiss för att se över möjligheten att komma ifatt med åtminstone delar av renoveringsbehoven för gruppbostäder. Helena Ståhl (SD) yrkat att objektet Vivalla socialkontor stryks ur planen.\n\nOrdföranden avvisade återremissyrkandet och ställde förslagen mot varandra genom acklamation. Kommunstyrelsen beslöt enligt Kommunledningsförvaltningens förslag.\n\nTre oppositionspartier reserverade sig.",
+      "category": "infrastruktur",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Vivalla",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 46",
+      "quote": "Under prognosperioden prioriteras 29 lokalprojekt varav 18 är pågående.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "KD",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "lokaler",
+        "infrastruktur",
+        "gruppbostäder",
+        "Vivalla"
+      ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_46"
     },
     {
-      "headline": "GIS-integration och krisberedskap i lokalförsörjningen får 1,8 miljoner",
-      "summary": "Kommunstyrelsen avsatte 1,8 miljoner kronor för att integrera GIS-system i kommunens lokalförsörjning för att förbättra överblicken över lokalbeståndet.",
-      "detail": "Stora flyktingströmmar, ökade säkerhetskrav och krisberedskap ställer höga krav på Lokalförsörjningsavdelningen. Arbetet med att integrera GIS planeras i flera etapper från 2022-2023. Ny budget behövdes för att fortsätta arbetet.\n\nMarkus Allard (ÖrP) yrkade avslag. Ordföranden ställde förslagen mot varandra och Kommunledningsförvaltningens förslag antogs. Kostnaden finansierades genom Kommunstyrelsens medel för oförutsedda behov.",
+      "headline": "1,8 miljoner kronor avsätts för GIS-integration i lokalförsörjning",
+      "human_headline": "Kommunen betalar 1,8 miljoner för digital kartöversikt över sina lokaler",
+      "summary": "Kommunstyrelsen avsatte 1,8 miljoner kronor för att integrera GIS i lokalförsörjningsprocessen för bättre överblick över lokalbeståndet.",
+      "plain_language_summary": "Kommunen investerar 1,8 miljoner i ett datasystem som gör det lättare att se var alla kommunens lokaler finns och hur de används.",
+      "relevance": "Indirekt påverkan genom att kommunen får bättre förutsättningar att hantera krisberedskap och flyktingströmmar.",
+      "detail": "Arbetet med att integrera GIS (geografiskt informationssystem) i lokalförsörjningen planerades i flera etapper 2022-2023. Stora flyktingströmmar, säkerhetskrav och krisberedskap ställer höga krav på överblick över lokalbeståndet. Markus Allard (ÖrP) yrkat avslag. Kommunstyrelsen beslöt enligt Kommunledningsförvaltningens förslag. Kostnaden finansierades genom medel för oförutsedda behov.",
       "category": "infrastruktur",
-      "contested": true,
-      "location": null,
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 47",
-      "quote": "Arbetet med att integrera GIS i lokalförsörjningen planeras att genomföras i flera etapper som sträcker sig från 2022–2023. För att fortgå med arbetet krävs nytt beslut i Kommunstyrelsen för fortsatt tillgång till tidigare beviljade medel.",
-      "quote_page": "s. 9",
+      "quote": "Kommunstyrelsen avsätter 1,8 miljoner kronor till Lokalförsörjningsavdelningen för att genomföra arbetet med att integrera GIS i kommunens lokalförsörjning.",
+      "quote_page": "s. 8",
       "voting": {
         "for": [
           "S",
-          "M"
+          "M",
+          "C",
+          "L",
+          "KD"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "ÖrP"
+        ],
         "result": "Bifall"
       },
       "tags": [
-        "GIS-integration",
+        "GIS",
+        "lokaler",
         "krisberedskap",
-        "lokalförsörjning",
-        "1,8 miljoner"
+        "IT"
       ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_47"
     },
     {
-      "headline": "Planrelaterade kostnader för Aspholmen-projektet godkända",
-      "summary": "Kommunstyrelsen godkände plankostnader på 650 000 kronor för detaljplan avseende parkstråk och cirkulationsplatser i Aspholmen.",
-      "detail": "Som del av planprogrammet för Aspholmen/Nasta pågår detaljplanering för anläggningar på allmän plats. Kostnaderna för planavgift och utredningar uppgick till cirka 650 000 kronor för 2023.\n\nMarkus Allard (ÖrP) yrkade avslag. Helena Ståhl (SD) yrkade bifall till plankostnader för parkstråket och cirkulationsplatsen på södra vägen, men inte för cirkulationsplatsen på södra infartsleden, som hon ansåg skulle leda till trafikstockningar och buller.\n\nOrdföranden ställde förslagen mot varandra och Miljö- och stadsbyggnadsförvaltningens ursprungliga förslag antogs. Kostnaden finansierades genom Kommunstyrelsens medel för oförutsedda behov. Reservationer lämnades av ÖrP och SD.",
+      "headline": "Plankostnader för Aspholmen trafikåtgärder godkänns (650 000 kr)",
+      "human_headline": "Kommunen godkänner 650 000 kronor för trafikplan i Aspholmen",
+      "summary": "Kommunstyrelsen godkände planrelaterade kostnader om 650 000 kronor för detaljplan avseende parkstråk och cirkulationsplatser i Aspholmen.",
+      "plain_language_summary": "Kommunen beslutar att spendera 650 000 kronor på att planera trafiklösningar och ett parkstråk i området Aspholmen.",
+      "relevance": "Påverkar invånare och verksamhetsidkare i Aspholmen/Nasta genom nya trafikflöden och parkområden.",
+      "detail": "Detaljplanen för Aspholmen/Nasta innehöll nödvändiga anläggningar på allmän plats för att möjliggöra utveckling enligt planprogrammet. Projektet omfattade planläggning av ett parkstråk längs gamla industrispåren, cirkulationsplats på södra vägen och cirkulationsplats på södra infartsleden.\n\nMarkus Allard (ÖrP) yrkat avslag. Helena Ståhl (SD) yrkat ändringsyrkande att stryka cirkulationsplats på södra infartsleden då det kan leda till trafikstockningar.\n\nOrdföranden ställde förslagen mot varandra. Kommunstyrelsen beslöt enligt Miljö- och stadsbyggnadsförvaltningens förslag. Två oppositionspartier reserverade sig.",
       "category": "infrastruktur",
-      "contested": true,
-      "location": "Aspholmen, Örebro",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "foretagare"
+      ],
+      "geographic_scope": "specifik_fastighet",
+      "location_name": "Aspholmen",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 48",
-      "quote": "Exploateringsenheten efterfrågar utökade budgetmedel för att täcka kostnaderna för planläggning av marken för att möjliggöra byggnation av anläggningarna.",
-      "quote_page": "s. 10",
+      "quote": "Godkänna plankostnader (planavgift och utredningar) för detaljplaneprocess i syfte att planlägga ett parkstråk längs de gamla industrispåren samt cirkulationsplats på södra vägen och cirkulationsplats på södra infartsleden.",
+      "quote_page": "s. 9-10",
       "voting": {
         "for": [
           "S",
-          "M"
+          "M",
+          "C",
+          "L",
+          "KD"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "ÖrP",
+          "SD"
+        ],
         "result": "Bifall"
       },
       "tags": [
         "Aspholmen",
-        "planering",
+        "trafikplan",
         "parkstråk",
-        "cirkulationsplats",
-        "650 000 kronor"
+        "cirkulationsplats"
       ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_48"
     },
     {
-      "headline": "Reservationsavtal med ÖBO för vård- och omsorgsboende i Brickebacken godkänt",
-      "summary": "Kommunstyrelsen godkände reservationsavtal för markförsäljning till ÖBO Omsorgsfastigheter AB för nybyggnation av vård- och omsorgsboende trots oppositionskritik om konkurrens.",
-      "detail": "Miljö- och stadsbyggnadsförvaltningen föreslog att Örebro kommun ingår reservationsavtal med ÖBO Omsorgsfastigheter AB för markförsäljning i Brickebacken. Marken skulle reserveras fram till 30 november 2023. Markförsäljningen genomfördes enligt kommunens markanvisningsprocess.\n\nSusanne Lindholm (KD) yrkade avslag och föreslög i stället sedvanligt anbudsförfarande eller marknadsanvisningstävling för att säkra konkurrens och kreativitet. Helena Ståhl (SD) stödde detta yrkande.\n\nKristdemokraterna kritiserade direktanvisningen och hänvisade till kommunens egna riktlinjer om att eftersträva mångfald bland bostadsproducenter för goda konkurrensförhållanden. De menade att konkurrens genererar billigare hyror.\n\nOrdföranden ställde förslagen mot varandra och Markplanerings- och exploateringsnämndens förslag antogs. Reservationer lämnades av KD och SD.",
+      "headline": "Reservationsavtal för vård- och omsorgsboende i Brickebacken godkänns",
+      "human_headline": "Kommunen säljer mark till ÖBO för vård- och omsorgsboende",
+      "summary": "Kommunstyrelsen godkände reservationsavtal för markförsäljning till ÖBO Omsorgsfastigheter AB för vård- och omsorgsboende i Brickebacken. Två oppositionspartier reserverade sig.",
+      "plain_language_summary": "Kommunen beslutar att sälja mark till företaget ÖBO för att bygga ett nytt vård- och omsorgsboende i stadsdelen Brickebacken.",
+      "relevance": "Påverkar äldre invånare och deras anhöriga genom möjlighet till nya omsorgsplatser.",
+      "detail": "Miljö- och stadsbyggnadsförvaltningen föreslog reservationsavtal med ÖBO Omsorgsfastigheter AB för markförsäljning enligt Örebromodellen. Förstu­dien hade godkänts av tidigare Stadsbyggnadsnämnden. Marken skulle reserveras fram till 30 november 2023.\n\nSusanne Lindholm (KD) yrkat avslag och att fastigheten i stället säljs via sedvanligt förfarande med inkomna anbud och urvalsprocess eller via marknadsanvisningstävling för att skapa större konkurrens. Helena Ståhl (SD) yrkat bifall till detta.\n\nOrdföranden ställde förslagen mot varandra. Kommunstyrelsen beslöt enligt Markplanerings- och exploateringsnämndens förslag. Två oppositionspartier reserverade sig.",
       "category": "bygg",
-      "contested": true,
-      "location": "Brickebacken, Örebro",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "aldre"
+      ],
+      "geographic_scope": "specifik_fastighet",
+      "location_name": "Brickebacken",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 49",
-      "quote": "Örebro kommun eftersträvar vid valet av byggherre en mångfald bland bostadsproducenter i Örebro för att det ska finnas goda konkurrensförhållanden på marknaden.",
-      "quote_page": "s. 12, yttrande Susanne Lindholm (KD)",
+      "quote": "Reservationsavtal om att sälja mark till ÖBO Omsorgsfastigheter AB godkänns.",
+      "quote_page": "s. 11",
       "voting": {
         "for": [
           "S",
-          "M"
+          "M",
+          "C",
+          "L"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "KD",
+          "SD"
+        ],
         "result": "Bifall"
       },
       "tags": [
-        "ÖBO",
+        "markförsäljning",
         "vård- och omsorgsboende",
         "Brickebacken",
-        "markförsäljning",
-        "konkurrens"
+        "ÖBO"
       ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_49"
     },
     {
-      "headline": "Trafikplats Norra Marieberg: 34 procent kostnadsökning godkänd",
-      "summary": "Kommunstyrelsen godkände 34 procent kostnadsökning för trafikplatsprojektet från 109 till 149 miljoner kronor trots kritik från opposition om bristande underlag.",
-      "detail": "Trafikplatsen över E20 är planerad för Norra Marieberg och Palmbohult. Ursprunglig budget 2021 var 109 miljoner kronor. På grund av världshändelser, material- och energikostnadsstegringar beräknades kostnaden öka till cirka 149 miljoner kronor, en ökning på 34 procent.\n\nHittills nedlagda kostnaderna var cirka 6 miljoner kronor. Byggstart planerades till hösten 2023, och upphandling skulle ske i april. Kostnaden skulle finansieras genom intäkter från tomtförsäljningar i planområdena.\n\nMartha Wicklund (V) yrkade återremiss för mer utförlig kalkyl och möjligheter att sänka kostnaderna, samt att kommunen skulle ta fram plan för att stärka gång- och cykeltrafik och placering av busshållsplatser.\n\nMarkus Allard (ÖrP) yrkade i första hand återremiss för fullständiga uppgifter och kalkyler, i andra hand avslag. Han påpekade att oppositionens tidigare varningar om att kalkylerna inte skulle hålla hade visat sig riktiga.\n\nOrdföranden avvisade båda yrkandena om återremiss. Markplanerings- och exploateringsnämndens förslag antogs. Ärendet skulle vidare till Kommunfullmäktige. Reservationer lämnades av V och ÖrP.",
+      "headline": "Kostnadsökning på 40 miljoner för trafikplats Norra Marieberg godkänns",
+      "human_headline": "Kommunen godkänner 40 miljoner kronor dyrare trafikplats",
+      "summary": "Kommunstyrelsen godkände kostnadsökning från 109 miljoner till cirka 149 miljoner kronor för trafikplats över E20 vid Norra Marieberg. Två oppositionspartier reserverade sig.",
+      "plain_language_summary": "Kommunen beslutar att trafikplatsen kommer kosta 149 miljoner kronor i stället för tidigare budgeterad 109 miljoner kronor på grund av högre material- och energikostnader.",
+      "relevance": "Påverkar invånare i Norra Marieberg och Palmbohult genom trafikförbättring. Påverkar alla invånare genom större investeringskostnad.",
+      "detail": "Trafikplatsen över E20 ingick i detaljplanerna för verksamhetsområdena Norra Marieberg och Palmbohult för att möjliggöra god tillgänglighet och bättre trafikfördelning. Trafikverket beställdes 2021 till budgeterad kostnad 109 miljoner kronor enligt medfinansierings- och samverkansavtal.\n\nGrund av rådande världsläge med ökade material- och energikostnader beräknades budgeten överskridas med ca 34 procent, ny beräknad kostnad cirka 149 miljoner kronor. Hittills nedlagda kostnader för projektering cirka 6 miljoner. Byggstart tidsatt till hösten 2023, upphandling i april.\n\nMartha Wicklund (V) yrkat återremiss för mer utförlig kalkyl och möjligheter att sänka kostnader. Markus Allard (ÖrP) yrkat återremiss för kompletterade uppgifter, i andra hand avslag.\n\nOrdföranden avvisade återremissyrkandena. Kommunstyrelsen beslöt enligt Markplanerings- och exploateringsnämndens förslag. Ärendet ska till Kommunfullmäktige. Två oppositionspartier reserverade sig.",
       "category": "infrastruktur",
-      "contested": true,
-      "location": "Norra Marieberg, Örebro",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "specifik_fastighet",
+      "location_name": "Norra Marieberg",
+      "controversial_level": "hog",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 50",
-      "quote": "Beroende av rådande världsläge med ökade material och energikostnader beräknas den tidigare beslutade budgeten överskridas med ca 34 %. Den nya beräknade kostnaden förväntas bli 149 miljoner kronor.",
+      "quote": "En kostnadsökning om ca 34 % i projektet godkänns och det föreligger inte något behov av ett nytt medfinansieringsavtal.",
       "quote_page": "s. 13",
       "voting": {
         "for": [
           "S",
-          "M"
+          "M",
+          "C",
+          "L",
+          "KD"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
         "result": "Bifall"
       },
       "tags": [
-        "trafikplats Norra Marieberg",
+        "trafikplats",
         "E20",
-        "149 miljoner",
-        "kostnadsökning",
-        "infrastruktur"
+        "Norra Marieberg",
+        "kostnadsökning"
       ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_50"
     },
     {
-      "headline": "Instruktion för kommundirektör reviderad",
-      "summary": "Kommunstyrelsen antog reviderad instruktion för kommundirektör med nya uppgifter inom uppsiktsplikt, krisberedskap och civilt försvar.",
-      "detail": "Med anledning av ny politisk organisation och förändrad förvaltningsorganisation reviderades kommundirektörens instruktion. Tilläggen gällde att bistå Kommunstyrelsen i dess uppsiktsplikt, att säkerställa organisation med god förmåga att hantera kris och extraordinära händelser, samt grundläggande förmåga till civilt försvar.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 45",
-      "quote": "Med anledning av ny politisk organisation och en förändrad förvaltningsorganisation behöver instruktionen revideras och samtidigt föreslås ett par tillägg till instruktionen.",
-      "quote_page": "s. 6",
+      "headline": "Ärendet utgår - Riktlinje för nationella minoriteter och minoritetsspråk",
+      "human_headline": "Ärendet behandlas inte",
+      "summary": "Ärendet utgick från dagordningen.",
+      "plain_language_summary": "Ärendet behandlades inte vid mötet.",
+      "relevance": null,
+      "detail": "Ärendet utgick.",
+      "category": "formellt",
+      "decision_type": "ovrigt",
+      "outcome": "bordlagd",
+      "routine": true,
+      "routine_reason": "Teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 54",
+      "quote": null,
+      "quote_page": null,
       "voting": {
         "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bordlagd"
       },
       "tags": [
-        "kommundirektör",
-        "instruktion",
-        "krisberedskap",
-        "civilt försvar"
+        "minoriteter",
+        "minoritetsspråk"
       ],
-      "id": "2023-03-14_ko_45"
+      "confidence": "hog",
+      "id": "2023-03-14_ko_54"
     },
     {
-      "headline": "Tillsynsplan 2023 för Kommunstyrelsens verksamhet fastställd",
-      "summary": "Kommunstyrelsen fastställde tillsynsplan 2023 baserad på risk- och väsentlighetsanalys av verksamheten.",
-      "detail": "I enlighet med riktlinjer för intern kontroll i Örebro kommun fastställs årlig tillsynsplan. Avdelningsdirektörer bidrog till risk- och väsentlighetsanalys enligt handbok 'Bätter koll med intern kontroll'. Fördjupade analyser genomfördes med sakkunniga. Prioriteringar och urval genomfördes för vidare förankring.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 44",
-      "quote": "I enlighet med Riktlinjer för intern kontroll i Örebro kommun ska nämnderna och bolagen varje år besluta om en tillsynsplan för uppföljning av intern kontroll.",
-      "quote_page": "s. 5",
+      "headline": "Rättegångsfullmakt för kommunens jurister 2023-2026 godkänns",
+      "human_headline": "Kommunen ger sina jurister rätt att föra tvister i domstol",
+      "summary": "Kommunstyrelsen befullmäktigade sju jurister att företräda kommunen vid domstolar och andra myndigheter.",
+      "plain_language_summary": "Kommunstyrelsen ger sina jurister officiell rätt att föra kommunens juridiska ärenden i domstolar.",
+      "relevance": null,
+      "detail": "Rutinarende. Chefsjuristen Pernilla Wikström Pehrson och kommunjuristerna Per Undén, Rickard Samuelsson, Gustav Grek, Åsa Lindborg, Johanna Wilking och Hanne Nielsen befullmäktigades att vid domstolar och övriga myndigheter företräda kommunen i mål och ärenden, ingå förlikningar och hantera konkursärenden. Fullmakten behövde uppdateras för ny anställd Hanne Nielsen.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "Delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 55",
+      "quote": null,
+      "quote_page": null,
       "voting": {
         "for": [],
-        "against": [],
-        "abstained": [],
-        "result": "Enhälligt"
-      },
-      "tags": [
-        "tillsynsplan",
-        "intern kontroll",
-        "risk- och väsentlighetsanalys"
-      ],
-      "id": "2023-03-14_ko_44"
-    },
-    {
-      "headline": "Motion om dans för hälsa i skolor avslagen trots stöd",
-      "summary": "Kommunstyrelsen fastslöog att motion om att permanenta 'Dans för hälsa' ansågs tillgodosedd, men oppositionen ville se det som besvarad.",
-      "detail": "Gunilla Werme (L) hade motionerat om att permanenta 'Dans för hälsa' som del av skolors hälsofrämjande arbete. Bedömningen var att intentionerna redan uppfylldes då verksamheten placerats under Förvaltningen för utbildning och finansierades genom elevhälsosatsning. En utredning skulle fortsätta under läsåret för att finna långsiktigt hållbar lösning.\n\nKarolina Wallström (L) yrkade att motionen skulle anses besvarad. Susanne Lindholm (KD) stödde detta.\n\nOrdföranden ställde förslagen mot varandra. Kommunledningsförvaltningens förslag (tillgodosedd) antogs framför yrkandet om 'besvarad'. Liberalerna och KD reserverade sig.\n\nEn notering gjordes att Karolina Wallström senare skickade in en rättelse angående sitt yrkande - hon hade ämnat yrka bifall till motionen.",
-      "category": "skola",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 56",
-      "quote": "Motionen innehåller ett förslag om att permanenta 'Dans för hälsa' som en del i skolors och kommunens hälsofrämjande arbete och därmed förebygga psykisk ohälsa hos barn och ungdomar.",
-      "quote_page": "s. 16",
-      "voting": {
-        "for": [
-          "S",
-          "M"
-        ],
         "against": [],
         "abstained": [],
         "result": "Bifall"
       },
       "tags": [
-        "Dans för hälsa",
-        "elevhälsa",
-        "psykisk ohälsa",
-        "barn och ungdomar"
+        "rättegångsfullmakt",
+        "jurister"
       ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_55"
+    },
+    {
+      "headline": "Motion om Dans för hälsa anses tillgodosedd",
+      "human_headline": "Kommunen anser motionen om Dans för hälsa redan uppfylld",
+      "summary": "Kommunstyrelsen ansåg motionen från Gunilla Werme (L) om att permanenta Dans för hälsa redan vara tillgodosedd genom befintlig elevhälsosatsning.",
+      "plain_language_summary": "Kommunen säger att förslaget om att permanenta Dans för hälsa redan är uppfyllt genom befintligt hälsoprogram i skolorna.",
+      "relevance": "Påverkar elever och vardnadshavare då det gäller hälsofrämjande arbete i skolor.",
+      "detail": "Motion anmäld i Kommunfullmäktige 27 april 2022 från Gunilla Werme (L) föreslog att permanenta Dans för hälsa som del i skolors hälsofrämjande arbete för att förebygga psykisk ohälsa. Bedömningen var att motionens intentioner redan uppfylldes genom elevhälsosatsning under läsåret ht-22 till vt-23 under Förvaltningen för utbildning, försörjning och arbete. Frågan om verksamhetens hemvist skulle fortsätta utredas för långsiktigt hållbar lösning.\n\nKarolina Wallström (L) yrkat att motionen anses besvarad (ej tillgodosedd). Susanne Lindholm (KD) yrkat bifall till detta. Ordföranden ställde förslagen mot varandra. Kommunstyrelsen beslöt enligt Programnämnd barn och utbildnings förslag. Två ledamöter reserverade sig.\n\nNotering: Efter mötet skickade Karolina Wallström rättelse på sitt yrkande - hon avsåg bifall till motionen.",
+      "category": "skola",
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 56",
+      "quote": "Motionen anses tillgodosedd.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "KD"
+        ],
+        "result": "Tillgodosedd"
+      },
+      "tags": [
+        "dans för hälsa",
+        "elevhälsa",
+        "motion",
+        "psykisk ohälsa"
+      ],
+      "confidence": "medel",
       "id": "2023-03-14_ko_56"
     },
     {
-      "headline": "Motion om bilfri zon på Stortorget avslagen",
-      "summary": "Motion från Miljöpartiet de gröna om att göra nedre delen av Stortorget till bilfri zon avsloges.",
-      "detail": "Maria Sääf (MP) m.fl. motionerade för att omvandla parkeringen på nedre delen av Stortorget till en bilfri zon för att minska trafik, utsläpp och buller. Bedömningen var att detaljplanen för Hållstugan redan skulle reducera parkeringen på Stortorgets nedre del, men de kvarvarande platserna ansågs värdefulla för lokal handel. Motionen avsloges.",
-      "category": "ovrigt",
-      "contested": false,
-      "location": "Stortorget, Örebro",
+      "headline": "Motion om bilfri zon på Stortorget avslås",
+      "human_headline": "Kommunen säger nej till bilfri zon på Stortorget",
+      "summary": "Kommunstyrelsen avslog motion från Miljöpartiet de gröna (MP) om att omvandla parkeringen på nedre delen av Stortorget till bilfri zon.",
+      "plain_language_summary": "Kommunen avslår förslaget att göra nedre delen av Stortorget bilfri för att minska trafik och buller.",
+      "relevance": "Påverkar invånare och handelsdrivande i Stortorget-området genom trafikflöden och parkeringsmöjligheter.",
+      "detail": "Motion anmäld i Kommunfullmäktige 14 juni 2021 från Miljöpartiet föreslog bilfri zon på nedre Stortorget för att minska trafik, utsläpp och buller samt göra platsen levande och trivsam. Bedömningen var att genomförandet av detaljplanen för Hållstugan skulle reducera parkeringsplatser på Stortorgets nedre del men att återstående platser av värde för lokal handel behölls. Förslaget var att motionen avslås.",
+      "category": "politik",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare",
+        "foretagare"
+      ],
+      "geographic_scope": "specifik_fastighet",
+      "location_name": "Stortorget",
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 57",
-      "quote": "Motionen innehåller ett förslag om att göra om parkeringen på nedre delen av Stortorget till en bilfri zon för att på så sätt minska trafiken och därmed utsläpp och buller från bilar.",
+      "quote": "Motionen avslås.",
       "quote_page": "s. 17",
       "voting": {
         "for": [],
-        "against": [
-          "S",
-          "M"
-        ],
+        "against": [],
         "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
         "Stortorget",
         "bilfri zon",
         "miljö",
-        "parkering"
+        "motion"
       ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_57"
     },
     {
-      "headline": "Motion om att slopa solcellsavgifter avslagen",
-      "summary": "Motion från ÖrP om att slopa avgifter för solceller avsloges. SD yrkade det skulle anses besvarad med uppdrag om effektivisering.",
-      "detail": "Markus Allard (ÖrP) och Peter Springare (ÖrP) motionerade för att sloppa avgifter för lov och anmälan av solcellsmontage. Bedömningen var att kommunens rådgivning och servicecenter som hjälper hitta vägar för att undvika bygglov skapar större incitament än borttagande av avgiften.\n\nMarkus Allard yrkade bifall. Helena Ståhl (SD) yrkade att motionen skulle anses besvarad under förutsättning att Bygglovsenheten fick uppdrag att effektivisera processer för att minska kostnaderna för bygglov.\n\nOrdföranden ansåg att Helena Ståhls yrkande väckte ett nytt ärende och borde anmälas som egen motion. Kommunledningsförvaltningens förslag (avslag) antogs. Reservationer lämnades av ÖrP och SD.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": null,
+      "headline": "Motion om solcellsavgifter avslås",
+      "human_headline": "Kommunen säger nej till att slopa avgifter för solceller",
+      "summary": "Kommunstyrelsen avslog motion från Markus Allard och Peter Springare (ÖrP) om att slopa bygglovsavgifterna för solcellsanläggningar.",
+      "plain_language_summary": "Kommunen vägrar att ta bort avgifterna för att få lov att installera solceller på sitt hus.",
+      "relevance": "Påverkar husägare som vill installera solceller genom att avgifterna kvarstår.",
+      "detail": "Motion anmäld i Kommunfullmäktige 28 september 2022 föreslog att avgifterna för lov/anmälan vid montering av solceller skulle sättas till 0 kronor. Bedömningen var att det stöd genom rådgivning och servicecenter som kommunen erbjuder för att hitta vägar utan bygglov skapar större incitament för fler solcellsanläggningar än borttagning av bygglovsavgift.\n\nMarkus Allard (ÖrP) yrkat bifall till motionen. Helena Ståhl (SD) yrkat att motionen anses besvarad under förutsättning att Bygglovsenheten får uppdrag att effektivisera processer för att minska bygglovskostnader.\n\nOrdföranden ställde Kommunledningsförvaltningens förslag och Markus Allards yrkande mot varandra. Kommunstyrelsen beslöt enligt Kommunledningsförvaltningens förslag. Två oppositionspartier reserverade sig.",
+      "category": "miljo",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 58",
-      "quote": "Motionen innehåller förslag om att avgifterna som Örebro kommun debiterar i samband med lov och/eller anmälan av montering av solceller sätts till 0 kronor, alltså slopas.",
+      "quote": "Motionen avslås.",
       "quote_page": "s. 18",
       "voting": {
-        "for": [],
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
         "against": [
           "ÖrP"
         ],
-        "abstained": [],
-        "result": "Avslaget"
+        "abstained": [
+          "SD"
+        ],
+        "result": "Avslagen"
       },
       "tags": [
         "solceller",
-        "bygglovsavgift",
-        "miljö",
-        "effektivisering"
+        "bygglov",
+        "avgifter",
+        "ernybara energi"
       ],
+      "confidence": "hog",
       "id": "2023-03-14_ko_58"
     },
     {
-      "headline": "Motion om hastighetsgräns i centrala Örebro avslagen",
-      "summary": "Motion om att införa generell 30 km/h-gräns i centrala Örebro avsloges. Ordföranden själv yrkade avslag.",
-      "detail": "Marcus Willén Ode (MP), Maria Sääf (MP) och Pontus Olofsson (MP) motionerade för att införa 30 km/h i centrala Örebro. Bedömningen var att de centrala delarna redan har sådan gräns, och en utökning skulle påverka negativt. Kommunen arbetar med att sänka hastigheten på huvudlederna men bedömde att de inte bör vara lägre än 40 km/h för att vara attraktiva vägval.\n\nOrdföranden John Johansson (S) yrkade själv avslag. Markus Allard (ÖrP) stödde detta. Motionen avsloges.",
-      "category": "ovrigt",
-      "contested": false,
-      "location": "Örebro centrum",
-      "paragraph_ref": "§ 59",
-      "quote": "Motionen innehåller ett förslag om att införa en generell hastighetsgräns på högst 30 km/h i centrala Örebro.",
-      "quote_page": "s. 19-20",
-      "voting": {
-        "for": [],
-        "against": [
-          "MP"
-        ],
-        "abstained": [],
-        "result": "Avslaget"
-      },
-      "tags": [
-        "hastighetsgräns",
-        "30 km/h",
-        "trafiksäkerhet",
-        "centrum"
+      "headline": "Motion om 30 km/h i centrala Örebro avslås",
+      "human_headline": "Kommunen säger nej till lägre hastighet i centrum",
+      "summary": "Kommunstyrelsen avslog motion från Miljöpartiet om att införa generell hastighetsgräns på högst 30 km/h i centrala Örebro.",
+      "plain_language_summary": "Kommunen avslår förslaget att sänka hastighetsgränsen till 30 km/h i centrala Örebro.",
+      "relevance": "Påverkar bilister i centrala Örebro genom trafikregler.",
+      "detail": "Motion anmäld i Kommunfullmäktige 14 juni 2021 från Marcus Willén Ode, Maria Sääf och Pontus Olofsson (MP) föreslog generell hastighetsgräns på högst 30 km/h i centrala Örebro och att Tekniska förvaltningen skulle få i uppdrag att lämna förslag på lämpligt hastighetsområde. Bedömningen var att centrala delarna redan har 30 km/h hastighetsgräns och utökning skulle påverka negativt. Kommunen arbetar med att sänka hastighet på ringlederna men bedömde att 40 km/h är minimum för att behålla attraktiva vägval. Förslaget var att motionen anses tillgodosedd.\n\nOrdförande John Johansson (S) yrkat avslag på motionen. Markus Allard (ÖrP) yrkat samma. Ordföranden ställde sitt yrkande som huvudförslag och fattade beslut enligt detta.",
+      "category": "trygghet",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "bilister",
+        "invanare"
       ],
-      "id": "2023-03-14_ko_59"
-    },
-    {
-      "headline": "Rättegångsfullmakt för kommunens jurister 2023-2026 bifallen",
-      "summary": "Kommunstyrelsen befullmäktigade kommunens jurister att företräda Örebro kommun i rättsliga sammanhang, inklusive ny jurist Hanne Nielsen.",
-      "detail": "Befullmäktigning avseende kommunjuristerna för att företräda kommunen vid domstolar, myndigheter och inför skiljemän. Förändringen gällde att ny jurist Hanne Nielsen lades till befullmäktningen. Innehållsmässigt föreslogs fullmakten gälla oförändrad.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 55",
-      "quote": "Enligt Kommunstyrelsens beslut den 23 augusti 2004 § 144 har kommunens jurister inom Kommunstyrelseförvaltningen fullmakt att företräda Örebro kommun i olika rättsliga sammanhang.",
-      "quote_page": "s. 15",
+      "geographic_scope": "stadsdel",
+      "location_name": "Centrala Örebro",
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 59",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 19",
       "voting": {
         "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Avslagen"
       },
       "tags": [
-        "rättegångsfullmakt",
-        "jurister",
-        "kommun"
+        "hastighet",
+        "30 km/h",
+        "trafiksäkerhet",
+        "motion"
       ],
-      "id": "2023-03-14_ko_55"
+      "confidence": "hog",
+      "id": "2023-03-14_ko_59"
+    },
+    {
+      "headline": "Tre nya motioner remitteras för beredning",
+      "human_headline": "Kommunen tar emot tre nya motioner för behandling",
+      "summary": "Kommunstyrelsen mottog tre motioner från Kommunfullmäktige för beredning: om näringslivsstöd (SD), återförande av Örebronormen (V) och gemensamt ansvar för delade turer i äldreomsorg (V).",
+      "plain_language_summary": "Kommunen mottar tre nya förslag som ska behandlas vidare - om att stödja näringslivet, om försörjningsstöd och om arbetschema i äldreomsorg.",
+      "relevance": null,
+      "detail": "Rutinarende. Tre motioner överlämnades från Kommunfullmäktige för beredning: Motion från Carola Sunesson och Bo Ammer (SD) om att främja näringslivet; Motion från Vänsterpartiet om att återföra Örebronormen inom försörjningsstöd; Motion från Vänsterpartiet om gemensamt ansvar för att få bort delade turer inom äldreomsorgen.",
+      "category": "formellt",
+      "decision_type": "remiss",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 60",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "motioner",
+        "remittering",
+        "näringslivsstöd",
+        "försörjningsstöd"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_60"
+    },
+    {
+      "headline": "Rapport från Örebro Rådhus AB läggs till handlingarna",
+      "human_headline": "Kommunen tar emot verksamhetsrapport från sitt fastighetsbolag",
+      "summary": "Rapport från Örebro Rådhus AB om verksamheten och dotterbolagen lades till handlingarna.",
+      "plain_language_summary": "Kommunen mottar en rapport från sitt fastighetsbolag Örebro Rådhus AB om hur verksamheten går.",
+      "relevance": null,
+      "detail": "Rutinarende. Styrelsen i Örebro Rådhus AB ska enligt ägardirektivet hålla Kommunstyrelsen löpande informerad om sin verksamhet och åtgärder av större vikt. Denna rapport innehöll övrig information om moderbolaget och dotterbolagets verksamhet utifrån ärenden behandlade i bolagens styrelser. Ekonomiska resultat och investeringar redovisas i delårsrapporter.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 61",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "Örebro Rådhus AB",
+        "fastighetsbolag",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_61"
+    },
+    {
+      "headline": "Finansrapport februari 2023 läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar om sin ekonomi för februari",
+      "summary": "Finansrapport för februari 2023 lades till handlingarna.",
+      "plain_language_summary": "Kommunen presenterar en rapport om sin ekonomi för februari månad.",
+      "relevance": null,
+      "detail": "Rutinarende. Kommunledningsförvaltningen anmälde finansrapport för februari 2023.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 62",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "finansrapport",
+        "ekonomi"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_62"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar om beslut fattade av tjänstemän",
+      "summary": "Anmälan av delegationsbeslut från februari 2023 inom övrig verksamhet och finansverksamhet lades till handlingarna.",
+      "plain_language_summary": "Kommunen presenterar en lista över beslut som tjänstemän fattade med delegation från Kommunstyrelsen under februari.",
+      "relevance": null,
+      "detail": "Rutinarende. Alla beslut fattade med stöd av delegation ska anmälas till Kommunstyrelsen enligt kommunallagen. Detta är sätt att informera ledamöter och ersättare och ge delegationsbesluten lagakraft. Delegationsförteckningen antogs 27 mars 2003 och reviderades senast 17 januari 2023.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 63",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "delegationsbeslut",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_63"
+    },
+    {
+      "headline": "Anmälan av inkomna handlingar läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar om mottagna dokument",
+      "summary": "Anmälan av handlingar som bedömts relevanta för Kommunstyrelsen lades till handlingarna.",
+      "plain_language_summary": "Kommunen presenterar en lista över handlingar och information som inkommit under månaden.",
+      "relevance": null,
+      "detail": "Rutinarende. Varje månad anmäler Kommunledningsförvaltningen handlingar som inkommit och bedöms relevanta för Kommunstyrelsen. I detta fall bland annat inbjudan till MR-frukost.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 64",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "handlingar",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_64"
+    },
+    {
+      "headline": "Kommundirektörens rapport februari 2023 läggs till handlingarna",
+      "human_headline": "Kommundirektören rapporterar om nyheter i förvaltningen",
+      "summary": "Kommundirektörens rapport för februari 2023 lades till handlingarna.",
+      "plain_language_summary": "Kommunens högste tjänsteman presenterar en rapport om nyheter och händelser i förvaltningen under februari.",
+      "relevance": null,
+      "detail": "Rutinarende. Kommundirektören redogjorde för nyheter inom förvaltningen i sin månadliga rapport.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "Aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 65",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "kommundirektör",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2023-03-14_ko_65"
     }
   ],
   "motions_of_interest": [
     {
-      "title": "Motion från Carola Sunesson (SD) och Bo Ammer (SD) om att främja näringslivet",
+      "title": "Dans för hälsa - permanenta verksamheten i skolor",
+      "party": "L",
+      "status": "tillgodosedd"
+    },
+    {
+      "title": "Bilfri zon på nedre delen av Stortorget",
+      "party": "MP",
+      "status": "avslagen"
+    },
+    {
+      "title": "Slopa avgifterna för solcellsanläggningar",
+      "party": "ÖrP",
+      "status": "avslagen"
+    },
+    {
+      "title": "Generell hastighetsgräns 30 km/h i centrala Örebro",
+      "party": "MP",
+      "status": "avslagen"
+    },
+    {
+      "title": "Främja näringslivet",
       "party": "SD",
-      "status": "Remitterad till Kommunstyrelsen för beredning"
+      "status": "under_beredning"
     },
     {
-      "title": "Motion från Vänsterpartiet om att återföra Örebronormen inom försörjningsstöd",
+      "title": "Återföra Örebronormen inom försörjningsstöd",
       "party": "V",
-      "status": "Remitterad till Kommunstyrelsen för beredning"
+      "status": "under_beredning"
     },
     {
-      "title": "Motion från Vänsterpartiet om ett gemensamt ansvar för att få bort de delade turerna inom äldreomsorgen",
+      "title": "Gemensamt ansvar för att få bort delade turer i äldreomsorg",
       "party": "V",
-      "status": "Remitterad till Kommunstyrelsen för beredning"
+      "status": "under_beredning"
     }
   ],
-  "skipped_items_count": 8,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2023-03-14",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 13
+  "decisions_count": 21
 }
