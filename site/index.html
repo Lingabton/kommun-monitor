@@ -92,7 +92,7 @@ nav .mob-toggle { display: none; background: none; border: none; font-size: 22px
   background: rgba(255,255,255,.06); color: rgba(255,255,255,.65);
   font-size: 12px; font-weight: 500; cursor: pointer; transition: all .15s; text-decoration: none;
 }
-.hero .chip:hover { background: rgba(255,255,255,.15); color: #fff; }
+.hero .chip:hover, .hero .chip.active { background: rgba(255,255,255,.2); color: #fff; border-color: rgba(255,255,255,.4); }
 
 /* ── Stats strip (below hero) ── */
 .stats-strip {
@@ -343,6 +343,19 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   .stats-strip .inner { gap: 16px; }
 }
 
+/* -- Glossary tooltips -- */
+.tip { position: relative; border-bottom: 1px dotted var(--text-light); cursor: help; }
+.tip:hover::after {
+  content: attr(data-tip); position: absolute; bottom: calc(100% + 4px); left: 50%; transform: translateX(-50%);
+  background: var(--navy); color: #fff; padding: 8px 12px; border-radius: 8px;
+  font-size: 12px; white-space: normal; width: 240px; z-index: 100; line-height: 1.4;
+  font-weight: 400; pointer-events: none; box-shadow: 0 4px 12px rgba(0,0,0,.15);
+}
+.tip:hover::before {
+  content: ''; position: absolute; bottom: calc(100%); left: 50%; transform: translateX(-50%);
+  border: 5px solid transparent; border-top-color: var(--navy); z-index: 100;
+}
+
 @keyframes fu { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
 .fu { animation: fu .4s ease both; }
 </style>
@@ -371,14 +384,20 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
       <div class="hero-search">
         <input placeholder="Sök beslut, parti eller ämne..." id="hero-q" oninput="cQ=this.value.toLowerCase();visibleCount=PAGE_SIZE;document.getElementById('beslut').scrollIntoView({behavior:'smooth'});renderDecisions()">
       </div>
-      <div class="chips">
-        <a class="chip" href="#beslut" onclick="cCat='skola';visibleCount=PAGE_SIZE;renderDecisions()">🏫 Skola</a>
-        <a class="chip" href="#beslut" onclick="cCat='bygg';visibleCount=PAGE_SIZE;renderDecisions()">🏗️ Bygg</a>
-        <a class="chip" href="#beslut" onclick="cCat='budget';visibleCount=PAGE_SIZE;renderDecisions()">💰 Budget</a>
-        <a class="chip" href="#beslut" onclick="cCat='trygghet';visibleCount=PAGE_SIZE;renderDecisions()">🛡️ Trygghet</a>
-        <a class="chip" href="#beslut" onclick="cCat='infrastruktur';visibleCount=PAGE_SIZE;renderDecisions()">🛣️ Trafik</a>
-        <a class="chip" href="#beslut" onclick="setContestedFilter()">⚡ Omstridda</a>
-        <a class="chip" href="#beslut" onclick="cCat=null;cQ='';visibleCount=PAGE_SIZE;renderDecisions()">Alla</a>
+      <div class="chips" id="hero-chips">
+        <a class="chip" href="#beslut" onclick="setChip(this,'skola')">🏫 Skola</a>
+        <a class="chip" href="#beslut" onclick="setChip(this,'bygg')">🏗️ Bygg</a>
+        <a class="chip" href="#beslut" onclick="setChip(this,'budget')">💰 Budget</a>
+        <a class="chip" href="#beslut" onclick="setChip(this,'trygghet')">🛡️ Trygghet</a>
+        <a class="chip" href="#beslut" onclick="setChip(this,'infrastruktur')">🛣️ Trafik</a>
+        <a class="chip" href="#beslut" onclick="setChip(this,'contested')">⚡ Omstridda</a>
+        <a class="chip" href="#beslut" onclick="clearAllFilters()">Alla</a>
+      </div>
+      <div id="active-filter" style="display:none;margin-top:8px;font-size:12px">
+        <span style="background:rgba(255,255,255,.15);padding:4px 10px;border-radius:12px;color:rgba(255,255,255,.8)">
+          Filter: <span id="active-filter-name"></span>
+          <a href="#" onclick="clearAllFilters();return false" style="color:#fff;margin-left:6px;opacity:.7">✕</a>
+        </span>
       </div>
     </div>
   </div>
@@ -417,7 +436,7 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   <div class="year-filter" id="yf"></div>
   <div class="fl" id="flt"></div>
   <div id="dcn" style="font-size:13px;color:var(--text-light);margin-bottom:10px"></div>
-  <div id="dl"></div>
+  <div id="dl"><div style="text-align:center;padding:40px 0;color:var(--text-light)"><div style="font-size:24px;margin-bottom:8px">📋</div>Laddar beslut...</div></div>
   <button class="load-more" id="load-more-btn" style="display:none" onclick="showMore()">Visa fler beslut</button>
 </section>
 
@@ -460,7 +479,7 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
     <details style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
       <summary style="font-size:14px;font-weight:700;cursor:pointer">Metod — så tar vi fram datan</summary>
       <div style="font-size:13px;color:var(--text-mid);line-height:1.7;margin-top:10px">
-        <p><strong>Vilka möten ingår?</strong> Kommunfullmäktige och Kommunstyrelsen i Örebro kommun, mandatperioden 2023–2026. Nämnder ingår inte ännu.</p>
+        <p><strong>Vilka möten ingår?</strong> <abbr title="Kommunens högsta beslutande organ, med folkvalda ledamöter" style="border-bottom:1px dotted #8a8a8a;cursor:help;text-decoration:none">Kommunfullmäktige</abbr> (KF) och <abbr title="Leder kommunens arbete och förbereder ärenden åt fullmäktige" style="border-bottom:1px dotted #8a8a8a;cursor:help;text-decoration:none">Kommunstyrelsen</abbr> (KS) i Örebro kommun, mandatperioden 2023–2026. Nämnder ingår inte ännu.</p>
         <p style="margin-top:8px"><strong>Hur extraheras besluten?</strong> Varje protokoll (PDF, ofta 20–40 sidor) analyseras automatiskt av Claude AI (Anthropic). AI:n identifierar varje beslutsparagraf, extraherar röstningsresultat per parti, och sammanfattar.</p>
         <p style="margin-top:8px"><strong>Vad betyder "omstritt"?</strong> Ett beslut markeras som omstritt enbart om minst ett parti röstade emot enligt röstningsdata i protokollet. Vi gör inga egna bedömningar av vad som är kontroversiellt.</p>
         <p style="margin-top:8px"><strong>Vad ingår inte?</strong> Närvarodata extraheras separat och visar bara frånvaro nämnd i protokollet — orsak framgår aldrig. Partistatistik bygger på faktiska röstningar, inte på uttalanden eller debatter.</p>
@@ -481,7 +500,7 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   </div>
   <div class="cp">
     Beslutskollen sammanfattar offentliga protokoll med AI och kan innehålla fel.
-    Kontrollera alltid <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a>.
+    Kontrollera alltid <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank" rel="noopener">originalprotokollet</a>.
   </div>
   <div class="updated" id="fs"></div>
 </footer>
@@ -489,7 +508,7 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 <script>
 const PC = {
   S:"#e8112d", M:"#52bdec", C:"#009933", L:"#006ab3", KD:"#231977",
-  V:"#da291c", SD:"#eab308", "ÖrP":"#f47920", MP:"#83cf39"
+  V:"#da291c", SD:"#b8960c", "ÖrP":"#f47920", MP:"#83cf39"
 };
 const PN = {
   S:"Socialdemokraterna", M:"Moderaterna", C:"Centerpartiet", L:"Liberalerna",
@@ -509,6 +528,22 @@ const CC = {
 const MO = ["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"];
 const MO_SHORT = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
 
+const GLOSSARY = {
+  "Omstritt": "Minst ett parti röstade emot — beslutet var inte alla överens om",
+  "Votering": "Formell omröstning där varje ledamot registrerar sin röst",
+  "Enhälligt": "Alla partier var överens — ingen röstade emot",
+  "Antaget": "Förslaget godkändes av en majoritet av ledamöterna",
+  "Avslaget": "Förslaget röstades ner — det fick inte tillräckligt stöd",
+  "Bordlagt": "Beslutet sköts upp till ett senare möte",
+  "Återremitterat": "Ärendet skickades tillbaka för mer utredning",
+  "Avstod": "Partiet deltog inte aktivt i omröstningen — ofta en markering",
+};
+function tip(text, key) {
+  var k = key || text.replace(/[⚡🗳️✓ ]/g,'').trim();
+  var t = GLOSSARY[k];
+  return t ? '<span class="tip" data-tip="' + t + '">' + text + '</span>' : text;
+}
+
 function fmt(s) {
   const d = new Date(s + "T12:00:00");
   return d.getDate() + " " + MO_SHORT[d.getMonth()] + " " + d.getFullYear();
@@ -524,7 +559,7 @@ let D, A, cCat = null, cQ = "", cYear = null, PAGE_SIZE = 20, visibleCount = 20;
 function pp(p, s) {
   s = s || 18;
   return '<span class="pp" style="width:' + s + 'px;height:' + s + 'px;background:' +
-    (PC[p]||"#999") + ";color:" + (p==="SD"?"#1a1a00":"#fff") +
+    (PC[p]||"#999") + ";color:#fff" +
     '" title="' + (PN[p]||p) + '">' + p + '</span>';
 }
 
@@ -544,7 +579,7 @@ function vh(v) {
   else if (rl.includes("återremiss") || rl.includes("aterremiss")) outcome = "Återremitterat";
   const oc = rl.includes("avslag") ? "var(--red)" : "var(--green)";
 
-  let h = '<div class="vr"><span class="rs" style="color:' + oc + '">' + outcome + '</span>';
+  let h = '<div class="vr"><span class="rs" style="color:' + oc + '">' + tip(outcome, outcome) + '</span>';
   if (f.length) h += '<div class="sd"><span class="sl" style="color:var(--green)">För</span>' + f.map(p => pp(p)).join("") + '</div>';
   if (a.length) h += '<div class="sd"><span class="sl" style="color:var(--red)">Emot</span>' + a.map(p => pp(p)).join("") + '</div>';
   if (ab.length) h += '<div class="sd"><span class="sl" style="color:var(--text-light)">Avstod</span>' + ab.map(p => pp(p)).join("") + '</div>';
@@ -592,10 +627,10 @@ function importanceScore(d) {
 
 function badges(d) {
   let h = "";
-  if (isContested(d)) h += '<span class="bg bc" title="Minst ett parti röstade emot — beslutet var inte alla överens om">⚡ Omstritt</span> ';
+  if (isContested(d)) h += '<span class="bg bc">' + tip("⚡ Omstritt","Omstritt") + '</span> ';
   const r = (g(d,"vote","voting") || {}).r || (g(d,"vote","voting") || {}).result || "";
-  if (r.toLowerCase().includes("votering")) h += '<span class="bg bv" title="Ledamöterna fick rösta formellt — inte bara med handuppräckning">🗳️ Votering</span> ';
-  if (!isContested(d) && (r.toLowerCase().includes("enhälligt") || r.toLowerCase().includes("enhalligt") || r.toLowerCase().includes("bifall"))) h += '<span class="bg bu" title="Alla partier var överens">✓ Enhälligt</span> ';
+  if (r.toLowerCase().includes("votering")) h += '<span class="bg bv">' + tip("🗳️ Votering","Votering") + '</span> ';
+  if (!isContested(d) && (r.toLowerCase().includes("enhälligt") || r.toLowerCase().includes("enhalligt") || r.toLowerCase().includes("bifall"))) h += '<span class="bg bu">' + tip("✓ Enhälligt","Enhälligt") + '</span> ';
   return h;
 }
 
@@ -626,9 +661,33 @@ async function init() {
   renderFooterStats();
 }
 
+function setChip(el, val) {
+  document.querySelectorAll('#hero-chips .chip').forEach(c => c.classList.remove('active'));
+  el.classList.add('active');
+  var af = document.getElementById('active-filter');
+  if (val === 'contested') {
+    cCat = null; cQ = ''; visibleCount = PAGE_SIZE;
+    window._contestedOnly = true;
+    af.style.display = 'block';
+    document.getElementById('active-filter-name').textContent = '⚡ Omstridda';
+  } else {
+    cCat = val; visibleCount = PAGE_SIZE;
+    window._contestedOnly = false;
+    af.style.display = 'block';
+    document.getElementById('active-filter-name').textContent = (CE[val]||'') + ' ' + val[0].toUpperCase() + val.slice(1);
+  }
+  renderDecisions();
+}
+function clearAllFilters() {
+  cCat = null; cQ = ''; visibleCount = PAGE_SIZE;
+  window._contestedOnly = false;
+  document.getElementById('hero-q').value = '';
+  document.getElementById('active-filter').style.display = 'none';
+  document.querySelectorAll('#hero-chips .chip').forEach(c => c.classList.remove('active'));
+  renderDecisions();
+}
 function setContestedFilter() {
   cCat = null; cQ = ''; visibleCount = PAGE_SIZE;
-  // Filter to only contested in renderDecisions
   window._contestedOnly = true;
   renderDecisions();
 }

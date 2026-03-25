@@ -38,7 +38,7 @@ PARTIES_META = {
 MAJORITY = {"S","M","C"}
 OPPOSITION = {"L","KD","V","SD","ÖrP","MP"}
 PC = {"S":"#e8112d","M":"#52bdec","C":"#009933","L":"#006ab3","KD":"#231977",
-      "V":"#da291c","SD":"#eab308","ÖrP":"#f47920","MP":"#83cf39"}
+      "V":"#da291c","SD":"#b8960c","ÖrP":"#f47920","MP":"#83cf39"}
 
 
 def load_data():
@@ -429,37 +429,37 @@ def generate_insights_page(insights, base_url=""):
     top_html = ""
     for i, d in enumerate(top_decisions):
         bar_w = d["score"]
-        top_html += f'''<div style="display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.05)">
+        top_html += f'''<div style="display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid #e8e4df">
 <div style="width:36px;height:36px;border-radius:8px;background:{'#ef4444' if d['score']>=60 else '#f59e0b' if d['score']>=30 else '#3b82f6'};display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;color:#fff;flex-shrink:0">{d['score']}</div>
 <div style="flex:1;min-width:0"><div style="font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{d['headline']}</div>
-<div style="font-size:11px;color:#64748b;margin-top:2px">{', '.join(d['reasons'][:3])}</div></div>
-<div style="font-size:11px;color:#475569">{d['date']}</div></div>'''
+<div style="font-size:11px;color:#8a8a8a;margin-top:2px">{', '.join(d['reasons'][:3])}</div></div>
+<div style="font-size:11px;color:#8a8a8a">{d['date']}</div></div>'''
 
     coal_html = ""
     for c in coalitions[:5]:
         parties = " + ".join(c["coalition"])
-        coal_html += f'''<div style="padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.05);font-size:13px">
-<div style="display:flex;align-items:center;gap:6px"><span style="background:{'#ef444420' if c['surprise_level']=='high' else '#f59e0b20'};color:{'#ef4444' if c['surprise_level']=='high' else '#f59e0b'};padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700">{parties}</span>
-<span style="color:#94a3b8">röstade {c['side']}</span></div>
-<div style="color:#cbd5e1;margin-top:3px">{c['headline']}</div></div>'''
+        coal_html += f'''<div style="padding:8px 0;border-bottom:1px solid #e8e4df;font-size:13px">
+<div style="display:flex;align-items:center;gap:6px"><span style="background:{'#fef2f2' if c['surprise_level']=='high' else '#fef3c7'};color:{'#ef4444' if c['surprise_level']=='high' else '#f59e0b'};padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700">{parties}</span>
+<span style="color:#8a8a8a">röstade {c['side']}</span></div>
+<div style="color:#4a4a4a;margin-top:3px">{c['headline']}</div></div>'''
 
     timeline_html = ""
     for t in timelines[:3]:
         dots = ""
         for d in t["decisions"]:
-            dots += f'<div style="padding:6px 0 6px 16px;border-left:2px solid rgba(255,255,255,0.1);font-size:12px"><span style="color:#64748b">{d["date"]}</span> — {d["headline"]}</div>'
+            dots += f'<div style="padding:6px 0 6px 16px;border-left:2px solid #e8e4df;font-size:12px"><span style="color:#8a8a8a">{d["date"]}</span> — {d["headline"]}</div>'
         timeline_html += f'''<div style="margin-bottom:16px">
-<div style="font-size:13px;font-weight:600;color:#60a5fa;margin-bottom:6px">🔗 {t['tag']} ({t['decisions_count']} beslut, {t['span_days']} dagar)</div>
+<div style="font-size:13px;font-weight:600;color:#0f1f33;margin-bottom:6px">🔗 {t['tag']} ({t['decisions_count']} beslut, {t['span_days']} dagar)</div>
 {dots}</div>'''
 
     opp_html = ""
     for o in opposition:
         if o["motions_filed"] == 0 and o["reservations"] == 0:
             continue
-        opp_html += f'''<div style="display:flex;align-items:center;gap:10px;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.05)">
-<span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:5px;background:{PC.get(o['party'],'#666')};color:{'#1a1a00' if o['party']=='SD' else '#fff'};font-size:11px;font-weight:800">{o['party']}</span>
+        opp_html += f'''<div style="display:flex;align-items:center;gap:10px;padding:6px 0;border-bottom:1px solid #e8e4df">
+<span style="display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:5px;background:{PC.get(o['party'],'#666')};color:{'#fff'};font-size:11px;font-weight:800">{o['party']}</span>
 <div style="flex:1;font-size:13px"><strong>{o['name']}</strong></div>
-<div style="font-size:12px;color:#94a3b8">{o['motions_filed']} {'motion' if o['motions_filed']==1 else 'motioner'} · {o['reservations']} {'reservation' if o['reservations']==1 else 'reservationer'}</div></div>'''
+<div style="font-size:12px;color:#8a8a8a">{o['motions_filed']} {'motion' if o['motions_filed']==1 else 'motioner'} · {o['reservations']} {'reservation' if o['reservations']==1 else 'reservationer'}</div></div>'''
 
     # Pre-build trend chart bars (avoid nested f-strings)
     trend_bars = ""
@@ -474,33 +474,34 @@ def generate_insights_page(insights, base_url=""):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Politiska insikter — Örebro kommun — Beslutskollen</title>
 <meta name="description" content="Djupanalys av Örebro kommunpolitik. Maktbalans, ovanliga allianser, oppositionens effektivitet och trender.">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;1,9..144,400&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>*{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:'Instrument Sans',sans-serif;background:#0c1219;color:#e2e8f0;line-height:1.6}}
-a{{color:#60a5fa;text-decoration:none}}
+body{{font-family:'Instrument Sans',system-ui,sans-serif;background:#f7f5f2;color:#1a1a1a;line-height:1.6}}
+a{{color:#0f1f33;text-decoration:none}}
 .wrap{{max-width:800px;margin:0 auto;padding:0 24px}}
-header{{padding:32px 0 24px;border-bottom:1px solid rgba(255,255,255,0.06)}}
-.card{{background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:20px;margin-bottom:16px}}
-.card h2{{font-family:'Fraunces',serif;font-size:20px;font-weight:400;margin:0 0 4px}}
-.card .sub{{font-size:13px;color:#64748b;margin-bottom:14px}}
+header{{background:linear-gradient(160deg,#0a1628,#0f1f33 40%,#1e3a5f);color:#fff;padding:28px 24px}}
+.card{{background:#fff;border:1px solid #e8e4df;border-radius:12px;padding:20px;margin-bottom:16px;box-shadow:0 1px 3px rgba(0,0,0,.03)}}
+.card h2{{font-family:'Fraunces',serif;font-size:20px;font-weight:400;margin:0 0 4px;color:#1a1a1a}}
+.card .sub{{font-size:13px;color:#8a8a8a;margin-bottom:14px}}
 .stat-row{{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:16px}}
-.stat{{background:rgba(255,255,255,0.04);border-radius:8px;padding:12px;text-align:center}}
-.stat .v{{font-size:28px;font-weight:700;font-family:'Fraunces',serif}} .stat .l{{font-size:11px;color:#64748b;margin-top:2px}}
-.interp{{font-size:14px;color:#94a3b8;line-height:1.7;padding:12px 16px;background:rgba(255,255,255,0.02);border-radius:8px;border-left:3px solid #3b82f6}}
-footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32px;text-align:center;font-size:12px;color:#475569}}
+.stat{{background:#f7f5f2;border-radius:8px;padding:12px;text-align:center}}
+.stat .v{{font-size:28px;font-weight:700;font-family:'Fraunces',serif}} .stat .l{{font-size:11px;color:#8a8a8a;margin-top:2px}}
+.interp{{font-size:14px;color:#4a4a4a;line-height:1.7;padding:12px 16px;background:#f7f5f2;border-radius:8px;border-left:3px solid #0f1f33}}
+footer{{border-top:1px solid #e8e4df;padding:20px 24px;margin-top:32px;text-align:center;font-size:11px;color:#8a8a8a}}
 </style></head><body>
-<div class="wrap">
 <header>
-<div style="display:flex;gap:12px;align-items:center;margin-bottom:12px;font-size:13px">
-<a href="{base_url}/" style="color:#64748b">🏛️ Beslutskollen</a>
-<span style="color:#333">›</span>
-<span>Insikter</span>
+<div class="wrap">
+<div style="display:flex;gap:8px;align-items:center;margin-bottom:10px;font-size:13px">
+<a href="{base_url}/" style="color:#fff;opacity:.6">📋 Beslutskollen</a>
+<span style="opacity:.3">›</span>
+<span style="opacity:.8">Insikter</span>
 </div>
-<h1 style="font-family:'Fraunces',serif;font-size:30px;font-weight:300">Politiska insikter</h1>
-<p style="font-size:14px;color:#64748b;margin-top:4px">Statistik baserad på {power['total_voted_decisions']} beslut med röstningsdata i Örebro kommun</p>
+<h1 style="font-family:'Fraunces',serif;font-size:28px;font-weight:300">Politiska insikter</h1>
+<p style="font-size:14px;opacity:.6;margin-top:4px">Statistik baserad på {power['total_voted_decisions']} beslut med röstningsdata i Örebro kommun</p>
+</div>
 </header>
 
-<div style="padding-top:20px">
+<div class="wrap" style="padding-top:20px">
 
 <!-- POWER ANALYSIS -->
 <div class="card">
@@ -518,7 +519,7 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 <!-- ATTENTION RANKING -->
 <div class="card">
 <h2>Mest omstridda besluten</h2>
-<div class="sub">Rankat efter antal partier emot, formella omröstningar och ekonomisk storlek. <a href="#metod" style="color:#60a5fa">Så räknar vi →</a></div>
+<div class="sub">Rankat efter antal partier emot, formella omröstningar och ekonomisk storlek. <a href="#metod" style="color:#0f1f33">Så räknar vi →</a></div>
 {top_html}
 </div>
 
@@ -526,14 +527,14 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 <div class="card">
 <h2>🤝 Ovanliga allianser</h2>
 <div class="sub">Partier som normalt står långt ifrån varandra men röstade på samma sida</div>
-{coal_html if coal_html else '<div style="font-size:13px;color:#475569">Ingen data ännu</div>'}
+{coal_html if coal_html else '<div style="font-size:13px;color:#8a8a8a">Ingen data ännu</div>'}
 </div>
 
 <!-- TIMELINES -->
 <div class="card">
 <h2>📅 Beslut som hänger ihop</h2>
 <div class="sub">Samma fråga dyker upp i flera beslut under lång tid</div>
-{timeline_html if timeline_html else '<div style="font-size:13px;color:#475569">Ingen data ännu</div>'}
+{timeline_html if timeline_html else '<div style="font-size:13px;color:#8a8a8a">Ingen data ännu</div>'}
 </div>
 
 <!-- OPPOSITION -->
@@ -550,7 +551,7 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 <div style="display:flex;gap:4px;align-items:flex-end;height:60px;margin-top:8px">
 {trend_bars}
 </div>
-<div style="display:flex;justify-content:space-between;font-size:10px;color:#475569;margin-top:4px">
+<div style="display:flex;justify-content:space-between;font-size:10px;color:#8a8a8a;margin-top:4px">
 {trend_labels}
 </div>
 </div>
@@ -559,7 +560,7 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 <div class="card" id="metod">
 <h2>Om metoden</h2>
 <div class="sub">Hur vi räknar</div>
-<div style="font-size:13px;color:#94a3b8;line-height:1.7">
+<div style="font-size:13px;color:#8a8a8a;line-height:1.7">
 <p><strong>Datakälla:</strong> Offentliga protokoll (PDF) från Örebro kommun, publicerade på orebro.se. Alla handlingar är offentliga enligt tryckfrihetsförordningen 2 kap.</p>
 <p style="margin-top:8px"><strong>Maktbalans:</strong> Baseras på röstningsdata i protokollen. "Majoriteten vann" = partier i S+M+C-koalitionen röstade JA och beslutet gick igenom. Enhälliga beslut = inga partier röstade emot.</p>
 <p style="margin-top:8px"><strong>Omstritt:</strong> Ett beslut räknas som omstritt om minst ett parti röstade NEJ enligt protokollet. Vi gör inga egna bedömningar.</p>
@@ -572,7 +573,8 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 
 </div>
 <footer><p>Beslutskollen — statistik baserad på offentliga protokoll. Kan innehålla fel.</p></footer>
-</div></body></html>'''
+</div>
+</body></html>'''
 
     out_dir = SITE_DIR / "insikter"
     out_dir.mkdir(exist_ok=True)

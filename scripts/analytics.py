@@ -26,7 +26,7 @@ PARTIES_META = {
     "L":  {"name":"Liberalerna","short":"L","color":"#006ab3","position":"Opposition","ideology":"Socialliberalism"},
     "KD": {"name":"Kristdemokraterna","short":"KD","color":"#231977","position":"Opposition","ideology":"Kristdemokrati"},
     "V":  {"name":"Vänsterpartiet","short":"V","color":"#da291c","position":"Opposition","ideology":"Demokratisk socialism"},
-    "SD": {"name":"Sverigedemokraterna","short":"SD","color":"#dddd00","text_color":"#333","position":"Opposition","ideology":"Socialkonservatism"},
+    "SD": {"name":"Sverigedemokraterna","short":"SD","color":"#b8960c","text_color":"#fff","position":"Opposition","ideology":"Socialkonservatism"},
     "ÖrP":{"name":"Örebropartiet","short":"ÖrP","color":"#f47920","position":"Opposition","ideology":"Lokalt parti"},
     "MP": {"name":"Miljöpartiet","short":"MP","color":"#83cf39","position":"Opposition","ideology":"Grön politik"},
 }
@@ -309,7 +309,7 @@ footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-si
         if not p or p["total_votes"] == 0:
             continue
 
-        tc = "#333" if abbr == "SD" else "#fff"
+        tc = "#fff"
         summary = _party_summary(abbr, p, parties)
         ctx_title, ctx_text = _context_box(p["position"])
 
@@ -355,7 +355,7 @@ footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-si
             pct = round(count / max(max_cat_count, 1) * 100)
             issues_html += (
                 f'<div style="display:flex;align-items:center;gap:8px;padding:5px 0">'
-                f'<span>{emoji}</span><span style="width:90px;font-size:13px">{cat.title()}</span>'
+                f'<span>{emoji}</span><span style="width:90px;font-size:13px">{cat.replace('ovrigt','övrigt').replace('miljo','miljö').title()}</span>'
                 f'<div style="flex:1;height:6px;border-radius:3px;background:#f0ece8">'
                 f'<div style="width:{pct}%;background:{p["color"]};border-radius:3px;height:100%"></div></div>'
                 f'<span style="font-size:12px;color:#8a8a8a;width:20px;text-align:right">{count}</span></div>'
@@ -376,7 +376,7 @@ footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-si
         motions_html = ""
         for cat, mots in sorted(motions_by_cat.items(), key=lambda x: -len(x[1])):
             emoji = CE.get(cat, "📋")
-            motions_html += f'<div style="margin-top:12px"><div style="font-size:12px;font-weight:700;color:#8a8a8a;margin-bottom:4px">{emoji} {cat.title()} ({len(mots)})</div>'
+            motions_html += f'<div style="margin-top:12px"><div style="font-size:12px;font-weight:700;color:#8a8a8a;margin-bottom:4px">{emoji} {cat.replace('ovrigt','övrigt').replace('miljo','miljö').title()} ({len(mots)})</div>'
             for mot in mots:
                 status = mot.get("status", "")
                 icon = "✅" if "bifall" in status.lower() or "tillgodose" in status.lower() else "⏳" if "bered" in status.lower() or "bordl" in status.lower() else "❌"
@@ -399,7 +399,7 @@ footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-si
             cp = parties.get(comp_abbr, {})
             if not cp.get("total_votes"):
                 continue
-            compare_btns += f'<a href="{base_url}/parti/{comp_abbr.lower()}/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:{cp.get("color","#999")};color:{"#333" if comp_abbr == "SD" else "#fff"};font-size:12px;font-weight:600">{comp_abbr}</a> '
+            compare_btns += f'<a href="{base_url}/parti/{comp_abbr.lower()}/" style="display:inline-flex;align-items:center;gap:4px;padding:6px 12px;border-radius:6px;background:{cp.get("color","#999")};color:{"#fff"};font-size:12px;font-weight:600">{comp_abbr}</a> '
 
         # ── Genomslagskraft ──
         granted = len([m for m in p["motions_filed"] if "bifall" in m.get("status","").lower() or "tillgodose" in m.get("status","").lower()])
@@ -580,21 +580,21 @@ def generate_area_pages(areas, base_url=""):
     # Overview
     overview = f'''<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Beslut per område — Örebro — Kommun Monitor</title>
+<title>Beslut per område — Örebro — Beslutskollen</title>
 <meta name="description" content="Hitta kommunala beslut som berör ditt område i Örebro. Sörbyängen, Vivalla, Centrum och fler.">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
-<style>*{{box-sizing:border-box;margin:0;padding:0}}body{{font-family:'DM Sans',sans-serif;background:#f8fafc;color:#1e293b}}a{{color:#1e3a5f;text-decoration:none}}
-header{{background:linear-gradient(135deg,#0f2439,#1e3a5f 60%,#2d5a87);color:#fff;padding:24px 20px}}
-.wrap{{max-width:700px;margin:0 auto;padding:0 20px}}
-.area-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin-top:20px}}
-.area-card{{background:#fff;border-radius:10px;padding:16px;box-shadow:0 1px 3px rgba(0,0,0,.05);transition:box-shadow .2s}}
-.area-card:hover{{box-shadow:0 4px 12px rgba(0,0,0,.1)}}
-footer{{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-size:11px;color:#94a3b8;margin-top:40px}}
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>*{{box-sizing:border-box;margin:0;padding:0}}body{{font-family:'Instrument Sans',system-ui,sans-serif;background:#f7f5f2;color:#1a1a1a}}a{{color:#0f1f33;text-decoration:none}}
+header{{background:linear-gradient(160deg,#0a1628,#0f1f33 40%,#1e3a5f);color:#fff;padding:28px 24px}}
+.wrap{{max-width:800px;margin:0 auto;padding:0 24px}}
+.area-grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin-top:20px;padding-bottom:40px}}
+.area-card{{background:#fff;border-radius:10px;padding:16px;box-shadow:0 1px 3px rgba(0,0,0,.04);transition:box-shadow .2s}}
+.area-card:hover{{box-shadow:0 4px 12px rgba(0,0,0,.08)}}
+footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-size:11px;color:#8a8a8a}}
 </style></head><body>
 <header><div class="wrap">
-<a href="{base_url}/" style="color:#fff;opacity:.7;font-size:13px">🏛️ Kommun Monitor</a>
-<h1 style="font-family:'DM Serif Display',serif;font-size:24px;font-weight:400;margin-top:8px">Beslut per område</h1>
-<p style="font-size:14px;opacity:.7;margin-top:4px">Vad händer i din del av Örebro?</p>
+<a href="{base_url}/" style="color:#fff;opacity:.7;font-size:13px">📋 Beslutskollen</a>
+<h1 style="font-family:'Fraunces',serif;font-size:26px;font-weight:300;margin-top:8px">Beslut per område</h1>
+<p style="font-size:14px;opacity:.6;margin-top:4px">Vad händer i din del av Örebro?</p>
 </div></header>
 <div class="wrap"><div class="area-grid">'''
 
@@ -606,7 +606,7 @@ footer{{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-si
 <div style="font-size:13px;color:#64748b">{len(a['decisions'])} beslut</div>
 </a>'''
 
-    overview += '</div></div><footer><p>Kommun Monitor</p></footer></body></html>'
+    overview += '</div></div><footer><p>Beslutskollen — AI-sammanfattningar av kommunala beslut. Kan innehålla fel.</p></footer></body></html>'
     (area_dir / "index.html").write_text(overview, "utf-8")
 
     # Individual area pages
@@ -625,26 +625,26 @@ footer{{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-si
 
         page = f'''<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Beslut i {a['name']} — Örebro — Kommun Monitor</title>
+<title>Beslut i {a['name']} — Örebro — Beslutskollen</title>
 <meta name="description" content="Alla kommunala beslut som berör {a['name']} i Örebro. Bygg, infrastruktur, skola och mer.">
 <link rel="canonical" href="{base_url}/omrade/{key}/">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
-<style>*{{box-sizing:border-box;margin:0;padding:0}}body{{font-family:'DM Sans',sans-serif;background:#f8fafc;color:#1e293b;line-height:1.5}}a{{color:#1e3a5f;text-decoration:none}}
-header{{background:linear-gradient(135deg,#0f2439,#1e3a5f 60%,#2d5a87);color:#fff;padding:24px 20px}}
-.wrap{{max-width:700px;margin:0 auto;padding:0 20px}}
-footer{{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-size:11px;color:#94a3b8;margin-top:40px}}
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>*{{box-sizing:border-box;margin:0;padding:0}}body{{font-family:'Instrument Sans',system-ui,sans-serif;background:#f7f5f2;color:#1a1a1a;line-height:1.6}}a{{color:#0f1f33;text-decoration:none}}
+header{{background:linear-gradient(160deg,#0a1628,#0f1f33 40%,#1e3a5f);color:#fff;padding:28px 24px}}
+.wrap{{max-width:700px;margin:0 auto;padding:0 24px}}
+footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-size:11px;color:#8a8a8a;margin-top:40px}}
 </style></head><body>
 <header><div class="wrap">
-<div style="display:flex;gap:12px;align-items:center;margin-bottom:8px">
-<a href="{base_url}/" style="color:#fff;opacity:.7;font-size:13px">🏛️ Kommun Monitor</a>
-<span style="opacity:.4">›</span>
-<a href="{base_url}/omrade/" style="color:#fff;opacity:.7;font-size:13px">Områden</a>
+<div style="display:flex;gap:8px;align-items:center;margin-bottom:10px;font-size:13px">
+<a href="{base_url}/" style="color:#fff;opacity:.6">📋 Beslutskollen</a>
+<span style="opacity:.3">›</span>
+<a href="{base_url}/omrade/" style="color:#fff;opacity:.6">Områden</a>
 </div>
-<h1 style="font-family:'DM Serif Display',serif;font-size:24px;font-weight:400">📍 {a['name']}</h1>
-<p style="font-size:14px;opacity:.7;margin-top:4px">{len(a['decisions'])} beslut som berör detta område</p>
+<h1 style="font-family:'Fraunces',serif;font-size:26px;font-weight:300">📍 {a['name']}</h1>
+<p style="font-size:14px;opacity:.6;margin-top:4px">{len(a['decisions'])} beslut som berör detta område</p>
 </div></header>
-<div class="wrap" style="padding:20px 20px 40px">{decisions_html}</div>
-<footer><p>Kommun Monitor</p></footer></body></html>'''
+<div class="wrap" style="padding:20px 24px 40px">{decisions_html}</div>
+<footer><p>Beslutskollen — AI-sammanfattningar av kommunala beslut. Kan innehålla fel.</p></footer></body></html>'''
 
         page_dir = area_dir / key
         page_dir.mkdir(parents=True, exist_ok=True)
@@ -700,24 +700,26 @@ def generate_budget_page(budget_entries, base_url=""):
 
     page = f'''<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Örebro kommuns ekonomi — Budget-tracker — Kommun Monitor</title>
+<title>Örebro kommuns ekonomi — Beslutskollen</title>
 <meta name="description" content="Följ Örebro kommuns ekonomi: budgetbeslut, investeringar, avvikelser och ekonomiska rapporter samlade på ett ställe.">
 <link rel="canonical" href="{base_url}/ekonomi/">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
-<style>*{{box-sizing:border-box;margin:0;padding:0}}body{{font-family:'DM Sans',sans-serif;background:#f8fafc;color:#1e293b;line-height:1.5}}a{{color:#1e3a5f;text-decoration:none}}
-header{{background:linear-gradient(135deg,#0f2439,#1e3a5f 60%,#2d5a87);color:#fff;padding:24px 20px}}
-.wrap{{max-width:700px;margin:0 auto;padding:0 20px}}
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>*{{box-sizing:border-box;margin:0;padding:0}}body{{font-family:'Instrument Sans',system-ui,sans-serif;background:#f7f5f2;color:#1a1a1a;line-height:1.6}}a{{color:#0f1f33;text-decoration:none}}
+header{{background:linear-gradient(160deg,#0a1628,#0f1f33 40%,#1e3a5f);color:#fff;padding:28px 24px}}
+.wrap{{max-width:700px;margin:0 auto;padding:0 24px}}
 .stats{{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;margin:20px 0}}
 .stat{{background:#fff;border-radius:10px;padding:14px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,.04)}}
-.stat .val{{font-size:22px;font-weight:700}} .stat .lbl{{font-size:11px;color:#64748b}}
-footer{{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-size:11px;color:#94a3b8;margin-top:40px}}
+.stat .val{{font-size:22px;font-weight:700}} .stat .lbl{{font-size:11px;color:#8a8a8a}}
+footer{{border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-size:11px;color:#8a8a8a;margin-top:40px}}
 </style></head><body>
 <header><div class="wrap">
-<div style="display:flex;gap:12px;align-items:center;margin-bottom:8px">
-<a href="{base_url}/" style="color:#fff;opacity:.7;font-size:13px">🏛️ Kommun Monitor</a>
+<div style="display:flex;gap:8px;align-items:center;margin-bottom:10px;font-size:13px">
+<a href="{base_url}/" style="color:#fff;opacity:.6">📋 Beslutskollen</a>
+<span style="opacity:.3">›</span>
+<span style="opacity:.8">Ekonomi</span>
 </div>
-<h1 style="font-family:'DM Serif Display',serif;font-size:24px;font-weight:400">💰 Örebro kommuns ekonomi</h1>
-<p style="font-size:14px;opacity:.7;margin-top:4px">Budgetbeslut, investeringar och ekonomiska rapporter</p>
+<h1 style="font-family:'Fraunces',serif;font-size:26px;font-weight:300">💰 Örebro kommuns ekonomi</h1>
+<p style="font-size:14px;opacity:.6;margin-top:4px">Budgetbeslut, investeringar och ekonomiska rapporter</p>
 </div></header>
 <div class="wrap" style="padding-top:10px;padding-bottom:40px">
 <div class="stats">
@@ -729,7 +731,7 @@ footer{{border-top:1px solid #e2e8f0;padding:16px 20px;text-align:center;font-si
 {entries_html}
 </div>
 </div>
-<footer><p>Kommun Monitor — AI-sammanfattningar av kommunala beslut</p></footer></body></html>'''
+<footer><p>Beslutskollen — AI-sammanfattningar av kommunala beslut. Kan innehålla fel.</p></footer></body></html>'''
 
     ekon_dir = SITE_DIR / "ekonomi"
     ekon_dir.mkdir(exist_ok=True)

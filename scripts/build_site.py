@@ -35,7 +35,7 @@ CATS = {
     "övrigt":("Övrigt","📋","#94a3b8"),"ovrigt":("Övrigt","📋","#94a3b8"),
 }
 PC = {"S":"#e8112d","M":"#52bdec","C":"#009933","L":"#006ab3","KD":"#231977",
-      "V":"#da291c","SD":"#dddd00","ÖrP":"#f47920","MP":"#83cf39"}
+      "V":"#da291c","SD":"#b8960c","ÖrP":"#f47920","MP":"#83cf39"}
 PN = {"S":"Socialdemokraterna","M":"Moderaterna","C":"Centerpartiet","L":"Liberalerna",
       "KD":"Kristdemokraterna","V":"Vänsterpartiet","SD":"Sverigedemokraterna",
       "ÖrP":"Örebropartiet","MP":"Miljöpartiet"}
@@ -61,13 +61,29 @@ def voting_html(v):
     for label, color, parties in [("JA","#16a34a",v.get("for",[])),("NEJ","#dc2626",v.get("against",[])),("AVSTOD","#94a3b8",v.get("abstained",[]))]:
         if parties:
             badges = " ".join(
-                f'<span style="background:{PC.get(p,"#999")};color:{"#333" if p=="SD" else "#fff"};'
+                f'<span style="background:{PC.get(p,"#999")};color:#fff;'
                 f'font-size:11px;font-weight:700;padding:2px 8px;border-radius:3px;'
-                f'{"border:1px solid #ccc;" if p=="SD" else ""}" title="{PN.get(p,p)}">{p}</span>'
+                f'" title="{PN.get(p,p)}">{p}</span>'
                 for p in parties
             )
             groups += f'<div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:4px"><span style="color:{color};font-weight:700;font-size:12px;min-width:50px">{label}:</span>{badges}</div>'
     return f'<div style="margin:16px 0"><div style="font-size:12px;font-weight:700;color:#64748b;margin-bottom:8px;letter-spacing:0.4px">RÖSTNING: {escape(v.get("result",""))}</div>{groups}</div>'
+
+
+GLOSSARY = {
+    "motion": "Ett förslag från en eller flera ledamöter. Behandlas av kommunen och leder till ett beslut.",
+    "interpellation": "En fråga från en ledamot till en ansvarig politiker, som besvaras i fullmäktige.",
+    "votering": "Formell omröstning där varje ledamot registrerar sin röst — används vid oenighet.",
+    "bifall": "Förslaget godkändes — beslutet gick igenom.",
+    "avslag": "Förslaget avslogs — det röstades ner.",
+    "bordläggning": "Beslutet skjuts upp till ett senare möte.",
+    "avstod": "Partiet deltog inte aktivt i omröstningen — ofta som markering utan att rösta emot.",
+    "reservation": "Formell protest mot ett beslut. Betyder att partiet vill markera sitt motstånd.",
+    "KF": "Kommunfullmäktige — kommunens högsta beslutande organ, med folkvalda ledamöter.",
+    "KS": "Kommunstyrelsen — leder kommunens arbete och förbereder ärenden åt fullmäktige.",
+}
+
+OREBRO_PROTOKOLL_URL = "https://www.orebro.se/kommun--politik/politik--beslut.html"
 
 
 def decision_page_html(decision, meeting, base_url, all_data):
@@ -77,7 +93,7 @@ def decision_page_html(decision, meeting, base_url, all_data):
     title = f"{d['headline']} — Beslutskollen"
     desc = d.get("summary", "")[:160]
     canonical = f"{base_url}/beslut/{d['id']}/"
-    proto_url = m.get("source_url", "")
+    proto_url = OREBRO_PROTOKOLL_URL
 
     detail_html = ""
     for para in (d.get("detail","") or d.get("summary","")).split("\n\n"):
@@ -87,9 +103,9 @@ def decision_page_html(decision, meeting, base_url, all_data):
 
     quote_html = ""
     if d.get("quote"):
-        quote_html = f'''<blockquote style="margin:20px 0;padding:14px 18px;background:#fafaf9;border-left:3px solid #d4d4d4;border-radius:0 8px 8px 0;font-style:italic;color:#57534e;line-height:1.7;font-size:15px">
+        quote_html = f'''<blockquote style="margin:20px 0;padding:14px 18px;background:#faf9f7;border-left:3px solid #d4d0cc;border-radius:0 8px 8px 0;font-style:italic;color:#5a5550;line-height:1.7;font-size:15px">
 "{escape(d['quote'])}"
-<div style="font-style:normal;font-size:12px;color:#a8a29e;margin-top:6px">Källa: <a href="{proto_url}" target="_blank" style="color:#78716c">Originalprotokoll</a>{f", {d['quote_page']}" if d.get('quote_page') else ""}</div>
+<div style="font-style:normal;font-size:12px;color:#8a8a8a;margin-top:6px">Källa: <a href="{OREBRO_PROTOKOLL_URL}" target="_blank" rel="noopener" style="color:#8a8a8a">Originalprotokoll</a>{f", {d['quote_page']}" if d.get('quote_page') else ""}</div>
 </blockquote>'''
 
     # Related decisions
@@ -115,6 +131,9 @@ def decision_page_html(decision, meeting, base_url, all_data):
     if v.get("result","").lower().find("votering") >= 0:
         badges_html += '<span style="background:#fef3c7;color:#d97706;font-size:11px;font-weight:700;padding:3px 10px;border-radius:10px">🗳️ Votering</span>'
 
+    organ = m.get('meeting_type', m.get('organ', ''))
+    organ_short = organ.replace('Kommunfullmäktige', 'KF').replace('Kommunstyrelsen', 'KS')
+
     return f'''<!DOCTYPE html>
 <html lang="sv">
 <head>
@@ -135,41 +154,47 @@ def decision_page_html(decision, meeting, base_url, all_data):
 <meta name="twitter:description" content="{escape(desc)}">
 <link rel="alternate" type="application/rss+xml" title="Beslutskollen RSS" href="{base_url}/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{{box-sizing:border-box;margin:0;padding:0}}
-body{{font-family:'DM Sans',sans-serif;background:#f8fafc;color:#1e293b;line-height:1.6}}
-a{{color:#1e3a5f}} ::selection{{background:#1e3a5f;color:#fff}}
-.wrap{{max-width:680px;margin:0 auto;padding:0 20px}}
-header{{background:linear-gradient(135deg,#0f2439,#1e3a5f 60%,#2d5a87);color:#fff;padding:16px 20px}}
-header a{{color:#fff;text-decoration:none;font-size:14px;opacity:.8}}
+body{{font-family:'Instrument Sans',system-ui,sans-serif;background:#f7f5f2;color:#1a1a1a;line-height:1.6}}
+a{{color:#0f1f33;text-decoration:none}} ::selection{{background:#0f1f33;color:#fff}}
+.wrap{{max-width:700px;margin:0 auto;padding:0 24px}}
+header{{background:linear-gradient(160deg,#0a1628,#0f1f33 40%,#1e3a5f);color:#fff;padding:20px 24px}}
+header a{{color:#fff;text-decoration:none;font-size:13px;opacity:.7}}
 header a:hover{{opacity:1}}
-article p{{font-size:16px;line-height:1.8;color:#374151;margin-bottom:14px}}
+article p{{font-size:16px;line-height:1.8;color:#4a4a4a;margin-bottom:14px}}
+.tooltip{{position:relative;border-bottom:1px dotted #8a8a8a;cursor:help}}
+.tooltip:hover::after{{content:attr(data-tip);position:absolute;bottom:100%;left:0;background:#0f1f33;color:#fff;padding:6px 10px;border-radius:6px;font-size:12px;white-space:normal;width:240px;z-index:10;line-height:1.4;font-weight:400}}
 </style>
 </head>
 <body>
 <header>
-<div class="wrap" style="display:flex;align-items:center;justify-content:space-between">
-<a href="{base_url}/">📋 Beslutskollen</a>
-<a href="{base_url}/">← Alla beslut</a>
+<div class="wrap">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;font-size:13px">
+<a href="{base_url}/" style="opacity:.6">📋 Beslutskollen</a>
+<span style="opacity:.3">›</span>
+<a href="{base_url}/#beslut" style="opacity:.6">Beslut</a>
+<span style="opacity:.3">›</span>
+<span style="opacity:.8">{organ_short} {fmt_date(m['date'])}</span>
+</div>
+<h1 style="font-family:'Fraunces',serif;font-size:clamp(22px,3vw,28px);font-weight:400;line-height:1.3">{escape(d['headline'])}</h1>
 </div>
 </header>
 
-<main class="wrap" style="padding-top:32px;padding-bottom:60px">
-<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap">
+<main class="wrap" style="padding-top:20px;padding-bottom:60px">
+<div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;flex-wrap:wrap">
 <span style="background:{cat_color};color:#fff;font-size:12px;font-weight:600;padding:3px 10px;border-radius:6px">{cat_emoji} {cat_name}</span>
-<span style="font-size:13px;color:#94a3b8">{m.get('meeting_type', m.get('organ', ''))} · {fmt_date(m['date'])}</span>
-{f'<span style="font-size:13px;color:#94a3b8">· {d["paragraph_ref"]}</span>' if d.get("paragraph_ref") else ""}
-{f'<span style="font-size:13px;color:#94a3b8">· 📍 {escape(d["location"])}</span>' if d.get("location") else ""}
+<span style="font-size:13px;color:#8a8a8a">{organ} · {fmt_date(m['date'])}</span>
+{f'<span style="font-size:13px;color:#8a8a8a">· {d["paragraph_ref"]}</span>' if d.get("paragraph_ref") else ""}
+{f'<span style="font-size:13px;color:#8a8a8a">· 📍 {escape(d["location"])}</span>' if d.get("location") else ""}
 </div>
 
-<h1 style="font-family:'DM Serif Display',serif;font-size:28px;font-weight:400;line-height:1.3;margin-bottom:12px">{escape(d['headline'])}</h1>
+<div style="margin-bottom:16px">{badges_html}</div>
 
-<div style="margin-bottom:20px">{badges_html}</div>
+<p style="font-size:16px;color:#4a4a4a;line-height:1.7;margin-bottom:24px;font-weight:500">{escape(d.get('summary',''))}</p>
 
-<p style="font-size:17px;color:#475569;line-height:1.6;margin-bottom:24px;font-weight:500">{escape(d.get('summary',''))}</p>
-
-<article style="border-top:1px solid #e2e8f0;padding-top:20px">
+<article style="border-top:1px solid #e8e4df;padding-top:20px">
 {detail_html}
 </article>
 
@@ -177,25 +202,15 @@ article p{{font-size:16px;line-height:1.8;color:#374151;margin-bottom:14px}}
 {quote_html}
 {related_html}
 
-<div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:8px;padding-top:16px;border-top:1px solid #e2e8f0">
-<a href="{proto_url}" target="_blank" style="display:inline-flex;align-items:center;gap:5px;padding:8px 16px;border-radius:8px;background:#1e3a5f;color:#fff;font-size:13px;font-weight:500;text-decoration:none">📄 Läs originalprotokollet{f" ({d['paragraph_ref']})" if d.get('paragraph_ref') else ""}</a>
-<button onclick="share()" style="display:inline-flex;align-items:center;gap:5px;padding:8px 16px;border-radius:8px;border:1px solid #e2e8f0;background:#fff;font-size:13px;cursor:pointer;font-family:inherit;color:#64748b">🔗 Dela detta beslut</button>
-</div>
-
-<div style="margin-top:40px;padding:24px;background:#f0f9ff;border-radius:12px;text-align:center">
-<h3 style="font-size:16px;margin-bottom:8px">📧 Få nya beslut direkt i mejlen</h3>
-<p style="font-size:13px;color:#64748b;margin-bottom:14px">Vi sammanfattar kommunens beslut så du slipper läsa protokollen.</p>
-<div style="display:flex;gap:8px;max-width:400px;margin:0 auto;flex-wrap:wrap;justify-content:center">
-<input type="email" placeholder="din@mejl.se" style="flex:1;min-width:200px;padding:10px 14px;border:2px solid #e2e8f0;border-radius:8px;font-size:14px;font-family:inherit;outline:none">
-<button style="padding:10px 20px;background:#1e3a5f;color:#fff;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit">Prenumerera</button>
-</div>
-<p style="font-size:11px;color:#94a3b8;margin-top:8px">Gratis. Avsluta när du vill.</p>
+<div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:8px;padding-top:16px;border-top:1px solid #e8e4df">
+<a href="{proto_url}" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:5px;padding:8px 16px;border-radius:8px;background:#0f1f33;color:#fff;font-size:13px;font-weight:500;text-decoration:none">📄 Hitta originalprotokollet{f" ({d['paragraph_ref']})" if d.get('paragraph_ref') else ""}</a>
+<button onclick="share()" style="display:inline-flex;align-items:center;gap:5px;padding:8px 16px;border-radius:8px;border:1px solid #e8e4df;background:#fff;font-size:13px;cursor:pointer;font-family:inherit;color:#8a8a8a">🔗 Dela detta beslut</button>
 </div>
 </main>
 
-<footer style="border-top:1px solid #e2e8f0;padding:20px;text-align:center;font-size:11px;color:#94a3b8">
-<p>Beslutskollen sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid originalprotokollet.</p>
-<p style="margin-top:4px">Källa: <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank" style="color:#64748b">orebro.se</a> · <a href="{base_url}/feed.xml" style="color:#64748b">RSS</a></p>
+<footer style="border-top:1px solid #e8e4df;padding:20px 24px;text-align:center;font-size:11px;color:#8a8a8a">
+<p>Beslutskollen sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid <a href="{OREBRO_PROTOKOLL_URL}" target="_blank" rel="noopener" style="text-decoration:underline;color:#8a8a8a">originalprotokollet</a>.</p>
+<p style="margin-top:4px"><a href="{base_url}/" style="color:#8a8a8a">Startsida</a> · <a href="{base_url}/feed.xml" style="color:#8a8a8a">RSS</a> · <a href="{base_url}/parti/" style="color:#8a8a8a">Partier</a> · <a href="{base_url}/insikter/" style="color:#8a8a8a">Insikter</a></p>
 </footer>
 
 <script>
@@ -259,11 +274,11 @@ Sitemap: {base_url}/sitemap.xml
 def generate_404(base_url):
     return f'''<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Sidan hittades inte — Beslutskollen</title>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
-<style>body{{font-family:'DM Sans',sans-serif;background:#f8fafc;display:flex;align-items:center;justify-content:center;min-height:100vh;text-align:center;color:#64748b}}</style>
-</head><body><div><div style="font-size:64px;margin-bottom:16px">🏛️</div><h1 style="font-size:24px;color:#1e293b;margin-bottom:8px">Sidan hittades inte</h1>
-<p>Beslut du letar efter kanske har flyttats eller tagits bort.</p>
-<a href="{base_url}/" style="display:inline-block;margin-top:16px;padding:10px 24px;background:#1e3a5f;color:#fff;border-radius:8px;text-decoration:none;font-weight:600">← Alla beslut</a></div></body></html>'''
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400&family=Instrument+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>body{{font-family:'Instrument Sans',system-ui,sans-serif;background:#f7f5f2;display:flex;align-items:center;justify-content:center;min-height:100vh;text-align:center;color:#8a8a8a}}</style>
+</head><body><div><div style="font-size:64px;margin-bottom:16px">📋</div><h1 style="font-family:'Fraunces',serif;font-size:24px;color:#1a1a1a;margin-bottom:8px;font-weight:300">Sidan hittades inte</h1>
+<p>Beslutet du letar efter kanske har flyttats eller tagits bort.</p>
+<a href="{base_url}/" style="display:inline-block;margin-top:16px;padding:10px 24px;background:#0f1f33;color:#fff;border-radius:8px;text-decoration:none;font-weight:600">← Alla beslut</a></div></body></html>'''
 
 
 def main():
