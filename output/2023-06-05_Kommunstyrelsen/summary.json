@@ -1,82 +1,139 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2023-06-05",
-  "summary_headline": "Statligt huvudmannaskap personlig assistans och vattenförsörjning",
+  "summary_headline": "Personlig assistans statligt, vattenplan remitterad, styrelseposter tillsatta",
   "decisions": [
     {
-      "headline": "Svar på remiss: statligt huvudmannaskap för personlig assistans",
-      "summary": "Kommunstyrelsen antar yttrande om överföring av personlig assistans från kommunalt till statligt huvudmannaskap från 2026. KD lämnar särskilt yttrande om systemets förbättringar.",
-      "detail": "Socialdepartementet har remitterat slutbetänkandet SOU 2023:9 om att staten ska ta över huvudmannaskapet för personlig assistans från kommunerna.\n\nUtredningen föreslår att staten från 1 januari 2026 ska ha samlat ansvar för beslut och finansiering av personlig assistans. Kommunerna ska inte längre betala sjuklönekostnader för personliga assistenter eller medfinansiera assistansersättningen (första 20 timmar per vecka). De kommunala besluten ska löpande överföras till Försäkringskassan senast 31 december 2026.\n\nAnna Andersson (KD) betonar i sitt särskilda yttrande att det delade ansvaret mellan stat och kommun skapat osäkerhet och olika bedömningar. Hon menar att ett statligt huvudmannaskap säkrar rätten till assistans oavsett var i landet man bor.",
-      "category": "budget",
-      "contested": false,
-      "location": null,
+      "headline": "Svar på remiss om statligt huvudmannaskap för personlig assistans",
+      "human_headline": "Kommunen stöder statens övertagande av personlig assistans",
+      "summary": "Örebro kommun bifaller förslaget om att staten ska ta över huvudmannaskapet för personlig assistans från och med 1 januari 2026. Kommunerna behöver då inte längre finansiera sjuklönekostnader eller första 20 timmar assistans per vecka.",
+      "plain_language_summary": "Staten ska från 2026 ansvara för personlig assistans i stället för kommunerna, vilket säkrar likvärdiga insatser oavsett var man bor.",
+      "relevance": "Påverkar personer med funktionsvariationer och deras närstående genom ändrad finansiering och ansvar för assistansersättningen.",
+      "detail": "Örebro kommun beretts tillfälle att yttra sig över Socialdepartementets slutbetänkande \"Ett statligt huvudmannaskap för personlig assistans\" (SOU 2023:9).\n\nHuvudmannaskapsutredningen föreslår att staten får samlat huvudmannaskap för beslut om och finansiering av personlig assistans. Kommunerna ska slippa ansvar för personliga assistenternas sjuklönekostnader och ska inte längre medfinansiera de första 20 timmarna per vecka.\n\nÖtergången ska ske stegvis från 1 januari 2026, med merparten av besluten överförda till Försäkringskassan senast 31 december 2026.\n\nAnna Andersson (KD) yrkade bifall till tjänsteskrivelsen och erhöll tilåtelse att lämna ett särskilt yttrande till protokollet där kristdemokraterna understryker att det delade ansvaret mellan stat och kommun skapat osäkerhet. Med staten som ansvarig säkras rätten till assistans oavsett var i landet man bor.",
+      "category": "omsorg",
+      "decision_type": "remiss",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 137",
       "quote": "Med staten som ansvarig säkras rätten till assistans oavsett var i landet man bor. Kristdemokraterna Örebro välkomnar därför ett statligt huvudmannaskap för assistansen.",
-      "quote_page": "Yttrande, 2023-06-05",
+      "quote_page": "s. 5",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Enig"
       },
       "tags": [
         "personlig assistans",
-        "statligt huvudmannaskap",
-        "försäkringskassan",
-        "kommunal ekonomi"
+        "funktionsstöd",
+        "staten",
+        "finansiering"
       ],
+      "confidence": "hög",
       "id": "2023-06-05_ko_137"
     },
     {
-      "headline": "Yttrande om regional vattenförsörjningsplan för Örebro län",
-      "summary": "Kommunstyrelsen antar yttrande över länsstyrelsens förslag till regional vattenförsörjningsplan och önskvärdhet av mer progressiva åtgärder.",
-      "detail": "Länsstyrelsen i Örebro län har utarbetat en regional vattenförsörjningsplan baserad på en kartläggning av hot och möjligheter för länets vattenförsörjning.\n\nMiljö- och stadsbyggnadsförvaltningen ställer sig uppmuntrande till planen men föreslår förbättringar. De noterar att planens åtgärder till stor del redan är inarbetade i kommunens rutiner enligt gällande lagstiftning. Förvaltningen efterfrågar mer progressiva, framåtsträvande och vägvisande åtgärder för att möta framtida utmaningar.\n\nDe nya åtgärder som påverkar Örebro kommun handlar bland annat om redovisning av fördröjningsåtgärder i planeringsprocessen, användning av tekniskt vatten och utökning av livsmedelstillsynen av dricksvatten. Remissvaret skickades till länsstyrelsen senast 9 juni 2023.",
-      "category": "miljo",
-      "contested": false,
-      "location": "Örebro län",
+      "headline": "Svar på remiss om regional vattenförsörjningsplan för Örebro län",
+      "human_headline": "Kommunen stöder länsstyrelsens vattenförsörjningsplan med förbättringsförslag",
+      "summary": "Örebro kommun bifaller länsstyrelsens regional vattenförsörjningsplan men föreslår progressivare åtgärder för framtida dricksvattenberedskap. Kommunen förespråkar mer framåtsträvande lösningar än dagens lagstiftningsbaserade åtgärder.",
+      "plain_language_summary": "Kommunen säger ja till planen för hur regionen ska ha säker dricksvattenförsörjning i framtiden, men tycker att planen behöver mer innovativa lösningar.",
+      "relevance": "Påverkar vattenförsörjningen för alla invånare och företag i Örebro kommun på lång sikt.",
+      "detail": "Länsstyrelsen i Örebro län genomförde en kartläggning av hot och möjligheter inom länets vattenförsörjning, vilket resulterade i en regional vattenförsörjningsplan.\n\nMiljö- och stadsbyggnadsförvaltningen ställer sig uppmuntrande till länsstyrelsens framtagande av planen men föreslår förbättringsåtgärder. Enligt tjänsteskrivelsen saknas åtgärder som är progressiva, framåtsträvande och vägvisande för framtida utmaningar inom dricksvattenberedskapen.\n\nDe föreslagna åtgärderna består till stor del av redan gällande lagstiftning och direktiv som redan är inarbetade i kommunens rutiner. Förändringar för Örebro kommun gäller bland annat redovisning av fördröjningsåtgärder i planeringsprocessen, använd av tekniskt vatten och utökning av livsmedelstillsynen.\n\nEfter att länsstyrelsen beslutat om den regionala vattenförsörjningsplanen kommer Örebro kommun att ta ställning till planens antagande.",
+      "category": "miljö",
+      "decision_type": "remiss",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invånare",
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Örebro län",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 138",
       "quote": "För att vara en plan som syftar till att i framtiden klara av de utmaningar som finns för den regionala dricksvattenförsörjningen saknas åtgärder som är progressiva, framåtsträvande och vägvisande.",
       "quote_page": "s. 4",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Enig"
       },
       "tags": [
         "vattenförsörjning",
         "miljö",
-        "länsstyrelsen",
+        "planering",
         "dricksvatten"
       ],
+      "confidence": "hög",
       "id": "2023-06-05_ko_138"
+    },
+    {
+      "headline": "Val till Carl August och Gerda Carléns minnesfond och Stiftelsen Activa",
+      "human_headline": "Kommunen tillsätter ledamöter till två stiftelser",
+      "summary": "Anders Olsson (C) utses till ledamot i Carl August och Gerda Carléns minnesfond. Johanna Viberg entledigas från Stiftelsen Activa, ersatt av Patrik Jonsson och Stefan Nilsson.",
+      "plain_language_summary": "Kommunen tillsätter nya styrelsemedlemmar till två stiftelser genom att utse nya ledamöter och entlediga en tidigare.",
+      "relevance": null,
+      "detail": "Rutinarende.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 158",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "styrelseval",
+        "stiftelser",
+        "personval"
+      ],
+      "confidence": "hög",
+      "id": "2023-06-05_ko_158"
     }
   ],
-  "motions_of_interest": [],
-  "skipped_items_count": 1,
+  "motions_of_interest": [
+    {
+      "title": "Statligt huvudmannaskap för personlig assistans välkomnas som reform för jämlikhet inom assistansförsörjningen",
+      "party": "KD",
+      "status": "bifallen"
+    }
+  ],
   "organ": "Kommunstyrelsen",
   "meeting_date": "2023-06-05",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-05_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 2
+  "decisions_count": 3
 }

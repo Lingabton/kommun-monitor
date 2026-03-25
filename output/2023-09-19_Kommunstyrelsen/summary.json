@@ -1,119 +1,158 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2023-09-19",
-  "summary_headline": "Bostäder i Tamarinden, masshantering och motionssvar",
+  "summary_headline": "14 miljoner till masshantering, bolagändringar och motioner behandlade",
   "decisions": [
     {
-      "headline": "Delårsrapport 2 2023 fastställd",
-      "summary": "Kommunstyrelsen fastställer delårsrapport med prognos 2 för 2023. Kommunstyrelsens verksamhet bedöms i allt väsentligt följa givet reglemente och styrregler.",
-      "detail": "Rapporten visar att kommunledningsförvaltningen beräknas vara i nivå med budget med en positiv avvikelse om 0,2 mnkr. Intraprenaden Kulturkvarteret ingår i förvaltningen och beräknas visa negativ avvikelse om -3,8 mnkr. Kommungemensam nivå prognostiseras negativ avvikelse bland annat på grund av reduceringskrav på administrativa lokaler och effekter av NOD-projektet. Den sammanställda budgetavvikelsen för kommunstyrelsen beräknas till -15,2 mnkr.\n\nRapporten överlämnas för vidare hantering inom Örebro kommuns uppföljningsprocess 2023. Samtliga avdelningar har vidtagit åtgärder med fokus att uppnå ekonomi i balans även för kommande år.",
+      "headline": "Fastställer delårsrapport med prognos 2 för 2023",
+      "human_headline": "Kommunen godkänner ekonomirapport för första halvan av året",
+      "summary": "Kommunstyrelsen fastställer delårsrapport med prognos 2 för 2023. Kommunledningsförvaltningen bedöms ha gjort sitt arbete enligt givet reglemente med positiva bidrag till utveckling och ekonomi. Budgetavvikelse beräknas till -15,2 mnkr.",
+      "plain_language_summary": "Kommunstyrelsen granskar och godkänner den ekonomiska rapporten för första halvan av året, som visar att kommunen följt sin budget och gjort sitt arbete enligt reglerna.",
+      "relevance": "Berör alla invånare då det visar kommunens ekonomiska hälsa och hur väl skattepengar förvaltas.",
+      "detail": "Delårsrapporten visar att Kommunstyrelsens verksamhet i stort bedrivits enligt givna ramverk. Kommunledningsförvaltningen beräknas vara i nivå med budget med positiv avvikelse på 0,2 mnkr (delår 1 var avvikelsen -2,2 mnkr). Intraprenaden Kulturkvarteret visar negativ avvikelse om -3,8 mnkr. Politisk kommunledning visar positiv avvikelse med 3,3 mnkr. Den sammanställda budgetavvikelsen för kommunstyrelsen beräknas till -15,2 mnkr. Samtliga avdelningar har vidtagit åtgärder med fokus att uppnå ekonomi i balans. Arbetet med att identifiera intäkter, kostnader och budget enligt modell Pm3 har slutförts till stor del.",
       "category": "budget",
-      "contested": false,
-      "location": null,
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare",
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": true,
       "paragraph_ref": "§ 182",
-      "quote": "Bedömningen grundar sig på Kommunstyrelsens uppföljning utifrån av Kommunfullmäktige fastställda målområden och bidrag till kommunfullmäktigemål för god ekonomisk hushållning.",
-      "quote_page": "s. 2",
+      "quote": "Martha Wicklund (V), Karolina Wallström (L) och Susanne Lindholm Henningsson (KD) deltar inte i beslutet.",
+      "quote_page": "s. 3",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "SD"
-        ],
+        "for": [],
         "against": [],
         "abstained": [
           "V",
-          "ÖrP",
-          "MP"
+          "L",
+          "KD"
         ],
-        "result": "Bifall"
+        "result": "Noterad"
       },
       "tags": [
+        "ekonomi",
         "budget",
         "delårsrapport",
-        "ekonomi",
-        "Kulturkvarteret"
+        "prognos"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_182"
     },
     {
-      "headline": "Arkiveringsplan reviderad för nya handlingstyper",
-      "summary": "Kommungemensam arkiveringsplan revideras med nya och reviderade handlingstyper gällande bevarande och gallring.",
-      "detail": "Kommunstyrelsen är arkivmyndighet för Örebro kommun och beslutar om handlingar för samtliga nämndområden och kommunala bolag. Revisering av arkiveringsplanen sker kontinuerligt enligt arkivreglemente antaget av Kommunfullmäktige.\n\nDen kompletta arkiveringsplanen med arkivmyndighetens beslut gällande bevarande och gallringsfrister finns tillgänglig både på intranätet och kommunens publika webb.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
+      "headline": "Revidering av kommungemensam arkiveringsplan antas",
+      "human_headline": "Kommunen uppdaterar regler för hur gamla handlingar bevaras eller raderas",
+      "summary": "Kommunstyrelsen fastställer revidering av den kommungemensamma arkiveringsplanen. Planen redovisar handlingar för alla kommunens verksamheter och beslut om bevarande och gallring.",
+      "plain_language_summary": "Kommunen uppdaterar sina regler för vilka gamla dokument som ska sparas och vilka som kan raderas, vilket är viktigt för att kunna hitta handlingar när de behövs.",
+      "relevance": null,
+      "detail": "Kommunstyrelsen är arkivmyndighet i Örebro kommun och tar beslut om handlingar tillhörande samtliga nämndområden och kommunala bolag enligt arkivreglementet. Revidering av arkiveringsplanen sker kontinuerligt. Den uppdaterade planen är digitalt tillgänglig på intranätet och kommunens publika webb.",
+      "category": "formellt",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 184",
-      "quote": "I den kommungemensamma arkiveringsplanen redovisas handlingar, oavsett media, för alla Örebro kommuns olika verksamheter och de av arkivmyndigheten antagna beslut som gäller för bevarande och gallring.",
-      "quote_page": "s. 4",
+      "quote": null,
+      "quote_page": null,
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifallen"
       },
       "tags": [
-        "arkivering",
-        "styrdokument",
-        "handlingar"
+        "arkiv",
+        "handlingar",
+        "administration"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_184"
     },
     {
-      "headline": "Valdistriktsindelning för EU-valet 2024 godkänd",
-      "summary": "Valdistriktsindelningen för EU-valet 2024 antas. Antalet valdistrikt utökas på grund av befolkningstillväxten i Örebro kommun.",
-      "detail": "I samband med allmänna val är en kommun uppdelad i valkretsar och valdistrikt där distrikten är närmast väljaren. Kommunfullmäktige ska senast i oktober månad innan ett valår besluta om valdistriktsindelningen enligt vallagen.\n\nI och med att Örebro kommun växer behöver antalet valdistrikt utökas inför valet till Europaparlamentet 2024. Ärendet ska vidare till Kommunfullmäktige för slutgiltigt beslut.",
+      "headline": "Valdistriktsindelning för EU-valet 2024 antas",
+      "human_headline": "Kommunen fastställer nya valdistrikt inför Europaparlamentsvalet",
+      "summary": "Kommunstyrelsen fastställer valdistriktsindelningen inför EU-valet 2024. Antalet valdistrikt utökas då Örebro kommun växer.",
+      "plain_language_summary": "Kommunen delar upp sig i nya valdistrikt för Europaparlamentsvalet 2024 eftersom kommunen blivit större och behöver fler röstningsplatser.",
+      "relevance": "Berör alla röstberättigade invånare genom påverkan på vilken röstningsplats de går till.",
+      "detail": "I samband med allmänna val är en kommun uppdelad i valkretsar och valdistrikt. Enligt vallagen ska Kommunfullmäktige senast i oktober månad innan ett valår besluta angående valdistrikt. På grund av Örebro kommuns tillväxt behöver antalet valdistrikt utökas inför EU-valet 2024. Ärendet remitteras vidare till Kommunfullmäktige för slutgiltigt beslut.",
       "category": "politik",
-      "contested": false,
-      "location": null,
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare",
+        "bilister"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 185",
       "quote": "I och med att Örebro kommun växer behöver även antalet valdistrikt utökas inför valet till Europaparlamentet 2024.",
-      "quote_page": "s. 5",
+      "quote_page": "s. 4",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifallen"
       },
       "tags": [
         "val",
-        "valdistriktsindelning",
-        "EU-valet 2024"
+        "EU-valet",
+        "valdistrikt",
+        "röstning"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_185"
     },
     {
-      "headline": "Region Örebro Innovation AB aktieägaravtal ändringar",
-      "summary": "Örebro Rådhus AB får uppdrag att ingå tilläggsavtal till aktieägaravtal för Region Örebro Innovation AB.",
-      "detail": "Region Örebro Innovation AB ägs av Region Örebro läns förvaltnings AB, Örebro Rådhus AB och Örebro Universitet Holding AB. Bolagets verksamhet finansieras genom årligt driftsbidrag från dessa ägare.\n\nÖrebro Universitet Holding AB har informerat att driftsbidrag ska betalas av Örebro Universitet i stället för av Örebro Universitet Holding AB. Den aktuella punkten i aktieägaravtalet behöver därför ändras. Vidare bör texten om finansiering i ägardirektivet för Inkubera förtydligas. Ändringarna får inga negativa konsekvenser för övriga ägare eller bolaget.\n\nMarkus Allard (ÖrP) yrkade på avyttring av bolaget men förslaget avslog detta. Ärendet ska vidare till Kommunfullmäktige.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": null,
+      "headline": "Örebro Rådhus AB får i uppdrag att ingå tilläggsavtal om Region Örebro Innovation AB",
+      "human_headline": "Kommunen uppdaterar ägaravtal för innovationsbolag",
+      "summary": "Kommunstyrelsen beslutar att Örebro Rådhus AB ska ingå ett tilläggsavtal till aktieägaravtalet för Region Örebro Innovation AB. Ändringen innebär att driftsbidrag ska betalas av Örebro Universitet i stället för av Örebro Universitet Holding AB.",
+      "plain_language_summary": "Kommunen uppdaterar avtalet för ett innovationsbolag som är ägt tillsammans med Region Örebro län och Örebro Universitet, så att rätt organisation betalar pengarna.",
+      "relevance": "Berör företagare och innovatörer som använder bolaget, samt kommunens ekonomi genom ägarstakingen.",
+      "detail": "Region Örebro Innovation AB ägs av Region Örebro läns förvaltnings AB, Örebro Rådhus AB och Örebro Universitet Holding AB. Bolagets verksamhet finansieras genom årligt driftsbidrag från ägarna. Örebro Universitet Holding AB informerade att driftsbidrag ska betalas av Örebro Universitet i stället för av Holding AB, vilket kräver ändring av aktieägaravtalet. Ändringarna får inga negativa konsekvenser för de andra ägarna eller bolaget. Ärendet remitteras vidare till Kommunfullmäktige för beslut.",
+      "category": "naringsliv",
+      "decision_type": "delegation",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 186",
-      "quote": "Ändringarna får inga negativa konsekvenser för de andra ägarna eller Bolaget.",
-      "quote_page": "s. 5",
+      "quote": "Markus Allard (ÖrP) reserverar sig skriftligt mot beslutet till förmån för sitt eget yrkande.",
+      "quote_page": "s. 6",
       "voting": {
         "for": [
           "S",
@@ -121,30 +160,48 @@
           "C",
           "L",
           "KD",
-          "V",
-          "SD",
           "MP"
         ],
-        "against": [],
-        "abstained": [
+        "against": [
           "ÖrP"
+        ],
+        "abstained": [
+          "V"
         ],
         "result": "Bifall"
       },
       "tags": [
-        "Region Örebro Innovation AB",
-        "aktieägaravtal",
-        "bolagsstyrning"
+        "Region Örebro Innovation",
+        "bolag",
+        "ägaravtal",
+        "näringsliv"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_186"
     },
     {
-      "headline": "14 miljoner för hantering överskottsmassor Pappersbruket",
-      "summary": "14 miljoner kronor omfördelas för sortering och omhändertagande av överskottsmassor på Pappersbruket 41. Ytterligare 600 000 kr avsätts för förstudie av masshanteringsplatser.",
-      "detail": "På Pappersbruket 41 finns cirka 17 000 kubikmeter överskottsmassor som måste sorteras, krossas och siktas för att kunna återanvändas. Massorna behöver även tas om hand för att tillgängliggöra marken för bostäder. Överskottsmassorna har legat flera år och riskerar att betraktas som olaglig deponi.\n\nKostnader för sortering, krossning, siktning och omhändertagande uppskattas till 12-14 mkr. När Pappersbruket 41 detaljplaneläggs för annat än industriändamål måste Teknik- och serviceförvaltningens mellanlagringsverksamhet flyttas. En massbalansprognosutredning visar miljömässiga och ekonomiska vinster i ökad återanvändning. För nästa steg avsätts 600 000 kr för utredning av masshanteringsplatser.\n\nLiberalernas Karolina Wallström föreslog alternativ finansiering men Kommunstyrelsen följde Miljö- och stadsbyggnadsförvaltningens förslag. Markus Allard (ÖrP) yrkade på återremiss men detta avslogs.",
-      "category": "miljo",
-      "contested": true,
-      "location": "Pappersbruket 41",
+      "headline": "14 miljoner kronor till hantering av överskottsmassor på Pappersbruket 41",
+      "human_headline": "Kommunen avsätter 14 miljoner för att sortera och återanvända byggavfall",
+      "summary": "Kommunstyrelsen omfördelar 14 miljoner kronor från oförutsedda behov till hantering av cirka 17 000 kubikmeter överskottsmassor på fastigheten Pappersbruket 41. Massorna ska sorteras, krossas och siktats för återanvändning. Dessutom omfördelas 600 000 kr för förstudie av nya masshanteringsplatser.",
+      "plain_language_summary": "Kommunen avsätter pengar för att ta hand om gamla byggavfall på Pappersbruket som kan återanvändas i andra byggprojekt istället för att bli avfallsdepo.",
+      "relevance": "Berör byggnationen av nya bostäder i kommunen och miljön genom ökad återanvändning av material.",
+      "detail": "På Pappersbruket 41 finns cirka 17 000 kubikmeter överskottsmassor som behöver sorteras, krossas och siktas för att kunna användas som resurs i andra anläggningsprojekt. Massorna har legat flera år och behöver hanteras, annars riskerar de att betraktas som olaglig deponi. Kostnader uppskattas till ca 12-14 mkr för sortering, krossning, siktning och omhändertagande av förorenat material. En massbalansprognos för hela Örebro kommun från 2023 visar miljömässiga och ekonomiska vinster i ökad återanvändning. För nästa steg behövs utredning av hur masshanteringsplatser kan drivas och lokaliseras, beräknad till 500-600 000 kr. Markplanerings- och exploateringsnämnden får ansvar för genomförandet.",
+      "category": "bygg",
+      "decision_type": "budget",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "foretagare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Pappersbruket",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 187",
       "quote": "Överskottsmassorna har legat flera år och behöver hanteras, annars riskerar de att betraktas som olaglig deponi.",
       "quote_page": "s. 7",
@@ -153,169 +210,217 @@
           "S",
           "M",
           "C",
-          "V",
-          "SD",
-          "MP",
-          "KD"
+          "MP"
         ],
         "against": [],
         "abstained": [
           "L",
+          "KD",
+          "V",
           "ÖrP"
         ],
         "result": "Bifall"
       },
       "tags": [
         "Pappersbruket",
+        "överskottsmassor",
         "miljö",
-        "masshantering",
-        "överskottsmassor"
+        "återanvändning",
+        "byggavfall"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_187"
     },
     {
-      "headline": "Citronmelissen 1: 130 lägenheter för 28 miljoner",
-      "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 130 hyresrätter på Citronmelissen 1 i Tamarinden, Sörbyängen.",
-      "detail": "Örebrobostäder avser att bygga cirka 130 lägenheter på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen. Bostäderna ska upplåtas som hyresrätter. Priset för markförsäljningen är beräknat till cirka 28 miljoner kronor.\n\nEtt reservationsavtal har redan tecknats. På grund av årliga indexregleringar enligt kommunens riktlinjer för markprissättning har priset höjts från under 25 mkr till över 25 mkr enligt 2023 års markpriser. Då köpeskillingen nu överstiger 25 miljoner krävs beslut från Kommunfullmäktige om förlängning av reservationsavtalet.\n\nOrdförande i markplanerings- och exploateringsnämnden får uppdrag att underteckna avtal och godkänna justeringar i situationsplan och byggnadernas utformning.",
+      "headline": "Godkänner förlängning av reservationsavtal för Citronmelissen 1, Tamarinden",
+      "human_headline": "Kommunen godkänner markförsäljning för 130 nya hyreshus",
+      "summary": "Kommunstyrelsen godkänner förlängning av reservationsavtal för fastigheten Citronmelissen 1 i Tamarinden. Örebrobostäder ska bygga cirka 130 lägenheter med hyresrätt. Markförsäljningen beräknas till cirka 28 miljoner kr.",
+      "plain_language_summary": "Kommunen godkänner att Örebrobostäder kan köpa en tomt för att bygga omkring 130 hyreshus i området Tamarinden.",
+      "relevance": "Berör invånare genom utökat bostadsutbud, särskilt för dem som söker hyreshus.",
+      "detail": "Örebrobostäder planerar att bygga cirka 130 lägenheter med hyresrätt på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen. Priset för markförsäljningen är beräknat till cirka 28 miljoner kr. Ett reservationsavtal tecknades tidigare då köpeskillingen understeg 25 mkr. På grund av årliga indexregleringar enligt kommunens riktlinjer för markprissättning har priset på fastigheten nu höjts till över 25 mkr enligt 2023 års markpriser. Då köpeskillingen nu överstiger 25 miljoner kr ska beslut om förlängning av reservationsavtal tas av Kommunfullmäktige. Ordföranden i Markplanerings- och exploateringsnämnden får i uppdrag att underteckna avtal och godkänna eventuella justeringar i förstudie och situationsplan.",
       "category": "bygg",
-      "contested": false,
-      "location": "Citronmelissen 1, Tamarinden, Sörbyängen",
+      "decision_type": "detaljplan",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "fastighetsagare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Tamarinden, Citronmelissen",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 188",
-      "quote": "Örebrobostäder avser att bygga ca 130 lägenheter på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen.",
+      "quote": "Örebrobostäder avser att bygga ca 130 lägenheter på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen. Bostäderna ska upplåtas med hyresrätt.",
       "quote_page": "s. 9",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifallen"
       },
       "tags": [
-        "Citronmelissen 1",
         "Tamarinden",
+        "Citronmelissen",
         "bostäder",
+        "hyreshus",
         "Örebrobostäder"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_188"
     },
     {
-      "headline": "Pepparmyntan 1: 60 hyresrätter för cirka 13 miljoner",
-      "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 60 hyresrätter på Pepparmyntan 1 i Tamarinden.",
-      "detail": "Örebrobostäder avser att bygga cirka 60 lägenheter på fastigheten Pepparmyntan 1 i området Tamarinden, Sörbyängen, som hyresrätter. Markförsäljningen är beräknad till cirka 13 miljoner kronor.\n\nReservationsavtalet godkändes tidigare vid programberedning 2022-06-22. På grund av ändrad delegationsordning behöver förlängningen nu beslutas av kommunstyrelsen då markplanerings- och exploateringsnämnden inte längre har delegation för reservationsavtal och överlåtelser över 10 mkr.\n\nOrdförande i nämnden får uppdrag att underteckna avtalen och godkänna justeringar.",
+      "headline": "Godkänner förlängning av reservationsavtal för Pepparmyntan 1, Tamarinden",
+      "human_headline": "Kommunen godkänner markförsäljning för 60 nya hyreshus",
+      "summary": "Kommunstyrelsen godkänner förlängning av reservationsavtal för fastigheten Pepparmyntan 1 i Tamarinden. Örebrobostäder ska bygga cirka 60 lägenheter med hyresrätt. Markförsäljningen beräknas till cirka 13 miljoner kr.",
+      "plain_language_summary": "Kommunen godkänner att Örebrobostäder kan köpa en tomt för att bygga omkring 60 hyreshus i området Tamarinden.",
+      "relevance": "Berör invånare genom utökat bostadsutbud av hyreshus.",
+      "detail": "Örebrobostäder planerar att bygga cirka 60 lägenheter med hyresrätt på fastigheten Pepparmyntan 1 i området Tamarinden, Sörbyängen. Priset för markförsäljningen är beräknat till cirka 13 miljoner kr. Reservationsavtal godkändes redan vid programberedning 2022-06-22. En förändrad delegationsordning innebär att förlängning av reservationsavtalet nu måste beslutas av kommunstyrelsen då Markplanerings- och exploateringsnämndens beredning inte har delegation på att godkänna reservationsavtal och överlåtelser över 10 mkr.",
       "category": "bygg",
-      "contested": false,
-      "location": "Pepparmyntan 1, Tamarinden, Sörbyängen",
+      "decision_type": "detaljplan",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "fastighetsagare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Tamarinden, Pepparmyntan",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 189",
-      "quote": "Örebrobostäder avser att bygga ca 60 lägenheter på fastigheten Pepparmyntan 1 i området Tamarinden, Sörbyängen.",
+      "quote": "Örebrobostäder avser att bygga ca 60 lägenheter på fastigheten Pepparmyntan 1 i området Tamarinden, Sörbyängen. Bostäderna ska upplåtas med hyresrätt.",
       "quote_page": "s. 10",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifallen"
       },
       "tags": [
-        "Pepparmyntan 1",
         "Tamarinden",
+        "Pepparmyntan",
         "bostäder",
+        "hyreshus",
         "Örebrobostäder"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_189"
     },
     {
-      "headline": "Renfanan 1: 80 hyresrätter för cirka 8,8 miljoner",
-      "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 80 hyresrätter på Renfanan 1 i Tamarinden.",
-      "detail": "Magnolia Projekt 562 AB avser att bygga cirka 80 lägenheter på fastigheten Renfanan 1 i området Tamarinden, Sörbyängen, som hyresrätter. Markförsäljningen är beräknad till cirka 8,8 miljoner kronor.\n\nReservationsavtalet godkändes tidigare vid programberedning 2021-12-08. Köpeskillingen ligger nära gränsen och riskerar att överstiga 10 mkr vid kommande indexreglering av markpriset, varför beslutet förts till kommunstyrelsen.",
+      "headline": "Godkänner förlängning av reservationsavtal för Renfanan 1, Tamarinden",
+      "human_headline": "Kommunen godkänner markförsäljning för 80 nya hyreshus",
+      "summary": "Kommunstyrelsen godkänner förlängning av reservationsavtal för fastigheten Renfanan 1 i Tamarinden. Magnolia Projekt 562 AB ska bygga cirka 80 lägenheter med hyresrätt. Markförsäljningen beräknas till cirka 8,8 miljoner kr.",
+      "plain_language_summary": "Kommunen godkänner att Magnolia Projekt 562 AB kan köpa en tomt för att bygga omkring 80 hyreshus i området Tamarinden.",
+      "relevance": "Berör invånare genom utökat bostadsutbud av hyreshus.",
+      "detail": "Magnolia Projekt 562 AB planerar att bygga cirka 80 lägenheter med hyresrätt på fastigheten Renfanan 1 i området Tamarinden, Sörbyängen. Priset för markförsäljningen är beräknat till cirka 8,8 miljoner kr. Reservationsavtal godkändes redan vid programberedning 2021-12-08. Köpeskillingen ligger nära gränsen och riskerar att överstiga 10 mkr vid kommande indexreglering, varför ärendet behandlas i kommunstyrelsen.",
       "category": "bygg",
-      "contested": false,
-      "location": "Renfanan 1, Tamarinden, Sörbyängen",
+      "decision_type": "detaljplan",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "fastighetsagare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Tamarinden, Renfanan",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 190",
       "quote": "Magnolia Projekt 562 AB avser att bygga ca 80 lägenheter på fastigheten Renfanan 1 i området Tamarinden, Sörbyängen.",
       "quote_page": "s. 11",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifallen"
       },
       "tags": [
-        "Renfanan 1",
         "Tamarinden",
+        "Renfanan",
         "bostäder",
+        "hyreshus",
         "Magnolia Projekt"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_190"
     },
     {
-      "headline": "Lakritsroten 1: 100 hyresrätter för cirka 13 miljoner",
-      "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 100 hyresrätter på Lakritsroten 1 i Tamarinden.",
-      "detail": "Magnolia Projekt 562 AB avser att bygga cirka 100 lägenheter på fastigheten Lakritsroten 1 i området Tamarinden, Sörbyängen, som hyresrätter. Markförsäljningen är beräknad till cirka 13 miljoner kronor.\n\nReservationsavtalet godkändes tidigare vid programberedning 2021-12-08 med delegation för reservationsavtal upp till 15 mkr. På grund av ändrad delegationsordning behöver förlängningen nu beslutas av kommunstyrelsen då nämnden inte längre har delegation för avtal över 10 mkr.",
+      "headline": "Godkänner förlängning av reservationsavtal för Lakritsroten 1, Tamarinden",
+      "human_headline": "Kommunen godkänner markförsäljning för 100 nya hyreshus",
+      "summary": "Kommunstyrelsen godkänner förlängning av reservationsavtal för fastigheten Lakritsroten 1 i Tamarinden. Magnolia Projekt 562 AB ska bygga cirka 100 lägenheter med hyresrätt. Markförsäljningen beräknas till cirka 13 miljoner kr.",
+      "plain_language_summary": "Kommunen godkänner att Magnolia Projekt 562 AB kan köpa en tomt för att bygga omkring 100 hyreshus i området Tamarinden.",
+      "relevance": "Berör invånare genom utökat bostadsutbud av hyreshus.",
+      "detail": "Magnolia Projekt 562 AB planerar att bygga cirka 100 lägenheter med hyresrätt på fastigheten Lakritsroten 1 i området Tamarinden, Sörbyängen. Priset för markförsäljningen är beräknat till cirka 13 miljoner kr. Reservationsavtal godkändes redan vid programberedning 2021-12-08 då programberedningen hade delegation på att godkänna reservationsavtal upp till 15 mkr. En förändrad delegationsordning innebär att förlängning nu måste beslutas av kommunstyrelsen då Markplanerings- och exploateringsnämndens beredning inte har delegation på reservationsavtal och överlåtelser över 10 mkr.",
       "category": "bygg",
-      "contested": false,
-      "location": "Lakritsroten 1, Tamarinden, Sörbyängen",
+      "decision_type": "detaljplan",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "fastighetsagare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Tamarinden, Lakritsroten",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 191",
       "quote": "Magnolia Projekt 562 AB avser att bygga ca 100 lägenheter på fastigheten Lakritsroten 1 i området Tamarinden, Sörbyängen.",
       "quote_page": "s. 12",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifallen"
       },
       "tags": [
-        "Lakritsroten 1",
         "Tamarinden",
+        "Lakritsroten",
         "bostäder",
+        "hyreshus",
         "Magnolia Projekt"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_191"
     },
     {
-      "headline": "Motion om beredskap för elektricitet delvis tillgodosedd",
-      "summary": "Två av tre propositioner i SD:s motion om utökad beredskap för elektricitet och kommunikation är tillgodosedda, tredje avslås.",
-      "detail": "David Larsson (SD) och Sigvard Blixt (SD) motionerade 2022-04-27 om att utöka beredskapen för elektricitet och kommunikation. Motionen innehöll tre förslag: inventering av reservgeneratorer, utredning om behov av reservgeneratorer på kommunala fastigheter och nyckelfunktioner, samt utredning av internetöverföring via satellit som reservsystem.\n\nBedömningen är att första och andra förslaget är tillgodosedda genom förvaltningarnas pågående arbete med att identifiera behov av reservlösningar i krissituationer. Tredje förslaget avslås eftersom det redan finns ett nationellt kommunikationssystem för säker informationsdeling i vardag, kris och höjd beredskap.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på bifall till tredje förslaget men detta avslogs.",
+      "headline": "Svar på motion om beredskap för elektricitet och kommunikation",
+      "human_headline": "Kommunen tillgodoser två av tre förslag om reservkraft och säkerhet",
+      "summary": "Kommunstyrelsen besvarar motion från Helena Ståhl och Sigvard Blixt (SD) om att utöka beredskapen för elektricitet och kommunikation. Två förslag är tillgodosedda genom pågående arbete med reservlösningar. Förslag om satellit-internet avslås.",
+      "plain_language_summary": "Kommunen säger ja till att inventera reservgeneratorer och utreda behov av dem, men nej till att undersöka satellitinternet för backup-kommunikation.",
+      "relevance": "Berör alla invånare genom påverkan på kommunens krishantering och resiliens.",
+      "detail": "Motion från David Larsson och Sigvard Blixt (SD), anmäld 2022-04-27, innehöll tre förslag: 1) inventering och utvärdering av befintliga reservgeneratorer, 2) utredning och konsekvensanalys av behov av reservgeneratorer på kritiska kommunala funktioner som saknar dem, 3) möjligheter för satellit-internet som reservsystem för kommunikation.\n\nBedömning: Förslagen 1 och 2 är tillgodosedda genom förvaltningarnas pågående arbete med att identifiera behov av reservlösningar i händelse av kris. Förslag 3 avslås eftersom det redan finns ett nationellt kommunikationssystem för säker informationsdelning i vardag, kris och höjd beredskap.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen. Helena Ståhl och Bo Ammer (SD) samt Markus Allard (ÖrP) reserverade sig mot avslaget av förslag 3.",
       "category": "trygghet",
-      "contested": true,
-      "location": null,
+      "decision_type": "motion",
+      "outcome": "delvis_bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 192",
       "quote": "Bedömningen är att motionens första och andra förslag är tillgodosedda genom förvaltningarnas pågående arbete med att identifiera behov av reservlösningar i händelse av kris.",
       "quote_page": "s. 13",
@@ -326,65 +431,86 @@
           "C",
           "L",
           "KD",
-          "V",
-          "MP"
+          "V"
         ],
         "against": [
-          "SD"
-        ],
-        "abstained": [
+          "SD",
           "ÖrP"
         ],
-        "result": "Bifall"
+        "abstained": [],
+        "result": "Delvis bifall"
       },
       "tags": [
-        "beredskap",
+        "krisberedskap",
         "elektricitet",
         "kommunikation",
-        "säkerhet"
+        "resiliens"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_192"
     },
     {
-      "headline": "Motion om vildsvinskött är redan tillgodosedd",
-      "summary": "Motion från Daniel Spiik (SD) om vildsvinskött som köttalternativ anses redan tillgodosedd.",
-      "detail": "Daniel Spiik (SD) motionerade 2022-04-27 om att Örebro kommun ska utreda möjligheterna att köpa in vildsvinskött som utökat köttalternativ till kommunala verksamheters menyer.\n\nBedömningen är att vildsvinskött redan finns med i kommunens upphandlingsavtal, varför motionen anses tillgodosedd. Bo Ammer (SD) yrkar bifall till detta förslag vilket Kommunstyrelsen beslutar.",
-      "category": "ovrigt",
-      "contested": false,
-      "location": null,
+      "headline": "Svar på motion om vildsvinskött som köttalternativ",
+      "human_headline": "Kommunen säger att vildsvinskött redan finns i upphandlingen",
+      "summary": "Kommunstyrelsen besvarar motion från Daniel Spiik (SD) om att utreda möjligheterna för att köpa in vildsvinskött som utökat köttalternativ. Motionen bedöms tillgodosedd då vildsvinskött redan finns med i upphandlingsavtal.",
+      "plain_language_summary": "Kommunen säger att det redan går att köpa vildsvinskött för verksamheternas matserveringar, så ingen ny utredning behövs.",
+      "relevance": null,
+      "detail": "Motion från Daniel Spiik (SD), anmäld 2022-04-27, föreslog att Örebro kommun utreder möjligheterna för att börja köpa in vildsvinskött som ett utökat köttalternativ till kommunala verksamheters menyer. Bedömning: Vildsvinskött finns redan med i upphandlingsavtal i dag, varför motionen är tillgodosedd.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "elever",
+        "aldre"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 193",
       "quote": "Vildsvinskött finns med i upphandlingsavtal redan i dag och att motionen därför är tillgodosedd.",
       "quote_page": "s. 14",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Tillgodosedd"
       },
       "tags": [
-        "vildsvinskött",
-        "livsmedel",
-        "upphandling"
+        "mat",
+        "upphandling",
+        "vildsvinskött"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_193"
     },
     {
-      "headline": "Motion om SMR-reaktor i Örebro avslogs",
-      "summary": "Motion från Carola Sunesson (SD) m.fl. om att undersöka förutsättningarna för SMR-reaktor i kommunen avslogs.",
-      "detail": "Carola Sunesson m.fl. (SD) motionerade 2022-11-23 om att Örebro kommun ska undersöka förutsättningarna för en framtida etablering av SMR-reaktor (Small Modular Reactors) i kommunen.\n\nBedömningen är att det finns alltför många osäkerhetsfaktorer för att Örebro kommun ska lägga pengar och resurser på att undersöka detta. Frågan behöver först stabiliseras på nationell nivå innan det kan vara aktuellt för kommunen.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på bifall till motionen medan Martha Wicklund (V) yrkade på avslag. Kommunstyrelsen beslutade enligt avslaget.",
-      "category": "politik",
-      "contested": true,
-      "location": null,
+      "headline": "Svar på motion om SMR-reaktor i Örebro kommun",
+      "human_headline": "Kommunen säger nej till utredning om små kärnkraftreaktorer",
+      "summary": "Kommunstyrelsen besvarar motion från Carola Sunesson m.fl. (SD) om att undersöka förutsättningarna för framtida etablering av SMR-reaktor (Small Modular Reactors) i kommunen. Motionen avslås då det finns alltför många osäkerhetsfaktorer.",
+      "plain_language_summary": "Kommunen säger att det är för osäkert och opreciserat att undersöka små kärnkraftreaktorer i Örebro just nu.",
+      "relevance": "Berör alla invånare genom påverkan på energiförsörjning och miljöval.",
+      "detail": "Motion från Carola Sunesson m.fl. (SD), anmäld 2022-11-23, föreslog att Örebro kommun undersöker förutsättningarna för en framtida etablering av SMR-reaktor (Small Modular Reactors) i kommunen.\n\nBedömning: Det finns alltför många osäkerhetsfaktorer för att Örebro kommun ska lägga pengar och resurser på att undersöka förutsättningarna för SMR-etablering. Frågan behöver stabiliseras på nationell nivå innan det kan vara aktuellt.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen. Martha Wicklund (V) yrkade att motionen avslås. Helena Ståhl, Bo Ammer (SD) och Markus Allard (ÖrP) reserverade sig.",
+      "category": "miljo",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 194",
       "quote": "Det finns alltför många osäkerhetsfaktorer för att Örebro kommun ska lägga pengar och resurser på att undersöka förutsättningarna för en framtida etablering av SMR-reaktor i kommunen.",
       "quote_page": "s. 15",
@@ -395,102 +521,97 @@
           "C",
           "L",
           "KD",
-          "V",
-          "MP"
+          "V"
         ],
         "against": [
           "SD",
           "ÖrP"
         ],
         "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
         "SMR-reaktor",
+        "kärnkraft",
         "energi",
-        "miljö",
-        "kärnkraft"
+        "miljö"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_194"
     },
     {
-      "headline": "Motion om mobil fritidsgård anses besvarad",
-      "summary": "Motion från Lea Strandberg (MP) om mobil fritidsgård anses besvarad utan utredningsuppdrag.",
-      "detail": "Lea Strandberg (MP) motionerade 2021-06-15 om att Örebro kommun ska utreda möjligheterna för en mobil fritidsgård. Motionen remitterades till Programnämnd samhällsbyggnad. Eftersom denna nämnd upphörde vid organisationsförändringen 2023 besvaras motionen nu av Kommunstyrelsen.\n\nBedömningen är att motionen är besvarad utan att något utredningsuppdrag ges. Martha Wicklund (V) och Susanne Lindholm Henningsson (KD) yrkade på bifall till motionen men detta avslogs.",
+      "headline": "Svar på motion om mobil fritidsgård i Örebro",
+      "human_headline": "Kommunen säger att motionen är redan besvarad",
+      "summary": "Kommunstyrelsen besvarar motion från Lea Strandberg (MP) om att införa en mobil fritidsgård. Motionen bedöms besvarad då den redan hanterats genom organisationsförändringen 2023.",
+      "plain_language_summary": "Kommunen svarar att motionen om en mobil fritidsgård redan är besvarad och behöver inte undersökas vidare.",
+      "relevance": "Berör ungdomar och fritidsverksamhet i kommunen.",
+      "detail": "Motion från Lea Strandberg (MP), anmäld 2021-06-15, föreslogs remitteras till Programnämnd Samhällsbyggnad för yttrande. Då Programnämnd Samhällsbyggnad inte längre finns efter organisationsförändringen 2023 besvaras motionen nu av Kommunstyrelsen. Motionen föreslog att programområde barn och utbildning får i uppdrag att utreda möjligheten för en mobil fritidsgård.\n\nBedömning: Motionen anses besvarad. Martha Wicklund (V) och Susanne Lindholm Henningsson (KD) yrkade bifall till motionen. Martha Wicklund (V) och Susanne Lindholm Henningsson (KD) reserverade sig mot beslutet.",
       "category": "kultur",
-      "contested": true,
-      "location": null,
+      "decision_type": "motion",
+      "outcome": "besvarad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "elever",
+        "foreningar"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 195",
       "quote": "Motionen anses besvarad.",
-      "quote_page": "s. 16",
+      "quote_page": "s. 16-17",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
-          "L",
-          "ÖrP",
-          "MP"
+          "L"
         ],
-        "against": [
+        "against": [],
+        "abstained": [
           "V",
           "KD"
         ],
-        "abstained": [
-          "SD"
-        ],
-        "result": "Bifall"
+        "result": "Besvarad"
       },
       "tags": [
         "fritidsgård",
-        "ungdom",
-        "kultur"
+        "ungdomar",
+        "fritidsverksamhet"
       ],
+      "confidence": "medel",
       "id": "2023-09-19_ko_195"
     },
     {
-      "headline": "Motion om Rådhusets julkalender avslogs",
-      "summary": "Motion från Sverigedemokraterna om att återuppliva Rådhusets julkalender avslogs.",
-      "detail": "Bo Ammer (SD) och Helena Ståhl (SD) motionerade om att Örebro kommun ska utreda möjligheterna för att återuppliva Rådhusets julkalender i egen regi. Detta skulle kunna ske genom att ta över varumärket eller utveckla ett eget återkommande projekt med liknande koncept.\n\nMotionen avslogs. Helena Ståhl (SD) och Susanne Lindholm Henningsson (KD) yrkade på bifall men Kommunstyrelsen beslutade enligt avslaget.",
+      "headline": "Svar på motion om att återuppliva Rådhusets julkalender",
+      "human_headline": "Kommunen säger nej till att starta julkalenderprojekt igen",
+      "summary": "Kommunstyrelsen besvarar motion från Bo Ammer och Helena Ståhl (SD) om att utreda möjligheterna för att återuppliva Rådhusets julkalender. Motionen avslås.",
+      "plain_language_summary": "Kommunen säger nej till att undersöka hur man kan ta över eller starta en likande julkalender igen.",
+      "relevance": "Berör invånare genom påverkan på julaktiviteter och kulturutbud.",
+      "detail": "Motion från Bo Ammer och Helena Ståhl (SD) föreslog att utreda möjligheterna för att återuppliva Rådhusets julkalender i egen regi, antingen genom att ta över varumärket eller genom att utveckla och starta upp ett eget återkommande projekt med liknande koncept.\n\nBedömning: Motionen avslås. Helena Ståhl (SD) och Susanne Lindholm Henningsson (KD) yrkade bifall till motionen. Helena Ståhl, Bo Ammer (SD) och Susanne Lindholm Henningsson (KD) reserverade sig mot beslutet.",
       "category": "kultur",
-      "contested": true,
-      "location": "Rådhuset",
-      "paragraph_ref": "§ 196",
-      "quote": "Motionen handlar om att utreda möjligheterna för att återuppliva Rådhusets julkalender i egen regi.",
-      "quote_page": "s. 17",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "V",
-          "ÖrP",
-          "MP"
-        ],
-        "against": [
-          "SD",
-          "KD"
-        ],
-        "abstained": [],
-        "result": "Avslaget"
-      },
-      "tags": [
-        "julkalender",
-        "Rådhuset",
-        "kultur"
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare",
+        "foreningar"
       ],
-      "id": "2023-09-19_ko_196"
-    },
-    {
-      "headline": "Tre nya motioner remitterade för beredning",
-      "summary": "Tre nya motioner från Kommunfullmäktige remitteras för beredning: om skadegörelse i skolor, Mamma till Mamma, och skolskjuts.",
-      "detail": "Kommunfullmäktige har överlämnat tre motioner till Kommunstyrelsen för beredning:\n\n1. Motion från Helena Ståhl (SD) m.fl. om hantering av skadegörelse i skolor - remitteras till Grundskolenämnden.\n\n2. Motion från Paula Säker (KD) om Mamma till Mamma - bereds av Kommunstyrelsen.\n\n3. Motion från Susanne Lindholm (KD) om skolskjuts med barnen i fokus - bereds av Kommunstyrelsen.",
-      "category": "skola",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 197",
-      "quote": "Kommunfullmäktige har den 30 augusti överlämnat följande motioner till Kommunstyrelsen för beredning.",
+      "geographic_scope": "stadsdel",
+      "location_name": "Rådhuset",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 196",
+      "quote": "Motionen avslås.",
       "quote_page": "s. 18",
       "voting": {
         "for": [
@@ -498,71 +619,267 @@
           "M",
           "C",
           "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
+          "V"
         ],
         "against": [],
+        "abstained": [
+          "SD",
+          "KD",
+          "ÖrP"
+        ],
+        "result": "Avslagen"
+      },
+      "tags": [
+        "julkalender",
+        "kultur",
+        "Rådhuset",
+        "jul"
+      ],
+      "confidence": "hog",
+      "id": "2023-09-19_ko_196"
+    },
+    {
+      "headline": "Remittering av tre nya motioner",
+      "human_headline": "Kommunen mottar tre nya motioner för beredning",
+      "summary": "Kommunstyrelsen tar emot tre motioner från Kommunfullmäktige den 30 augusti för remittering och beredning: 1) Motion om hantering av skadegörelse i skolor (Helena Ståhl m.fl. SD) remitteras till Grundskolenämnden, 2) Motion om Mamma till Mamma (Paula Säker KD) bereds av Kommunstyrelsen, 3) Motion om skolskjuts med barnen i fokus (Susanne Lindholm KD) bereds av Kommunstyrelsen.",
+      "plain_language_summary": "Kommunen mottar tre nya motioner som nu ska granskas och behandlas av olika nämner och förvaltningar.",
+      "relevance": null,
+      "detail": "Kommunfullmäktige har den 30 augusti överlämnat tre motioner till Kommunstyrelsen: 1) Motion från Helena Ståhl m.fl. (SD) om hantering av skadegörelse i skolor (Ks 1294/2023), 2) Motion från Paula Säker (KD) om Mamma till Mamma (Ks 1295/2023), 3) Motion från Susanne Lindholm (KD) om skolskjuts med barnen i fokus (Ks 1296/2023). Motion 1 remitteras till Grundskolenämnden. Motioner 2 och 3 bereds av Kommunstyrelsen.",
+      "category": "formellt",
+      "decision_type": "remiss",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 197",
+      "quote": "Kommunfullmäktige har den 30 augusti överlämnat följande motioner till Kommunstyrelsen för beredning.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [],
+        "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Noterad"
       },
       "tags": [
         "motioner",
-        "skola",
+        "remittering",
         "skolskjuts",
         "skadegörelse"
       ],
+      "confidence": "hog",
       "id": "2023-09-19_ko_197"
+    },
+    {
+      "headline": "Rapport över finansverksamheter under augusti läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar om sitt finansiella arbete i augusti",
+      "summary": "Kommunledningsförvaltningen anmäler rapport över finansverksamheter för augusti 2023. Rapporten läggs till handlingarna.",
+      "plain_language_summary": "Kommunen rapporterar om hur den hanterat sina finansiella transaktioner under augusti månad.",
+      "relevance": null,
+      "detail": "Kommunledningsförvaltningen anmäler rapport över finansverksamheter för augusti 2023 enligt rutin.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 198",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "finanser",
+        "rapport",
+        "augusti"
+      ],
+      "confidence": "hog",
+      "id": "2023-09-19_ko_198"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut under augusti läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar om beslut fattat under delegering",
+      "summary": "Kommunledningsförvaltningen anmäler beslut fattade med stöd av delegation under augusti 2023 för både övrig verksamhet och finansverksamhet. Enligt lag 6 kap. 40 § ska delegationsbeslut rapporteras till nästa sammanträde för att få laga kraft.",
+      "plain_language_summary": "Kommunen rapporterar om alla beslut som givna tjänstemän och politiska ledare gjorde på eget ansvar under augusti.",
+      "relevance": null,
+      "detail": "Alla beslut fattade med stöd av delegation av tjänsteperson, ordförande, presidium eller utskott ska anmälas till Kommunstyrelsen på nästa sammanträde enligt 6 kap. 40 § Kommunallagen. Det är först efter återrapporteringen som delegationsbesluten får laga kraft och det är ett sätt att hålla ledamöter informerade. Delegationsförteckningen för Kommunstyrelsen antogs 2003 och reviderades senast 2023-01-17. Rapporter sammanställs för både övrig verksamhet och finansverksamhet.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 199",
+      "quote": "Alla beslut fattade med stöd av delegation av tjänsteperson, ordförande, presidium eller utskott ska anmälas till Kommunstyrelsen på närmast följande sammanträde enligt 6 kap. 40 § KL.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "delegation",
+        "beslut",
+        "laga kraft"
+      ],
+      "confidence": "hog",
+      "id": "2023-09-19_ko_199"
+    },
+    {
+      "headline": "Anmälan av handlingar läggs till handlingarna",
+      "human_headline": "Kommunen mottar och registrerar diverse handlingar",
+      "summary": "Kommunledningsförvaltningen anmäler handlingar som bedöms relevanta för Kommunstyrelsen att få kännedom om under augusti, bland annat inbjudan till remisskonferens om ny överenskommelse för hälso- och sjukvård i hemmet.",
+      "plain_language_summary": "Kommunen mottar olika handlingar och dokument som den registrerar för att ledamöterna ska kunna läsa dem.",
+      "relevance": null,
+      "detail": "Kommunledningsförvaltningen anmäler varje månad handlingar som bedöms relevanta för Kommunstyrelsen. För denna månad ingår bland annat inbjudan till remisskonferens rörande ny överenskommelse för hälso- och sjukvård i hemmet.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 200",
+      "quote": "Varje månad anmäler Kommunledningsförvaltningen handlingar som inkommit och bedöms relevanta för Kommunstyrelsen att få kännedom om.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "handlingar",
+        "administration",
+        "informationsarende"
+      ],
+      "confidence": "hog",
+      "id": "2023-09-19_ko_200"
+    },
+    {
+      "headline": "Kommundirektörens rapport för augusti läggs till handlingarna",
+      "human_headline": "Kommundirektören rapporterar om nyheter i förvaltningen",
+      "summary": "Kommundirektören redogör i sin månadsvisa rapport för nyheter inom förvaltningen under augusti 2023. Rapporten läggs till handlingarna.",
+      "plain_language_summary": "Kommundirektören berättar om vad som hänt under månaden inom kommunens olika verksamheter.",
+      "relevance": null,
+      "detail": "Kommundirektören redogör i en rapport för nyheter inom förvaltningen enligt rutin.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 201",
+      "quote": "Kommundirektören redogör i en rapport för nyheter inom förvaltningen.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "kommundirektör",
+        "rapport",
+        "förvaltning"
+      ],
+      "confidence": "hog",
+      "id": "2023-09-19_ko_201"
     }
   ],
   "motions_of_interest": [
     {
       "title": "Utöka beredskapen för elektricitet och kommunikation",
       "party": "SD",
-      "status": "Delvis bifallen - två förslag tillgodosedda, tredje avslaget"
+      "status": "delvis_bifallen"
     },
     {
       "title": "Vildsvinskött som nytt köttalternativ",
       "party": "SD",
-      "status": "Bifallen - redan tillgodosedd"
+      "status": "tillgodosedd"
     },
     {
       "title": "SMR-reaktor i Örebro kommun",
       "party": "SD",
-      "status": "Avslagen"
+      "status": "avslagen"
     },
     {
-      "title": "Mobil fritidsgård i Örebro",
+      "title": "Införa en mobil fritidsgård i Örebro",
       "party": "MP",
-      "status": "Avslagen - anses besvarad"
+      "status": "besvarad"
     },
     {
       "title": "Återuppliva Rådhusets julkalender",
       "party": "SD",
-      "status": "Avslagen"
+      "status": "avslagen"
     },
     {
       "title": "Hantering av skadegörelse i skolor",
       "party": "SD",
-      "status": "Remitterad till Grundskolenämnden"
+      "status": "under_beredning"
     },
     {
       "title": "Mamma till Mamma",
       "party": "KD",
-      "status": "Bereds av Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
       "title": "Skolskjuts med barnen i fokus",
       "party": "KD",
-      "status": "Bereds av Kommunstyrelsen"
+      "status": "under_beredning"
     }
   ],
-  "skipped_items_count": 4,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2023-09-19",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 15
+  "decisions_count": 19
 }

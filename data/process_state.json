@@ -79,7 +79,47 @@
       "meeting_date": "2023-05-31",
       "decisions_count": 0,
       "status": "error"
+    },
+    "47136c5b90413df6ffa300057a056162": {
+      "url": "https://www.orebro.se/download/18.50e8c760188b9ef82db27cd/1687332011794/2023-06-05%20Kommunstyrelsen%20%C2%A7%C2%A7%20137-138,%20%C2%A7%20158.pdf",
+      "processed_at": "2026-03-25T12:52:21.381840",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-06-05",
+      "decisions_count": 3,
+      "status": "ok"
+    },
+    "766dee9af4dc78dee57e28cf534f76f9": {
+      "url": "https://www.orebro.se/download/18.4db05994188ba05ea203715/1687442569121/2023-06-12%20och%202023-06-13%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T12:54:31.639409",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-06-12",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "772b147cf2bc0c994931a4c287888f39": {
+      "url": "https://www.orebro.se/download/18.58059dd318a8d4dd6122da1/1695726721111/2023-08-29%20Kommunstyrelsen%20%C2%A7%C2%A7%20159%E2%80%93160,%20164%E2%80%93178%20,180%E2%80%93181.pdf",
+      "processed_at": "2026-03-25T12:56:17.524116",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-08-29",
+      "decisions_count": 19,
+      "status": "ok"
+    },
+    "355aa93e2764a40cafbb46640c12fb2e": {
+      "url": "https://www.orebro.se/download/18.43958d8118a20dbc1cf43cf/1694090652096/2023-08-30%20Kommunfullm%C3%A4ktige%20%C2%A7%C2%A7%20267-304.pdf",
+      "processed_at": "2026-03-25T12:58:22.309241",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-08-30",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "7e9c91bb34b716ae647389e653c52cee": {
+      "url": "https://www.orebro.se/download/18.6140b52918b37d6048821e4/1698158914227/2023-09-19%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T13:00:02.741410",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-09-19",
+      "decisions_count": 19,
+      "status": "ok"
     }
   },
-  "last_run": "2026-03-25T12:51:55.153211"
+  "last_run": "2026-03-25T13:00:02.741436"
 }
