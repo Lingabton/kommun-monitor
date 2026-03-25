@@ -817,19 +817,28 @@ async function renderAttendance() {
       return;
     }
     let html = '';
+    // Aggregate per party
+    const byParty = {};
     const threshold = Math.ceil(data.total_meetings * 0.10);
-    const filtered = data.absent.filter(a => a.absent_count >= threshold);
-    if (filtered.length === 0) {
-      e.innerHTML = '<p style="font-size:13px;color:var(--text-light)">Inga ledamöter med mer än 10% frånvaro.</p>';
+    data.absent.forEach(a => {
+      if (a.absent_count < threshold) return;
+      if (!byParty[a.party]) byParty[a.party] = { count: 0, total_absences: 0 };
+      byParty[a.party].count++;
+      byParty[a.party].total_absences += a.absent_count;
+    });
+
+    const sorted = Object.entries(byParty).sort((a, b) => b[1].count - a[1].count);
+    if (sorted.length === 0) {
+      e.innerHTML = '<p style="font-size:13px;color:var(--text-light)">Inga partier med ledamöter med mer än 10% frånvaro.</p>';
       return;
     }
-    filtered.forEach(a => {
-      const color = PC[a.party] || "#999";
-      const tc = a.party === "SD" ? "#1a1a00" : "#fff";
+    sorted.forEach(([party, info]) => {
+      const color = PC[party] || "#999";
+      const tc = party === "SD" ? "#1a1a00" : "#fff";
       html += '<div class="att-row">' +
-        '<span class="att-party" style="background:' + color + ';color:' + tc + '">' + a.party + '</span>' +
-        '<span class="att-name">' + a.name.split('(')[0].trim() + '</span>' +
-        '<span class="att-count">' + a.absent_count + ' av ' + data.total_meetings + ' möten</span>' +
+        '<span class="att-party" style="background:' + color + ';color:' + tc + '">' + party + '</span>' +
+        '<span class="att-name">' + (PN[party] || party) + '</span>' +
+        '<span class="att-count">' + info.count + ' ' + (info.count === 1 ? 'ledamot' : 'ledamöter') + ' med >10% frånvaro</span>' +
         '</div>';
     });
     e.innerHTML = html;
