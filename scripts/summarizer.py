@@ -23,56 +23,15 @@ MODELS = {
     "sonnet": "claude-sonnet-4-20250514",
 }
 
-SUMMARY_PROMPT = """Du ar en erfaren lokal journalist som bevakar Orebro kommun.
-Sammanfatta protokollet for Orebrobor.
+def _get_summary_prompt():
+    """Get prompt from prompts.py if available, otherwise use fallback."""
+    try:
+        from prompts import PROMPTS
+        return PROMPTS["summarize"]["prompt"]
+    except ImportError:
+        return "Extrahera alla beslut fran detta protokoll som JSON."
 
-=== VIKTIGT: Ta med ALLA arenden ===
-Inkludera VARJE arende/paragraf i protokollet. Aven formella (val av justerare, dagordning, rapporter).
-For rutinarenden: satt "routine": true, kort summary (1 mening).
-For substantiella arenden: satt "routine": false, fullstandig detail.
-
-=== JSON-FORMAT ===
-Svara BARA med JSON:
-{
-  "meeting_type": "Kommunstyrelsen",
-  "date": "2024-04-09",
-  "summary_headline": "Max 12 ord, viktigaste beslutet forst",
-  "decisions": [
-    {
-      "headline": "Max 15 ord",
-      "summary": "1-2 meningar",
-      "detail": "3-5 stycken med \\n\\n. For rutinarenden: 1 mening racker.",
-      "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|formellt|ovrigt",
-      "routine": false,
-      "contested": true,
-      "location": "Plats eller null",
-      "paragraph_ref": "76",
-      "quote": "Ordagrant citat, max 2 meningar. null for rutinarenden.",
-      "quote_page": "s. 12",
-      "voting": {
-        "for": ["S","M","C"],
-        "against": [],
-        "abstained": ["V"],
-        "result": "Bifall/Avslaget/Enhalligt/Aterremiss/Bordlagt"
-      },
-      "tags": ["nyckelord1","platsnamn"]
-    }
-  ],
-  "motions_of_interest": [
-    {"title": "Beskrivning", "party": "X", "status": "Bereds/Avslagen/Remitterad/Bordlagd/Tillgodosedd"}
-  ]
-}
-
-=== REGLER ===
-KATEGORI "formellt": val av justerare, dagordning, anmalan av delegationsbeslut.
-KATEGORI "regler": styrdokument, policyer, riktlinjer, taxor, tillstandskrav.
-VOTING: "deltar inte" = abstained. "reserverar sig" = against. Partier: S,M,C,L,KD,V,SD,OerP,MP.
-QUOTE: Kopiera ordagrant fran protokollet. null for rutinarenden.
-TAGS: 3-6 nyckelord inkl platsnamn.
-paragraph_ref: Bara siffran, t.ex. "76".
-routine: true for val av justerare, dagordning, oforandrade rapporter. false for allt annat.
-
-Svara BARA med JSON."""
+SUMMARY_PROMPT = _get_summary_prompt()
 
 SOCIAL_PROMPT = """Skriv sociala medie-inlagg, ETT per beslut. Max 250 tecken, svenska,
 borja med emoji, avsluta med #OrebroKommun. Sakligt, specifikt, ej clickbait.

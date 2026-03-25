@@ -27,23 +27,13 @@ PROMPTS = {
     "summarize": {
         "model": "haiku",
         "max_tokens": 16000,
-        "description": "Extract and summarize all interesting decisions from a protocol",
-        "prompt": """Du ar en erfaren lokal journalist som bevakar Orebro kommun.
-Sammanfatta protokollet for Orebrobor — invanare, foretagare, journalister och politiker.
+        "description": "Extract structured decision data from a municipal protocol",
+        "prompt": """Du ar en erfaren lokal journalist. Extrahera ALLA arenden fran detta protokoll fran Orebro kommun.
 
-=== TA MED beslut som: ===
-1. Paverkar invanare: byggen, infrastruktur, skolor, budget, miljo, trygghet
-2. Paverkar foretagare: regler, uteserveringar, parkering, tillstand, avgifter, taxor
-3. Ar politiskt intressant: omstridda, reservationer, voteringer, avslag
-4. Handlar om pengar: investeringar >1 MSEK, forsaljningar, avskrivningar
-5. Andrar regler: policyer, riktlinjer, strategier, styrdokument, delegationsordningar
-6. Ror motioner/ledamotsinitiativ, oavsett utfall
-7. Handlar om personal/organisation: omorganisationer, chefsrekryteringar
-
-=== VIKTIGT: Ta med ALLA arenden/paragrafer ===
-Inkludera VARJE arende i protokollet, aven formella (val av justerare, godkannande av dagordning, rapporter som laggs till handlingarna).
-For formella/rutinarenden: satt "routine": true och skriv en kort summary (1 mening racker).
-For substantiella arenden: satt "routine": false och skriv fullstandig detail.
+=== INKLUDERA VARJE ARENDE ===
+Ta med ALLA paragrafer — aven formella (val av justerare, dagordning, rapporter).
+For rutinarenden: kortare text, routine=true.
+For substantiella arenden: fullstandig detail, routine=false.
 
 === JSON-FORMAT (svara BARA med detta): ===
 {
@@ -52,38 +42,65 @@ For substantiella arenden: satt "routine": false och skriv fullstandig detail.
   "summary_headline": "Max 12 ord, viktigaste beslutet forst",
   "decisions": [
     {
-      "headline": "Max 15 ord, specifikt och informativt",
-      "summary": "1-2 meningar. Vad beslutades? Varfor spelar det roll?",
-      "detail": "3-5 stycken (\\n\\n). Inkludera: bakgrund, konkret beslut, belopp/tider/platser, partier for/mot, konsekvenser. For rutinarenden: 1 mening racker.",
-      "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|formellt|ovrigt",
+      "headline": "Max 15 ord, protokollnara och korrekt",
+      "human_headline": "Klarsprakig rubrik som en vanlig person forstar. Verb forst. Max 12 ord. Exempel: Kommunen sager nej till motorgard for ungdomar",
+      "summary": "1-2 meningar. Vad beslutades?",
+      "plain_language_summary": "1 mening. Forklara for nagon utan forkunskap vad beslutet innebar i praktiken.",
+      "relevance": "1 mening: vem paverkas och hur? Bara om det framgar av beslutet. null om oklart.",
+      "detail": "3-5 stycken (\\n\\n). Bakgrund, beslut, belopp, partier, konsekvenser. For rutinarenden: 1 mening.",
+
+      "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|omsorg|naringsliv|formellt|ovrigt",
+      "decision_type": "motion|interpellation|detaljplan|rapport|upphandling|budget|policy|taxa|remiss|valarende|informationsarende|delegation|ovrigt",
+      "outcome": "bifallen|avslagen|besvarad|noterad|aterremitterad|bordlagd|delvis_bifallen|tillgodosedd",
+
       "routine": false,
-      "contested": true,
-      "location": "Plats i Orebro eller null",
+      "routine_reason": "null om routine=false. Annars kort forklaring: delegationsarende|formellt godkannande|aterkommande rapport|personval|teknisk justering",
+
+      "impact_level": "ingen|begransad|tydlig|stor",
+      "public_interest_score": 3,
+      "target_group": ["invanare"],
+      "geographic_scope": "hela_kommunen|stadsdel|skola|specifik_fastighet",
+      "location_name": "Platsnamn eller null",
+
+      "controversial_level": "ingen|lag|medel|hog",
+      "has_vote": false,
+      "has_reservation": false,
+
       "paragraph_ref": "76",
-      "quote": "Ordagrant citat, max 2 meningar, som fangar beslutet. null for rutinarenden.",
+      "quote": "Ordagrant citat, max 2 meningar. null for rutinarenden.",
       "quote_page": "s. 12",
       "voting": {
         "for": ["S","M","C"],
-        "against": ["OrP"],
+        "against": [],
         "abstained": ["V"],
-        "result": "Bifall/Avslaget/Enhalligt/Aterremiss/Bordlagt"
+        "result": "Bifall"
       },
-      "tags": ["nyckelord1","platsnamn","amnesord"]
+      "tags": ["nyckelord1","platsnamn","amnesord"],
+      "confidence": "hog|medel|lag"
     }
   ],
   "motions_of_interest": [
-    {"title": "Beskrivning", "party": "X", "status": "Bereds/Avslagen/Remitterad/Bordlagd/Tillgodosedd"}
+    {"title": "Beskrivning", "party": "X", "status": "bifallen|avslagen|besvarad|remitterad|bordlagd|tillgodosedd|under_beredning"}
   ]
 }
 
 === REGLER ===
-paragraph_ref: BARA siffran (t.ex. "76").
+ALLA ARENDEN: Inkludera varje paragraf. Skippa inget.
+paragraph_ref: Bara siffran (t.ex. "76").
+PARTIER: S, M, C, L, KD, V, SD, OerP, MP. Anvand BARA dessa forkortningar. OerP = Orebropartiet.
 VOTING: "deltar inte" = abstained. "reserverar sig" = against. "yrkar avslag" = against.
-Om votering: ange resultatet som "Avslags 39-22 (votering)".
-QUOTE: Kopiera ORDAGRANT. Valj den mening som bast forklarar beslutet.
-TAGS: 3-6 st. Inkludera platsnamn, amnen, nyckelbegrepp. Anvands for att koppla beslut over tid.
-KATEGORI "regler": Styrdokument, policyer, taxor, avgifter, delegationsordningar, tillstandskrav.
-DETAIL: Skriv sa en lasare utan forkunskap forstar kontexten.
+QUOTE: Kopiera ORDAGRANT fran protokollet. null for rutinarenden.
+TAGS: 3-6 st. Inkludera platsnamn, amnen, nyckelbegrepp.
+human_headline: ALDRIG clickbait. Trogen beslutet. Verb forst. "Kommunen koper mark" inte "Chockerande markaffar".
+plain_language_summary: Skriv som om du forklarar for en granne. Inga facktermer.
+relevance: Bara KONKRET paverkan som framgar av beslutet. Skriv null om den ar oklar.
+public_interest_score: 1=ingen bryr sig, 2=nisch, 3=lokalt intressant, 4=berör manga, 5=stor nyhetsvinkel.
+target_group: Valj fran: invanare|foretagare|elever|vardnadshavare|aldre|kommunanstallda|foreningar|bilister|fastighetsagare|alla.
+impact_level: "ingen" for rena formalia. "stor" for budget, omorganisationer, stora byggen.
+confidence: "lag" om protokolltexten ar otydlig eller svartolkad.
+category "formellt": val av justerare, dagordning, anmalan av delegationsbeslut.
+category "omsorg": aldrevard, LSS, socialtjanst, funktionsstod.
+category "naringsliv": foretagsfragor, upphandling, naringslivsprogram.
 
 Svara BARA med JSON."""
     },
