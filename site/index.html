@@ -66,37 +66,46 @@ nav .mob-toggle { display: none; background: none; border: none; font-size: 22px
 /* ── Hero (compact, left-aligned) ── */
 .hero {
   background: linear-gradient(160deg, #0a1628, var(--navy) 40%, var(--navy-light));
-  color: #fff; padding: 32px 24px 28px;
+  color: #fff; padding: 28px 24px 24px;
 }
-.hero .inner { max-width: 960px; margin: 0 auto; display: grid; grid-template-columns: 1fr auto; gap: 32px; align-items: center; }
+.hero .inner { max-width: 960px; margin: 0 auto; }
 .hero .left { text-align: left; }
 .hero h1 {
-  font-family: 'Fraunces', serif; font-size: clamp(22px, 3.5vw, 30px);
-  font-weight: 300; line-height: 1.2; margin-bottom: 8px;
+  font-size: clamp(22px, 3.5vw, 28px);
+  font-weight: 700; line-height: 1.2; margin-bottom: 8px; letter-spacing: -0.3px;
 }
-.hero h1 em { font-weight: 600; font-style: italic; }
-.hero .sub { font-size: 14px; opacity: .55; margin-bottom: 14px; line-height: 1.6; max-width: 480px; }
+.hero h1 em { font-style: normal; color: #93c5fd; }
+.hero .sub { font-size: 14px; opacity: .5; margin-bottom: 14px; line-height: 1.6; max-width: 520px; }
 .hero .hero-search {
-  display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap;
+  display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap;
 }
 .hero .hero-search input {
   padding: 9px 14px; border: 2px solid rgba(255,255,255,.15); border-radius: 8px;
   background: rgba(255,255,255,.08); color: #fff; font: inherit; font-size: 14px;
-  outline: none; width: 260px; transition: border-color .2s;
+  outline: none; width: 280px; transition: border-color .2s;
 }
-.hero .hero-search input::placeholder { color: rgba(255,255,255,.4); }
+.hero .hero-search input::placeholder { color: rgba(255,255,255,.35); }
 .hero .hero-search input:focus { border-color: rgba(255,255,255,.4); }
 .hero .chips { display: flex; gap: 6px; flex-wrap: wrap; }
 .hero .chip {
   padding: 5px 12px; border-radius: 16px; border: 1px solid rgba(255,255,255,.15);
-  background: rgba(255,255,255,.06); color: rgba(255,255,255,.7);
+  background: rgba(255,255,255,.06); color: rgba(255,255,255,.65);
   font-size: 12px; font-weight: 500; cursor: pointer; transition: all .15s; text-decoration: none;
 }
 .hero .chip:hover { background: rgba(255,255,255,.15); color: #fff; }
-.hero .stats { display: flex; gap: 20px; flex-wrap: wrap; }
-.hero .stat { text-align: center; }
-.hero .stat .n { font-family: 'Fraunces', serif; font-size: 28px; font-weight: 700; }
-.hero .stat .l { font-size: 11px; opacity: .45; margin-top: 2px; }
+
+/* ── Stats strip (below hero) ── */
+.stats-strip {
+  background: var(--card); border-bottom: 1px solid var(--border);
+  padding: 10px 24px;
+}
+.stats-strip .inner {
+  max-width: 960px; margin: 0 auto;
+  display: flex; justify-content: center; gap: 28px; flex-wrap: wrap;
+}
+.stats-strip .stat { display: flex; align-items: baseline; gap: 5px; }
+.stats-strip .stat .n { font-size: 18px; font-weight: 700; }
+.stats-strip .stat .l { font-size: 11px; color: var(--text-light); }
 
 /* ── Explainer ── */
 .explainer { max-width: 960px; margin: -20px auto 0; padding: 0 24px; position: relative; z-index: 2; }
@@ -113,8 +122,8 @@ nav .mob-toggle { display: none; background: none; border: none; font-size: 22px
 /* ── Section ── */
 section { max-width: 960px; margin: 0 auto; padding: 36px 24px; }
 section .st {
-  font-family: 'Fraunces', serif; font-size: clamp(20px, 3vw, 26px);
-  font-weight: 400; margin-bottom: 4px;
+  font-size: clamp(18px, 2.5vw, 22px);
+  font-weight: 700; margin-bottom: 4px; letter-spacing: -0.2px;
 }
 section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
 
@@ -266,7 +275,7 @@ section .ss { font-size: 13px; color: var(--text-light); margin-bottom: 20px; }
   margin-bottom: 12px; flex-wrap: wrap; gap: 8px;
 }
 .latest-meeting h2 {
-  font-family: 'Fraunces', serif; font-size: 20px; font-weight: 400;
+  font-size: 18px; font-weight: 700; letter-spacing: -0.2px;
 }
 .latest-meeting .meeting-meta {
   font-size: 12px; color: var(--text-light);
@@ -329,10 +338,9 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   nav .links.open { display: flex; }
   nav .mob-toggle { display: block; }
   .fl input { width: 100%; }
-  .hero { padding: 24px 24px 28px; }
-  .hero .inner { grid-template-columns: 1fr; }
-  .hero .stats { gap: 12px; }
+  .hero { padding: 20px 24px 20px; }
   .hero .hero-search input { width: 100%; }
+  .stats-strip .inner { gap: 16px; }
 }
 
 @keyframes fu { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
@@ -369,12 +377,15 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
         <a class="chip" href="#beslut" onclick="cCat='budget';visibleCount=PAGE_SIZE;renderDecisions()">💰 Budget</a>
         <a class="chip" href="#beslut" onclick="cCat='trygghet';visibleCount=PAGE_SIZE;renderDecisions()">🛡️ Trygghet</a>
         <a class="chip" href="#beslut" onclick="cCat='infrastruktur';visibleCount=PAGE_SIZE;renderDecisions()">🛣️ Trafik</a>
+        <a class="chip" href="#beslut" onclick="setContestedFilter()">⚡ Omstridda</a>
         <a class="chip" href="#beslut" onclick="cCat=null;cQ='';visibleCount=PAGE_SIZE;renderDecisions()">Alla</a>
       </div>
-      <div style="font-size:11px;opacity:.35;margin-top:10px" id="hero-updated"></div>
     </div>
-    <div class="stats" id="hs"></div>
   </div>
+</div>
+<div class="stats-strip">
+  <div class="inner" id="hs"></div>
+  <div style="text-align:center;font-size:10px;color:var(--text-light);margin-top:4px" id="hero-updated"></div>
 </div>
 
 <!-- 2. Topic highlights: 5 real decisions by category -->
@@ -394,8 +405,8 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
     <div style="font-size:12px;color:var(--text-light);line-height:1.5">Se vilka frågor partierna prioriterar och hur ofta de reserverar sig.</div>
   </a>
   <a href="insikter/" style="background:var(--card);border-radius:10px;padding:16px 20px;box-shadow:0 1px 4px rgba(0,0,0,.03);text-decoration:none;color:var(--text)">
-    <div style="font-size:14px;font-weight:700;margin-bottom:4px">🔍 Mönster i besluten</div>
-    <div style="font-size:12px;color:var(--text-light);line-height:1.5"><span style="background:#e0f2fe;color:#0369a1;font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px">AUTOMATISK ANALYS</span> Vilka frågor återkommer? Var finns oenighet?</div>
+    <div style="font-size:14px;font-weight:700;margin-bottom:4px">🔍 Analys och statistik</div>
+    <div style="font-size:12px;color:var(--text-light);line-height:1.5"><span style="background:#e0f2fe;color:#0369a1;font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px">BERÄKNAD FRÅN DATA</span> Vilka frågor återkommer? Var är partierna oense?</div>
   </a>
 </div>
 
@@ -615,23 +626,24 @@ async function init() {
   renderFooterStats();
 }
 
+function setContestedFilter() {
+  cCat = null; cQ = ''; visibleCount = PAGE_SIZE;
+  // Filter to only contested in renderDecisions
+  window._contestedOnly = true;
+  renderDecisions();
+}
+
 function renderStats() {
   const contested = A.filter(d => isContested(d)).length;
   const e = document.getElementById("hs");
   const ds = D.meetings.map(m => m.date).sort();
   const latest = ds[ds.length - 1];
-  document.getElementById("hero-updated").textContent = "Senast uppdaterad: " + fmt(latest) + " · Data sedan " + ds[0].slice(0,4);
-  const items = [
-    { n: A.length, l: "beslut", c: "#60a5fa" },
-    { n: contested, l: "omstridda", c: "#f87171" },
-    { n: D.meetings.length, l: "sammanträden", c: "#34d399" },
-    { n: Object.keys(PC).length, l: "partier", c: "#c084fc" },
-  ];
-  items.forEach((s, i) => {
-    e.innerHTML += '<div class="stat fu" style="animation-delay:' + (i * 60) + 'ms">' +
-      '<div class="n" style="color:' + s.c + '">' + s.n + '</div>' +
-      '<div class="l">' + s.l + '</div></div>';
-  });
+  document.getElementById("hero-updated").textContent = "Uppdaterad " + fmt(latest) + " · " + ds[0].slice(0,4) + "–" + ds[ds.length-1].slice(0,4);
+  e.innerHTML =
+    '<div class="stat"><div class="n">' + A.length + '</div><div class="l">beslut</div></div>' +
+    '<div class="stat"><div class="n" style="color:var(--red)">' + contested + '</div><div class="l">omstridda</div></div>' +
+    '<div class="stat"><div class="n">' + D.meetings.length + '</div><div class="l">sammanträden</div></div>' +
+    '<div class="stat"><div class="n">' + Object.keys(PC).length + '</div><div class="l">partier</div></div>';
 }
 
 // Topic highlights: one recent decision per major category
@@ -834,7 +846,10 @@ function renderFilters() {
 
 // Fix 2: Group decisions by meeting date
 function renderDecisions() {
+  const contestedOnly = window._contestedOnly || false;
+  window._contestedOnly = false;
   const filtered = A.filter(d => {
+    if (contestedOnly && !isContested(d)) return false;
     if (cYear && !d.mDate.startsWith(cYear)) return false;
     if (cCat && g(d,"cat","category") !== cCat) return false;
     if (cQ) {
