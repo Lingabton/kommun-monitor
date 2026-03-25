@@ -8,22 +8,22 @@ Tre huvudproblem: förtroende, konkretion, vanebildning.
 
 ### P1 — Förtroende & trovärdighet
 - [x] "Varför lita på detta?"-sektion: offentliga källor, länk till original, AI kan ha fel, ingen koppling till kommunen, öppen data, kontakt/rättelsefunktion
-- [ ] Metodtransparens på insiktssidan: definiera "omstritt", "ovanliga allianser", "uppmärksamhetsvärde"
+- [x] Metodtransparens på insiktssidan: definiera "omstritt", "ovanliga allianser", "uppmärksamhetsvärde"
 - [x] Ta bort/neutralisera laddade formuleringar ("i praktiken total kontroll" → "majoriteten vann 98% av voteringarna")
-- [ ] "Senast uppdaterad" + antal protokoll/beslut/tidsperiod tydligt i toppen
+- [x] "Senast uppdaterad" + antal protokoll/beslut/tidsperiod tydligt i toppen
 
 ### P2 — Startsidan: konkret värde direkt
 - [x] Visa ett riktigt skarpt beslut i hero (inte bara "så funkar det")
 - [x] Starkare informationshierarki: värde först, bevis sen, metod sist
-- [ ] Nyckeltal i toppen: antal beslut, möten, senast uppdaterad
+- [x] Nyckeltal i toppen: antal beslut, möten, senast uppdaterad
 - [x] Teaser-kort för Partier och Insikter
 - [x] Tydligare CTA: "Se senaste besluten"
 
 ### P3 — Språk & kvalitet
 - [x] "voteringer" → korrekt svenska
 - [x] "1 reservationer" → singularis/pluralis
-- [ ] Blandning svenska/engelska i API-docs
-- [ ] Ta bort "Gratis" överallt i endpoint-listan
+- [x] Blandning svenska/engelska i API-docs
+- [x] Ta bort "Gratis" överallt i endpoint-listan
 - [ ] Generellt språklyft för seriösare ton
 
 ### P4 — Neutralitet
@@ -36,7 +36,7 @@ Tre huvudproblem: förtroende, konkretion, vanebildning.
 - [ ] "Nytt sedan ditt senaste besök"
 - [ ] "Veckans viktigaste beslut"
 - [ ] "Följ ämne: skola, bygg, trafik"
-- [ ] Fixa RSS-feed (gav fel vid test)
+- [x] Fixa RSS-feed (gav fel vid test — relativa URLs fixade)
 
 ### P6 — Målgrupp
 - [x] Startsidan 100% medborgarfokuserad
@@ -44,10 +44,9 @@ Tre huvudproblem: förtroende, konkretion, vanebildning.
 - [x] Separera medborgarupplevelse från nördupplevelse
 
 ### P8 — Närvaro/frånvaro
-- [ ] Frånvarolistan: visa bara ledamöter med >10% frånvaro (5+ av 47 möten)
-- [ ] Nuvarande lista visar alla med 2+ frånvaron — för låg tröskel
+- [x] Frånvarolistan: visa bara >10% frånvaro, aggregerat per parti (inte individer)
 
 ### P7 — Insiktssidan
-- [ ] Metodtext per sektion
+- [x] Metodtext per sektion (full "Om metoden" med definitioner)
 - [ ] "Ovanliga allianser" och "Beslut som hänger ihop" = starkaste differentiering — framhäv dessa
-- [ ] Var tydlig med att det är automatisk analys, inte redaktionell bedömning
+- [x] Var tydlig med att det är automatisk analys, inte redaktionell bedömning
