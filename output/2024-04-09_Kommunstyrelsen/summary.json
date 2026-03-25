@@ -1,46 +1,70 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2024-04-09",
-  "summary_headline": "Budget, fastighetsförvärv och bolagsärenden debatteras",
+  "summary_headline": "Kommun förvärvar fastigheter, godkänner årsbokslut och vindkraftsamarbete",
   "decisions": [
     {
-      "headline": "Avskrivning av osäkra fordringar 2023",
-      "summary": "Kommunstyrelsen skriver av osäkra kundfordringar från 2023 för totalt 3,7 miljoner kronor enligt god redovisningssed. Fordringarna avregistreras från ekonomisystemet men kommunens krav på enskilda personer kvarstår.",
-      "detail": "Enligt god redovisningssed ska osäkra fordringar inte tas upp som tillgångar. Listan omfattar nämndens utestående fordringar för fakturor med förfallodag senast 2023-12-31.\n\nAvskrivningen fördelades på: Finansförvaltningen 802 320 kronor, Kommunledningsförvaltningen 289 852 kronor och Lokalförsörjningsavdelningen 2 628 843 kronor.\n\nEfter avskrivning kvarstår dock kommunens krav mot de enskilda och åtgärder för insamling fortsätter via inkassobolag. Ärendet hanterades inför delårsbokslut i stället för årsbokslut på grund av kommunens byte av ekonomimodell i april 2024.",
+      "headline": "Avskrivning av 3,7 miljoner kronor osäkra fordringar från 2023",
+      "human_headline": "Kommunen avskriver gamla obetalda fakturor från 2023",
+      "summary": "Kommunstyrelsen godkänner avskrivning av 3,7 miljoner kronor i osäkra fordringar från 2023. Fordringarna avregistreras från bokföringen men krävet på betalning kvarstår och skickas till inkassobolag.",
+      "plain_language_summary": "Kommunen raderar gamla fakturor som inte betalats från sitt bokföring, men försöker fortfarande få in pengarna genom inkasso.",
+      "relevance": "Gäller kommunens ekonomiska hantering av osäkra fordringar.",
+      "detail": "Enligt god redovisningssed ska osäkra fordringar inte tas upp som tillgångar. Listan omfattar nämndens utestående kundfordringar för fakturor med förfallodag tom 2023-12-31. De totala utestående fordringarna uppgår till 3 721 015:35 kronor inkl moms, fördelat på: Finansförvaltningen 802 320:43 kr, Kommunledningsförvaltningen 289 852 kr och Lokalförsörjningsavdelningen 2 628 842:92 kr.\n\nAvskrivningen hantlas i samband med delårsbokslut 1 år 2024, i stället för årsbokslut, eftersom kommunen byter ekonomimodell och uppdaterar ekonomisystemet april 2024.\n\nEfter avskrivning kvarstår dock fordran på den enskilde och åtgärder för att få in betalningen ska fullföljas genom Ekonomiavdelningen och inkassobolag.",
       "category": "budget",
-      "contested": false,
-      "location": null,
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 71",
-      "quote": "Efter avskrivning kvarstår dock fordran på den enskilde och åtgärder för att få in betalningen skall fullföljas.",
-      "quote_page": "s. 3",
+      "quote": null,
+      "quote_page": null,
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Enig"
       },
       "tags": [
+        "bokföring",
         "fordringar",
-        "ekonomi",
-        "avskrivning"
+        "ekonomi"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_71"
     },
     {
-      "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar",
-      "summary": "Kommunstyrelsen beviljar tilläggsanslag med totalt 127,6 miljoner kronor för årlig indexuppräkning och oförutsedda kostnader 2024. Ombudgetering görs mellan nämnder enligt ny nämndstruktur.",
-      "detail": "Ärendet innefattar tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda behov under budgetåret 2024.\n\nTilläggsanslagen finansieras ur Kommunstyrelsens utrymme för generella kostnadsökningar samt ur utrymmet för oförutsedda behov. Ombudgetering berör medel mellan nämnder med grund i ramfördelningen till den nya nämndstrukturen från 2023.\n\nÖrebropartiet yrkade avslag på anslagen med hänvisning till sitt budgetförslag. Votering genomfördes och majoritetens förslag antogs.",
+      "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
+      "human_headline": "Kommunen beviljar extra pengar för oväntade kostnader under 2024",
+      "summary": "Kommunstyrelsen beviljar tilläggsanslag på totalt 127 568 tkr för kostnadsökningar och oförutsedda behov år 2024. Finansieringen sker ur Kommunstyrelsens utrymme för generella kostnadsökningar och oförutsedda behov. Ombudgeteringar mellan nämnder genomförs enligt förslag.",
+      "plain_language_summary": "Kommunen avsätter extra pengar för kostnader som stiger mer än budgeterat, bland annat för indexuppräkning och oväntade behov.",
+      "relevance": "Påverkar alla kommuninvånare genom budget- och kostnadshantering.",
+      "detail": "Ärendet innefattar tilläggsanslag och ombudgeteringar för kostnadsökningar och oförutsedda kostnader för budgetåret 2024. Tilläggsanslag avser bland annat kompensation för årlig indexuppräkning. Ombudgeteringar berör bland annat flytt av medel mellan nämnder med grund i den ramfördelning som gjordes till ny nämndstruktur för 2023.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet i sin helhet med hänvisning till Örebropartiets budgetförslag för Örebro kommun 2024. Ordförande John Johansson (S) ställde förslagen mot varandra och fann att Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag.\n\nCristian Rehn Janowicz (V) deltog inte i beslutet. Markus Allard (ÖrP) reserverade sig mot beslutet till förmån för eget avslagsyrkande.",
       "category": "budget",
-      "contested": true,
-      "location": null,
+      "decision_type": "budget",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 72",
       "quote": "Tilläggsanslag beviljas med totalt 127 568 tkr enligt Kommunledningsförvaltningens förslag.",
       "quote_page": "s. 4",
@@ -50,7 +74,8 @@
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "MP"
         ],
         "against": [],
         "abstained": [
@@ -60,20 +85,36 @@
       },
       "tags": [
         "budget",
-        "tilläggsanslag",
-        "kostnadsökningar"
+        "kostnadsökningar",
+        "indexuppräkning"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_72"
     },
     {
-      "headline": "Årsredovisning 2023: 659 miljoner kronor resultat för kommunkoncernen",
-      "summary": "Kommunstyrelsen godkänner årsredovisningen för 2023 med ett koncernresultat på 659 miljoner kronor, vilket är 286 miljoner högre än budgeterat. 20 miljoner reserveras för resultatutjämning.",
-      "detail": "Kommunkoncernen gjorde ett resultat på 659 miljoner kronor. Kommunens eget resultat uppgick till 570 miljoner kronor, vilket var 286 miljoner kronor högre än budgeterat på grund av positiv börsutveckling och bättre skatteintäkter än förväntat.\n\nInvesteringarna i kommunkoncernen var 2 650 miljoner kronor. Kommunens investeringar var 821 miljoner kronor, vilket är 483 miljoner lägre än budgeterat.\n\nAv kommunens 19 verksamhetsmål uppnåddes 8 stycken. Balanskravet och tre av fyra finansiella mål uppfylldes. Av de 49 uppdragen var 16 genomförda och 32 påbörjade.\n\nÖrebropartiet yrkade avslag och Vänsterpartiet yrkade avslag på resultatutjämningsreserven. Majoritetens förslag antogs.",
+      "headline": "Årsbokslut 2023 godkänns med 570 miljoner kronors resultat",
+      "human_headline": "Kommunen redovisar bättre ekonomi än väntat för 2023",
+      "summary": "Kommunstyrelsen godkänner Årsredovisning för Örebro kommun 2023. Kommunens resultat uppgår till 570 miljoner kronor, vilket är 286 miljoner högre än budgeterat. 20 miljoner kronor reserveras för resultatutjämningsreserven. Årsredovisningen överlämnas till revisorerna för granskning.",
+      "plain_language_summary": "Kommunen hade betydligt bättre ekonomi än förväntat under 2023, bland annat tack vare bättre börskurser och högre skatteinkomster.",
+      "relevance": "Visar kommunens ekonomiska ställning och påverkar möjligheten att investera i framtiden.",
+      "detail": "Kommunkoncernen gör ett resultat på 659 miljoner kronor. Kommunens resultat uppgår till 570 miljoner kronor, vilket är 286 miljoner kronor högre än budgeterat. Det positiva resultatet förklaras av två faktorer: 2023 års positiva utveckling på börsen har påverkat kommunens kapitalförvaltning positivt, och även skatteintäkterna har utvecklats bättre än vad som budgeterats för året.\n\nKommunkoncernens investeringar uppgår till 2 650 miljoner kronor. Investeringarna i kommunens verksamhet uppgår till 821 miljoner kronor vilket är 483 miljoner lägre än budgeterat. Balanskravet samt tre av fyra finansiella mål uppnås.\n\nVid verksamhetsmålen konstateras att 8 av 19 mål uppnås. 4 av de 6 mål som bedömts vara av betydelse för god ekonomisk hushållning uppnås. Av de 49 uppdragen har 16 genomförts, medan 32 bedöms som påbörjade men inte fullt ut genomförda. Ett uppdrag har inte påbörjats.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet i sin helhet. Cristian Rehn Janowicz (V) yrkade avslag på beslutspunkt 2 om reservering. Ordförande ställde förslagen mot varandra punkt för punkt och fann att Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag i alla punkter.",
       "category": "budget",
-      "contested": true,
-      "location": null,
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 4,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 73",
-      "quote": "Kommunkoncernen gör ett resultat på 659 miljoner kronor. Det är 286 miljoner kronor högre än budgeterat.",
+      "quote": "Kommunens resultat uppgår till 570 miljoner kronor. Det är 286 miljoner kronor högre än budgeterat.",
       "quote_page": "s. 5",
       "voting": {
         "for": [
@@ -83,27 +124,44 @@
         ],
         "against": [],
         "abstained": [
+          "ÖrP",
           "V"
         ],
         "result": "Bifall"
       },
       "tags": [
-        "årsredovisning",
-        "resultat",
+        "årsbokslut",
         "ekonomi",
-        "investeringar"
+        "resultat"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_73"
     },
     {
-      "headline": "Örebro Rådhuskoncernen: 137 miljoner resultat, inga utdelningar",
-      "summary": "Årsredovisningen för Örebro Rådhus AB och dotterbolag godkänns. Koncernen gjorde 137 miljoner kronor resultat. Ingen utdelning föreslås från moderbolaget till kommunen.",
-      "detail": "Örebro Rådhus AB ägs till 100 % av Örebro kommun och äger samtliga aktier i ÖrebroBostäder AB, Örebroporten Fastigheter AB, Futurum Fastigheter, Örebrokompaniet AB och Örebro Parkering AB, samt delägande i flera andra bolag.\n\nÖrebro Rådhus AB gjorde ett resultat på 25,6 miljoner kronor efter skatt. Hela Örebro Rådhuskoncernen gjorde 137 miljoner kronor resultat efter skatt (255 miljoner 2022).\n\nAktieägarvärde i moderbolagets bokslut: 1 849 miljoner kronor. Stämmoombuden får uppdrag att rösta för godkännande av resultat, disponering av vinster, ansvarsfrihet för styrelse och ledning, samt antagande av nya bolagsordningar.\n\nÖrebropartiet yrkade återremiss och avslag. Vänsterpartiet yrkade utredning om överlåtelse eller nedläggning av Örebro läns flygplats.",
-      "category": "budget",
-      "contested": true,
-      "location": null,
+      "headline": "Årsredovisning Örebro Rådhus AB och dotterbolag 2023 godkänns",
+      "human_headline": "Kommunens bolag redovisar stabila resultat 2023",
+      "summary": "Kommunstyrelsen godkänner årsredovisning för Örebro Rådhus AB och dotterbolag. Örebro Rådhus AB hade resultat på 25,6 mnkr. Hela Örebro Rådhuskoncernen hade resultat på 137 mnkr. Nya bolagsordningar för 12 bolag godkänns. Ärendet ska vidare till Kommunfullmäktige för beslut.",
+      "plain_language_summary": "Kommunens olika bolag (som driver fastigheter, parkering och andra tjänster) gjorde tillsammans ett resultat på 137 miljoner kronor.",
+      "relevance": "Visar hur väl kommunens ekonomiska investeringar i bolag presterar.",
+      "detail": "Örebro Rådhus AB ägs till 100 % av Örebro kommun och äger samtliga aktier i ÖrebroBostäder AB, Örebroporten Fastigheter AB, Futurum Fastigheter i Örebro AB, Örebrokompaniet AB och Örebro Parkering AB. Bolaget äger också delägda andelar i flera andra bolag.\n\nResultatet för Örebro Rådhus AB är 25,6 mnkr efter skatt. Ingen utdelning från Örebro Rådhus föreslås till Örebro kommun. Resultatet för hela Örebro Rådhuskoncernen är 137 mnkr efter skatt (255 mnkr 2022).\n\nAktierna i alla koncernbolag har ett bokfört värde på totalt 1 849 mnkr. Nya bolagsordningar föreslås för Örebro Rådhus AB, ÖrebroBostäder AB, ÖBO Omsorgsfastigheter AB, ÖBO Holding AB, ÖBO Husaren AB, Västerporten Fastigheter i Örebro AB, Futurum Fastigheter i Örebro AB, Örebroporten Fastigheter AB, Örebroporten Förvaltning AB, Örebroporten Holding AB, Örebro Parkering AB och Örebrokompaniet AB.\n\nMarkus Allard (ÖrP) yrkade på återremiss och sedan avslag. Cristian Rehn Janowicz (V) yrkade bifall med tillägget att omedelbar utredning ska starta för att överlåta, sälja eller lägga ner Örebro läns flygplats. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag.",
+      "category": "naringsliv",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsagare",
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 74",
-      "quote": "Resultatet för Örebro Rådhus AB är 25,6 mnkr efter skatt. Ingen utdelning från Örebro Rådhus föreslås till Örebro kommun.",
+      "quote": "Resultatet för hela Örebro Rådhuskoncernen är 137 mnkr efter skatt.",
       "quote_page": "s. 7",
       "voting": {
         "for": [
@@ -111,30 +169,48 @@
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "MP"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "ÖrP",
+          "V"
+        ],
         "result": "Bifall"
       },
       "tags": [
-        "Örebro Rådhus",
         "bolag",
-        "resultat",
-        "utdelning",
-        "Flygplats"
+        "årsredovisning",
+        "ekonomi"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_74"
     },
     {
-      "headline": "Örebro läns trädgårdsaktiebolag: årsredovisning godkänd, avveckling föreslagen",
-      "summary": "Trädgårdsaktiebolaget gjorde 90 000 kronor resultat 2023. Årsredovisningen godkänns. Bolagsordning uppdateras. Örebropartiet yrkar på bolgets avveckling.",
-      "detail": "Örebro läns trädgårdsaktiebolag AB äger och underhåller konstverk i Stadsparken, Skytteparken och Stora Holmen.\n\nBolagets resultat för 2023: 90 003 kronor före skatt (63 013 kronor 2022). Anläggningstillgångar i form av konstverk och installationer värderade till 2,39 miljoner kronor. Bolaget har inga anställda.\n\nUnder året gjordes inledande investeringar i nytt konstverk inför invigning 2024. Ett befintligt verk genomgick reparation.\n\nBolagsordningen föreslås uppdateras för att bättre stämma överens med övriga kommunägda bolag. Örebropartiet yrkade på ändrad arvodespolicy och på att verka för bolgets avveckling. Majoritetens förslag antogs.",
-      "category": "budget",
-      "contested": true,
-      "location": "Stadsparken, Skytteparken, Stora Holmen",
+      "headline": "Årsredovisning Örebro läns trädgårdsaktiebolag 2023 godkänns",
+      "human_headline": "Konstbolag för parkernas konstverk godkänns och ny bolagsordning antas",
+      "summary": "Kommunstyrelsen godkänner årsredovisning för Örebro läns trädgårdsaktiebolag. Bolaget hade resultat på 90 003 kr efter skatt. Bolaget äger och underhåller konstverk i Stadsparken, Skytteparken och Stora Holmen. Nya bolagsordningen godkänns.",
+      "plain_language_summary": "Kommunens konstbolag som underhåller och köper konstverk till parkerna godkänns och får en uppdaterad bolagsordning.",
+      "relevance": "Gäller underhål och utveckling av konstinstallationer i kommunens parker.",
+      "detail": "Örebro läns trädgårdsaktiebolag AB har i uppgift att förvärva, äga och underhålla konstverk i Stadsparken, Skytteparken och Stora Holmen i Örebro. Bolagets ändamål är att utsmycka dessa parkområden med konstverk och verka för god utveckling av miljön i dessa område i samverkan med Tekniska nämnden och Kulturnämnden.\n\nBolagets resultat för 2023 uppgår till 90 003 kr före skatt (63 013 kr 2022) och 90 003 kr efter skatt (50 032 kr 2022). Bolagets anläggningstillgångar i form av konstverk och installationer värderas till 2 394 490 kr (2 188 240 kr 2022). Bolaget har inte några anställda.\n\nUnder året gjordes en inledande investering i ett nytt konstverk som beräknas invigas under 2024. Ett av konstverken tillfälligt togs bort från Stadsparken för reparation.\n\nBolagsordningen föreslås uppdateras för att bättre stämma överens med bolagsordningarna för bolagen inom Örebro Rådhuskoncernen.\n\nMarkus Allard (ÖrP) yrkade bifall till punkterna 1 och 2a-c men med ändringar angående arvodespolicy och avveckling av bolaget. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag.",
+      "category": "kultur",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Stadsparken, Skytteparken, Stora Holmen",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 75",
-      "quote": "Bolagets resultat för 2023 uppgår till 90 003 kr före skatt och bolaget har under året gjort en inledande investering i ett nytt konstverk.",
+      "quote": "Bolagets resultat för 2023 uppgår till 90 003 kr före skatt.",
       "quote_page": "s. 10",
       "voting": {
         "for": [
@@ -142,26 +218,46 @@
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "MP"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "ÖrP"
+        ],
         "result": "Bifall"
       },
       "tags": [
-        "trädgårdsaktiebolag",
         "konstverk",
-        "avveckling"
+        "parker",
+        "kulturförvaltning"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_75"
     },
     {
-      "headline": "Förvärv av Eklundaområdet från Region Örebro: 154 miljoner kronor",
-      "summary": "Kommunstyrelsen godkänner förvärv av sex fastigheter vid Eklundavägen från Region Örebro Län och Länsgården. Köpeskillingen är cirka 154 miljoner kronor. Förvärvet möjliggör utveckling av Eyrafältet.",
-      "detail": "Region Örebro Län avser att lämna sina kontorslokaler vid Eklundavägen under 2025 och avyttra fastigheterna. Omfattningen är sex fastigheter: fem säljs av RÖL för cirka 140 miljoner kronor och en säljs av Länsgården för cirka 14 miljoner kronor.\n\nÖrebroporten Fastigheter AB förvärvar RÖL:s fastigheter (Skridskon 2 och 3, Slungbollen 1, Staven 5, Diskusen 12). Örebroporten Holding AB förvärvar Länsgårdens fastighet genom nystartad bolag.\n\nTillträde till RÖL:s fastigheter planeras till 1 april 2025 och till Länsgårdens fastighet till 2 december 2024. Säljare och köpare delar på saneringskostnader, beräknade till cirka 19 miljoner kronor.\n\nFörvärvet ger kommunen rådighet över framtida utveckling av Eyrafältet. Fastigheterna som inte behövs för detta kan senare erbjudas marknaden eller annan part i kommunkoncernen.\n\nÖrebropartiet yrkade avslag. Vänsterpartiet och Liberalerna yrkade bifall med reservationer om öppen marknadsprocess.",
-      "category": "bygg",
-      "contested": true,
-      "location": "Eklundavägen, Eyrafältet",
+      "headline": "Kommunen förvärvar sex fastigheter från Region Örebro Län för ca 154 miljoner",
+      "human_headline": "Kommun köper kontorsfastigheter för utveckling av elitidrottsområde",
+      "summary": "Kommunstyrelsen godkänner förvärv av sex fastigheter från Region Örebro Län och Länsgården fastigheter AB. Köpeskillingen är ca 140 mnkr för RÖL:s fastigheter och ca 14 mnkr för Länsgårdens fastighet. Fastigheterna ligger vid Eklundavägen och ska användas för utveckling av Eyrafältet som elitidrottsområde.",
+      "plain_language_summary": "Kommunen köper fastigheter från Regionen som ska användas för att utveckla elitidrottsområdet vid Eyrafältet.",
+      "relevance": "Gäller större fastighetsförvärv som påverkar stadsplanering och infrastruktur i kommunen.",
+      "detail": "Region Örebro Län (RÖL) avser att lämna sina kontorslokaler vid Eklundavägen under 2025 och i samband med det avyttra fastigheterna. Omfattningen är sex fastigheter, varav fem säljs av RÖL och en säljs av Länsgården fastigheter AB.\n\nÖrebroporten Fastigheter AB och Örebroporten Holding AB har erbjudits möjlighet att förvärva samtliga fastigheter. Fastigheterna som säljs av RÖL kommer att överlåtas genom fastighetsöverlåtelse till Örebroporten Fastigheter AB medan Länsgårdens fastighet kommer att paketeras i ett nybildat bolag som överlåts till Örebroporten Holding AB.\n\nKöpeskillingen för RÖL:s fastigheter är ca 140 mnkr och köpeskillingen för Länsgårdens fastighet är ca 14 mnkr. Säljare och köpare har beslutat att parterna ska dela på de faktiska saneringskostnader som kan uppstå efter försäljningen. Örebroportens bedömning är att kostnader för sanering kan uppgå till sammanlagt ca 19 mnkr.\n\nTillträde till RÖL:s fastigheter planeras till 1 april 2025 och till Länsgårdens fastighet till 2 december 2024. De fastigheter som efter framtagande av utvecklingsplanen inte behövs för Örebroportens del av Eyrafältets utveckling föreslås därefter erbjudas till marknaden och/eller till annan part inom kommunkoncernen.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet i sin helhet. Cristian Rehn Janowicz (V) och Karolina Wallström (L) yrkade bifall och fick lämna särskilda yttranden. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag.",
+      "category": "infrastruktur",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "invanare",
+        "fastighetsagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Eklundavägen, Eyrafältet",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 76",
       "quote": "Genom att förvärva de aktuella fastigheterna får Örebroporten och kommunen rådighet över framtida utveckling av Eyrafältet.",
       "quote_page": "s. 12",
@@ -169,123 +265,259 @@
         "for": [
           "S",
           "M",
-          "C"
+          "C",
+          "L",
+          "KD",
+          "MP"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "ÖrP"
+        ],
         "result": "Bifall"
       },
       "tags": [
-        "förvärv",
-        "fastigheter",
-        "Eklundavägen",
+        "fastighetsförvärv",
         "Eyrafältet",
-        "investeringar"
+        "elitidrottscenter"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_76"
     },
     {
-      "headline": "Utökat ägande i Kumbro Vind AB för elförsörjning",
-      "summary": "Kommunstyrelsen godkänner att Örebro läns flygplats och Futurum blir aktieägare i Kumbro Vind AB för att möjliggöra elkraftleverans. Bolagsordning och aktieägaravtal uppdateras.",
-      "detail": "Kumbro Vind AB ägs till 100 % av Kumbro Utveckling AB, som ägs till 80 % av Örebro Rådhus AB och 20 % av Kumla kommun.\n\nKumbro Vind och Örebro läns flygplats (ÖLF) bedömer att det vore fördelaktigt om ÖLF upphandlar elkraft från Kumbro Vind. Kumbro Vind har tillräcklig produktionskapacitet genom befintliga vindkraftsanläggningar.\n\nFör att möjliggöra detta föreslås ändringar i Kumbro Vinds bolagsordning för att säkerställa att ÖLF tillsammans med Örebro kommun, Kumla kommun och Futurum får avgörande inflytande över strategiska mål och viktiga beslut.\n\nBåde ÖLF och Futurum blir aktieägare i Kumbro Vind. Mindre aktiepost överlåts från Kumbro Utveckling till respektive bolag. Följdändringar görs i aktieägaravtal mellan ägarna i Kumbro Utveckling.\n\nBeslut förutsätter godkännande från Kumla kommun, Region Örebro län och Karlskoga kommun. Karolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag. Vänsterpartiet yrkade på utredning om flygplatsen.",
-      "category": "infrastruktur",
-      "contested": true,
-      "location": "Örebro läns flygplats",
+      "headline": "Utökat ägande i Kumbro Vind AB för elkraftsamarbete",
+      "human_headline": "Kommun ökar ägande i vindkraftbolag för att leverera ström till flygplatsen",
+      "summary": "Kommunstyrelsen godkänner aktieöverlåtelseavtal för att Örebro läns flygplats (ÖLF) och Futurum Fastigheter i Örebro AB blir aktieägare i Kumbro Vind AB. Detta möjliggör att ÖLF kan upphandla elkraft från Kumbro Vind. Nya bolagsordning för Kumbro Vind godkänns.",
+      "plain_language_summary": "Kommunen gör ändringar så att flygplatsen och ett fastighetsbolag blir delägare i ett vindkraftbolag och kan köpa grön el från det.",
+      "relevance": "Påverkar elförsörjning av flygplatsen och kan påverka elkostnaderna där.",
+      "detail": "Kumbro Vind AB ägs till 100 % av Kumbro Utveckling AB som i sin tur ägs till 80 % av Örebro Rådhus AB och till 20 % av Kumla kommun. Örebro läns Flygplats AB (ÖLF) ägs av flera kommuner och regioner: Region Örebro läns förvaltnings AB (44,95 %), Örebro Rådhus AB (44,95 %), Kumla kommun (5,05 %) och Karlskoga kommun (5,05 %).\n\nKumbro Vind och ÖLF bedömer att det vore fördelaktigt att ÖLF fortsättningsvis upphandlar sin elkraft av Kumbro Vind. Kumbro Vind har tillräcklig produktionskapacitet genom befintliga vindkraftsanläggningar för att kunna leverera elkraft till ÖLF motsvarande det behov ÖLF har i dagsläget, på motsvarande villkor som för Kumbro Vinds övriga kunder.\n\nFör att möjliggöra detta föreslås att vissa ändringar görs i Kumbro Vinds bolagsordning för att säkerställa att ÖLF får ett avgörande inflytande över Kumbro Vinds strategiska mål och viktiga beslut tillsammans med Örebro kommun, Kumla kommun och Futurum Fastigheter i Örebro AB.\n\nBåde ÖLF och Futurum blir aktieägare i Kumbro Vind för att förenkla och tydliggöra samordningen. Detta kräver överlåtelse av en mindre aktiepost i Kumbro Vind från Kumbro Utveckling.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag på ärendet. Cristian Rehn Janowicz (V) yrkade bifall med tillägget att omedelbar utredning ska starta för att överlåta, sälja eller lägga ner Örebro läns flygplats. John Johansson (S) yrkade avslag på Vänsterutredningen. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag.",
+      "category": "naringsliv",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 77",
-      "quote": "För att möjliggöra att ÖLF upphandlar elkraft från Kumbro Vind föreslås att vissa ändringar görs i Kumbro Vinds bolagsordning.",
+      "quote": "Kumbro Vind har tillräcklig produktionskapacitet genom befintliga vindkraftsanläggningar för att kunna leverera elkraft till ÖLF motsvarande det behov ÖLF har i dagsläget.",
       "quote_page": "s. 15",
       "voting": {
         "for": [
           "S",
-          "M"
-        ],
-        "against": [],
-        "abstained": [],
-        "result": "Bifall"
-      },
-      "tags": [
-        "Kumbro Vind",
-        "elkraft",
-        "flygplats",
-        "bolag",
-        "energi"
-      ],
-      "id": "2024-04-09_ko_77"
-    },
-    {
-      "headline": "Övertagande av ägarskap för sju styrdokument",
-      "summary": "Kommunstyrelsen tar över ägarskapet för sju styrdokument från den nedlagda Programnämnden samhällsbyggnad, bland annat parkeringsriktlinjer, cykelparkering och arkitekturstrategi.",
-      "detail": "Sedan den nya organisationen trädde i kraft i januari 2023 fanns styrdokument som \"ägs\" av nämnder som upphört. Detta skapade behov av hantering av styrdokument från den tidigare Programnämnden samhällsbyggnad.\n\nKommunstyrelsen tar över ägarskapet för: Parkeringsriktlinjer, Cykelparkering – Riktlinjer, Strategi för arkitektur och byggande, Strategi för utveckling av kulturreservatet Karlslund, Riktlinjer för friyta i förskola och skola, Strategi för utveckling av Hjälmaren som rekreationsområde, samt Uteserveringar i Örebro – Kvalitetskrav och riktlinjer.\n\nKommunstyrelsen avslutar tolv inaktuella styrdokument, bland annat Gångstrategi, Dagvattenstrategi, Kollektivtrafikprogram, och Digitaliseringsstrategi för samhällsbyggnad.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 83",
-      "quote": "Respektive nämnd behöver överta ägandeskapet för styrdokument som antagits av programnämnden och som rör nämndens verksamhet i den nya organisationen.",
-      "quote_page": "s. 17",
-      "voting": {
-        "for": [
-          "S",
           "M",
-          "C",
-          "L",
           "KD",
-          "V",
-          "ÖrP",
           "MP"
         ],
         "against": [],
+        "abstained": [
+          "C",
+          "L",
+          "ÖrP",
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "vindkraft",
+        "energi",
+        "ÖLF"
+      ],
+      "confidence": "medel",
+      "id": "2024-04-09_ko_77"
+    },
+    {
+      "headline": "Kommunstyrelsen övertar ägande av sju styrdokument från Programnämnd",
+      "human_headline": "Kommunen tar över ansvar för parkeringsriktlinjer och andra riktlinjer",
+      "summary": "Kommunstyrelsen övertar ägandeskapet för sju styrdokument tidigare antagna av Programnämnd samhällsbyggnad. Bland annat överta Kommunstyrelsen Parkeringsriktlinjer, Cykelparkering-riktlinjer, Strategi för arkitektur och byggande, och Strategi för Hjälmaren. Tolv äldre handlingsplaner avslutas.",
+      "plain_language_summary": "Kommunstyrelsen tar över ansvaret för flera viktiga riktlinjer och strategier som tidigare ägdes av en nämnd som upphört.",
+      "relevance": "Gäller administrativ organisation och ansvarsfördelning kring styrande dokument.",
+      "detail": "Sedan den nya organisationen trädde i kraft i januari 2023 finns det styrdokument som \"ägs\" av nämnder som upphört. Detta skapade ett behov av hantering av styrdokument som den tidigare Programnämnd samhällsbyggnad antog.\n\nKommunstyrelsen övertar ägandeskapet för: Parkeringsriktlinjer för Örebro kommun (Sam 113/2013), Cykelparkering – Riktlinjer för Örebro kommun (Sam 10/2016), Strategi för arkitektur och byggande i Örebro kommun (Sam 195/2016), Strategi för utveckling av kulturreservatet Karlslund (Sam 429/2019), Riktlinjer för friyta i förskola och skola (Sam 264/2019), Strategi för utveckling av Hjälmaren som rekreationsområde (Sam 1143/2020), och Uteserveringar i Örebro – Kvalitetskrav och riktlinjer exklusive kartbilagan (Sam 1072/2017).\n\nKommunstyrelsen avslutar tolv äldre handlingsplaner och strategier som bedöms vara inaktuella.",
+      "category": "regler",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "begransad",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 83",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Enig"
       },
       "tags": [
         "styrdokument",
-        "regler",
-        "parkeringsriktlinjer",
-        "arkitektur"
+        "riktlinjer",
+        "organisation"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_83"
     },
     {
-      "headline": "Tillägg i delegationsordning för mottagande av Kronofogdendelgivning",
-      "summary": "Kommunstyrelsen antar tillägg i delegationsordningen för att möjliggöra mottagande av delgivningar från Kronofogden.",
-      "detail": "Det uppmärksammades att en delegation för mottagande av delgivningar från Kronofogden saknades för nämnderna och styrelsen i Örebro kommun. Motsvarande delegation ska även läggas till i nämndernas delegationsordningar.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
+      "headline": "Tillägg i Kommunstyrelsens delegationsordning för delgivning från Kronofogden",
+      "human_headline": "Kommunen ger möjlighet att ta emot delgivningar från Kronofogden",
+      "summary": "Kommunstyrelsen antar föreslagna tillägg i delegationsordningen som möjliggör att mottagande av delgivningar från Kronofogden kan delegeras. Motsvarande delegation kommer även att läggas till i nämndernas delegationsordningar.",
+      "plain_language_summary": "Kommunen lägger till en ny delegation så att betalt inkasso från Kronofogden kan hanteras på delegerad nivå.",
+      "relevance": null,
+      "detail": "Det har uppmärksammats att en delegation för att ta emot delgivningar från Kronofogden saknas för nämnderna och styrelsen i Örebro kommun. Detta behövde läggas till för att möjliggöra korrekt hantering av inkassokrav.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 84",
       "quote": null,
       "quote_page": null,
       "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "delegation",
+        "kronofogden"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_84"
+    },
+    {
+      "headline": "Redovisning av obesvarade motioner – april 2024",
+      "human_headline": "Kommunen rapporterar motioner som inte är färdigberedda",
+      "summary": "Kommunledningsförvaltningen presenterar anmälan över motioner som inte är slutligt färdigberedda inom ett år. Anmälan läggs till handlingarna och ska vidare till Kommunfullmäktige för beslut.",
+      "plain_language_summary": "Kommunen rapporterar vilka motioner från politiker som ännu inte är klara för beslut.",
+      "relevance": null,
+      "detail": "Enligt kommunallagen 5 kap. 35 § ska en motion beredas så, att fullmäktige kan fatta beslut inom ett år från det att motionen väcktes. Om beredningen inte kan avslutas inom denna tid ska detta, och vad som har kommit fram vid beredningen, anmälas till fullmäktige inom samma tid.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 85",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "motioner",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_85"
+    },
+    {
+      "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan avslås",
+      "human_headline": "Kommunen säger nej till utredning om islamistskolor",
+      "summary": "Ledamötsinitiativ från Helena Ståhl och Bo Ammer (SD) om att tillsätta haverikommission för att utreda Arenaskolan avslås. Kommunledningen hänvisar till att tillsyn av friskolors verksamheter är ett statligt ansvar under Skolinspektionen.",
+      "plain_language_summary": "Kommunen säger nej till att tillsätta en särskild utredningsgrupp för skolskandalen, eftersom det är staten och Skolinspektionen som ska granska friskolorna.",
+      "relevance": "Gäller kommunens möjligheter att granska privata skolor.",
+      "detail": "Helena Ståhl (SD) och Bo Ammer (SD) lämnande in ett ledamotsinitiativ där de föreslår att en haverikommission tillsätts med syfte att utreda vad som har skett på Arenaskolan, hur denna farlig verksamhet kunnat fortgå trots tidigare stängning av samma skola och vad som ska göras för att detta inte sker igen.\n\nKommunledningen avslår initiativet med motiveringen att att utreda friskolors verksamheter inte ligger inom Kommunstyrelsens ansvarsområde. Friskolorna är ett statligt ansvar och tillsynen av friskoleverksamheterna sorteras under Skolinspektionen.\n\nMarkus Allard (ÖrP) yrkade bifall till ledamotsiniatiativet. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutar enligt Kommunledningens förslag. Markus Allard reserverade sig.",
+      "category": "skola",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 86",
+      "quote": "Att utreda friskolors verksamheter ligger inte inom Kommunstyrelsens ansvarsområde.",
+      "quote_page": "s. 20",
+      "voting": {
         "for": [
           "S",
           "M",
           "C",
           "L",
           "KD",
-          "V",
-          "ÖrP",
-          "MP"
+          "MP",
+          "V"
         ],
         "against": [],
-        "abstained": [],
-        "result": "Enhälligt"
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Avslog"
       },
       "tags": [
-        "delegationsordning",
-        "kronofogden",
-        "regler"
+        "friskolor",
+        "Arenaskolan",
+        "tillsyn"
       ],
-      "id": "2024-04-09_ko_84"
+      "confidence": "hog",
+      "id": "2024-04-09_ko_86"
     },
     {
-      "headline": "Avslag på ledamotsinitiativ om haverikommission för Arenaskolan",
-      "summary": "Kommunstyrelsen avslår ledamotsinitiativ från Helena Ståhl och Bo Ammer (SD) om tillsättandet av haverikommission för Arenaskolan. Utredning av friskolor sorterar under staten.",
-      "detail": "Ledamotsinitiativet från Helena Ståhl (SD) och Bo Ammer (SD) krävde att en haverikommission skulle tillsättas för att utreda vad som hänt på Arenaskolan, hur verksamheten kunnat fortgå trots tidigare stängning, och vad som ska göras för att detta inte sker igen.\n\nKommunstyrelsen hänvisar till att utredning av friskolors verksamheter ligger under statligt ansvar och att tillsynen sorteras under Skolinspektionen, inte kommunen.\n\nÖrebropartiet yrkade bifall till initiativet men majoritetens avslagsförslag antogs.",
-      "category": "trygghet",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 86",
-      "quote": "Att utreda friskolors verksamheter ligger inte inom Kommunstyrelsens ansvarsområde. Friskolorna är ett statligt ansvar och tillsynen av friskoleverksamheterna sorteras under Skolinspektionen.",
+      "headline": "Ledamotsinitiativ om regelbundna dragningar av strategi besvaras",
+      "human_headline": "Kommunen säger ja till rapporter om viktiga strategier",
+      "summary": "Ledamotsinitiativ från Anna Andersson (KD) om regelbundna dragningar om viktiga strategier såsom utsatta områden, kompetensförsörjning, digital utveckling och hålbarhetsförål anses besvarat. Kommunledningen föreslår att utskottsberoende får sammanfatta sina möten under Kommunstyrelsens beredningssammanträde.",
+      "plain_language_summary": "Kommunen säger att den kan rapportera om strategier inom viktiga områden genom att låta utskotten presentera sina möten.",
+      "relevance": "Gäller informationsflödet om viktiga strategiska områden till kommunstyrelsen.",
+      "detail": "Anna Andersson (KD) lämnande in ett ledamotsinitiativ där ledamoten yrkar på regelbundna återkommande dragningar om bland annat utsatta områden, kompetensförsörjning, digital utveckling och hålbarhetsmålen.\n\nI initiativet hänvisas till att endast delar av oppositionen finns representerad i Kommunstyrelsens utskott som har till uppgift att följa upp personalfrågor, trygghetsfrågor och hållbarhetsfrågor. Därför är det viktigt att Kommunstyrelsen får dragningar om vad som händer inom områdena.\n\nKommunledningen svar är att en möjlighet att tillgodose delar av initiativet är att ledamöterna från utskotten får möjlighet att sammanfatta utskottens sammanträden under Kommunstyrelsens beredningssammanträde och på det sättet få en uppdatering i vad som har diskuterats och beslutats. Kommunledningen tar med sig frågan för att diskutera och fundera på en eventuell struktur.\n\nSusanne Lindholm Henningsson (KD) yrkade bifall till initiativet. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutar enligt Kommunledningens förslag. Susanne reserverade sig.",
+      "category": "politik",
+      "decision_type": "motion",
+      "outcome": "besvarad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 87",
+      "quote": null,
       "quote_page": "s. 21",
       "voting": {
         "for": [
@@ -293,101 +525,338 @@
           "M",
           "C",
           "L",
-          "KD",
+          "ÖrP",
+          "MP",
           "V"
         ],
         "against": [],
-        "abstained": [],
-        "result": "Avslag"
-      },
-      "tags": [
-        "Arenaskolan",
-        "friskola",
-        "haveri",
-        "trygghet"
-      ],
-      "id": "2024-04-09_ko_86"
-    },
-    {
-      "headline": "Ledamotsinitiativ om regelbundna strategidragningar besvarat",
-      "summary": "Kommunstyrelsen anser ledamotsiniatiativ från Anna Andersson (KD) om regelbundna dragningar om strategier besvarat. Möjlighet till uppdateringar från utskotten inom beredning diskuteras.",
-      "detail": "Anna Andersson (KD) yrkade på regelbundna kortfattade dragningar om utsatta områden, kompetensförsörjning, digital utveckling och AI, samt hållbarhetsmål.\n\nInitiativet påpekade att endast delar av oppositionen finns representerad i Kommunstyrelsens utskott för personalpolitik, trygghet och hållbarhet.\n\nKommunledningen föreslår möjlighet för utskottsledamöter att sammanfatta utskottens diskussioner och beslut under beredningssammanträden för löpande uppdateringar. Större förändringar rapporteras när de uppstår.\n\nSusanne Lindholm Henningsson (KD) yrkade bifall men majoritetens förslag att anse initiativet besvarat antogs.",
-      "category": "politik",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 87",
-      "quote": "En möjlighet att tillgodose delar av ledamotsinitiativet att ledamöterna från utskotten få möjlighet att sammanfatta utskottens sammanträden under Kommunstyrelsens beredningssammanträde.",
-      "quote_page": "s. 22",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L"
+        "abstained": [
+          "KD"
         ],
-        "against": [],
-        "abstained": [],
-        "result": "Bifall"
+        "result": "Beslöt att anse besvarad"
       },
       "tags": [
         "strategi",
-        "dragning",
-        "politik"
+        "rapportering"
       ],
+      "confidence": "hog",
       "id": "2024-04-09_ko_87"
+    },
+    {
+      "headline": "Oscar Fogelberg utsedd som ombud för Hjälmarens vattenvårdsförbund",
+      "human_headline": "Kommun utser representant till vattenvårdsförbund",
+      "summary": "Kommunstyrelsen utser Oscar Fogelberg från miljö- och stadsbyggnadsförvaltningen till ombud på Hjälmarens vattenvårdsförbunds årsstämmor till och med 2026-12-31.",
+      "plain_language_summary": "Kommunen utser en person att representera Örebro i ett förbund som skyddar Hjälmarens vattenkvalitet.",
+      "relevance": null,
+      "detail": "Hjälmarens vattenvårdsförbund är en organisation som arbetar för att skydda och förbättra vattenkvaliteten i sjön Hjälmaren.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hele_kommunen",
+      "location_name": "Hjälmaren",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 88",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "val",
+        "vattenförvaltning"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_88"
+    },
+    {
+      "headline": "Nio motioner remitteras till Kommunstyrelsen och nämnder",
+      "human_headline": "Kommunstyrelsen fördelar motioner för beredning och behandling",
+      "summary": "Kommunfullmäktiges nio motioner remitteras för beredning. Sex motioner ska beredas av Kommunstyrelsen: Hela lönekostnader för anställda, integrationssatsningar, seniorers lunch i skolan, suicidprevention, oseriösa välfärdsaktörer och välfärd i kommunal regi, återbruk. Två motioner remitteras till nämnderna: Att läsa tillsammans (Grundskolenämnden) och stängning av förskolan Igelkotten (Förskolenämnden).",
+      "plain_language_summary": "Olika politiker lägger fram motioner som ska utredas av kommunen.",
+      "relevance": "Gäller olika förslag från oppositionspartier som ska behandlas.",
+      "detail": "Kommunfullmäktige remitterade nio motioner till Kommunstyrelsen: Motion från Helena Ståhl (SD) om att redovisa hela lönekostnaden för anställda i Örebro, Motion från Carola Sunesson (SD) om redovisning och modell för integrationssatsningar, Motion från Susanne Lindholm Henningsson (KD) om att öppna för seniorer att äta lunch i skolmatsalar, Motion från Johanna Reimfelt (L) och Mats-Olof Liljegren (L) om att skapa magi genom att läsa tillsammans, Motion från Johanna Reimfelt (L) och Karolina Wallström (L) om handlingsplan för suicidprevention, Motion från Martha Wicklund (V) om att få bukt med oseriösa aktörer i välfärden, Motion från Martha Wicklund (V) om välfärd i kommunal regi, Motion från Martha Wicklund (V) om återbruk i alla led, Motion från Markus Allard (ÖRP) och Glenn Roswall (ÖrP) om att stänga förskolan Igelkotten.",
+      "category": "formellt",
+      "decision_type": "remiss",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 89",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "motioner",
+        "remiss"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_89"
+    },
+    {
+      "headline": "Rapport från Örebro Rådhus AB läggs till handlingarna",
+      "human_headline": "Kommunen mottar rapport om sina bolags verksamhet",
+      "summary": "Rapport från Örebro Rådhus AB om styrelsens verksamhet och större ärenden läggs till handlingarna. Rapporten utgör informationsöverföring enligt ägardirektivet.",
+      "plain_language_summary": "Kommunen får en rapport om vad som har hänt i hennes bolag.",
+      "relevance": null,
+      "detail": "Styrelsen i Örebro Rådhus AB ska enligt ägardirektivet hålla Kommunstyrelsen löpande informerad om sin egen och dotterbolagensverksamhet samt om åtgärder av större vikt. Information om ekonomiskt resultat och investeringar för bolagen i Örebro Rådhuskoncernen ingår i Örebro kommuns delårsrapporter.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 90",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "rapport",
+        "bolag"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_90"
+    },
+    {
+      "headline": "Finansrapport mars 2024 läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar sina finansverksamheter",
+      "summary": "Kommunledningsförvaltningen anmäler rapport över finansverksamheter för mars 2024. Rapporten läggs till handlingarna.",
+      "plain_language_summary": "Kommunens finansverksamhet för mars rapporteras.",
+      "relevance": null,
+      "detail": "Kommunledningsförvaltningen anmäler rapport över finansverksamheter för mars 2024 enligt rutin.",
+      "category": "budget",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 91",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "ekonomi",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_91"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut mars 2024 läggs till handlingarna",
+      "human_headline": "Kommunen rapporterar beslut fattade genom delegation",
+      "summary": "Alla beslut fattade med stöd av delegation under mars 2024 anmäls till Kommunstyrelsen. Sammanställningar över delegationsbeslut inom övrig verksamhet, finansverksamhet och från Jämställdhetsdelegationen läggs till handlingarna.",
+      "plain_language_summary": "Kommunen rapporterar vilka beslut som fattades utan att gå genom Kommunstyrelsen.",
+      "relevance": null,
+      "detail": "Alla beslut fattade med stöd av delegation av tjänsteperson, ordförande, presidium eller utskott ska anmälas till Kommunstyrelsen på närmast följande sammanträde enligt 6 kap. 40 § KL. Det är först efter återrapporteringen till Kommunstyrelsen som delegationsbesluten kan vinna laga kraft.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 92",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "delegation",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_92"
+    },
+    {
+      "headline": "Anmälan av inkomna handlingar läggs till handlingarna",
+      "human_headline": "Kommunen mottar dokument från externa organisationer",
+      "summary": "Kommunledningsförvaltningen anmäler inkomna handlingar från externa organisationer som är relevanta för Kommunstyrelsen. Handlingarna läggs till handlingarna.",
+      "plain_language_summary": "Kommunen fått olika brev och rapporter från externa organisationer.",
+      "relevance": null,
+      "detail": "Varje månad anmäler Kommunledningsförvaltningen handlingar som inkommit och bedöms relevanta för Kommunstyrelsen att få kännedom om. Detta gäller handlingar från organisationer som Hyresgästföreningen, Region Örebro län, Sveriges kommuner och regioner och andra.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 93",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "administration",
+        "rapporter"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_93"
+    },
+    {
+      "headline": "Kommundirektörens rapport för mars 2024 läggs till handlingarna",
+      "human_headline": "Kommundirektören rapporterar nyheter inom förvaltningen",
+      "summary": "Kommundirektören redogör för nyheter inom förvaltningen. Rapporten läggs till handlingarna.",
+      "plain_language_summary": "Högsta tjänstemannen rapporterar viktiga nyheter inom kommunförvaltningen.",
+      "relevance": null,
+      "detail": "Kommundirektören redogör i en rapport för nyheter inom förvaltningen.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 94",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enig"
+      },
+      "tags": [
+        "kommundirektör",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2024-04-09_ko_94"
     }
   ],
   "motions_of_interest": [
     {
-      "title": "Helena Ståhl (SD) - Redovisa hela lönekostnaden för anställda",
+      "title": "Redovisa hela lönekostnaden för anställda i Örebro kommun",
       "party": "SD",
-      "status": "Remitterad till Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
-      "title": "Carola Sunesson (SD) - Redovisning och modell för integrationssatsningar",
+      "title": "Redovisning och modell för integrationssatsningar",
       "party": "SD",
-      "status": "Remitterad till Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
-      "title": "Susanne Lindholm Henningsson (KD) - Öppna för seniorer att äta lunch i skolmatsalar",
+      "title": "Öppna för seniorer att äta lunch i skolmatsalar",
       "party": "KD",
-      "status": "Remitterad till Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
-      "title": "Johanna Reimfelt & Mats-Olof Liljegren (L) - Skapa magi genom att läsa tillsammans",
+      "title": "Skapa magi genom att läsa tillsammans",
       "party": "L",
-      "status": "Remitterad till Grundskolenämnden"
+      "status": "remitterad"
     },
     {
-      "title": "Johanna Reimfelt & Karolina Wallström (L) - Handlingsplan för suicidprevention",
+      "title": "Handlingsplan för suicidprevention",
       "party": "L",
-      "status": "Remitterad till Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
-      "title": "Martha Wicklund (V) - Få bukt med oseriösa aktörer i välfärden",
+      "title": "Få bukt med oseriösa aktörer i välfärden",
       "party": "V",
-      "status": "Remitterad till Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
-      "title": "Martha Wicklund (V) - Välfärd i kommunal regi",
+      "title": "Välfärd i kommunal regi",
       "party": "V",
-      "status": "Remitterad till Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
-      "title": "Martha Wicklund (V) - Återbruk i alla led",
+      "title": "Återbruk i alla led",
       "party": "V",
-      "status": "Remitterad till Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
-      "title": "Markus Allard & Glenn Roswall (ÖrP) - Stänga förskolan Igelkotten",
+      "title": "Stänga förskolan Igelkotten",
       "party": "ÖrP",
-      "status": "Remitterad till Förskolenämnden"
+      "status": "remitterad"
+    },
+    {
+      "title": "Tillsätta haverikommission för Arenaskolan",
+      "party": "SD",
+      "status": "avslagen"
+    },
+    {
+      "title": "Regelbundna dragningar om viktiga strategier",
+      "party": "KD",
+      "status": "tillgodosedd"
     }
   ],
-  "skipped_items_count": 8,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2024-04-09",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 11
+  "decisions_count": 19
 }

@@ -1,50 +1,153 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2024-03-12",
-  "summary_headline": "Kilsbergen-strategi antagen, arbetsmiljö-uppdrag till kommundirektören",
+  "summary_headline": "Kilsbergen-strategi antagen. Motioner om självförsvar och hemlöshet avslagna",
   "decisions": [
     {
-      "headline": "Viljeinriktning för friluftsliv och turism i Kilsbergen antagen",
-      "summary": "Kommunstyrelsen antog en gemensam viljeinriktning för Kilsbergen som ett strategiskt viktigt rekreationsområde för cirka 200 000 invånare i fem kommuner.",
-      "detail": "Kilsbergen är ett rekreationsområde av stor betydelse för Degerfors, Karlskoga, Lekeberg, Nora och Örebro kommuner samt regionen. En gemensam viljeinriktning med fokus på friluftsliv och besöksnäring har utvecklats av åtta organisationer inklusive kommunerna, Region Örebro län, Länsstyrelsen, Försvarsmakten, Saab Bofors Test Center, Sveaskog och Örebrrokompaniet.\n\nViljeinriktningen syftar till att utveckla området för både rekreation och besöksnäring genom bättre samordning mellan involverade aktörer. Dokumentet presenterades efter remissrunda och antogs enhälligt av kommunstyrelsen.\n\nKristdemokraterna lämnade särskilt yttrande och uttryckte höga förväntningar på att orden följs av handling och att engagemang från civilsamhället hörsammas och stödjs.",
-      "category": "kultur",
-      "contested": false,
-      "location": "Kilsbergen",
+      "headline": "Presentation av verksamhetsresultat - Årsredovisning",
+      "human_headline": "Årsredovisning presenterad och antagen",
+      "summary": "Kommunledningsförvaltningens presentation av verksamhetsresultat från årsredovisningen togs till protokollet.",
+      "plain_language_summary": "Kommunen presenterade sina verksamhetsresultat för året, och styrelsen antog informationen.",
+      "relevance": null,
+      "detail": "Informationen togs till protokollet.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 49",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [
+          "V"
+        ],
+        "result": "Noterad"
+      },
+      "tags": [
+        "årsredovisning",
+        "verksamhetsresultat"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_49"
+    },
+    {
+      "headline": "Övergripande tillsynsrapport för intern kontroll 2023",
+      "human_headline": "Intern kontroll i kommunen bedömd som god",
+      "summary": "Kommunstyrelsen godkände rapporten om intern kontroll 2023 och överlämnade den till Stadsrevisionen. Kommundirektören får i uppdrag att fortsätta utveckla den interna kontrollen.",
+      "plain_language_summary": "En rapport om kommunens interna kontroller visar att det fungerar väl överlag, men det finns några områden som behöver förbättras, och ledningen får i uppdrag att arbeta vidare med detta.",
+      "relevance": "Påverkar all kommunal verksamhet genom systematisk utveckling av interna kontroller och rutiner.",
+      "detail": "Rapporten visar att Örebro kommun har arbetat med intern kontroll under 2023 genom systematiska riskanalyser av 42 valda områden. Resultatet bedöms att den interna kontrollen är god inom de områden som granskats, dock noteras att det är förhållandevis få områden som granskas totalt.\n\nHuvudsakliga utmaningar som identifierats är brister i rutiner inom flera nämnder samt två fall med allvarliga brister. Nämnderna rapporterar åtgärder som omfattar rutinutveckling, utbildning, systemförbättringar och systematisk uppföljning.\n\nVisselblåsarfunktionen har inte mottagit nya ärenden under året.\n\nKommundirektören får uppdrag att fortsätta utveckla den interna kontrollen så att resultaten bidrar till verksamhetens utveckling.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 50",
+      "quote": "Den interna kontrollen i kommunen är god. Det vill säga, inom de områden som varit föremål för granskning är den generella slutsatsen att det finns en ändamålsenlig intern kontroll.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "intern kontroll",
+        "tillsyn",
+        "rutiner",
+        "Stadsrevisionen"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_50"
+    },
+    {
+      "headline": "Viljeinriktning - Friluftsliv och besöksnäring i Kilsbergen antas",
+      "human_headline": "Kommunen antar strategi för att utveckla Kilsbergen",
+      "summary": "Kommunstyrelsen antog en gemensam viljeinriktning för friluftsliv och turism i Kilsbergen, framtagen tillsammans med fem andra kommuner, Region Örebro län och flera andra aktörer. Anna Andersson (KD) tillät ett särskilt yttrande.",
+      "plain_language_summary": "Örebro kommun och flera andra kommuner tillsammans med regionala aktörer har beslutat att satsa på att utveckla Kilsbergen som ett rekreations- och besöksområde för att bättre utnyttja dess potential för både invånare och turister.",
+      "relevance": "Påverkar invånare som använder Kilsbergen för rekreation och potentiellt näringslivet genom ökad turism i området.",
+      "detail": "Viljeinriktningen är resultatet av ett gemensamt arbete mellan Degerfors, Karlskoga, Lekeberg, Nora och Örebro kommuner tillsammans med Region Örebro län, Länsstyrelsen, Försvarsmakten, Saab Bofors Test center, Sveaskog och Örebrokompaniet.\n\nKilsbergen utgör ett strategiskt viktigt rekreationsområde för cirka 200 000 invånare i dessa fem kommuner. Bedömningen har varit att områdets potential inte tillvaratas tillräckligt på grund av bristande samordning mellan berörda organisationer.\n\nDokumentet fokuserar på friluftsliv och besöksnäring som utvecklingsområden. Kristdemokraterna betonar i sitt särskilda yttrande vikten av att orden följs upp med handling och att civilsamhällets engagemang stöds.",
+      "category": "infrastruktur",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "foretagare",
+        "turister"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Kilsbergen",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 51",
       "quote": "Kilsbergen utgör ett strategisk viktigt rekreationsområde för cirka 200 000 invånare i kommunerna Degerfors, Karlskoga, Lekeberg, Nora och Örebro.",
       "quote_page": "s. 4",
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "ÖrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Bifallen"
       },
       "tags": [
         "Kilsbergen",
         "friluftsliv",
         "turism",
-        "rekreation",
-        "samverkan"
+        "besöksnäring",
+        "rekreation"
       ],
+      "confidence": "hog",
       "id": "2024-03-12_ko_51"
     },
     {
-      "headline": "Kommundirektören får uppdrag att arbeta med arbetsmiljöprioriteras",
-      "summary": "Kommunstyrelsen gav kommundirektören i uppdrag att arbeta med prioriterade arbetsmiljöområden som identifierats utifrån årlig uppföljning.",
-      "detail": "Den årliga uppföljningen av det systematiska arbetsmiljöarbetet 2023 identifierade flera utmaningar som sticker ut eller är gemensamma för flera nämnder: lokaler, nya regler för dygn- och veckovila, hög arbetsbelastning, hot och våld samt den sociala arbetsmiljön.\n\nKommunstyrelsen beslutade att kommundirektören får i uppdrag att arbeta med dessa prioriterade områden. Speciell fokus ska ligga på resursplanering för en mer hållbar bemanningssituation, stärkande av den organisatoriska och sociala arbetsmiljön (OSA), samt arbete för att minska hot och våldsrisker.\n\nVänsterpartiet föresloga ett tilläggsyrkande om återkoppling på arbetet senast i maj, vilket avslogs. Martha Wicklund (V) reserverade sig mot beslutet.",
-      "category": "trygghet",
-      "contested": true,
-      "location": null,
+      "headline": "Årlig uppföljning av systematiskt arbetsmiljöarbete 2023",
+      "human_headline": "Kommunen prioriterar arbetsmiljö och personal framöver",
+      "summary": "Kommunstyrelsen godkände uppföljningen av arbetsmiljöarbetet 2023 och gav kommundirektören uppdrag att fortsätta prioritera resursplanering och arbetsmiljöfrågor. Martha Wicklund (V) yrkat på återkoppling senast i maj avslogs. Karolina Wallström (L) tillät ett särskilt yttrande.",
+      "plain_language_summary": "En rapport om hur det är att arbeta i kommunen visar problem med lokaler, arbetstidsfrågor, hög arbetsbelastning och hot/våld. Kommunledningen får i uppdrag att arbeta vidare med dessa frågor.",
+      "relevance": "Påverkar alla kommunanställda genom fokus på resursplanering, arbetsmiljö och bemanning.",
+      "detail": "Rapporten visar att arbetsmiljöutmaningar som sticker ut eller är gemensamma för flera nämnder är: lokaler, nya regler för dygn- och veckovila, hög arbetsbelastning, hot och våld samt sociala arbetsmiljön.\n\nKommunen behöver prioritera resursplanering för mer hållbar bemanningssituation och stärka arbetet med organisatorisk och social arbetsmiljö (OSA). Fokus bör ligga på det positiva och friska, minskad oro kring hot och våld, samt att locka fler medarbetare att bli skyddsombud.\n\nMartha Wicklund (V) yrkat på återkoppling senast maj avslogs. Liberalerna betonar i sitt särskilda yttrande att resurser och ledarskap måste flyttas närmare verksamheten och att centralförvaltningen är för överbyggd.\n\nBeslutspunkt 2 (årlig uppföljning läggs till handlingarna) går vidare till Kommunfullmäktige.",
+      "category": "omsorg",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 52",
       "quote": "Arbetsmiljöutmaningar som sticker ut eller är gemensamt för flera nämnder är lokaler, nya regler för dygn- och veckovila, hög arbetsbelastning, hot och våld och den sociala arbetsmiljön.",
       "quote_page": "s. 5",
@@ -55,90 +158,306 @@
           "C",
           "L",
           "KD",
-          "SD",
           "ÖrP",
           "MP"
         ],
         "against": [],
-        "abstained": [
-          "V"
-        ],
-        "result": "Bifall"
+        "abstained": [],
+        "result": "Bifallen"
       },
       "tags": [
         "arbetsmiljö",
+        "personal",
         "bemanning",
-        "välfärd",
-        "organisatorisk miljö"
+        "SAM",
+        "arbetsmiljöfrågor"
       ],
+      "confidence": "hog",
       "id": "2024-03-12_ko_52"
     },
     {
-      "headline": "Motion om självförsvarsutbildning avslås",
-      "summary": "Kommunstyrelsen avslogs motionen från Carola Sunesson (SD) om att etablera självförsvarsutbildning för utsatta personer och grupper.",
-      "detail": "Motionen från Carola Sunesson (SD) föreslog att Örebro kommun skulle etablera en självförsvarsutbildning och erbjuda denna till extra utsatta personer och grupper, företagare och verksamheter. Förslaget inkluderade att utreda befintliga utbildningar och finansieringsmöjligheter, samt att samverka mellan kommun, utbildningsanordnare, polis och vaktbolag.\n\nKommunledningsförvaltningen bedömde att motionen skulle avslås med motiveringen att det inte finns motsvarande utbildning inom kommunens verksamhet idag, och att kommunledningen har valt att fokusera på andra typer av åtgärder för trygghet och mot brottslighet.\n\nSD (Helena Ståhl, Bo Ammer) och OrP (Markus Allard) yrkat bifall. SD reserverade sig helt, OrP reserverade sig på motionens första att-sats.",
-      "category": "trygghet",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 58",
-      "quote": "Det inte finns någon motsvarande utbildning inom kommunens verksamhet idag och kommunledningen har valt att fokusera på andra typer av åtgärder för trygghet och mot brottslighet.",
-      "quote_page": "s. 12",
+      "headline": "Uppdrag psykisk hälsa - Fördelning stimulansmedel 4,5 miljoner från SKR",
+      "human_headline": "Kommunen fördelar 4,5 miljoner för psykisk hälsa och suicidprevention",
+      "summary": "Kommunstyrelsen noterade informationen om fördelningen av 4,5 miljoner kronor i stimulansmedel från SKR för psykisk hälsa 2022. Medlen fördelades på verksamhetsansökningar (12 beviljades av 31 inkomna), kompetensutveckling och personella resurser.",
+      "plain_language_summary": "Kommunen fick 4,5 miljoner kronor från staten för att arbeta med psykisk hälsa och förebygga självmord, och dessa pengar fördelades mellan olika kommunala verksamheter.",
+      "relevance": "Påverkar invånare som får tillgång till aktiviteter och stöd inom psykisk hälsa och suicidprevention.",
+      "detail": "Överenskommelsen mellan staten och SKR gäller psykisk hälsa och suicidprevention sedan 2016. För 2022 tilldelades Örebro kommun 4,5 miljoner kronor i stimulansmedel.\n\nFördelningen gjordes baserat på Örebro kommuns program för hållbar utveckling, övergripande strategier, budget samt två regionala handlingsplaner för psykisk hälsa och suicidprevention.\n\nFördelningen gjordes i tre delar: ansökningar från verksamheter (31 inkom, 12 beviljades), kompetensutveckling, och personella resurser för samordning och fördjupningsarbete.\n\nInformationen lades till handlingarna.",
+      "category": "omsorg",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 53",
+      "quote": "Staten och SKR har sedan 2016 en överenskommelse om psykisk hälsa och suicidprevention där Örebro kommun tilldelats 4,5 miljoner kronor i stimulansmedel för år 2022.",
+      "quote_page": "s. 7",
       "voting": {
         "for": [],
-        "against": [
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "psykisk hälsa",
+        "suicidprevention",
+        "stimulansmedel",
+        "4,5 miljoner",
+        "SKR"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_53"
+    },
+    {
+      "headline": "Svar på remiss från Region Örebro Län om ny överenskommelse hemsjukvård",
+      "human_headline": "Kommunen godkänner ny överenskommelse om hemsjukvård med regionen",
+      "summary": "Kommunstyrelsen antog och överlämnade ett yttrande till Region Örebro Län angående en ny överenskommelse för hälso- och sjukvård i hemmet. Överenskommelsen ersätter det nuvarande hemsjukvårdsavtalet.",
+      "plain_language_summary": "Kommunen sade ja till en ny överenskommelse med regionen om hur hemsjukvården ska fungera, med fokus på att patienten står i centrum och att insatserna samordnas.",
+      "relevance": "Påverkar äldre och sjuka invånare som behöver hemsjukvård genom samordning mellan kommun och region.",
+      "detail": "Överenskommelsen handlar om det delade och enskilda ansvaret för primärvård i hemmet mellan Region Örebro Län och kommunens än. Den nya överenskommelsen fokuserar på personcentrerad vård och samordnade insatser för att möta individuella behov.\n\nSamarbetet mellan Regionen och kommunen är nödvändigt för att genomföra in- och utskrivningsprocessen inom hälso- och sjukvården, vilket kräver teamarbete, samverkan och kommunikation mellan parterna och den enskilde.\n\nDen nya överenskommelsen kommer att ersätta nuvarande hemsjukvårdsavtal.",
+      "category": "omsorg",
+      "decision_type": "remiss",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "aldre",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 54",
+      "quote": "Överenskommelsen handlar om det delade och enskilda ansvaret för primärvård i hemmet mellan Regionen och Örebro läns kommuner, med fokus på personcentrerad vård och samordnade insatser.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "hemsjukvård",
+        "hälso- och sjukvård",
+        "Region Örebro Län",
+        "överenskommelse",
+        "personcentrerad vård"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_54"
+    },
+    {
+      "headline": "Samverkansrådets verksamhetsberättelse 2023",
+      "human_headline": "Samverkansrådet rapporterar sitt arbete 2023",
+      "summary": "Kommunstyrelsen noterade Samverkansrådets verksamhetsberättelse för 2023. Rådet fokuserade på att utvärdera överenskommelsen 2020-2023, ta fram ny aktivitetsplan, genomföra temakväll om socialt företagande och fortsätta samarbetet om Klimatneutrala Örebro 2030. Anna Andersson (KD) tillät ett särskilt yttrande.",
+      "plain_language_summary": "Rådet för samverkan mellan kommun och organisationer rapporterade sitt arbete året innan, som handlade om att utvärdera avtal, planera framtiden, diskutera socialt företagande och arbeta med klimat.",
+      "relevance": "Påverkar civilsamhället och föreningar genom samverkansstrukturen mellan kommun och ideella aktörer.",
+      "detail": "Samverkansrådet redovisade sitt verksamhetsår 2023 med fokus på att utvärdera överenskommelsen för samverkan 2020-2023 inför en ny fyraårsperiod. Under året togs en ny tvåårig aktivitetsplan fram.\n\nSpecifika aktiviteter under året inkluderade en temakväll om socialt företagande och fortsatt samarbete mellan kommunen och civila samhället inom projektet Klimatneutrala Örebro 2030.\n\nI sitt särskilda yttrande betonar Kristdemokraterna vikten av väl fungerande kanaler mellan civilsamhället och kommunen. De ställer frågan om samverkansrådet är en sådan kanal och menar att man tydligare bör utvärdera samverkansrådets funktion.",
+      "category": "politik",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foreningar",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 55",
+      "quote": "Samverkansrådet redovisar sitt verksamhetsår 2023, där fokus framförallt har legat på att utvärdera överenskommelsen om samverkan 2020-2023 inför en ny fyraårsperiod.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "samverkansråd",
+        "civilsamhälle",
+        "överenskommelse",
+        "aktivitetsplan",
+        "Klimatneutrala Örebro 2030"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_55"
+    },
+    {
+      "headline": "Attestförteckning år 2024",
+      "human_headline": "Nya attestanter utses för intern kontroll av ekonomi",
+      "summary": "Kommunstyrelsen utsåg attestanter för 2024 enligt ny ekonomimodell från april. Nya 'Ansvar'-koder ersätter tidigare REN-koder. Ändringar under året delegeras till kommundirektören.",
+      "plain_language_summary": "Kommunen bestämde vilka personer som får godkänna ekonomiska transaktioner inom kommunen och ändrade systemet för hur dessa befogenheter kodes.",
+      "relevance": null,
+      "detail": "Attestanter utses för den interna kontrollen av ekonomiska transaktioner enligt Örebro kommuns attestreglemente.\n\nKommunen inför ny ekonomimodell från april 2024 där sifferkod REN (REdovisningsNivå) ersätts med ny kod 'Ansvar'. Med anledning av denna förändring behandlas uppdaterad attestförteckning av kommunstyrelsen i mars 2024.\n\nI den uppdaterade attestförteckningen anges Ansvarskoderna och omfattning av attesträtt för kommunövergripande attestbehörighet. Attesträtterna regleras i detalj i attestregistret i ekonomisystemet och knyts till respektive attestant via unik användaridentitet.\n\nÄndring av beslut om attestanter under löpande verksamhetsår delegeras till kommundirektören.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 56",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "attestanter",
+        "ekonomi",
+        "interna kontroller",
+        "REN-koder",
+        "Ansvar-koder"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_56"
+    },
+    {
+      "headline": "Revidering av kommungemensam arkiveringsplan",
+      "human_headline": "Kommunen uppdaterar regler för dokumentlagring",
+      "summary": "Kommunstyrelsen antog revidering av den kommungemensamma arkiveringsplanen för hantering av handlingar inom alla kommunala verksamheter och bolag.",
+      "plain_language_summary": "Kommunen uppdaterade sina regler för vilka dokument som ska sparas och hur länge de ska förvaras.",
+      "relevance": null,
+      "detail": "Kommunstyrelsen är arkivmyndighet i Örebro kommun och tar beslut om hantering av handlingar för samtliga nämndområden och kommunala bolag.\n\nI den kommungemensamma arkiveringsplanen redovisas handlingar, oavsett media, för alla Örebro kommuns verksamheter och arkivmyndighetens beslut gällande bevarande och gallring.\n\nRevidering sker kontinuerligt och styrande lagkrav gäller för vissa handlingstyper. Den kompletta arkiveringsplanen med arkivmyndighetens beslut gällande bevarande- och gallringsfrister finns tillgänglig både på intranätet och kommunens publika webb.",
+      "category": "formellt",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 57",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "arkivering",
+        "dokumenthantering",
+        "lagring",
+        "gallring"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_57"
+    },
+    {
+      "headline": "Svar på motion från Carola Sunesson (SD) om självförsvar och personlig säkerhet",
+      "human_headline": "Kommunen säger nej till självförsvarsutbildning",
+      "summary": "Kommunstyrelsen avslog motionen från Carola Sunesson (SD) om att etablera självförsvarsutbildning för utsatta grupper och medborgare. SD och Örebro-Partiet krävde bifall men förslaget föll. Beslutet skickas vidare till Kommunfullmäktige.",
+      "plain_language_summary": "En politiker föreslog att kommunen skulle erbjuda självförsvarsutbildning gratis, men kommunens ledning sa nej och valde i stället att fokusera på andra säkerhetsfrågor.",
+      "relevance": "Påverkar invånare, särskilt utsatta grupper, genom att kommunen inte erbjuder denna typ av utbildning.",
+      "detail": "Motion från Carola Sunesson (SD) anmäldes i Kommunfullmäktige den 12-13 december 2022.\n\nMotionären föreslog att Örebro kommun ska etablera självförsvarsutbildning och erbjuda den till extra utsatta personer och grupper, andra enskilda personer, företagare och verksamheter, som ett komplement till andra insatser mot brottslighet. Förslaget omfattade att kommunen ska undersöka befintliga utbildningar som kan erbjudas och möjligheter till finansiering genom statligt eller EU-stöd. Utbildningen skulle ges i samverkan mellan kommunen, utbildningsanordnare, Polisen och vaktbolag.\n\nBedömningen är att motionen ska avslås då det inte finns någon motsvarande utbildning inom kommunens verksamhet idag och kommunledningen har valt att fokusera på andra typer av åtgärder för trygghet och mot brottslighet.\n\nBo Ammer (SD) och Helena Ståhl (SD) yrkat bifall till motionen. Markus Allard (ÖrP) yrkat bifall till motionens första att-sats. Ordförande fann att Kommunstyrelsen beslutar enligt Kommunledningsförvaltningens förslag (avslag).",
+      "category": "trygghet",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare",
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 58",
+      "quote": "Motionären föreslår i sin motion att Örebro kommun ska etablera en självförsvarsutbildning och informera om och erbjuda utbildningen till extra utsatta personer och grupper, andra enskilda personer, företagare och verksamheter.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
           "SD",
           "ÖrP"
         ],
+        "against": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
         "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
-        "självförsvar",
-        "säkerhet",
-        "trygghet",
-        "motion"
+        "själförsvar",
+        "personlig säkerhet",
+        "brottslighet",
+        "utsatta grupper",
+        "trygghet"
       ],
+      "confidence": "hog",
       "id": "2024-03-12_ko_58"
     },
     {
-      "headline": "Motion om hemlöshetsstöd till civilsamhället avslås",
-      "summary": "Kommunstyrelsen avslogs motionen från Johanna Reimfelt (L) om att utöka stödet till civilsamhället för bekämpning av hemlöshet.",
-      "detail": "Liberalerna föreslog i motionen att Örebro kommun skulle utreda och utöka stödet till civilsamhället för att ge långsiktiga möjligheter för utökad verksamhet dagtid för hemlösa.\n\nKommunledningsförvaltningen bedömde att motionen skulle avslås med motiveringen att Örebro kommun redan arbetar med hemlöshetsproblematiken på flera sätt. Kommun antog 2022 en strategi mot hemlöshet och från början 2023 finns en samordnare tillsatt. Kommunen bedriver egen verksamhet och samarbetar också med civilsamhället.\n\nMotionen fick stöd från L, SD, V, KD och OrP. Fem partier reserverade sig mot beslutet.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 60",
-      "quote": "Örebro kommun redan arbetar med hemlöshetsproblematiken på olika sätt. Örebro kommun antog 2022 en strategi mot hemlöshet och sedan början av 2023 finns en samordnare tillsatt.",
-      "quote_page": "s. 14",
-      "voting": {
-        "for": [],
-        "against": [
-          "L",
-          "SD",
-          "V",
-          "KD",
-          "ÖrP"
-        ],
-        "abstained": [],
-        "result": "Avslaget"
-      },
-      "tags": [
-        "hemlöshet",
-        "civilsamhälle",
-        "välfärd",
-        "motion"
+      "headline": "Svar på motion från David Larsson (SD) om hjärtstartare på äldreboenden",
+      "human_headline": "Hjärtstartare installeras på alla äldreboenden",
+      "summary": "Kommunstyrelsen tillgodosåg motionen från David Larsson (SD) om hjärtstartare på äldreboenden. Vård- och omsorgsnämnden beslutade 2023 att utrusta samtliga äldreboenden i kommunal regi med hjärtstartare. Helena Ståhl (SD) lämnade ett särskilt yttrande.",
+      "plain_language_summary": "En politiker föreslog att alla äldreboenden skulle få hjärtstartare, och kommunen har redan genomfört detta – så motionen är löst.",
+      "relevance": "Påverkar äldre invånare på äldreboenden genom ökad säkerhet och möjlighet till snabb hjärtstart vid behov.",
+      "detail": "Motion från David Larsson (SD) anmäldes i Kommunfullmäktige den 14 december 2021.\n\nMotionen föreslår att Örebro kommun utrusta vård- och omsorgsboenden med hjärtstartare genom att berörd förvaltning får i uppdrag att upprätta en tids- och genomförandeplan för detta och utreda finansieringsalternativ.\n\nBedömningen är att motionen är tillgodosedd. Vård- och omsorgsnämnden beslutade redan den 31 augusti 2023 att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare.\n\nMotionen tillgodosågs och ärendet skickas vidare till Kommunfullmäktige för beslut.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "aldre"
       ],
-      "id": "2024-03-12_ko_60"
-    },
-    {
-      "headline": "Motion om hjärtstartare på äldreboenden tillgodosedd",
-      "summary": "Kommunstyrelsen fastställde att motionen från David Larsson (SD) om hjärtstartare på äldreboenden är tillgodosedd efter att Vård- och omsorgsnämnden redan fattat beslut.",
-      "detail": "David Larsson (SD) motionerade om att utrusta alla kommunala vård- och omsorgsboenden med hjärtstartare och att upprätta en tids- och genomförandeplan samt utreda finansieringsalternativ.\n\nMotionen bedömdes vara tillgodosedd då Vård- och omsorgsnämnden redan den 31 augusti 2023 beslutade att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare.\n\nHelena Ståhl (SD) yrkat att få lämna särskilt yttrande.",
-      "category": "trygghet",
-      "contested": false,
-      "location": null,
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 59",
-      "quote": "Vård- och omsorgsnämnden den 31 augusti 2023 beslutade att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare.",
+      "quote": "Motionen innehåller ett förslag om att införa hjärtstartare på Örebro kommuns vård- och omsorgsboenden genom att berörd förvaltning får i uppdrag att upprätta en tids- och genomförandeplan.",
       "quote_page": "s. 13",
       "voting": {
         "for": [],
@@ -147,68 +466,404 @@
         "result": "Tillgodosedd"
       },
       "tags": [
-        "äldreomsorg",
         "hjärtstartare",
-        "säkerhet",
-        "motion"
+        "äldreboenden",
+        "vård och omsorg",
+        "säkerhet"
       ],
+      "confidence": "hog",
       "id": "2024-03-12_ko_59"
     },
     {
-      "headline": "Revisioning av kommungemensam arkiveringsplan antagen",
-      "summary": "Kommunstyrelsen antog revidering av den kommungemensamma arkiveringsplanen med nya och reviderade handlingstyper.",
-      "detail": "Som arkivmyndighet i Örebro kommun fattar kommunstyrelsen beslut om handlingar för alla nämnder och kommunala bolag avseende bevarande och gallring. Revideringen sker kontinuerligt för att följa lagkrav och uppdaterade behov.\n\nDen reviderade arkiveringsplanen redovisar nya och reviderade handlingstyper. Komplett plan med beslut om bevarande och gallringsfrister finns tillgänglig på intranät och kommunens webbplats.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 57",
-      "quote": "I den kommungemensamma arkiveringsplanen redovisas handlingar, oavsett media, för alla Örebro kommuns olika verksamheter och de av arkivmyndigheten antagna beslut.",
-      "quote_page": "s. 11",
+      "headline": "Svar på motion från Johanna Reimfelt (L) om stöd till civilsamhället för hemlösa",
+      "human_headline": "Kommunen säger nej till ökat stöd för hemlösa",
+      "summary": "Kommunstyrelsen avslog motionen från Johanna Reimfelt (L) om att öka stödet till civilsamhället för hemlösa. Fem partier yrkat bifall (L, SD, V, KD, ÖrP), men majoritet avslog. Ärendet skickas vidare till Kommunfullmäktige.",
+      "plain_language_summary": "En politiker föreslog att kommunen skulle ge mer pengar till ideella organisationer som hjälper hemlösa, men majoriten i kommunstyrelsen sa nej och menade att kommunen redan gör tillräckligt.",
+      "relevance": "Påverkar hemlösa invånare genom att kommunen inte utökar stödet till civilsamhällets verksamhet för denna grupp.",
+      "detail": "Motion från Johanna Reimfelt (L) anmäldes i Kommunfullmäktige den 13 december 2022.\n\nMotionen föreslår att kommunen utreder och utökar stödet till civilsamhället för att ge långsiktiga möjligheter för utökad verksamhet dagtid för hemlösa.\n\nBedömningen är att motionen ska avslås. Örebro kommun arbetar redan med hemlöshetsproblematiken på olika sätt. Kommunen antog 2022 en strategi mot hemlöshet och sedan början av 2023 finns en samordnare tillsatt för att arbeta med strategin. Inom denna struktur tas förslag till prioriteringar fram och beslut fattas i berörda politiska instanser. Kommunen bedriver egen verksamhet för att möta och förebygga hemlöshet och samarbetar även med civilsamhället genom olika samverkansformer.\n\nKarolina Wallström (L), Helena Ståhl (SD), Martha Wicklund (V), Anna Andersson (KD) och Markus Allard (ÖrP) yrkat bifall till motionen. Ordförande ställde detta mot Kommunledningsförvaltningens förslag (avslag) och fann att Kommunstyrelsen beslutar enligt avslaget.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 60",
+      "quote": "Motionen innehåller ett förslag om att öka det förebyggande arbetet genom att kommunen utreder och utökar stödet till civilsamhället.",
+      "quote_page": "s. 14",
       "voting": {
-        "for": [],
-        "against": [],
+        "for": [
+          "L",
+          "SD",
+          "V",
+          "KD",
+          "ÖrP"
+        ],
+        "against": [
+          "S",
+          "M",
+          "C",
+          "MP"
+        ],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Avslagen"
       },
       "tags": [
-        "arkivering",
-        "dokumenthantering",
-        "regelverk"
+        "hemlöshet",
+        "civilsamhälle",
+        "stöd",
+        "socialt arbete",
+        "förebyggande"
       ],
-      "id": "2024-03-12_ko_57"
+      "confidence": "hog",
+      "id": "2024-03-12_ko_60"
     },
     {
-      "headline": "Attestförteckning för 2024 uppdaterad med nya ansvarskoder",
-      "summary": "Kommunstyrelsen fastställde attestanter för 2024 enligt ny ekonomimodell med nya ansvarskoder som träder in från april.",
-      "detail": "Från april 2024 inför kommunen ny ekonomimodell där sifferkod REN (redovisningsnivå) ersätts med ny sifferkod benämnd Ansvar. Attestfotreckningens behandlas därför i mars för att vara klar inför övergången.\n\nKommunstyrelsen utser attestanter för kommunstyrelsens verksamheter, Stadsrevisionen och Valnämnden från april 2024. Beslut om ändringar under löpande verksamhetsår delegeras till kommundirektören.",
-      "category": "regler",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 56",
-      "quote": "Ny ekonomimodell från april 2024, där sifferkod REN (förkortning av begrepp REdovisningsNivå) som attestbehörighet knyts till, ersättes med ny sifferkod benämnd Ansvar.",
-      "quote_page": "s. 10",
+      "headline": "Remittering av sex motioner från Kommunfullmäktige",
+      "human_headline": "Nya motioner från MP och V skickas för beredning",
+      "summary": "Kommunstyrelsen remitterade sex motioner från Kommunfullmäktige: två från Lea Strandberg (MP) om fossil reklam och Garphytteklint, fyra från Vänsterpartiet om enprocentsregeln, välfärdspersonal, skolstärkande och bojkott av israeliska varor. Två motioner bereds av Kommunstyrelsen, övriga remitteras till nämnder.",
+      "plain_language_summary": "Sex nya motioner från politiker togs emot och fördelades till olika nämnder eller till Kommunstyrelsen för vidare behandling.",
+      "relevance": null,
+      "detail": "Kommunfullmäktige remitterade sex motioner till Kommunstyrelsen vid sitt sammanträde 14 februari:\n\n1. Lea Strandberg (MP) - fossil reklam → remitteras till Markplanerings- och exploateringsnämnden\n2. Lea Strandberg (MP) - att skydda Garphytteklint → remitteras till Markplanerings- och exploateringsnämnden\n3. Vänsterpartiet - att utveckla enprocentsregeln → remitteras till Kultur- och fritidsnämnden\n4. Vänsterpartiet - mer pengar till personalen i välfärden → bereds av Kommunstyrelsen\n5. Vänsterpartiet - att förstärka skolan → remitteras till Grundskolenämnden\n6. Vänsterpartiet - kommunal bojkott av israeliska varor och tjänster → bereds av Kommunstyrelsen",
+      "category": "formellt",
+      "decision_type": "motion",
+      "outcome": "aterremitterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 61",
+      "quote": null,
+      "quote_page": null,
       "voting": {
         "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Aterremitterad"
       },
       "tags": [
+        "motioner",
+        "remittering",
+        "fossil reklam",
+        "Garphytteklint",
+        "välfärd",
+        "skola",
+        "bojkott"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_61"
+    },
+    {
+      "headline": "Rapport över finansverksamheter under februari",
+      "human_headline": "Februarirs finansrapport presenterad",
+      "summary": "Kommunledningsförvaltningen presenterade finansrapport för februari 2024 som lades till handlingarna.",
+      "plain_language_summary": "En månadlig rapport om kommunens ekonomi för februari togs emot.",
+      "relevance": null,
+      "detail": "Finansrapport för februari 2024.",
+      "category": "budget",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 62",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "finansrapport",
         "ekonomi",
-        "attestation",
-        "intern kontroll"
+        "februari"
       ],
-      "id": "2024-03-12_ko_56"
+      "confidence": "hog",
+      "id": "2024-03-12_ko_62"
     },
     {
-      "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan skickas vidare",
-      "summary": "SD:s ledamotsinitiativ om att tillsätta haverikommission för att utreda problemerna på Arenaskolan avsendades till presidium för beredning.",
-      "detail": "Helena Ståhl och Bo Ammer (SD) anmälde ledamotsinitiativ med yrkande om att tillsätta haverikommission för att utreda vad som skett på Arenaskolan, hur farlig verksamhet kunnat fortgå trots tidigare stängning, och vad som ska göras för att detta inte sker igen.\n\nOrdförande John Johansson (S) yrkat att ärendet skickas till presidium för beredning. Helena Ståhl (SD) och Markus Allard (OrP) yrkat att ärendet avgörs direkt.\n\nKommunstyrelsen beslutade att skicka ärendet till presidium. SD och OrP reserverade sig.",
-      "category": "politik",
-      "contested": true,
-      "location": "Arenaskolan",
+      "headline": "Anmälan av delegationsbeslut från februari 2024",
+      "human_headline": "Delegationsbeslut från februari rapporteras",
+      "summary": "Kommunledningsförvaltningen anmälde delegationsbeslut fattade under februari 2024 inom övrig verksamhet och finansverksamhet. Anmälan lades till handlingarna.",
+      "plain_language_summary": "Beslut som fattades av kommunens tjänstemän under delegering rapporterades till styrelsen.",
+      "relevance": null,
+      "detail": "Alla beslut fattade med stöd av delegation av tjänsteperson, ordförande, presidium eller utskott ska anmälas till Kommunstyrelsen på närmast följande sammanträde enligt 6 kap. 40 § KL. Det är först efter återrapporteringen till Kommunstyrelsen som delegationsbesluten kan vinna laga kraft.\n\nDelegationsförteckningen för Kommunstyrelsen antogs 27 mars 2003 och reviderades senast 16 januari 2024. Inför mötet 12 mars 2024 rapporterades delegationsbeslut från februari 2024 inom övrig verksamhet och finansverksamhet.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 63",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "delegationsbeslut",
+        "februari",
+        "verksamhet"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_63"
+    },
+    {
+      "headline": "Anmälan av handlingar från Patientnämnden",
+      "human_headline": "Protokoll från Patientnämnden presenteras",
+      "summary": "Kommunledningsförvaltningen anmälde handlingar från Patientnämnden (två protokollsutdrag från 16 februari 2024) som lades till handlingarna.",
+      "plain_language_summary": "Dokumentation från patientnämndens möte presenterades för kännedom.",
+      "relevance": null,
+      "detail": "Månadsvis anmäler Kommunledningsförvaltningen handlingar som bedöms relevanta för Kommunstyrelsen att få kännedom om.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 64",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "Patientnämnden",
+        "handlingar"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_64"
+    },
+    {
+      "headline": "Kommundirektörens rapport för februari 2024",
+      "human_headline": "Kommundirektören rapporterar om förvaltningsnyheter",
+      "summary": "Kommundirektören presenterade sin månadliga rapport för februari 2024 över nyheter inom förvaltningen. Rapporten lades till handlingarna.",
+      "plain_language_summary": "Kommunens högsta tjänsteman rapporterade månadsvis nyheter från förvaltningen.",
+      "relevance": null,
+      "detail": "Kommundirektören redogör i en rapport för nyheter inom förvaltningen.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 65",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "kommundirektör",
+        "förvaltning",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_65"
+    },
+    {
+      "headline": "Val av Lena Norrström till LEADER Mellansjölandets styrelse",
+      "human_headline": "Lena Norrström utses till LEADER Mellansjölandet",
+      "summary": "Kommunstyrelsen utsåg Lena Norrström, landsbygdstrateg på kommunledningsförvaltningen, till Örebro kommuns representant i LEADER Mellansjölandets styrelse (LAG) inför årsstämman 10 april 2024.",
+      "plain_language_summary": "En kommunal tjänsteman utsågs att representera Örebro kommun i en styrning för landsbygdsutveckling.",
+      "relevance": "Påverkar landsbygdsområden genom representationen i LEADER Mellansjölandet.",
+      "detail": "Lena Norrström, landsbygdstrateg på kommunledningsförvaltningen, utsågs till Örebro kommuns representant i LEADER Mellansjölandets styrelse (LAG) inför val på årsstämman 10 april 2024.\n\nLEADER Mellansjölandet är en ideell förening som arbetar med lokalt ledd utveckling på landsbygden genom medel från de Europeiska struktur- och investeringsfonderna.",
+      "category": "naringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "begransad",
+      "public_interest_score": 1,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Mellansjölandet",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 66",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "LEADER Mellansjölandet",
+        "landsbygdsutveckling",
+        "Europeiska fonder",
+        "styrelseval"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_66"
+    },
+    {
+      "headline": "Entledigande av Bo Peter Vestberg från Stiftelsen Nora järnvägsmuseum",
+      "human_headline": "Bo Peter Vestberg avslutar sitt uppdrag på järnvägsmuseum",
+      "summary": "Bo Peter Vestberg (M) entledigades från sitt uppdrag i Stiftelsen Nora järnvägsmuseum och veteranjärnväg efter eget avsägande.",
+      "plain_language_summary": "En politiker slutade sitt uppdrag på en stiftelse för ett järnvägsmuseum.",
+      "relevance": null,
+      "detail": "Bo Peter Vestberg (M) avsåg sig uppdraget i Stiftelsen Nora järnvägsmuseum och veteranjärnväg och entledigades därför.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "stadsdel",
+      "location_name": "Nora",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 67",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "järnvägsmuseum",
+        "Nora",
+        "stiftelse",
+        "entledigande"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_67"
+    },
+    {
+      "headline": "Utse ombud för Hopajolas årsmöte 2024",
+      "human_headline": "Linda Svahn utsedd till ombud på Hopajolas årsmöte",
+      "summary": "Kommunstyrelsen utsåg Linda Svahn (S) till ombud för Örebro kommun på Hopajolas årsmöte 14 maj 2024.",
+      "plain_language_summary": "En politiker utsågs att representera Örebro kommun på ett bolagsmöte.",
+      "relevance": null,
+      "detail": "Linda Svahn (S) utsågs till tillfälligt ombud för Örebro kommun på Hopajolas årsmöte 14 maj 2024.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 68",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "Hopajola",
+        "årsmöte",
+        "ombud"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_68"
+    },
+    {
+      "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan",
+      "human_headline": "Förslag om utredning av Arenaskolan skickas till presidium",
+      "summary": "Helena Ståhl (SD) och Bo Ammer (SD) inlämnade ledamotsinitiativ om att tillsätta en haverikommission för att utreda vad som skett på Arenaskolan. Initiativet skickades till Kommunstyrelsens presidium för beredning trots yrkan från SD och Örebro-Partiet att avgöra ärendet omedelbar.",
+      "plain_language_summary": "Två politiker från SD krävde en utredning av problem på Arenaskolan, men styrelsen bestämde att det först skulle beredas vidare.",
+      "relevance": "Påverkar elever och personal på Arenaskolan genom möjlig utredning av verksamheten.",
+      "detail": "Helena Ståhl (SD) och Bo Ammer (SD) anmälde ett ledamotsinitiativ om att tillsätta en haverikommission.\n\nInitiativet yrkar på att en haverikommission tillsätts med syfte att utreda vad som har skett på Arenaskolan, hur denna farliga verksamhet har kunnat fortgå trots tidigare stängning av samma skola och vad som ska göras för att detta inte sker igen.\n\nJohn Johansson (S) yrkade att ärendet skickas till Kommunstyrelsens presidium för beredning. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkat att ärendet avgörs omedelbar. Efter proposition fann ordföranden att Kommunstyrelsen beslutar att ärendet skickas till presidium för beredning.",
+      "category": "skola",
+      "decision_type": "informationsarende",
+      "outcome": "aterremitterad",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 4,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "skola",
+      "location_name": "Arenaskolan",
+      "controversial_level": "hog",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 69",
-      "quote": "En haverikommission tillsätts med syfte att utreda vad som har skett på Arenaskolan, hur denna farliga verksamhet har kunnat fortgå trots tidigare stängning.",
+      "quote": "Att en haverikommission tillsätts med syfte att utreda vad som har skett på Arenaskolan, hur denna farliga verksamhet har kunnat fortgå trots tidigare stängning av samma skola och vad som ska göras för att detta inte sker igen.",
       "quote_page": "s. 21",
       "voting": {
         "for": [
@@ -225,53 +880,110 @@
           "ÖrP"
         ],
         "abstained": [],
-        "result": "Bifall"
+        "result": "Aterremitterad"
       },
       "tags": [
         "Arenaskolan",
+        "haverikommission",
         "utredning",
-        "säkerhet",
-        "skola"
+        "säkerhet"
       ],
+      "confidence": "medel",
       "id": "2024-03-12_ko_69"
+    },
+    {
+      "headline": "Ledamotsinitiativ om regelbunden dragning av viktiga strategier",
+      "human_headline": "Förslag om större fokus på viktiga strategier i styrelsen",
+      "summary": "Anna Andersson (KD) och Susanne Lindholm Henningsson (KD) inlämnade ledamotsinitiativ om att de viktigaste strategierna behöver regelbunden dragning i Kommunstyrelsen. Initiativet fokuserar på inga utsatta områden 2027, kompetensförsörjning, digitalis utveckling/AI och hållbarhetsmål. Ärendet skickades till presidium för beredning.",
+      "plain_language_summary": "Kristdemokraterna föreslog att Kommunstyrelsen ska diskutera viktiga strategiska frågor oftare, om inga utsatta områden, jobb för rätt kompetens, digital utveckling och hållbarhet.",
+      "relevance": "Påverkar potentiellt hela kommunens arbete genom strategisk fokusering och övervakning.",
+      "detail": "Anna Andersson (KD) och Susanne Lindholm Henningsson (KD) anmälde ett ledamotsinitiativ om att de viktigaste strategierna behöver regelbunden dragning i Kommunstyrelse.\n\nInitiativet yrkar på att följande strategier ska få regelbunden uppmärksamhet och dragning:\n- Att Örebro inte ska ha några utsatta områden 2027\n- Kompetensförsörjning\n- Digitala utvecklingen och AI\n- Hållbarhetsmålen\n\nJohn Johansson (S) yrkade att ärendet skickas till Kommunstyrelsens presidium för beredning. Ordföranden fann att Kommunstyrelsen beslutar enligt detta.",
+      "category": "politik",
+      "decision_type": "informationsarende",
+      "outcome": "aterremitterad",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 70",
+      "quote": "Att de viktigaste strategierna behöver regelbunden dragning i Kommunstyrelse. Att Örebro inte ska ha några utsatta områden 2027, Kompetensförsörjning, Digitala utvecklingen och AI, Hållbarhetsmålen.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremitterad"
+      },
+      "tags": [
+        "strategi",
+        "utsatta områden",
+        "kompetensförsörjning",
+        "digitalisering",
+        "AI",
+        "hållbarhet"
+      ],
+      "confidence": "hog",
+      "id": "2024-03-12_ko_70"
     }
   ],
   "motions_of_interest": [
     {
+      "title": "Utbildning i självförsvar och personlig säkerhet",
+      "party": "SD",
+      "status": "avslagen"
+    },
+    {
+      "title": "Hjärtstartare på äldreboenden",
+      "party": "SD",
+      "status": "tillgodosedd"
+    },
+    {
+      "title": "Öka stödet till civilsamhället för hemlösa",
+      "party": "L",
+      "status": "avslagen"
+    },
+    {
       "title": "Fossil reklam",
       "party": "MP",
-      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+      "status": "under_beredning"
     },
     {
       "title": "Skydda Garphytteklint",
       "party": "MP",
-      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+      "status": "under_beredning"
     },
     {
       "title": "Utveckla enprocentsregeln",
       "party": "V",
-      "status": "Remitterad till Kultur- och fritidsnämnden"
+      "status": "under_beredning"
     },
     {
       "title": "Mer pengar till personalen i välfärden",
       "party": "V",
-      "status": "Bereds av Kommunstyrelsen"
+      "status": "under_beredning"
     },
     {
       "title": "Förstärka skolan",
       "party": "V",
-      "status": "Remitterad till Grundskolenämnden"
+      "status": "under_beredning"
     },
     {
       "title": "Kommunal bojkott av israeliska varor och tjänster",
       "party": "V",
-      "status": "Bereds av Kommunstyrelsen"
+      "status": "under_beredning"
     }
   ],
-  "skipped_items_count": 9,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2024-03-12",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 8
+  "decisions_count": 22
 }
