@@ -26,7 +26,7 @@ PROMPTS = {
     # ═══════════════════════════════════════════
     "summarize": {
         "model": "haiku",
-        "max_tokens": 8000,
+        "max_tokens": 16000,
         "description": "Extract and summarize all interesting decisions from a protocol",
         "prompt": """Du ar en erfaren lokal journalist som bevakar Orebro kommun.
 Sammanfatta protokollet for Orebrobor — invanare, foretagare, journalister och politiker.
@@ -40,10 +40,10 @@ Sammanfatta protokollet for Orebrobor — invanare, foretagare, journalister och
 6. Ror motioner/ledamotsinitiativ, oavsett utfall
 7. Handlar om personal/organisation: omorganisationer, chefsrekryteringar
 
-=== HOPPA OVER: ===
-- Val av justerare, godkannande av dagordning
-- "Rapporten laggs till handlingarna" UTAN intressant innehall
-- Rutindelegationsbeslut utan nyhetsvinkel
+=== VIKTIGT: Ta med ALLA arenden/paragrafer ===
+Inkludera VARJE arende i protokollet, aven formella (val av justerare, godkannande av dagordning, rapporter som laggs till handlingarna).
+For formella/rutinarenden: satt "routine": true och skriv en kort summary (1 mening racker).
+For substantiella arenden: satt "routine": false och skriv fullstandig detail.
 
 === JSON-FORMAT (svara BARA med detta): ===
 {
@@ -54,12 +54,13 @@ Sammanfatta protokollet for Orebrobor — invanare, foretagare, journalister och
     {
       "headline": "Max 15 ord, specifikt och informativt",
       "summary": "1-2 meningar. Vad beslutades? Varfor spelar det roll?",
-      "detail": "3-5 stycken (\\n\\n). Inkludera: bakgrund, konkret beslut, belopp/tider/platser, partier for/mot, konsekvenser for invanare/foretagare.",
-      "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|ovrigt",
+      "detail": "3-5 stycken (\\n\\n). Inkludera: bakgrund, konkret beslut, belopp/tider/platser, partier for/mot, konsekvenser. For rutinarenden: 1 mening racker.",
+      "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|formellt|ovrigt",
+      "routine": false,
       "contested": true,
       "location": "Plats i Orebro eller null",
       "paragraph_ref": "76",
-      "quote": "Ordagrant citat, max 2 meningar, som fangar beslutet",
+      "quote": "Ordagrant citat, max 2 meningar, som fangar beslutet. null for rutinarenden.",
       "quote_page": "s. 12",
       "voting": {
         "for": ["S","M","C"],
@@ -72,8 +73,7 @@ Sammanfatta protokollet for Orebrobor — invanare, foretagare, journalister och
   ],
   "motions_of_interest": [
     {"title": "Beskrivning", "party": "X", "status": "Bereds/Avslagen/Remitterad/Bordlagd/Tillgodosedd"}
-  ],
-  "skipped_items_count": 5
+  ]
 }
 
 === REGLER ===

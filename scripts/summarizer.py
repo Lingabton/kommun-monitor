@@ -24,58 +24,53 @@ MODELS = {
 }
 
 SUMMARY_PROMPT = """Du ar en erfaren lokal journalist som bevakar Orebro kommun.
+Sammanfatta protokollet for Orebrobor.
 
-=== VAD SKA TAS MED ===
-Ta med ALLA beslut som uppfyller MINST ETT av dessa:
-1. Paverkar invanare: byggen, infrastruktur, skolor, budget, miljo, trygghet
-2. Paverkar foretagare: regler, uteserveringar, parkering, tillstand, avgifter
-3. Politiskt intressant: omstridda beslut, reservationer, avslag
-4. Handlar om pengar: investeringar, forsaljningar, avskrivningar, anslag
-5. Andrar regler/styrdokument: policyer, riktlinjer, strategier
-6. Ror motioner/ledamotsinitiativ: oavsett utfall
-
-=== HOPPA OVER ===
-Bara rena formaliteter: val av justerare, godkannande av dagordning,
-"rapporten laggs till handlingarna" (undantag: intressanta siffror).
+=== VIKTIGT: Ta med ALLA arenden ===
+Inkludera VARJE arende/paragraf i protokollet. Aven formella (val av justerare, dagordning, rapporter).
+For rutinarenden: satt "routine": true, kort summary (1 mening).
+For substantiella arenden: satt "routine": false, fullstandig detail.
 
 === JSON-FORMAT ===
 Svara BARA med JSON:
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2024-04-09",
-  "summary_headline": "Max 12 ord",
+  "summary_headline": "Max 12 ord, viktigaste beslutet forst",
   "decisions": [
     {
       "headline": "Max 15 ord",
       "summary": "1-2 meningar",
-      "detail": "3-5 stycken med \\n\\n. Bakgrund, konkret beslut, belopp/tider/platser, partier for/mot, konsekvenser.",
-      "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|ovrigt",
+      "detail": "3-5 stycken med \\n\\n. For rutinarenden: 1 mening racker.",
+      "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|formellt|ovrigt",
+      "routine": false,
       "contested": true,
       "location": "Plats eller null",
       "paragraph_ref": "76",
-      "quote": "Ordagrant citat, max 2 meningar",
+      "quote": "Ordagrant citat, max 2 meningar. null for rutinarenden.",
       "quote_page": "s. 12",
       "voting": {
         "for": ["S","M","C"],
-        "against": ["OrP"],
+        "against": [],
         "abstained": ["V"],
-        "result": "Bifall/Avslaget/Enhälligt/Aterremiss"
+        "result": "Bifall/Avslaget/Enhalligt/Aterremiss/Bordlagt"
       },
       "tags": ["nyckelord1","platsnamn"]
     }
   ],
   "motions_of_interest": [
-    {"title": "Beskrivning", "party": "X", "status": "Bereds/Avslagen/Remitterad"}
-  ],
-  "skipped_items_count": 5
+    {"title": "Beskrivning", "party": "X", "status": "Bereds/Avslagen/Remitterad/Bordlagd/Tillgodosedd"}
+  ]
 }
 
 === REGLER ===
-KATEGORI "regler": For styrdokument, policyer, riktlinjer, tillstandskrav.
-VOTING: "deltar inte" = abstained. "reserverar sig" = against. Partier: S,M,C,L,KD,V,SD,OrP,MP.
-QUOTE: Kopiera ordagrant fran protokollet, max 2 meningar.
+KATEGORI "formellt": val av justerare, dagordning, anmalan av delegationsbeslut.
+KATEGORI "regler": styrdokument, policyer, riktlinjer, taxor, tillstandskrav.
+VOTING: "deltar inte" = abstained. "reserverar sig" = against. Partier: S,M,C,L,KD,V,SD,OerP,MP.
+QUOTE: Kopiera ordagrant fran protokollet. null for rutinarenden.
 TAGS: 3-6 nyckelord inkl platsnamn.
 paragraph_ref: Bara siffran, t.ex. "76".
+routine: true for val av justerare, dagordning, oforandrade rapporter. false for allt annat.
 
 Svara BARA med JSON."""
 
@@ -104,7 +99,7 @@ def summarize_protocol(text: str, api_key: str, model: str = "haiku") -> dict:
 
     msg = client.messages.create(
         model=MODELS.get(model, MODELS["haiku"]),
-        max_tokens=8000,
+        max_tokens=16000,
         messages=[{"role": "user", "content": f"{SUMMARY_PROMPT}\n\n--- PROTOKOLL ---\n\n{text}\n\n--- SLUT ---"}]
     )
     raw = msg.content[0].text.strip()
