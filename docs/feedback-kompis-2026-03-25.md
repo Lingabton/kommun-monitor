@@ -58,9 +58,26 @@ Tre huvudproblem: förtroende, konkretion, vanebildning.
 - [ ] Kör via: `gh workflow run daily.yml -f mode=process-known` (hoppar över redan processade — behöver rensa process_state.json först)
 
 ### P10 — Feedback runda 2 (2026-03-25)
-- [ ] Skärp startsidan: "Följ vad Örebro kommun faktiskt beslutar" — mindre tech, mer relevant
-- [ ] Visa 3-5 riktiga beslut med ämnesetiketter direkt (skola, bygg, budget, omsorg, trafik)
-- [ ] Separera "Direkt från protokoll" vs "Automatiskt upptäckt mönster" med tydliga etiketter
-- [ ] Metodsektion: vilka möten ingår, vad ingår inte, hur beslut definieras, hur fel rapporteras
+- [x] Skärp startsidan: "Följ vad Örebro kommun faktiskt beslutar" — mindre tech, mer relevant
+- [x] Visa 3-5 riktiga beslut med ämnesetiketter direkt (skola, bygg, budget, omsorg, trafik)
+- [x] Separera "Direkt från protokoll" vs "Automatiskt upptäckt mönster" med tydliga etiketter
+- [x] Metodsektion: vilka möten ingår, vad ingår inte, hur beslut definieras, hur fel rapporteras
 - [ ] Språktvätt: gå igenom all copy rad för rad, ta bort tech-ton, gör begrepp konsekventa
 - [ ] Neutralitet: "dominerar", "ovanliga allianser", "driver frågor" behöver metodstöd eller neutral inramning
+
+### P11 — Feedback runda 3: visuell design (2026-03-25)
+
+Done:
+- [x] Hero: kompaktare, vänsterställd, sökfält + filterchips i hero
+- [x] Nav: "Senaste / Ämnen / Partier / Analys" (användarbehov > datastruktur)
+- [x] Kort: skannbar struktur med "Antaget/Avslaget" + "För:/Emot:" istället för "JA:/NEJ:"
+- [x] Kort klickbara (ämnes-korten)
+
+Backlog:
+- [ ] Mänskliga rubriker: "Kommunen säger nej till X" istället för "Motion om X avslås" (kräver prompt-ändring + re-processning P9)
+- [ ] "Varför detta spelar roll"-rad per beslut (kräver prompt-ändring)
+- [ ] Typografi: välj riktning — mer editorial/tidning eller mer dataprodukt
+- [ ] Hero-siffror: flytta till tunn strip under hero istället för i den
+- [ ] Alla expanderbara kort helklickbara (inte bara ▼)
+- [ ] Snabbare filtrering: "Omstridda" som eget filter
+- [ ] Strama upp avstånd/alignment för modernare känsla
