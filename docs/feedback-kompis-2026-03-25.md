@@ -50,3 +50,17 @@ Tre huvudproblem: förtroende, konkretion, vanebildning.
 - [x] Metodtext per sektion (full "Om metoden" med definitioner)
 - [ ] "Ovanliga allianser" och "Beslut som hänger ihop" = starkaste differentiering — framhäv dessa
 - [x] Var tydlig med att det är automatisk analys, inte redaktionell bedömning
+
+### P9 — Re-processa med ny prompt
+- [ ] Alla 73 protokoll behöver re-processas med ny prompt (inkluderar alla ärenden, inte bara "intressanta")
+- [ ] Ny prompt fångar: routine true/false flagga, kategori "formellt", inga skippade ärenden
+- [ ] Uppskattad kostnad: ~$1-2 i Haiku API
+- [ ] Kör via: `gh workflow run daily.yml -f mode=process-known` (hoppar över redan processade — behöver rensa process_state.json först)
+
+### P10 — Feedback runda 2 (2026-03-25)
+- [ ] Skärp startsidan: "Följ vad Örebro kommun faktiskt beslutar" — mindre tech, mer relevant
+- [ ] Visa 3-5 riktiga beslut med ämnesetiketter direkt (skola, bygg, budget, omsorg, trafik)
+- [ ] Separera "Direkt från protokoll" vs "Automatiskt upptäckt mönster" med tydliga etiketter
+- [ ] Metodsektion: vilka möten ingår, vad ingår inte, hur beslut definieras, hur fel rapporteras
+- [ ] Språktvätt: gå igenom all copy rad för rad, ta bort tech-ton, gör begrepp konsekventa
+- [ ] Neutralitet: "dominerar", "ovanliga allianser", "driver frågor" behöver metodstöd eller neutral inramning
