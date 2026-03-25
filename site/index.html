@@ -321,7 +321,6 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 </head>
 <body>
 
-<!-- Nav: citizen-focused, dev links in footer only -->
 <nav>
   <div class="inner">
     <a href="#" class="logo">📋 Beslutskollen</a>
@@ -334,43 +333,45 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   </div>
 </nav>
 
-<!-- 1. Hero with CTA -->
+<!-- 1. Hero -->
 <div class="hero">
   <div class="inner">
-    <h1>Vad beslutade dina <em>politiker?</em></h1>
-    <p class="sub">Vi läser Örebro kommuns protokoll och sammanfattar varje beslut, så du slipper hundratals sidor PDF.</p>
+    <h1>Följ vad Örebro kommun <em>faktiskt beslutar.</em></h1>
+    <p class="sub">Vi sammanfattar kommunens protokoll och länkar alltid till originalet — så du snabbt ser vad som beslutats om skola, trygghet, byggplaner och budget.</p>
     <div class="stats" id="hs"></div>
     <div style="font-size:11px;opacity:.4;margin-top:8px" id="hero-updated"></div>
-    <div style="margin-top:12px">
+    <div style="margin-top:14px">
       <a href="#beslut" style="display:inline-block;padding:10px 22px;background:#fff;color:var(--navy);border-radius:8px;font-size:14px;font-weight:600">Se senaste besluten ↓</a>
     </div>
   </div>
 </div>
 
-<!-- 2. Featured: real decision as concrete proof of value -->
-<div class="featured" id="featured-wrap"></div>
+<!-- 2. Topic highlights: 5 real decisions by category -->
+<section style="padding-top:28px;padding-bottom:0">
+  <h2 class="st">Aktuellt just nu</h2>
+  <p class="ss"><span style="background:#e0f2fe;color:#0369a1;font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px">DIREKT FRÅN PROTOKOLL</span> Senaste besluten per ämne — sammanfattade, med länk till original.</p>
+  <div id="topic-highlights" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px"></div>
+</section>
 
 <!-- 3. Latest meeting -->
 <div class="latest-meeting" id="latest-meeting-wrap"></div>
 
-<!-- 4. Teasers for Partier & Insikter -->
+<!-- 4. Teasers -->
 <div style="max-width:960px;margin:20px auto 0;padding:0 24px;display:grid;grid-template-columns:1fr 1fr;gap:12px">
   <a href="#partier" style="background:var(--card);border-radius:10px;padding:16px 20px;box-shadow:0 1px 4px rgba(0,0,0,.03);text-decoration:none;color:var(--text)">
-    <div style="font-size:20px;margin-bottom:4px">⚖️</div>
-    <div style="font-size:14px;font-weight:700;margin-bottom:4px">Hur röstar partierna?</div>
-    <div style="font-size:12px;color:var(--text-light);line-height:1.5">Vilka frågor driver de? Hur ofta reserverar de sig? Vilka röstar de oftast med?</div>
+    <div style="font-size:14px;font-weight:700;margin-bottom:4px">⚖️ Hur röstar partierna?</div>
+    <div style="font-size:12px;color:var(--text-light);line-height:1.5">Se vilka frågor partierna prioriterar och hur ofta de reserverar sig.</div>
   </a>
   <a href="insikter/" style="background:var(--card);border-radius:10px;padding:16px 20px;box-shadow:0 1px 4px rgba(0,0,0,.03);text-decoration:none;color:var(--text)">
-    <div style="font-size:20px;margin-bottom:4px">🔍</div>
-    <div style="font-size:14px;font-weight:700;margin-bottom:4px">Politiska insikter</div>
-    <div style="font-size:12px;color:var(--text-light);line-height:1.5">Konfliktnivå, ovanliga allianser och mönster i besluten — automatiskt analyserat.</div>
+    <div style="font-size:14px;font-weight:700;margin-bottom:4px">🔍 Mönster i besluten</div>
+    <div style="font-size:12px;color:var(--text-light);line-height:1.5"><span style="background:#e0f2fe;color:#0369a1;font-size:10px;font-weight:700;padding:1px 5px;border-radius:3px">AUTOMATISK ANALYS</span> Vilka frågor återkommer? Var finns oenighet?</div>
   </a>
 </div>
 
 <!-- 5. All decisions -->
 <section id="beslut">
   <h2 class="st">Alla beslut</h2>
-  <p class="ss">Klicka på ett beslut för att se detaljer, röstning och citat ur protokollet.</p>
+  <p class="ss"><span style="background:#e0f2fe;color:#0369a1;font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px">DIREKT FRÅN PROTOKOLL</span> Varje beslut är sammanfattat från originalprotokollet. Klicka för detaljer.</p>
   <div class="year-filter" id="yf"></div>
   <div class="fl" id="flt"></div>
   <div id="dcn" style="font-size:13px;color:var(--text-light);margin-bottom:10px"></div>
@@ -387,44 +388,44 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 
 <!-- 7. Attendance -->
 <section id="narvaro">
-  <h2 class="st">Närvaro på möten</h2>
-  <p class="ss">Ledamöter som oftast nämns som frånvarande i protokollen. Orsak framgår inte — kan vara sjukdom, tjänstledighet eller annat.</p>
+  <h2 class="st">Frånvaro per parti</h2>
+  <p class="ss"><span style="background:#e0f2fe;color:#0369a1;font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px">DIREKT FRÅN PROTOKOLL</span> Partier med ledamöter som nämns som frånvarande i mer än 10% av protokollen. Orsak framgår inte av protokollet.</p>
   <div id="att-list"></div>
 </section>
 
-<!-- 8. Trust section -->
+<!-- 8. Trust & method -->
 <section id="om">
-  <h2 class="st">Varför lita på Beslutskollen?</h2>
+  <h2 class="st">Om Beslutskollen</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:12px">
     <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
       <div style="font-size:14px;font-weight:700;margin-bottom:4px">📄 Offentliga källor</div>
-      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">All data kommer från protokoll publicerade av Örebro kommun. Offentliga handlingar enligt tryckfrihetsförordningen.</div>
+      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">All data kommer från protokoll som Örebro kommun publicerar på orebro.se. Offentliga handlingar enligt tryckfrihetsförordningen.</div>
     </div>
     <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
-      <div style="font-size:14px;font-weight:700;margin-bottom:4px">🔗 Länk till original</div>
-      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Varje beslut länkar till originalprotokollet i PDF. Du kan alltid kontrollera själv.</div>
+      <div style="font-size:14px;font-weight:700;margin-bottom:4px">🔗 Alltid länk till original</div>
+      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Varje beslut länkar till originalprotokollet i PDF så att du kan kontrollera själv.</div>
     </div>
     <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
-      <div style="font-size:14px;font-weight:700;margin-bottom:4px">⚠️ AI kan ha fel</div>
+      <div style="font-size:14px;font-weight:700;margin-bottom:4px">⚠️ AI kan göra fel</div>
       <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Sammanfattningarna genereras automatiskt och kan innehålla felaktigheter. Citera aldrig utan att kontrollera originalet.</div>
     </div>
     <div style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
-      <div style="font-size:14px;font-weight:700;margin-bottom:4px">🏛️ Oberoende projekt</div>
-      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Beslutskollen är inte kopplat till, godkänt av, eller finansierat av Örebro kommun eller något politiskt parti.</div>
+      <div style="font-size:14px;font-weight:700;margin-bottom:4px">🏛️ Oberoende</div>
+      <div style="font-size:12px;color:var(--text-mid);line-height:1.5">Beslutskollen är inte kopplat till, godkänt av eller finansierat av Örebro kommun eller något parti.</div>
     </div>
   </div>
   <div style="margin-top:16px">
     <details style="background:var(--card);border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.03)">
-      <summary style="font-size:14px;font-weight:700;cursor:pointer">Så fungerar det — steg för steg</summary>
+      <summary style="font-size:14px;font-weight:700;cursor:pointer">Metod — så tar vi fram datan</summary>
       <div style="font-size:13px;color:var(--text-mid);line-height:1.7;margin-top:10px">
-        <p><strong>1. Vi hämtar protokollen.</strong> Örebro kommun publicerar protokoll som PDF:er på orebro.se efter varje sammanträde i Kommunfullmäktige och Kommunstyrelsen. Vi laddar ner dem automatiskt.</p>
-        <p style="margin-top:8px"><strong>2. AI extraherar besluten.</strong> Varje protokoll (ofta 20-40 sidor) analyseras av Claude AI (Anthropic). AI:n identifierar varje beslut, extraherar röstningsresultat, citat och kategoriserar ärendet.</p>
-        <p style="margin-top:8px"><strong>3. Vi publicerar och du söker.</strong> Besluten publiceras här med sök, filter och partistatistik. Allt uppdateras dagligen. Data finns även som öppet JSON-API.</p>
-        <p style="margin-top:8px"><strong>Vad betyder "omstritt"?</strong> Ett beslut markeras som omstritt om minst ett parti röstade emot. Vi utgår enbart från röstningsdata i protokollet — inte från egna bedömningar.</p>
+        <p><strong>Vilka möten ingår?</strong> Kommunfullmäktige och Kommunstyrelsen i Örebro kommun, mandatperioden 2023–2026. Nämnder ingår inte ännu.</p>
+        <p style="margin-top:8px"><strong>Hur extraheras besluten?</strong> Varje protokoll (PDF, ofta 20–40 sidor) analyseras automatiskt av Claude AI (Anthropic). AI:n identifierar varje beslutsparagraf, extraherar röstningsresultat per parti, och sammanfattar.</p>
+        <p style="margin-top:8px"><strong>Vad betyder "omstritt"?</strong> Ett beslut markeras som omstritt enbart om minst ett parti röstade emot enligt röstningsdata i protokollet. Vi gör inga egna bedömningar av vad som är kontroversiellt.</p>
+        <p style="margin-top:8px"><strong>Vad ingår inte?</strong> Närvarodata extraheras separat och visar bara frånvaro nämnd i protokollet — orsak framgår aldrig. Partistatistik bygger på faktiska röstningar, inte på uttalanden eller debatter.</p>
+        <p style="margin-top:8px"><strong>Hur rapporterar jag fel?</strong> Mejla <a href="mailto:kontakt@beslutskollen.se" style="text-decoration:underline">kontakt@beslutskollen.se</a>. Vi rättar och uppdaterar.</p>
       </div>
     </details>
   </div>
-  <p style="font-size:12px;color:var(--text-light);margin-top:12px">Hittar du ett fel? <a href="mailto:kontakt@beslutskollen.se" style="text-decoration:underline">Kontakta oss</a> så rättar vi.</p>
 </section>
 
 <footer>
@@ -439,7 +440,6 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   <div class="cp">
     Beslutskollen sammanfattar offentliga protokoll med AI och kan innehålla fel.
     Kontrollera alltid <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank">originalprotokollet</a>.
-    Inte kopplat till Örebro kommun.
   </div>
   <div class="updated" id="fs"></div>
 </footer>
@@ -564,7 +564,7 @@ async function init() {
   A.sort((a, b) => b.mDate.localeCompare(a.mDate));
 
   renderStats();
-  renderFeatured();
+  renderTopicHighlights();
   renderLatestMeeting();
   renderYearFilter();
   renderFilters();
@@ -591,6 +591,49 @@ function renderStats() {
       '<div class="n" style="color:' + s.c + '">' + s.n + '</div>' +
       '<div class="l">' + s.l + '</div></div>';
   });
+}
+
+// Topic highlights: one recent decision per major category
+function renderTopicHighlights() {
+  const topics = ["skola","bygg","budget","trygghet","infrastruktur"];
+  const e = document.getElementById("topic-highlights");
+  let html = "";
+  const used = new Set();
+
+  topics.forEach(topic => {
+    // Find most recent non-routine decision for this category
+    const d = A.find(x => g(x,"cat","category") === topic && !used.has(x.id));
+    if (!d) return;
+    used.add(d.id);
+    const hl = g(d,"hl","headline");
+    const sm = g(d,"sum","summary");
+    const v = g(d,"vote","voting") || {};
+    const forP = (v.f || v["for"] || []);
+    const againstP = (v.a || v.against || []);
+    const emoji = CE[topic] || "📋";
+    const catName = topic[0].toUpperCase() + topic.slice(1);
+    const contested = againstP.length > 0;
+
+    let voteHtml = "";
+    if (forP.length) voteHtml += '<span style="color:var(--green);font-size:11px">JA: ' + forP.join(", ") + '</span>';
+    if (againstP.length) voteHtml += ' <span style="color:var(--red);font-size:11px">NEJ: ' + againstP.join(", ") + '</span>';
+
+    html += '<div style="background:var(--card);border-radius:10px;padding:16px;box-shadow:0 1px 4px rgba(0,0,0,.03);border-left:4px solid ' + (CC[topic] || "var(--border)") + '">' +
+      '<div style="display:flex;align-items:center;gap:6px;margin-bottom:6px">' +
+      '<span style="font-size:16px">' + emoji + '</span>' +
+      '<span style="font-size:11px;font-weight:700;color:' + (CC[topic] || "var(--text-light)") + ';text-transform:uppercase;letter-spacing:0.5px">' + catName + '</span>' +
+      (contested ? ' <span style="background:#fef2f2;color:var(--red);font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px">Omstritt</span>' : '') +
+      '</div>' +
+      '<div style="font-size:14px;font-weight:600;line-height:1.35;margin-bottom:4px">' + hl + '</div>' +
+      '<div style="font-size:12px;color:var(--text-mid);line-height:1.5;margin-bottom:6px">' + sm + '</div>' +
+      (voteHtml ? '<div style="margin-bottom:6px">' + voteHtml + '</div>' : '') +
+      '<div style="display:flex;justify-content:space-between;align-items:center">' +
+      '<span style="font-size:11px;color:var(--text-light)">' + fmt(d.mDate) + '</span>' +
+      (d.id ? '<a href="beslut/' + d.id + '/" style="font-size:11px;font-weight:600;color:var(--navy)">Läs mer →</a>' : '') +
+      '</div></div>';
+  });
+
+  e.innerHTML = html;
 }
 
 // Latest meeting section
