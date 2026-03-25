@@ -1,17 +1,33 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2024-08-27",
-  "summary_headline": "Budget på 186 miljoner, utvecklingspris inrättas, flera motioner avslås",
+  "summary_headline": "Tilläggsanslag på 186 miljarder kronor för löneökningar och oförutsedda kostnader",
   "decisions": [
     {
-      "headline": "Tilläggsanslag på 186,6 miljoner för kostnadsökningar",
-      "summary": "Kommunstyrelsen beviljar tilläggsanslag med totalt 186 659 tkr för löneöversyn och andra kostnadsökningar. SD och ÖrP reserverar sig.",
-      "detail": "Ärendet avser tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda kostnader för budgetåret 2024. Tilläggsanslaget finansieras ur Kommunstyrelsens utrymme för generella kostnadsökningar och oförutsedda behov.\n\nHelena Ståhl (SD) yrkar avslag på tilläggsanslaget till Länsmusiken på 1 250 tkr och avslag på ombudgeteringen till Kultur- och Fritidsnämnden på 175 tkr för Nerike Pride. Markus Allard (ÖrP) yrkar avslag på ärendet i sin helhet.\n\nKommunstyrelsen beslutar enligt förvaltningens förslag. Martha Wicklund (V) deltar inte i beslutet.\n\nReservationer: Helena Ståhl (SD) och Markus Allard (ÖrP) reserverar sig mot beslutet.",
+      "headline": "Tilläggsanslag och ombudgeteringar augusti 2024",
+      "human_headline": "Kommunen beviljar 186 miljoner kronor för löneöversyn och oförutsedda kostnader",
+      "summary": "Kommunstyrelsen beviljar tilläggsanslag på 186 659 tkr för kompensation till nämnderna för årlig löneöversyn och för oförutsedda kostnader. Ombudgetering sker mellan nämnder för kommungemensam hantering av kostnader.",
+      "plain_language_summary": "Kommunen delar ut 186 miljoner kronor till olika förvaltningar för att betala för lönehöjningar och oväntade utgifter.",
+      "relevance": "Påverkar alla kommunala nämnder och slutligen invånares skattefinansiering genom budgetutgifter.",
+      "detail": "Ärendet innefattar tilläggsanslag för kostnadsökningar och oförutsedda behov för budgetåret 2024. Huvuddelen avser kompensation till nämnderna för årlig löneöversyn där avtalen är klara. Ombudgetering berör flytt av medel mellan nämnder för kommungemensam hantering av kostnader för Citypassagen.\n\nHelena Ståhl (SD) yrkar avslag på tilläggsanslaget till Länsmusiken på 1 250 tkr och avslag på ombudgeteringen till Kultur- och Fritidsnämnden på 175 tkr för Nerike Pride. Markus Allard (ÖrP) yrkar avslag på hela ärendet med hänvisning till Örebropartiets budgetförslag för 2024.\n\nKommunstyrelsen beslutar att följa Kommunledningsförvaltningens förslag. Martha Wicklund (V) deltar inte i beslutet. Helena Ståhl (SD) och Markus Allard (ÖrP) reserverar sig mot beslutet.",
       "category": "budget",
-      "contested": true,
-      "location": null,
+      "decision_type": "budget",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "invanare",
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 148",
-      "quote": "Tilläggsanslag beviljas med totalt 186 659 tkr enligt Kommunledningsförvaltningens förslag.",
+      "quote": "Tilläggsanslag beviljas med totalt 186 659 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur Kommunstyrelsens utrymme för generella kostnadsökningar samt Kommunstyrelsens utrymme för oförutsedda behov.",
       "quote_page": "s. 3",
       "voting": {
         "for": [
@@ -29,21 +45,111 @@
       },
       "tags": [
         "budget",
-        "löneöversyn",
-        "Länsmusiken",
-        "Nerike Pride"
+        "lönekompensation",
+        "kostnadsökning"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_148"
     },
     {
-      "headline": "Utvecklingspris ersätter Kvalitetspris med 100 tkr",
-      "summary": "Kommunstyrelsen inrättar ett nytt Utvecklingspris för att stimulera nytänkande och utveckling, vilket ersätter det tidigare Kvalitetspriset.",
-      "detail": "Kommunledningskontoret föreslår att det tidigare Kvalitetspriset (från 2012) upphävs och ersätts med ett Utvecklingspris som på ett tydligare sätt stimulerar nytänkande, gränsöverskridande samverkan och hållbar utveckling.\n\nPriset föreslås vara ett diplom, en film om det vinnande arbetet samt en penningsumma på totalt 100 tkr att använda till fortsatt utvecklingsarbete. Priset kan sökas av kommunalt finansierade verksamheter.\n\nMarkus Allard (ÖrP) yrkar bifall till upphävandet men avslag på inrättandet av det nya priset. Kommunstyrelsen beslutar enligt förvaltningens förslag.\n\nReservation: Markus Allard (ÖrP) reserverar sig mot beslutspunkterna 2-4.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": null,
+      "headline": "Kommunstyrelsens uppsiktsplikt, dialogmöten 2024",
+      "human_headline": "Kommunstyrelsen sammanfattar dialogmöten med nämnder",
+      "summary": "Anmälan om genomförda dialogmöten mellan Kommunstyrelsen och nämndernas presidier för att stärka uppsiktsplikten läggs till handlingarna.",
+      "plain_language_summary": "Kommunledningen har haft möten med de olika nämnder för att kontrollera att de gör sitt arbete rätt.",
+      "relevance": null,
+      "detail": "Rutinärende. Anmälan läggs till handlingarna.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 149",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "uppsiktsplikt",
+        "styrning"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_149"
+    },
+    {
+      "headline": "Statusuppdatering om processen för översiktsplan",
+      "human_headline": "Kommunstyrelsen får information om översiktsplanen",
+      "summary": "Kommunstyrelsen tar del av statusuppdatering om processen för översiktsplan genom presentation.",
+      "plain_language_summary": "Kommunledningen informerar styrelsen om hur arbetet med den nya översiktsplanen för området fortskrider.",
+      "relevance": null,
+      "detail": "Informationsärende. Presentationen läggs till handlingarna.",
+      "category": "infrastruktur",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "informationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsagare",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 150",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "översiktsplan",
+        "planering"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_150"
+    },
+    {
+      "headline": "Förändring av Kvalitetspris till Utvecklingspris",
+      "human_headline": "Kommunen inrättar nytt Utvecklingspris för innovativa arbeten",
+      "summary": "Kommunstyrelsen beslutar att upphäva det tidigare Kvalitetspriset från 2012 och inrätta ett nytt Utvecklingspris på 100 tkr för att stimulera nytänkande och gränsöverskridande samverkan inom kommunal verksamhet.",
+      "plain_language_summary": "Kommunen skapar ett nytt pris på 100 000 kronor för att uppmuntra medarbetare att hitta på nya och bättre sätt att jobba.",
+      "relevance": "Påverkar kommunalt anställda som kan söka priset för sina utvecklingsprojekt.",
+      "detail": "Kommunledningskontoret föreslår att ersätta det tidigare Kvalitetspriset med ett nytt Utvecklingspris som på ett tydligare sätt stimulerar nytänkande, gränsöverskridande samverkan och bidrar till hållbar utveckling. Priset kan sökas av kommunalt finansierade verksamheter.\n\nPriset består av ett diplom, en film om det vinnande arbetet samt 100 000 kronor för fortsatt utvecklingsarbete. Finansieringen sker inom Utvecklings- och hållbarhetsavdelningens ram.\n\nMarkus Allard (ÖrP) yrkar bifall till upphävandet av det gamla priset men avslag på inrättandet av det nya priset. Kommunstyrelsen beslutar att följa Kommunledningsförvaltningens förslag helt.",
+      "category": "kultur",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 151",
-      "quote": "Ett Utvecklingspris i linje med dagens styrning och behov inrättas. Prissumman uppgår till 100 tkr.",
+      "quote": "Ett Utvecklingspris i linje med dagens styrning och behov inrättas. Prissumman uppgår till 100tkr. Finansiering av prissumman sker inom Utveckling- och hållbarhetsavdelningens ram.",
       "quote_page": "s. 5",
       "voting": {
         "for": [
@@ -60,74 +166,167 @@
       },
       "tags": [
         "utvecklingspris",
-        "kvalitetspris",
-        "medarbetare"
+        "innovation",
+        "medarbetarbelöning"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_151"
     },
     {
-      "headline": "Motion om skolskjuts: Anses tillgodosedd, utredning pågår",
-      "summary": "Kommunstyrelsen anser motionen från KD om skolskjuts i mån av plats som tillgodosedd eftersom utredningen redan pågår.",
-      "detail": "Susanne Lindholm Henningsson (KD) motionerade för att elever utan rätt till skolskjuts skulle kunna åka med i mån av plats. Förskole- och grundskoleförvaltningen utreder redan denna fråga.\n\nKommunstyrelsen anser motionen tillgodosedd. Ärendet går vidare till Kommunfullmäktige.\n\nYrkanden om bifall: Susanne Lindholm Henningsson (KD), Markus Allard (ÖrP), Martha Wicklund (V) och Karolina Wallström (L).\n\nReservationer från KD, ÖrP, V och L framfördes.",
+      "headline": "Information – Riktlinjer för bostadsförsörjning",
+      "human_headline": "Kommunen informerar om bostadsförsörjningsriktlinjer",
+      "summary": "Kommunstyrelsen tar del av presentation om arbetet med riktlinjer för bostadsförsörjning.",
+      "plain_language_summary": "Kommunledningen informerar om planer för hur kommunen ska försäkra att det finns tillräckligt många bostäder för invånare.",
+      "relevance": null,
+      "detail": "Informationsärende. Presentationen läggs till handlingarna.",
+      "category": "infrastruktur",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "informationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 152",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "bostad",
+        "bostadsförsörjning",
+        "planering"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_152"
+    },
+    {
+      "headline": "Svar på motion från Susanne Lindholm (KD) om skolskjuts med barnen i fokus",
+      "human_headline": "Kommunen anser motionen om flexibel skolskjuts tillgodosedd",
+      "summary": "Kommunstyrelsen beslutar att motionen om möjlighet för elever utan rätt till skolskjuts att åka med i mån av plats anses tillgodosedd, då Förskole- och grundskoleförvaltningen redan utreder frågan.",
+      "plain_language_summary": "Kommunen säger att förslaget om att låta barn utan officiell rätt till skolskjuts åka med när det finns plats redan är på väg att lösas.",
+      "relevance": "Påverkar barn och familjer som saknar rätt till skolskjuts men gärna skulle vilja ha möjligheten.",
+      "detail": "Susanne Lindholm Henningsson (KD) inlämnade motion om möjligheten för elever som inte har rätt till skolskjuts enligt gällande reglemente att åka med i mån av plats. Motionen bedöms vara uppfylld då Förskole- och grundskoleförvaltningen redan utreder denna fråga.\n\nSusanne Lindholm Henningsson (KD), Markus Allard (ÖrP), Martha Wicklund (V) och Karolina Wallström (L) yrkar bifall till motionen och att den permanentas. Kommunstyrelsen beslutar dock att motionen anses tillgodosedd enligt Kommunledningsförvaltningens förslag.",
       "category": "skola",
-      "contested": true,
-      "location": null,
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 154",
-      "quote": "Motionens förslag bedöms vara uppfyllt då Förskole- och grundskoleförvaltningen redan utreder frågan om skolskjuts i mån av plats.",
-      "quote_page": "s. 7",
+      "quote": "Motionen föreslår att Örebro kommun ska utreda möjligheten för elever som inte har rätt till skolskjuts enligt dagens gällande reglemente att åka med i mån av plats.",
+      "quote_page": "s. 6",
       "voting": {
         "for": [
           "S",
-          "M"
+          "M",
+          "C"
         ],
         "against": [],
         "abstained": [],
-        "result": "Bifall"
+        "result": "Tillgodosedd"
       },
       "tags": [
         "skolskjuts",
         "elever",
-        "utredning"
+        "transport"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_154"
     },
     {
-      "headline": "Motion om skadegörelse i skolor avslås",
-      "summary": "Kommunstyrelsen avslår motion från SD om att debitera vårdnadshavare vid uppsåtlig skadegörelse i skolorna.",
-      "detail": "Helena Ståhl (SD), Bo Ammer (SD) och Carola Sunesson (SD) föreslog att rektorer som huvudregel ska debitera elevers vårdnadshavare vid uppsåtlig skadegörelse och att elever i lämpliga åldrar får möjlighet att arbeta av skulder.\n\nGrundskolenämnden föreslår avslag eftersom kommunen redan har möjlighet att kräva ersättning och det finns tillräckligt med underlag.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall till motionen.\n\nReservationer från SD och ÖrP.",
+      "headline": "Svar på motion från Helena Ståhl (SD) m.fl. om hantering av skadegörelse i skolor",
+      "human_headline": "Kommunen avslår förslag om obligatorisk debitering vid skadegörelse",
+      "summary": "Kommunstyrelsen avslår motion om att rekommendera rektorer att som huvudregel debitera vårdnadshavare vid uppsåtlig skadegörelse på skolans lokaler, då kommunen bedömer att det redan finns tillräckligt med underlag för ersättningskrav.",
+      "plain_language_summary": "Kommunen säger nej till förslaget om att alltid debitera föräldrar när barn förstör skolans egendom, eftersom kommunen redan kan kräva ersättning enligt befintliga regler.",
+      "relevance": "Påverkar föräldrar vars barn orsakar skador på skolans lokaler och skolornas hantering av skadegörelse.",
+      "detail": "Helena Ståhl (SD), Bo Ammer (SD) och Carola Sunesson (SD) motionerade för att Örebro kommun rekommenderar rektorer att alltid debitera elevers vårdnadshavare vid uppsåtlig skadegörelse, samt att ge elever möjligheten att arbeta av skulder.\n\nFörskole- och grundskoleförvaltningen föreslår avslag med motiveringen att det redan finns tillräckligt med underlag för att kommunen kan begära ersättning. Grundskolenämnden stöder detta förslag.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall till motionen, men Kommunstyrelsen beslutar att följa Grundskolenämndens förslag om avslag.",
       "category": "skola",
-      "contested": true,
-      "location": null,
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 155",
-      "quote": "Det finns tillräckligt med underlag redan nu för att kommunen ska kunna begära ersättning.",
+      "quote": "Helena Ståhl (SD), Bo Ammer (SD) och Carola Sunesson (SD) föreslår att Kommunfullmäktige beslutar: att Örebro kommun rekommenderar alla sina rektorer att som huvudregel alltid debitera elevers vårdnadshavare vid uppsåtlig skadegörelse på skolans lokaler.",
       "quote_page": "s. 8",
       "voting": {
         "for": [
           "S",
           "M",
-          "C"
+          "C",
+          "L",
+          "KD"
         ],
         "against": [],
         "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslag"
       },
       "tags": [
         "skadegörelse",
-        "skolor",
-        "ersättning"
+        "elever",
+        "debitering"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_155"
     },
     {
-      "headline": "Motion om förskolans maxtak avslås av majoritet",
-      "summary": "Två motioner om maxtak för barngrupper i förskolan avslås. V, KD och ÖrP ville godkänna förslagen.",
-      "detail": "Lea Strandberg (MP) och Fredrik Persson (MP) föreslog maxtak enligt Skolverkets allmänna råd: 6-12 barn för 1-3 år, 9-15 barn för 4-5 år, och max 4 barn per pedagog.\n\nMats-Olof Liljegren (L) lade fram en liknande motion.\n\nFörskole- och grundskoleförvaltningen avslår båda med hänvisning till kompetensförsörjning, personalkostnader och rektorernas handlingsutrymme.\n\nFlera partier (V, KD, ÖrP, L, SD) yrkar bifall, men majoritet (S, M, C) röstar för avslag. Ärendena går vidare till Kommunfullmäktige.\n\nFlera reservationer framfördes.",
+      "headline": "Svar på motion från Lea Strandberg (MP) och Fredrik Persson (MP) om ge barnen en bra start i livet",
+      "human_headline": "Kommunen avslår förslag om maxtak för förskolegrupper",
+      "summary": "Kommunstyrelsen avslår motion om att inrätta maxtak på 6-12 respektive 9-15 barn per grupp i förskolan samt 4 barn per pedagog, med hänvisning till kompetensförsörjning, ökade kostnader och rektorernas handlingsutrymme.",
+      "plain_language_summary": "Kommunen säger nej till att begränsa hur många barn som får vara i samma förskolegrupp, för att det skulle bli för dyrt och svårt att hitta personal.",
+      "relevance": "Påverkar barn i förskolan, föräldrar och förskolornas verksamhet.",
+      "detail": "Lea Strandberg (MP) och Fredrik Persson (MP) motionerade för maxtak på 6-12 barn för åldersgruppen 1-3 år och 9-15 barn för åldersgruppen 4-5 år, samt 4 barn per pedagog.\n\nFörskole- och grundskoleförvaltningen föreslår avslag med motiveringen att detta skulle medföra svårigheter kopplat till kompetensförsörjning och ökade personal- och lokalkostnader. Kommunen vill värna rektorernas handlingsutrymme att organisera verksamheten efter barnens behov.\n\nMartha Wicklund (V), Susanne Lindholm Henningsson (KD) och Markus Allard (ÖrP) yrkar bifall, men Kommunstyrelsen avslår motionen.",
       "category": "skola",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 156-157",
-      "quote": "Bedömningen är att motionens förslag skulle medföra svårigheter kopplat till framför allt kompetensförsörjning och ökade personal- och lokalkostnader.",
-      "quote_page": "s. 9-11",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 156",
+      "quote": "Kommunen inrättar ett maxtak i förskolan i enlighet med Skolverkets allmänna råd som är 6–12 barn i en grupp där barnens ålder är 1–3 år, respektive 9-15 barn i en grupp där barnens ålder är 4-5 år.",
+      "quote_page": "s. 9",
       "voting": {
         "for": [
           "S",
@@ -136,26 +335,42 @@
         ],
         "against": [],
         "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslag"
       },
       "tags": [
         "förskola",
-        "maxtak",
         "barngrupper",
-        "pedagog"
+        "maxtak"
       ],
-      "id": "2024-08-27_ko_156-157"
+      "confidence": "hög",
+      "id": "2024-08-27_ko_156"
     },
     {
-      "headline": "TABB-familjestödjare: Motion anses besvarad, ej permanentad",
-      "summary": "Motion från L om att permanenta familjestödjare enligt TABB-modellen anses besvarad men permanentering avslås.",
-      "detail": "Gunilla Werme (L) motionerade för att permanenta rollen som familjestödjare enligt TABB-modellen som del i hälsofrämjande arbete för barn och ungdomar.\n\nKommunledningsförvaltningen föreslår att motionen anses besvarad eftersom dialog pågår men fler frågor behöver utredas innan permanentering kan beslutas.\n\nKarolina Wallström (L), Susanne Lindholm Henningsson (KD) och Martha Wicklund (V) yrkar bifall till motionen.\n\nReservationer från L, KD och V.",
+      "headline": "Svar på motion från Mats-Olof Liljegren (L) om maxtak för barngruppernas storlek inom förskolan",
+      "human_headline": "Kommunen avslår förslag om maxtak på barngrupper i förskolan",
+      "summary": "Kommunstyrelsen avslår motion om att inrätta maxtak på 6-12 respektive 9-15 barn per förskolegrupp, baserat på samma motiv som tidigare motion om kostnader och kompetensförsörjning.",
+      "plain_language_summary": "Kommunen avslår ännu ett förslag om att begränsa storleken på barngrupper i förskolan av samma skäl som tidigare.",
+      "relevance": "Påverkar barn i förskolan och föräldrar.",
+      "detail": "Mats-Olof Liljegren (L) motionerade för att uppdra åt förvaltningen att utreda införandet av maxtak på 6-12 barn för åldersgruppen 1-3 år och 9-15 barn för åldersgruppen 4-5 år.\n\nFörskole- och grundskoleförvaltningen föreslår avslag med samma motiveringen som tidigare motion – svårigheter med kompetensförsörjning, ökade personal- och lokalkostnader, samt behovet att värna rektorernas handlingsutrymme.\n\nKarolina Wallström (L), Helena Ståhl (SD), Martha Wicklund (V), Susanne Lindholm Henningsson (KD) och Markus Allard (ÖrP) yrkar bifall, men Kommunstyrelsen avslår motionen.",
       "category": "skola",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 158",
-      "quote": "Dialog om hur lärdomarna från TABB bäst tillvaratas pågår, men det finns fortfarande frågor kvar att utforska innan beslut kan fattas.",
-      "quote_page": "s. 12",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 157",
+      "quote": "Mats-Olof Liljegren (L) föreslår att Kommunfullmäktige ger förvaltningen i uppdrag att utreda ett införande av följande maxtak för barngrupper i förskolan: 6–12 barn för åldersgruppen 1–3 år, 9–15 barn för åldersgruppen 4-5 år.",
+      "quote_page": "s. 11",
       "voting": {
         "for": [
           "S",
@@ -163,25 +378,84 @@
         ],
         "against": [],
         "abstained": [],
-        "result": "Bifall"
+        "result": "Avslag"
+      },
+      "tags": [
+        "förskola",
+        "barngrupper",
+        "maxtak"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_157"
+    },
+    {
+      "headline": "Svar på motion från Gunilla Werme (L) om att permanenta rollen som familjestödjare enligt TABB-modellen",
+      "human_headline": "Kommunen anser motionen besvarad angående familjestödjare",
+      "summary": "Kommunstyrelsen beslutar att motionen om permanentering av familjestödjare-rollen enligt TABB-modellen anses besvarad, eftersom dialog pågår men ytterligare frågor behöver utredas innan beslut kan fattas.",
+      "plain_language_summary": "Kommunen säger att diskussionen om familjestödjare redan är i gång, så motionen räknas som besvarad även om det inte blir en omedelbar permanentering.",
+      "relevance": "Påverkar barn, ungdomar och familjer med behov av stöd för mental hälsa.",
+      "detail": "Gunilla Werme (L) motionerade för att permanenta rollen som familjestödjare enligt TABB-modellen som en del i skolors hälsofrämjande arbete för att förebygga psykisk ohälsa hos barn, ungdomar och familjer.\n\nKommunledningsförvaltningen föreslår att motionen anses besvarad med motiveringen att dialog redan pågår om hur lärdomarna från TABB bäst kan tillvaratas, men att det fortfarande finns frågor att utreda innan beslut kan fattas om permanentering och utökning till fler skolor.\n\nKarolina Wallström (L), Susanne Lindholm Henningsson (KD) och Martha Wicklund (V) yrkar bifall till motionen för att få den permanenterad omedelbar, men Kommunstyrelsen anser motionen besvarad.",
+      "category": "skola",
+      "decision_type": "motion",
+      "outcome": "besvarad",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 158",
+      "quote": "Dialog om hur lärdomarna från TABB bäst tillvaratas och om hur arbetet med samverkan ska fortgå pågår, men det finns fortfarande frågor kvar att utforska innan beslut kan fattas om att permanenta projektet.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Besvarad"
       },
       "tags": [
         "TABB",
         "familjestödjare",
-        "psykisk hälsa",
-        "skolor"
+        "psykisk hälsa"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_158"
     },
     {
-      "headline": "Motion om kameraövervakning avslås",
-      "summary": "Motion från SD om kameraövervakning vid samtliga kommunala verksamheter avslås.",
-      "detail": "Helena Ståhl (SD), Carola Sunesson (SD) och Christer Johansson (SD) föreslog att kommun lägger upp plan för och ansöker om tillstånd för kameraövervakning i alla kommunala verksamheter.\n\nKommunledningsförvaltningen bedömer att man inte kan motivera övervakning av samtliga kommunala verksamheter.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall till motionen.\n\nReservationer från SD och ÖrP.",
+      "headline": "Svar på motion från Helena Ståhl (SD) m.fl. om kameraövervakning vid samtliga kommunala verksamheter",
+      "human_headline": "Kommunen avslår förslag om kameraövervakning på alla kommunala platser",
+      "summary": "Kommunstyrelsen avslår motion om att lägga upp en plan för kameraövervakning vid samtliga kommunala verksamheter, med motiveringen att det inte går att motivera övervakning av hela verksamheterna.",
+      "plain_language_summary": "Kommunen säger nej till att sätta upp kameror överallt på kommunala platser för att övervaka alla aktiviteter.",
+      "relevance": "Påverkar invånare som använder kommunala verksamheter och deras integritet.",
+      "detail": "Helena Ståhl (SD), Carola Sunesson (SD) och Christer Johansson (SD) motionerade för att kommunen lägger upp en plan för kameraövervakning och ansöker om tillstånd för övervakning i alla verksamheter där kommunal verksamhet bedrivs, samt startar aktiv övervakning enligt plan.\n\nKommunledningsförvaltningen föreslår avslag med motiveringen att kommunen inte kan motivera övervakning av samtliga kommunala verksamheter. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall, men Kommunstyrelsen avslår motionen.",
       "category": "trygghet",
-      "contested": true,
-      "location": null,
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 159",
-      "quote": "Kommunen kan inte motivera övervakning av samtliga kommunala verksamheter.",
+      "quote": "Motionen innehåller ett förslag om att kommunen lägger upp en plan för kameraövervakning och ansöker om tillstånd för kameraövervakning i de verksamheter där kommunal verksamhet bedrivs.",
       "quote_page": "s. 13",
       "voting": {
         "for": [
@@ -194,119 +468,365 @@
         ],
         "against": [],
         "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslag"
       },
       "tags": [
         "kameraövervakning",
-        "säkerhet",
-        "integritet"
+        "övervakning",
+        "säkerhet"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_159"
     },
     {
-      "headline": "Motion om upphandling: Tre yrkanden besvarade, ett avslagen",
-      "summary": "Motion från SD om att förbättra upphandlingen för små lokala företag delvis besvarad, tredje yrkandet avslagen.",
-      "detail": "Carola Sunesson (SD) föreslog fyra åtgärder för att förbättra upphandlingen så små och lokala företag kan konkurrera.\n\nKommunledningsförvaltningen bedömer att kommunen redan arbetar aktivt med tre av förslagen. Det tredje yrkandet avslås då det inte alltid är relevant för särskilda åtgärder för små företag beroende på vad som upphandlas.\n\nHelena Ståhl (SD), Markus Allard (ÖrP) och Susanne Lindholm Henningsson (KD) yrkar bifall till motionen.\n\nReservationer från SD, ÖrP och KD.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": null,
+      "headline": "Svar på motion från Carola Sunesson (SD) om att förbättra upphandlingen",
+      "human_headline": "Kommunen besvarar delvis motionen om bättre upphandling för små företag",
+      "summary": "Kommunstyrelsen beslutar att tre av fyra yrkanden i motionen är besvarade, medan det tredje yrkandet avslås. Motionen syftar till att förbättra upphandlingen så att små och lokala företag kan konkurrera på lika villkor.",
+      "plain_language_summary": "Kommunen säger att det redan arbetar med det mesta som motionen föreslår för att små företag ska kunna lämna bud, men avslår ett specifikt förslag.",
+      "relevance": "Påverkar små och lokala företag som vill sälja tjänster till kommunen.",
+      "detail": "Carola Sunesson (SD) motionerade med fyra förslag för att förbättra och förenkla upphandlingen så att små och lokala företag kan konkurrera på lika villkor som stora företag och kommunala bolag.\n\nKommunledningsförvaltningen bedömer att kommunen redan arbetar aktivt med dessa målsättningar och agerar på många av de sätt motionären föreslår. Beroende på vad som upphandlas görs olika prioriteringar. Bedömningen är att de tre första och fjärde yrkandena är besvarade, medan det tredje yrkandet föreslås avslås.\n\nHelena Ståhl (SD), Markus Allard (ÖrP) och Susanne Lindholm Henningsson (KD) yrkar bifall till hela motionen, men Kommunstyrelsen följa förvaltningens förslag.",
+      "category": "naringsliv",
+      "decision_type": "motion",
+      "outcome": "delvis_bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 160",
-      "quote": "Örebro kommun har sedan lång tid mycket aktivt arbetat med att uppnå de målsättningar som motionären lyfter.",
+      "quote": "Motionen innehåller fyra förslag som syftar till att förbättra och förenkla upphandlingen så att små och lokala företag ska kunna konkurrera på minst lika villkor som kommunala bolag och stora företag.",
       "quote_page": "s. 14",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
-          "L"
+          "L",
+          "V"
         ],
         "against": [],
         "abstained": [],
-        "result": "Bifall (delvis)"
+        "result": "Delvis bifallen"
       },
       "tags": [
         "upphandling",
         "småföretag",
-        "lokala företag",
-        "konkurrens"
+        "konkurrenspolicy"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_160"
     },
     {
-      "headline": "Två nya motioner remitteras: Hederförtryck och kulturarvsvecka",
-      "summary": "Motion om krävställande strategi mot hedersförtryck bereds av Kommunstyrelsen. Kulturarvsvecka-motion remitteras till Kultur- och fritidsnämnden.",
-      "detail": "Kommunfullmäktige har remitterat två motioner från juni 2024:\n\n1. Motion från Helena Ståhl (SD) m.fl. om krävställande strategi mot hedersförtryck och hederskultur - bereds av Kommunstyrelsen.\n\n2. Motion från Carola Sunesson (SD) och Bo Ammer (SD) om att inrätta en årligt återkommande kulturarvsvecka - remitteras till Kultur- och fritidsnämnden.",
-      "category": "politik",
-      "contested": false,
-      "location": null,
+      "headline": "Remittering av motioner",
+      "human_headline": "Kommunen remitterar motioner om hedersförtryck och kulturarvsvecka",
+      "summary": "Kommunstyrelsen beslutar att motionen från Helena Ståhl (SD) m.fl. om krävställande strategi mot hedersförtryck och hederskultur bereds av Kommunstyrelsen, medan motionen om kulturarvsvecka remitteras till Kultur- och fritidsnämnden.",
+      "plain_language_summary": "Två motioner tas emot och hanteras – en behandlas direkt av kommunstyrelsen och en skickas vidare till kulturnämnden.",
+      "relevance": null,
+      "detail": "Rutinärende om motionsremittering.",
+      "category": "formellt",
+      "decision_type": "remiss",
+      "outcome": "aterremitterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 161",
-      "quote": "Motion från Helena Ståhl (SD) om krävställande strategi mot hedersförtryck och hederskultur bereds av Kommunstyrelsen.",
-      "quote_page": "s. 15",
+      "quote": null,
+      "quote_page": null,
       "voting": {
         "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Remitterad"
       },
       "tags": [
+        "motioner",
         "hedersförtryck",
-        "kulturarv",
-        "motioner"
+        "kulturarv"
       ],
+      "confidence": "hög",
       "id": "2024-08-27_ko_161"
+    },
+    {
+      "headline": "Ekonomisk månadsrapport juli 2024",
+      "human_headline": "Kommunen presenterar ekonomirapport för juli månad",
+      "summary": "Rapport över utvecklingen inom ekonomi, personal och verksamhet för januari-april 2024 läggs till handlingarna.",
+      "plain_language_summary": "Kommunledningen rapporterar om hur pengarna används och hur verksamheten går.",
+      "relevance": null,
+      "detail": "Rutinärende. Rapporten läggs till handlingarna.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 162",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "ekonomi",
+        "rapport"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_162"
+    },
+    {
+      "headline": "Rapport från Örebro Rådhus AB",
+      "human_headline": "Styrelsen rapporterar från Örebro Rådhus-koncernen",
+      "summary": "Rapport om moderbolagets och dotterbolagens verksamhet enligt ägardirektivet läggs till handlingarna.",
+      "plain_language_summary": "Kommunens fastighetsbolag rapporterar om sitt arbete.",
+      "relevance": null,
+      "detail": "Rutinärende. Rapporten läggs till handlingarna.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 163",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "Örebro Rådhus AB",
+        "bolagsbericht"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_163"
+    },
+    {
+      "headline": "Rapport över finansverksamheter under juni-juli 2024",
+      "human_headline": "Kommunen presenterar finansrapport för juni-juli",
+      "summary": "Rapport över finansverksamheter för juni-juli 2024 presenteras och Kommunstyrelsen tar del av informationen.",
+      "plain_language_summary": "Finanschefen rapporterar om kommunens penninghantering och investeringar.",
+      "relevance": null,
+      "detail": "Rutinärende. Rapporten läggs till handlingarna.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 164",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "finansverksamhet",
+        "rapport"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_164"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut juni-juli 2024",
+      "human_headline": "Kommunstyrelsen anmäler beslut fattade genom delegation",
+      "summary": "Anmälan av beslut fattade med stöd av delegation under juni-juli 2024 läggs till handlingarna enligt 6 kap 40 § kommunallagen.",
+      "plain_language_summary": "Chefer rapporterar om viktiga beslut de fattade på sitt eget ansvar under sommaren.",
+      "relevance": null,
+      "detail": "Rutinärende. Anmälan läggs till handlingarna.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 165",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "delegation",
+        "anmälan"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_165"
+    },
+    {
+      "headline": "Anmälan av handlingar",
+      "human_headline": "Kommunstyrelsen anmäler inkomna handlingar från myndigheter",
+      "summary": "Månadsvis anmälan av handlingar från Länsstyrelsen och andra myndigheter som bedöms relevanta för Kommunstyrelsen läggs till handlingarna.",
+      "plain_language_summary": "Brev och rapporter från statliga myndigheter presenteras till kommunledningen.",
+      "relevance": null,
+      "detail": "Rutinärende. Anmälan läggs till handlingarna.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 166",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "handlingar",
+        "myndighetskommunikation"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_166"
+    },
+    {
+      "headline": "Kommundirektörens rapport juni-augusti 2024",
+      "human_headline": "Kommundirektören rapporterar nyheter från förvaltningen",
+      "summary": "Kommundirektören redogör för nyheter inom förvaltningen under juni-augusti 2024 och rapporten läggs till handlingarna.",
+      "plain_language_summary": "Kommunledaren informerar om viktiga nyheter och händelser under sommaren.",
+      "relevance": null,
+      "detail": "Rutinärende. Rapporten läggs till handlingarna.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 167",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "kommundirektör",
+        "rapport"
+      ],
+      "confidence": "hög",
+      "id": "2024-08-27_ko_167"
     }
   ],
   "motions_of_interest": [
     {
       "title": "Skolskjuts med barnen i fokus",
       "party": "KD",
-      "status": "Anses tillgodosedd"
+      "status": "tillgodosedd"
     },
     {
       "title": "Hantering av skadegörelse i skolor",
       "party": "SD",
-      "status": "Avslagen"
+      "status": "avslagen"
+    },
+    {
+      "title": "Ge barnen en bra start i livet (maxtak förskola)",
+      "party": "MP",
+      "status": "avslagen"
     },
     {
       "title": "Maxtak för barngruppernas storlek inom förskolan",
       "party": "L",
-      "status": "Avslagen"
+      "status": "avslagen"
     },
     {
-      "title": "Ge barnen en bra start i livet (förskolans maxtak)",
-      "party": "MP",
-      "status": "Avslagen"
-    },
-    {
-      "title": "Permanenta rollen som familjestödjare enligt TABB-modellen",
+      "title": "Permanentera rollen som familjestödjare enligt TABB-modellen",
       "party": "L",
-      "status": "Anses besvarad"
+      "status": "besvarad"
     },
     {
       "title": "Kameraövervakning vid samtliga kommunala verksamheter",
       "party": "SD",
-      "status": "Avslagen"
+      "status": "avslagen"
     },
     {
-      "title": "Förbättra upphandlingen",
+      "title": "Förbättra upphandlingen för små och lokala företag",
       "party": "SD",
-      "status": "Delvis besvarad"
+      "status": "delvis_bifallen"
     },
     {
       "title": "Krävställande strategi mot hedersförtryck och hederskultur",
       "party": "SD",
-      "status": "Bereds"
+      "status": "under_beredning"
     },
     {
-      "title": "Inrätta en årligt återkommande kulturarvsvecka",
+      "title": "Inrätta årligt återkommande kulturarvsvecka",
       "party": "SD",
-      "status": "Remitterad"
+      "status": "remitterad"
     }
   ],
-  "skipped_items_count": 9,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2024-08-27",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 9
+  "decisions_count": 19
 }
