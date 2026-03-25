@@ -817,7 +817,13 @@ async function renderAttendance() {
       return;
     }
     let html = '';
-    data.absent.slice(0, 10).forEach(a => {
+    const threshold = Math.ceil(data.total_meetings * 0.10);
+    const filtered = data.absent.filter(a => a.absent_count >= threshold);
+    if (filtered.length === 0) {
+      e.innerHTML = '<p style="font-size:13px;color:var(--text-light)">Inga ledamöter med mer än 10% frånvaro.</p>';
+      return;
+    }
+    filtered.forEach(a => {
       const color = PC[a.party] || "#999";
       const tc = a.party === "SD" ? "#1a1a00" : "#fff";
       html += '<div class="att-row">' +
