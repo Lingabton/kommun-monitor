@@ -1,25 +1,81 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2024-11-12",
-  "summary_headline": "Gustavsvik-ägarändring och VA-utökning beslutade",
+  "summary_headline": "Örebroporten förvärvar Gustavsvik, nya arbetsmiljöpolicy, VA-områden utökas",
   "decisions": [
     {
-      "headline": "Örebroporten förvärvar Gustavsvik Resorts AB",
-      "summary": "Kommunstyrelsen godkänner att Örebroporten Fastigheter AB förvärvar aktier i Gustavsvik Resorts AB från Gustavsviks Intressenter AB. Ägarförändringen leder också till nya styrelser i både Gustavsvik Resorts AB och Gustavsviks Utvecklingsbolag AB.",
-      "detail": "Gustavsviks Intressenter AB (GIAB) har ägt 55 procent av Gustavsvik Resorts AB (GRAB) sedan 2011. Efter långt uttryckt önskemål från GIAB att sälja sina aktier har parterna ingått aktieöverlåtelseavtal. Örebroporten Fastigheter AB förvärvar aktierna enligt avtalet. Ärendet påverkar även styrelseutsättningar i både GRAB och utvecklingsbolaget GUAB.\n\nLiberalerna och Vänstern motsatte sig beslutspunkterna om nya styrelseledamöter. Liberalerna ville dels sälja GRAB till privat aktör inom tre år, dels behålla den som dotterbolag med egen styrelse. Markus Allard (ÖrP) krävde återremiss för värderingsfråga.\n\nKommunstyrelsen beslutade enligt förvaltningens förslag. Koncerninterna låneramen för Örebroporten fastställdes till 4 100 miljoner kronor för 2024–2028.",
-      "category": "budget",
-      "contested": true,
-      "location": "Gustavsvik",
+      "headline": "Ta del av presentation av VD för Örebrobostäder AB",
+      "human_headline": "Kommunstyrelsen informeras om VD för Örebrobostäder AB",
+      "summary": "Kommunstyrelsen tog del av muntlig presentation från VD för Örebrobostäder AB.",
+      "plain_language_summary": "Styrelsens ordförande presenterade information om Örebrobostäders verksamhet.",
+      "relevance": null,
+      "detail": "Informationsärende.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "informationsärende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 212",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Antagen"
+      },
+      "tags": [
+        "Örebrobostäder",
+        "information",
+        "verksamhet"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_212"
+    },
+    {
+      "headline": "Örebroporten förvärvar aktier i Gustavsvik Resorts AB och Gustavsviks Utvecklingsbolag AB",
+      "human_headline": "Kommunen låter sitt fastighetsbolag köpa Gustavsvik från privata ägare",
+      "summary": "Kommunfullmäktige godkänner att Örebroporten Fastigheter AB förvärvar 55 % av Gustavsvik Resorts AB samt att Örebroporten Förvaltning AB förvärvar 49 % av Gustavsviks Utvecklingsbolag AB från Gustavsviks Intressenter AB. Nya bolagsordningar godkänns och nya styrelser utses. Den koncerninterna låneramen för Örebroporten fastställs till 4 100 miljoner kronor för 2024-2028.",
+      "plain_language_summary": "Kommunens fastighetsbolag Örebroporten köper huvudägandet av nöjesparken Gustavsvik genom att förvärva aktier från de privata intressenterna som äger större delen idag.",
+      "relevance": "Invånare och fastighetsägare påverkas genom kommunens ökade ägarskap av nöjesverksamhet och eventuella framtida investeringar eller förändringar på Gustavsvik.",
+      "detail": "Gustavsvik Resorts AB äger och bedriver bad- och campingverksamheten vid Gustavsviksanläggningen. Örebroporten fick 2011 uppdrag att bredda ägandet med lokala intressenter genom Gustavsviks Intressenter AB (GIAB), som idag äger 55 % av GRAB. Efter förhandlingar har GIAB enats om att sälja sina aktier i både GRAB och Gustavsviks Utvecklingsbolag AB (GUAB) till Örebroporten.\n\nBeslutet innebär att Örebroporten går från 45 % till cirka 100 % ägare av nöjesparken. Nya styrelser utses för GRAB, GUAB och dess dotterbolag Kikapu. Kommunens koncerninterna lånetyg ökas till 4 100 miljoner kronor för perioden 2024-2028.\n\nLiberalerna krävde att bolaget säljs vidare till privat aktör inom 3 år och motsatte sig ny styrelsesammansättning. Markus Allard (ÖrP) yrkade på återremiss för värderingsfrågor. Martha Wicklund (V) lämnade särskilt yttrande. Två ledamöter från SD deltog inte i beslutet.",
+      "category": "naringsliv",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "invanare",
+        "fastighetsagare",
+        "foretagare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 214",
-      "quote": "Liberalerna ser inget annat, mot bakgrund av styrelsens ansvar, än att bifalla styrelsens köp. För Liberalerna riskerar detta beslut en osund konkurrens med näringslivet inom nöjesbranschen genom vårt stora och starka kommunalt bolagsägande.",
-      "quote_page": "Särskilt yttrande",
+      "quote": "Örebroporten Fastigheter AB förvärvar aktier i Gustavsvik Resorts AB av Gustavsviks Intressenter AB enligt ingånget aktieöverlåtelseavtal.",
+      "quote_page": "s. 5",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
           "KD",
-          "L"
+          "MP"
         ],
         "against": [],
         "abstained": [
@@ -30,20 +86,37 @@
       "tags": [
         "Gustavsvik",
         "Örebroporten",
-        "bolagsägande",
-        "nöjespark"
+        "ägarförändring",
+        "nöjespark",
+        "aktieförvärv"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_214"
     },
     {
-      "headline": "Ny arbetsmiljöpolicy antagen för Örebro kommun",
-      "summary": "Kommunstyrelsen antar ny arbetsmiljöpolicy som ersätter den från 2015. Policyn ska beskriva den arbetsmiljö kommunen strävar efter och vägleda medarbetare, chefer och politiker.",
-      "detail": "Den nya arbetsmiljöpolicyn ersätter den tidigare från 2015 och syftar till att beskriva vilken arbetsmiljö arbetsgivaren vill erbjuda. Policyn betonar trygghet, välmående och hållbarhet.\n\nMärtha Wicklund (V) och Markus Allard (ÖrP) yrkade på återremiss för ändringar enligt Vänsterpartiet samt ville lägga till att kommunen ska ha uppföljande samtal med medarbetare som slutar. Dessa yrkanden avslogs.\n\nKommunstyrelsen godkände policyn utan tilläggen.",
-      "category": "regler",
-      "contested": true,
-      "location": null,
+      "headline": "Ny arbetsmiljöpolicy för Örebro kommun ersätter 2015 års policy",
+      "human_headline": "Kommun antar ny arbetsmiljöpolicy för att skapa tryggare arbetsmiljö",
+      "summary": "Kommunstyrelsen beslutar att avsluta arbetsmiljöpolicyn från 2015 och anta en ny arbetsmiljöpolicy för Örebro kommun. Policyn syftar till att beskriva vilken arbetsmiljö arbetsgivaren vill erbjuda och vägleda chefer, politiker och tjänstepersoner.",
+      "plain_language_summary": "Kommunen ersätter sin gamla arbetsmiljöpolicy från 2015 med en ny som ska skapa en tryggare och hälsosammare arbetsmiljö för alla anställda.",
+      "relevance": "Kommunanställda påverkas genom nya riktlinjer för en trygg och hälsosam arbetsmiljö.",
+      "detail": "Den nya arbetsmiljöpolicyn ersätter den från 2015 och syftar till att beskriva vilken arbetsmiljö arbetsgivaren vill erbjuda. Policyn ska vägleda kommunens medarbetare, chefer, politiker och tjänstepersoner.\n\nMartha Wicklund (V) och Markus Allard (ÖrP) yrkade på återremiss för att implementera Vänsterpartiets ändringsförslag och föreslogs också att kommunen ska ha uppföljande samtal med medarbetare som slutar. Dessa yrkanden avslogs.\n\nBeslutets reserverade sig Wicklund och Allard mot det fattade beslutet.",
+      "category": "omsorg",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 215",
-      "quote": "Syftet med policyn är att beskriva vilken arbetsmiljö arbetsgivaren vill erbjuda sina medarbetare. Allt för att våra medarbetare ska vilja komma till jobbet varje dag.",
+      "quote": "En arbetsmiljöpolicy ska visa vilken arbetsmiljö Örebro kommun strävar efter och ska beskriva vad vi behöver göra på en övergripande nivå för att vår arbetsmiljö ska upplevas som trygg, hälsosam och hållbar.",
       "quote_page": "s. 7",
       "voting": {
         "for": [
@@ -51,77 +124,131 @@
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "MP"
         ],
         "against": [],
         "abstained": [
           "V",
-          "ÖrP"
+          "OerP"
         ],
         "result": "Bifall"
       },
       "tags": [
         "arbetsmiljö",
         "policy",
-        "personalfrågor"
+        "personalfrågor",
+        "hälsa"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_215"
     },
     {
-      "headline": "Vinternatt-samarbetet avslutas – partnerskap med Stadsmission slutar",
-      "summary": "Utvärdering av överenskommelsen IOP Vinternatt 2022–2024 läggs till handlingarna. Samarbetet mellan Örebro kommun och Örebro Stadsmission avslutas.",
-      "detail": "IOP Vinternatt har varit ett samarbete sedan 2018 för att ge skydd mot kylan under vintermånaderna för utsatta EU/EES-medborgare. Utvärderingen av perioden 2022–2024 visar att verksamheten genomgick flera förändringar. Styrgruppen hade svårt med otydlig ansvarsfördelning, framför allt gällande lokalfrågor som var ett återkommande årligt problem.\n\nAntalet individer från målgruppen som reser till Örebro har minskat kraftigt. Partnerskapet avslutas och förnyas inte 2025. Styrgruppen uttalar att antalet individer från målgruppen minskat, men det finns behov av att fortsätta bevaka målgruppen framöver.",
-      "category": "ovrigt",
-      "contested": false,
-      "location": "Örebro",
+      "headline": "Utvärdering av IOP Vinternatt 2022-2024 läggs till handlingarna",
+      "human_headline": "Kommunen lägger utvärdering av vintervistelseprogrammet till handlingarna",
+      "summary": "Kommunstyrelsen noterar utvärering av samarbetet IOP Vinternatt mellan Örebro kommun och Örebro Stadsmission för åren 2022-2024. Partnerskapet avslutas och föreslås inte förnyas för 2025.",
+      "plain_language_summary": "En granskning av ett program som skyddade hemlösa från kylan under vintern visar att samarbetet mellan kommun och Stadsmission avslutas efter 2024.",
+      "relevance": "Utsatta EU/EES-medborgare påverkas genom att detta stödprogram upphör.",
+      "detail": "Överenskommelsen IOP Vinternatt har varit ett samarbete sedan 2018 mellan Örebro kommun och Örebro Stadsmission för att avhjälpa akut nöd bland utsatta EU/EES-medborgare genom skydd mot kylan under vintermånaderna.\n\nEvalueringen för perioden 2022-2024 visar att verksamheten genomgick flera förändringar och att styrgruppen behövde omprioritera resurser. En utmaning var otydlig ansvarsfördelning, särskilt gällande lokalfrågor som varit ett årligt återkommande problem.\n\nAntalet individer från målgruppen som reser till Örebro har minskat kraftigt, men behov av fortsatt övervakning av målgruppen identifierades. Partnerskapet avslutas och föreslås inte förnyas nästkommande år.",
+      "category": "omsorg",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "aldre",
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 216",
-      "quote": "Möjligheten att vara flexibel i samarbetet och kunna förändra verksamheten är en förutsättning av IOP som samarbetsmodell. Utmaningen som har uppstått i samarbetet har varit gällande otydlig ansvarsfördelning.",
+      "quote": "Antalet individer från målgruppen som reser hit har minskat kraftigt under åren, men det finns ett behov av att i någon form fortsätta bevaka målgruppen och följa utvecklingen framåt.",
       "quote_page": "s. 9",
       "voting": {
         "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Noterad"
       },
       "tags": [
         "Vinternatt",
-        "EU-medborgare",
-        "Stadsmission"
+        "samarbete",
+        "utsatta grupper",
+        "utvärdering"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_216"
     },
     {
-      "headline": "Arkivhantering – nya riktlinjer på remiss till nämnder och bolag",
-      "summary": "Kommunstyrelsen skickar förslag till nya riktlinjer för styrning av arkivhantering på remiss. Remissvaren ska inkomma senast 31 mars 2025.",
-      "detail": "Nya riktlinjer för arkivhantering ska förtydliga lagstiftningen för en god arkivhantering hos kommunens myndigheter och bolag. Riktlinjerna gäller Kommunstyrelsen, övriga nämnder, Stadsrevisionen, aktiebolag, handelsbolag och samägda bolag där kommunen utövar bestämmande inflytande.\n\nRiktlinjerna sänds på remiss till samtliga nämnder och majoritetsägda bolag.",
+      "headline": "Riktlinjer för arkivhantering remitteras till nämnder och bolag",
+      "human_headline": "Nya riktlinjer för arkivhantering skickas för granskning",
+      "summary": "Kommunstyrelsen beslutar att nya riktlinjer för styrning av arkivhantering i Örebro kommun skickas på remiss till samtliga nämnder och majoritetsägda bolag. Remissvaren ska vara inkomna senast den 31 mars 2025.",
+      "plain_language_summary": "Kommunen skickar nya riktlinjer för hur arkiv ska hanteras till alla nämnder och kommunala bolag för deras yttranden.",
+      "relevance": null,
+      "detail": "Nya riktlinjer för styrning av arkivhantering är viktiga för att uppfylla och förtydliga rådande lagstiftning för god arkivhantering hos kommunens myndigheter och bolag. Riktlinjerna förtydligar vad arkivlagens efterlevnad innebär.",
       "category": "regler",
-      "contested": false,
-      "location": null,
+      "decision_type": "remiss",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 217",
-      "quote": "Riktlinjer kring styrning arkivhanteringen är i linje med fullmäktiges uppgift att fatta beslut om övergripande styrdokument, beslut som gäller något av större vikt eller av principiell betydelse för kommunen.",
-      "quote_page": "s. 10",
+      "quote": null,
+      "quote_page": null,
       "voting": {
         "for": [],
         "against": [],
         "abstained": [],
-        "result": "Enhälligt"
+        "result": "Antagen"
       },
       "tags": [
         "arkiv",
+        "remiss",
         "riktlinjer",
         "lagstiftning"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_217"
     },
     {
-      "headline": "Program för uppföljning av privata utförare antaget",
-      "summary": "Kommunstyrelsen antar program för uppföljning av privat driftas och kommunal verksamhet. Nämnder får uppdrag att ta fram uppföljningsplaner.",
-      "detail": "Enligt nya bestämmelser i Kommunallagen från 1 juli 2024 ska fullmäktige anta ett program för uppföljning av privat driftas kommunala angelägenheter. Programmet ska gälla för alla utförare där det finns privata utförare – även för verksamhet i egen regi – för att säkerställa likvärdig kvalitet.\n\nMärtha Wicklund (V) yrkade avslag och ville att kommunen skulle återta all privatdrift i egen regi. Detta avslogs. Nämnder får nu uppdrag att ta fram uppföljningsplaner.",
+      "headline": "Program för uppföljning av privata utförare och kommunal verksamhet antas",
+      "human_headline": "Kommun antar program för kontroll av privata och kommunala tjänster",
+      "summary": "Kommunstyrelsen antar ett program för uppföljning av verksamhet som utförs av privata utförare och verksamhet i egen regi. Samtliga nämnder får uppdrag att ta fram uppföljningsplaner. Ärendet går vidare till Kommunfullmäktige.",
+      "plain_language_summary": "Kommunen beslutar att kontrollera och följa upp både privat och kommunalt driven verksamhet på samma sätt för att säkerställa likvärdiga tjänster.",
+      "relevance": "Invånare påverkas genom att privat och kommunal verksamhet kontrolleras likvärdigt.",
+      "detail": "Enligt ny lagstiftning (från 1 juli 2024) ska Kommunfullmäktige under varje mandatperiod anta ett program med mål och riktlinjer för alla utförare av kommunala angelägenheter där privata utförare finns.\n\nProgrammet ska klargöra hur fullmäktiges mål och övriga föreskrifter följs upp och hur allmähetens insyn säkerställs. Syftet är att förutsättningarna ska vara så likvärdiga som möjligt mellan privata och kommunala utförare.\n\nMartha Wicklund (V) yrkade på avslag och återtagande av alla privatdrivna verksamheter i kommunal regi. Detta avslogs.",
       "category": "regler",
-      "contested": true,
-      "location": null,
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "invanare",
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 218",
-      "quote": "Det är viktigt att kommuninvånarna kan förutsätta att de tjänster som kommunen tillhandahåller har en likvärdig kvalitet och är föremål för kontroll och uppföljning oavsett om de utförs i egen regi eller av en privat utförare.",
+      "quote": "De nya bestämmelserna i Kommunallagens 5 kap. som gäller från och med 1 juli 2024 anger att programmet ska gälla för alla utförare av sådana angelägenheter där det finns privata utförare, alltså även där kommunen bedriver verksamheten i egen regi.",
       "quote_page": "s. 11",
       "voting": {
         "for": [
@@ -129,7 +256,8 @@
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "MP"
         ],
         "against": [],
         "abstained": [
@@ -138,160 +266,596 @@
         "result": "Bifall"
       },
       "tags": [
-        "privat drift",
+        "privata utförare",
         "uppföljning",
-        "nämnder"
+        "lag",
+        "kommunal verksamhet"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_218"
     },
     {
-      "headline": "Försäljning av fastigheter – 26 miljoner till Örebroporten",
-      "summary": "Kommunstyrelsen godkänner försäljning av del av Tankbilen 3 och Ånsta 20:134 till Örebroporten Fastigheter AB för 26 miljoner kronor.",
-      "detail": "Fastigheten används för parkering och servicefunktioner för tung trafik. Försäljningen möjliggör utveckling av fastigheten genom Örebroporten.\n\nMarkus Allard (ÖrP) yrkade på återremiss för att förtydliga affärens ändamål, i andra hand avslag. John Johansson (S) yrkade på att avgöra ärendet idag. Kommunstyrelsen beslutade enligt försäljningsförslaget.",
+      "headline": "Ta del av remissvar på utjämningskommitténs betänkande SOU 2024:50",
+      "human_headline": "Kommun informeras om svar på statlig utredning om ekonomisk utjämning",
+      "summary": "Kommunstyrelsen noterar ett remissvar på Utjämningskommitténs betänkande \"Nätt och jämnt - Likvärdighet och effektivitet i kommunsektorn\" (SOU 2024:50). Ärendet behandlades som ordförandebeslut på grund av kort svarstid.",
+      "plain_language_summary": "Kommunen tar del av information om ett statligt förslag som kan påverka hur mycket pengar kommunen får från staten framöver.",
+      "relevance": "Alla invånare påverkas potentiellt genom förändringar i kommunens ekonomi om statliga förslag implementeras.",
+      "detail": "Utjämningskommitténs 2022 lämnade sitt betänkande med förslag om nya principer för riktade statsbidrag och ändringar i det kommunalekonomiska utjämningssystemet. Förslagen föreslås träda i kraft från 1 januari 2026. Den samlade förändringen innebär att glesa kommuner och socioekonomiskt svagare kommuner i genomsnitt får positiv förändring, medan socioekonomiskt starkare och större kommuner får negativ förändring. Örebro kommun förutsätts få negativ påverkan.",
       "category": "budget",
-      "contested": true,
-      "location": "Tankbilen 3, Ånsta",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "informationsärende",
+      "impact_level": "stor",
+      "public_interest_score": 3,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 219",
+      "quote": "Socioekonomiskt starkare kommuner med stor folkmängd eller tät bebyggelsestruktur får i genomsnitt en negativ förändring.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Antagen"
+      },
+      "tags": [
+        "statsbidraget",
+        "ekonomi",
+        "utjämning",
+        "budget"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_219"
+    },
+    {
+      "headline": "Försäljning av del av fastigheten Tankbilen 3 och Ånsta 20:134 till Örebroporten",
+      "human_headline": "Kommun säljer parkeringsmarkmark till sitt fastighetsbolag för 26 miljoner",
+      "summary": "Kommunstyrelsen beslutar att sälja del av fastigheten Tankbilen 3 (skifte 1) och del av Ånsta 20:134 till Örebroporten Fastigheter AB för 26 miljoner kronor. Fastigheten används idag för parkering och serviceering av tung trafik.",
+      "plain_language_summary": "Kommunen säljer en parkeringsplats för tung trafik till sitt eget fastighetsbolag för att möjliggöra utveckling av området.",
+      "relevance": "Näringsidkare som använder området för tung trafik kan påverkas genom framtida exploatering.",
+      "detail": "Försäljningen möjliggör för utveckling av fastigheten som idag används för parkering och andra servicefunktioner för tung trafik. Köpeskillingen är 26 miljoner kronor.\n\nMarkus Allard (ÖrP) yrkade på återremiss för att förtydliga affärens ändamål, vilket avslogs. Han reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsagare",
+        "bilister"
+      ],
+      "geographic_scope": "specifik_fastighet",
+      "location_name": "Tankbilen 3, Ånsta 20:134",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 220",
-      "quote": "Fastigheten används i dag till parkering och andra servicefunktioner för tung trafik. Syftet med försäljningen är att möjliggöra för utveckling av fastigheten.",
-      "quote_page": "s. 13",
+      "quote": "Del av fastigheten Tankbilen 3 (skifte 1) och del av Ånsta 20:134 säljs enligt bifogade köpehandlingar till Örebroporten Fastigheter AB för en köpeskilling om 26 000 000 kronor.",
+      "quote_page": "s. 14",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
           "L",
-          "KD"
+          "KD",
+          "V",
+          "MP"
         ],
         "against": [],
         "abstained": [
-          "ÖrP"
+          "OerP"
         ],
         "result": "Bifall"
       },
       "tags": [
-        "fastighetförsäljning",
+        "fastighetsförsäljning",
         "Örebroporten",
+        "parkering",
         "exploatering"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_220"
     },
     {
-      "headline": "Örebro Södra – avsiktsförklaring med Trafikverket och Region",
-      "summary": "Nytt partnerskap kring utveckling av järnvägsstationen Örebro Södra ingås med Trafikverket och Region Örebro län.",
-      "detail": "En ny avsiktsförklaring ersätter den från 2018. Målbilden är att stationen fortsatt blir ett viktigt nav för resandeutbyte. Parterna ska verka för överenskommelse om ansvar och kostnader för utveckling.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag på ärendet. Kommunstyrelsen beslutade enligt förslaget.",
+      "headline": "Avsiktsförklaring ingås för utveckling av Örebro Södra station",
+      "human_headline": "Kommun enades om att utveckla järnvägsstationen Örebro Södra tillsammans",
+      "summary": "Kommunstyrelsen beslutar att ingå en ny avsiktsförklaring med Trafikverket och Region Örebro län för utveckling av järnvägsstationen Örebro Södra. Ordföranden får uppdrag att underteckna avtalet.",
+      "plain_language_summary": "Kommunen, staten och regionen enades om att tillsammans utveckla järnvägsstationen Örebro Södra till en säker och attraktiv station.",
+      "relevance": "Pendlare och resenärer påverkas genom utveckling av Örebro Södra som stationsläge och trafiknav.",
+      "relevance_expanded": "Invånare i Örebro påverkas genom infrastrukturs utveckling och möjlighet till bättre kollektivtrafik.",
+      "detail": "År 2018 togs det fram en tidigare avsiktsförklaring mellan parterna som nu överenskommits har spelat ut sin roll. Den nya avsiktsförklaringen syftar till att enas om ansvar och kostnader för genomförandet av åtgärder och infrastrukturfördelning.\n\nÖverenskommen målbild är att stationen fortsatt ska vara ett viktigt nav för resandeutbyte. Avsiktsförklaringen utreder och verkar för att utveckla Örebro Södra till en säker och attraktiv pendlarstation. Genomförande- och medfinansieringsavtal behöver senare tecknas för del av åtgärder.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade på avslag.",
       "category": "infrastruktur",
-      "contested": true,
-      "location": "Örebro Södra",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "bilister"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Örebro Södra",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 221",
-      "quote": "Den övergripande målbilden för Örebro Södra är att stationen fortsatt ska vara ett viktigt nav för resandeutbyte i Örebro.",
+      "quote": "Syftet är att parterna ska verka för att nå en överenskommelse över ansvar och kostnader för genomförandet av aktuella åtgärder och, i förekommande fall, hur ansvar för infrastrukturen ska fördelas.",
       "quote_page": "s. 15",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
-          "KD"
+          "KD",
+          "V",
+          "MP"
         ],
         "against": [],
         "abstained": [
           "L",
-          "ÖrP"
+          "OerP"
         ],
         "result": "Bifall"
       },
       "tags": [
         "Örebro Södra",
-        "Trafikverket",
-        "järnväg",
-        "infrastruktur"
+        "järnvägsstation",
+        "infrastruktur",
+        "Trafikverket"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_221"
     },
     {
-      "headline": "Gång- och cykeltunnel vid Örebro Södra – max 10 miljoner finansiering",
-      "summary": "Kommunstyrelsen avsätter maximalt 10 miljoner kronor för järnvägsplan för gång- och cykeltunnel under järnvägen vid Örebro Södra mellan 2026–2029.",
-      "detail": "Tunneln är viktig för att förbättra säkerheten, då dagens plankorsning innebär att tågresenärer måste röra sig över spåren för att nå mittplattformen. En gång- och cykeltunnel skulle möjliggöra säker passage mellan västra och östra sidan av järnvägen.\n\nFinansieringen hanteras i ordinarie budgetprocess och är villkorad av att Trafikverket fattar motsvarande beslut. Karolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag. Kommunstyrelsen beslutade enligt förslaget.",
+      "headline": "Finansiering för järnvägsplan för gång- och cykeltunnel vid Örebro Södra",
+      "human_headline": "Kommun budgeterar 10 miljoner för gång- och cykeltunnel under järnvägen",
+      "summary": "Kommunstyrelsen beslutar att finansiera upprättandet av en järnvägsplan för gång- och cykeltunnel under järnvägen vid Örebro Södra med maximalt 10 miljoner kronor mellan åren 2026 och 2029.",
+      "plain_language_summary": "Kommunen avsätter pengar för att planera en tunnel för gång- och cykeltrafikanter under järnvägen vid Örebro Södra station.",
+      "relevance": "Gång- och cykeltrafikanter samt invånare i Örebro påverkas genom ökad säkerhet och minskad barriäreffekt från järnvägen.",
+      "detail": "Tunneln är viktig för att förbättra säkerheten vid stationen, särskilt för tågresenärer som idag måste röra sig över spåren för att nå mittplattformen. Tunneln möjliggör för gång- och cykeltrafikanter att på säkert sätt röra sig mellan västra och östra sidan av järnvägen och minskar järnvägens barriäreffekter.\n\nFinansieringen hanteras i ordinarie budgetprocess och är villkorat av att Trafikverket fattar motsvarande beslut om deltagande och medfinansiering.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade på avslag.",
       "category": "infrastruktur",
-      "contested": true,
-      "location": "Örebro Södra",
+      "decision_type": "budget",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invanare",
+        "bilister"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Örebro Södra",
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 222",
-      "quote": "Det finns ett stort behov av att förbättra säkerheten kring Örebro Södra, framför allt att åtgärda plankorsningen som i dag innebär att tågresenärer måste röra sig över spåren för att nå mittplattformen.",
+      "quote": "En gång- och cykeltunnel skulle möjliggöra för gång- och cykeltrafikanter att på ett säkert sätt röra sig mellan den västra och östra sidan av järnvägen. Tunneln är också viktig för att minska järnvägens barriäreffekter och knyta ihop staden.",
       "quote_page": "s. 16",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
-          "KD"
+          "KD",
+          "V",
+          "MP"
         ],
         "against": [],
         "abstained": [
           "L",
-          "ÖrP"
+          "OerP"
         ],
         "result": "Bifall"
       },
       "tags": [
-        "Örebro Södra",
         "gång- och cykelväg",
-        "säkerhet",
-        "järnväg"
+        "Örebro Södra",
+        "järnväg",
+        "infrastruktur",
+        "säkerhet"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_222"
     },
     {
-      "headline": "VA-områden utökade – ny dagvattentaxa införs 2025",
-      "summary": "Verksamhetsområdena för dricksvatten och spillvatten utökas. Dagvattentaxan uppdelas i två kategorier från och med 2025.",
-      "description": "Enligt lagstiftningen ska kommunen regelbundet se över sina VA-verksamhetsområden. Från 2025 införs en ny taxekonstruktion med dagvattentaxa uppdelad i \"Dagvatten fastighet\" och \"Dagvatten gata\".\n\nSverigedemokraterna och Kristdemokraterna lämnade särskilda yttranden. SD betonade vikten av att inte tvinga fastighetsägare med fungerande egna lösningar att ansluta till kommunalt avlopp. KD uttryckte oro för tidsplan, kommunikation och ekonomiska konsekvenser för fastighetsägare.\n\nMarkus Allard (ÖrP) yrkade avslag. Kommunstyrelsen beslutade enligt förslaget.",
-      "category": "infrastruktur",
-      "contested": true,
-      "location": "Örebro kommun",
+      "headline": "Verksamhetsområdena för VA utökas och dagvattenansvaret delas upp",
+      "human_headline": "Kommun utökar VA-områdena och delar upp dagvattenansvaret",
+      "summary": "Kommunstyrelsen beslutar att utöka verksamhetsområdena för dricksvatten och spillvatten. Dagvattenansvaret delas upp i två områden: dagvatten från fastighetsmark (Df) och dagvatten från allmän platsmark (Dg). Beslutet går vidare till Kommunfullmäktige.",
+      "plain_language_summary": "Kommunen utökar sitt ansvar för att försörja fler fastigheter med vatten och avlopp, och delar upp ansvar för dagvatten mellan privata fastigheters och offentliga gatorsansvar.",
+      "relevance": "Fastighetsägare påverkas genom att fler kan anslutas till kommunalt vatten och avlopp, vilket innebär möjlighet eller krav på anslutning. Helena Ståhl (SD) och Håkan Stålbert (KD) lämnade särskilda yttranden om risk för tvångsanslutning och kostnader för fastighetsägare.",
+      "detail": "Utifrån lagstiftning ska kommunen återkommande se över och vid behov förändra verksamhetsområdena för VA. Verksamhetsområdet utgör geografiska områden där kommunen ansvarar för VA-försörjning och där LAV gäller.\n\nFörslaget till VA-taxa för 2025 innebär en förändrad taxekonstruktion och införande av dagvattentaxa. I framtiden kommer det att finnas två typer av dagvattentjänster: dagvatten från fastighetsmark och dagvatten från allmän platsmark.\n\nHelena Ståhl (SD) och Håkan Stålbert (KD) lämnade särskilda yttranden. De uttrycker oro för tvångsanslutning av fastighetsägare som redan har fungerande enskilda lösningar, och kräver att kommunen aktivt hjälper fastighetsägare att slippa onödiga anslutningskostnader. Stålbert föresprågar dispens för nyligen installerade godkända anläggningar.\n\nMarkus Allard (ÖrP) yrkade på avslag.",
+      "category": "miljo",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "fastighetsagare",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 225",
-      "quote": "Kommunen ska inte köra över enskilda fastighetsägare som har egna avlopp som uppfyller kraven, så att de tvingas ansluta sig till kommunalt avlopp, vilket kan kosta husägare enorma summor pengar.",
-      "quote_page": "Särskilt yttrande SD",
+      "quote": "Verksamhetsområdet utgörs av geografiska områden inom vilka kommunen ansvarar för att ordna kommunal VA-försörjning för berörda fastigheter och där lagen om allmänna vattentjänster (LAV) gäller.",
+      "quote_page": "s. 18",
       "voting": {
         "for": [
           "S",
           "M",
           "C",
-          "L"
+          "L",
+          "V",
+          "MP"
         ],
         "against": [],
         "abstained": [
-          "ÖrP"
+          "OerP",
+          "SD",
+          "KD"
         ],
         "result": "Bifall"
       },
       "tags": [
         "VA",
-        "vatten och avlopp",
+        "dricksvatten",
+        "spillvatten",
         "dagvatten",
         "taxor"
       ],
+      "confidence": "hog",
       "id": "2024-11-12_ko_225"
+    },
+    {
+      "headline": "Dennis Junge (L) entledigas från Kommunala tillgänglighetsrådet",
+      "human_headline": "Ny ledamot utses till tillgänglighetsrådet efter avvikelse",
+      "summary": "Kommunstyrelsen beviljar Dennis Junge (L) entledigande från uppdraget som ledamot i Kommunala tillgänglighetsrådet (KTR). Pia Delin (L) utses som ny ledamot.",
+      "plain_language_summary": "En ledamot lämnar sitt uppdrag i tillgänglighetsrådet och ersätts av en ny person.",
+      "relevance": null,
+      "detail": "Rutinärende.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 226",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Antagen"
+      },
+      "tags": [
+        "personval",
+        "KTR",
+        "tillgänglighetsrådet"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_226"
+    },
+    {
+      "headline": "Tre motioner från SD remitteras till nämnder",
+      "human_headline": "Kommunen skickar tre förslag från Sverigedemokraterna vidare till granskning",
+      "summary": "Kommunstyrelsen remitterar tre motioner från Sverigedemokraterna: om utveckling av byggnadspriset med del för byggnadsvård (till Bygg- och miljönämnden), om medborgarinflytande på arkitekturgestaltning (till Bygg- och miljönämnden) och om upprättelse för konsten (till Kultur- och fritidsnämnden).",
+      "plain_language_summary": "Tre politiska förslag från Sverigedemokraterna skickas vidare till olika nämnder för vidare behandling.",
+      "relevance": null,
+      "detail": "Rutinärende.",
+      "category": "formellt",
+      "decision_type": "remiss",
+      "outcome": "remitterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 227",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Antagen"
+      },
+      "tags": [
+        "motioner",
+        "remittering",
+        "arkitektur",
+        "kultur"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_227"
+    },
+    {
+      "headline": "Rapport från Örebro Rådhus AB utgår från dagordningen",
+      "human_headline": "Ärendet om Rådhus AB tas bort från sammanträdet",
+      "summary": "Ärendet om rapport från Örebro Rådhus AB utgår från Kommunstyrelsens sammanträde den 12 november 2024.",
+      "plain_language_summary": "Ett planerat ärende om ett kommunalt bolag skjuts upp eller dras in från dagens möte.",
+      "relevance": null,
+      "detail": "Ärendet utgår.",
+      "category": "formellt",
+      "decision_type": "ovrigt",
+      "outcome": "bordlagd",
+      "routine": true,
+      "routine_reason": "procedurfråga",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 228",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Utgår"
+      },
+      "tags": [
+        "Rådhus AB",
+        "procedur"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_228"
+    },
+    {
+      "headline": "Finansrapport oktober 2024 läggs till handlingarna",
+      "human_headline": "Kommunens finansrapport för oktober presenteras och noteras",
+      "summary": "Kommunstyrelsen noterar finansrapporten för oktober 2024.",
+      "plain_language_summary": "Kommunens ekonomiska rapport för oktober läggs till handlingarna.",
+      "relevance": null,
+      "detail": "Rutinärende.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 229",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "ekonomi",
+        "rapport",
+        "finanser"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_229"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut oktober 2024 läggs till handlingarna",
+      "human_headline": "Kommunens beslut fattade genom delegation redovisas",
+      "summary": "Kommunstyrelsen noterar anmälan över delegationsbeslut fattade under oktober 2024 inom övrig verksamhet och finansverksamhet.",
+      "plain_language_summary": "Styrelsens ordförande och tjänstemän rapporterar vilka beslut de fattat på delegering från kommunstyrelsen.",
+      "relevance": null,
+      "detail": "Rutinärende.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 230",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "delegation",
+        "beslut",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_230"
+    },
+    {
+      "headline": "Anmälan av inkomna handlingar läggs till handlingarna",
+      "human_headline": "Kommunen noterar inkomna handlingar från övriga aktörer",
+      "summary": "Kommunstyrelsen noterar anmälan av relevanta inkomna handlingar från Region Örebro län, Nerikes brandkår, SKR och övriga aktörer.",
+      "plain_language_summary": "Styrelsen informeras om viktiga meddelanden från andra myndigheter och organisationer.",
+      "relevance": null,
+      "detail": "Rutinärende.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "informationsärende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 231",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "handlingar",
+        "administration",
+        "information"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_231"
+    },
+    {
+      "headline": "Kommundirektörens rapport för oktober-november läggs till handlingarna",
+      "human_headline": "Kommundirektören redogör för nyheter i förvaltningen",
+      "summary": "Kommunstyrelsen noterar kommundirektörens rapport för oktober och november 2024.",
+      "plain_language_summary": "Ledningen redogör för vad som hänt i kommunförvaltningen under månaden.",
+      "relevance": null,
+      "detail": "Rutinärende.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 232",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Noterad"
+      },
+      "tags": [
+        "rapport",
+        "ledning",
+        "administration"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_232"
+    },
+    {
+      "headline": "Reviderad arbetsordning för Kommunfullmäktige antas",
+      "human_headline": "Kommunfullmäktiges arbetssätt uppdateras med nya regler",
+      "summary": "Kommunstyrelsen antar en reviderad arbetsordning för Kommunfullmäktige i Örebro kommun. Ärendet går vidare till Kommunfullmäktige för slutgiltigt godkännande.",
+      "plain_language_summary": "Kommunen uppdaterar reglerna för hur fullmäktige ska arbeta och hålla sina möten.",
+      "relevance": "Invånare påverkas potentiellt genom förändringar i demokratiska processer och inflytande.",
+      "detail": "Enligt kommunallagen ska fullmäktige ha en arbetsordning med föreskrifter för sammanträden och ärendehantering. Kommunfullmäktiges presidium har tagit fram förslaget till reviderad arbetsordning.",
+      "category": "formellt",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "begransad",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 233",
+      "quote": "Enligt kommunallagen (2017:725) ska fullmäktige ha en arbetsordning.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Antagen"
+      },
+      "tags": [
+        "arbetsordning",
+        "fullmäktige",
+        "procedur",
+        "demokrati"
+      ],
+      "confidence": "hog",
+      "id": "2024-11-12_ko_233"
     }
   ],
   "motions_of_interest": [
     {
-      "title": "Utveckla byggnadspriset med renodlad del för byggnadsvård",
+      "title": "Utveckla byggnadspriset med en renodlad del för byggnadsvård",
       "party": "SD",
-      "status": "Remitterad till Bygg- och miljönämnden"
+      "status": "remitterad"
     },
     {
       "title": "Medborgarinflytande på gestaltning av arkitektur",
       "party": "SD",
-      "status": "Remitterad till Bygg- och miljönämnden"
+      "status": "remitterad"
     },
     {
       "title": "Upprättelse för konsten",
       "party": "SD",
-      "status": "Remitterad till Kultur- och fritidsnämnden"
+      "status": "remitterad"
     }
   ],
-  "skipped_items_count": 6,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2024-11-12",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 9
+  "decisions_count": 19
 }

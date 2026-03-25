@@ -1,117 +1,734 @@
 {
   "meeting_type": "Kommunfullmäktige",
   "date": "2024-11-20",
-  "summary_headline": "Örebroporten ökar ägandet i Gustavsvik efter omstridda val",
+  "summary_headline": "Kommunen godkänner ägarförändring av Gustavsvik Resort",
   "decisions": [
     {
-      "headline": "Örebroporten förvärvar majoritetsägande i Gustavsvik Resorts",
-      "summary": "Kommunfullmäktige godkänner att Örebroporten Fastigheter AB förvärvar aktier i Gustavsvik Resorts AB från Gustavsviks Intressenter AB enligt aktieöverlåtelseavtal. Beslutet innebär att kommunen får 100 procent ägarskap i nöjesparken.",
-      "detail": "Gustavsviks Intressenter AB (GIAB) har uttryckt önskemål att sälja sina aktier i Gustavsvik Resorts AB (GRAB) och utvecklingsbolaget GUAB till Örebroporten. GIAB äger idag 55 procent av GRAB medan Örebroporten äger 45 procent. Efter förvärvet kommer Örebroporten att äga 100 procent av både GRAB och utvecklingsbolaget.\n\nKommunfullmäktige godkänner även föreslagna bolagsordningar för GRAB, GUAB och Kikapu i Örebro AB. Kommunens stämmoombud får i uppdrag att rösta för dessa på bolagsstämmorna.\n\nBeslutet var omstritt. Liberalerna (L) ville avslå valen av styrelsesuppleanter och föreslog att kommunen inom 3 år ska sälja GRAB till en mer lämpad aktör. Örebroparten (ÖrP) ville återremittera ärendet för att få klarare värderingsfrågor och avtalsunderlag. Sverige Demokraterna (SD) deltog inte i beslutet.\n\nKoncernens låneRam för Örebroporten fastställs till 4 100 miljoner kronor för 2024–2028.",
-      "category": "budget",
-      "contested": true,
-      "location": "Gustavsvik, Örebro",
+      "headline": "Justeringsmän och protokollssekreterare",
+      "human_headline": "Val av justeringsmän för mötet",
+      "summary": "Jan Zetterqvist (S) är ordförande. Glenn Roswall (ÖrP) och Anna Ekström (C) väljs som justeringsmän. Joacim Bock är sekreterare.",
+      "plain_language_summary": "Mötet startar med att två ledamöter väljs för att kontrollera att beslutsprotokollen är rätt.",
+      "relevance": null,
+      "detail": "Formell procedur för att säkerställa att mötet genomfördes enligt reglerna.",
+      "category": "formellt",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
       "paragraph_ref": "§ 276",
-      "quote": "Förvärvet ska enligt Örebroportens bolagsordning underställas kommunfullmäktige för ställningstagande. Ägarförändringarna medför även att vissa ändringar i bolagsordningar, styrelser och lekmannarevisorer för GRAB, GUAB och Kikapu behöver göras.",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "procedur",
+        "justeringsmän"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Ägarförändring Gustavsvik - Godkännande av aktieöverföring",
+      "human_headline": "Kommunen godkänner att Örebroporten köper hela Gustavsvik",
+      "summary": "Kommunfullmäktige godkänner att Örebroporten Fastigheter AB förvärvar aktier i Gustavsvik Resorts AB från Gustavsviks Intressenter AB enligt aktieöverlåtelseavtal. Ägarförändringen innebär att Örebroporten efter transaktionen kommer att äga 100 % av Gustavsvik Resorts AB (tidigare 45 %), medan GIAB:s innehav på 55 % övergår till Örebroporten. Detta är det första av flera beslutsblock i ärendet.",
+      "plain_language_summary": "Kommunen köper ut de privata ägarnas andel av bad- och campinganläggningen Gustavsvik, så att kommunen äger hela anläggningen.",
+      "relevance": "Invånare som använder Gustavsvik påverkas av att kommunen blir ensam ägare av anläggningen.",
+      "detail": "Gustavsvik Resorts AB (GRAB) äger och driver bad- och campinganläggningen. Idag ägs GRAB till 55 % av Gustavsviks Intressenter AB (GIAB) och 45 % av Örebroporten. Genom aktieöverlåtelseavtalet förvärvar Örebroporten alla GIAB:s aktier i GRAB.\n\nGIAB bildades 2011 som ett gemensamt bolag för lokala intressenter med syfte att bredda ägandet av Gustavsvik-anläggningen. Nu väljer GIAB att sälja sina aktier tillbaka till Örebroporten.\n\nBeslutet innebär att kommunen blir ensam ägare av Gustavsvik Resorts AB. Kommunfullmäktige godkänner transaktionen enligt den aktieöverlåtelseavtal som parterna ingått.",
+      "category": "näringsliv",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invånare",
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 276",
+      "quote": "Kommunfullmäktige godkänner att Örebroporten Fastigheter AB förvärvar aktier i Gustavsvik Resorts AB av Gustavsviks Intressenter AB enligt ingånget aktieöverlåtelseavtal.",
       "quote_page": "s. 4",
       "voting": {
         "for": [
           "S",
           "M",
+          "KD",
           "C",
-          "KD"
+          "V"
         ],
         "against": [],
         "abstained": [
-          "ÖrP",
-          "L",
-          "MP",
           "SD"
         ],
-        "result": "Bifall"
+        "result": "Bifallen"
       },
       "tags": [
         "Gustavsvik",
-        "Örebroporten",
         "ägarförändring",
-        "nöjespark",
-        "styrelse"
+        "aktieöverföring",
+        "Örebroporten"
       ],
+      "confidence": "hög",
       "id": "2024-11-20_ko_276"
     },
     {
-      "headline": "Styrelsefördelnin gändras i Gustavsvik Resorts efter ägarskifte",
-      "summary": "Två styrelseledamöter entledigas och sju nya utses till Gustavsvik Resorts AB. Nya namn inkluderar Anders Åhrlin (M) och tidigare kandidater från lokala intressentgrupper.",
-      "detail": "Magnus Persson och Clas Rosdahl entledigas som styrelseledamöter i GRAB. Nya styrelseledamöter blir Anders Åhrlin (M), Max Klarvik, Lars Modig, Cecilia Hermansson, Mårten Blomqvist, Elisabeth Karlsson Zuaw och Efwa Nilsson.\n\nTill suppleanter utses David Larsson (SD), Johan Kumlin (M) och Jennie Jensen.\n\nDetta var ett omstritt val, främst för att Liberalerna avslog detta förvärv. De nya styrelsebesluten går igenom trots att både L och ÖrP reserverar sig mot valet.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": "Gustavsvik",
+      "headline": "Ägarförändring Gustavsvik - Örebroporten förvärvar utvecklingsbolaget",
+      "human_headline": "Kommunen köper Gustavsviks Utvecklingsbolag från privata ägarе",
+      "summary": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB förvärvar aktier i Gustavsviks Utvecklingsbolag AB (GUAB) från Gustavsviks Intressenter AB. GUAB ägdes tidigare till 51 % av Örebroporten och 49 % av GIAB. Efter transaktionen äger Örebroporten 100 % av GUAB.",
+      "plain_language_summary": "Kommunen köper också ut de privata ägarnas andel av utvecklingsbolaget som hanterar byggnation och utveckling av Gustavsviks område.",
+      "relevance": "Invånare påverkas indirekt genom att kommunen får full kontroll över framtida utveckling av Gustavsviks-området.",
+      "detail": "Gustavsviks Utvecklingsbolag AB (GUAB) bildades för att samordna nybyggnation inom Gustavsviksområdet. Bolaget ägs tidigare till 51 % av Örebroporten och 49 % av GIAB. Genom denna transaktion förvärvar Örebroporten alla GIAB:s aktier i GUAB, vilket gör kommunen till ensam ägare.\n\nGUAB äger i sin tur Kikapu i Örebro AB till 100 %.\n\nBeslutet godkänner aktieöverlåtelseavtalet mellan Örebroporten Förvaltning AB och GIAB.",
+      "category": "näringsliv",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invånare",
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 276",
-      "quote": "Till styrelseledamöter i Gustavsvik Resorts AB utses Anders Åhrlin, Max Klarvik, Lars Modig, Cecilia Hermansson, Mårten Blomqvist, Elisabeth Karlsson Zuaw och Efwa Nilsson och till suppleanter i Gustavsvik Resorts AB utses David Larsson, Johan Kumlin och Jennie Jensen.",
-      "quote_page": "s. 5",
+      "quote": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB förvärvar aktier i Gustavsvik Utvecklingsbolag AB av Gustavsviks Intressenter AB enligt ingånget aktieöverlåtelseavtal.",
+      "quote_page": "s. 4",
       "voting": {
         "for": [
           "S",
           "M",
+          "KD",
           "C",
-          "KD"
+          "V"
         ],
         "against": [],
         "abstained": [
-          "ÖrP",
-          "L",
-          "MP",
           "SD"
         ],
-        "result": "Bifall"
+        "result": "Bifallen"
       },
       "tags": [
         "Gustavsvik",
-        "styrelseval",
+        "utvecklingsbolag",
         "ägarförändring",
-        "personval"
+        "GUAB"
       ],
+      "confidence": "hög",
       "id": "2024-11-20_ko_276"
     },
     {
-      "headline": "Möjlighet att fusionera eller likvidera utvecklingsbolag godkänns",
-      "summary": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB får fusionera Gustavsviks Utvecklingsbolag AB med sitt koncernbolag eller likvidera det när så bedöms lämpligt.",
-      "detail": "Tillsammans med ägarförändringen i Gustavsvik godkänner kommunfullmäktige att Örebroporten Förvaltning AB, om och när bolaget bedömer det lämpligt, fusionerar Gustavsviks Utvecklingsbolag AB med Örebroporten Förvaltning AB eller annat koncernbolag. Alternativt kan GUAB likvideras.\n\nSamtidigt ges godkännande för att GUAB kan fusionera sitt helägda dotterbolag Kikapu i Örebro AB eller likvidera det.\n\nDessa möjligheter är långsiktiga organisatoriska verktyg för att förenkla koncernstrukturen kring Gustavsvikverksamheten.",
-      "category": "ovrigt",
-      "contested": false,
-      "location": "Gustavsvik",
+      "headline": "Godkännande av nya bolagsordningar för Gustavsvik-bolagen",
+      "human_headline": "Kommunen godkänner uppdaterade regler för Gustavsvik-bolagen",
+      "summary": "Kommunfullmäktige godkänner föreslagna bolagsordningar för Gustavsvik Resorts AB, Gustavsviks Utvecklingsbolag AB och Kikapu i Örebro AB. Kommunens stämmoombud får i uppdrag att rösta för antagandet av dessa bolagsordningar på bolagsstämmorna och för eventuella justeringar som krävs enligt lag.",
+      "plain_language_summary": "Kommunen godkänner nya regler för hur Gustavsvik-bolagen ska styras och organiseras.",
+      "relevance": null,
+      "detail": "I samband med ägarförändringen behöver bolagsordningarna för de tre bolagen uppdateras. Kommunfullmäktige godkänner de nya ordningarna och ger kommunens stämmoombud i uppdrag att på respektive bolagsstämma rösta för att anta bolagsordningarna. Stämmoombuden får även möjlighet att godkänna eventuella tekniska justeringar som kan krävas för registrering hos Bolagsverket.",
+      "category": "näringsliv",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begränsad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 276",
+      "quote": "Föreslagna bolagsordningar för Gustavsvik Resorts AB, Gustavsviks Utvecklingsbolag AB och Kikapu i Örebro AB godkänns.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "C",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "bolagsordning",
+        "Gustavsvik",
+        "juridik"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Möjlighet att fusionera Gustavsviks Utvecklingsbolag AB",
+      "human_headline": "Kommunen får rätt att slå ihop utvecklingsbolaget med annat bolag",
+      "summary": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB, när bolaget bedömer det lämpligt, får fusionera Gustavsviks Utvecklingsbolag AB (GUAB) med Örebroporten Förvaltning AB eller annat koncernbolag, alternativt likvidera GUAB.",
+      "plain_language_summary": "Kommunen får tillåtelse att senare slå ihop utvecklingsbolaget med ett annat kommunalt bolag eller avveckla det om det anses lämpligt.",
+      "relevance": null,
+      "detail": "Beslutet ger kommunens bolagsledning flexibilitet att framöver organisera Gustavsviks Utvecklingsbolag AB på det sätt som bedöms mest lämpligt. Detta kan innebära en fusion med moderbolaget eller ett annat koncernbolag, eller alternativt att bolaget likvideras. Beslutet är inte bindande utan ska genomföras när bolaget bedömer det lämpligt.",
+      "category": "näringsliv",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begränsad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 276",
       "quote": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB, om och när bolaget bedömer det lämpligt, fusionerar Gustavsviks Utvecklingsbolag AB med Örebroporten Förvaltning AB eller annat koncernbolag, alternativt tillser att Gustavsviks Utvecklingsbolag AB likvideras.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "C",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "fusion",
+        "bolagsstruktur",
+        "Gustavsvik"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Möjlighet att fusionera Kikapu i Örebro AB",
+      "human_headline": "Kommunen får rätt att slå ihop Kikapu-bolaget med utvecklingsbolaget",
+      "summary": "Kommunfullmäktige godkänner att Gustavsviks Utvecklingsbolag AB, när bolaget bedömer det lämpligt, får fusionera Kikapu i Örebro AB med GUAB eller annat koncernbolag, alternativt likvidera Kikapu.",
+      "plain_language_summary": "Kommunen får tillåtelse att senare slå ihop Kikapu-bolaget med utvecklingsbolaget eller avveckla det om det anses lämpligt.",
+      "relevance": null,
+      "detail": "Kikapu i Örebro AB ägs till 100 % av Gustavsviks Utvecklingsbolag AB. Beslutet ger bolaget flexibilitet att framöver organisera Kikapu antingen genom fusion med GUAB eller ett annat koncernbolag, eller genom likvidation. Detta är ett preparatoriskt beslut som möjliggör framtida organisatoriska ändringar.",
+      "category": "näringsliv",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begränsad",
+      "public_interest_score": 2,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 276",
+      "quote": "Kommunfullmäktige godkänner att Gustavsviks Utvecklingsbolag AB, om och när bolaget bedömer det lämpligt, fusionerar Kikapu i Örebro AB med Gustavsviks Utvecklingsbolag AB eller annat koncernbolag, alternativt tillser att Kikapu i Örebro AB likvideras.",
       "quote_page": "s. 5",
       "voting": {
         "for": [
           "S",
           "M",
+          "KD",
           "C",
-          "KD"
+          "V"
         ],
         "against": [],
         "abstained": [
-          "ÖrP",
-          "L",
-          "MP",
           "SD"
         ],
-        "result": "Bifall"
+        "result": "Bifallen"
       },
       "tags": [
-        "Gustavsvik",
+        "Kikapu",
         "fusion",
-        "bolagsstruktur",
-        "koncern"
+        "bolagsstruktur"
       ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Entledning av styrelseledamöter i Gustavsvik Resorts AB",
+      "human_headline": "Två styrelseledamöter lämnar Gustavsvik Resorts AB",
+      "summary": "Magnus Persson och Clas Rosdahl entledigas som styrelseledamöter i Gustavsvik Resorts AB, och Cecilia Svedin och Efwa Nilsson entledigas som styrelsesuppleanter.",
+      "plain_language_summary": "Fyra personer slutar sina uppdrag i styrelsen för Gustavsvik Resort.",
+      "relevance": null,
+      "detail": "I samband med ägarförändringen förändras styrelsesammansättningen. Magnus Persson och Clas Rosdahl entledigas som styrelseledamöter, och Cecilia Svedin och Efwa Nilsson entledigas som styrelsesuppleanter.",
+      "category": "näringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "begränsad",
+      "public_interest_score": 1,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "styrelse",
+        "Gustavsvik Resorts AB",
+        "personval"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Val av nya styrelseledamöter i Gustavsvik Resorts AB",
+      "human_headline": "Sju nya personer väljs till styrelse för Gustavsvik Resort",
+      "summary": "Till styrelseledamöter i Gustavsvik Resorts AB utses Anders Åhrlin, Max Klarvik, Lars Modig, Cecilia Hermansson, Mårten Blomqvist, Elisabeth Karlsson Zuaw och Efwa Nilsson. Till suppleanter utses David Larsson, Johan Kumlin och Jennie Jensen.",
+      "plain_language_summary": "Sju nya styrelseledamöter väljs för Gustavsvik Resort, tillsammans med tre suppleanter.",
+      "relevance": null,
+      "detail": "Vid samma styrelsebyte väljs nya ledamöter och suppleanter. Styrelseledamöter blir Anders Åhrlin, Max Klarvik, Lars Modig, Cecilia Hermansson, Mårten Blomqvist, Elisabeth Karlsson Zuaw och Efwa Nilsson. Suppleanter blir David Larsson, Johan Kumlin och Jennie Jensen.",
+      "category": "näringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "begränsad",
+      "public_interest_score": 1,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "L",
+          "ÖrP",
+          "V",
+          "MP"
+        ],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "styrelse",
+        "Gustavsvik Resorts AB",
+        "personval"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Val av lekmannarevisorer i Gustavsvik Resorts AB",
+      "human_headline": "Fyra revisorer väljs för Gustavsvik Resort",
+      "summary": "Till lekmannarevisorer i Gustavsvik Resorts AB för tiden efter årsstämman 2025 utses Lars Bjurström och Brita Bjelle. Till lekmannarevisorssuppleanter utses Gunvor Lindqvist och Sven Landh.",
+      "plain_language_summary": "Fyra revisor-suppleanter väljs för att granska Gustavsviks Resort-bolagets räkenskaper.",
+      "relevance": null,
+      "detail": "Två lekmannarevisorer och två revisorssuppleanter väljs för att granska Gustavsviks Resorts AB:s finanser och verksamhet från och med årsstämman 2025.",
+      "category": "näringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "revisor",
+        "Gustavsvik Resorts AB",
+        "granskning"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Val av styrelseledamöter i Gustavsviks Utvecklingsbolag AB",
+      "human_headline": "Fyra personer väljs till styrelse för utvecklingsbolaget",
+      "summary": "Till styrelseledamöter i Gustavsviks Utvecklingsbolag AB utses Jeanette Berggren, Susanne Odelberg-Johnson, Christina Krönert Lind och Anders Ejdeholt. Till suppleanter utses Mattias Waller och David Nordvall.",
+      "plain_language_summary": "Fyra styrelseledamöter och två suppleanter väljs för utvecklingsbolaget.",
+      "relevance": null,
+      "detail": "Styrelseledamöter för Gustavsviks Utvecklingsbolag AB blir Jeanette Berggren, Susanne Odelberg-Johnson, Christina Krönert Lind och Anders Ejdeholt. Suppleanter blir Mattias Waller och David Nordvall.",
+      "category": "näringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "begränsad",
+      "public_interest_score": 1,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "L",
+          "ÖrP",
+          "V",
+          "MP"
+        ],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "styrelse",
+        "GUAB",
+        "personval"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Val av lekmannarevisorer i Gustavsviks Utvecklingsbolag AB",
+      "human_headline": "Två revisorer väljs för utvecklingsbolaget",
+      "summary": "Till lekmannarevisor i Gustavsviks Utvecklingsbolag AB för tiden fram till årsstämman 2025 utses Sven Landh. För tiden efter årsstämman 2025 utses Lars Bjurström.",
+      "plain_language_summary": "Två revisorer väljs för att granska utvecklingsbolagets räkenskaper.",
+      "relevance": null,
+      "detail": "Två lekmannarevisorer väljs för olika perioder. Sven Landh utses för tiden fram till årsstämman 2025, och Lars Bjurström utses för tiden efter årsstämman 2025.",
+      "category": "näringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "revisor",
+        "GUAB",
+        "granskning"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Val av styrelseledamöter i Kikapu i Örebro AB",
+      "human_headline": "Fyra personer väljs till styrelse för Kikapu",
+      "summary": "Till styrelseledamöter i Kikapu i Örebro AB utses Jeanette Berggren, Susanne Odelberg-Johnson, Christina Krönert Lind och Anders Ejdeholt. Till suppleanter utses Mattias Waller och David Nordvall.",
+      "plain_language_summary": "Samma fyra personer väljs till styrelse för Kikapu-bolaget som för utvecklingsbolaget.",
+      "relevance": null,
+      "detail": "Styrelseledamöter för Kikapu i Örebro AB blir Jeanette Berggren, Susanne Odelberg-Johnson, Christina Krönert Lind och Anders Ejdeholt. Suppleanter blir Mattias Waller och David Nordvall. Detta är samma personer som valdes till styrelse för Gustavsviks Utvecklingsbolag AB.",
+      "category": "näringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "begränsad",
+      "public_interest_score": 1,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "L",
+          "ÖrP",
+          "V",
+          "MP"
+        ],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "styrelse",
+        "Kikapu",
+        "personval"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Val av lekmannarevisorer i Kikapu i Örebro AB",
+      "human_headline": "Två revisorer väljs för Kikapu-bolaget",
+      "summary": "Till lekmannarevisor i Kikapu i Örebro AB för tiden fram till årsstämman 2025 utses Sven Landh. För tiden efter årsstämman 2025 utses Lars Bjurström.",
+      "plain_language_summary": "Två revisorer väljs för att granska Kikapu-bolagets räkenskaper.",
+      "relevance": null,
+      "detail": "Samma två revisorer väljs för Kikapu som för Gustavsviks Utvecklingsbolag AB. Sven Landh utses för tiden fram till årsstämman 2025, och Lars Bjurström för tiden efter årsstämman 2025.",
+      "category": "näringsliv",
+      "decision_type": "valarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "personval",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": "Gustavsvik",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "revisor",
+        "Kikapu",
+        "granskning"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Fastställelse av koncernintern låneram för Örebroporten",
+      "human_headline": "Kommunen fastställer maximal låneram för Örebroporten till 4,1 miljarder",
+      "summary": "Kommunfullmäktige fastställer den koncerninterna låneramen för Örebroporten Fastigheter AB till 4 100 miljoner kronor för perioden 2024–2028. Låneramen ryms inom ramen för kommunkoncernens samlade externa låneskuld.",
+      "plain_language_summary": "Kommunen fastställer att Örebroporten får låna maximalt 4,1 miljarder kronor från kommunen för perioden 2024 till 2028.",
+      "relevance": "Kommunens ekonomi påverkas genom fastställandet av gränser för interna lån till detta bolag.",
+      "detail": "I samband med ägarförändringen av Gustavsvik behöver även den koncerninterna låneramen för Örebroporten Fastigheter AB fastställas. Kommunfullmäktige fastställer denna ram till 4 100 miljoner kronor för perioden 2024–2028.\n\nLåneramen är en begränsning av hur mycket Örebroporten kan låna internt från kommunen. Kommunfullmäktige konstaterar att denna ram ryms väl inom ramen för kommunkoncernens samlade externa låneskuld.",
+      "category": "budget",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "invånare",
+        "fastighetsägare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 276",
+      "quote": "Den koncerninterna låneramen för Örebroporten Fastigheter AB fastställs till 4 100 miljoner kronor för perioden 2024–2028, vilket ryms inom ramen för kommunkoncernens samlade externa låneskuld.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "KD",
+          "C",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "låneram",
+        "Örebroporten",
+        "ekonomi",
+        "4100 miljoner"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Godkännande av särskilt yttrande från Vänsterpartiet",
+      "human_headline": "Vänsterpartiet får lämna reservationen mot beslutet",
+      "summary": "Kommunfullmäktige godkänner att Linn Josefsson (V) får lämna ett särskilt yttrande till protokollet angående ärendet.",
+      "plain_language_summary": "Vänsterpartiet får möjlighet att skriva en särskild kommentar om sitt ställningstagande i frågan.",
+      "relevance": null,
+      "detail": "Efter avslagen på Liberalernas tilläggsyrkande godkänner kommunfullmäktige att Linn Josefsson från Vänsterpartiet får lämna ett särskilt yttrande till protokollet. Detta ger partiet möjlighet att precisera sitt ställningstagande till beslutet.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "formellt godkannande",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "yttrande",
+        "V",
+        "protokoll"
+      ],
+      "confidence": "hög",
+      "id": "2024-11-20_ko_276"
+    },
+    {
+      "headline": "Omedelbar justering av paragrafen",
+      "human_headline": "Protokollet justeras direkt efter mötet",
+      "summary": "Kommunfullmäktige godkänner att paragrafen justeras omedelbart.",
+      "plain_language_summary": "Protokollet från denna paragraf godkänns och justeras samma dag.",
+      "relevance": null,
+      "detail": "Formell procedur där paragrafen godkänns för justering direkt efter mötet.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "bifallen",
+      "routine": true,
+      "routine_reason": "teknisk justering",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 276",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Bifallen"
+      },
+      "tags": [
+        "justering",
+        "protokoll"
+      ],
+      "confidence": "hög",
       "id": "2024-11-20_ko_276"
     }
   ],
-  "motions_of_interest": [],
-  "skipped_items_count": 2,
+  "motions_of_interest": [
+    {
+      "title": "Återremiss för komplettering med värderingsunderlag och avtal",
+      "party": "ÖrP",
+      "status": "avslagen"
+    },
+    {
+      "title": "Avslag på ärendet i sin helhet",
+      "party": "ÖrP",
+      "status": "avslagen"
+    },
+    {
+      "title": "Bifall till beslutspunkterna 1-5 och 8-13, avslag till 6-7, samt ny försäljningsprocess inom 3 år",
+      "party": "L",
+      "status": "avslagen"
+    }
+  ],
   "organ": "Kommunfullmäktige",
   "meeting_date": "2024-11-20",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-20_Kommunfullmäktige.pdf",
   "status": "ok",
-  "decisions_count": 3
+  "decisions_count": 16
 }
