@@ -359,7 +359,47 @@
       "meeting_date": "2024-12-11",
       "decisions_count": 0,
       "status": "error"
+    },
+    "74caf65e1dc92f6ce2edc32ccce98ae9": {
+      "url": "https://www.orebro.se/download/18.2b7da780193deb3827595f3/1738665489591/2025-01-21%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T14:06:13.172935",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "5102a43aa84ced28193ab842ada4e3d7": {
+      "url": "https://www.orebro.se/download/18.59abe9f8193debe46c8bb69/1738929723671/2025-01-29%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T14:08:21.223648",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-01-29",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "4e54baa58ef25a244328b2a4873e591d": {
+      "url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T14:10:12.414098",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-02-11",
+      "decisions_count": 20,
+      "status": "ok"
+    },
+    "b1e0ea339bfd64991b10be99e3ed02a7": {
+      "url": "https://www.orebro.se/download/18.7293c3c419540ac12cf35e5/1741776557758/2025-02-25%20Kommunfullm%C3%A4ktige.pdf",
+      "processed_at": "2026-03-25T14:12:11.417754",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-02-25",
+      "decisions_count": 0,
+      "status": "error"
+    },
+    "b67c6e51e1483ec02fbcc9891f88599b": {
+      "url": "https://www.orebro.se/download/18.2be88190195ad87aa321cbd7/1743669110401/2025-03-18%20Kommunstyrelsen.pdf",
+      "processed_at": "2026-03-25T14:14:13.997815",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-03-18",
+      "decisions_count": 20,
+      "status": "ok"
     }
   },
-  "last_run": "2026-03-25T14:03:52.788547"
+  "last_run": "2026-03-25T14:14:13.997851"
 }

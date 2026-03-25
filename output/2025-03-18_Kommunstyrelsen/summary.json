@@ -1,95 +1,171 @@
 {
   "meeting_type": "Kommunstyrelsen",
   "date": "2025-03-18",
-  "summary_headline": "Nya riktlinjer för barnomsorgsavgifter och prövningar av motioner",
+  "summary_headline": "Avgifter för förskola och omsorg, intern kontroll, arkivplan, flera motioner",
   "decisions": [
     {
-      "headline": "Nya riktlinjer för avgifter i förskola och fritidshem från april",
-      "summary": "Kommunstyrelsen antog nya riktlinjer för tillämpning av avgiftstaxa i förskola, fritidshem och omsorg på obekväm tid, gällande från 1 april 2025. Beslutet innebär förändringar i beräkning av avgifter för vårdnadshavare som gått isär, vilket kan öka kostnaderna för hushåll med låga inkomster.",
-      "detail": "Grundskole- och Förskolenämnden föreslog nya riktlinjer för avgiftsberäkning i barnomsorgen för att anpassa dem till nya organisationsstrukturer efter nämndreformen 2021. De nya riktlinjerna innebär en ändring av hur omsorgsavgifter beräknas för vårdnadshavare med delad faktura.\n\nVänsterpartiet, representerat av Cristian Rehn Janowicz, yrkade på att behålla det tidigare sättet att beräkna omsorgsavgifter för de med delad faktura, för att undvika kostnadsökningar särskilt för ensamstående hushåll och hushåll med låga inkomster. Partiet påpekade att cirka 2000 vårdnadshavare i Örebro kommun skulle påverkas och att omsorgsavgiften i vissa fall kunde dubbleras.\n\nOrdenliga Åhrlin ställde förslagen mot varandra och kommunstyrelsen beslutade enligt Grundskole- och Förskolenämndens ursprungliga förslag. Vänsterpartiet reserverade sig mot beslutet. De nya riktlinjerna gäller från 1 april 2025 och beslutspunkt 4 om nya avgiftsnivåer ska vidare till kommunfullmäktige för godkännande.",
-      "category": "skola",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 53",
-      "quote": "Det innebär att det kommer uppstå en kostnadsökning för omsorgsavgifter för vårdnadshavare med lägst inkomster. Omsorgsavgiften kan i vissa fall dubbleras.",
-      "quote_page": "s. 23",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "MP"
-        ],
-        "against": [],
-        "abstained": [],
-        "result": "Bifall"
-      },
-      "tags": [
-        "barnomsorgsavgifter",
-        "förskoleavgifter",
-        "låga inkomster",
-        "deltid"
+      "headline": "Ta del av årsredovisning 2024 verksamhetsresultat",
+      "human_headline": "Kommunstyrelsen tar del av årsredovisningen för 2024",
+      "summary": "Kommunstyrelsen tog del av presentationen av verksamhetsresultatet för 2024.",
+      "plain_language_summary": "Kommunen presenterade hur det gick under 2024 och styrelsen noterade informationen.",
+      "relevance": null,
+      "detail": "Informationsärende. Presentation av verksamhetsresultat 2024.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
       ],
-      "id": "2025-03-18_ko_53"
-    },
-    {
-      "headline": "Markförsäljning till Circle K Sverige för drivmedelsstation cirka 11,5 miljoner",
-      "summary": "Kommunstyrelsen godkände ett reservationsavtal för försäljning av mark till Circle K Sverige AB för uppförande av en drivmedelsstation. Försäljningspriset är cirka 11,5 miljoner kronor.",
-      "detail": "Circle K Sverige AB avser att uppföra och driva en drivmedelsstation på fastigheter del av Mosås 8:3 samt del av Ånsta 20:134. Marken direktanvisades till aktören eftersom Örebro kommun tidigare förvärvat aktörens fastighet Sidensvansen 4.\n\nPriset för markförsäljningen är beräknat till cirka 11 500 000 kronor. Enligt reglemente krävdes Kommunstyrelsens beslut eftersom köpeskillingen överstiger 10 miljoner kronor.\n\nMarkplanerings- och exploateringsnämnden behandlade ärendet 14 mars 2025 och föreslog godkännande. Kommunstyrelsen gav Markplanerings- och exploateringsnämndens ordförande i uppdrag att underteckna reservationsavtalet och senare överlåtelseavtalet, samt att godkänna justeringar av situationsplan och byggnadsutformning.",
-      "category": "bygg",
-      "contested": false,
-      "location": "Mosås, Ånsta",
-      "paragraph_ref": "§ 55",
-      "quote": "Priset för markförsäljningen avseende tomten inom fastigheterna del av Mosås 8:3 samt del av Ånsta 20:134 är beräknat till cirka 11 500 000 kronor.",
-      "quote_page": "s. 9",
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 49",
+      "quote": null,
+      "quote_page": null,
       "voting": {
-        "for": [
-          "S",
-          "M",
-          "C",
-          "L",
-          "KD",
-          "V",
-          "SD",
-          "OrP",
-          "MP"
-        ],
+        "for": [],
         "against": [],
         "abstained": [],
         "result": "Enhälligt"
       },
       "tags": [
-        "markförsäljning",
-        "Circle K",
-        "drivmedelsstation",
-        "investeringar"
+        "årsredovisning",
+        "verksamhetsresultat",
+        "2024"
       ],
-      "id": "2025-03-18_ko_55"
+      "confidence": "hog",
+      "id": "2025-03-18_ko_49"
     },
     {
-      "headline": "Reviderade riktlinjer för intern kontroll antogs",
-      "summary": "Kommunstyrelsen antog nya reviderade riktlinjer för intern kontroll i Örebro kommun, uppdaterade från tidigare version från 2014 för att anpassa sig till nuvarande lagar och organisation.",
-      "detail": "De tidigare riktlinjerna för intern kontroll fastställdes 2014 och behövde uppdateras för att anpassa sig till nuvarande lagar och organisationsstruktur. De nya riktlinjerna syftar till att fånga fler risker och uppnå en bättre balans mellan nytta och arbetstid.\n\nKontrollområdena förblir Verksamhet, Ekonomi och Personal. En viktig del av revisionen är att förtroendevalda ska vara delaktiga i att välja kontrollmoment och utforma internkontrollplanen. En ny handbok för uppföljning av intern kontroll togs fram parallellt med de reviderade riktlinjerna.\n\nFörslaget stämdes av med årsprocessledare och motsvarande funktioner inom kommunens förvaltningar innan presentationen för Kommunstyrelsen.",
+      "headline": "Godkänna övergripande tillsynsrapport intern kontroll 2024",
+      "human_headline": "Kommunen godkänner rapport om intern kontroll och tillsyn",
+      "summary": "Kommunstyrelsen godkände rapporten över intern kontroll 2024 och överlämnade den till Stadsrevisionen. Kommundirektören fick i uppdrag att fortsätta utveckla den interna kontrollen.",
+      "plain_language_summary": "Kommunen granskade hur väl de olika verksamheterna följer regler och rutiner och godkände rapporten om detta arbete.",
+      "relevance": "Påverkar samtliga nämndområden och verksamheter då detta handlar om uppsikt och kontroll.",
+      "detail": "Kommunallagen föreskriver att nämnderna ska se till att intern kontroll är tillräcklig, och att Kommunstyrelsen ska leda och samordna förvaltningen. Kommunledningsförvaltningen ska ge Kommunstyrelsen en sammanfattning och analys av genomförd intern kontroll året efter verksamhetsåret. Handboken \"Bätter koll med intern kontroll\" är en grund för nämndernas arbete.\n\nKommunstyrelsen godkände rapporten och överlämnade den till Stadsrevisionen. Kommundirektören fick i uppdrag att fortsätta utveckla den interna kontrollen så att resultaten bidrar till verksamhetens utveckling.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet i sin helhet men hans yrkande avslogs. Allard reserverade sig mot beslutet.",
       "category": "regler",
-      "contested": false,
-      "location": null,
-      "paragraph_ref": "§ 52",
-      "quote": "Det finns ett behov av att revidera riktlinjerna för att anpassa dem till nuvarande lagar och organisation. Det nya förslaget syftar till att fånga fler risker och uppnå en bättre balans mellan nytta och arbetstid.",
-      "quote_page": "s. 5",
+      "decision_type": "rapport",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 50",
+      "quote": "Nämnderna ska enligt kommunallagen 6 kap. 6 § se till att den interna kontrollen är tillräcklig.",
+      "quote_page": "s. 3",
       "voting": {
         "for": [
-          "S",
           "M",
-          "C",
           "L",
+          "S",
+          "C",
           "KD",
-          "V",
-          "SD",
-          "OrP",
           "MP"
         ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "intern kontroll",
+        "tillsyn",
+        "nämnderna",
+        "Stadsrevisionen"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_50"
+    },
+    {
+      "headline": "Anta revidering av kommungemensam arkiveringsplan",
+      "human_headline": "Kommunen antar ny plan för arkivering och gallring av handlingar",
+      "summary": "Kommunstyrelsen antog revidering av den kommungemensamma arkiveringsplanen som reglerar bevarande och gallring av handlingar för alla verksamheter.",
+      "plain_language_summary": "Kommunen uppdaterade reglerna för hur länge olika dokument ska sparas och när de kan kasseras.",
+      "relevance": "Påverkar all verksamhet i kommunen och är en rättslig skyldighet.",
+      "detail": "Kommunstyrelsen är arkivmyndighet i Örebro kommun. I enlighet med arkivreglemente antaget av Kommunfullmäktige tar arkivmyndigheten beslut om handlingar för samtliga nämndområden och kommunala bolag. För vissa handlingstyper finns styrande lagkrav. Revidering sker kontinuerligt.\n\nDen kommungemensamma arkiveringsplanen redovisar handlingar för alla Örebro kommuns verksamheter och de antagna beslut som gäller för bevarande och gallring.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet men hans yrkande avslogs. Allard reserverade sig mot beslutet.",
+      "category": "regler",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 1,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 51",
+      "quote": "Den kommungemensamma arkiveringsplanen redovisas handlingar, oavsett media, för alla Örebro kommuns olika verksamheter och de av arkivmyndigheten antagna beslut som gäller för bevarande och gallring av dessa handlingar.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "M",
+          "L",
+          "S",
+          "C",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "arkivering",
+        "dokumenthantering",
+        "gallring"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_51"
+    },
+    {
+      "headline": "Anta reviderade riktlinjer för intern kontroll i Örebro kommun",
+      "human_headline": "Kommunen antar nya riktlinjer för hur verksamheterna ska kontrollera sig själva",
+      "summary": "Kommunstyrelsen antog reviderade riktlinjer för intern kontroll som uppdaterades från 2014. De nya riktlinjerna syftar till att fånga fler risker och uppnå bättre balans mellan nytta och arbetstid.",
+      "plain_language_summary": "Kommunen uppdaterade reglerna för hur respektive verksamhet ska kontrollera att allt fungerar rätt och att pengar används korrekt.",
+      "relevance": "Påverkar alla verksamheter i kommunen och är ett viktigt styrmedel för ledningen.",
+      "detail": "De nuvarande riktlinjerna för intern kontroll i Örebro kommun fastställdes 2014. Kommunstyrelsen har det övergripande ansvaret, medan varje nämnd och bolagsstyrelse ansvarar för sin egen verksamhet. Det finns ett behov av att revidera riktlinjerna för att anpassa dem till nuvarande lagar och organisation.\n\nDet nya förslaget syftar till att fånga fler risker och uppnå en bättre balans mellan nytta och arbetstid. En ny handbok för uppföljning av intern kontroll har också tagits fram parallellt. Kontrollområdena förblir Verksamhet, Ekonomi och Personal.\n\nFörtroendevalda ska vara delaktiga i att välja kontrollmoment och utforma internkontrollplanen. Förslaget har stämts av med årsprocessledare och motsvarande funktioner inom kommunens förvaltningar.",
+      "category": "regler",
+      "decision_type": "policy",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 52",
+      "quote": "Det finns ett behov av att revidera riktlinjerna för att anpassa dem till nuvarande lagar och organisation.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [],
         "against": [],
         "abstained": [],
         "result": "Enhälligt"
@@ -97,20 +173,171 @@
       "tags": [
         "intern kontroll",
         "riktlinjer",
-        "styrning",
-        "övervakning"
+        "revisering"
       ],
+      "confidence": "hog",
       "id": "2025-03-18_ko_52"
     },
     {
-      "headline": "Motion om suicidprevention avslogs – inväntar nationell strategi",
-      "summary": "Kommunstyrelsen avslog motionen från Liberalerna om upprättande av handlingsplan för suicidprevention. Kommunen väljer att invänta en kommande nationell strategi innan egna riktlinjer utformas.",
-      "detail": "Johanna Reimfelt och Karolina Wallström (L) motionerade för att Örebro kommun skulle upprätta en handlingsplan för suicidprevention inklusive förebyggande arbete. Socialdemokraterna, Moderaterna och Centerpartiet (kommunledningen) ansåg att en handlingsplan potentiellt kunde göra arbetet för smalt och begränsat.\n\nKommunledningen argumenterade att suicidprevention redan är ett kommunövergripande arbete som är väl integrerat i samtliga verksamheter. Vidare pekades på att Folkhälsomyndigheten tillsammans med Socialstyrelsen arbetar med att ta fram ett underlag till en kommande nationell strategi för psykisk hälsa och suicidprevention. Kommunledningen valde därför att invänta denna nationella strategi i stället för att bygga upp riktlinjer på en grund som senare skulle förändras.\n\nI dag genomför kommunen tre utbildningsinsatser: \"Första hjälpen till psykisk hälsa\", \"Suicidnära samtal\" och elevhälsans utbildning av skolsköterskor. Karolina Wallström (L), Cristian Rehn Janowicz (V) och David Larsson (SD) reserverade sig för bifallsyrkande till motionen.",
-      "category": "politik",
-      "contested": true,
-      "location": null,
+      "headline": "Anta riktlinjer för avgiftstaxa förskola, fritidshem och omsorg",
+      "human_headline": "Nya regler för barnomsorgsavgifter från april 2025",
+      "summary": "Kommunstyrelsen antog nya riktlinjer för avgiftstaxan i förskola, fritidshem och omsorg på obekväm tid från 1 april 2025. Riktlinjerna innehåller förändrad beräkning för vårdnadshavare med delad faktura. Vänsterpartiet ville behålla gamla beräkningssättet för låginkomstfamiljer men förlorade omröstningen.",
+      "plain_language_summary": "Kommunen fastställde nya regler för hur mycket föräldrarna ska betala för förskola och fritidshem från april. För familjer där föräldrarna är separerade kan avgifterna förändras.",
+      "relevance": "Påverkar cirka 2000 vårdnadshavare i förskolan direkt, särskilt ensamstående och låginkomsthushåll som kan få högre avgifter.",
+      "detail": "I september 2021 beslutade Kommunfullmäktige att minska antalet nämnder och programnämnderna togs bort. Ansvaret för riktlinjerna för förskola, fritidshem och omsorg på obekväm tid flyttades till nya nämnder.\n\nDe gällande riktlinjerna delades nu för att motsvara respektive nämnds ansvar. Nuvarande riktlinje ersätts av tre nya riktlinjer. En översyn gjordes för att renodla riktlinjerna och göra dem enklare att tolka.\n\nDet fanns två olika förslag: Grundskole- och Förskolenämndens förslag samt ett yrkande från Vänsterpartiet om att behålla det tidigare sättet att beräkna omsorgsavgifter för de med delad faktura. Vänsterpartiet argumenterade att förändringarna skulle innebära kostnadsökning för låginkomstfamiljer, där omsorgsavgiften kan dubbleras för vissa, medan väl fungerande familjer inte påverkas lika mycket.\n\nKommunstyrelsen antog Grundskole- och Förskolenämndens förslag. Vänsterpartiet reserverade sig mot beslutet.",
+      "category": "skola",
+      "decision_type": "taxa",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 4,
+      "target_group": [
+        "vardnadshavare",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 53",
+      "quote": "De största ekonomiska konsekvenserna uppstår för ensamstående hushåll och hushåll med låga inkomster. Bara inom förskolan så kommer cirka 2000 vårdnadshavare i Örebro kommun att påverkas.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [
+          "M",
+          "C",
+          "S",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "avgifter",
+        "förskola",
+        "fritidshem",
+        "barnomsorgsavgift",
+        "låginkomst"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_53"
+    },
+    {
+      "headline": "Ta del av Samverkansrådets verksamhetsberättelse 2024",
+      "human_headline": "Kommunstyrelsen noterar Samverkansrådets årsrapport",
+      "summary": "Kommunstyrelsen tog del av Samverkansrådets verksamhetsberättelse för 2024. Rådet fokuserade på att utvärdera sin roll och funktion samt arbetade utifrån aktivitetsplanen.",
+      "plain_language_summary": "Ett samrådsorgan rapporterade vad de gjort under året, inklusive att granska sin egen roll och arbete.",
+      "relevance": null,
+      "detail": "Samverkansrädet redovisade sitt verksamhetsår 2024, där fokus från och med hösten låg på att utvärdera rådets roll och funktion i relation till överenskommelsen. En översyn av stödstrukturen för överenskommelsen, där Samverkansrådet ingår, ska ske under perioden 2024-2027. Rådet arbetade utifrån aktivitetsplanen i mindre arbetsgrupper och arrangerade temakvällar.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 54",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Samverkansrådet",
+        "överenskommelse",
+        "årsberättelse"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_54"
+    },
+    {
+      "headline": "Godkänna reservationsavtal för drivmedelsstation Circle K",
+      "human_headline": "Kommun säljer mark för bensinstation till Circle K",
+      "summary": "Kommunstyrelsen godkände reservationsavtal för försäljning av fastigheter del av Mosås 8:3 och del av Ånsta 20:134 till Circle K Sverige AB för uppförande av drivmedelsstation. Priset är cirka 11,5 miljoner kronor.",
+      "plain_language_summary": "Kommunen säljer två markfastigheter till Circle K som ska bygga en bensinstation där. Försäljningspriset är cirka 11,5 miljoner kronor.",
+      "relevance": "Påverkar markanvändningen i området och kommunens kassaflöde samt möjligheter att investera i infrastruktur.",
+      "detail": "Circle K Sverige AB avser att uppföra en drivmedelsstation som ska bedrivas i egen regi. Denna tomt direktanvisades till aktören med anledning av att Örebro kommun tidigare förvärvade aktörens tidigare fastighet Sidensvansen 4.\n\nPriset för markförsäljningen avseende tomten inom fastigheterna del av Mosås 8:3 samt del av Ånsta 20:134 är beräknat till cirka 11 500 000 kronor. Då köpeskillingen överstiger 10 000 000 kronor ska beslut om reservationsavtal fattas av Kommunstyrelsen.\n\nMarkplanerings- och exploateringsnämnden hanterade ärendet den 14 mars 2025. Kommunstyrelsen godkände alla fem beslutspunkter, inklusive att ge ordföranden i uppdrag att underteckna avtalet och godkänna justeringar på situationsplanen och byggnadens utformning.",
+      "category": "infrastruktur",
+      "decision_type": "ovrigt",
+      "outcome": "bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 3,
+      "target_group": [
+        "fastighetsagare",
+        "bilister",
+        "invanare"
+      ],
+      "geographic_scope": "stadsdel",
+      "location_name": "Mosås 8:3, Ånsta 20:134",
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 55",
+      "quote": "Priset för markförsäljningen avseende tomten inom fastigheterna del av Mosås 8:3 samt del av Ånsta 20:134 är beräknat till cirka 11 500 000 kronor.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "marksäljning",
+        "Circle K",
+        "drivmedelsstation",
+        "Mosås",
+        "Ånsta",
+        "fastigheter"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_55"
+    },
+    {
+      "headline": "Motionen om suicidprevention besvarad, inte bifallen",
+      "human_headline": "Kommunen säger nej till särskild handlingsplan för suicidprevention",
+      "summary": "Moderata, Socialdemokraterna och Centerpartiet (kommunledningen) besvarade motionen från Liberalerna om handlingsplan för suicidprevention genom att säga att arbetet redan integreras i psykisk hälsa-arbetet istället. Motionen avsloges. Liberalerna, Vänsterpartiet och SD reserverade sig och ville bifalla motionen.",
+      "plain_language_summary": "En motion från Liberalerna krävde att kommunen gör en särskild handlingsplan för att förebygga suicid. Flertalet partier tyckte att det redan görs genom det ordinarie arbetet med psykisk hälsa och ville inte en separat plan.",
+      "relevance": "Påverkar det förebyggande arbetet kring psykisk ohälsa och suicidprevention för alla invånare, särskilt ungdomar och utsatta grupper.",
+      "detail": "Johanna Reimfelt och Karolina Wallström (L) skickade in motionen om att Örebro kommun ska upprätta en handlingsplan för suicidprevention inklusive förebyggande arbete. Suicid påverkar inte bara den drabbade utan många människor runt omkring.\n\nKommunledningen (S, M, C) anser att det är viktigt att aktivt arbeta med psykisk ohälsa för att förhindra suicid. Kommunen och regionen samverkar i analyser gällande suicid. Arbetet med psykisk hälsa och suicidprevention är kommunövergripande.\n\nKommunledningen menar att det finns risk att arbetet blir för smalt med en handlingsplan. Folkhälsomyndigheten arbetar med en nationell strategi som förväntas ändra förutsättningarna. Kommunen avväntar denna strategi istället för att bygga egna riktlinjer.\n\nKommunledningen arbetar istället utifrån att psykisk ohälsa och suicidpreventivt arbete hörs ihop, vilket ger arbetet större bredd. Det genomförs tre utbildningsinsatser: \"Första hjälpen till psykisk hälsa\", \"Suicidnära samtal\" och elevhälsans utbildning för skolsköterskor.\n\nMotionen besvarades men avsloges. Liberalerna, Vänsterpartiet och SD reserverade sig.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "besvarad",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 4,
+      "target_group": [
+        "alla",
+        "ungdomar"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 56",
-      "quote": "Det finns en risk att arbetet blir för smalt med en handlingsplan eller riktlinjer för hur verksamheten ska utformas. Vidare har sedan sommaren 2020 Folkhälsomyndigheten tillsammans med Socialstyrelsen och 24 andra myndigheter arbetat med att ta fram ett underlag till en kommande nationell strategi.",
+      "quote": "Arbetet med psykisk hälsa och suicidprevention är ett kommunövergripande arbete som berör samtliga verksamheter.",
       "quote_page": "s. 10",
       "voting": {
         "for": [
@@ -118,29 +345,47 @@
           "M",
           "C"
         ],
-        "against": [
+        "against": [],
+        "abstained": [
           "L",
           "V",
-          "SD"
+          "SD",
+          "ÖrP",
+          "KD"
         ],
-        "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
         "suicidprevention",
-        "mental hälsa",
-        "psykisk ohälsa",
-        "motioner"
+        "psykisk hälsa",
+        "motion",
+        "Liberalerna"
       ],
+      "confidence": "hog",
       "id": "2025-03-18_ko_56"
     },
     {
-      "headline": "Motion om lönekostnader för anställda avslogs",
-      "summary": "Kommunstyrelsen avslog Sverigedemokraternas motion om att visa hela lönekostnaden inklusive arbetsgivaravgift i lönebeskeden till anställda.",
-      "detail": "Helena Ståhl (SD) motionerade för att hela lönekostnaden inklusive arbetsgivaravgift skulle redovisas i lönebeskeden till anställda inom Örebro kommun. Kommunledningen föreslog avslag med motiveringen att kommunen inte bör föregripa en pågående regeringsutredning i frågan.\n\nKommunledningen ansåg att det finns värde i att lönespecifikationerna enkelt och tydligt visar vilken lön som faktiskt betalats ut, och att det kan finnas lärdomar att dra från regeringsutredningen angående juridiska aspekter och praktiskt genomförande.\n\nDavid Larsson (SD) och Markus Allard (ÖrP) yrkal bifall till motionen och reserverade sig mot beslutet.",
-      "category": "politik",
-      "contested": true,
-      "location": null,
+      "headline": "Motion om lönespecifikation med arbetsgivaravgift avslagen",
+      "human_headline": "Kommun vägrar visa hela lönekostnaden med avgifter",
+      "summary": "Helena Ståhl (SD) motionerade för att hela lönekostnaden inklusive arbetsgivaravgift ska redovisas i lönebeskeden. Kommunledningen avslog motionen med motiveringen att man inte bör föregripa en pågående regeringsutredning och att lönespecifikationerna enkelt bör visa faktisk utbetald lön.",
+      "plain_language_summary": "En politiker ville att kommunen visar vad arbetsgivaren egentligen betalar för varje anställd (löne + avgifter). Ledningen sa nej eftersom regeringen utreder samma fråga.",
+      "relevance": "Påverkar alla kommunanställda genom vad de ser på sina lönebesked.",
+      "detail": "Helena Ståhl (SD) inkom med motion anmäld i Kommunfullmäktige 20 mars 2024. Motionen föreslår att hela lönekostnaden inklusive arbetsgivaravgift redovisas i lönebeskeden till anställda inom Örebro kommun.\n\nKommunledningen bedömer att motionen ska avslås eftersom Örebro kommun inte bör föregripa en pågående regeringsutredning i frågan. Det kan finnas lärdomar att dra från utredningen, bland annat gällande juridiska aspekter och praktiskt genomförande.\n\nDet finns också värde i att lönespecifikationerna enkelt och tydligt visar vilken lön som betalats ut. SD och Örebropartiet reserverade sig mot avslaget.",
+      "category": "naringsliv",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 57",
       "quote": "Bedömningen är att motionen ska avslås eftersom Örebro kommun inte bör föregripa den utredning i frågan som påbörjats av regeringen.",
       "quote_page": "s. 12",
@@ -148,123 +393,209 @@
         "for": [
           "S",
           "M",
-          "C"
+          "C",
+          "L",
+          "MP"
         ],
-        "against": [
+        "against": [],
+        "abstained": [
           "SD",
-          "OrP"
+          "ÖrP",
+          "V",
+          "KD"
         ],
-        "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
-        "löner",
+        "lönespecifikation",
+        "arbetsgivaravgift",
         "anställda",
-        "transparens",
-        "motioner"
+        "motion"
       ],
+      "confidence": "hog",
       "id": "2025-03-18_ko_57"
     },
     {
-      "headline": "Motion om klassdelningstal för bättre resultaten avslogs",
-      "summary": "Kommunstyrelsen avslog Liberalernas motion om nya delningstal för skolklasser (max 20, 25 och 30 elever beroende på årskurs).",
-      "detail": "Mats-Olof Liljegren (L) motionerade för att Kommunfullmäktige skulle ge förvaltningen uppgift att utreda införande av nya delningstal för skolklasser: max 20 elever från förskoleklass, max 25 från årskurs 4 och max 30 från årskurs 7.\n\nGrundskolenämnden föreslog avslag och argued att förvaltningen redan har en funktionell och bra process som ger möjlighet att vara flexibel och anpassa skolans organisation efter elevers behov, lokala förutsättningar och säkerställandet av tillgång till behöriga lärare – en avgörande faktor för god undervisning – samtidigt som budgeten hålls i balans.\n\nKarolina Wallström (L), David Larsson (SD) och Cristian Rehn Janowicz (V) yrkal bifall till motionen och reserverade sig mot beslutet.",
-      "category": "skola",
-      "contested": true,
-      "location": null,
-      "paragraph_ref": "§ 59",
-      "quote": "Förskole- och grundskoleförvaltningen föreslår att motionen avslås eftersom bedömningen är att förvaltningen idag har en funktionell och bra process som ger förvaltningen och rektorer möjlighet att vara flexibla och anpassa skolans organisation och resurser efter elevers behov.",
-      "quote_page": "s. 14",
-      "voting": {
-        "for": [
-          "S",
-          "M",
-          "C"
-        ],
-        "against": [
-          "L",
-          "V",
-          "SD"
-        ],
-        "abstained": [],
-        "result": "Avslaget"
-      },
-      "tags": [
-        "klassdelning",
-        "skolklasser",
-        "elever",
-        "utbildning"
+      "headline": "Motion om att halvera konsultkostnaderna avslagen",
+      "human_headline": "Kommun vägrar skära ner på konsultköpen",
+      "summary": "Vänsterpartiet motionerade för att kommundirektören ska halvera kostnaderna för köp av konsulttjänster. Kommunledningen avslog motionen med motiveringen att konsulter är nödvändiga för att bemanna verksamheten med rätt kompetens.",
+      "plain_language_summary": "Vänstern ville att kommunen köper hälften så mycket hjälp från privata konsulter. Ledningen sa nej för att de behöver dessa tjänster.",
+      "relevance": "Påverkar kommunens ekonomi och utgiftsstruktur samt möjligheten att bemanna verksamheter.",
+      "detail": "Martha Wicklund (V) och fem andra vänsterpartister motionerade för att ge kommundirektören i uppdrag att halvera kostnaderna för köp av konsulttjänster. Motionen anmäldes 12 december 2023.\n\nKommunledningsförvaltningens bedömning är att motionen ska avslås. Kommunen ska bemanna med kompetens utifrån verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning, vilket bedöms minimera behovet av konsulttjänster. När konsulter avropas bedöms det vara nödvändigt utifrån verksamhetens behov.\n\nVänsterpartiet reserverade sig mot avslaget.",
+      "category": "naringsliv",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "kommunanstallda"
       ],
-      "id": "2025-03-18_ko_59"
-    },
-    {
-      "headline": "Motion om halvering av konsultkostnader avslogs",
-      "summary": "Kommunstyrelsen avslog Västerpartiet motioner om att halvera kostnaderna för köp av konsulttjänster.",
-      "detail": "Martha Wicklund (V) och fyra övriga Västerpartiet-ledamöter motionerade för att ge kommundirektören i uppdrag att halvera kostnaderna för köp av konsulttjänster. Kommunledningen föreslog avslag.\n\nMotiveringen var att kommunen bemanning bör baseras på kompetens efter verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning för att minimera behovet av konsulttjänster. När kommunen avropar konsulttjänster bedöms detta vara nödvändigt utifrån verksamhetens behov av specifik kompetens.\n\nCristian Rehn Janowicz (V) och David Larsson (SD) yrkal bifall till motionen.",
-      "category": "budget",
-      "contested": true,
-      "location": null,
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 58",
-      "quote": "Kommunen ska bemanna med kompetens utifrån verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning, vilket bedöms bidra till att minimera kommunens behov av att avropa konsulttjänster.",
+      "quote": "Kommunen ska bemanna med kompetens utifrån verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning.",
       "quote_page": "s. 13",
       "voting": {
         "for": [
           "S",
           "M",
-          "C"
+          "C",
+          "L",
+          "MP"
         ],
-        "against": [
+        "against": [],
+        "abstained": [
           "V",
-          "SD"
+          "SD",
+          "ÖrP",
+          "KD"
         ],
-        "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
-        "konsulter",
+        "konsulttjänster",
         "kostnader",
-        "budget",
-        "effektivitet"
+        "motion",
+        "Västerpartiet"
       ],
+      "confidence": "hog",
       "id": "2025-03-18_ko_58"
     },
     {
-      "headline": "Motion om enprocentsregeln för konst delvis tillgodosedd",
-      "summary": "Kommunstyrelsen beslutade att Västerpartiet motions första yrkande om samverkan kring konstverks placering anses tillgodosett, men avslog kravet på att fem procent av medlen ska användas till samverkansarbete.",
-      "detail": "Martha Wicklund (V) och flera övriga Västerpartiet-ledamöter motionerade för två åtgärder gällande enprocentsregeln (där en procent av byggkostnaderna används för konst): (1) att samverkan kring placering och ämne för konstverk ska vara regel, och (2) att fem procent av enprocent-medlen ska användas till samverkansarbete.\n\nKultur- och fritidsnämnden bedömde att det första yrkandet redan är tillgodosett eftersom samverkan redan är ett stående och grundläggande inslag. För det andra yrkandet föreslog nämnden avslag med motiveringen att en förskriven samverkansandel på fem procent kan begränsa konstnärlig frihet och avskräcka vissa konstnärer från att söka uppdrag, vilket minskar mångfalden av sökande och konstnärligt uttryck.\n\nCristian Rehn Janowicz (V) yrkal fullt bifall till motionen medan David Larsson (SD), Karolina Wallström (L) och Markus Allard (ÖrP) yrkal avslag.",
+      "headline": "Motion om nya klassdelningstal för skolor avslagen",
+      "human_headline": "Kommunen säger nej till mindre klasser i skolorna",
+      "summary": "Mats-Olof Liljegren (L) motionerade för att införa nya klassdelningstal: max 20 elever från förskoleklass, max 25 från årskurs 4 och max 30 från årskurs 7. Grundskolenämnden avslog motionen med motiveringen att nuvarande flexibel process fungerar bra.",
+      "plain_language_summary": "En liberal politiker ville att klasserna skulle vara mindre för bättre undervisning. Skolan sa nej för att de redan kan anpassa klasserna efter behov.",
+      "relevance": "Påverkar elever, föräldrar och lärare genom klasssammansättning och lärkvalitet.",
+      "detail": "Mats-Olof Liljegren (L) motionerade för att Kommunfullmäktige ger förvaltningen i uppgift att utreda införande av nya klassdelningstal:\n- Max 20 elever per klass från förskoleklass\n- Max 25 elever per klass från årskurs 4\n- Max 30 elever per klass från årskurs 7\n\nFörskole- och grundskoleförvaltningen bedömer att motionen bör avslås. Förvaltningen har idag en funktionell och bra process som ger flexibilitet för att anpassa skolans organisation och resurser efter elevers behov. Processerna tar hänsyn till lokalernas förutsättningar, tillgång till behöriga lärare (vilket är avgörande för god undervisning) och budgetbalans.\n\nLiberalerna, Vänsterpartiet och SD reserverade sig mot avslaget.",
+      "category": "skola",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "tydlig",
+      "public_interest_score": 4,
+      "target_group": [
+        "elever",
+        "vardnadshavare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "medel",
+      "has_vote": true,
+      "has_reservation": true,
+      "paragraph_ref": "§ 59",
+      "quote": "Förvaltningen idag har en funktionell och bra process som ger förvaltningen och rektorer möjlighet att vara flexibla och anpassa skolans organisation och resurser efter elevers behov.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "V",
+          "SD",
+          "ÖrP",
+          "KD"
+        ],
+        "result": "Avslagen"
+      },
+      "tags": [
+        "klassdelningstal",
+        "skolklass",
+        "motion",
+        "elever",
+        "undervisning"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_59"
+    },
+    {
+      "headline": "Motion om enprocentsregeln delvis tillgodosedd, delvis avslagen",
+      "human_headline": "Konst i byggnader redan samordnat, extra pengar till samverkan avslagit",
+      "summary": "Martha Wicklund (V) motionerade för att utveckla enprocentsregeln (konst vid byggnader). Motionens förslag om samverkan vid konstverk anses redan tillgodosett, men förslaget att använda fem procent av medlen till samverkansarbete avsloges.",
+      "plain_language_summary": "Vänstern ville att mer pengar från konstregeln går till att samordna arbetet med konst i byggnader. Det första förslaget redan görs, men det andra förslaget om extra pengar avslogs.",
+      "relevance": "Påverkar hur konst integreras i byggprocesser och hur mycket resurser som läggs på detta.",
+      "detail": "Martha Wicklund (V) och fem medmotionärer från V motionerade för två förändringar av enprocentsregeln:\n1. Samverkan vid placering och ämne för konstverk ska vara regel\n2. Fem procent av medlen från enprocentsregeln ska användas till samverkansarbete\n\nKultur- och fritidsnämnden bedömer att samverkan gällande placering och ämne redan är ett stående och grundläggande inslag vid framtagandet av konstverk, vilket tillgodoser det första förslaget.\n\nSamverkan integreras redan på flexibelt sätt vilket främjar både konstnärlig kvalitet och förankring hos verksamheterna. Att alltid ställa krav på samverkan i förutbestämd utsträckning kan begränsa konstnärlig frihet och avskräcka konstnärer, vilket minskar mångfald. Därför avslogs det andra förslaget.\n\nVänsterpartiet och andra reserverade sig mot avslagen på det andra förslaget.",
       "category": "kultur",
-      "contested": true,
-      "location": null,
+      "decision_type": "motion",
+      "outcome": "delvis_bifallen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 2,
+      "target_group": [
+        "foreningar",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 60",
-      "quote": "Att alltid ställa krav på samverkan i en förutbestämd utsträckning kan begränsa den konstnärliga friheten och avskräcka vissa konstnärer från att söka uppdrag, vilket minskar mångfalden av sökande och uttryck.",
+      "quote": "Samverkan integreras idag på ett flexibelt sätt, vilket främjar både konstnärlig kvalitet och förankring hos verksamheterna.",
       "quote_page": "s. 15",
       "voting": {
         "for": [
           "S",
           "M",
-          "C"
+          "C",
+          "L",
+          "MP"
         ],
         "against": [],
-        "abstained": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP",
+          "KD"
+        ],
         "result": "Delvis bifall"
       },
       "tags": [
-        "konst",
         "enprocentsregeln",
-        "kultur",
-        "samverkan"
+        "konst",
+        "samverkan",
+        "motion"
       ],
+      "confidence": "hog",
       "id": "2025-03-18_ko_60"
     },
     {
-      "headline": "Motion om välfärdsbrottslighet ansågs tillgodosedd",
-      "summary": "Kommunstyrelsen bedömde att Västerpartiet motion om att bekämpa oseriösa välfärdsaktörer var tillgodosedd genom redan etablerad policy och ny samordnartjänst.",
-      "detail": "Martha Wicklund (V) motionerade för att tillsätta en särskild tjänst för att granska privata aktörer inom välfärden för att minimera fusk och oseriösa aktörer. Kommunledningen bedömde att motionen redan var tillgodosedd.\n\nKommunledningen påpekade att det redan finns etablerade riktlinjer för hur kommunen avtalar och följer upp avtal med privata utförare enligt lagen om offentlig upphandling (LoU) och lagen om valfrihet (LoV). Dessa utförare regleras genom hälso- och sjukvårdslagen, socialtjänstlagen och lagen om stöd och service.\n\nArbetat mot välfärdsbrottslighet ingår i kommunledningens lanserade arbete på området. Vidare har en samordnare för att hålla samman arbetet mot välfärdsbrottslighet anställts på Säkerhetsavdelningen. Kommunledningen är överens om att utveckla kontrollsystemen så att dåligt skötande aktörer snabbare kan stängas av.\n\nCristian Rehn Janowicz (V) yrkal fullt bifall till motionen.",
-      "category": "ovrigt",
-      "contested": true,
-      "location": null,
+      "headline": "Motion om att bekämpa oseriösa välfärdsaktörer tillgodosedd",
+      "human_headline": "Kommunen säger arbetet mot fusking redan pågår",
+      "summary": "Martha Wicklund (V) motionerade för att tillsätta en tjänst för granskning av privata välfärdsaktörer. Kommunledningen bedömer motionen redan tillgodosedd genom befintliga riktlinjer och ett nyligen ansatt arbete mot välfärdsbrottslighet.",
+      "plain_language_summary": "Vänstern ville att kommunen anställer någon som granskar privata välfärdsföretag för att stoppa fusking. Ledningen säger att detta redan görs genom befintliga rutiner och ett nytt arbete.",
+      "relevance": "Påverkar invånare som använder välfärdstjänster från privata aktörer genom möjligheten att få högkvalitativ och bedräglig-fri service.",
+      "detail": "Martha Wicklund (V) motionerade för att inledningsvis tillsätta en tjänst som granskar privata aktörer inom välfärden för att minimera fusket och oseriösa aktörer. Välfärden är en viktig bärpelare i samhället och är särskilt viktig att kunna lita på.\n\nKommunledningen välkomnar diskussionen men bedömer motionen redan tillgodosedd. Idag finns etablerade riktlinjer för avtalssamverkan med privata utförare. Dessa omfattas av relevanta lagar (LoV, LoU, HSL, SoL, LSS).\n\nArbetar mot fusk och oseriösa aktörer ingår i kommunledningens lanserade arbete mot välfärdsbrottslighet. En samordnare för detta arbete har anställts på Säkerhetsavdelningen. Arbetet behövs i samtliga förvaltningar och kommunledningen arbetar på att utveckla kontrollsystemen så att misskötsamma aktörer snabbare kan stängas av.\n\nVänsterpartiet reserverade sig mot bedömningen att motionen redan är tillgodosedd.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "tillgodosedd",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "begransad",
+      "public_interest_score": 3,
+      "target_group": [
+        "aldre",
+        "invanare"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "lag",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 61",
-      "quote": "Arbetet mot fusk och oseriösa aktörer ingår i kommunledningens lanserade arbete mot välfärdsbrottslighet. Vidare är kommunledningen överens om att utveckla kontrollsystemen så att den aktör som missköter sig snabbare ska kunna stängas av.",
+      "quote": "Att arbeta mot fusk och oseriösa aktörer ingår i kommunledningens lanserade arbete mot välfärdsbrottslighet.",
       "quote_page": "s. 17",
       "voting": {
         "for": [
@@ -273,24 +604,47 @@
           "C"
         ],
         "against": [],
-        "abstained": [],
-        "result": "Bifall"
+        "abstained": [
+          "V",
+          "L",
+          "SD",
+          "ÖrP",
+          "KD"
+        ],
+        "result": "Tillgodosedd"
       },
       "tags": [
-        "välfärdsbrottslighet",
-        "fusk",
-        "kontroll",
-        "privata utförare"
+        "välfärd",
+        "fusking",
+        "privata aktörer",
+        "välfärdsbrottslighet"
       ],
+      "confidence": "hog",
       "id": "2025-03-18_ko_61"
     },
     {
-      "headline": "Motion om välfärd i kommunal regi avslogs – LoV behålls",
-      "summary": "Kommunstyrelsen avslog Västerpartiet motion om att avsluta lagen om valfrihet (LoV) och sluta med vinstdrivna välfärdsföretag.",
-      "detail": "Martha Wicklund (V) motionerade för att avsluta tillämpningen av LoV (lagen om valfrihet) samt att avsluta entreprenader med vinstdrivna företag. Kommunledningen föreslog avslag.\n\nKommunledningen poängterade att kommunen regelbundet följer upp kvaliteten på externa aktörer på samma sätt som verksamhet bedrivs i intern regi. Enligt tidigare gjorda uppföljningar bedöms kvaliteten som bra.\n\nDen reglerade av kommunledningen överenskommelse mellan Socialdemokraterna, Moderaterna och Centerpartiet föreskriver att LoV ska behållas under mandatperioden. Detta är en central del av kommunledningens styrning.\n\nCristian Rehn Janowicz (V) yrkal bifall till motionen.",
-      "category": "politik",
-      "contested": true,
-      "location": null,
+      "headline": "Motion om välfärd i kommunal regi avslagen",
+      "human_headline": "Kommunen behåller privata välfärdsaktörer trots vänstern vill slopa dem",
+      "summary": "Martha Wicklund (V) motionerade för att avsluta LoV-systemet och sluta med privata välfärdsföretag. Kommunledningen avslog motionen och förklarade att man enligt överenskommelsen mellan S, M och C behålls LoV under mandatperioden.",
+      "plain_language_summary": "Vänstern ville att kommunen slutar att köpa välfärdstjänster från privata vinstdrivande företag. Ledningen sa nej för att de tre regeringspartierna enades om att behålla systemet.",
+      "relevance": "Påverkar hur välfärdstjänster organiseras och tillhandahålls till invånare samt vilka utförare som levererar tjänster.",
+      "detail": "Martha Wicklund (V) motionerade för att avsluta LoV (lag om valfrihet) och sluta med entreprenader med vinstdrivna företag.\n\nOm LoV innebär att upphandlande myndigheter konkurrensutsätter delar av verksamheten genom valfrihetssystem där brukaren väljer bland leverantörerna.\n\nKommunen följer upp kvaliteten på externa aktörer på samma sätt som intern verksamhet. Tidigare uppföljningar visar att kvaliteten är bra.\n\nKommunledningen arbetar enligt överenskommelsen mellan S, M och C där man enats om att behålla LoV under mandatperioden. Vänsterpartiet reserverade sig mot avslaget.",
+      "category": "omsorg",
+      "decision_type": "motion",
+      "outcome": "avslagen",
+      "routine": false,
+      "routine_reason": null,
+      "impact_level": "stor",
+      "public_interest_score": 4,
+      "target_group": [
+        "aldre",
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "hog",
+      "has_vote": true,
+      "has_reservation": true,
       "paragraph_ref": "§ 62",
       "quote": "Kommunledningen arbetar enligt den överenskommelse som ingåtts mellan S, M och C och där vi enats om att behålla LOV under mandatperioden.",
       "quote_page": "s. 18",
@@ -300,52 +654,326 @@
           "M",
           "C"
         ],
-        "against": [
-          "V"
+        "against": [],
+        "abstained": [
+          "V",
+          "L",
+          "SD",
+          "ÖrP",
+          "KD"
         ],
-        "abstained": [],
-        "result": "Avslaget"
+        "result": "Avslagen"
       },
       "tags": [
         "LoV",
         "välfärd",
-        "privata utförare",
-        "vinstdrivna företag"
+        "privata aktörer",
+        "vinstdrivna",
+        "motion"
       ],
+      "confidence": "hog",
       "id": "2025-03-18_ko_62"
+    },
+    {
+      "headline": "Remittering av fem nya motioner",
+      "human_headline": "Fem nya motioner skickade vidare för handläggning",
+      "summary": "Fem motioner från olika partier remitterades för handläggning: om socialt företagande (KD), styrdokument (SD), kulturarvsfond (SD), Kilsmo-skolan (SD) och skolsäkerhet (L).",
+      "plain_language_summary": "Fem nya förslag från politiker skickades vidare till relevanta nämnder för att granskas.",
+      "relevance": null,
+      "detail": "Följande motioner från Kommunfullmäktiges sammanträde 25 februari 2025 remitterades:\n\n1. Motion från Susanne Lindholm Henningsson (KD) om använd socialt företagande som arbetsmarknadsinsats - remitteras till Gymnasie- och arbetsmarknadsnämnden\n2. Motion från Carola Sunesson (SD) och Bo Ammer (SD) om att rensa bland styrdokument - bereds av Kommunstyrelsen\n3. Motion från Carola Sunesson (SD) och Habib Brini (SD) om kulturarvsfond för lokalt, svenskt historiskt kulturarv - remitteras till Kultur- och fritidsnämnden\n4. Motion från Helena Ståhl (SD) och Bjarne Bäckström (SD) om att återöppna Kilsmo - remitteras till Grundskolenämnden\n5. Motion från Karolina Wallström (L) och Mats-Olof Liljegren (L) om att öka tryggheten på skolorna - remitteras till Grundskolenämnden och Gymnasie- och arbetsmarknadsnämnden",
+      "category": "formellt",
+      "decision_type": "remiss",
+      "outcome": "aterremitterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 64",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "motioner",
+        "remittering",
+        "nämnderna"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_64"
+    },
+    {
+      "headline": "Rapport från Örebro Rådhus AB läggs till handlingarna",
+      "human_headline": "Bolagsrapport noterad",
+      "summary": "Rapport från Örebro Rådhus AB och dess dotterbolag noterades. Rapporten handlar om moderbolagets och dotterbologens verksamhet.",
+      "plain_language_summary": "En rapport från ett kommunägt företag presenterades och lämnades till handlingarna.",
+      "relevance": null,
+      "detail": "Styrelsen i Örebro Rådhus AB ska enligt ägardirektivet hålla Kommunstyrelsen informerad om egen verksamhet och dotterbolags verksamhet samt åtgärder av större vikt. Ekonomiska resultat och investeringar redovisas i delårsrapporter. Årsredovisningar redovisas i sin helhet till Kommunstyrelsen och Kommunfullmäktige.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 65",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Örebro Rådhus AB",
+        "bolagsrapport",
+        "dotterbolag"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_65"
+    },
+    {
+      "headline": "Rapport över finansverksamheter februari 2025 läggs till handlingarna",
+      "human_headline": "Finansrapport noterad",
+      "summary": "Rapport över finansverksamheter för februari 2025 noterades.",
+      "plain_language_summary": "En rapport om kommunens finansiella transaktioner noterades.",
+      "relevance": null,
+      "detail": "Kommunledningsförvaltningen anmäler rapport över finansverksamheter för februari 2025.",
+      "category": "formellt",
+      "decision_type": "rapport",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 66",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "finansverksamheter",
+        "rapport"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_66"
+    },
+    {
+      "headline": "Anmälan av delegationsbeslut läggs till handlingarna",
+      "human_headline": "Delegationsbeslut noterade",
+      "summary": "Anmälan av delegationsbeslut fattade under februari 2025 läggs till handlingarna.",
+      "plain_language_summary": "Beslut som tjänstemän och politiker fattade på delegation noterades.",
+      "relevance": null,
+      "detail": "Alla beslut fattade med stöd av delegation av tjänsteperson, ordförande, presidium eller utskott ska anmälas till Kommunstyrelsen på närmast följande sammanträde enligt 6 kap. 40 § KL. Det är först efter återrapporteringen som delegationsbesluten kan vinna laga kraft. Det är också ett sätt att hålla ledamöter och ersättare informerade.",
+      "category": "formellt",
+      "decision_type": "delegation",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "delegationsarende",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 67",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "delegation",
+        "beslut",
+        "anmälan"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_67"
+    },
+    {
+      "headline": "Anmälan av inkomna handlingar läggs till handlingarna",
+      "human_headline": "Inkomna skrivelser noterade",
+      "summary": "Anmälan av inkomna relevanta handlingar läggs till handlingarna. Handlingarna omfattar överenskommelse om psykisk hälsa, bostadsförsörjning, regionala möten, systemanalys och patientnämndsrapport.",
+      "plain_language_summary": "Olika brev och rapporter från externa organisationer noterades.",
+      "relevance": null,
+      "detail": "Kommunledningsförvaltningen anmäler varje månad handlingar som inkommit och bedöms relevanta för Kommunstyrelsen. Denna månad ingår: SKR överenskommelse mellan staten och Sveriges Kommuner och Regioner 2025 om psykisk hälsa och suicidprevention, Hyresgästföreningen skrivelse om bostadsförsörjning, Regionalt samverkansråds protokoll, Mälardalsrådets systemanalys för Stockholm-Mälarregionen och Patientnämndens verksamhetsberättelse 2024.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 68",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "handlingar",
+        "anmälan",
+        "psykisk hälsa",
+        "bostadsförsörjning"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_68"
+    },
+    {
+      "headline": "Kommundirektörens rapport läggs till handlingarna",
+      "human_headline": "Kommundirektören rapporterar om förvaltningen",
+      "summary": "Kommundirektörens rapport om nyheter inom förvaltningen för januari och februari 2025 läggs till handlingarna.",
+      "plain_language_summary": "Ledaren för kommunförvaltningen rapporterade om nyheterna.",
+      "relevance": null,
+      "detail": "Kommundirektören redogör i rapport för nyheter inom förvaltningen för januari och februari 2025.",
+      "category": "formellt",
+      "decision_type": "informationsarende",
+      "outcome": "noterad",
+      "routine": true,
+      "routine_reason": "aterkommande rapport",
+      "impact_level": "ingen",
+      "public_interest_score": 1,
+      "target_group": [
+        "alla"
+      ],
+      "geographic_scope": "hela_kommunen",
+      "location_name": null,
+      "controversial_level": "ingen",
+      "has_vote": false,
+      "has_reservation": false,
+      "paragraph_ref": "§ 69",
+      "quote": null,
+      "quote_page": null,
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "kommundirektör",
+        "rapport",
+        "förvaltning"
+      ],
+      "confidence": "hog",
+      "id": "2025-03-18_ko_69"
     }
   ],
   "motions_of_interest": [
     {
-      "title": "Motion från Susanne Lindholm Henningsson (KD) om använd socialt företagande som arbetsmarknadsinsats",
-      "party": "KD",
-      "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden"
-    },
-    {
-      "title": "Motion från Carola Sunesson (SD) och Bo Ammer (SD) om att rensa bland styrdokument",
-      "party": "SD",
-      "status": "Bereds av Kommunstyrelsen"
-    },
-    {
-      "title": "Motion från Carola Sunesson (SD) och Habib Brini (SD) om kulturarvsfond för det lokala, svenska, historiska kulturarvet",
-      "party": "SD",
-      "status": "Remitterad till Kultur- och fritidsnämnden"
-    },
-    {
-      "title": "Motion från Helena Ståhl (SD) och Bjarne Bäckström (SD) om att återöppna Kilsmo",
-      "party": "SD",
-      "status": "Remitterad till Grundskolenämnden"
-    },
-    {
-      "title": "Motion från Karolina Wallström (L) och Mats-Olof Liljegren (L) om att öka tryggheten på våra skolor",
+      "title": "Handlingsplan för suicidprevention",
       "party": "L",
-      "status": "Remitterad till Grundskolenämnden och Gymnasie- och arbetsmarknadsnämnden"
+      "status": "besvarad"
+    },
+    {
+      "title": "Redovisa hela lönekostnaden med arbetsgivaravgift",
+      "party": "SD",
+      "status": "avslagen"
+    },
+    {
+      "title": "Halvera kostnaderna för köp av konsulttjänster",
+      "party": "V",
+      "status": "avslagen"
+    },
+    {
+      "title": "Nya klassdelningstal för bättre måluppfyllelse",
+      "party": "L",
+      "status": "avslagen"
+    },
+    {
+      "title": "Utveckla enprocentsregeln för konst",
+      "party": "V",
+      "status": "delvis_bifallen"
+    },
+    {
+      "title": "Få bukt med oseriösa aktörer i välfärden",
+      "party": "V",
+      "status": "tillgodosedd"
+    },
+    {
+      "title": "Välfärd i kommunal regi",
+      "party": "V",
+      "status": "avslagen"
+    },
+    {
+      "title": "Använd socialt företagande som arbetsmarknadsinsats",
+      "party": "KD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Rensa bland styrdokument",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Kulturarvsfond för lokalt, svenskt historiskt kulturarv",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Återöppna Kilsmo",
+      "party": "SD",
+      "status": "under_beredning"
+    },
+    {
+      "title": "Öka tryggheten på våra skolor",
+      "party": "L",
+      "status": "under_beredning"
     }
   ],
-  "skipped_items_count": 9,
   "organ": "Kommunstyrelsen",
   "meeting_date": "2025-03-18",
   "pdf_path": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf",
   "status": "ok",
-  "decisions_count": 10
+  "decisions_count": 20
 }
