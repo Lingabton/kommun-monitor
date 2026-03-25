@@ -1,0 +1,46 @@
+{
+  "id": "2023-06-05_ko_138",
+  "headline": "Yttrande om regional vattenförsörjningsplan för Örebro län",
+  "summary": "Kommunstyrelsen antar yttrande över länsstyrelsens förslag till regional vattenförsörjningsplan och önskvärdhet av mer progressiva åtgärder.",
+  "detail": "Länsstyrelsen i Örebro län har utarbetat en regional vattenförsörjningsplan baserad på en kartläggning av hot och möjligheter för länets vattenförsörjning.\n\nMiljö- och stadsbyggnadsförvaltningen ställer sig uppmuntrande till planen men föreslår förbättringar. De noterar att planens åtgärder till stor del redan är inarbetade i kommunens rutiner enligt gällande lagstiftning. Förvaltningen efterfrågar mer progressiva, framåtsträvande och vägvisande åtgärder för att möta framtida utmaningar.\n\nDe nya åtgärder som påverkar Örebro kommun handlar bland annat om redovisning av fördröjningsåtgärder i planeringsprocessen, användning av tekniskt vatten och utökning av livsmedelstillsynen av dricksvatten. Remissvaret skickades till länsstyrelsen senast 9 juni 2023.",
+  "category": "miljo",
+  "contested": false,
+  "location": "Örebro län",
+  "paragraph_ref": "§ 138",
+  "tags": [
+    "vattenförsörjning",
+    "miljö",
+    "länsstyrelsen",
+    "dricksvatten"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "För att vara en plan som syftar till att i framtiden klara av de utmaningar som finns för den regionala dricksvattenförsörjningen saknas åtgärder som är progressiva, framåtsträvande och vägvisande.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2023-06-05_Kommunstyrelsen",
+    "date": "2023-06-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-05_ko_138.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-05_ko_138/"
+  }
+}

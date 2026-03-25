@@ -1,0 +1,39 @@
+{
+  "id": "2024-08-27_ko_158",
+  "headline": "TABB-familjestödjare: Motion anses besvarad, ej permanentad",
+  "summary": "Motion från L om att permanenta familjestödjare enligt TABB-modellen anses besvarad men permanentering avslås.",
+  "detail": "Gunilla Werme (L) motionerade för att permanenta rollen som familjestödjare enligt TABB-modellen som del i hälsofrämjande arbete för barn och ungdomar.\n\nKommunledningsförvaltningen föreslår att motionen anses besvarad eftersom dialog pågår men fler frågor behöver utredas innan permanentering kan beslutas.\n\nKarolina Wallström (L), Susanne Lindholm Henningsson (KD) och Martha Wicklund (V) yrkar bifall till motionen.\n\nReservationer från L, KD och V.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 158",
+  "tags": [
+    "TABB",
+    "familjestödjare",
+    "psykisk hälsa",
+    "skolor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Dialog om hur lärdomarna från TABB bäst tillvaratas pågår, men det finns fortfarande frågor kvar att utforska innan beslut kan fattas.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-08-27_Kommunstyrelsen",
+    "date": "2024-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-27_ko_158.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-27_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-27_ko_158/"
+  }
+}

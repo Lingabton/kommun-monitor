@@ -1,0 +1,46 @@
+{
+  "id": "2025-02-25_ko_56",
+  "headline": "Motion om kommunal bojkott av israeliska varor avslagen",
+  "summary": "Kommunfullmäktige avslog Vänsterpartiets motion om att införa en kommunal bojkott av israeliska varor och tjänster.",
+  "detail": "Martha Wicklund (V) m.fl. inlämnade motion om att Örebro kommun ska kartlägga vilka länder det köper varor och tjänster från, och att tills vidare inte köpa in israeliska varor och tjänster. Ärendet bordlades två gånger före behandlingen.\n\nKommunstyrelsen föreslog avslag. John Johansson (S) och Kasper Avenbrand (KD) yrkade bifall till avslaget. Martha Wicklund (V) yrkade bifall till motionen. Helena Ståhl (SD) yrkade bifall till motionens första att-sats (kartläggning) men avslag på andra (bojkott). Bo Ammer (SD) och Markus Allard (ÖrP) stödde Helena Ståhls yrkande.\n\nOrdföranden behandlade motionens två att-satser separat och fann att Kommunfullmäktige avslår båda. Vänsterpartiet reserverade sig. ÖrP reserverade sig angående första att-satsen.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 56",
+  "tags": [
+    "inköp",
+    "etik",
+    "Israel",
+    "bojkott"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "I motionen föreslår Vänsterpartiet att kommunen ska kartlägga vilka länder vi köper varor och tjänster från samt att Örebro kommun tills vidare inte köper in några israeliska varor och tjänster.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_56.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_56/"
+  }
+}

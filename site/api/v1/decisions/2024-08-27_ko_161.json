@@ -1,0 +1,35 @@
+{
+  "id": "2024-08-27_ko_161",
+  "headline": "Två nya motioner remitteras: Hederförtryck och kulturarvsvecka",
+  "summary": "Motion om krävställande strategi mot hedersförtryck bereds av Kommunstyrelsen. Kulturarvsvecka-motion remitteras till Kultur- och fritidsnämnden.",
+  "detail": "Kommunfullmäktige har remitterat två motioner från juni 2024:\n\n1. Motion från Helena Ståhl (SD) m.fl. om krävställande strategi mot hedersförtryck och hederskultur - bereds av Kommunstyrelsen.\n\n2. Motion från Carola Sunesson (SD) och Bo Ammer (SD) om att inrätta en årligt återkommande kulturarvsvecka - remitteras till Kultur- och fritidsnämnden.",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 161",
+  "tags": [
+    "hedersförtryck",
+    "kulturarv",
+    "motioner"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Motion från Helena Ståhl (SD) om krävställande strategi mot hedersförtryck och hederskultur bereds av Kommunstyrelsen.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2024-08-27_Kommunstyrelsen",
+    "date": "2024-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-27_ko_161.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-27_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-27_ko_161/"
+  }
+}

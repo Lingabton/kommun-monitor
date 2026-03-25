@@ -1,0 +1,46 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_218",
+  "headline": "Biotopskyddsområde på Ramshyttan 1:17 inrättat",
+  "summary": "Förslag till biotopskyddsområde på fastigheten Ramshyttan 1:17 antogs. Området skyddas långsiktigt för att bevara skyddsvärd skog.",
+  "detail": "En privatperson tog initiativ till att köpa en skyddsvärd skog från Sveaskog som personen önskade skulle få långsiktigt skydd. Personen hade initialt velat skänka skogen till Örebro kommun, men fastighetsregleringsfrågor gjorde att lösningen inte gick att genomföra. Köpet gick igenom och skogsområdet reglerades till en fastighet ägd av bland annat privatpersonen.\n\nNaturvårdsenheten tog fram förslag till att inrätta ett biotopskyddsområde på fastigheten. Ersättning till fastighetsägarna för detta regleras genom överenskommelse mellan Markplanerings- och exploateringsnämnden och fastighetets ägare.\n\nMarkplanerings- och exploateringsnämnden behandlade ärendet den 27 april 2023 och godkände överenskommelsen. Kommunfullmäktige antog förslaget enhälligt.",
+  "category": "miljö",
+  "contested": false,
+  "location": "Ramshyttan 1:17",
+  "paragraph_ref": "§ 218",
+  "tags": [
+    "biotopskydd",
+    "miljö",
+    "skog",
+    "naturvård"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Förslag till beslut om biotopskyddsområde på fastigheten Ramshyttan 1:17 i Örebro kommun antas.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_218.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_218/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2024-05-07_ko_97",
+  "headline": "Förändrade förutsättningar inför ÖSB 2026 antaget",
+  "summary": "Kommunstyrelsens analys av förändrade förutsättningar godtogs som planeringsunderlag inför budgetprocessen 2026-2029.",
+  "detail": "Som del av förberedelserna inför Övergripande strategier med budget ÖSB 2026 med plan för 2027-2029 antog kommunstyrelsen sin analys av nuläget. Analysen innehåller kostnadsjämförelse mot liknande kommuner och slutsatser om förändrade förutsättningar.\n\nUnderlagen kommer att användas senare tillsammans med planeringsförutsättningar som beslutas av Kommunstyrelsen i december 2024. I februari 2025 får nämnder möjlighet att respondera på innehållet.\n\nMarkus Allard (ÖrP) yrkade avslag. Helena Ståhl (SD) deltog inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 97",
+  "tags": [
+    "budget",
+    "ekonomi",
+    "planering",
+    "ÖSB"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Ärendet beskriver Kommunstyrelsens analys av nuläget i form av kostnadsjämförelse mot liknande kommuner samt slutsatser kring förändrade förutsättningar.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_97.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_97/"
+  }
+}

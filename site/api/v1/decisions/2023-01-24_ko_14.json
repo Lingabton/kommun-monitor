@@ -1,0 +1,47 @@
+{
+  "id": "2023-01-24_ko_14",
+  "headline": "Kulturarvsprojekt Örebrokällan avslogs som för stort och dyrt",
+  "summary": "Motion från Miljöpartiet om att digitalisera Örebrokällan genom skolorna avslog. Kommunen bedömde projektet för omfattande och kostsamt när stora delar av Stadsarkivet ännu inte digitaliserats.",
+  "detail": "Marcus Willén Ode (MP) föreslog att initiera kulturarvsprojektet Örebrokällan, uppdra åt Stadsarkiv och skolförvaltningen att utarbeta projektplan och avsätta medel.\n\nKommunstyrelsen bedömde att det är intressant långsiktigt, men alltför omfattande och dyrt i nuläget. Motion avslogs med 45 ja-röster mot 19 nej-röster. Flera partier reserverade sig för att projektet bör genomföras.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro stadsarkiv",
+  "paragraph_ref": "§ 14",
+  "tags": [
+    "kulturarv",
+    "digitalisering",
+    "utbildning",
+    "stadsarkiv"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "ÖrP",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "L",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Då stora delar av Stadsarkivet ännu inte har digitaliserats är det ett för stort och dyrt projekt att påbörja i detta läge.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2023-01-24_Kommunfullmäktige",
+    "date": "2023-01-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_14.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-24_ko_14/"
+  }
+}

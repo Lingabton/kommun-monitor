@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-18_ko_358",
+  "headline": "Motion om lokalhistoria i skolorna avslogs",
+  "summary": "Kommunfullmäktige avslog Helena Ståhls motion om att stärka undervisningen i kulturarv och lokalhistoria.",
+  "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) motionerade om att varje klass minst en gång per termin skulle besöka lokalhistoriskt betydelsefulla platser och att sakkunniga skulle inbjudas till skolklasser.\n\nKommunledningsförvaltningen bedömde att undervisningens innehåll beslutas av lärare enligt nationella läroplaaner, och motionens förslag innebar en mer styrd inriktning som inte fullt överensstämmer med lärarnas professionella frihet.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 358",
+  "tags": [
+    "lokalhistoria",
+    "kulturarv",
+    "skolundervisning",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "OrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionens förslag innebär en mer styrd inriktning av undervisningen, vilket inte fullt ut överensstämmer med lärarnas ansvar och professionella frihet.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_358.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_358/"
+  }
+}

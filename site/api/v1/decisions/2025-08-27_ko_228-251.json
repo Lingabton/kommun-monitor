@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-27_ko_228-251",
+  "headline": "Flera motioner om SD-förslag bordlades utan behandling",
+  "summary": "Totalt nio motioner från främst SD och några från andra partier bordlades på fullmäktigemötet utan att behandlas eller avgjordes.",
+  "detail": "Följande motioner bordlades utan slutlig behandling: Carola Sunesson (SD) om integrationssatsningar, Carola Sunesson och Habib Brini (SD) om beredskapsplan för kulturarv, Carola Sunesson (SD) om föräldrautbildning, Helena Ståhl (SD) om kulturarv och lokalhistoria i skolor, Helena Ståhl (SD) om hedersförtryck-strategi, Lea Strandberg (MP) om förbjudna böcker, Daniel Spiik (SD) om närkeslätt Örebro, Daniel Spiik (SD) om farbar stad, Habib Brini och Bo Ammer (SD) om farligt gods-transporter, Helena Ståhl och Habib Brini (SD) om snöröjning med långtidsarbetslösa, Helena Ståhl (SD) om kravställande försörjningsstöd, Bjarne Bäckström (SD) om motorgård, Carola Sunesson och Bo Ammer (SD) om kulturarvsvecka, Carola Sunesson (SD) om byggnadsvård-pris, Carola Sunesson och Habib Brini (SD) om medborgarinflytande på arkitektur, Johanna Reimfelt och Mats-Olof Liljegren (L) om cirkulationsbibliotek, Karolina Wallström (L) om offentliga toaletter, samt flera interpellationer.\n\nOrdinarie slutningen av mötet kl 16:45 gjorde att många ärenden inte kunde behandlas. En omröstning på förslag att bordlägga återstående ärenden röstades igenom med 46 ja-röster mot 18 nej-röster.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 228-251",
+  "tags": [
+    "bordläggning",
+    "SD-motioner",
+    "procedurell",
+    "tidspressn"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bordlad"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) finner att Kommunfullmäktige, med resultatet 46 ja-röster och 18 nej-röster, beslutar att resterande ärenden bordläggs.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-08-27_Kommunfullmäktige",
+    "date": "2025-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_228-251.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_228-251/"
+  }
+}

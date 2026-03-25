@@ -1,0 +1,43 @@
+{
+  "id": "2023-08-29_ko_181",
+  "headline": "Ledamotsinitiativ tomtkö behandlas av presidium",
+  "summary": "Initiativ om tomtkö remitterades till presidium istället för fullt behandling. ÖrP önskade helt debatt.",
+  "detail": "Karolina Wallström (L) och Susanne Lindholm (KD) inkom med ledamotsinitiativ föreslående att kommundirektören får uppdrag att återkomma med information om hur tomtkön i sin helhet ska fungera innan Mark- och exploateringsnämnden fattar nya beslut.\n\nMotiveringen var att tomtkön är en komplex situation med långkö, inbetalade avgifter och berör många örebroare.\n\nJohn Johansson (S) föreslögt att initiativet behandlas av presidium. Flera partier stödde detta (L, KD, SD, V). Markus Allard (ÖrP) yrkade bifall till själva initiativet men förlora. Presidium-behandling antogs.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 181",
+  "tags": [
+    "tomtkö",
+    "fastigheter",
+    "bostäder",
+    "medborgare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Det är en komplex situation med bland annat en lång kö, inbetalade avgifter och berör väldigt många örebroare.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_181.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_181/"
+  }
+}

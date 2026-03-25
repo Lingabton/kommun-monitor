@@ -1,0 +1,44 @@
+{
+  "id": "2025-04-08_ko_81",
+  "headline": "Motion: Upprättelse för konsten avslås",
+  "summary": "Sverigedemokraternas motion om medborgarinflytande kring offentlig konst och medborgarundersökning om befintlig konst avslås.",
+  "detail": "Helena Ståhl och Carola Sunesson (SD) lämnande motion om upprättelse för konsten. Motionen föreslog att kommunen undersöker en modell för betydande medborgarinflytande kring offentlig konst och utsmyckning. Vidare föreslogs att en medborgarundersökning genomförs avseende befintlig konst från och med 1970-talet.\n\nMotionen föreslog även att ny konst inte ska få utnyttja eller förändra etablerade konstverk eller delar av kulturarvet, såsom minnesvärda byggnader eller statyer.\n\nKultur- och fritidsnämnden föreslog avslag, vilket Kommunstyrelsen beslutade. Helena Ståhl reserverade sig och yrkade på bifall.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 81",
+  "tags": [
+    "konst",
+    "kultur",
+    "medborgarinflytande"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen föreslår att kommunen undersöker hur en modell för betydande medborgarinflytande kring offentlig konst och utsmyckning kan införas.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_81.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_81/"
+  }
+}

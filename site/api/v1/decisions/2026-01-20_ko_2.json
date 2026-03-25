@@ -1,0 +1,44 @@
+{
+  "id": "2026-01-20_ko_2",
+  "headline": "Region Stockholm blir delägare i Oslo-Stockholm 255 AB",
+  "summary": "Kommunstyrelsen godkänner att Region Stockholm blir ny delägare i infrastrukturbolaget Oslo-Stockholm 255 AB. Örebro Rådhus AB får i uppdrag att ingå nytt aktieägaravtal.",
+  "detail": "Oslo-Stockholm 255 AB är ett gemensamt bolag för sex ägare (Örebro, Region Värmland, Västerås, Region Västmanland, Karlstad och nu Region Stockholm). Bolaget ökar sitt aktiekapital med 8 800 kronor genom nyemission av 88 aktier. Region Stockholm tecknar 84 aktier och övriga ägare en aktie vardera, mot betalning av kvotvärde (100 kr) plus överkurs (800 kr per aktie).\n\nEfter nyemissionen kommer alla ägare att inneha 84 aktier vardera, vilket medför jämnare ägarstruktur. Aktieägaravtal, bolagsordning och ägardirektiv har reviderats i samråd mellan ägarna.\n\nÄrendet går vidare till kommunfullmäktige för slutligt beslut.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 2",
+  "tags": [
+    "Oslo-Stockholm 255 AB",
+    "Region Stockholm",
+    "ägarstruktur",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Region Stockholm har uttryckt en önskan att bli delägare i Oslo-Sthlm. Frågan diskuterades vid ägarmöte 2024-12-19 och samtliga ägares representanter ställde sig positiva till att bredda ägandet med Region Stockholm.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_2.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_2/"
+  }
+}

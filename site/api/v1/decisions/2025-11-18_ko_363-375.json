@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-18_ko_363-375",
+  "headline": "Många motioner om kulturarv och infrastruktur bordlagda",
+  "summary": "Elva motioner bordlades på sammanträdet, inklusive förslag om kulturarvsvecka, motorgård, cirkulationsbibliotek och fontänen på Järntorget.",
+  "detail": "Kommunfullmäktige bordlade följande motioner för senare behandling: \n\n§363 - Bjarne Bäckström (SD) motion om motorgård för ungdomar i centrala Örebro.\n\n§364 - Carola Sunesson och Bo Ammer (SD) motion om årlig kulturarvsvecka.\n\n§365 - Carola Sunesson (SD) motion om byggnadsvårdspris (bedömdes vara tillgodosedd).\n\n§366 - Carola Sunesson och Habib Brini (SD) motion om medborgarinflytande på arkitektur.\n\n§367 - Johanna Reimfelt och Mats-Olof Liljegren (L) motion om cirkulationsbibliotek för klassuppsättningar.\n\n§368 - Karolina Wallström m.fl. (L) motion om offentliga toaletter.\n\n§369 - Martha Wicklund (V) m.fl. motion om återbruk.\n\n§370 - Helena Ståhl (SD) m.fl. motion om SMR-områden i översiktsplanen.\n\n§371 - Karolina Wallström och Johanna Reimfelt (L) motion om färdtjänstens upplägg.\n\n§372 - Helena Ståhl (SD) m.fl. motion om raster för bön.\n\n§373 - Martha Wicklund (V) m.fl. motion om förtroendevaldas trygghet.\n\n§374 - Helena Ståhl (SD) m.fl. motion om Järntorgets fontän och parkering.\n\n§375 - Carola Sunesson och Bo Ammer (SD) motion om styrDocuments-rensning.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 363-375",
+  "tags": [
+    "bordlagda motioner",
+    "infrastruktur",
+    "kulturarv",
+    "Järntorget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "OrP"
+    ],
+    "abstained": [],
+    "result": "Bordläggning"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) föreslår kommunfullmäktige att resterande motioner på dagordningen bordläggs.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_363-375.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_363-375/"
+  }
+}

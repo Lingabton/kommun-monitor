@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-11_ko_425,426",
+  "headline": "Pilotprojekt skolfrukost – motioner tillgodosedda",
+  "summary": "Kommunfullmäktige anser två motioner om möjlighet för seniorer att äta i skolmatsalar tillgodosedda genom lanserat pilotprojekt.",
+  "detail": "Två motioner från KD och V föreslog att möjliggöra för seniorer att köpa och äta mat i skolmatsalar för att bekämpa ensamhet och erbjuda prisvärd mat.\n\nKommunledningen ämnar lansera pilotprojekt hösten 2024 på fyra skolor: Tullängsgymnasiet, Odenskolan, Vintrosaskolan och Västra Engelbrektsskolan. Projektet tar särskild hänsyn till landsbygdsfrågor.\n\nKommunledningen har inte frångått möjligheten att utvidga till fler skolor om resultaten blir positiva.\n\nKD, V och MP reserverade sig mot att motionerna endast ansågs tillgodosedda, och förespråkade istället fullt bifall.",
+  "category": "skola",
+  "contested": true,
+  "location": "Tullängsgymnasiet, Odenskolan, Vintrosaskolan, Västra Engelbrektsskolan",
+  "paragraph_ref": "§ 425,426",
+  "tags": [
+    "äldreomsorg",
+    "skolmatsalar",
+    "pilotprojekt",
+    "ensamhet",
+    "landsbygd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Pilotprojektet kommer att innebära att äldre ges möjlighet att köpa och äta mat på de utvalda skolorna som deltar i pilotprojektet.",
+  "quote_page": "s. 18-20",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_425,426.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_425,426/"
+  }
+}

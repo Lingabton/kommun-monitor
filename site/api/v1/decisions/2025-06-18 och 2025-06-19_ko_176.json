@@ -1,0 +1,40 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_176",
+  "headline": "Reservationsavtal med Epiroc för Ånsta 20:209 godkänt",
+  "summary": "Kommunfullmäktige godkänte reservationsavtal med Epiroc Rock Drills AB för distributionscenter på fastigheten Ånsta 20:209, beräknad köpeskilling omkring 40 miljoner kronor.",
+  "detail": "Epiroc Rock Drills AB avser att uppföra en ny byggnad för distributionscenter för egen verksamhet. Fastigheten direktanvisades till intressenten för att kunna utveckla och fortsätta bedriva denna del av verksamheten inom Örebro kommun.\n\nKöpeskillingen för den blivande fastigheten beräknas vara cirka 40 miljoner kronor. Med anledning av detta tas beslut om reservationsavtal av Kommunfullmäktige enligt gällande reglemente.\n\nMarkplanerings- och exploateringsnämndens ordförande får i uppdrag att underteckna reservationsavtalet, godkänna justeringar och förändringar på situationsplanen och byggnadens utformning, besluta om förlängning om nödvändigt, samt godkänna och underteckna överlåtelseavtal. Uppdraget omfattar även rätt att godkänna motsvarande överlåtelseavtal med annan aktör som Epiroc kan anvisa.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Ånsta 20:209",
+  "paragraph_ref": "§ 176",
+  "tags": [
+    "markanvisning",
+    "näringsliv",
+    "Epiroc",
+    "distributionscenter"
+  ],
+  "voting": {
+    "for": [
+      "S"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Köpeskillingen för den blivande fastigheten beräknas vara cirka 40 000 000 kronor och med anledning av detta skall beslut om tecknande av reservationsavtal tas av Kommunfullmäktige.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_176.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_176/"
+  }
+}

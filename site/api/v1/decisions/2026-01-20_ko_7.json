@@ -1,0 +1,40 @@
+{
+  "id": "2026-01-20_ko_7",
+  "headline": "Strategi mot våld återremitteras för förtydligande",
+  "summary": "Kommunstyrelsen återremitterar strategin mot våld i nära relationer, hedersrelaterat våld och sexuell exploatering för att förtydliga styrkedjan och beslutsmandaten enligt kommunens styrmodell.",
+  "detail": "Kommunstyrelsen hade fått förslag att anta styrdokumentet \"Ett tryggt Örebro fritt från våld – strategi mot våld i nära relationer, hedersrelaterat våld och förtryck samt sexuell exploatering.\"\n\nOrdförande John Johansson (S) yrkade återremiss med motiveringen att förtydliga styrkedjan och säkerställa att beslutsmandaten är tydligt definierade enligt kommunens fastställda styrmodell.\n\nKarolina Wallström (L) yrkade på återremiss för omarbetning i parlamentarisk samverkan under 2027. Helena Ståhl (SD) yrkade på att strategin delas upp i tre separata dokument. Martha Wicklund (V) stödde Wallströms yrkande.\n\nOrdförandes återremissyrkande bifölls. Strategin går vidare till kommunfullmäktige när den är färdigställd.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 7",
+  "tags": [
+    "våld i nära relationer",
+    "strategi",
+    "trygghetsfrågornaa",
+    "styrkedja",
+    "hederskultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Strategin syftar till att samla, stärka och systematisera Örebro kommuns arbete mot de tre våldstyperna där organisation för genomförande och uppföljning samt sex fokusområden är vägledande.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_7.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_7/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-06_ko_29",
+  "headline": "Tidsplan för budget 2026 antagen utan oktober-skjutning",
+  "summary": "Kommunstyrelsen antog tidsplan för Övergripande strategier och budget 2026. Sverigedemokraterna yrkade på att flytta beslutet till oktober 2024 men röstades ner.",
+  "detail": "Tidsplanen anger hållpunkter för leveranser i planeringsprocessen inför 2026 års budget. Slutgiltigt beslut om budget 2026 med plan 2027-2029 sker i juni 2025.\n\nForslaget bygger på samma grund som förra årets budget med ett beslut i juni 2025, men med en förändring för att öka kvalitén. En ny rutins föreslogs för att samla driftbehov från nämnder för att skapa helhetsbild av förändrade lokalbehov och investeringar.\n\nHelena Ståhl (SD) yrkade att flytta beslutet om budget 2025 till oktober 2024 och att tidsplanen anpassas därefter. Markus Allard (ÖrP) stödde detta. Men majoriteten genomförde kommunledningsförvaltningens förslag.\n\nHelena Ståhl, Bo Ammer (SD) och Markus Allard (ÖrP) reserverade sig.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 29",
+  "tags": [
+    "budget",
+    "tidsplan",
+    "2026"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tidplanen anger hållpunkter för leveranser i planeringsprocessen inför 2026 års budget. Beslut om Övergripande strategier med budget för 2026 med plan för 2027–2029 sker i juni 2025.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_29.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_29/"
+  }
+}

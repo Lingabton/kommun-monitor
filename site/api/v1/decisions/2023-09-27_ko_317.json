@@ -1,0 +1,41 @@
+{
+  "id": "2023-09-27_ko_317",
+  "headline": "Solcellsavgifter behålls - motion om slopad taxa avslogs",
+  "summary": "Fullmäktige avslogs en motion från Örebro för Förändring om att slopa bygglovsavgifterna för solceller. Kommunen menar att rådgivning är viktigare än avgiftsbortfall.",
+  "detail": "Markus Allard och Peter Springare från Örebro för Förändring motionerade för att Örebro kommun ska slopa bygglovsavgifterna för montering av solceller, det vill säga sätta avgifterna till 0 kronor.\n\nKommunfullmäktige avslogs motionen. Bedömningen var att det stöd via rådgivning och servicecenter som kommunen erbjuder för att hitta vägar där bygglov inte krävs för anläggning av solceller skapar större incitament för fler solcellsanläggningar än ett borttagande av bygglovsavgiften.\n\nÖrebro för Förändring reserverade sig mot beslutet. Sverigedemokraterna deltog inte i omröstningen. Motionen hade bordlats flera gånger under våren.",
+  "category": "miljö",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 317",
+  "tags": [
+    "solceller",
+    "miljö",
+    "förnybar energi",
+    "taxa",
+    "bygglov"
+  ],
+  "voting": {
+    "for": [
+      "S"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslagen"
+  },
+  "quote": "Det stöd via rådgivning och servicecenter som kommunen erbjuder för att hitta vägar där bygglov inte krävs för anläggning av solceller skapar större incitament för fler solcellsanläggningar än borttagande av bygglovsavgiften för solceller.",
+  "quote_page": "s. 13-14",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_317.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_317/"
+  }
+}

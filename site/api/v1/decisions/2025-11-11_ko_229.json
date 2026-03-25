@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-11_ko_229",
+  "headline": "Vänsterpartiet kritiserar försökt sänkning av straffbarhetsålder",
+  "summary": "Justitiedepartementet remitterade förslag om sänkt straffbarhetsålder för allvarliga brott till 13 år. V reserverar sig starkt och ifrågasätter effektiviteten.",
+  "detail": "I lagrådsremissen föreslås sänkning av straffbarhetsåldern från 15 till 13 år för brott med minimistraff fängelse fyra år eller mer, samt försök, förberedelse och stämpling till sådana brott. Regleringen skulle vara tidsbegränsad till fem år och träda i kraft 1 juli 2026.\n\nUtredningen motiverar förslaget med att systematisk och organiserad brottslighet ökar bland allt yngre personer.\n\nMartha Wicklund (V) yrkade på att i yttrandet tydligt avstyrka förslaget. Helena Ståhl (SD) yrkade på att ställa sig helt bakom lagrådsremissen. Markus Allard (ÖrP) yrkade på avslag. Kommunstyrelsen godkände det framlagda yttrandet utan inskärpningar.\n\nV reserverar sig starkt och argumenterar med att psykologisk forskning visar ungdomars begränsade impulskontroll och att strängare straff för ungdomar ofta leder till ökad återfallsrisk snarare än att förebygga brott.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 229",
+  "tags": [
+    "straffbarhetsålder",
+    "ungdomar",
+    "brottslighet",
+    "rättssäkerhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Yttrandet överlämnas till Justitiedepartementet. Paragrafen justeras omedelbar.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_229.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_229/"
+  }
+}

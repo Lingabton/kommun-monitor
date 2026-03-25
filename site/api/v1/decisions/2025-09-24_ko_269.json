@@ -1,0 +1,46 @@
+{
+  "id": "2025-09-24_ko_269",
+  "headline": "Motion om fossil reklam avslås",
+  "summary": "Kommunfullmäktige avslår motion från Lea Strandberg (MP) om att definiera fossil reklam och utvidga riktlinjer för reklamtyper på allmän plats.",
+  "detail": "Lea Strandberg (MP) föreslog två åtgärder: att Örebro kommun definierar vad som är fossil reklam, och att kommunens riktlinjer för reklamtyper som inte ska synas på allmän plats vidgas för att omfatta fossil reklam. Kommunledningen bedömer att det är svårt att definiera vad som är fossil reklam utan att en sådan definition blir väldigt snävande. Att förbjuda all fossil reklam skulle kunna medföra svårdefinierad bedömningsgrund, då det mesta i samhället kan argumenteras ha någon form av klimatpåverkan. Kommun har redan ett restriktivt förhållningssätt till reklam och ansvarar för väldigt få reklamytor på allmän plats. Motionen röstades ned med 43 ja-röster för avslag och 16 nej-röster för bifall.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 269",
+  "tags": [
+    "miljö",
+    "reklam",
+    "fossil"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V"
+    ],
+    "against": [
+      "MP",
+      "SD",
+      "ÖrP",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Att förbjuda all fossil reklam skulle kunna medföra en svårdefinierad bedömningsgrund att arbeta efter, då det mesta i samhället kan argumenteras ha någon form av klimatpåverkan.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_269.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_269/"
+  }
+}

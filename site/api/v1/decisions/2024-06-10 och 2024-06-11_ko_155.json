@@ -1,0 +1,41 @@
+{
+  "id": "2024-06-10 och 2024-06-11_ko_155",
+  "headline": "Delårsrapport 1 2024 godkänd, nämnder måste spara",
+  "summary": "Kommunfullmäktige godkände delårsrapporten för första kvartalet 2024 som visar ett resultat på 228 mnkr men en helårsprognos med 199 mnkr negativ budgetavvikelse. Nämnder måste vidta åtgärder för ekonomi i balans.",
+  "detail": "Delårsrapporten visade att kommunens finansiella ställning är ansträngd. Efter första tre månader låg resultatet på 228 mnkr, men helårsprognosen visar ett resultat på endast 127 mnkr mot en budget på 327 mnkr. Detta motsvarar en negativ budgetavvikelse på 199 mnkr.\n\nPrognosen inom nämnders löpande verksamhet visar en samlad negativ budgetavvikelse på 385 mnkr. Investeringsprognostiserades till 1 342 mnkr, vilket är 138 mnkr lägre än budget.\n\nKommunledningen yrka bifall till sitt förslag att godkänna rapporten och ge nämnder uppdrag att vidta åtgärder. Endast Örebropartiet yrka avslag. Kommunfullmäktige beslutade enligt Kommunstyrelsens förslag.\n\nElva partier deltog inte helt (Liberalerna, Vänsterpartiet och Miljöpartiet deltog inte). Örebropartiet reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 155",
+  "tags": [
+    "ekonomi",
+    "budget",
+    "nämnder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Samtliga nämnder som prognostiserar negativ budgetavvikelse för år 2024 ska vidta åtgärder för att säkra en långsiktigt hållbar ekonomi.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-06-10_Kommunfullmäktige",
+    "date": "2024-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-06-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-06-10 och 2024-06-11_ko_155.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-06-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-06-10 och 2024-06-11_ko_155/"
+  }
+}

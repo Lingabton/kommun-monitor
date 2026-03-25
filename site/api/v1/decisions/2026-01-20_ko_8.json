@@ -1,0 +1,46 @@
+{
+  "id": "2026-01-20_ko_8",
+  "headline": "HBTQI-riktlinje antas trots kritik från höger",
+  "summary": "Kommunstyrelsen antar riktlinje för arbetet med HBTQI-personers rättigheter. Sverigedemokraterna och Schwefelpartiet reserverar sig.",
+  "detail": "Kommunstyrelsen antar Riktlinje för arbetet med hbtqi-personers rättigheter i Örebro kommun enligt kommunledningsförvaltningens förslag.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) yrkade avslag på riktlinjen. Martha Wicklund (V) yrkade först på återremiss för att förtydliga avsnittet om uppföljning och revidering, men i sitt andra yrkande accepterade förslaget med ändringar i uppföljningsavsnittet.\n\nOrdförande John Johansson (S) ställde proposition och fann att kommunstyrelsen beslutar enligt kommunledningsförvaltningens förslag.\n\nRiktlinjen utgår från ett rättighetsbaserat förhållningssätt med integrerade perspektiv på jämställdhet, barnrätt och sårbarhetsfaktorer.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 8",
+  "tags": [
+    "HBTQI",
+    "rättigheter",
+    "mänskliga rättigheter",
+    "inkludering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "L",
+      "M",
+      "C",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "OrP",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Strategin utgår från ett rättighetsbaserat förhållningssätt där jämställdhet, barnrätt och sårbarhetsfaktorer är integrerade perspektiv.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_8.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_8/"
+  }
+}

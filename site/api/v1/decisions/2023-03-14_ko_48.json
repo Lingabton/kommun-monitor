@@ -1,0 +1,40 @@
+{
+  "id": "2023-03-14_ko_48",
+  "headline": "Planrelaterade kostnader för Aspholmen-projektet godkända",
+  "summary": "Kommunstyrelsen godkände plankostnader på 650 000 kronor för detaljplan avseende parkstråk och cirkulationsplatser i Aspholmen.",
+  "detail": "Som del av planprogrammet för Aspholmen/Nasta pågår detaljplanering för anläggningar på allmän plats. Kostnaderna för planavgift och utredningar uppgick till cirka 650 000 kronor för 2023.\n\nMarkus Allard (ÖrP) yrkade avslag. Helena Ståhl (SD) yrkade bifall till plankostnader för parkstråket och cirkulationsplatsen på södra vägen, men inte för cirkulationsplatsen på södra infartsleden, som hon ansåg skulle leda till trafikstockningar och buller.\n\nOrdföranden ställde förslagen mot varandra och Miljö- och stadsbyggnadsförvaltningens ursprungliga förslag antogs. Kostnaden finansierades genom Kommunstyrelsens medel för oförutsedda behov. Reservationer lämnades av ÖrP och SD.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Aspholmen, Örebro",
+  "paragraph_ref": "§ 48",
+  "tags": [
+    "Aspholmen",
+    "planering",
+    "parkstråk",
+    "cirkulationsplats",
+    "650 000 kronor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Exploateringsenheten efterfrågar utökade budgetmedel för att täcka kostnaderna för planläggning av marken för att möjliggöra byggnation av anläggningarna.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_48.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_48/"
+  }
+}

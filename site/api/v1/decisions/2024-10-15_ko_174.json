@@ -1,0 +1,46 @@
+{
+  "id": "2024-10-15_ko_174",
+  "headline": "Kommunövergripande lokalförsörjningsplan 2026-2036 antagen",
+  "summary": "Kommunstyrelsen antog långsiktig plan för kommunens lokalbehov under tioårsperioden med 70 prioriterade projekt.",
+  "detail": "Lokalförsörjningsplanen är handlingsplan som åskådliggör framtida lokalbehov och utgör underlag för investeringsprocessen. Under prognosperioden 2026-2036 prioriteras 70 lokalprojekt varav 30 är pågående. Lokalförsörjningsavdelningen (LFA) hanterar 40 projekt varav 18 är pågående. Planen synliggör prioriterade lokalprojekt kommunen avser arbeta med inom perioden.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 174",
+  "tags": [
+    "lokalförsörjning",
+    "investeringar",
+    "fastigheter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Under prognosperioden prioriteras 70 lokalprojekt varav 30 är pågående.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-10-15_Kommunstyrelsen",
+    "date": "2024-10-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-15_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_174.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-15_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-15_ko_174/"
+  }
+}

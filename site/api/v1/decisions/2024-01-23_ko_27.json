@@ -1,0 +1,40 @@
+{
+  "id": "2024-01-23_ko_27",
+  "headline": "Mobil fritidsgård - MP motion anses besvarad",
+  "summary": "Motion om att utreda mobil fritidsgård för ungdomar anses besvarad.",
+  "detail": "Lea Strandberg (MP) föreslog 2021-06-15 att kommunen ska utreda möjligheten för mobil fritidsgård.\n\nMotionen är besvarat enligt kommunledning. Ärendet hade bordlats flera gånger (27 september, 24 oktober, 22 november, 12 december 2023). Vid sammanträdet 2024-01-23 röstades det: bifall till Kommunstyrelsens förslag (motionen anses besvarad) mot bifall till själva motionen.\n\nKommunstyrelsen vann denna proposition. KD, Liberalerna, Vänsterpartiet och MP reserverade sig för bifall till motionen.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 27",
+  "tags": [
+    "fritidsgård",
+    "ungdom",
+    "kultur",
+    "mobilitet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Motionen anses besvarad.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_27.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_27/"
+  }
+}

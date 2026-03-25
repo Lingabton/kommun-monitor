@@ -1,0 +1,43 @@
+{
+  "id": "2025-05-21_ko_141",
+  "headline": "Taxa för alkoholtillstånd reviderad från 1 juni",
+  "summary": "Kommunfullmäktige antog reviderad taxa för prövning och tillsyn enligt alkohollagen. Gårdsförsäljning av alkoholdrycker får samma prövningsavgift som restauranger.",
+  "detail": "Den som vill bedriva gårdsförsäljning av alkoholdrycker föreslås debiteras samma prövningsavgift som restauranger (10 000 kronor för nytt tillstånd, 3 000 kronor för redan etablerade). Den årliga tillsynsavgiften föreslås vara 3 600 kronor per år.\n\nFörvaltningen bedömer att 5-10 företag i Örebro kommer att ansöka om tillstånd för gårdsförsäljning. Intäksökningen och merarbetet bedöms vara ganska litet. Taxan för servering och detaljhandel med folköl justerades från 1 140 till 1 200 kronor per timme enligt index.\n\nBeslutet gäller från och med den 1 juni 2025. KD yrkade på att halvera prövningsavgiften för gårdsförsäljning till 5 000 kronor, vilket avslogs.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 141",
+  "tags": [
+    "alkohol",
+    "gårdsförsäljning",
+    "taxa"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den som vill bedriva gårdsförsäljning av alkoholdrycker föreslås debiteras samma prövningsavgift som restauranger gör idag (10 000 kronor för nytt tillstånd, 3 000 kronor för de som redan har serverings- eller provsmakningstillstånd).",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-05-21_Kommunfullmäktige",
+    "date": "2025-05-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-21_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-21_ko_141.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-21_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-21_ko_141/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-14_ko_45",
+  "headline": "Motion om kommundelning för Östernärke avslås",
+  "summary": "Kommunfullmäktige avslogs SD:s motion om att utreda möjligheterna för kommundelning där Östernärke bildar egen kommun.",
+  "detail": "SD lämnade motion om att utreda för- och nackdelar med kommundelning där Östernärke skulle bli egen kommun. Motionärerna menade att klyftan mellan stad och land vuxit sig djupare i Örebro kommun.\n\nKommunledningen bedömde att det inte är aktuellt med kommundelning. Mindre kommuner får allt svårare att bära kostnader för skola, äldreomsorg och infrastruktur. Kommunledningen anser att man lämpligen bör invänta eventuell omvärdering av Sveriges kommunindelning innan ändringar genomförs.\n\nKommunfullmäktige avslogs motionen. SD och ÖrP reserverade sig för bifall.",
+  "category": "politik",
+  "contested": true,
+  "location": "Östernärke",
+  "paragraph_ref": "§ 45",
+  "tags": [
+    "Östernärke",
+    "kommundelning",
+    "regionalpolitik"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "M",
+      "SD",
+      "V",
+      "L",
+      "KD",
+      "ÖrP",
+      "MP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Det blir allt svårare för mindre kommuner att bära sina egna kostnader för både skola, äldreomsorg och infrastruktur.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_45.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_45/"
+  }
+}

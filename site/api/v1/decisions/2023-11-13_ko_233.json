@@ -1,0 +1,45 @@
+{
+  "id": "2023-11-13_ko_233",
+  "headline": "Osäkra fordringar från 2022 avskrivna för 1,4 miljoner kronor",
+  "summary": "Kommunstyrelsen skriver av fakturor till totalt 1 423 955 kronor från 2022 enligt god redovisningssed, då fordringar inte längre kan anses säkra.",
+  "detail": "Enligt god redovisningssed ska osäkra fordringar inte tas upp som tillgångar i bokslut. Erfarenheterna visar att möjligheterna att få in betalningar på fakturor efter sedvanliga kravåtgärder är mycket små.\n\nFakturor med förfallodatum längre än ett år från balansdatum anses osäkra. Dessa måste föras bort ur bokföringen för att kommunens räkenskaper ska vara rättvisande.\n\nAvskrivningarna omfattar:\n- Finansförvaltningen: 98 597 kronor\n- Kommunledningsförvaltningen: 48 407 kronor\n- Lokalförsörjningsavdelningen: 1 276 951 kronor\n\nTotalt: 1 423 955 kronor\n\nFordringarna kvarstår juridiskt på den enskilde och åtgärder för inbetalning fortsätter.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 233",
+  "tags": [
+    "bokslut",
+    "fordringar",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Nämnderna skall inför varje bokslut fatta beslut om avskrivning på dessa osäkra fordringar. Fordran kvarstår dock på den enskilde och åtgärder för att få in betalningen skall fullföljas.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_233.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_233/"
+  }
+}

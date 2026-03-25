@@ -1,0 +1,44 @@
+{
+  "id": "2025-01-29_ko_15",
+  "headline": "Oslo-Stockholm 255 AB: Styrdokument uppdateras",
+  "summary": "Bolagsordning, ägardirektiv och aktieägaravtal för Oslo-Stockholm 255 AB revideras. SD och ÖrP reserverar sig mot delar av beslutet.",
+  "detail": "Oslo-Stockholm 255 AB ägs gemensamt av Örebro Rådhus AB, Region Örebro läns förvaltning AB, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland. Bolaget bildades 2007 och ägarkretsen utökades 2018, men styrdokumenten har inte reviderats sedan dess.\n\nKommunfullmäktige godkänner föreslagna ändringar i bolagsordningen och ägardirektivet för att uppdatera dem enligt revisorernas synpunkter och hur bolaget praktiskt strukturerat sitt arbetssätt. En omstridd förändring i ägardirektivet handlar om förskjutning av beslut kring verksamhetsmål och budget från bolagsstämman till styrelsen, vilket SD opponerade mot.\n\nÖrebro Rådhus AB får i uppdrag att ingå nytt aktieägaravtal med de övriga aktieägarna. Besluten är omstridda med reservationer från SD och ÖrP.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 15",
+  "tags": [
+    "Oslo-Stockholm 255 AB",
+    "styrdokument",
+    "bolagsordning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det finns behov av att uppdatera styrdokumenten dels till följd av synpunkter från revisorerna dels utifrån hur bolaget i praktiken kommit att strukturera sitt arbetssätt.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_15.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_15/"
+  }
+}

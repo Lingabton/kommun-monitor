@@ -1,0 +1,47 @@
+{
+  "id": "2023-03-22_ko_90",
+  "headline": "Motion om neutral klädpolicy för kommunens anställda avslås",
+  "summary": "Kommunfullmäktige avslog Sverigedemokraternas motion om att införa en neutral klädpolicy för att minska religiösa, kulturella och politiska konflikter.",
+  "detail": "Helena Ståhl och David Larsson (SD) inkom med motion om att ge Kommunstyrelsen i uppdrag att utreda hur EU-domstolens beslut skapar möjlighet för Örebro kommun att införa en neutral klädpolicy vars syfte var att minska religiösa, kulturella och politiska konflikter i mötet mellan invånare och kommunens verksamhet.\n\nMotionen bedömdes kunna innebära indirekt diskriminering enligt diskrimineringslagen. Kommunstyrelsen föreslog att motionen skulle avslås, vilket Kommunfullmäktige beslutade.\n\nSverigedemokraterna och Örebro för Pluralism reserverade sig mot beslutet och yrkade på bifall till motionen. Majoriteten av övriga partier (S, M, C, KD, V, L, MP) röstade för avslag.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 90",
+  "tags": [
+    "klädpolicy",
+    "diskriminering",
+    "religion",
+    "arbetsrätt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "V",
+      "L",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att en klädpolicy enligt motionärernas intentioner kan innebära indirekt diskriminering enligt 1 kap. 4 § 2 pt. diskrimineringslagen.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-03-22_Kommunfullmäktige",
+    "date": "2023-03-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-22_ko_90.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-22_ko_90/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_247",
+  "headline": "Kommunikationspolicy helt omarbetad och antagen",
+  "summary": "Kommunstyrelsen antog ny kommunikationspolicy som ersätter den från 2003.",
+  "detail": "Informations- och kommunikationspolicyn från september 2003 omarbetades för att ligga i linje med utveckling i omvärlden, medielandskapet, forskning och organisationens erfarenheter. Den nya policyn beskriver kommunikationens roll, kännetecken och principer i organisationen.\n\nI stort är innehållet detsamma men mer summerat och renodlat. Del av tidigare innehål överfördes till strategier och riktlinjer. Policyn gäller från och med att Kommunstyrelsen beslutat.\n\nMarkus Allard (ÖrP) yrkade avslag på beslutet men förlorade.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 247",
+  "tags": [
+    "kommunikation",
+    "policy",
+    "styrdokument"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Nu har en omarbetning gjorts och förslaget till ny kommunikationspolicy säkerställer bättre att den ligger i linje med utvecklingen i omvärlden, t.ex. forskning och erfarenheter hos andra organisationer.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_247.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_247/"
+  }
+}

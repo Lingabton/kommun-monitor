@@ -1,0 +1,42 @@
+{
+  "id": "2025-08-26_ko_170",
+  "headline": "Motion om offentliga toaletter ansedd besvarad",
+  "summary": "Motion från Karolina Wallström m.fl. (L) om fler offentliga toaletter ansedd besvarad. Teknik- och serviceförvaltningen får uppdrag att utreda.",
+  "detail": "Karolina Wallström, Patrik Jämtvall och Johanna Reimfeldt (L) föreslog att Örebro kommun omedelbart börjar praktiskt ordna och öppna eller bygga nya offentliga toaletter i det offentliga rummet.\n\nKommunledningsförvaltningen föreslå motionen som besvarad med motiveringen att Teknik- och serviceförvaltningen fått uppdrag att utöka antalet offentliga toaletter. Antal, plats och lämpliga lösningar ska utredas.\n\nKarolina Wallström (L), Susanne Lindholm Henningsson (KD), Martha Wicklund (V) och Markus Allard (ÖrP) yrkade bifall, men kommunstyrelsen ansåg motionen besvarad. Ärendet ska vidare till Kommunfullmäktige.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 170",
+  "tags": [
+    "offentlig miljö",
+    "stadsmiljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Teknik- och serviceförvaltningen har fått i uppdrag att utöka antalet offentliga toaletter i Örebro.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_170.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_170/"
+  }
+}

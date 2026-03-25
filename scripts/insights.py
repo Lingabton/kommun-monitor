@@ -1,5 +1,5 @@
 """
-Kommun Monitor — Insights Engine
+Beslutskollen — Insights Engine
 ===================================
 Automatically generates political insights from voting data.
 
@@ -472,7 +472,7 @@ def generate_insights_page(insights, base_url=""):
 
     page = f'''<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Politiska insikter — Örebro kommun — Kommun Monitor</title>
+<title>Politiska insikter — Örebro kommun — Beslutskollen</title>
 <meta name="description" content="Djupanalys av Örebro kommunpolitik. Maktbalans, ovanliga allianser, oppositionens effektivitet och trender.">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;1,9..144,400&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>*{{box-sizing:border-box;margin:0;padding:0}}
@@ -492,7 +492,7 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 <div class="wrap">
 <header>
 <div style="display:flex;gap:12px;align-items:center;margin-bottom:12px;font-size:13px">
-<a href="{base_url}/" style="color:#64748b">🏛️ Kommun Monitor</a>
+<a href="{base_url}/" style="color:#64748b">🏛️ Beslutskollen</a>
 <span style="color:#333">›</span>
 <span>Insikter</span>
 </div>
@@ -555,8 +555,23 @@ footer{{padding:20px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:32
 </div>
 </div>
 
+<!-- Metod -->
+<div class="card" id="metod">
+<h2>Om metoden</h2>
+<div class="sub">Hur vi räknar</div>
+<div style="font-size:13px;color:#94a3b8;line-height:1.7">
+<p><strong>Datakälla:</strong> Offentliga protokoll (PDF) från Örebro kommun, publicerade på orebro.se. Alla handlingar är offentliga enligt tryckfrihetsförordningen 2 kap.</p>
+<p style="margin-top:8px"><strong>Maktbalans:</strong> Baseras på röstningsdata i protokollen. "Majoriteten vann" = partier i S+M+C-koalitionen röstade JA och beslutet gick igenom. Enhälliga beslut = inga partier röstade emot.</p>
+<p style="margin-top:8px"><strong>Omstritt:</strong> Ett beslut räknas som omstritt om minst ett parti röstade NEJ enligt protokollet. Vi gör inga egna bedömningar.</p>
+<p style="margin-top:8px"><strong>Ovanliga allianser:</strong> Partier från olika politiska block (t.ex. V och SD) som röstade på samma sida i samma fråga. Definierade par: V+SD, V+KD, SD+MP, V+L, ÖrP+V.</p>
+<p style="margin-top:8px"><strong>Beslut som hänger ihop:</strong> Beslut som delar samma tagg/nyckelord och sträcker sig över minst 30 dagar.</p>
+<p style="margin-top:8px"><strong>Oppositionsaktivitet:</strong> Antal motioner och reservationer per parti, hämtade direkt från protokollen.</p>
+<p style="margin-top:8px"><strong>Begränsningar:</strong> AI-sammanfattningar kan innehålla fel. Röstningsdata extraheras automatiskt och kan missa nyanser. Kontrollera alltid originalprotokollet.</p>
 </div>
-<footer><p>Kommun Monitor — AI-genererad analys av offentliga protokoll</p></footer>
+</div>
+
+</div>
+<footer><p>Beslutskollen — statistik baserad på offentliga protokoll. Kan innehålla fel.</p></footer>
 </div></body></html>'''
 
     out_dir = SITE_DIR / "insikter"

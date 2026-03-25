@@ -1,0 +1,42 @@
+{
+  "id": "2023-11-13_ko_224",
+  "headline": "Örebrobostäders försäljningsrätt utökad från 52,5 till 157,5 miljoner kronor",
+  "summary": "Kommunstyrelsen godkänner ändringar i bolagsordningen för Örebrobostäder AB och ÖBO Holding AB. Gränsen för när fastighetsförsäljningar måste godkännas av kommunfullmäktige höjs från 1 000 till 3 000 prisbasbelopp.",
+  "detail": "Örebrobostäder har cirka 23 000 bostäder, varav cirka 15 000 behöver renoveras de kommande 20 åren. Årligt investeringsbehov beräknas till cirka 1 000 miljoner kronor, men bolagets ekonomi tål endast cirka 750 miljoner kronor per år.\n\nInflation och höjda marknadsräntor har försämrat ekonomin väsentligt. Hyreshöjningar kompenserar endast cirka hälften av kostnadsökningarna. För att säkra stabil ekonomi föreslås tre åtgärder: effektivisering, lägre resultat- och utdelningskrav, samt försäljning av fastigheter.\n\nGränsen för underställningsplikt till kommunfullmäktige höjs från 52,5 miljoner kronor (1 000 prisbasbelopp) till cirka 157,5 miljoner kronor (3 000 prisbasbelopp). Ändringar görs även i dotterbolaget ÖBO Holding AB för att möjliggöra paketisering av fastigheter i aktiebolag.\n\nÄrendet går vidare till Kommunfullmäktige för slutgiltigt beslut.\n\nVänster och Örebro för Polen reserverar sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 224",
+  "tags": [
+    "Örebrobostäder",
+    "fastighetsförsäljning",
+    "ekonomi",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "En höjning av gränsen för underställningsplikt från 1 000 till 3 000 prisbasbelopp föreslås och är motiverad utifrån Örebrobostäders storlek och marknadsvärden i fastighetsbeståndet.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_224.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_224/"
+  }
+}

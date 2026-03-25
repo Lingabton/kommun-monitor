@@ -1,0 +1,44 @@
+{
+  "id": "2023-12-05_ko_241",
+  "headline": "Låneramar 22,5 miljarder för koncernen 2024–2026",
+  "summary": "Kommunstyrelsen fastställde externa låneramar för kommunkoncernen på 22,5 miljarder kronor för perioden 2024–2026. Beslutet mötte motstånd från SD och Örebropartiet.",
+  "detail": "Kommunfullmäktige ska årligen fastställa en ram för externa lån till kommunkoncernen. Kommunstyrelsen beslutade att ramen för kommunkoncernens samlade externa låneskuld fastställs till 22,5 miljarder kronor för perioden 2024–2026. Samtidigt fastställdes Örebro kommuns egen låneinskuld till 20,8 miljarder kronor.\n\nHelena Ståhl (SD) yrkade på återremiss för beräkning enligt Sverigedemokraternas budgetförslag, eller i andra hand avslag. Markus Allard (Örebropartiet) yrkade på återremiss enligt sitt partis förslag, eller avslag. \n\nOrdföranden John Johansson (S) fann att ärendet skulle avgöras omedelbar och ställde förslagen mot varandra. Kommunstyrelsen beslutade enligt förvaltningens förslag. Liberalernas Karolina Wallström lämnade en anteckning om återhållen investeringspolitik.\n\nBeslutet sendes till Kommunfullmäktige för final fatning. SD, Örebropartiet reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 241",
+  "tags": [
+    "låneramar",
+    "koncernen",
+    "ekonomi",
+    "2024-2026"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Ramen för kommunkoncernens samlade externa låneskuld fastställs till 22,5 miljarder kronor för perioden 2024–2026.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_241.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_241/"
+  }
+}

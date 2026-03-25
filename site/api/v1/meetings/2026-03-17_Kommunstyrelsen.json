@@ -1,0 +1,96 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2026-03-17",
+  "decisions": [
+    {
+      "headline": "Yttrande om stärkt trygghet i bostadsrätter till Justitiedepartementet",
+      "summary": "Kommunstyrelsen antog ett yttrande över departementets promemoria om förverkande av bostadsrätter. Förslaget skärper kraven på bostadsrättsinnehavares skyldighet att bevara tryggheten inom fastigheten.",
+      "detail": "Justitiedepartementet inbjöd Örebro kommun att lämna yttrande över promemorian \"Stärkt trygghet i bostadsrätter\" (DS 2025:28). Promemorian föreslår att det i bostadsrättslagen införs regler om förverkande av bostadsrätter som motsvarar reglerna för hyresrätter, vilket skärper kraven på bostadsrättsinnehavarens skyldighet att bevara tryggheten inom fastigheten.\n\nKommunledningsförvaltningen föreslog att yttrandet skulle antas och överlämnas till departementet. ÖrP och SD yrkade avslag.\n\nKommunstyrelsen beslutade att anta yttrandet enligt förvaltningens förslag. ÖrP (Markus Allard), SD (Helena Ståhl och Bo Ammer) reserverade sig mot beslutet.\n\nBeslutet är politiskt omstritt då två partier motsatte sig kommunens ställningstagande i denna bostadssäkerhetsfråga.",
+      "category": "trygghet",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 48",
+      "quote": "Promemorian föreslår bland annat att det i bostadsrättslagen införs regler om förverkande av bostadsrätter som motsvarar de regler som gäller för förverkande av hyresrätter.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "bostadsrätt",
+        "trygghet",
+        "remiss",
+        "Justitiedepartementet"
+      ],
+      "id": "2026-03-17_ko_48",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-03-17"
+    },
+    {
+      "headline": "Kommunen svarar på remiss om stärkt hästnäring – debatt om ridhus",
+      "summary": "Kommunstyrelsen antog ett yttrande om hästnäringen men med reservationer från flera partier. Debatten gällde framför allt om enklare ridhus ska klassificeras som ekonomibyggnad.",
+      "detail": "Landsbygds- och infrastrukturdepartementet bad Örebro kommun svara på remissen \"En stärkt hästnäring – för företagande, jämställdhet, jämlikhet och folkhälsa\" (SOU 2025:58). Utredningen fokuserar på hur man kan underlätta för företagande inom hästnäringen och deltagande i hästsporten, framför allt för barn och ungdomar.\n\nKommunledningsförvaltningen föreslog att yttrandet skulle antas och överlämnas till departementet. Liberalerna (Karolina Wallström) yrkade på att stryka en mening i yttrandet – specifikt kommunens uppfattning att enklare ridhus inte ska anses som ekonomibyggnad. KD:s Susanne Lindholm Henningsson stödde Liberalernas yrkande. ÖrP:s Markus Allard yrkade helt avslag.\n\nKommunstyrelsen beslutade enligt förvaltningens ursprungliga förslag. Tre partier reserverade sig: Liberalerna för sitt ändringsyrkande, KD för samma grund, och ÖrP för sitt avslagsyrkande.\n\nFrågan om ridhus klassificering är viktig för företagare inom hästnäringen då det påverkar bygglovsprocesser och kostnader.",
+      "category": "näringsliv",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 49",
+      "quote": "Behoven av ridhus är en viktig aspekt för att utveckla näringen. Därför anser vi att enklare ridhus ska ses som en ekonomibyggnad likt övriga utrymmen till exempel maskinhall.",
+      "quote_page": "s. 4-5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "KD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "hästnäring",
+        "ridhus",
+        "näringsliv",
+        "Liberalerna",
+        "remiss"
+      ],
+      "id": "2026-03-17_ko_49",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-03-17"
+    }
+  ],
+  "decisions_count": 2,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-03-17_Kommunstyrelsen.pdf",
+  "headline": "Kommun svarar på remisser om bostadstrygghet och hästnäring",
+  "motions_of_interest": [
+    {
+      "title": "Liberalernas yrkande om klassificering av ridhus som ekonomibyggnad inom hästnäringens utveckling",
+      "party": "L",
+      "status": "Avslagen"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-03-17_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-03-17_ko_48.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-03-17_ko_49.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2026-03-17_Kommunstyrelsen"
+  }
+}

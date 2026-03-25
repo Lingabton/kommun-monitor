@@ -1,0 +1,45 @@
+{
+  "id": "2024-06-10 och 2024-06-11_ko_154",
+  "headline": "Tilläggsanslag juni 2024 på 53 mnkr beviljade",
+  "summary": "Kommunfullmäktige beviljade tilläggsanslag på 53 mnkr för kostnadsökningar och oförutsedda behov 2024, finansierat genom ökad budget för skatteintäkter och generella statsbidrag.",
+  "detail": "Tilläggsanslaget avsåg bland annat kompensation för förstärkning till nämnder för 2024 och effekter av reviderat investeringsprogram. Kommunstyrelsen behandlade ärendet och beslutade för egen del. Ombudgetering mellan nämnder gjordes enligt Kommunledningsförvaltningens förslag.\n\nKommunledningen yrka bifall. Oppositionspartier (Liberalerna, Kristdemokraterna och Örebropartiet) yrka avslag på beslutspunkt 2 om tilläggsanslaget men bifall på beslutspunkt 1 om budgetökning.\n\nOrdföranden ställde förslagen mot varandra. På beslutspunkt 1 fanns enighet och beslutet fattades enhälligt. På beslutspunkt 2 ställdes förslagen mot varandra och Kommunfullmäktige beslutade enligt Kommunstyrelsens förslag.\n\nVänsterpartiet deltog inte i beslutet. Fyra partier reserverade sig: Liberalerna, Sverigedemokraterna, Kristdemokraterna och Örebropartiet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 154",
+  "tags": [
+    "budget",
+    "ekonomi",
+    "förstärkning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD",
+      "KD",
+      "ÖrP",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunens budget för skatteintäkter och generella statsbidrag höjs med 53 mnkr. Tilläggsanslaget på 53 mnkr finansierade genom ökad budget för skatteintäkter och generella statsbidrag beviljas.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2024-06-10_Kommunfullmäktige",
+    "date": "2024-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-06-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-06-10 och 2024-06-11_ko_154.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-06-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-06-10 och 2024-06-11_ko_154/"
+  }
+}

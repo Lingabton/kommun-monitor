@@ -1,0 +1,43 @@
+{
+  "id": "2024-11-12_ko_225",
+  "headline": "VA-områden utökade – ny dagvattentaxa införs 2025",
+  "summary": "Verksamhetsområdena för dricksvatten och spillvatten utökas. Dagvattentaxan uppdelas i två kategorier från och med 2025.",
+  "detail": "",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 225",
+  "tags": [
+    "VA",
+    "vatten och avlopp",
+    "dagvatten",
+    "taxor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunen ska inte köra över enskilda fastighetsägare som har egna avlopp som uppfyller kraven, så att de tvingas ansluta sig till kommunalt avlopp, vilket kan kosta husägare enorma summor pengar.",
+  "quote_page": "Särskilt yttrande SD",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_225.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_225/"
+  }
+}

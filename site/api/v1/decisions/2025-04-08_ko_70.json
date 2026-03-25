@@ -1,0 +1,40 @@
+{
+  "id": "2025-04-08_ko_70",
+  "headline": "Tilläggsanslag på 62,9 miljarder kronor beviljas",
+  "summary": "Kommunstyrelsen beviljar tilläggsanslag för kostnadsökningar och oförutsedda utgifter under 2025. Ombudgetering mellan nämnder godkänns.",
+  "detail": "Kommunstyrelsen har beviljat tilläggsanslag på totalt 62 972 tkr för budgetåret 2025. Anslagen är avsedda för kompensation till nämnder för årlig indexuppräkning samt för färdigställda investerings- och lokalförsörjningsobjekt. Finansieringen sker ur KS utrymme för generella kostnadsökningar samt från utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.\n\nOmbudgetering mellan nämnder godkänns enligt förvaltningens förslag. Beslutet var omstritt. Liberalerna och KD reserverade sig mot ombudgeteringsdelen, medan Sverigedemokraterna yrkade på reducerade anslag genom att utesluta indexuppräkning för föreningsbidrag, politiska kanslier och partistöd.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 70",
+  "tags": [
+    "budget",
+    "ekonomi",
+    "indexuppräkning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas med totalt 62 972 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur KS utrymme för generella kostnadsökningar samt från KS utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_70.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_70/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2024-08-28_ko_210",
+  "headline": "TABB familjestödjare - motion bordlades",
+  "summary": "Motion om permanenta rollen som familjestödjare enligt TABB-modellen bordlades utan slutbeslut.",
+  "detail": "Gunilla Werme (L) motionerade för att permanenta rollen som familjestödjare enligt TABB-modellen som del i skolors hälsofrämjande arbete för att förebygga psykisk ohälsa.\n\nKommunledningen föreslog att motionen anses besvarad då dialog om lärdomarna från TABB pågår, men det finns fortfarande frågor kvar att utforska innan permanentisering.\n\nKommunfullmäktige bordlade ärendet istället för att anta förslaget.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 210",
+  "tags": [
+    "TABB",
+    "psykisk hälsa",
+    "familj",
+    "skola"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Dialog om hur lärdomarna från TABB bäst tillvaratas och om hur arbetet med samverkan ska fortgå pågår",
+  "quote_page": "s. 33",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_210.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_210/"
+  }
+}

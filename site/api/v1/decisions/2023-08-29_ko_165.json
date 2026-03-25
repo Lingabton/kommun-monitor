@@ -1,0 +1,44 @@
+{
+  "id": "2023-08-29_ko_165",
+  "headline": "Avslag på förtur i tomtkö för familj med sjukt barn",
+  "summary": "Kommunstyrelsen avslog ansökan om förtur i tomtkön från familj vars barn har diabetes typ 1. ÖrP reserverade sig och ville återremittera ärendet.",
+  "detail": "En familj bosatt på landsbygden i Örebro kommun ansökte om förtur i tomtkön med hänvisning till att en son är diagnostiserad med diabetes typ 1. Familjen beskrev behovet av att flytta närmare skola och förskola för att underlätta sonens vardag. Sonen är även remitterad till Barn- och Ungdomspsykiatrin för NPF-utredning.\n\nAnsökan avsåg småhustomten Värberg 2:81 i Latorp, som inte ännu är anvisad till tomtkön eftersom det saknas infartsväg. Tomten beräknades kunna erbjudas under hösten 2023 eller våren 2024.\n\nMarkus Allard (ÖrP) yrkade på återremiss för komplettering, men Kommunstyrelsen beslöt att avgöra ärendet direkt. Miljö- och stadsbyggnadsförvaltningens förslag om avslag på ansökan antogs.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Latorp",
+  "paragraph_ref": "§ 165",
+  "tags": [
+    "tomtkö",
+    "Latorp",
+    "diabetes",
+    "familj"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Förfrågan om förtur i tomtkön avslås för den sökande.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_165.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_165/"
+  }
+}

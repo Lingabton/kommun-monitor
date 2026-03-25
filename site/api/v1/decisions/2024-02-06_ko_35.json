@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-06_ko_35",
+  "headline": "Örebroporten får möjlighet att bilda dotterbolag för fastighetsförsäljning",
+  "summary": "Kommunstyrelsen gav sitt tillråde till att Örebroporten Fastigheter AB kan bilda ett eller flera dotterbolag för försäljning av fastigheter. Ärendet går till Kommunfullmäktige för beslut.",
+  "detail": "Örebroporten Fastigheter AB avser att överlåta fastigheter genom att paketeras i ett eller flera nybildade aktiebolag som överlåts till köpare. En bolagsordning för de fastighetsägande bolagen tagits fram.\n\nEnligt Örebroportens bolagspolicy ska fastighetförsäljningar med värde över 500 prisbasbelopp underställas Kommunfullmäktige i separat ärende.\n\nKommunledningen föreslår att Kommunfullmäktige godkänner bildandet av dotterbolag, godkänner bolagsordning, uppdrar till Örebroporten att besluta om firmanamn, samt utser styrelseledamöter (Jeanette Berggren som ledamot, Susanne Odelberg-Johnson som suppleant) och revisor (Lars Bjurström).\n\nMarkus Allard (ÖrP) och Martha Wicklund (V) yrkade avslag men röstades ner och reserverade sig.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 35",
+  "tags": [
+    "Örebroporten",
+    "fastigheter",
+    "bolag"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Örebroporten Fastigheter AB (Örebroporten) har för avsikt att överlåta en eller flera fastigheter genom att dessa paketeras i ett eller flera nybildade aktiebolag som överlåts till köparen.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_35.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_35/"
+  }
+}

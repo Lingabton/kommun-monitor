@@ -1,0 +1,44 @@
+{
+  "id": "2026-01-20_ko_16",
+  "headline": "Två motioner remitteras för beredning",
+  "summary": "Kommunstyrelsen remitterar två motioner: en om värmestuga till Socialnämnden och en om ersättning till företag för beredning.",
+  "detail": "Två motioner från kommunfullmäktige remitteras vidare:\n\n1. Motion från Karolina Wallström (L) m.fl. \"om att möjliggöra för värmestuga i Örebro - för ett mänskligare Örebro\" remitteras till Socialnämnden.\n\n2. Motion från Susanne Lindholm Henningsson (KD) \"om utred kompensation till drabbade företag\" bereds av Kommunstyrelsen själv.\n\nBägge motionerna kommer att behandlas vidare.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 16",
+  "tags": [
+    "värmestuga",
+    "hemlösa",
+    "företag",
+    "kompensation",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Motion från Susanne Lindholm Henningsson (KD) om utred kompensation till drabbade företag bereds av Kommunstyrelsen.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_16.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_16/"
+  }
+}

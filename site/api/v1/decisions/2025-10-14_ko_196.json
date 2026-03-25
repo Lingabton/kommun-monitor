@@ -1,44 +1,44 @@
 {
   "id": "2025-10-14_ko_196",
-  "headline": "Negativ budgetavvikelse 210 mnkr – nämnderna får åtgärdskrav",
-  "summary": "Kommunens helårsprognos visar 257 mnkr resultat mot budgeterat 467 mnkr – en negativ budgetavvikelse på 210 mnkr. Nämnderna måste vidta konkretiserade åtgärder för att säkra långsiktigt hållbar ekonomi.",
-  "detail": "Delårsrapporten visar att kommunen inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året. Endast 2 av 4 finansiella mål beräknas uppfyllas.\n\nPrognosen visar att verksamhetens resultat är 78 mnkr lägre än budget, och finansverksamheten är 132 mnkr lägre. De nämnder som prognostiserar negativ avvikelse måste redovisa konkretiserade åtgärder senast i samband med årsredovisningen för 2025.\n\nMartha Wicklund (V) och Karolina Wallström (L) motsatte sig beslutet och förlorade omröstningen. Vänsterpartiet ville att nämnderna skulle få mer realistiska budgetramar istället för att krävas på sparåtgärder. L reserverade sig tillsammans med Yngve Alkman.",
+  "headline": "Delårsrapport visar negativ avvikelse på 210 miljoner kronor",
+  "summary": "Kommunstyrelsen godkände delårsrapport för 2025 som visar att Örebro kommun inte uppnår finansiella mål. Resultatet prognostiseras till 257 mnkr mot budgeterat 467 mnkr. Nämnder ska vidta åtgärder för att säkra långsiktigt hållbar ekonomi.",
+  "detail": "Efter årets första åtta månader visar resultatet 531 mnkr, men helårsprognosen pekar på 257 mnkr - en negativ budgetavvikelse på 210 mnkr. Av denna utgör verksamhetens resultat 78 mnkr och finansverksamheten 132 mnkr av avvikelsen.\n\nPrognosen visar att endast 2 av 4 finansiella mål beräknas uppnås. Målet om 1,7 procents resultat av skatteintäkter och 116 procent självfinansieringsgrad för skattefinansierade investeringar kommer inte uppfyllas.\n\nKommunstyrelsens beslut förpliktar nämnder med negativ budgetavvikelse att konkretisera åtgärder senast vid årsredovisningen för 2025. Martha Wicklund (V) reserverade sig för hennes yrkande om att ge nämnderna uppdrag att räkna på realistiska budgetar. Karolina Wallström (L) reserverade sig för sitt avslagsyrkande.",
   "category": "budget",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 196",
   "tags": [
-    "ekonomi",
     "budget",
-    "prognosprognos",
-    "sparåtgärder"
+    "ekonomi",
+    "delårsrapport",
+    "negativ avvikelse"
   ],
   "voting": {
     "for": [
       "S",
       "M",
       "C",
-      "KD"
+      "ÖrP"
     ],
     "against": [],
     "abstained": [
-      "V",
-      "L"
+      "KD",
+      "V"
     ],
     "result": "Bifall"
   },
-  "quote": "De nämnder som prognostiserar negativ budgetavvikelse för år 2025 ska vidta och konkretisera åtgärder för att säkra en långsiktigt hållbar ekonomi. Åtgärderna ska vara siffersatta och redovisas till Kommunstyrelsen senast i samband med årsredovisningen för år 2025.",
-  "quote_page": "s. 5",
+  "quote": "Prognosen visar att Örebro kommun inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året. Årets prognos på helår visar ett resultat på 257 mnkr. Det budgeterade resultatet är 467 mnkr, vilket innebär en negativ budgetavvikelse på 210 mnkr.",
+  "quote_page": "s. 4-5",
   "meeting": {
-    "id": "2025-10-14_ko",
+    "id": "2025-10-14_Kommunstyrelsen",
     "date": "2025-10-14",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_196.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_196/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_196.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_196/"
   }
 }

@@ -1,0 +1,43 @@
+{
+  "id": "2025-05-13_ko_118",
+  "headline": "Motion om strategi mot hedersförtryck förklarad besvarad",
+  "summary": "Motion från SD om kravställande strategi mot hedersförtryck förklaras besvarad då motsvarande arbete redan pågår.",
+  "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) krävde en kravställande strategi mot hedersförtryck och hedersvåld och menade att nuvarande handlingsplan mot våld i nära relationer saknar fokus på hedersproblematik.\n\nKommunledningsförvaltningen hävdade att kommunen redan aktivt arbetar med att utveckla ny styrning för att bekämpa våld i nära relationer, hedersrelaterat våld och sexuell exploatering. Den nya strategin innehåller insatser för både utsatta och förövare samt förstärkt samverkan och uppföljning. Därför förklarades motionen besvarad.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen men avslogs. Ståhl, Larsson och Allard reserverade sig.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 118",
+  "tags": [
+    "hedersförtryck",
+    "våld",
+    "strategi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Då detta arbete redan pågår och innefattar de åtgärder som motionen efterfrågar, anses motionen besvarad.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_118.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_118/"
+  }
+}

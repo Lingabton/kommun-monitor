@@ -1,0 +1,47 @@
+{
+  "id": "2024-09-25_ko_241",
+  "headline": "Motion om skadegörelse i skolor avslaget",
+  "summary": "Helena Ståhl (SD) m.fl.:s motion om att debitera vårdnadshavare för uppsåtlig skadegörelse på skolorna avslås.",
+  "detail": "Helena Ståhl (SD), Bo Ammer (SD) och Carola Sunesson (SD) föreslår att Örebro kommun rekommenderar rektorer att alltid debitera vårdnadshavare vid uppsåtlig skadegörelse och att elever kan arbeta av uppkomna skulder.\n\nFörskole- och grundskoleförvaltningen bedömer att motionen ska avslås då det redan finns tillräckliga möjligheter att begära ersättning för skador enligt nuvarande regler. Ingen förändring i hanteringen av skadegörelse planeras.\n\nMotionen avslogs med majoritetens röster (C, V, L, S, M, KD, MP). SD och ÖrP reserverade sig för bifall.",
+  "category": "skola",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 241",
+  "tags": [
+    "skola",
+    "skadegörelse",
+    "disciplin",
+    "förvaltningsansvar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "V",
+      "C",
+      "KD",
+      "L",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Förskole- och grundskoleförvaltningen föreslår att motionen avslås eftersom det i nuläget inte finns några planer inom Förskole- och grundskoleförvaltningen att förändra något i hanteringen av skadegörelse i skolor.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_241.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_241/"
+  }
+}

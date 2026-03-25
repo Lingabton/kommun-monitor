@@ -1,0 +1,44 @@
+{
+  "id": "2023-04-11_ko_81",
+  "headline": "Yttrande över kärnkraftspromemoria - kärnkraft bedöms inte lösa elbehov",
+  "summary": "Kommunstyrelsen skickar yttrande till staten angående ny kärnkraft där man tillstyrker betänkandet men Martha Wicklund (V) reserverar sig.",
+  "detail": "Klimat- och näringslivsdepartementet inbjöd Örebro kommun att yttra sig över promemorian 'Ny kärnkraft i Sverige – ett första steg' som föreslår ändringar i miljöbalken för att möjliggöra nya kärnkraftsreaktorer.\n\nKommunledningsförvaltningen föreslöeg att yttrandet antas och överlämnas. Martha Wicklund (V) yrkade på att lägga till omfattande synpunkter kritiska mot kärnkraft. Hon argumenterade att kärnkraften är dyr, långsam att bygga och inte hinner möta behovet under klimatomställningen. Hon lyfte också fram säkerhetsrisker, beroendet av utländskt bränsle och det olösta problemet med slutförvaring av utbränt kärnbränsle i minst 100 000 år.\n\nOrdförande Johansson ställde förslagen mot varandra. Kommunstyrelsen beslutat enligt kommunledningsförvaltningens förslag. Wicklund reserverade sig för sitt tilläggsyrkande.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 81",
+  "tags": [
+    "kärnkraft",
+    "energi",
+    "miljö",
+    "remiss"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det stora, olöst problemet med kärnkraften är att det saknas en trovärdig lösning för slutförvaring av utbränt kärnbränsle. Det använda kärnbränslet måste förvaras i minst 100 000 år, vilket gör det nästintill omöjligt att hitta bergsäkra tekniska lösningar för slutförvaringen.",
+  "quote_page": "s. 23",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_81.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_81/"
+  }
+}

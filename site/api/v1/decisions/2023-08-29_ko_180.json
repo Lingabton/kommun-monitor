@@ -1,0 +1,42 @@
+{
+  "id": "2023-08-29_ko_180",
+  "headline": "Ledamotsinitiativ om anmälningsplikt avslaget",
+  "summary": "Martha Wicklund initiativ mot anmälningsplikt i kommunal verksamhet avslogs. S och M motsatte sig opinionsbildning.",
+  "detail": "Martha Wicklund (V) inkom med ledamotsinitiativ föreslående att Kommunstyrelsen skriver till regeringen mot införande av anmälningsplikt i kommunal verksamhet, särskilt gällande pedagogisk verksamhet, fritidsverksamhet, kulturell verksamhet för barn och unga, och socialtjänsten.\n\nKarolina Wallström (L) stödde initiativet. John Johansson (S) och Anders Åhrlin (M) yrkade avslag med motiveringen att Kommunstyrelsen inte bör användas för opinionsbildning.\n\nInitiativet avslogs. Martha Wicklund (V) och Karolina Wallström (L) reserverade sig.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 180",
+  "tags": [
+    "anmälningsplikt",
+    "pedagogik",
+    "fritid",
+    "socialtjänst"
+  ],
+  "voting": {
+    "for": [],
+    "against": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Att Kommunstyrelsen skriver till regeringen om att anmälningsplikt inte bör införas i kommunal verksamhet.",
+  "quote_page": "s. 17-18",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_180.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_180/"
+  }
+}

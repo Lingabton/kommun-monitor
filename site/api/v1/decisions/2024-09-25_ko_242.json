@@ -1,0 +1,40 @@
+{
+  "id": "2024-09-25_ko_242",
+  "headline": "Motion om familjestödjare TABB anses besvarad",
+  "summary": "Gunilla Werme (L):s motion om att permanenta rollen som familjestödjare enligt TABB-modellen anses besvarad.",
+  "detail": "Gunilla Werme föreslår att Örebro kommun permanentar rollen som familjestödjare enligt TABB-modellen som del av skolors och kommunens hälsofrämjande arbete för att förebygga psykisk ohälsa hos barn och ungdomar.\n\nDialog pågår om hur lärdomarna från TABB bäst tillvaratas och om samverkan ska fortgå, men det finns fortfarande frågor att utforska innan beslut fattas om att permanenta projektet på fler skolor.\n\nMotionen anses besvarad. Beslut motsägdes av L, KD, V och MP som reserverade sig för bifall till motionen.",
+  "category": "skola",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 242",
+  "tags": [
+    "skola",
+    "psykisk hälsa",
+    "elever",
+    "TABB-modellen"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Dialog om hur lärdomarna från TABB bäst tillvaratas och om hur arbetet med samverkan ska fortgå pågår, men det finns fortfarande frågor kvar att utforska innan beslut kan fattas om att permanenta projektet.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_242.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_242/"
+  }
+}

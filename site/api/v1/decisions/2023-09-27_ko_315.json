@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-27_ko_315",
+  "headline": "Motion om bemötandeproblematik avslås - SD protesterar",
+  "summary": "Sverigedemokraterna motionerade för en omfattande utredning om kommunens bemötandeproblematik. Fullmäktige avslogs motionen och menade att kommunen redan arbetar med mänskliga rättigheter.",
+  "detail": "Helena Ståhl, Bo Ammer, Daniel Spiik och David Larsson från Sverigedemokraterna ville att Örebro kommun genomförde en omfattande utredning om bemötandeproblematik för att identifiera vilka grupper som uppfattar sig felbehandlade och inom vilka verksamheter problemen finns.\n\nKommunfullmäktige avslogs motionen. Bedömningen var att kommunen redan har omfattande arbete för att stärka och säkerställa mänskliga rättigheter inom samtliga förvaltningar. Detta omfattar HBTQI-personers rättigheter, barns rättigheter, kvinnors rättigheter, nationella minoriteters rättigheter och rättigheter för personer med funktionsnedsättningar.\n\nMotionen bordlades flera gånger innan den behandlades. Sverigedemokraterna och Örebro för Förändring reserverade sig starkt mot beslutet. Motionen hade behandlats sedan juni 2022.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 315",
+  "tags": [
+    "bemötande",
+    "mänskliga rättigheter",
+    "Sverigedemokraterna",
+    "diskriminering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslagen"
+  },
+  "quote": "Kommunen är skyldiga att säkerställa människors rättigheter respekteras och efterlevs inom samtliga verksamheter. Därför är ett proaktivt och generellt arbetssätt viktigt, såväl som riktade insatser och särskilda arbetsgrupper.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_315.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_315/"
+  }
+}

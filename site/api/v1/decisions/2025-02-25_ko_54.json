@@ -1,0 +1,46 @@
+{
+  "id": "2025-02-25_ko_54",
+  "headline": "Motion om skogspolicy avslagen",
+  "summary": "Kommunfullmäktige avslog Miljöpartiets motion om att Örebro kommun ska anta en skogspolicy för hållbart skogsbruk.",
+  "detail": "Lea Strandberg (MP) inlämnade motion om att Örebro kommun ska anta en skogspolicy. Motionen menar att kommunen behöver ändra den befintliga uppdelningen av skog för att nå hållbart skogsbruk och att en övergripande skogspolicy saknas. Ärendet bordlades flera gånger mellan oktober 2024 och januari 2025.\n\nKommunstyrelsen föreslog avslag. Kemal Hoso (S) och Elisabeth Malmqvist (C) yrkade bifall till avslaget. Lea Strandberg (MP) och Linn Josefsson (V) yrkade bifall till motionen.\n\nOrdföranden ställde förslagen mot varandra och fann att Kommunfullmäktige beslutade enligt avslaget. Två partier reserverade sig: V och MP.",
+  "category": "miljö",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 54",
+  "tags": [
+    "miljö",
+    "skogsbruk",
+    "naturvård",
+    "hållbarhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "MP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Miljöpartiet de gröna menar att kommunen behöver ändra den uppdelning av skog som idag finns för att nå ett hållbart skogsbruk.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_54.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_54/"
+  }
+}

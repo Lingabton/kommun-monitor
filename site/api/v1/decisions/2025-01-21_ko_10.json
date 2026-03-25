@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-21_ko_10",
+  "headline": "Jämställdhetsdelegationens verksamhetsplan 2025 antagen",
+  "summary": "Jämställdhetsdelegationens verksamhetsplan för 2025 antagen. ÖrP och SD reserverade sig för nedläggning av delegationen.",
+  "detail": "Jämställdhetsdelegationen under Kommunstyrelsen samordnar jämställdhetsfrågor i Örebro kommun. Delegationen tar fram årlig verksamhetsplan för fastställelse.\n\nMarkus Allard (ÖrP) yrka att delegationen inte ska ha någon verksamhet. Helena Ståhl (SD) yrka på att verksamhetsplanen avslås och delegationen avvecklas, med argumentation att det är slöseri med skattepengar och att jämställdhet bör genomsyra hela organisationen istället för att ha en särskild delegation.\n\nBåda reserverade sig mot beslutet. Övriga partier stödde jämställdhetsarbetet och delegationen.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 10",
+  "tags": [
+    "jämställdhet",
+    "delegation",
+    "kvinnor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Jämställdhetsdelegationen är en delegation under Kommunstyrelsen och samordnar jämställdhetsfrågorna i Örebro kommun.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_10.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_10/"
+  }
+}

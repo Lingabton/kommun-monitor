@@ -1,0 +1,44 @@
+{
+  "id": "2024-11-12_ko_222",
+  "headline": "Gång- och cykeltunnel vid Örebro Södra – max 10 miljoner finansiering",
+  "summary": "Kommunstyrelsen avsätter maximalt 10 miljoner kronor för järnvägsplan för gång- och cykeltunnel under järnvägen vid Örebro Södra mellan 2026–2029.",
+  "detail": "Tunneln är viktig för att förbättra säkerheten, då dagens plankorsning innebär att tågresenärer måste röra sig över spåren för att nå mittplattformen. En gång- och cykeltunnel skulle möjliggöra säker passage mellan västra och östra sidan av järnvägen.\n\nFinansieringen hanteras i ordinarie budgetprocess och är villkorad av att Trafikverket fattar motsvarande beslut. Karolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag. Kommunstyrelsen beslutade enligt förslaget.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro Södra",
+  "paragraph_ref": "§ 222",
+  "tags": [
+    "Örebro Södra",
+    "gång- och cykelväg",
+    "säkerhet",
+    "järnväg"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det finns ett stort behov av att förbättra säkerheten kring Örebro Södra, framför allt att åtgärda plankorsningen som i dag innebär att tågresenärer måste röra sig över spåren för att nå mittplattformen.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_222.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_222/"
+  }
+}

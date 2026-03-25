@@ -1,0 +1,41 @@
+{
+  "id": "2023-09-27_ko_323_324",
+  "headline": "Fyrverkerier - striktare tillståndskrav avslås två gånger",
+  "summary": "Två motioner om att strängare reglera fyrverkerier avslogs. En om allmän tillståndsplikt avslogs, en om begränsad skjuttid betraktades redan tillgodosedd.",
+  "detail": "Helena Ståhl och Bo Ammer från Sverigedemokraterna motionerade för att de lokala allmänna ordningsföreskrifterna ska ändras så att det alltid krävs tillstånd från Polismyndigheten för användning av fyrverkerier (§323).\n\nKommunfullmäktige avslogs motionen. Bedömningen var att gällande lagstiftning och praxis inte tillåter en större begränsning av pyrotekniska varor än vad som redan gjorts i de lokala allmänna ordningsföreskrifterna för Örebro kommun.\n\nKarolina Wallström från Liberalerna hade motionerat redan 2017 om att begränsa fyrverkeritillstånden, särskilt om skjuttiden (§324). Denna motion drogs tillbaka efter att kommunen informerade att förslaget redan genomförts. Kommunfullmäktige 2022-12-12 hade redan antagit reviderade ordningsföreskrifter som begränsat tiden för fyrverkerier utan tillstånd.\n\nSverigedemokraterna och Liberalerna reserverade sig mot avslaget på den första motionen.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 323, 324",
+  "tags": [
+    "fyrverkerier",
+    "trygghet",
+    "ordningsföreskrifter",
+    "tillstånd"
+  ],
+  "voting": {
+    "for": [
+      "S"
+    ],
+    "against": [
+      "SD",
+      "L"
+    ],
+    "abstained": [],
+    "result": "Avslagen"
+  },
+  "quote": "Det utifrån gällande lagstiftning och praxis inte är möjligt att begränsa användningen av pyrotekniska varor mer än vad som redan är gjort i de lokala allmänna ordningsföreskrifterna för Örebro kommun.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_323_324.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_323_324/"
+  }
+}

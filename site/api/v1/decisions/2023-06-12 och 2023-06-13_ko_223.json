@@ -1,0 +1,43 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_223",
+  "headline": "Tilläggsanslag 113 miljoner för löner och kostnader",
+  "summary": "Kommunfullmäktige beviljade tilläggsanslag på 113 374 tkr för löneöversyn, indexkompensation och kostnadsökningar. Skatteintäkter höjdes med 80 mnkr.",
+  "detail": "Ärendet innefattade revidering av budget 2023 samt tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda kostnader för budgetåret 2023.\n\nKommunens budget för skatteintäkter och generella bidrag höjdes med 80 mnkr. Tilläggsanslag beviljade med totalt 113 374 tkr enligt förslag från kommunledningsförvaltningen. Åtgärderna omfattade kompensation för återstående delar av löneöversyn samt indexkompensation ekonomiskt bistånd.\n\nOmbudgeteringar berörde flytt av medel mellan nämnder med grund i ramfördelning till ny nämndstruktur för 2023 samt sista delen av Kommundirektörens effektiviseringskrav för 2023.\n\nFinansiering skedde ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar samt oförutsedda behov. ÖrP och SD reserverade sig mot delar av beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 223",
+  "tags": [
+    "tilläggsanslag",
+    "löner",
+    "budget",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag finansierade genom ökad budget för skatteintäkter och generella statsbidrag beviljas enligt Kommunledningsförvaltningens förslag.",
+  "quote_page": "s. 15-16",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_223.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_223/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2023-10-17_ko_204",
+  "headline": "700 000 kronor till Stadsmissionen Porten under två år",
+  "summary": "Kommunstyrelsen beslutar ge 700 000 kronor årligen 2023-2024 till Stadsmissionen för att förstärka verksamheten Porten, som möter människor i hemlöshet och utsatthet.",
+  "detail": "Örebro stadsmission har rapporterat om ökad efterfrågan på sitt arbete med Porten, en viktig mötesplats för människor i hemlöshet och annan utsatthet. Verksamheten har vuxit i spåren av pandemin och den ekonomiska krisen.\n\nKommunledningsförvaltningen föreslår ett tillfälligt anslag på 700 000 kronor för 2023 och 2024, finansierat från Kommunstyrelsens utrymme för oförutsedda behov.\n\nFlera partier ville ge mer pengar: Karolina Wallström (L) yrkade på totalt 1,4 miljoner 2024, Helena Ståhl (SD) på 1,7 miljoner årligen, och Kristdemokraterna hade ett eget förslag. Örebropartiet stödde Sverigedemokraternas högre siffra, men majoritet gick för administrationens förslag.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 204",
+  "tags": [
+    "hemlöshet",
+    "socialt arbete",
+    "budget",
+    "Stadsmissionen"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "KD",
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Stadsmissionen möter via Porten människor i hemlöshet och annan form av utsatthet.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_204.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_204/"
+  }
+}

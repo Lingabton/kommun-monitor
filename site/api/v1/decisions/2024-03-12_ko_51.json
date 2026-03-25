@@ -1,0 +1,47 @@
+{
+  "id": "2024-03-12_ko_51",
+  "headline": "Viljeinriktning för friluftsliv och turism i Kilsbergen antagen",
+  "summary": "Kommunstyrelsen antog en gemensam viljeinriktning för Kilsbergen som ett strategiskt viktigt rekreationsområde för cirka 200 000 invånare i fem kommuner.",
+  "detail": "Kilsbergen är ett rekreationsområde av stor betydelse för Degerfors, Karlskoga, Lekeberg, Nora och Örebro kommuner samt regionen. En gemensam viljeinriktning med fokus på friluftsliv och besöksnäring har utvecklats av åtta organisationer inklusive kommunerna, Region Örebro län, Länsstyrelsen, Försvarsmakten, Saab Bofors Test Center, Sveaskog och Örebrrokompaniet.\n\nViljeinriktningen syftar till att utveckla området för både rekreation och besöksnäring genom bättre samordning mellan involverade aktörer. Dokumentet presenterades efter remissrunda och antogs enhälligt av kommunstyrelsen.\n\nKristdemokraterna lämnade särskilt yttrande och uttryckte höga förväntningar på att orden följs av handling och att engagemang från civilsamhället hörsammas och stödjs.",
+  "category": "kultur",
+  "contested": false,
+  "location": "Kilsbergen",
+  "paragraph_ref": "§ 51",
+  "tags": [
+    "Kilsbergen",
+    "friluftsliv",
+    "turism",
+    "rekreation",
+    "samverkan"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kilsbergen utgör ett strategisk viktigt rekreationsområde för cirka 200 000 invånare i kommunerna Degerfors, Karlskoga, Lekeberg, Nora och Örebro.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2024-03-12_Kommunstyrelsen",
+    "date": "2024-03-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-12_ko_51.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-12_ko_51/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2023-12-05_ko_257",
+  "headline": "VA-verksamhetsområden utökas för nya exploateringar",
+  "summary": "Kommunstyrelsen beslutade att utöka verksamhetsområdena för dricks-, spill- och dagvatten för nya och befintliga bebyggelseområden. Beslut sendes till Kommunfullmäktige.",
+  "detail": "Enligt lagstiftning för vatten och avlopp (VA) ska kommunen återkommande se över och vid behov utöka verksamhetsområdena. Utökningen behövs för nya exploateringsområden och befintliga områden där det finns behov av kommunal VA-försörjning.\n\nVerksamhetsområdet utgörs av geografiska områden där kommunen har ansvar för VA-försörjning. Inom dessa gäller Örebro kommuns VA-taxa och Allmänna bestämmelser (ABVA). Kommunstyrelsen beslutade att utöka dessa områden enligt förslag i bifogade kartor och fastighetsförteckningar. Beslutet skickas vidare till Kommunfullmäktige. Markus Allard (Örebropartiet) reserverade sig.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 257",
+  "tags": [
+    "vatten",
+    "avlopp",
+    "VA-områden",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Verksamhetsområdena för dricksvatten, spillvatten och dagvatten utökas i enlighet med förslag i bifogade kartor och fastighetsförteckning.",
+  "quote_page": "s. 28",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_257.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_257/"
+  }
+}

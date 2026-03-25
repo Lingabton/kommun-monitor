@@ -1,0 +1,42 @@
+{
+  "id": "2025-06-10_ko_144",
+  "headline": "Ej verkställda sociala beslut fortsatt stort problem - köer växer",
+  "summary": "Rapport visar allvarlig backlog av ej verkställda SoL- och LSS-beslut. Socialnämnden: 35 ej verkställda, Funktionsstöd: 64 ej verkställda, Vård och omsorg: 23 ej verkställda.",
+  "detail": "Kommunstyrelsen tog del av statistik över ej verkställda sociala beslut för kvartal 4 2024:\n\n- Socialnämnd: 47 nya beslut ej verkställda, varav 35 fortsatt ej verkställda vid kvartalets slut\n- Funktionsstödsnämnd: 117 rapporterade beslut (ned från 149 kv 3), varav 64 fortsatt ej verkställda inom tre månader\n- Vård- och omsorgsnämnd: 54 rapporterade beslut (upp från 42 kv 3), varav 23 fortsatt ej verkställda\n\nHelena Ståhl (SD) yrkade skarpt krav på förvaltningarna om att säkerställa att IVO-avgift inte riskeras, samt återrapportering om förutsättningar och åtgärder. Cristian Rehn Janowicz (V) yrkade att Kommunledningsförvaltningen tar fram förslag på hur gynnande beslut kan verkställas inom rimlig tid. Båda yrkandena avslogs.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 144",
+  "tags": [
+    "socialtjänst",
+    "LSS",
+    "SoL",
+    "köer",
+    "verkställning",
+    "funktionsstöd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "För det fjärde kvartalet 2024 blev Socialnämndens totala antal rapporterade ej verkställda beslut 47.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_144.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_144/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-17_ko_209",
+  "headline": "Reviderad budget 2024 antagen: 21,35 procents kommunalskatt",
+  "summary": "Kommunstyrelsen fastställer reviderad övergripande strategi och budget för 2024 med plan för 2025-2027, med samma skattesats på 21,35 procent.",
+  "detail": "Den reviderade budgeten 'Gemensamt ansvar för framtidens Örebro' bygger på det ursprungliga budgetbeslut från juni 2023 och har reviderats för ändrade förutsättningar inför 2024.\n\nSkattesatsen för allmän kommunalskatt fastställs till 21,35 per skattekrona. Reviderade driftbudgetramar och investeringsprogram för 2024 med plan för 2025-2027 fastställs enligt förslaget.\n\nFem olika budgetalternativ presenterades: Socialdemokraternas majoritetbudget (S-M-C), Liberalernas, Kristdemokraternas, Sverigedemokraternas och Vänsterpartiets. En rad olika taxor och avgifter för 2024 antogs, bland annat för avfall, vatten och avlopp, bygglov, miljötillsyn och alkoholövervakning.\n\nBeslutet ska vidare till Kommunfullmäktige. Flera partier reserverade sig för att de ville driva alternativa budgetförslag.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 209",
+  "tags": [
+    "budget",
+    "skattesats",
+    "strategi",
+    "2024"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "KD",
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Reviderad Övergripande strategier och budget 2024 med plan för 2025–2027 fastställs enligt förslaget.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_209.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_209/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2024-01-23_ko_14",
+  "headline": "Kommundelning Östernärke - SD motion bordlad utan slutgöring",
+  "summary": "SD motion om att utreda kommundelning där Östernärke blir egen kommun bordlades.",
+  "detail": "Daniel Spiik, Habib Brini och Bjarne Bäckström (SD) föreslog 2023-04-18 att kommunen ska utreda för- och nackdelar med kommundelning där Östernärke bildar egen kommun, med motivering att klyftan mellan stad och land vuxit sig djupare.\n\nKommunledningen avslår motionen med utgångspunkt att mindre kommuner allt svårare bär sina kostnader för skola, äldreomsorg och infrastruktur. Lämpligen bör man invänta nationell diskussion om kommunindelning före egna ändringar.\n\nÄrendet bordlades tidigare (24 oktober, 22 november, 12 december 2023) och bordlades igen 2024-01-23.",
+  "category": "politik",
+  "contested": false,
+  "location": "Östernärke",
+  "paragraph_ref": "§ 14",
+  "tags": [
+    "kommundelning",
+    "Östernärke",
+    "organisation"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Borderläggning"
+  },
+  "quote": "Det blir allt svårare för mindre kommuner att bära sina egna kostnader för både skola, äldreomsorg och infrastruktur.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_14.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_14/"
+  }
+}

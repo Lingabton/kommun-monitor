@@ -1,0 +1,45 @@
+{
+  "id": "2024-09-25_ko_246-247",
+  "headline": "Pilotprojekt med seniorluncher i skolmatsalar startar hösten 2024",
+  "summary": "Motion om att öppna skolmatsalar för seniorer tillgodoses genom pilotprojekt på fyra skolor.",
+  "detail": "Susanne Lindholm Henningsson (KD) och Martha Wicklund (V) har inkommit med motioner om att möjliggöra för seniorer att äta lunch i skolmatsalar för att få tillgång till prisvärd näringsrik mat och skapa inkluderande miljö.\n\nKommunledningen tillgodoser båda motionerna genom att lansera ett pilotprojekt med start hösten 2024. Fyra kommunala skolor deltar: Tullängsgymnasiet, Odenskolan, Vintrosaskolan och Västra Engelbrektsskolan. Piloten inkluderar även ett särskilt perspektiv på landsbygden. Äldre ges möjlighet att köpa och äta mat på de utvalda skolorna.\n\nOm pilotprojektet lyckas väl är kommunledningen positiv till att utvidga till fler skolor.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 246-247",
+  "tags": [
+    "äldreomsorg",
+    "ensamhet",
+    "skolor",
+    "socialt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kommunledningen ämnar lansera ett pilotprojekt med start hösten 2024, där fyra av Örebros kommunala skolor [...] ska öppna upp skolmatsalarna för äldre.",
+  "quote_page": "s. 26",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_246-247.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_246-247/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-14_ko_39",
+  "headline": "Örebroporten får möjlighet bilda dotterbolag för fastighetsförsäljning",
+  "summary": "Kommunfullmäktige godkände att Örebroporten Fastigheter AB kan bilda ett eller flera dotterbolag för försäljning av fastigheter eller delar av fastigheter. Bolagsordning för dessa bolag godkändes.",
+  "detail": "Örebroporten Fastigheter AB planerar att överlåta en eller flera fastigheter genom att packetera dem i nybildade aktiebolag. Kommunledningen godkände föreslagen bolagsordning för de fastighetsägande bolagen.\n\nKommunfullmäktige beslutade att godkänna bolagsbildningen och föreslagen bolagsordning. För överlåtelser av bolag med fastighetsvärde över 500 prisbasbelopp ska frågan underställas kommunfullmäktige i särskilt ärende.\n\nJeanette Berggren utsågs till styrelseledamot, Susanne Odelberg-Johnson till styrelsesuppleant och Lars Bjurström till lekmannarevisor för sådana bolag. V och ÖrP reserverade sig mot beslutet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 39",
+  "tags": [
+    "bolagsbildning",
+    "fastigheter",
+    "Örebroporten"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "SD",
+      "MP",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunfullmäktige godkänner att Örebroporten Fastigheter AB bildar ett eller flera dotterbolag eller dotterdotterbolag för försäljning av fastigheter eller del av fastigheter.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_39.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_39/"
+  }
+}

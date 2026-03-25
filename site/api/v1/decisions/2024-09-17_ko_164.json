@@ -1,0 +1,45 @@
+{
+  "id": "2024-09-17_ko_164",
+  "headline": "Motion om solceller - två av tre förslag tillgodosedda",
+  "summary": "Kommunstyrelsen tillgodoser två delar av motionen om solcellsparker men avslår förslaget om abonnemang för privatpersoner.",
+  "detail": "Nadia Abdellah (V) m.fl. motionerade för tre solcellsåtgärder: att Kumbro utveckling ska ta fram plan för solcellspark, att kommunala bostadsbolag ska kartlägga lämpliga ytor och investera i solceller, samt att bolagen ska ta fram lösning för privatpersoner att abonnera på eller köpa in sig i solceller.\n\nDe två första förslagen bedöms tillgodosedda då bolagen redan har fått uppdrag och/eller möjligheter att uppföra solcellsanläggningar. Det tredje förslaget avslås då kommunledningen valt att arbeta på andra sätt för att öka produktionen av klimatsmart el.\n\nMartha Wicklund (V) yrkade bifall till hela motionen och reserverade sig mot beslutet.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 164",
+  "tags": [
+    "solceller",
+    "klimat",
+    "förnybar energi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Delvis"
+  },
+  "quote": "Det tredje förslaget föreslås avslås då kommunledningen har valt att arbeta på andra sätt för att öka produktionen av klimatsmart el i kommunen.",
+  "quote_page": "s. 23",
+  "meeting": {
+    "id": "2024-09-17_Kommunstyrelsen",
+    "date": "2024-09-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-17_ko_164.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-17_ko_164/"
+  }
+}

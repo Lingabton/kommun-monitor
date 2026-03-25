@@ -1,0 +1,47 @@
+{
+  "id": "2025-12-10_ko_395",
+  "headline": "Motion om cirkulationsbibliotek avslås efter votering",
+  "summary": "Kommunfullmäktige avslår motion från Johanna Reimfelt och Mats-Olof Liljegren (L) om att utveckla ett cirkulationsbibliotek med klassuppsättningar.",
+  "detail": "Motionen föreslår att Örebro kommun utvecklar ett cirkulationsbibliotek där biblioteket köper klassuppsättningar och tillhandahåller böcker till grundskolorna.\n\nBedömningen är att denna typ av verksamhet inte är en fråga för folkbiblioteket utan snarare för grundskolan. Det bedöms inte finnas behov eller förutsättningar att bygga upp ett centralt cirkulationsbibliotek. Dock är det viktigt att skapa förutsättningar för samarbete mellan skolbibliotek och folkbibliotek.\n\nÄrendet bordlades flera gånger före behandling. En votering genomfördes med resultatet 39 ja-röster (för avslag) och 22 nej-röster. L, MP, KD, ÖrP och SD reserverade sig.",
+  "category": "skola",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 395",
+  "tags": [
+    "bibliotek",
+    "skola",
+    "läsning",
+    "ungdomar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [
+      "L",
+      "KD",
+      "ÖrP",
+      "SD",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2025-12-10_Kommunfullmäktige",
+    "date": "2025-12-10",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_395.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_395/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2025-04-08_ko_82",
+  "headline": "Motion: Mindre barngrupper i förskolan avslås",
+  "summary": "Martha Wicklund (V) motion om maxtak för barngrupper och pedagog-barnkvot i förskolan avslås.",
+  "detail": "Vänsterpartiet yrkade på två konkreta åtgärder: att kommunen inrättar maxtak per avdelning enligt Skolverkets råd (6-12 barn för ålder 1-3 år, 9-15 barn för ålder 4-5 år) och maxtak på 4 barn per pedagog i varje barngrupp.\n\nMotionen motiverades av höga ljudnivåer, stora barngrupper och personals arbetsmiljöproblem i förskolan. Martha Wicklund menade att istället för nedskärningar bör kommunen minska barngrupperna.\n\nFörskolenämnden föreslog avslag på motionen, vilket Kommunstyrelsen beslutade. Martha Wicklund reserverade sig mot beslutet.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 82",
+  "tags": [
+    "förskola",
+    "barngrupper",
+    "arbetsmiljö",
+    "pedagoger"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "SD",
+      "KD"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Den konstanta otillräckligheten som personalen inom förskolan upplever är varken hållbar eller något som kommunen borde acceptera.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_82.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_82/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_230",
+  "headline": "Motion om Örebro läns museum remitterad till Kommunstyrelsen",
+  "summary": "Martha Wicklund (V) inkom med motion om att Örebro kommun åter ska bli del av stiftelsen Örebro läns museum. Motionen remitterades.",
+  "detail": "Martha Wicklund från Vänsterpartiet inkom med motion vid Kommunfullmäktiges sammanträde om att Örebro kommun åter ska bli en del av stiftelsen Örebro läns museum.\n\nMotionen remitterades till Kommunstyrelsen för behandling.",
+  "category": "kultur",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 230",
+  "tags": [
+    "museum",
+    "motion",
+    "kultur"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Remitterad"
+  },
+  "quote": "Motionen remitteras till Kommunstyrelsen.",
+  "quote_page": "s. 27",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_230.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_230/"
+  }
+}

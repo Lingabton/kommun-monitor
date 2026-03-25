@@ -1,0 +1,44 @@
+{
+  "id": "2023-08-29_ko_172",
+  "headline": "Motion om Örebro läns museum remitterad för beredning",
+  "summary": "Motion från Vänsterpartiet om att kommun åter ska ingå i stiftelsen Örebro läns museum remitterades för beredning.",
+  "detail": "Martha Wicklund och flera andra ledamöter från Vänsterpartiet motionerade om att Örebro kommun åter ska bli medlem i stiftelsen Örebro läns museum.",
+  "category": "kultur",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 172",
+  "tags": [
+    "museum",
+    "kultur",
+    "stiftelse",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Motion från Martha Wicklund (V) m.fl. om att Örebro kommun åter ska bli en del av stiftelsen Örebro läns museum bereds av Kommunstyrelsen.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_172.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_172/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-27_ko_314",
+  "headline": "Örebrobostäder får förlängning av reservationsavtal för 130 bostäder",
+  "summary": "Kommunfullmäktige godkände förlängning av reservationsavtal för fastigheten Citronmelissen 1 i Tamarinden. Örebrobostäder kan bygga cirka 130 hyresrätter på marken värd cirka 28 miljoner kronor.",
+  "detail": "Örebrobostäder avser att bygga cirka 130 lägenheter på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen. Bostäderna ska upplåtas med hyresrätt. Priset för markförsäljningen är beräknat till cirka 28 miljoner kronor.\n\nEtt reservationsavtal för fastigheten tecknades tidigare när köpeskillingen understeg 25 miljoner kronor. På grund av årliga indexregleringar enligt kommunens riktlinjer för markprissättning har priset nu höjts till över 25 miljoner kronor enligt 2023 års markpriser. Detta krävde beslut från Kommunfullmäktige.\n\nKommunfullmäktige gav ordförande i markplanerings- och exploateringsnämnden uppdrag att underteckna reservationsavtalet, godkänna justeringar i förstudiebilagan, besluta om förlängning om nödvändigt och underteckna överlåtelseavtalet.\n\nBeslutet fattades enhälligt utan reservationer eller motstemor. Beslutet möjliggör fortsatt bostadsproduktion i Örebro kommun.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Citronmelissen 1, Tamarinden, Sörbyängen",
+  "paragraph_ref": "§ 314",
+  "tags": [
+    "bostäder",
+    "Örebrobostäder",
+    "hyresrätter",
+    "Tamarinden",
+    "markförsäljning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Örebrobostäder avser att bygga ca 130 lägenheter på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen. Priset för markförsäljningen är beräknat till ca 28 miljoner kr.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_314.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_314/"
+  }
+}

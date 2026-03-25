@@ -1,0 +1,395 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2026-01-20",
+  "decisions": [
+    {
+      "headline": "Region Stockholm blir delägare i Oslo-Stockholm 255 AB",
+      "summary": "Kommunstyrelsen godkänner att Region Stockholm blir ny delägare i infrastrukturbolaget Oslo-Stockholm 255 AB. Örebro Rådhus AB får i uppdrag att ingå nytt aktieägaravtal.",
+      "detail": "Oslo-Stockholm 255 AB är ett gemensamt bolag för sex ägare (Örebro, Region Värmland, Västerås, Region Västmanland, Karlstad och nu Region Stockholm). Bolaget ökar sitt aktiekapital med 8 800 kronor genom nyemission av 88 aktier. Region Stockholm tecknar 84 aktier och övriga ägare en aktie vardera, mot betalning av kvotvärde (100 kr) plus överkurs (800 kr per aktie).\n\nEfter nyemissionen kommer alla ägare att inneha 84 aktier vardera, vilket medför jämnare ägarstruktur. Aktieägaravtal, bolagsordning och ägardirektiv har reviderats i samråd mellan ägarna.\n\nÄrendet går vidare till kommunfullmäktige för slutligt beslut.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 2",
+      "quote": "Region Stockholm har uttryckt en önskan att bli delägare i Oslo-Sthlm. Frågan diskuterades vid ägarmöte 2024-12-19 och samtliga ägares representanter ställde sig positiva till att bredda ägandet med Region Stockholm.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "Oslo-Stockholm 255 AB",
+        "Region Stockholm",
+        "ägarstruktur",
+        "infrastruktur"
+      ],
+      "id": "2026-01-20_ko_2",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "38,6 miljoner till Örebro Läns Flygplats 2026",
+      "summary": "Kommunstyrelsen beviljar 38,6 miljoner kronor i driftsbidrag till Örebro Läns Flygplats AB för år 2026. Beslutet strider mot miljökritik från Vänsterpartiet.",
+      "detail": "Örebro Läns Flygplats AB får totalt 38,6 miljoner kronor i driftsbidrag för 2026, varav Örebro kommun och Region Örebro Län tillsammans bidrar med 36,3 miljoner kronor (18,17 miljoner vardera). Kumla och Karlskoga kommuner bidrar med 1,14 miljoner var.\n\nFlygplatsen hade 73 201 passagerare under 2024. EU-kommissionen tillåter stöd till små flygplatser (under 200 000 passagerare årligen) enligt GBER-förordningen (General Block Exemption Regulation). Kommunen bedömer att alla villkor är uppfyllda för att åberopa denna laglig grund.\n\nMarkus Allard (ÖrP) yrkade på återremiss för att komplettera med underlag om hur pengarna ska användas. Martha Wicklund (V) yrkade avslag och begärde utredning om förstatligande eller försäljning/avveckling av flygplatsen.\n\nBeslut fattades enligt kommunledningsförvaltningens förslag.",
+      "category": "budget",
+      "contested": true,
+      "location": "Örebro Läns Flygplats",
+      "paragraph_ref": "§ 3",
+      "quote": "ÖLF erhåller driftbidrag på sammanlagt 38 634 800 kr för 2026, varav Örebro kommuns och Region Örebro läns andel är 18 174 300 kr vardera.",
+      "quote_page": "s. 4-5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "V"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "flygplats",
+        "miljö",
+        "klimat",
+        "driftsbidrag",
+        "38,6 miljoner"
+      ],
+      "id": "2026-01-20_ko_3",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "Strategi mot våld återremitteras för förtydligande",
+      "summary": "Kommunstyrelsen återremitterar strategin mot våld i nära relationer, hedersrelaterat våld och sexuell exploatering för att förtydliga styrkedjan och beslutsmandaten enligt kommunens styrmodell.",
+      "detail": "Kommunstyrelsen hade fått förslag att anta styrdokumentet \"Ett tryggt Örebro fritt från våld – strategi mot våld i nära relationer, hedersrelaterat våld och förtryck samt sexuell exploatering.\"\n\nOrdförande John Johansson (S) yrkade återremiss med motiveringen att förtydliga styrkedjan och säkerställa att beslutsmandaten är tydligt definierade enligt kommunens fastställda styrmodell.\n\nKarolina Wallström (L) yrkade på återremiss för omarbetning i parlamentarisk samverkan under 2027. Helena Ståhl (SD) yrkade på att strategin delas upp i tre separata dokument. Martha Wicklund (V) stödde Wallströms yrkande.\n\nOrdförandes återremissyrkande bifölls. Strategin går vidare till kommunfullmäktige när den är färdigställd.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 7",
+      "quote": "Strategin syftar till att samla, stärka och systematisera Örebro kommuns arbete mot de tre våldstyperna där organisation för genomförande och uppföljning samt sex fokusområden är vägledande.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Aterremiss"
+      },
+      "tags": [
+        "våld i nära relationer",
+        "strategi",
+        "trygghetsfrågornaa",
+        "styrkedja",
+        "hederskultur"
+      ],
+      "id": "2026-01-20_ko_7",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "HBTQI-riktlinje antas trots kritik från höger",
+      "summary": "Kommunstyrelsen antar riktlinje för arbetet med HBTQI-personers rättigheter. Sverigedemokraterna och Schwefelpartiet reserverar sig.",
+      "detail": "Kommunstyrelsen antar Riktlinje för arbetet med hbtqi-personers rättigheter i Örebro kommun enligt kommunledningsförvaltningens förslag.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) yrkade avslag på riktlinjen. Martha Wicklund (V) yrkade först på återremiss för att förtydliga avsnittet om uppföljning och revidering, men i sitt andra yrkande accepterade förslaget med ändringar i uppföljningsavsnittet.\n\nOrdförande John Johansson (S) ställde proposition och fann att kommunstyrelsen beslutar enligt kommunledningsförvaltningens förslag.\n\nRiktlinjen utgår från ett rättighetsbaserat förhållningssätt med integrerade perspektiv på jämställdhet, barnrätt och sårbarhetsfaktorer.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 8",
+      "quote": "Strategin utgår från ett rättighetsbaserat förhållningssätt där jämställdhet, barnrätt och sårbarhetsfaktorer är integrerade perspektiv.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "L",
+          "M",
+          "C",
+          "KD",
+          "V"
+        ],
+        "against": [
+          "OrP",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "HBTQI",
+        "rättigheter",
+        "mänskliga rättigheter",
+        "inkludering"
+      ],
+      "id": "2026-01-20_ko_8",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "Landsbygdsdelegationen får fortsätta trots kritik",
+      "summary": "Kommunstyrelsen antar Landsbygdsdelegationens verksamhetsplan för 2026, men Kristdemokraterna kritiserar delegationen för ineffektivitet och slöseri.",
+      "detail": "Kommunstyrelsen antar Landsbygdsdelegationens verksamhetsplan för 2026 enligt förslaget från delegationen själv.\n\nSusanne Lindholm Henningsson (KD) yrkade att avslå planen och lägga ned delegationen. Hon kritiserar att delegationen kostar omkring 200 000 kronor årligen plus två tjänster inom Näringslivsavdelningen utan att ge direkt mervärde. Som exempel nämner hon att delegationen bara genomfört en medborgardialog under 2025.\n\nKD yrkar att landsbygdsfrågorna istället förtydligas i Örebro Strategiska Bild (ÖSB) och följs upp i ordinär årsprocess där varje nämnd rapporterar sitt bidrag.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) stödde KD:s yrkande.\n\nOrdförandes proposition bifölls och delegationen fortsätter.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 5",
+      "quote": "Kommunstyrelsens landsbygdsdelegations verksamhetsplan för år 2026 antas.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "L",
+          "M"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "landsbygd",
+        "delegation",
+        "kostnad",
+        "verksamhetsplan",
+        "ländsbygdsutveckling"
+      ],
+      "id": "2026-01-20_ko_5",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "Jämställdhetsdelegationen försvars mot nedläggningsyrkande",
+      "summary": "Kommunstyrelsen antar Jämställdhetsdelegationens verksamhetsplan. Sverigedemokraterna och Schwefelpartiet yrkade på avveckling.",
+      "detail": "Kommunstyrelsen antar Kommunstyrelsens jämställdhetsdelegations verksamhetsplan för 2026.\n\nHelena Ståhl (SD) yrkade att avslå planen och avveckla Jämställdhetsdelegationen helt. Markus Allard (ÖrP) stödde detta yrkande.\n\nOrdförande John Johansson (S) ställde proposition och fann att kommunstyrelsen beslutar enligt delegationens eget förslag.\n\nDelegationen samordnar jämställdhetsfrågorna i Örebro kommun och tar fram förslag på verksamhetsplan varje år.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 6",
+      "quote": "Jämställdhetsdelegationen är en delegation under Kommunstyrelsen och samordnar jämställdhetsfrågorna i Örebro kommun.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "jämställdhet",
+        "delegation",
+        "kvinnor",
+        "män"
+      ],
+      "id": "2026-01-20_ko_6",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "Partnerskap Örebro fortsätter - Allard vill lägga ned",
+      "summary": "Kommunstyrelsen accepterar återrapportering från Partnerskap Örebro. Markus Allard (ÖrP) yrkade att lägga ned partnerskapet utan framgång.",
+      "detail": "Kommunstyrelsen tar informationen från återrapporteringen av Partnerskap Örebro till protokollet.\n\nPartnerskap Örebro är ett samverkansinitiativ som verkar i fem områden: Vivalla, Baronbackarna, Varberga, Oxhagen och Brickebacken. Programmet leds av Gymnasie- och arbetsmarknadsförvaltningen sedan januari 2024.\n\n2024 användes till att bygga upp verksamheten, rekrytera medarbetare och förankra arbetssätt. Ett avtal tecknade med Örebro universitet för löpande utvärdering.\n\n2025 fokuserade på stöd till elever på Campus Risbergska och framtagning av områdes- och behovsbeskrivningar.\n\nMarkus Allard (ÖrP) yrkade att lägga ned partnerskapet helt, men dette avslogos.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Vivalla, Baronbackarna, Varberga, Oxhagen, Brickebacken",
+      "paragraph_ref": "§ 9",
+      "quote": "Partnerskap Örebros övergripande uppdrag är att genom samverkan förbättra livskvalitén för invånarna i kommunens fem partnerskapsområden.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Partnerskap Örebro",
+        "bostadsområden",
+        "samverkan",
+        "ungdomar"
+      ],
+      "id": "2026-01-20_ko_9",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "Åsa Lindahl ny signalskyddschef för kommunen",
+      "summary": "Kommunstyrelsen utser Åsa Lindahl till ny signalskyddschef. Eva Barrera Glader entledigs från posten men förordnas som biträdande.",
+      "detail": "Kommunstyrelsen entledigar Eva Barrera Glader från sin tjänst som signalskyddschef och utser Åsa Lindahl till nya signalskyddschefen för Örebro kommun.\n\nSignalskydd handlar om att skydda känslig information vid kommunicering med externa aktörer. Det är ett växande område inom säkerhetsskyddet och är tätt kopplat till kommunens arbete med civilt försvar.\n\nVolontär Barrera Glader förordnas som biträdande signalskyddschef.\n\nSignalskyddschefen rapporterar tillsammans med säkerhetsskyddschefen direkt till kommundirektören i säkerhetsfrågor.\n\nMarkus Allard (ÖrP) yrkade avslag men beslutet gick igenom.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 14",
+      "quote": "För att säkerställa att kommunens signalskydd fungerar och upprätthålls i enlighet med gällande bestämmelser, ska kommunen därför förordna en signalskyddschef.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "signalskydd",
+        "säkerhet",
+        "information",
+        "civilt försvar"
+      ],
+      "id": "2026-01-20_ko_14",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "Jämställdhetspris förblir endast för kommun - initiative avslaget",
+      "summary": "Kommunstyrelsen avslår motion om att öppna jämställdhetspriset för privatpersoner och civil samhälle.",
+      "detail": "Susanne Lindholm Henningsson (KD) inkom med ledamotsinitiativ om att ändra reglerna för Örebro kommuns årliga jämställdhetspris.\n\nInitiativet yrkade på att priset ska kunna sökas av privatpersoner och organisationer inom civil samhälle, inte bara kommunala verksamheter och bolag.\n\nArgumenten för: skulle kunna öka nomineringarna, lyfta jämställdhetsfrågan i samhället och uppmärksamma goda förebilder.\n\nArgumenten mot enligt kommunledningen: priset är en viktig signal för att uppmärksamma kommunens egna medarbetares jämställdhetsarbete och skapar motivation internt. Kostnader för administration och granskning skulle öka vid öppning för externa sökande.\n\nMartha Wicklund (V) och Susanne Lindholm Henningsson (KD) yrkade bifall till initiativet. Markus Allard (ÖrP) yrkade att avskaffa priset helt, men detta yrkande fick inte ställas.\n\nKommunledningens förslag om att anse initiativet besvarat antogs.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 15",
+      "quote": "Jämställdhetspriset ger en viktig signal för att visa vikten av det arbete som Örebro kommuns medarbetare gör för att utveckla metoder och arbetssätt som stärker jämställdheten.",
+      "quote_page": "s. 16-17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "jämställdhetspris",
+        "jämställdhet",
+        "civilt samhälle",
+        "ledamotsinitiativ"
+      ],
+      "id": "2026-01-20_ko_15",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    },
+    {
+      "headline": "Två motioner remitteras för beredning",
+      "summary": "Kommunstyrelsen remitterar två motioner: en om värmestuga till Socialnämnden och en om ersättning till företag för beredning.",
+      "detail": "Två motioner från kommunfullmäktige remitteras vidare:\n\n1. Motion från Karolina Wallström (L) m.fl. \"om att möjliggöra för värmestuga i Örebro - för ett mänskligare Örebro\" remitteras till Socialnämnden.\n\n2. Motion från Susanne Lindholm Henningsson (KD) \"om utred kompensation till drabbade företag\" bereds av Kommunstyrelsen själv.\n\nBägge motionerna kommer att behandlas vidare.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 16",
+      "quote": "Motion från Susanne Lindholm Henningsson (KD) om utred kompensation till drabbade företag bereds av Kommunstyrelsen.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "värmestuga",
+        "hemlösa",
+        "företag",
+        "kompensation",
+        "motion"
+      ],
+      "id": "2026-01-20_ko_16",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-01-20"
+    }
+  ],
+  "decisions_count": 10,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf",
+  "headline": "Flygplats får miljardstöd, strategier återremitteras",
+  "motions_of_interest": [
+    {
+      "title": "Öppna jämställdhetspriset för privatpersoner och civil samhälle",
+      "party": "KD",
+      "status": "Avslagen - initiativet ansees besvarat"
+    },
+    {
+      "title": "Lägga ned Landsbygdsdelegationen",
+      "party": "KD",
+      "status": "Avslagen - verksamhetsplan antagen"
+    },
+    {
+      "title": "Lägga ned Partnerskap Örebro",
+      "party": "OrP",
+      "status": "Avslagen - fortsätter enligt rapportering"
+    },
+    {
+      "title": "Avslå flygplatsstödet på miljögrunder",
+      "party": "V",
+      "status": "Avslagen - stödet beviljas"
+    },
+    {
+      "title": "Dela upp våldsstrategier i tre separata dokument",
+      "party": "SD",
+      "status": "Avslagen - strategi återremitteras för andra ändringar"
+    },
+    {
+      "title": "Värmestuga i Örebro för hemlösa",
+      "party": "L",
+      "status": "Remitterad till Socialnämnden"
+    },
+    {
+      "title": "Utreda ersättning till drabbade företag",
+      "party": "KD",
+      "status": "Bereds av Kommunstyrelsen"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_2.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_3.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_7.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_8.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_5.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_6.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_9.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_14.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_15.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_16.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2026-01-20_Kommunstyrelsen"
+  }
+}

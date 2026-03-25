@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-14_ko_40",
+  "headline": "Rapporter om ej verkställda beslut inom LSS och SoL läggs till handlingarna",
+  "summary": "Kommunfullmäktige beslutade att rapporter från Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden över ej verkställda beslut för kvartal 3 2023 läggs till handlingarna. Flera partier ville ha åtgärdsförslag.",
+  "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden rapporterade om ej verkställda insatsbeslut enligt LSS och SoL. Syftet med rapporteringen är att kommunen ska kunna planera resurser för att verkställa insatser inom skälig tid.\n\nVänsterpartiet yrkade på att kommunledningen skulle få i uppdrag att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid och utvärdera insatser enligt SoL.\n\nSverigedemokraterna yrkade på att framtida rapporter inkluderar anledningar till varför individer får vänta på verkställande och att skarpt krav ställs för att undvika särskilda avgifter från IVO. Båda tilläggsyrkandena avslogs. V, ÖrP, L och KD reserverade sig.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 40",
+  "tags": [
+    "välfärd",
+    "socialtjänst",
+    "LSS",
+    "rapportering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP",
+      "L",
+      "SD",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Socialnämndens statistikrapport till Kommunfullmäktige över ej verkställda SoL-beslut rapporterade kvartal 3, 2023 läggs till handlingarna.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_40.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_40/"
+  }
+}

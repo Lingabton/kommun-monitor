@@ -1,0 +1,45 @@
+{
+  "id": "2025-09-16_ko_183",
+  "headline": "Valdistriktsindelning fastställd oförändrad inför nästa val",
+  "summary": "Kommunstyrelsen fastställer att den nuvarande valdistriktsindelningen förblir oförändrad inför kommande allmänna val.",
+  "detail": "Enligt vallagen måste Kommunfullmäktige senast i oktober året före ett valår fatta beslut om valdistriktsindelning. Valnämnden måste således fatta sitt beslut senast i maj året före valår.\n\nInför EU-valet 2024 genomfördes en omfattande revidering av valdistrikten i Örebro kommun med målsättningen att denna skulle gälla för flera kommande val utan större justeringar. Vid revideringen användes 1300 röstberättigade som referens för maximalt antal väljare per distrikt (vallagen anger 2000 som maxgräns).\n\nValnämndens granskning visar att den nuvarande indelningen fortfarande är lämplig och kan användas för nästa vallperiod utan ändringar. Beslutet fattas enhälligt och ska vidare till Kommunfullmäktige för formell behandling.",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 183",
+  "tags": [
+    "val",
+    "valdistriktsindelning",
+    "vallagen",
+    "röstning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Vid den senaste revideringen användes 1 300 röstberättigade som en referens till hur många väljare ett valdistrikt bör ha som mest.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-09-16_Kommunstyrelsen",
+    "date": "2025-09-16",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-16_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-16_ko_183.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-16_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-16_ko_183/"
+  }
+}

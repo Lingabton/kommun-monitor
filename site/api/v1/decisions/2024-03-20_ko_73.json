@@ -1,0 +1,42 @@
+{
+  "id": "2024-03-20_ko_73",
+  "headline": "Fritidsgård Fritte får 600 000 kr extra för teckenspråkiga ungdomar",
+  "summary": "Kultur- och fritidsnämnden ökar verksamhetsbidraget till fritidsgården Fritte med 600 000 kronor för att säkra öppettider och bemanning.",
+  "detail": "Miljöpartiet (Lea Strandberg) lade fram motion med fyra yrkanden om förstärkning av fritidsgården Fritte. Kommunledningen (S, M, C) tillgodosåg motionen genom att öka verksamhetsbidraget med 600 000 kronor.\n\nDetta gör det möjligt för Fritte att anställa två heltidsanställda och ha minst tre personals närvaro per kväll. Verksamheten kan också genomföra sommaraktiviteter. Fritte är en teckenspråkig fritidsgård som drivs av föreningen Kulturhuset Scenit.\n\nMotionen bedömdes tillgodosedd. Reservationer lämnades av V, ÖrP och SD för motionen (fullt bifall).",
+  "category": "kultur",
+  "contested": false,
+  "location": "Örebro",
+  "paragraph_ref": "§ 73",
+  "tags": [
+    "fritidsgård",
+    "ungdomar",
+    "teckenspråk",
+    "kultur",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Det betyder också att man kan genomföra viss sommarverksamhet. Detta sammantaget med övriga åtgärder ger förutsättningar för Fritte att även fortsättningsvis vara en populär och viktig mötesplats för teckenspråkiga ungdomar.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-03-20_Kommunfullmäktige",
+    "date": "2024-03-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-20_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_73.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-20_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-20_ko_73/"
+  }
+}

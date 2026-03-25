@@ -1,0 +1,46 @@
+{
+  "id": "2023-02-07_ko_26",
+  "headline": "Riktlinje för hyresskulder antagen",
+  "summary": "Kommunstyrelsen fastställde ny riktlinje för hantering av sena hyresinbetalningar och uppkomna hyresskulder.",
+  "detail": "Riktlinjen syftar till att skapa tydlighet i processen för hantering av försenade och uteblivna hyresinbetalningar från vuxna personer som hyr bostad i andra hand från kommunen med målsättning att ta över kontraktet.\n\nSyftet är att:\n- Skapa förutsägbarhet för både verksamheter och hyresgäster\n- Tydliggöra konsekvenser av förseningar och uteblivna inbetalningar\n- Ge en enhetlig process inom det sociala välfärdsområdet\n\nV (Martha Wicklund) lämnade särskilt yttrande. Beslutet var enhälligt.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 26",
+  "tags": [
+    "hyra",
+    "skulder",
+    "socialt",
+    "riktlinjer"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med riktlinjen är att skapa tydlighet i processen för att hantera försenade och uteblivna hyresinbetalningar från målgrupperna.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_26.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_26/"
+  }
+}

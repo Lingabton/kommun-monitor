@@ -1,0 +1,46 @@
+{
+  "id": "2024-10-15_ko_173",
+  "headline": "Tilläggsbudget 2025 godkänd trots omfattande reservationer",
+  "summary": "Kommunstyrelsen fastställde tilläggsbudget för 2025-2028 med bland annat nya parkeringsavgifter och höjda taxor. Alla oppositionspartier reserverade sig.",
+  "detail": "Kommunledningens tilläggsbudget för 2025-2028 fastställdes enligt förslag. Budgeten innehåller nya parkeringsavgifter i fyra zoner med införande från mars till juli 2025, höjda taxor för vatten och avlopp från 1 januari 2025, samt nya avgifter för fristående förskolor (från 12 000 kr till 25 000 kr för ansökan om godkännande) och pedagogisk omsorg (nya avgifter på 15 000 kr och 10 000 kr).\n\nLiberalerna yrkade avslag på budget och parkeringsdelar, Sverigedemokraterna på hela budgeten med egen budgetförslag, Vänsterpartiet på delar av den med tilläggsönskemål om busklinjer och cykelbanor, Kristdemokraterna på investeringarna och vissa parkeringszoner. Markus Allard (ÖrP) yrkade avslag med hänvisning till eget budgetförslag.\n\nKristdemokraterna argumenterade för att höjda avgifter måste åtföljas av motsvarande erbjudanden. Liberalerna motsatte sig höjda parkeringsavgifter på natten och högre boendeparkeringsavgifter, menade det är orättvist mot medborgare med lägre inkomster.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro tätort",
+  "paragraph_ref": "§ 173",
+  "tags": [
+    "budget",
+    "parkering",
+    "taxor",
+    "avgifter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "V",
+      "KD",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Om majoriteten nu väljer att använda \"piska\" för att få bort bilarna från centrum genom att göra det dyrt att parkera och verka i city, då måste man också jobba med någon slags \"morot\".",
+  "quote_page": "Kristdemokraternas yrkande",
+  "meeting": {
+    "id": "2024-10-15_Kommunstyrelsen",
+    "date": "2024-10-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-15_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_173.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-15_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-15_ko_173/"
+  }
+}

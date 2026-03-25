@@ -1,0 +1,36 @@
+{
+  "id": "2024-01-23_ko_15",
+  "headline": "BRT folkomröstning - Örebropartiet motion bordlad",
+  "summary": "Motion om folkomröstning rörande BusRapidTransit bordlades utan slutgöring.",
+  "detail": "Örebropartiet (Markus Allard, Peter Springare) föreslog 2021-04-09 folkomröstning om BRT-projektet och pausning tills svar erhålls.\n\nKommunledningen (S, M, C) är överens om trafikbehovet vid stadstillväxt men ser motionen som överspelad (relaterar till tidigare folkinitiativ \"Stoppa BRT\"). I styrande budget är beslut att fortsätta BRT etapp 2 och 3 tillsammans med Region Örebro län.\n\nÄrendet bordlades tidigare (27 september, 24 oktober, 22 november, 12 december 2023) och bordlades igen.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 15",
+  "tags": [
+    "BRT",
+    "BusRapidTransit",
+    "trafik",
+    "folkomröstning"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Borderläggning"
+  },
+  "quote": "Vi är överens om att fortsätta arbetet med BRT etapp 2 och 3 tillsammans med Region Örebro län med örebroarnas bästa för ögonen.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_15.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_15/"
+  }
+}

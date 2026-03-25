@@ -1,0 +1,47 @@
+{
+  "id": "2025-10-22_ko_307",
+  "headline": "Tilläggsbudget 2026 och taxor beslutade",
+  "summary": "Kommunfullmäktige fastställde tilläggsbudget för 2026 med reviderade driftbudgetramar, investeringsplan och taxor för avfall, vatten/avlopp och alkoholförsäljning.",
+  "detail": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 fastställdes. Budgeten innehåller förändringar i driftbudgetramarna och uppdatering av ekonomiska förutsättningar samt fördelade effektiviseringskrav för 2026.\n\nDecisioner inkluderar:\n- Reviderade driftbudgetramar för 2026 med plan 2027–2029\n- Reviderad investeringsplan för 2026 med plan 2027–2029\n- Avgifter för koncerninterna lån och borgen för 2026\n- Taxa för avfall från 1 januari 2026\n- Taxa för vatten och avlopp från 1 januari 2026\n- Reviderad taxa enligt alkohollagen från 1 januari 2026\n- Revidering av markupplåtelseavgift från 1 januari 2026\n- Förlängd giltighetstid för generella dispenser från 6 månader till 1 år\n- Ny avgift på 1500 kr per utfärdat tillstånd för generella dispenser\n\nSD, V, L, KD och ÖrP reserverar sig. MP deltar inte helt.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 307",
+  "tags": [
+    "budget",
+    "taxor",
+    "avgifter",
+    "drift",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "L",
+      "KD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 innehåller främst förändringar i driftbudgetramarna av teknisk karaktär men även en uppdatering av ekonomiska förutsättningar.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-10-22_Kommunfullmäktige",
+    "date": "2025-10-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_307.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-22_ko_307/"
+  }
+}

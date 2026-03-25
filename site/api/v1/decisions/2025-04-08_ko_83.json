@@ -1,0 +1,44 @@
+{
+  "id": "2025-04-08_ko_83",
+  "headline": "Motion: Stänga förskolan Igelkotten anses tillgodosedd",
+  "summary": "Markus Allard och Glenn Roswall (ÖrP) motion om att stänga förskolan Igelkotten anses tillgodosedd.",
+  "detail": "Örebropartiet yrkade på att kommunen ska stänga förskolan Igelkotten genom att återkalla godkännandet för huvudmannen. Motionen hänvisade till att Skolinspektionen stängde Arenaskolan men att förskolan Igelkotten (Tala förskolor AB) fortfarande är öppen. Motionärerna uppgav att samma personer från Arenaskolan har ledande positioner inom förskolan.\n\nFörskolenämnden föreslog att motionen anses tillgodosedd. Helena Ståhl (SD) yrkade på bifall till motionen, men Kommunstyrelsen följde nämndens förslag. Helena Ståhl reserverade sig.",
+  "category": "skola",
+  "contested": true,
+  "location": "Igelkotten, Arenaskolan",
+  "paragraph_ref": "§ 83",
+  "tags": [
+    "förskola",
+    "Igelkotten",
+    "Arenaskolan",
+    "inspektion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Örebropartiet skriver att personer inom Arenaskolan är samma personer som har ledande positioner inom förskolan Igelkotten (Tala förskolor AB).",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_83.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_83/"
+  }
+}

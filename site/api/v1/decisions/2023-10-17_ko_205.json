@@ -1,0 +1,47 @@
+{
+  "id": "2023-10-17_ko_205",
+  "headline": "10,25 miljoner till akut park- och gatunderhåll hösten 2023",
+  "summary": "Kommunstyrelsen omfördelar 10,25 miljoner kronor från oförutsedda behov till Teknik- och servicenämnden för att genomföra akut underhåll inom park och gata.",
+  "detail": "Teknik- och serviceförvaltningen rapporterar om eftersatt underhåll inom verksamheten park och gata som behöver åtgärdas under hösten 2023. Efter många års effektiviseringar finns flera akuta åtgärder som behöver vidtas för att delar av anläggningen inte ska behöva tas ur bruk.\n\nInnerparker behöver driftunderhåll av möbler, bryggor, träbroar, byggnader och lekutrustning. Gångvägar kräver skötsel, naturvårdsåtgärder och trädvård. Gatusidan behöver underhåll av körbanor, gångbanor, asfaltreparationer efter grävjobb och brunnsbyten.\n\nMed tillfört kapital finns möjlighet att tidigarelägga åtgärder som annars skulle skjutas på 2024, vilket minskar risken för väsentligare skador senare. Markus Allard (ÖrP) yrkade på avslag men förlorade.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 205",
+  "tags": [
+    "park",
+    "gata",
+    "underhåll",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Inom park är det bland annat driftunderhåll av parkmöbler, bryggor, mindre träbroar byggnader och lekutrustning.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_205.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_205/"
+  }
+}

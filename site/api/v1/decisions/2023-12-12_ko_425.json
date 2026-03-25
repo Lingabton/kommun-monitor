@@ -1,0 +1,45 @@
+{
+  "id": "2023-12-12_ko_425",
+  "headline": "Motion om hemlöshetsansvar delvis tillgodosedd",
+  "summary": "Kommunfullmäktige avslog motion från MP om att tydliggöra kommunens ansvar för att motverka hemlöshet, men V ville tillgodose del av motionen.",
+  "detail": "Niclas Persson (MP) föreslog att socialtjänsten ska utse en socialsekreterare vid placering på härbärge och att härbärgesplatser ska betalas per natt med kostnad som ökar med tiden. Syftet var att ge ekonomiska incitament för aktiva insatser mot hemlöshet.\n\nKommunfullmäktige beslutade att avslå motionen. Programnämnd social välfärd bedömde att förslagen inte skulle leda till att kommunen når och hjälper fler i hemlöshet utan snarare försämra kontakten med målgruppen.\n\nJaber Fawaz (V) yrkade på bifall till första att-satsen (att socialtjänsten utser socialsekreterare), vilket blev motförslag men avslogs till förmån för huvudförslaget. MP och V-ledamöterna reserverade sig mot beslutet.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 425",
+  "tags": [
+    "hemlöshet",
+    "socialtjänst",
+    "motion",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "MP",
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen innehåller förslag om att socialtjänsten ska ansvara över att utse en socialsekreterare vid beslut om placering på härbärge.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2023-12-12_Kommunfullmäktige",
+    "date": "2023-12-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-12_ko_425.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-12_ko_425/"
+  }
+}

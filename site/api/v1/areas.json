@@ -1,29 +1,263 @@
 {
-  "count": 6,
+  "count": 10,
   "areas": [
     {
-      "id": "eyrafältet",
-      "name": "Eyrafältet",
-      "decisions_count": 2,
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/eyrafältet.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/eyrafältet/",
+      "id": "centrum",
+      "name": "Centrum",
+      "decisions_count": 16,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/centrum.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/centrum/",
       "decisions": [
         {
-          "id": "2024-04-09_ko_76",
-          "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
-          "summary": "Kommunstyrelsen godkände att Örebroporten Fastigheter AB förvärvar fyra fastigheter från Region Örebro Län för cirka 140 miljoner kronor, och Örebroporten Holding AB förvärvar en fastighet från Länsgården för cirka 14 miljoner kronor. Fastigheterna vid Eklundavägen kommer att användas för utveckling av elitidrottsområdet på Eyrafältet.",
-          "date": "2024-04-09",
+          "id": "2026-01-27_ko_2_3_4_5",
+          "headline": "Flera SD-motioner bordlades på ordförandens initiativ",
+          "summary": "Ordförande bordlade flertalet motioner från Sverigedemokraterna, inklusive kärnkraft, arbetsmiljö, Järntorget och Kilsmo skola.",
+          "date": "2026-01-27",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "politik",
+          "contested": true
+        },
+        {
+          "id": "2025-12-10_ko_397-417",
+          "headline": "Motioner om toaletter, värmestuga och flera andra bordläggs",
+          "summary": "Kommunfullmäktige bordlägger 13 motioner och interpellationer för senare behandling.",
+          "date": "2025-12-10",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "ovrigt",
+          "contested": true
+        },
+        {
+          "id": "2025-11-18_ko_363-375",
+          "headline": "Många motioner om kulturarv och infrastruktur bordlagda",
+          "summary": "Elva motioner bordlades på sammanträdet, inklusive förslag om kulturarvsvecka, motorgård, cirkulationsbibliotek och fontänen på Järntorget.",
+          "date": "2025-11-18",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "ovrigt",
+          "contested": false
+        },
+        {
+          "id": "2025-11-11_ko_231",
+          "headline": "Motion om att riva fontänen på Järntorget avslås",
+          "summary": "Sverigedemokraterna och ÖrP ville riva fontänen och återupprätta parkering på Järntorget. Kommun bedömer att problemen kräver innehållsmässiga, inte parkeringsmässiga lösningar.",
+          "date": "2025-11-11",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2025-11-11_ko_235",
+          "headline": "Fem nya motioner remitteras till nämnder och styrelse",
+          "summary": "Kommunfullmäktige remitterade fem motioner. Två går till Kommunstyrelsen för beredning, två till nämnder och en till Teknik- och servicenämnden.",
+          "date": "2025-11-11",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "ovrigt",
+          "contested": false
+        },
+        {
+          "id": "2025-10-22_ko_310",
+          "headline": "Samarbetsavtal Bus Rapid Transit etapp 2 godkänt",
+          "summary": "Kommunfullmäktige godkände samarbetsavtal med Region Örebro län för fortsatt utbyggnad av Bus Rapid Transit etapp 2, med fokus på pendlarparkeringar och näringsidkarommunikation.",
+          "date": "2025-10-22",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2025-03-26_ko_78",
+          "headline": "Motion om ställplatser för husbilar avslogs",
+          "summary": "Motion från KD om att utreda och inrymma ställplatser för husbilar nära Örebro centrum avslogs. Flera partier ville bibehålla detta för framtida utredning.",
+          "date": "2025-03-26",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2025-02-25_ko_61-62",
+          "headline": "Motioner om ställplatser husbilar och småhusbebyggelse bordlade",
+          "summary": "Kommunfullmäktige bordlade två motioner: Kristdemokraternas förslag om ställplatser för husbilar och Sverigedemokraternas krav på markförvärv för småhusbebyggelse.",
+          "date": "2025-02-25",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2025-01-21_ko_15",
+          "headline": "Motionen om ställplatser för husbilar avslogs",
+          "summary": "Motion från Susanne Lindholm Henningsson (KD) om utredning och iordningställande av ställplatser för husbilar i nära anslutning till Örebro city avslogs.",
+          "date": "2025-01-21",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "ovrigt",
+          "contested": true
+        },
+        {
+          "id": "2024-10-23_ko_277",
+          "headline": "Sammanträdestider för Kommunfullmäktige 2025 fastställda",
+          "summary": "Kommunfullmäktige fastställer ordinarie sammanträdestider för 2025 - tio ordinarie möten mellan januari och december på angivna dagar och tider.",
+          "date": "2024-10-23",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "ovrigt",
+          "contested": false
+        },
+        {
+          "id": "2024-03-20_ko_64",
+          "headline": "Rådhusets julkalender-motion avslås trots KD-stöd",
+          "summary": "Sverigedemokraterna motion om att återuppliva Rådhusets julkalender avslogs. KD och SD reserverade sig för motionen.",
+          "date": "2024-03-20",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "kultur",
+          "contested": true
+        },
+        {
+          "id": "2024-02-14_ko_41",
+          "headline": "Motion om Rådhusets julkalender bordläggs för fortsatt behandling",
+          "summary": "Kommunfullmäktige beslutade att bordlägga motion från SD om att återuppliva Rådhusets julkalender i egen regi.",
+          "date": "2024-02-14",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "kultur",
+          "contested": false
+        },
+        {
+          "id": "2024-01-23_ko_11",
+          "headline": "Rådhusets julkalender - ärendet bordlagt igen",
+          "summary": "SD motion om att återuppliva Rådhusets julkalender bordlades utan slutgörande beslut.",
+          "date": "2024-01-23",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "kultur",
+          "contested": false
+        },
+        {
+          "id": "2023-10-24_ko_359",
+          "headline": "Sammanträdestider för 2024 fastställda",
+          "summary": "Kommunfullmäktige fastställer tider för ordinarie sammanträden under 2024 samt reserverar tid för eventuella extra sammanträden.",
+          "date": "2023-10-24",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "ovrigt",
+          "contested": false
+        },
+        {
+          "id": "2023-09-19_ko_196",
+          "headline": "Motion om Rådhusets julkalender avslogs",
+          "summary": "Motion från Sverigedemokraterna om att återuppliva Rådhusets julkalender avslogs.",
+          "date": "2023-09-19",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "kultur",
+          "contested": true
+        },
+        {
+          "id": "2023-03-14_ko_57",
+          "headline": "Motion om bilfri zon på Stortorget avslagen",
+          "summary": "Motion från Miljöpartiet de gröna om att göra nedre delen av Stortorget till bilfri zon avsloges.",
+          "date": "2023-03-14",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "ovrigt",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "öster",
+      "name": "Öster",
+      "decisions_count": 11,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/öster.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/öster/",
+      "decisions": [
+        {
+          "id": "2026-01-20_ko_9",
+          "headline": "Partnerskap Örebro fortsätter - Allard vill lägga ned",
+          "summary": "Kommunstyrelsen accepterar återrapportering från Partnerskap Örebro. Markus Allard (ÖrP) yrkade att lägga ned partnerskapet utan framgång.",
+          "date": "2026-01-20",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "ovrigt",
+          "contested": true
+        },
+        {
+          "id": "2025-10-22_ko_310",
+          "headline": "Samarbetsavtal Bus Rapid Transit etapp 2 godkänt",
+          "summary": "Kommunfullmäktige godkände samarbetsavtal med Region Örebro län för fortsatt utbyggnad av Bus Rapid Transit etapp 2, med fokus på pendlarparkeringar och näringsidkarommunikation.",
+          "date": "2025-10-22",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2025-10-14_ko_206",
+          "headline": "Bus Rapid Transit etapp 2 godkänd - fokus på pendlarparkeringar",
+          "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med nya utgångspunkter om kommunikation med näringsidkare och pendlarparkering. Investeringen syftar till snabbare buskörning och ökat resande.",
+          "date": "2025-10-14",
           "meeting_type": "Kommunstyrelsen",
           "category": "infrastruktur",
           "contested": true
         },
         {
-          "id": "2024-04-09_ko_76",
-          "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
-          "summary": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
-          "date": "2024-04-09",
+          "id": "2025-05-13_ko_119",
+          "headline": "Ledamotsinitiativ om HBT-monument i Vivalla avslaget",
+          "summary": "SD:s Helena Ståhl initiativ om att upprätta monument över Muhsin Hendricks i Vivalla avslås som stridande mot konstnärlig frihet.",
+          "date": "2025-05-13",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "kultur",
+          "contested": true
+        },
+        {
+          "id": "2025-04-08_ko_99",
+          "headline": "HBT-monument i Vivalla remitteras till presidium",
+          "summary": "Helena Ståhl (SD) ledamotsinitiativ om att upprätta ett HBT-monument i Vivalla remitteras till Kommunstyrelsens presidium.",
+          "date": "2025-04-08",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "kultur",
+          "contested": false
+        },
+        {
+          "id": "2024-01-23_ko_8",
+          "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+          "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+          "date": "2024-01-23",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2023-11-13_ko_230",
+          "headline": "Seniorpuls-satsningen avbryts – kostnadskrävande utan förväntad effekt",
+          "summary": "Kommunstyrelsen godkänner slutrapport för Seniorpuls-satsningen och beslutar att insatsen inte implementeras. Rapporten visar att endast 25 seniorer fullföljde programmet och att målgruppen inte nåddes.",
+          "date": "2023-11-13",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": false
+        },
+        {
+          "id": "2023-08-29_ko_171",
+          "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+          "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+          "date": "2023-08-29",
           "meeting_type": "Kommunstyrelsen",
           "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2023-03-14_ko_46",
+          "headline": "Kommunövergripande lokalförsörjningsplan 2024-2034 antagen",
+          "summary": "Kommunstyrelsen antog lokalförsörjningsplanen med 29 prioriterade lokalprojekt, varav 18 är pågående. Flera oppositionspartier reserverade sig mot beslutet.",
+          "date": "2023-03-14",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2023-03-14_ko_49",
+          "headline": "Reservationsavtal med ÖBO för vård- och omsorgsboende i Brickebacken godkänt",
+          "summary": "Kommunstyrelsen godkände reservationsavtal för markförsäljning till ÖBO Omsorgsfastigheter AB för nybyggnation av vård- och omsorgsboende trots oppositionskritik om konkurrens.",
+          "date": "2023-03-14",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2023-01-17_ko_1",
+          "headline": "Återföring av medel från sociala investeringar Team Oxhagen",
+          "summary": "Kommunstyrelsen beslutar att fastställa återföringsplan för tre avslutade satsningar och åläggs nämnder att återföra medel. L och KD motsatte sig återföringen.",
+          "date": "2023-01-17",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
           "contested": true
         }
       ]
@@ -31,60 +265,258 @@
     {
       "id": "flygplatsen",
       "name": "Flygplatsen",
-      "decisions_count": 2,
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/flygplatsen.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/flygplatsen/",
+      "decisions_count": 11,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/flygplatsen.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/flygplatsen/",
       "decisions": [
         {
+          "id": "2026-01-20_ko_3",
+          "headline": "38,6 miljoner till Örebro Läns Flygplats 2026",
+          "summary": "Kommunstyrelsen beviljar 38,6 miljoner kronor i driftsbidrag till Örebro Läns Flygplats AB för år 2026. Beslutet strider mot miljökritik från Vänsterpartiet.",
+          "date": "2026-01-20",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        },
+        {
           "id": "2025-10-14_ko_202",
-          "headline": "Nya revisorer valda för kommunens bolag",
-          "summary": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+          "headline": "Revisor utbytt i sju kommunala bolag",
+          "summary": "Kommunstyrelsen gav instruktion till stämmoombud att byta revisor i flera kommunala bolag efter att Gustav Tönnies slutade på Ernst & Young AB. Per Modin och Joakim Holmquist utsågs till nya revisorer.",
           "date": "2025-10-14",
           "meeting_type": "Kommunstyrelsen",
           "category": "ovrigt",
           "contested": false
         },
         {
-          "id": "2024-04-09_ko_77",
-          "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
-          "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
+          "id": "2025-04-23_ko_110",
+          "headline": "Årsredovisning Örebro Rådhus AB godkänd, 32,6 mnkr resultat",
+          "summary": "Kommunfullmäktige godkände årsredovisningen för Örebro Rådhus AB och dess dotterbolag med ett resultat på 32,6 miljoner kronor efter skatt.",
+          "date": "2025-04-23",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "budget",
+          "contested": false
+        },
+        {
+          "id": "2024-12-03_ko_267",
+          "headline": "Driftsstöd till Örebro Läns Flygplats 17,9 miljoner för 2025",
+          "summary": "Kommunstyrelsen beviljade 17,9 miljoner kronor i driftsbidrag till Örebro Läns Flygplats för att täcka rörelseförluster under 2025.",
+          "date": "2024-12-03",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2024-04-24_ko_90",
+          "headline": "Utökat ägande i Kumbro Vind för att leverera el till flygplatsen",
+          "summary": "Kommunfullmäktige godkänner att Örebro läns flygplats och fastighetsbolaget Futurum blir aktieägare i Kumbro Vind. Detta möjliggör att flygplatsen upphandlar sitt elbehov från kommunens vindkraftbolag.",
+          "date": "2024-04-24",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2024-04-09_ko_74",
+          "headline": "Örebro Rådhuskoncernen: 137 miljoner resultat, inga utdelningar",
+          "summary": "Årsredovisningen för Örebro Rådhus AB och dotterbolag godkänns. Koncernen gjorde 137 miljoner kronor resultat. Ingen utdelning föreslås från moderbolaget till kommunen.",
           "date": "2024-04-09",
           "meeting_type": "Kommunstyrelsen",
-          "category": "ovrigt",
+          "category": "budget",
           "contested": true
-        }
-      ]
-    },
-    {
-      "id": "centrum",
-      "name": "Centrum",
-      "decisions_count": 1,
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/centrum.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/centrum/",
-      "decisions": [
+        },
         {
-          "id": "2025-12-10_ko_397-417",
-          "headline": "Många motioner och interpellationer bordlagda för senare behandling",
-          "summary": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra.",
-          "date": "2025-12-10",
+          "id": "2024-04-09_ko_77",
+          "headline": "Utökat ägande i Kumbro Vind AB för elförsörjning",
+          "summary": "Kommunstyrelsen godkänner att Örebro läns flygplats och Futurum blir aktieägare i Kumbro Vind AB för att möjliggöra elkraftleverans. Bolagsordning och aktieägaravtal uppdateras.",
+          "date": "2024-04-09",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2023-12-05_ko_243",
+          "headline": "Flygplats får 37 miljoner i driftbidrag 2024",
+          "summary": "Kommunstyrelsen beviljade Örebro Läns Flygplats AB totalt 37,3 miljoner kronor i driftbidrag för 2024, varav Örebro kommuns andel är 17,6 miljoner. Vänsterpartiet reserverade sig.",
+          "date": "2023-12-05",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2023-04-18_ko_134",
+          "headline": "Årsredovisningar för Rådhuskoncernen och dotterbolag godkända",
+          "summary": "Årsredovisningar för Örebro Rådhus AB och dotterbolag 2022 godkändes. Rådhuskoncernen gjorde 255 miljoner resultat efter skatt, moderbolaget 71,7 miljoner med 33 miljoner föreslaget utdelat.",
+          "date": "2023-04-18",
           "meeting_type": "Kommunfullmäktige",
-          "category": "politik",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2023-04-11_ko_74",
+          "headline": "Flygplatsens driftbidrag på 37 miljoner kronor godkänd för 2023",
+          "summary": "Driftsbidrag på totalt 37,3 miljoner kronor beviljas Örebro Läns Flygplats, varav Örebro kommuns andel är 17,6 miljoner kronor.",
+          "date": "2023-04-11",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2023-02-15_ko_52",
+          "headline": "Motion om Örebro Airport avslås",
+          "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om att utreda förstatligande eller försäljning av flygplatsen.",
+          "date": "2023-02-15",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
           "contested": true
         }
       ]
     },
     {
-      "id": "öster",
-      "name": "Öster",
-      "decisions_count": 1,
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/öster.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/öster/",
+      "id": "söder",
+      "name": "Söder",
+      "decisions_count": 8,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/söder.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/söder/",
       "decisions": [
         {
-          "id": "2025-10-14_ko_206",
-          "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
-          "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
-          "date": "2025-10-14",
+          "id": "2024-09-25_ko_236",
+          "headline": "Köp av mark i Ekeby-Almby för 31,5 miljoner kronor",
+          "summary": "Kommunfullmäktige godkänner förvärv av tre fastigheter (Almby 13:454, 13:384 och 13:372) totalt cirka 41 hektar för framtida bostadsexploatering, naturvård och allmänna platser.",
+          "date": "2024-09-25",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2024-09-17_ko_152",
+          "headline": "Kommunen förvärvar 41 hektar mark i Ekeby-Almby för 31,5 miljoner",
+          "summary": "Kommunstyrelsen godkänner köp av fastigheterna Almby 13:454, 13:384 och 13:372 för framtida exploatering av bostäder och bevarande av naturvärden.",
+          "date": "2024-09-17",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2023-09-27_ko_314",
+          "headline": "Örebrobostäder får förlängning av reservationsavtal för 130 bostäder",
+          "summary": "Kommunfullmäktige godkände förlängning av reservationsavtal för fastigheten Citronmelissen 1 i Tamarinden. Örebrobostäder kan bygga cirka 130 hyresrätter på marken värd cirka 28 miljoner kronor.",
+          "date": "2023-09-27",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2023-09-19_ko_188",
+          "headline": "Citronmelissen 1: 130 lägenheter för 28 miljoner",
+          "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 130 hyresrätter på Citronmelissen 1 i Tamarinden, Sörbyängen.",
+          "date": "2023-09-19",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2023-09-19_ko_189",
+          "headline": "Pepparmyntan 1: 60 hyresrätter för cirka 13 miljoner",
+          "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 60 hyresrätter på Pepparmyntan 1 i Tamarinden.",
+          "date": "2023-09-19",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2023-09-19_ko_190",
+          "headline": "Renfanan 1: 80 hyresrätter för cirka 8,8 miljoner",
+          "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 80 hyresrätter på Renfanan 1 i Tamarinden.",
+          "date": "2023-09-19",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2023-09-19_ko_191",
+          "headline": "Lakritsroten 1: 100 hyresrätter för cirka 13 miljoner",
+          "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 100 hyresrätter på Lakritsroten 1 i Tamarinden.",
+          "date": "2023-09-19",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2023-02-07_ko_31",
+          "headline": "Motion om naturreservat Sörbyskogen avslogs",
+          "summary": "Kommunstyrelsen avslogs Miljöpartiet de grönas motion om att inrätta naturreservatet Sörbyskogen. V och SD ville bifalla motionen.",
+          "date": "2023-02-07",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "miljo",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "norr",
+      "name": "Norr",
+      "decisions_count": 7,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/norr.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/norr/",
+      "decisions": [
+        {
+          "id": "2025-06-18 och 2025-06-19_ko_176",
+          "headline": "Reservationsavtal med Epiroc för Ånsta 20:209 godkänt",
+          "summary": "Kommunfullmäktige godkänte reservationsavtal med Epiroc Rock Drills AB för distributionscenter på fastigheten Ånsta 20:209, beräknad köpeskilling omkring 40 miljoner kronor.",
+          "date": "2025-06-18",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2025-06-10_ko_141_142_143",
+          "headline": "Markområden till Peab och Epiroc för bostäder och industri",
+          "summary": "Kommunstyrelsen godkände tre reservationsavtal för markområden: Peab Bostad AB för Hovsta-fastigheter (15 mnkr), Epiroc för test-/kompetenscenter (75 mnkr) och distributionscenter (40 mnkr).",
+          "date": "2025-06-10",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2025-03-18_ko_55",
+          "headline": "Markförsäljning till Circle K Sverige för drivmedelsstation cirka 11,5 miljoner",
+          "summary": "Kommunstyrelsen godkände ett reservationsavtal för försäljning av mark till Circle K Sverige AB för uppförande av en drivmedelsstation. Försäljningspriset är cirka 11,5 miljoner kronor.",
+          "date": "2025-03-18",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2024-12-03_ko_249",
+          "headline": "Fastigheten Ånsta 20:274 såld för 14,3 miljoner kronor",
+          "summary": "Kommunstyrelsen godkände försäljning av mark till AMEXCI AB för cirka 14,3 miljoner kronor.",
+          "date": "2024-12-03",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2024-11-12_ko_220",
+          "headline": "Försäljning av fastigheter – 26 miljoner till Örebroporten",
+          "summary": "Kommunstyrelsen godkänner försäljning av del av Tankbilen 3 och Ånsta 20:134 till Örebroporten Fastigheter AB för 26 miljoner kronor.",
+          "date": "2024-11-12",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2024-01-23_ko_8",
+          "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+          "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+          "date": "2024-01-23",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2023-08-29_ko_171",
+          "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+          "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+          "date": "2023-08-29",
           "meeting_type": "Kommunstyrelsen",
           "category": "infrastruktur",
           "contested": true
@@ -92,34 +524,250 @@
       ]
     },
     {
-      "id": "karlslund",
-      "name": "Karlslund",
-      "decisions_count": 1,
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/karlslund.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/karlslund/",
+      "id": "garphyttan",
+      "name": "Garphyttan",
+      "decisions_count": 6,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/garphyttan.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/garphyttan/",
       "decisions": [
         {
-          "id": "2024-04-09_ko_83",
-          "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
-          "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+          "id": "2025-03-26_ko_80",
+          "headline": "Motion om att skydda Garphytteklint delvis godkänd efter votering",
+          "summary": "Motion från Miljöpartiet om långsiktigt skydd för Garphytteklint ansågs besvarad. Kommunen arbetar med naturreservatsbildning och naturvårdsavtal för området.",
+          "date": "2025-03-26",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "miljo",
+          "contested": true
+        },
+        {
+          "id": "2025-02-25_ko_63",
+          "headline": "Motion om att skydda Garphytteklint bordlades",
+          "summary": "Kommunfullmäktige bordlade Miljöpartiets motion om att långsiktigt skydda Garphytteklint och dess artrikedom.",
+          "date": "2025-02-25",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "miljö",
+          "contested": true
+        },
+        {
+          "id": "2025-01-29_ko_27-30",
+          "headline": "Sex motioner om bostäder, skogsbruk och väld bordlades",
+          "summary": "Motioner om tak-över-huvudet-garanti, husbilar, småhusmark, Garphytteklint, väld mot kvinnor och israelisk bojkott bordlades.",
+          "date": "2025-01-29",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "ovrigt",
+          "contested": false
+        },
+        {
+          "id": "2025-01-21_ko_17",
+          "headline": "Motion om Garphytteklint naturreservat besvarad",
+          "summary": "Motion från Lea Strandberg (MP) om långsiktigt skydd för Garphytteklint ansågs besvarad.",
+          "date": "2025-01-21",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "miljo",
+          "contested": false
+        },
+        {
+          "id": "2024-01-23_ko_8",
+          "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+          "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+          "date": "2024-01-23",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2023-08-29_ko_171",
+          "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+          "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+          "date": "2023-08-29",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "infrastruktur",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "väster",
+      "name": "Väster",
+      "decisions_count": 5,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/väster.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/väster/",
+      "decisions": [
+        {
+          "id": "2025-03-18_ko_55",
+          "headline": "Markförsäljning till Circle K Sverige för drivmedelsstation cirka 11,5 miljoner",
+          "summary": "Kommunstyrelsen godkände ett reservationsavtal för försäljning av mark till Circle K Sverige AB för uppförande av en drivmedelsstation. Försäljningspriset är cirka 11,5 miljoner kronor.",
+          "date": "2025-03-18",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "bygg",
+          "contested": false
+        },
+        {
+          "id": "2023-03-22_ko_89",
+          "headline": "Trafikplats Norra Marieberg: Kostnadsökning från 109 till 149 miljoner godkänd",
+          "summary": "Kommunfullmäktige godkände en kostnadsökning på cirka 34 procent för trafikplatsen över E20 vid Norra Marieberg. Den nya kostnaden förväntas bli 149 miljoner kronor jämfört med tidigare budgeterad 109 miljoner.",
+          "date": "2023-03-22",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2023-03-14_ko_50",
+          "headline": "Trafikplats Norra Marieberg: 34 procent kostnadsökning godkänd",
+          "summary": "Kommunstyrelsen godkände 34 procent kostnadsökning för trafikplatsprojektet från 109 till 149 miljoner kronor trots kritik från opposition om bristande underlag.",
+          "date": "2023-03-14",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2023-02-15_ko_47",
+          "headline": "Örebroporten säljer aktier i Marieberg Utvecklings AB",
+          "summary": "Kommunfullmäktige godkänner försäljning av Örebro kommuns aktier i MUAB till övriga delägare. Försäljningen genererar en realisationsvinst på cirka 8,8 miljoner kronor.",
+          "date": "2023-02-15",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2023-02-07_ko_24",
+          "headline": "Aktieöverlåtelse av Marieberg Utvecklings AB genomförd",
+          "summary": "Kommunstyrelsen godkände försäljningen av Örebroportens aktier i Marieberg Utvecklings AB. Försäljningen beräknas ge realisationsvinst på 8,8 mnkr.",
+          "date": "2023-02-07",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "eyrafältet",
+      "name": "Eyrafältet",
+      "decisions_count": 5,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/eyrafältet.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/eyrafältet/",
+      "decisions": [
+        {
+          "id": "2025-09-16_ko_179",
+          "headline": "Aktieöverlåtelse av fastighet Örebro Staven 5 för 63 mnkr",
+          "summary": "Kommunstyrelsen godkänner försäljning av fastigheten Örebro Staven 5 genom aktieöverlåtelse till Norrpalatset-koncernen. Försäljningen genererar en realisationsvinst på cirka 28,5 mnkr för kommunens bolag Kikapu i Örebro AB.",
+          "date": "2025-09-16",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2024-10-23_ko_273",
+          "headline": "Tilläggsbudget 2025-2028 med nya taxor och parkeringsavgifter",
+          "summary": "Kommunfullmäktige fastställer tilläggsbudget för 2025-2028 och beslutar om omfattande taxeförändringar gällande parkering, avfall, vatten/avlopp och avgifter för fristående förskolor.",
+          "date": "2024-10-23",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2024-04-24_ko_89",
+          "headline": "Örebroporten förvärvar sex fastigheter vid Eklundavägen",
+          "summary": "Kommunfullmäktige godkänner att Örebroporten förvärvar fastigheterna från Region Örebro Län för cirka 140 miljoner kronor och från Länsgården för cirka 14 miljoner kronor. Fastigheterna möjliggör utveckling av elitidrottsområdet på Eyrafältet.",
+          "date": "2024-04-24",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "infrastruktur",
+          "contested": true
+        },
+        {
+          "id": "2024-04-09_ko_76",
+          "headline": "Förvärv av Eklundaområdet från Region Örebro: 154 miljoner kronor",
+          "summary": "Kommunstyrelsen godkänner förvärv av sex fastigheter vid Eklundavägen från Region Örebro Län och Länsgården. Köpeskillingen är cirka 154 miljoner kronor. Förvärvet möjliggör utveckling av Eyrafältet.",
           "date": "2024-04-09",
           "meeting_type": "Kommunstyrelsen",
-          "category": "regler",
-          "contested": false
+          "category": "bygg",
+          "contested": true
+        },
+        {
+          "id": "2023-05-23_ko_103",
+          "headline": "Namnrättigheter för Eyrafältets arenor förhandlade med Behrn",
+          "summary": "Tilläggsavtal godkändes för Behrn Fastigheter ABs namnrättigheter till Eyrafältets arenor. Avtalet förlängs till 2028 med årlig ersättning på 3 miljoner kronor.",
+          "date": "2023-05-23",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "ovrigt",
+          "contested": true
         }
       ]
     },
     {
       "id": "hjälmaren",
       "name": "Hjälmaren",
-      "decisions_count": 1,
-      "api_url": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/hjälmaren.json",
-      "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/hjälmaren/",
+      "decisions_count": 5,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/hjälmaren.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/hjälmaren/",
       "decisions": [
         {
+          "id": "2026-02-10_ko_35",
+          "headline": "Fem nya motioner remitteras till nämnder och beredning",
+          "summary": "Kommunfullmäktige har remitterat fem motioner. En om mittokrati beredas internt, fyra skickas till nämnder.",
+          "date": "2026-02-10",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "politik",
+          "contested": false
+        },
+        {
           "id": "2024-04-09_ko_83",
-          "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
-          "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+          "headline": "Övertagande av ägarskap för sju styrdokument",
+          "summary": "Kommunstyrelsen tar över ägarskapet för sju styrdokument från den nedlagda Programnämnden samhällsbyggnad, bland annat parkeringsriktlinjer, cykelparkering och arkitekturstrategi.",
+          "date": "2024-04-09",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "regler",
+          "contested": false
+        },
+        {
+          "id": "2023-10-24_ko_357",
+          "headline": "Förening för Hjälmarens utveckling bildas tillsammans med andra kommuner",
+          "summary": "Kommunfullmäktige beslutar att bilda föreningen Hjälmarsamarbetet tillsammans med närliggande kommuner, regioner och länsstyrelser för samordnad utveckling av Hjälmaren.",
+          "date": "2023-10-24",
+          "meeting_type": "Kommunfullmäktige",
+          "category": "ovrigt",
+          "contested": true
+        },
+        {
+          "id": "2023-10-17_ko_203",
+          "headline": "Omstridd Hjälmarsamarbetet-förening efter kritik från flera partier",
+          "summary": "Kommunstyrelsen beslutar att bilda föreningen Hjälmarsamarbetet tillsammans med andra kommuner och regioner, trots att fyra partier ville ha ärende återremitterat för att få svar på frågor om ansvarsfördelning.",
+          "date": "2023-10-17",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "miljo",
+          "contested": true
+        },
+        {
+          "id": "2023-02-07_ko_28",
+          "headline": "Gemensam Hjälmaren-strategi antagen",
+          "summary": "Kommunstyrelsen antog en gemensam strategi för utveckling av Hjälmaren tillsammans med andra kommuner och aktörer.",
+          "date": "2023-02-07",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "miljo",
+          "contested": false
+        }
+      ]
+    },
+    {
+      "id": "karlslund",
+      "name": "Karlslund",
+      "decisions_count": 2,
+      "api_url": "https://lingabton.github.io/kommun-monitor/api/v1/areas/karlslund.json",
+      "web_url": "https://lingabton.github.io/kommun-monitor/omrade/karlslund/",
+      "decisions": [
+        {
+          "id": "2024-12-03_ko_236",
+          "headline": "Tilläggsanslag 2024 på 8,9 miljoner kronor beviljat",
+          "summary": "Kommunstyrelsen beviljade 8,9 miljoner kronor i tilläggsanslag för 2024 för löneöversyn och investeringar. SD och ÖrP reserverade sig.",
+          "date": "2024-12-03",
+          "meeting_type": "Kommunstyrelsen",
+          "category": "budget",
+          "contested": true
+        },
+        {
+          "id": "2024-04-09_ko_83",
+          "headline": "Övertagande av ägarskap för sju styrdokument",
+          "summary": "Kommunstyrelsen tar över ägarskapet för sju styrdokument från den nedlagda Programnämnden samhällsbyggnad, bland annat parkeringsriktlinjer, cykelparkering och arkitekturstrategi.",
           "date": "2024-04-09",
           "meeting_type": "Kommunstyrelsen",
           "category": "regler",

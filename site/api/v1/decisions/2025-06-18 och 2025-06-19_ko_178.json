@@ -1,0 +1,37 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_178",
+  "headline": "Åtta motioner anmälda från SD, KD och ÖrP",
+  "summary": "Motioner anmäldes om fria bussresor pensionärer, svenskt teckenspråk, skolmat, parkering, krogarnas öppettider och vägtecken.",
+  "detail": "Följande motioner anmäldes för remittering till Kommunstyrelsen:\n\n- Helena Ståhl (SD) och Bo Ammer (SD) om fria bussresor för pensionärer\n- Helena Ståhl (SD) om att få fler hörande som kan svenskt teckenspråk\n- Helena Ståhl (SD) och Bjarne Bäckström (SD) om införande av stående maträtt i grundskolan så eleverna äter sig mätta\n- Helena Ståhl (SD) m.fl. om att påbörja arbete med nollbasbudget\n- Habib Brini (SD) och Bjarne Bäckström (SD) om att tillåta matlåda till skolan\n- Susanne Lindholm Henningsson (KD) om att återinföra lägre parkeringsavgift\n- Markus Allard (ÖrP) om krogarnas öppettider\n- Markus Allard (ÖrP) om markeringar tio meter från korsningar",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 178",
+  "tags": [
+    "motioner",
+    "pendlarfrågor",
+    "skola",
+    "parkering",
+    "transporter"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Motionerna remitteras till Kommunstyrelsen.",
+  "quote_page": "s. 16-17",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_178.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_178/"
+  }
+}

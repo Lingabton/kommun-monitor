@@ -1,0 +1,42 @@
+{
+  "id": "2023-12-05_ko_248",
+  "headline": "Nya IT-system får 30 miljoner kronor för 2024",
+  "summary": "Kommunstyrelsen tilldelade 30 miljoner kronor för 2024 för byte av verksamhetssystem och digitaliseringsprojekt.",
+  "detail": "Från och med 2024 behöver kommunen byta de nuvarande verksamhetssystemen Treserva och Procapita för vård- och omsorgsverksamheten. Kommunstyrelsen tilldelade därför 30 000 000 kronor för 2024 för byte av dessa system och övriga projekt inom digitaliseringsportföljen.\n\nMedel finansierades från Kommunstyrelsens oförutsedda budget. Karolina Wallström (L) reserverade sig mot detta beslut tillsammans med andra oppositionspartier som hade alternativa budgetförslag.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 248",
+  "tags": [
+    "IT-system",
+    "digitalisering",
+    "Treserva",
+    "Procapita"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "L"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunstyrelsen tilldelas ett tillfälligt budgetanslag för 2024 på 30 000 tkr för byte av verksamhetssystem (Treserva/procapita) samt övriga projekt inom digitaliseringsportföljen.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_248.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_248/"
+  }
+}

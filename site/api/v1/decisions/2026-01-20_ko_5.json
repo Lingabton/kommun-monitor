@@ -1,0 +1,41 @@
+{
+  "id": "2026-01-20_ko_5",
+  "headline": "Landsbygdsdelegationen får fortsätta trots kritik",
+  "summary": "Kommunstyrelsen antar Landsbygdsdelegationens verksamhetsplan för 2026, men Kristdemokraterna kritiserar delegationen för ineffektivitet och slöseri.",
+  "detail": "Kommunstyrelsen antar Landsbygdsdelegationens verksamhetsplan för 2026 enligt förslaget från delegationen själv.\n\nSusanne Lindholm Henningsson (KD) yrkade att avslå planen och lägga ned delegationen. Hon kritiserar att delegationen kostar omkring 200 000 kronor årligen plus två tjänster inom Näringslivsavdelningen utan att ge direkt mervärde. Som exempel nämner hon att delegationen bara genomfört en medborgardialog under 2025.\n\nKD yrkar att landsbygdsfrågorna istället förtydligas i Örebro Strategiska Bild (ÖSB) och följs upp i ordinär årsprocess där varje nämnd rapporterar sitt bidrag.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) stödde KD:s yrkande.\n\nOrdförandes proposition bifölls och delegationen fortsätter.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 5",
+  "tags": [
+    "landsbygd",
+    "delegation",
+    "kostnad",
+    "verksamhetsplan",
+    "ländsbygdsutveckling"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "L",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kommunstyrelsens landsbygdsdelegations verksamhetsplan för år 2026 antas.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_5.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_5/"
+  }
+}

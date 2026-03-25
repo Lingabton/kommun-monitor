@@ -1,0 +1,45 @@
+{
+  "id": "2024-10-15_ko_175",
+  "headline": "Tilläggsanslag 21,3 mkr beviljade för oförutsedda kostnader",
+  "summary": "Kommunstyrelsen beviljade totalt 21 310 tkr i tilläggsanslag för 2024 till nämnder för kostnadsökningar.",
+  "detail": "Tilläggsanslag avsåg kompensation till nämnder för tillfälliga förstärkningar för 2024 och ombudgetering för justeringar av lönekompensation. Finansiering sker ur Kommunstyrelsens utrymme för generella kostnadsökningar samt utrymme för oförutsedda behov. Markus Allard (ÖrP) reserverade sig.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 175",
+  "tags": [
+    "budget",
+    "anslag"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas med totalt 21 310 tkr enligt Kommunledningsförvaltningens förslag.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-10-15_Kommunstyrelsen",
+    "date": "2024-10-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-15_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_175.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-15_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-15_ko_175/"
+  }
+}

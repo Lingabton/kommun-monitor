@@ -1,0 +1,45 @@
+{
+  "id": "2025-05-13_ko_108",
+  "headline": "Ny riktlinje för styrdokument antagen trots motstånd",
+  "summary": "Kommunstyrelsen antar reviderad riktlinje för styrdokument från 2025-06-01. Liberalerna och SD motsatte sig beslutet.",
+  "detail": "Den tidigare riktlinjen för styrdokument från 2014 var föråldrad och behövde revideras. Den nya riktlinjen reglerar kraven vid utformandet och användandet av styrdokument i kommunen, ska stödja utgångspunkterna i styrmodellen och fastställer en struktur för framtagande av styrdokument. Revideringen innebär förändringar av vilka styrdokument som används på olika beslutsnivåer.\n\nKarolina Wallström (L) yrkade i första hand på återremiss för bred beredning, i andra hand på avslag. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade avslag. Martha Wicklund (V) lämnade ett särskilt yttrande.\n\nOrdföranden avslogs återremissynrandet och kommunstyrelsen beslutade enligt förvaltningens förslag. Wallström, Ståhl, Larsson och Allard reserverade sig.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 108",
+  "tags": [
+    "styrdokument",
+    "riktlinjer",
+    "organisation"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Förslag till Riktlinje för styrdokument antas. Beslutet gäller från och med den 1 juni 2025.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_108.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_108/"
+  }
+}

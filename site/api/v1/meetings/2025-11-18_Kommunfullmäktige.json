@@ -1,0 +1,402 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2025-11-18",
+  "decisions": [
+    {
+      "headline": "Konstpolicy reviderad med flexibel fördelning av enprocentsmedel",
+      "summary": "Kommunfullmäktige antog reviderad konstpolicy för Örebro kommun. Ändringar gör att enprocentsmedlen kan fördelas flexibelt mellan prioriterade projekt för strategiska effekter.",
+      "detail": "Kultur- och fritidsnämnden hade föreslagit revidering av hur medel från enprocentsregeln används. Nuvarande arbetssätt föreslogs revideras så att flexibel fördelning mellan prioriterade projekt tillämpas som standard. Lokalplaneringsenheten hade också uppdagat skillnader mellan sina riktlinjer och konstpolicyn gällande undantag från enprocentsregeln. Förslagen till nya formuleringar framtogs i dialog mellan konstenheten och lokalplaneringsenheten. Sverigedemokraterna ville avskaffa konstpolicyn helt, Örebropartiet ville också avskaffa enprocentsregeln, men majoriteten fattade beslut enligt Kommunstyrelsens förslag.\n\nBeslut: Förslag till reviderad konstpolicy antas.",
+      "category": "kultur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 354",
+      "quote": "Nuvarande arbetssätt föreslås revideras så att flexibel fördelning av dessa medel mellan prioriterade projekt tillämpas som standardförfarande för att uppnå positiva strategiska effekter för den kommunala konstverksamheten.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "konstpolicy",
+        "enprocentsregeln",
+        "kultur",
+        "styrdokument"
+      ],
+      "id": "2025-11-18_ko_354",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Motion om integrationssatsningar avslågen efter långt beredningsförlopp",
+      "summary": "Kommunfullmäktige avslog Carola Sunessons motion om kartläggning och modell för integrationssatsningar. Ärendet hade bordlagts sex gånger.",
+      "detail": "Carola Sunesson (SD) motionerade 2024 om att genomföra en fullständig kartläggning av hittills gjorda integrationssatsningar och införa en komplett modell för planering, redovisning och uppföljning av framtida satsningar. Kommunledningsförvaltningen bedömde detta för komplext att genomföra. Ärendet bordlades på kommunfullmäktiges sammanträden 23 april, 21 maj, 18-19 juni, 27 augusti, 24 september och 22 oktober 2025 innan det avslogs.\n\nDecision: Båda motionens yrkanden avslogs. SD och OrP reserverade sig.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 355",
+      "quote": "En kartläggning av hittills genomförda integrationssatsningar och en komplett modell för framtida integrationssatsningar i Örebro är för komplex att genomföra.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "integration",
+        "motion",
+        "bordlagd sex gånger"
+      ],
+      "id": "2025-11-18_ko_355",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Motion om föräldrautbildning vid hedersförtryck avslogs på omröstning",
+      "summary": "Kommunfullmäktige röstade ned Sverigedemokraternas motion om kravställande föräldrautbildning för vårdnadshavare som utsat barn för hedersförtryck.",
+      "detail": "Helena Ståhl och Carola Sunesson (SD) motionerade om kravställande föräldrautbildning fokuserad på föräldraansvar och barnrätt enligt svenska regler. De föreslog även att sådan utbildning kunde göras obligatorisk vid hedersförtryck eller hedersförtryck. Kommunledningsförvaltningen bedömde förslagen inte förenliga med lagstiftningen.\n\nOrdföranden avvisade motionens yrkande med hänvisning till Kommunallagen. SD och OrP protesterade. Vid votering röstade 50 mot 13 för att avvisa yrkandet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 357",
+      "quote": "Bedömningen är att motionen bör avslås eftersom förslagen inte är förenliga med lagstiftningen på området.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "hedersförtryck",
+        "föräldrautbildning",
+        "motion",
+        "lagstiftning"
+      ],
+      "id": "2025-11-18_ko_357",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Många motioner om kulturarv och infrastruktur bordlagda",
+      "summary": "Elva motioner bordlades på sammanträdet, inklusive förslag om kulturarvsvecka, motorgård, cirkulationsbibliotek och fontänen på Järntorget.",
+      "detail": "Kommunfullmäktige bordlade följande motioner för senare behandling: \n\n§363 - Bjarne Bäckström (SD) motion om motorgård för ungdomar i centrala Örebro.\n\n§364 - Carola Sunesson och Bo Ammer (SD) motion om årlig kulturarvsvecka.\n\n§365 - Carola Sunesson (SD) motion om byggnadsvårdspris (bedömdes vara tillgodosedd).\n\n§366 - Carola Sunesson och Habib Brini (SD) motion om medborgarinflytande på arkitektur.\n\n§367 - Johanna Reimfelt och Mats-Olof Liljegren (L) motion om cirkulationsbibliotek för klassuppsättningar.\n\n§368 - Karolina Wallström m.fl. (L) motion om offentliga toaletter.\n\n§369 - Martha Wicklund (V) m.fl. motion om återbruk.\n\n§370 - Helena Ståhl (SD) m.fl. motion om SMR-områden i översiktsplanen.\n\n§371 - Karolina Wallström och Johanna Reimfelt (L) motion om färdtjänstens upplägg.\n\n§372 - Helena Ståhl (SD) m.fl. motion om raster för bön.\n\n§373 - Martha Wicklund (V) m.fl. motion om förtroendevaldas trygghet.\n\n§374 - Helena Ståhl (SD) m.fl. motion om Järntorgets fontän och parkering.\n\n§375 - Carola Sunesson och Bo Ammer (SD) motion om styrDocuments-rensning.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 363-375",
+      "quote": "Ordförande Jan Zetterqvist (S) föreslår kommunfullmäktige att resterande motioner på dagordningen bordläggs.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Bordläggning"
+      },
+      "tags": [
+        "bordlagda motioner",
+        "infrastruktur",
+        "kulturarv",
+        "Järntorget"
+      ],
+      "id": "2025-11-18_ko_363-375",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Enkla frågor om återvandringsbidrag och moderaternas politik nekades",
+      "summary": "Ordföranden avvisade tre enkla frågor från SD angående återvandringsbidrag och politiska allianser som inte uppfyllde kriterierna.",
+      "detail": "David Larsson (SD) och Carola Sunesson (SD) ställde enkla frågor till John Johansson (S) om återvandringsbidraget och om Moderaternas sak är Socialdemokraternas. Bo Ammer (SD) ställde fråga till Anders Åhrlin (M). Ordförande Jan Zetterqvist (S) avvisade alla tre frågorna med hänvisning till att de inte uppfyllde kriterierna för enkla frågor enligt Kommunallagens 5 kap 64 §.\n\nSD och OrP reserverade sig kraftigt mot avvisandet.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 341-343",
+      "quote": "Ordföranden Jan Zetterqvist (S) föreslår kommunfullmäktige att frågan inte ska få ställas eftersom den inte uppfyller kriterierna för en enkel fråga enligt Kommunallagens 5 kap 64 §.",
+      "quote_page": "s. 6-8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "enkla frågor",
+        "återvandringsbidrag",
+        "procedurfråga"
+      ],
+      "id": "2025-11-18_ko_341-343",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Motion om hedersförtryck bedömdes redan besvarad",
+      "summary": "Kommunfullmäktige beslöt att motionen från Helena Ståhl (SD) om strategi mot hedersförtryck var redan besvarad.",
+      "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) motionerade om att kommunen skulle ta fram en kravställande strategi mot hedersförtryck och hederskultur. De menade att nuvarande handlingsplan mot våld i nära relationer saknade tillräckligt fokus på hedersproblematik.\n\nKommunledningsförvaltningen bedömde att Örebro kommun redan arbetar aktivt med att utveckla ny styrning för att bekämpa våld i nära relationer, hedersrelaterat våld och sexuell exploatering. Den nya strategin innehåller insatser för både utsatta och förövare. Ärendet anses därför besvarat. SD, OrP, KD och L reserverade sig.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 359",
+      "quote": "Örebro kommun arbetar redan aktivt med att utveckla en ny styrning för att bekämpa våld i nära relationer, hedersrelaterat våld och sexuell exploatering.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "OrP",
+          "KD",
+          "L"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "hedersförtryck",
+        "hedersvåld",
+        "strategi",
+        "motion"
+      ],
+      "id": "2025-11-18_ko_359",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Motion om lokalhistoria i skolorna avslogs",
+      "summary": "Kommunfullmäktige avslog Helena Ståhls motion om att stärka undervisningen i kulturarv och lokalhistoria.",
+      "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) motionerade om att varje klass minst en gång per termin skulle besöka lokalhistoriskt betydelsefulla platser och att sakkunniga skulle inbjudas till skolklasser.\n\nKommunledningsförvaltningen bedömde att undervisningens innehåll beslutas av lärare enligt nationella läroplaaner, och motionens förslag innebar en mer styrd inriktning som inte fullt överensstämmer med lärarnas professionella frihet.",
+      "category": "skola",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 358",
+      "quote": "Motionens förslag innebär en mer styrd inriktning av undervisningen, vilket inte fullt ut överensstämmer med lärarnas ansvar och professionella frihet.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "lokalhistoria",
+        "kulturarv",
+        "skolundervisning",
+        "motion"
+      ],
+      "id": "2025-11-18_ko_358",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Motion om beredskapsplan för kulturarvet anses besvarad",
+      "summary": "Carola Sunesson och Habib Brini (SD) motion om beredskapsplan för kulturarvet bedömdes redan besvarad.",
+      "detail": "Motionen innehöll förslag om att ta fram beredskapsplan för Örebro kommuns kulturarv. Kommunledningsförvaltningen bedömde att beredskapsplaneringen redan pågår genom nyligen tillsatt Råd för skydd av kulturarvet på nationell nivå. På lokal nivå samordnas arbetet av Länsstyrelsen tillsammans med berörda institutioner som Örebro kommun.",
+      "category": "kultur",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 356",
+      "quote": "Bedömningen är att beredskapsplaneringen för kulturarvet är pågående i form av Rådet för skydd av kulturarvet som nyligen tillsatts på nationell nivå.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "L"
+        ],
+        "against": [
+          "SD",
+          "OrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "kulturarv",
+        "beredskapsplan",
+        "motion"
+      ],
+      "id": "2025-11-18_ko_356",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Motion om säkerhet för förtroendevalda dras tillbaka",
+      "summary": "Vänsterpartiet drog tillbaka sin motion om att kommunen ska stötta förtroendevalda i hot- och våldssituationer.",
+      "detail": "Martha Wicklund (V) m.fl. motionerade om att kommundirektören omedelbart skulle starta arbete med policy för stöd till förtroendevalda i hot- och våldssituationer och säkerställa att alla förtroendevalda har kännedom om policyn.\n\nKommunledningsförvaltningen bedömde att det på nationell nivå finns ett förslag att ålägga kommunerna ansvara för vissa förtroendevaldas säkerhet, och att det även är upp till partierna att ansvara för sina egna förtroendevaldas säkerhet.\n\nV drog tillbaka motionen innan omröstning.",
+      "category": "politik",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 339",
+      "quote": "Bedömningen är att det på nationell nivå finns ett förslag att ålägga kommunerna att ansvara för vissa förtroendevaldas säkerhet.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Tillbakadragen"
+      },
+      "tags": [
+        "säkerhet",
+        "förtroendevalda",
+        "hot och våld"
+      ],
+      "id": "2025-11-18_ko_339",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Motion om ekonomiska fallskärmar dras tillbaka",
+      "summary": "Helena Ståhl och Habib Brini (SD) motion om begränsning av avgångsvederlag och ekonomiska fallskärmar drogs tillbaka.",
+      "detail": "Motionen yrkade på ändringar av styrdokument så att beslut om ekonomisk kompensation alltid fattades politiskt och aldrig kunde delegeras. Kommunledningsförvaltningen bedömde att motionens intentioner redan hanterades genom gällande rättsordning och befintliga rutiner.\n\nSD drog tillbaka motionen innan omröstning.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 340",
+      "quote": "Kommunledningsförvaltningen bedömer att motionens intentioner redan hanteras genom gällande rättsordning, befintliga rutiner samt varje nämnds och kommunstyrelsens ansvar för sina delegationsordningar.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Tillbakadragen"
+      },
+      "tags": [
+        "avgångsvederlag",
+        "ekonomiska fallskärmar",
+        "motion"
+      ],
+      "id": "2025-11-18_ko_340",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    },
+    {
+      "headline": "Interpellationer om ekonomi och beredskap debatterades",
+      "summary": "David Larsson (SD) och Martha Wicklund (V) ställde interpellationer till John Johansson (S) om vad pengarna används till och beredskapen.",
+      "detail": "David Larsson (SD) interpellerade John Johansson (S) om vad man får för pengarna i kommunens verksamheter. Debatt fördes med flera talare.\n\nMartha Wicklund (V) interpellerade John Johansson (S) om hur Örebro kommun arbetar med beredskapen. Flera politiker från olika partier deltog i debatten.\n\nBåda ärendena avslutades efter debatt.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 360-361",
+      "quote": "David Larsson (SD), John Johansson (S), Lena Lindén (SD), Pell-Uno Larsson (S), Christina Håkansson (KD), Jessica Ekerbring (S), Sunil Jayasooriya (S), Bo Ammer (SD), Karolina Wallström (L), Patrik Jämtvall (L) och Anna Hedström (S) yttrar sig i interpellationsdebatten.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Färdigbehandlad"
+      },
+      "tags": [
+        "interpellation",
+        "ekonomi",
+        "beredskap"
+      ],
+      "id": "2025-11-18_ko_360-361",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-11-18"
+    }
+  ],
+  "decisions_count": 11,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf",
+  "headline": "Konstpolicy reviderad, många motioner bordlagda",
+  "motions_of_interest": [
+    {
+      "title": "Laddstationer för elcyklar",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Kommunal rutin för företagsanpassning vid markarbeten",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Satsning på gymnastiken för jämställdhet och rättvisa i idrotten",
+      "party": "KD",
+      "status": "Remitterad"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_354.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_355.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_357.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_363-375.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_341-343.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_359.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_358.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_356.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_339.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_340.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_360-361.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2025-11-18_Kommunfullmäktige"
+  }
+}

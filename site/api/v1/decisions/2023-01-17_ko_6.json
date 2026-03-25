@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-17_ko_6",
+  "headline": "Landsbygdsdelegation inrättad utan medborgardialoger",
+  "summary": "Kommunstyrelsen inrättar landsbygdsdelegation. V yrkade för åtta medborgardialoger under mandatperioden, vilket avslås.",
+  "detail": "Kommunstyrelsen inrättar landsbygdsdelegation och atar arbetsordning för denna, samt utse ledamöter enligt bilaga.\n\nMartha Wicklund (V) yrkar bifall med tillägget att \"delegationen ska under mandatperioden genomföra minst åtta medborgardialoger\". John Johansson (S) yrkar avslag på V:s tilläggsyrkande, som avslås.\n\nMarkus Allard (ÖrP) yrkade helt avslag på inrättandet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 6",
+  "tags": [
+    "landsbygd",
+    "delegation",
+    "medborgardialoger",
+    "ruralt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Delegationen ska under mandatperioden genomföra minst åtta medborgardialoger",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_6.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_6/"
+  }
+}

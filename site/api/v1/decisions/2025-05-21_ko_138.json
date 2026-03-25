@@ -1,0 +1,45 @@
+{
+  "id": "2025-05-21_ko_138",
+  "headline": "Arbetsmiljörapport 2024 läggs till handlingarna",
+  "summary": "Årlig uppföljning av Örebro kommuns systematiska arbetsmiljöarbete visar kvarstående brister. Rapporten visar problem med bemanningsfrågor, säkerhet, trygghet och digital arbetsmiljö.",
+  "detail": "Resultatet av den årliga uppföljningen av det systematiska arbetsmiljöarbetet för 2024 visar att arbetsmiljöarbetet utvecklas framåt men kvarstår brister och arbetsmiljöutmaningar. Gemensamt för flera nämnder är bemanningsfrågor, säkerhet och trygghet samt digital arbetsmiljö.\n\nKommunen behöver prioritera arbetet med att sänka sjukfrånvaron, stärka arbetet med organisatorisk och social arbetsmiljö (OSA) och fokusera på friskfaktorer. Flera av 2023-års utmaningar kommer att prioriteras genom handlingsplan för arbetsmiljö som beslutades i KDLG den 20 november 2024.\n\nVänsterpartiet reserverade sig och yrkade på att Kommunstyrelsen ska få återkoppling på arbetet att åtgärda bristerna i slutet av året. Detta avslogs av majoritet.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 138",
+  "tags": [
+    "arbetsmiljö",
+    "sjukfrånvaro",
+    "bemanning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Resultatet av den årliga uppföljningen av det systematiska arbetsmiljöarbetet för 2024 visar att även om arbetsmiljöarbetet utvecklas framåt kvarstår en del brister och det finns arbetsmiljöutmaningar.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-05-21_Kommunfullmäktige",
+    "date": "2025-05-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-21_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-21_ko_138.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-21_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-21_ko_138/"
+  }
+}

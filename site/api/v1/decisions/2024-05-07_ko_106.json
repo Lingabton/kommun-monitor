@@ -1,0 +1,36 @@
+{
+  "id": "2024-05-07_ko_106",
+  "headline": "Klimatstrategi återremitterad för revidering",
+  "summary": "Kommunstyrelsen beslöt att återremittera klimatstrategin efter omfattande yrkanden om ändringar från flera partier, framför allt gällande livsmedelsval och transportfrågor.",
+  "detail": "Klimatstrategin hade reviderats första gången sedan 2016 och var framtagen i bred samverkan inom kommunkoncernen. Strategins övergripande syfte är att ge styrning för kommunens arbete med klimatmål från programmet Vårt hållbara Örebro.\n\nStrategin skulle ersätta den från 2016 och dess antagande skulle också medföra avslutandet av Strategi för miljöanpassat byggande (2016).\n\nMultipla yrkanden lämnades in: Markus Allard (ÖrP) och Helena Ståhl (SD) yrkade avslag på huvuddelen. Karolina Wallström (L) presenterade 14 detaljerade ändringsyrkanden kring transportpolitik, livsmedelsval (specifikt krav på 70% ekologiska och 60% svenskproducerade livsmedel) och styrningsprocesser. Susanne Lindholm Henningsson (KD) yrkade på förtydligande om svenska livsmedel före ekologiska samt ökad andel svenskproducerat kött.\n\nOrdförande John Johansson (S) beslöt att återremittera hela ärendet.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 106",
+  "tags": [
+    "klimatstrategi",
+    "miljö",
+    "hållbar utveckling",
+    "livsmedel"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Återremiss"
+  },
+  "quote": "Klimatstrategin ersätter nuvarande klimatstrategi som antogs 2016 och syftet är att ge en övergripande styrning, enhetlig syn och konkretisering av kommunens övergripande klimatmål.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_106.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_106/"
+  }
+}

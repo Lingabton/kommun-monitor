@@ -1,0 +1,41 @@
+{
+  "id": "2023-04-11_ko_74",
+  "headline": "Flygplatsens driftbidrag på 37 miljoner kronor godkänd för 2023",
+  "summary": "Driftsbidrag på totalt 37,3 miljoner kronor beviljas Örebro Läns Flygplats, varav Örebro kommuns andel är 17,6 miljoner kronor.",
+  "detail": "Örebro Läns Flygplats AB är ett delägt bolag där Örebro Rådhus AB äger 44,95 procent. Flygplatsen erhål driftbidrag på 37 335 600 kronor för 2023, varav Örebro kommuns och Region Örebro läns andel är 17 590 400 kronor vardera. Bidraget ges under stöd av EU:s allmänna gruppundantagsförordning (GBER) för flygplatser med färre än 200 000 passagerare per år.\n\nÖrebro Läns Flygplats hade 67 018 passagerare under 2022. Kommunstyrelseförvaltningen bedömde att de tillämpliga villkoren i GBER är uppfyllda och att EU-förordningen därför kan åberopas som rättslig grund för bidraget.\n\nMartha Wicklund (V) yrka avslag på ärendet i sin helhet och förespråka att kommunen tillsammans med övriga ägare utreder möjligheterna för förstatligande eller försäljning/avveckling av flygplatsen. Ordförande Johansson ställde förslagen mot varandra och beslutet antogs enligt kommunledningsförvaltningens förslag.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro Läns Flygplats",
+  "paragraph_ref": "§ 74",
+  "tags": [
+    "flygplats",
+    "driftsbidrag",
+    "Örebro"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "EU-kommissionen har fr.o.m. 1 januari 2018 beslutat att inkludera driftsstöd för flygplatser i den allmänna gruppundantagsförordningen för statligt stöd (GBER), som medger att flygplatser som har färre än 200 000 passagerare per år kan ges stöd som täcker flygplatsens rörelseförluster.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_74.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_74/"
+  }
+}

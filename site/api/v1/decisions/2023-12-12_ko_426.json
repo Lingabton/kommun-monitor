@@ -1,0 +1,47 @@
+{
+  "id": "2023-12-12_ko_426",
+  "headline": "Enprocentsregeln för offentlig konst behålls",
+  "summary": "Kommunfullmäktige avslogs motion från ÖrP om att slopa enprocentsregeln för offentlig konst i kommunkoncernen.",
+  "detail": "Markus Allard och Peter Springare (ÖrP) föreslog att slopa enprocentsregeln, en ekonomisk princip som betyder att en procent av budgeten för ny-, om- och tillbyggnad avsätts för konstnärlig gestaltning. Regeln tillämpas sedan 1930-talet i Sverige och sedan 1968 i Örebro kommun.\n\nKommunfullmäktige beslutade att avslå motionen med 51 ja-röster mot 12 nej-röster. Bedömningen var att enprocentsregeln är ett viktigt verktyg för att garantera att medborgare får möjlighet att ta del av konst och att nutida konst är viktig för framtida kulturarv.\n\nÖrebropartiet, SD-ledamöter reserverade sig mot beslutet. Votering genomfördes.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 426",
+  "tags": [
+    "konst",
+    "enprocentsregeln",
+    "kultur",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Enprocentsregeln är en ekonomisk princip för offentlig konst som innebär att en procent av den totala budgeten avsätts för konstnärlig gestaltning vid ny-, om- och tillbyggnad.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2023-12-12_Kommunfullmäktige",
+    "date": "2023-12-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-12_ko_426.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-12_ko_426/"
+  }
+}

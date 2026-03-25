@@ -1,0 +1,45 @@
+{
+  "id": "2025-01-29_ko_25-26",
+  "headline": "Två motioner om Örebro läns museum bordlades",
+  "summary": "Två motioner om att Örebro kommun ska bli del av Örebro läns museum bordlades för senare behandling.",
+  "detail": "Martha Wicklund (V) och Susanne Lindholm Henningsson (KD) motionerade båda om att Örebro kommun åter ska bli en del av Stiftelsen Örebro läns museum. V vill att kommunen verkar för att snart åter bli del av stiftelsen, KD vill att kommunen tar initiativ till samtal och förhandlingar med Region Örebro län.\n\nBåda ärendena bordlades på initiativ av ordförande efter att ordföranden yrkade på att resterande ärenden på dagordningen skulle bordläggas. Votering: 50 ja, 12 nej för bordläggning. SD yrkar för att sammanträdet skulle fortsätta.",
+  "category": "kultur",
+  "contested": false,
+  "location": "Örebro",
+  "paragraph_ref": "§ 25-26",
+  "tags": [
+    "museum",
+    "kultur",
+    "kulturarv"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "KD",
+      "C",
+      "V",
+      "L"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Motionen innehåller förslag om att Örebro kommun ska verka för att snarat åter bli en del av Stiftelsen Örebro läns museum och vara med och ta ansvar för Örebro läns museum.",
+  "quote_page": "s. 29-30",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_25-26.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_25-26/"
+  }
+}

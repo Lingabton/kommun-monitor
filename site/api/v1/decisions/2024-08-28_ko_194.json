@@ -1,0 +1,35 @@
+{
+  "id": "2024-08-28_ko_194",
+  "headline": "Självförsvar - motion bordlades utan slutbeslut",
+  "summary": "Motion om självförsvarsutbildning och personlig säkerhet bordlades vid nytt sammanträde.",
+  "detail": "Carola Sunesson (SD) motionerade för att kommunen ska etablera självförsvarsutbildning för extra utsatta personer, enskilda personer, företagare och verksamheter. Förslaget var att undersöka befintlig utbildning och finansieringsmöjligheter.\n\nKommunledningen föreslog att motionen skulle avslås då ingen motsvarande utbildning finns inom kommunens verksamhet och kommunledningen valt att fokusera på andra åtgärder.\n\nKommunfullmäktige bordlade ärendet utan att anta Kommunstyrelsens avslagesförslag.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 194",
+  "tags": [
+    "trygghet",
+    "utbildning",
+    "självförsvar"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Bedömningen är att motionen ska avslås då det inte finns någon motsvarande utbildning inom kommunens verksamhet idag",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_194.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_194/"
+  }
+}

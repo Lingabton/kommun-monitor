@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-19_ko_195",
+  "headline": "Motion om mobil fritidsgård anses besvarad",
+  "summary": "Motion från Lea Strandberg (MP) om mobil fritidsgård anses besvarad utan utredningsuppdrag.",
+  "detail": "Lea Strandberg (MP) motionerade 2021-06-15 om att Örebro kommun ska utreda möjligheterna för en mobil fritidsgård. Motionen remitterades till Programnämnd samhällsbyggnad. Eftersom denna nämnd upphörde vid organisationsförändringen 2023 besvaras motionen nu av Kommunstyrelsen.\n\nBedömningen är att motionen är besvarad utan att något utredningsuppdrag ges. Martha Wicklund (V) och Susanne Lindholm Henningsson (KD) yrkade på bifall till motionen men detta avslogs.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 195",
+  "tags": [
+    "fritidsgård",
+    "ungdom",
+    "kultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [
+      "V",
+      "KD"
+    ],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Motionen anses besvarad.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_195.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_195/"
+  }
+}

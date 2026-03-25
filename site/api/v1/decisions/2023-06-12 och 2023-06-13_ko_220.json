@@ -1,0 +1,45 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_220",
+  "headline": "Nämndreglementen reviderade för 2023-2026",
+  "summary": "Reviderade nämndreglementen för mandatperioden 2023-2026 antogs och träder i kraft 1 juli 2023.",
+  "detail": "Reviderade nämndreglementen för mandatperioden 2023-2026 antogs. Framlagt förslag innebar flera förtydliganden och ändringar.\n\nÖvergripande ansvar för sociala hyreskontrakt togs bort från Kommunstyrelsens övergripande uppgifter. Förslaget innebar samtidigt ett förtydligande om att Socialnämnden enligt Socialtjänstlagen ansvarar för medverkan i samhällsplaneringen i syfte att bidra och samverka i utformning av bostäder. Kommunstyrelsen behållit övergripande och strategiskt ansvar för kommunens lokalförsörjning.\n\n'Externa fastighetsägare' strycktes och ersattes med enbart 'fastighetsägare'. Det förtydligades också i Kommunstyrelsens reglemente att styrelsen inte har ansvar för att teckna och säga upp avtal för elitarenorna i kommunen, då det är Kultur- och fritidsnämnden som har ansvaret.\n\nDe nya reglementena träder i kraft 1 juli 2023.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 220",
+  "tags": [
+    "nämndreglementen",
+    "organisation",
+    "regler"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Reviderat förslag till nämndreglementen för mandatperioden 2023-2026 antas. Reviderat förslag träder i kraft 1 juli 2023.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_220.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_220/"
+  }
+}

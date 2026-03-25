@@ -1,0 +1,43 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_221",
+  "headline": "ÖrebroBostäder AB resultatkrav sänkt till 10 mnkr",
+  "summary": "Kommunfullmäktige godkände delårsrapport prognos 1 och sänkte resultatkravet för ÖrebroBostäder AB från normalt till 10 mnkr för 2023 utan utdelning.",
+  "detail": "Kommunfullmäktige godkände delårsrapport med prognos 1 för 2023. Resultatet efter årets första fyra månader visade ett utfall på 22 mnkr. Årets prognos på helår visade ett resultat på 215 mnkr jämfört med budgeterat 284 mnkr, en budgetavvikelse på -69 mnkr.\n\nPrognosen för kommunens investeringar uppgick till 1 201 mnkr vilket var 166 mnkr lägre än budget. Två av fyra finansiella mål beräknades uppnås under året.\n\nSammtliga nämnder som prognostiserade negativ budgetavvikelse för år 2023 fick i uppdrag att vidta åtgärder för att säkra långsiktigt hållbar ekonomi. ÖrebroBostäder AB fick i uppdrag att säkerställa plan för långsiktigt hållbar ekonomi. Resultatkravet sänktes till 10 mnkr för 2023 och utdelning skulle inte lämnas till Örebro Rådhus AB 2023.\n\nV, SD och ÖrP reserverade sig mot delar av beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 221",
+  "tags": [
+    "ÖrebroBostäder",
+    "ekonomi",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "ÖrebroBostäder AB ska säkerställa en plan för hur bolaget kan skapa en långsiktigt hållbar ekonomi med stabila resultat. Resultatkravet för ÖrebroBostäder AB sänks till 10 mnkr för 2023.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_221.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_221/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2025-02-25_ko_47",
+  "headline": "360 miljoner kronor investeringsanslag överförda från 2024",
+  "summary": "Kommunfullmäktige beslutade att överföra 360 miljoner kronor i investeringsanslag från 2024 till 2025 för pågående investeringsprojekt. SD och ÖrP reserverade sig mot beslutet.",
+  "detail": "I ärendet redovisades förslag till överförda driftresultat för intraprenader och politiska kanslier. Totalt ackumulerades 36,7 miljoner kronor från intraprenadernas resultat. För pågående investeringsobjekt föreslogs överföring av 360 miljoner kronor, varav 193 miljoner för skattefinansierade investeringar och 167 miljoner för taxefinansierade investeringar.\n\nKommunstyrelsen behandlade ärendet den 11 februari 2025 och fattade beslut om överföringen. På Kommunstyrelsens sammanträde reserverade sig Markus Allard (ÖrP), Helena Ståhl (SD) och David Larsson (SD) mot beslutet.\n\nI Kommunfullmäktige yrk John Johansson (S) bifall till förslaget, medan Bo Ammer (SD) och Markus Allard (ÖrP) yrkade avslag. Ordföranden ställde förslagen mot varandra och fann att Kommunfullmäktige beslutade enligt Kommunstyrelsens förslag.\n\nSju SD-ledamöter och fem ÖrP-ledamöter reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 47",
+  "tags": [
+    "investeringar",
+    "budget",
+    "2024-2025"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Investeringsanslag på sammanlagt 360 048 tkr överförs från 2024 till 2025 i enlighet med kommunstyrelseförvaltningens förslag.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_47.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_47/"
+  }
+}

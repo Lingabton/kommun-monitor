@@ -1,0 +1,47 @@
+{
+  "id": "2024-03-12_ko_69",
+  "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan skickas vidare",
+  "summary": "SD:s ledamotsinitiativ om att tillsätta haverikommission för att utreda problemerna på Arenaskolan avsendades till presidium för beredning.",
+  "detail": "Helena Ståhl och Bo Ammer (SD) anmälde ledamotsinitiativ med yrkande om att tillsätta haverikommission för att utreda vad som skett på Arenaskolan, hur farlig verksamhet kunnat fortgå trots tidigare stängning, och vad som ska göras för att detta inte sker igen.\n\nOrdförande John Johansson (S) yrkat att ärendet skickas till presidium för beredning. Helena Ståhl (SD) och Markus Allard (OrP) yrkat att ärendet avgörs direkt.\n\nKommunstyrelsen beslutade att skicka ärendet till presidium. SD och OrP reserverade sig.",
+  "category": "politik",
+  "contested": true,
+  "location": "Arenaskolan",
+  "paragraph_ref": "§ 69",
+  "tags": [
+    "Arenaskolan",
+    "utredning",
+    "säkerhet",
+    "skola"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "En haverikommission tillsätts med syfte att utreda vad som har skett på Arenaskolan, hur denna farliga verksamhet har kunnat fortgå trots tidigare stängning.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2024-03-12_Kommunstyrelsen",
+    "date": "2024-03-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-12_ko_69.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-12_ko_69/"
+  }
+}

@@ -1,17 +1,16 @@
 {
   "id": "2024-04-09_ko_72",
-  "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
-  "summary": "Kommunstyrelsen beviljade tilläggsanslag på 127,6 miljoner kronor för årlig indexuppräkning och andra kostnadsökningar i 2024 års budget. Ombudgeteringar mellan nämnder genomfördes enligt ny nämndstruktur från 2023.",
-  "detail": "Tilläggsanslagen avsåg framför allt kompensation för årlig indexuppräkning av kostnader. Ombudgeteringen berörde flytt av medel mellan nämnder enligt den ramfördelning som gjordes till ny nämndstruktur för 2023.\n\nFinansieringen kom från Kommunstyrelsens utrymme för generella kostnadsökningar och för oförutsedda behov.\n\nÖrebropartiet reserverade sig mot beslutet med stöd av sitt eget budgetförslag. Vänsterpartiet deltog inte i beslutet.",
+  "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar",
+  "summary": "Kommunstyrelsen beviljar tilläggsanslag med totalt 127,6 miljoner kronor för årlig indexuppräkning och oförutsedda kostnader 2024. Ombudgetering görs mellan nämnder enligt ny nämndstruktur.",
+  "detail": "Ärendet innefattar tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda behov under budgetåret 2024.\n\nTilläggsanslagen finansieras ur Kommunstyrelsens utrymme för generella kostnadsökningar samt ur utrymmet för oförutsedda behov. Ombudgetering berör medel mellan nämnder med grund i ramfördelningen till den nya nämndstrukturen från 2023.\n\nÖrebropartiet yrkade avslag på anslagen med hänvisning till sitt budgetförslag. Votering genomfördes och majoritetens förslag antogs.",
   "category": "budget",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 72",
   "tags": [
     "budget",
-    "indexuppräkning",
-    "kostnadsökningar",
-    "nämndstruktur"
+    "tilläggsanslag",
+    "kostnadsökningar"
   ],
   "voting": {
     "for": [
@@ -21,26 +20,24 @@
       "L",
       "KD"
     ],
-    "against": [
-      "ÖrP"
-    ],
+    "against": [],
     "abstained": [
       "V"
     ],
     "result": "Bifall"
   },
   "quote": "Tilläggsanslag beviljas med totalt 127 568 tkr enligt Kommunledningsförvaltningens förslag.",
-  "quote_page": "s. 3",
+  "quote_page": "s. 4",
   "meeting": {
-    "id": "2024-04-09_ko",
+    "id": "2024-04-09_Kommunstyrelsen",
     "date": "2024-04-09",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_72.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_72/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_72.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_72/"
   }
 }

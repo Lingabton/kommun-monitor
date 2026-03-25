@@ -1,0 +1,36 @@
+{
+  "id": "2023-03-14_ko_45",
+  "headline": "Instruktion för kommundirektör reviderad",
+  "summary": "Kommunstyrelsen antog reviderad instruktion för kommundirektör med nya uppgifter inom uppsiktsplikt, krisberedskap och civilt försvar.",
+  "detail": "Med anledning av ny politisk organisation och förändrad förvaltningsorganisation reviderades kommundirektörens instruktion. Tilläggen gällde att bistå Kommunstyrelsen i dess uppsiktsplikt, att säkerställa organisation med god förmåga att hantera kris och extraordinära händelser, samt grundläggande förmåga till civilt försvar.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 45",
+  "tags": [
+    "kommundirektör",
+    "instruktion",
+    "krisberedskap",
+    "civilt försvar"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Med anledning av ny politisk organisation och en förändrad förvaltningsorganisation behöver instruktionen revideras och samtidigt föreslås ett par tillägg till instruktionen.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_45.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_45/"
+  }
+}

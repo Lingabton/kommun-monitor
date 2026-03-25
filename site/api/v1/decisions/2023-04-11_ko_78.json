@@ -1,0 +1,45 @@
+{
+  "id": "2023-04-11_ko_78",
+  "headline": "Viljeinriktning för friluftsliv och besöksnäring i Kilsbergen på remiss",
+  "summary": "Gemensam viljeinriktning från fem kommuner och regionala aktörer om utveckling av Kilsbergen skickas på remiss.",
+  "detail": "Kilsbergen är ett strategiskt viktigt rekreationsområde för omkring 200 000 invånare i Degerfors, Karlskoga, Lekeberg, Nora och Örebro kommuner. Trots stora upplevelsevärden bedöms områdets potential för rekreation och besöksnäring inte tillvaratas tillräckligt.\n\nEn huvudanledning är att förvaltning och utveckling inte samordnas mellan berörda organisationer. En gemensam viljeinriktning med fokus på friluftsliv och besöksnäring har tagits fram av Degerfors kommun, Karlskoga kommun, Lekebergs kommun, Nora kommun, Örebro kommun, Region Örebro län, Länsstyrelsen i Örebro län, Försvarsmakten, Saab Bofors Testcenter, Sveaskog och Örebrokompaniet.\n\nKommunstyrelsen beslutar att skicka viljeinriktningen på remiss enligt framtagen missiv och sändlista.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Kilsbergen",
+  "paragraph_ref": "§ 78",
+  "tags": [
+    "Kilsbergen",
+    "friluftsliv",
+    "besöksnäring",
+    "regionalt samarbete"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kilsbergen utgör ett strategisk viktigt rekreationsområde för cirka 200 000 invånare i kommunerna Degerfors, Karlskoga, Lekeberg, Nora och Örebro.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_78.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_78/"
+  }
+}

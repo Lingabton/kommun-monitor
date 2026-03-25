@@ -1,0 +1,48 @@
+{
+  "id": "2025-01-21_ko_14",
+  "headline": "Ej verkställda SoL- och LSS-beslut rapporterade",
+  "summary": "Rapport om ej verkställda socialtjänst- och LSS-beslut för kvartal 2 2024 lagd till handlingarna. Socialnämnden rapporterade ökande antal overkställda beslut.",
+  "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden är skyldiga att rapportera kvartalsvis till Inspektionen för vård och omsorg (IVO) och Stadsrevisionen om biståndsbeslut inte verkställts inom tre månader.\n\nFunktionsstödsnämnden minskade från 180 (kv 1) till 157 rapporterade beslut. Vid kvartalets slut var 97 overkställda (jämfört med 108 i kv 1). Vård- och omsorgsnämnden hade 15 rapporterade beslut, minskat med 3. Socialnämnden ökade från 25 till 41 overkställda beslut. Huvudorsak: saknas plats eller individ tackat nej.\n\nHelena Ståhl (SD) och Martha Wicklund (V) yrka på att framtida rapporter från Social- och Vård- och omsorgsnämnden ska inkludera anledningar till väntan (som Funktionsstödsnämnden redan gör) och att skarpt krav ställs för att undvika IVO-avgifter. Yrkandena avslogs. Ärendet går vidare till Kommunfullmäktige.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 14",
+  "tags": [
+    "SoL",
+    "LSS",
+    "välfärd",
+    "verkställning",
+    "socialtjänst"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "V",
+      "ÖrP",
+      "SD",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "För Socialnämnden har det skett en ökning med ej verkställda beslut sedan kvartal 1 2024. Kvartal 1 rapporterades 25 ej verkställda beslut och för kvartal 2 rapporteras 41 ej verkställda beslut.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_14.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_14/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2023-01-24_ko_15",
+  "headline": "Lokalproducerad mat: motionens första punkt avslogs",
+  "summary": "Motion från Sverigedemokraterna om att lokalproducerat ska vara normen i livsmedelsupphandling avslogs partiellt.",
+  "detail": "Helena Ståhl och Daniel Spiik (SD) förordade att lokalproducerat ska vara normen i Örebro kommuns livsmedelsupphandlingar. Kommunen kan inte kontrollera detta enligt lagen om offentlig upphandling (LOU).\n\nKommunen avslog första delen men ansåg att vegetabiliska och animaliska krav var tillgodosedda genom nytt avtal med Örebro Trädgårdshall AB och högsta marknadskrav för djurskydd och hållbart fiske.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 15",
+  "tags": [
+    "upphandling",
+    "livsmedel",
+    "miljö",
+    "lokalt",
+    "LOU"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "L"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Örebro kommun måste följa lagen om offentlig upphandling (LOU), och det finns därmed inte möjlighet att kontrollera eller styra upphandlingar mot lokala producenter.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-01-24_Kommunfullmäktige",
+    "date": "2023-01-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_15.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-24_ko_15/"
+  }
+}

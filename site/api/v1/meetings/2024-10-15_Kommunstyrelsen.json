@@ -1,0 +1,408 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2024-10-15",
+  "decisions": [
+    {
+      "headline": "Tilläggsbudget 2025 godkänd trots omfattande reservationer",
+      "summary": "Kommunstyrelsen fastställde tilläggsbudget för 2025-2028 med bland annat nya parkeringsavgifter och höjda taxor. Alla oppositionspartier reserverade sig.",
+      "detail": "Kommunledningens tilläggsbudget för 2025-2028 fastställdes enligt förslag. Budgeten innehåller nya parkeringsavgifter i fyra zoner med införande från mars till juli 2025, höjda taxor för vatten och avlopp från 1 januari 2025, samt nya avgifter för fristående förskolor (från 12 000 kr till 25 000 kr för ansökan om godkännande) och pedagogisk omsorg (nya avgifter på 15 000 kr och 10 000 kr).\n\nLiberalerna yrkade avslag på budget och parkeringsdelar, Sverigedemokraterna på hela budgeten med egen budgetförslag, Vänsterpartiet på delar av den med tilläggsönskemål om busklinjer och cykelbanor, Kristdemokraterna på investeringarna och vissa parkeringszoner. Markus Allard (ÖrP) yrkade avslag med hänvisning till eget budgetförslag.\n\nKristdemokraterna argumenterade för att höjda avgifter måste åtföljas av motsvarande erbjudanden. Liberalerna motsatte sig höjda parkeringsavgifter på natten och högre boendeparkeringsavgifter, menade det är orättvist mot medborgare med lägre inkomster.",
+      "category": "budget",
+      "contested": true,
+      "location": "Örebro tätort",
+      "paragraph_ref": "§ 173",
+      "quote": "Om majoriteten nu väljer att använda \"piska\" för att få bort bilarna från centrum genom att göra det dyrt att parkera och verka i city, då måste man också jobba med någon slags \"morot\".",
+      "quote_page": "Kristdemokraternas yrkande",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "V",
+          "KD",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "parkering",
+        "taxor",
+        "avgifter"
+      ],
+      "id": "2024-10-15_ko_173",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    },
+    {
+      "headline": "Trafikstrategi antagen – väcker motstånd från fyra partier",
+      "summary": "Kommunstyrelsen antog ny trafikstrategi för ersättning av trafikprogram från 2014. SD, L, KD och ÖrP motsatte sig beslut.",
+      "detail": "Markplanerings- och exploateringsnämndens förslag till ny trafikstrategi antogs. Strategin ersätter trafikprogram från 2008 och parkeringsriktlinjer samt handlingsplan för cyklande. Den är framtagen under tre års tid med fokus på hållbar stadstrafik, minskade bilresor i Örebro tätort och bättre integration av gång, cykel och kollektivtrafik.\n\nSverigedemokraterna motsatte sig helt och yrkade på ny strategi med övergripande mål om att kommunen ska vara \"tillgänglig, framkomlig och lättnavigerad för alla mobilitetslösningar\". De argumenterade att strategin är fientlig mot personbilen.\n\nLiberalerna yrkade total avslag, menade strategin driver på omotiverad förtätning, fokuserar för mycket på snabb stadstrafik och begränsar valfrihet. Kristdemokraterna yrkade att ta bort meningen om att \"parkeringens verkliga kostnader synliggörs och betalas av användaren\" då detta riskerar höjda avgifter utan motsvarande erbjudanden.",
+      "category": "regler",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 179",
+      "quote": "Den föreslagna strategin begränsar i för hög grad denna valfrihet genom att för ensidigt prioritera vissa trafikslag framför andra.",
+      "quote_page": "Sverigedemokraternas yrkande",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "SD",
+          "KD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "trafikstrategi",
+        "mobilitet",
+        "parkering",
+        "stadstrafik"
+      ],
+      "id": "2024-10-15_ko_179",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    },
+    {
+      "headline": "Lokalisering Nobelbanan: 10,7 milj kr avsatt för utredning",
+      "summary": "Kommunstyrelsen beviljade 10,7 miljoner kronor (Örebros andel) för utredning av järnvägsförbindelsen Örebro-Kristinehamn.",
+      "detail": "Kommunstyrelsen beviljade budgetanslag för Örebro kommuns andel av lokaliseringsutredningen för Nobelbanan (Örebro-Kristinehamn), en av fyra delsträckor i Oslo-Stockholm-förbindelsen. Bolaget Oslo-Stockholm 255 AB ägs gemensamt av Örebro kommun, Region Örebro län, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland (vardera 16,67%).\n\nEU-medel för 50 % finansiering avslogs i juni 2024. Bolagets ägare beslöt därför att finansiera hela utredningen själva. Total kostnad: 64,4 mnkr, varav Örebro: 10,7 mnkr fördelat på 2,5 mnkr 2024, 5,9 mnkr 2025 och 2,3 mnkr 2026. Utredningen beräknas slutföras mars 2026.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro-Kristinehamn",
+      "paragraph_ref": "§ 177",
+      "quote": "Bolagets totala kostnad för utredningen beräknas till 64,4 mnkr, varav Örebro kommuns finansiering motsvarar 16,67%, dvs totalt 10,7 mnkr.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "järnväg",
+        "infrastruktur",
+        "Oslo-Stockholm",
+        "Nobelbanan",
+        "investering"
+      ],
+      "id": "2024-10-15_ko_177",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    },
+    {
+      "headline": "Delårsrapport visar negativ budgetavvikelse på 259 mnkr",
+      "summary": "Kommunens delårsrapport prognos 2 2024 visar verksamheten prognostiserar samlad negativ budgetavvikelse på 259 mnkr.",
+      "detail": "Kommunledningsförvaltningen presenterade delårsrapport för perioden januari-augusti 2024. Resultatet efter åtta månader visar 558 mnkr medan helårsprognosen är 346 mnkr (19 mnkr högre än budgeterat). Verksamhetens resultat visar -87 mnkr, finansverksamheten +183 mnkr.\n\nNämndernas och kommungemensamma verksamheters löpande verksamhet prognostiserar samlad negativ budgetavvikelse på -259 mnkr. Kommunstyrelsen prognostiserar -37 mnkr. Investeringsprognosen: 1 219 mnkr (258 mnkr lägre än budget).\n\nKommunen förväntas uppfylla balanskravet med +80 mnkr efter balanskravsjusteringar. Av åtta mål inom verksamheten beräknas sju uppfyllas; målet om att alla elever ska nå kunskapsmålen uppfylls inte. Markus Allard (ÖrP) reserverade sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 171",
+      "quote": "Kommunens prognos för helåret visar ett resultat på 346 mnkr, vilket är 19 mnkr högre än budgeterat.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "KD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "ekonomi",
+        "delårsrapport",
+        "prognos"
+      ],
+      "id": "2024-10-15_ko_171",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    },
+    {
+      "headline": "Kommunövergripande lokalförsörjningsplan 2026-2036 antagen",
+      "summary": "Kommunstyrelsen antog långsiktig plan för kommunens lokalbehov under tioårsperioden med 70 prioriterade projekt.",
+      "detail": "Lokalförsörjningsplanen är handlingsplan som åskådliggör framtida lokalbehov och utgör underlag för investeringsprocessen. Under prognosperioden 2026-2036 prioriteras 70 lokalprojekt varav 30 är pågående. Lokalförsörjningsavdelningen (LFA) hanterar 40 projekt varav 18 är pågående. Planen synliggör prioriterade lokalprojekt kommunen avser arbeta med inom perioden.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 174",
+      "quote": "Under prognosperioden prioriteras 70 lokalprojekt varav 30 är pågående.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "lokalförsörjning",
+        "investeringar",
+        "fastigheter"
+      ],
+      "id": "2024-10-15_ko_174",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    },
+    {
+      "headline": "Tilläggsanslag 21,3 mkr beviljade för oförutsedda kostnader",
+      "summary": "Kommunstyrelsen beviljade totalt 21 310 tkr i tilläggsanslag för 2024 till nämnder för kostnadsökningar.",
+      "detail": "Tilläggsanslag avsåg kompensation till nämnder för tillfälliga förstärkningar för 2024 och ombudgetering för justeringar av lönekompensation. Finansiering sker ur Kommunstyrelsens utrymme för generella kostnadsökningar samt utrymme för oförutsedda behov. Markus Allard (ÖrP) reserverade sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 175",
+      "quote": "Tilläggsanslag beviljas med totalt 21 310 tkr enligt Kommunledningsförvaltningens förslag.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "anslag"
+      ],
+      "id": "2024-10-15_ko_175",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    },
+    {
+      "headline": "Informationshanteringspolicy antagen för hela koncernen",
+      "summary": "Kommunstyrelsen antog samlad policy för informationshantering i Örebro kommun och majoritetsägda bolag.",
+      "detail": "Policyn syftar till att förtydliga och underlätta för informationsägare och medarbetare att uppfylla krav på informationshantering samt skapa förutsättningar för enhetligt arbetssätt och uppföljning. Policyn gäller Örebro kommun och majoritetsägda bolag och ska antas av Kommunfullmäktige. Markus Allard (ÖrP) reserverade sig.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 181",
+      "quote": "En samlad policy för informationshantering förväntas förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "informationshantering",
+        "policy",
+        "styrning"
+      ],
+      "id": "2024-10-15_ko_181",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    },
+    {
+      "headline": "Arkiveringsplan reviderad kontinuerligt",
+      "summary": "Kommunstyrelsen antog revidering av kommungemensam arkiveringsplan för handlingar i samtliga nämndområden.",
+      "detail": "Kommunstyrelsen är arkivmyndighet i Örebro kommun. Arkiveringsplanen för handlingar tillhörande samtliga nämndområden och kommunala bolag reviderades med uppdaterad handlingstyper enligt lagkrav.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 180",
+      "quote": "Revidering av kommungemensam arkiveringsplan för Örebro kommun antas.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "arkivering",
+        "regler",
+        "styrning"
+      ],
+      "id": "2024-10-15_ko_180",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-10-15"
+    }
+  ],
+  "decisions_count": 8,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-15_Kommunstyrelsen.pdf",
+  "headline": "Budget, taxor och trafikstrategi väcker omfattande kritik",
+  "motions_of_interest": [
+    {
+      "title": "Språktest för vård- och omsorgspersonal (SD 2022) – Avslagen",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Äldreomsorgsteam med fokus på missbruk (V 2021) – Avslagen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Effektivisering av kommunala processer (SD 2022) – Delvis tillgodosedd",
+      "party": "SD",
+      "status": "Delvis tillgodosedd"
+    },
+    {
+      "title": "Motorgård för ungdomar (SD 2023) – Tillgodosedd",
+      "party": "SD",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Höjd lön för lägstbetalda yrkesgrupper (V 2023) – Avslagen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Gratis mensskydd i högstadiet (SD 2022) – Delvis avslagen",
+      "party": "SD",
+      "status": "Delvis avslagen"
+    },
+    {
+      "title": "Gratis mensskydd på skolor och arbetsplatser (MP 2021) – Besvarad",
+      "party": "MP",
+      "status": "Besvarad"
+    },
+    {
+      "title": "Verksamhet i Kilsmo för ungdomar och seniorer (KD 2023) – Avslagen",
+      "party": "KD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Mentor-mamor för familjer (KD 2023) – Avslagen",
+      "party": "KD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Fler hundrastgårdar (KD 2024) – Avslagen",
+      "party": "KD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Örebro kommun som del av Örebro läns museum (KD 2023) – Avslagen",
+      "party": "KD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Åter del av Örebro läns museum (V 2023) – Avslagen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Tak över huvudet-garanti för hemlösa (L 2022) – Avslagen",
+      "party": "L",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Solcellsanläggningar via Kumbro Utveckling (MP 2016) – Avslagen",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Hållbart skogsbruk och skogspolicy (MP 2023) – Avslagen",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Krafttag mot mäns våld mot kvinnor (V 2023) – Delvis tillgodosedd",
+      "party": "V",
+      "status": "Delvis tillgodosedd"
+    },
+    {
+      "title": "Trygghet för förtroendevalda (V 2024) – Under beredning",
+      "party": "V",
+      "status": "Bereds"
+    },
+    {
+      "title": "Kravställande föräldrautbildning (SD 2024) – Under beredning",
+      "party": "SD",
+      "status": "Bereds"
+    },
+    {
+      "title": "Transporter av farligt gods genom Örebro (SD 2024) – Remitterad",
+      "party": "SD",
+      "status": "Remitterad"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-15_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_173.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_179.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_177.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_171.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_174.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_175.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_181.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_180.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2024-10-15_Kommunstyrelsen"
+  }
+}

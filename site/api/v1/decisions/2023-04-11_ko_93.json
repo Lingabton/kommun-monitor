@@ -1,0 +1,45 @@
+{
+  "id": "2023-04-11_ko_93",
+  "headline": "Motion om jordbruksmark i Törsjö remitterad till Bygg- och miljönämnden",
+  "summary": "Motion från Vänsterpartiet om att bevara jordbruksmarken i Törsjö remitteras för beredning.",
+  "detail": "Kommunfullmäktige den 22 mars 2023 överlämnade motion från Martha Wicklund och andra (V) om att bevara jordbruksmarken i Törsjö till Kommunstyrelsen.\n\nMotionen remitteras till Bygg- och miljönämnden för beredning. Denna fråga är direkt relevant till detaljplanen för Törsjö logistikområde som just antogs, då den aktualiserar miljö- och markutnyttjingsfrågor.",
+  "category": "miljo",
+  "contested": false,
+  "location": "Törsjö",
+  "paragraph_ref": "§ 93",
+  "tags": [
+    "motion",
+    "jordbruksmark",
+    "Törsjö",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Motion från Martha Wicklund (V) m.fl. om bevara jordbruksmarken i Törsjö remitteras till Bygg- och miljönämnden.",
+  "quote_page": "s. 33",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_93.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_93/"
+  }
+}

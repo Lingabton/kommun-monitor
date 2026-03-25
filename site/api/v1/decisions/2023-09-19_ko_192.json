@@ -1,0 +1,48 @@
+{
+  "id": "2023-09-19_ko_192",
+  "headline": "Motion om beredskap för elektricitet delvis tillgodosedd",
+  "summary": "Två av tre propositioner i SD:s motion om utökad beredskap för elektricitet och kommunikation är tillgodosedda, tredje avslås.",
+  "detail": "David Larsson (SD) och Sigvard Blixt (SD) motionerade 2022-04-27 om att utöka beredskapen för elektricitet och kommunikation. Motionen innehöll tre förslag: inventering av reservgeneratorer, utredning om behov av reservgeneratorer på kommunala fastigheter och nyckelfunktioner, samt utredning av internetöverföring via satellit som reservsystem.\n\nBedömningen är att första och andra förslaget är tillgodosedda genom förvaltningarnas pågående arbete med att identifiera behov av reservlösningar i krissituationer. Tredje förslaget avslås eftersom det redan finns ett nationellt kommunikationssystem för säker informationsdeling i vardag, kris och höjd beredskap.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på bifall till tredje förslaget men detta avslogs.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 192",
+  "tags": [
+    "beredskap",
+    "elektricitet",
+    "kommunikation",
+    "säkerhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Bedömningen är att motionens första och andra förslag är tillgodosedda genom förvaltningarnas pågående arbete med att identifiera behov av reservlösningar i händelse av kris.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_192.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_192/"
+  }
+}

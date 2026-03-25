@@ -1,0 +1,44 @@
+{
+  "id": "2023-02-15_ko_52",
+  "headline": "Motion om Örebro Airport avslås",
+  "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om att utreda förstatligande eller försäljning av flygplatsen.",
+  "detail": "Vänsterpartiet föreslår att ge kommunstyrelseförvaltningen tillsammans med flygplatsens ägare i uppdrag att utreda möjligheterna att förstatliga eller sälja flygplatsen.\n\nKommunstyrelsen bedömer att Örebro Airport är en viktig arbetsgivare och stor logistikaktör. En avveckling skulle skada både logistiken i länet och arbetstillfällen. Flygplatsen är Sveriges andra fossilfria flygplats och genererar cirka 375 miljoner kronor i årlig samhällsvinst. Region Örebro län har tidigare utrett ägarskapet utan att finna intresserade köpare. Flygplatsen har också ett viktigt samhällsuppdrag som beredskapsflygplats.\n\nMotionen avslås. Vänsterpartiet reserverar sig för bifall.\n\nBeslut visar kommunens vilja att behålla flygplatsen som en viktig infrastrukturinvestering och arbetsgivare.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro Airport",
+  "paragraph_ref": "§ 52",
+  "tags": [
+    "Örebro Airport",
+    "flygplats",
+    "näringsliv",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "ÖrP"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Flygplatsen är en stor och viktig arbetsgivare, och ett avvecklande skulle ge negativa effekter på både logistikverksamheten i länet och ett stort antal arbetstillfällen.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2023-02-15_Kommunfullmäktige",
+    "date": "2023-02-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-15_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-15_ko_52.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-15_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-15_ko_52/"
+  }
+}

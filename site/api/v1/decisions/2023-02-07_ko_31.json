@@ -1,0 +1,46 @@
+{
+  "id": "2023-02-07_ko_31",
+  "headline": "Motion om naturreservat Sörbyskogen avslogs",
+  "summary": "Kommunstyrelsen avslogs Miljöpartiet de grönas motion om att inrätta naturreservatet Sörbyskogen. V och SD ville bifalla motionen.",
+  "detail": "Miljöpartiet (MP) inlämnade motion 15 juni 2021 (KF § 231) med förslag att:\n1. Örebro kommun inrättar naturreservatet Sörbyskogen\n2. Enheten för naturvård får uppdrag att utforma bevarande- och skötselplaner\n\nProgramnämnd samhällsbyggnad föreslog avslag på motionen med motiveringen att området enligt gällande översiktsplan är utpekat som utvecklingsområde för bostäder. Vid revidering av översiktsplanen skulle området ses över närmare.\n\nMartha Wicklund (V) och Bo Ammer (SD) yrkade bifall till motionen. Susanne Lindholm (KD) yrkade bifall till nämndens avslagsförslag. Majoriteten beslutade enligt nämndens förslag. Ärendet gick vidare till Kommunfullmäktige.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Sörbyskogen, Örebro",
+  "paragraph_ref": "§ 31",
+  "tags": [
+    "naturreservat",
+    "Sörbyskogen",
+    "miljö",
+    "planering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "ÖrP"
+    ],
+    "against": [
+      "V",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Enligt gällande översiktsplan är detta område utpekat som utvecklingsområde för bostäder.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_31.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_31/"
+  }
+}

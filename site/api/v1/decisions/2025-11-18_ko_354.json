@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-18_ko_354",
+  "headline": "Konstpolicy reviderad med flexibel fördelning av enprocentsmedel",
+  "summary": "Kommunfullmäktige antog reviderad konstpolicy för Örebro kommun. Ändringar gör att enprocentsmedlen kan fördelas flexibelt mellan prioriterade projekt för strategiska effekter.",
+  "detail": "Kultur- och fritidsnämnden hade föreslagit revidering av hur medel från enprocentsregeln används. Nuvarande arbetssätt föreslogs revideras så att flexibel fördelning mellan prioriterade projekt tillämpas som standard. Lokalplaneringsenheten hade också uppdagat skillnader mellan sina riktlinjer och konstpolicyn gällande undantag från enprocentsregeln. Förslagen till nya formuleringar framtogs i dialog mellan konstenheten och lokalplaneringsenheten. Sverigedemokraterna ville avskaffa konstpolicyn helt, Örebropartiet ville också avskaffa enprocentsregeln, men majoriteten fattade beslut enligt Kommunstyrelsens förslag.\n\nBeslut: Förslag till reviderad konstpolicy antas.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 354",
+  "tags": [
+    "konstpolicy",
+    "enprocentsregeln",
+    "kultur",
+    "styrdokument"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "OrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Nuvarande arbetssätt föreslås revideras så att flexibel fördelning av dessa medel mellan prioriterade projekt tillämpas som standardförfarande för att uppnå positiva strategiska effekter för den kommunala konstverksamheten.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_354.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_354/"
+  }
+}

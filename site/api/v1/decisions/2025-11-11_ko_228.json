@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-11_ko_228",
+  "headline": "Kommun stödjer skärpad lagstiftning mot korruption",
+  "summary": "Örebro tillstyrker remiss om straffrättsliga åtgärder mot korruption och tjänstefel, förespråkar tydligare rekvisit och skärpta straff.",
+  "detail": "Justitiedepartementet remitterade slutbetänkandet 'Straffrättsliga åtgärder mot korruption och tjänstefel' (SOU 2025:87) för att se över lagstiftningen och säkerställa effektivitet samt överensstämmelse med Sveriges internationella åtaganden.\n\nÖrebro kommun tillstyrker utredningens övergripande förslag. Kommunen anser att samling av korruptionsbrott i egen lag förtydligar begreppet och att förslagen om ny lag för 'missbruk av offentlig ställning' skulle kunna fånga upp nepotism, jäv och intressekonflikter som inte kan åtalas under nuvarande lagstiftning.\n\nKommunen stödjer tydligare rekvisit, skärpta straff för normalgraden och grovt tjänstefel, och förtydligandet att ringa tjänstefel bör hanteras genom arbetsrättslig disciplinär åtgärd.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 228",
+  "tags": [
+    "korruption",
+    "tjänstefel",
+    "lagstiftning",
+    "rättssäkerhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun ser positivt på samtliga förslag i utredningen som bedöms kommer att ha positiva effekter både ur civilrättsligt och arbetsrättsligt perspektiv.",
+  "quote_page": "s. 1 (yttrande)",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_228.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_228/"
+  }
+}

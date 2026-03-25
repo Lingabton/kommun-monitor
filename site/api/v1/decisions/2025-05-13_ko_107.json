@@ -1,0 +1,45 @@
+{
+  "id": "2025-05-13_ko_107",
+  "headline": "Informationssäkerhetspolicy upphävd",
+  "summary": "Den tidigare Informationssäkerhetspolicyn från 2016 upphävs och ersätts av Informationshanteringspolicyn från 2023.",
+  "detail": "Den tidigare Informationssäkerhetspolicyn (Ks 412/2016) upphävs då en samlad policy för informationshantering, Informationshanteringspolicyn (beslutad november 2024), förväntas förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering. Den nya policyn skapar förutsättningar för ett enhetligt arbetssätt och uppföljning av informationshanteringen.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 107",
+  "tags": [
+    "information",
+    "säkerhet",
+    "policyer"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Upphäva gällande Informationssäkerhetspolicy (Ks 412/2016).",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_107.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_107/"
+  }
+}

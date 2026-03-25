@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-06_ko_37",
+  "headline": "Informationshanteringspolicy remitterad till nämnder och bolag",
+  "summary": "En samlad policy för informationshantering remitteras för remissbehandling. Den sammanför tre befintliga policyer om informationssäkerhet, dataskydd och arkivhantering.",
+  "detail": "Kommunledningsförvaltningen sammanförde tre befintliga policyer (informationssäkerhetspolicy, dataskyddspolicy, arkiv- och dokumenthanteringspolicy) till en samlad informationshanteringspolicy.\n\nSyftet är att förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering, skapa enhetligt arbetssätt och möjliggöra uppföljning.\n\nPolicyn gäller Örebro kommun och majoritetsägda bolag och ska antas av Kommunfullmäktige. Innan dess skickas den på remiss till samtliga nämnder och majoritetsägda bolag. Svar ska inkomma senast 31 maj 2024.\n\nMarkus Allard (ÖrP) yrkade avslag men röstades ner och reserverade sig.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 37",
+  "tags": [
+    "informationssäkerhet",
+    "policy",
+    "dataskydd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "En samlad policy för informationshantering förväntas förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering samt skapa förutsättningar för ett enhetligt arbetssätt och uppföljning av informationshanteringen.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_37.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_37/"
+  }
+}

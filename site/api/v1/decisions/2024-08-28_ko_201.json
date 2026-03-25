@@ -1,0 +1,43 @@
+{
+  "id": "2024-08-28_ko_201",
+  "headline": "Försörjningsstöd - Örebronorm återinföring avslaget",
+  "summary": "Motion om höjning av försörjningsstöd och återinförande av Örebronorm avslaget.",
+  "detail": "Vänsterpartiet motionerade i februari 2023 för att kommunen ska utreda en generell höjning av försörjningsstödet och återinföra den så kallade Örebronormen inom försörjningsstödet.\n\nKommunledningen föreslog att motionen skulle avslås. Kommunstyrelsen behandlade ärendet den 3 juni 2024.\n\nKommunfullmäktige beslutade att avslå motionen. Vänsterpartiet och Miljöpartiet reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 201",
+  "tags": [
+    "försörjningsstöd",
+    "budget",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "MP"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "Vänsterpartiet har i februari 2023 lämnat in en motion till kommunfullmäktige med ett förslag om att Örebro kommun ska utreda en generell höjning av försörjningsstödet",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_201.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_201/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2025-01-21_ko_3",
+  "headline": "Vätternvattenprojektet: 536,6 mnkr borgensförbindelse besluten",
+  "summary": "Kommunstyrelsen antog tilläggsavtal för Vätternvatten AB och garanterar lånefinansiering på 536,6 miljoner kronor för Fas 1 av vattenledningsprojektet.",
+  "detail": "Vätternvatten AB har uppdaterat kostnadsbedömningen för Fas 1 av vattenledningsprojektet. Utgifterna ökat från tidigare budgeterad 335 mnkr till ca 650 mnkr, en ökning på 315 mnkr (motsvarar 8,6 procent av anläggningskostnaden). För att ta höjd för osäkerhet höjs budgeten till totalt 700 mnkr.\n\nÖkningarna förklaras av förändrad tidplan, ökat kostnadsindex, nya kunskaper om befintliga förhållanden, metodval, markåtkomst, fastighetskostnader och vald reservvattenlösning.\n\nÖrebro kommun ingår borgen för Vätternvatten AB:s låneförpliktelser upp till 536,6 miljoner kronor. Ramen för kommunkoncernens samlade externa låneskuld höjs till 23 700 miljoner kronor för perioden 2025-2028. Ärendet ska till Kommunfullmäktige. Helena Ståhl (SD) deltog inte i beslutspunkt 3.",
+  "category": "infrastruktur",
+  "contested": false,
+  "location": "Vätternvägen",
+  "paragraph_ref": "§ 3",
+  "tags": [
+    "Vätternvatten",
+    "vattenledning",
+    "borgensförbindelse",
+    "infrastruktur",
+    "536miljonerkronor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den uppdaterade budgeten innebär att aktieägaravtalet behöver uppdateras genom ett tilläggsavtal samt att nya borgensbeslut fattas av respektive kommun för att finansiera Fas 1.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_3.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_3/"
+  }
+}

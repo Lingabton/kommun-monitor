@@ -1,0 +1,47 @@
+{
+  "id": "2025-05-13_ko_110",
+  "headline": "Remissvar på regionalt trafikförsörjningsprogram antaget",
+  "summary": "Kommunstyrelsen antar remissvar på regionalt trafikförsörjningsprogram 2025-2035 trots att flera partier motsatte sig.",
+  "detail": "Region Örebro län erbjöd kommunen att lämna synpunkter på förslaget till Regionalt trafikförsörjningsprogram för Örebro län 2025-2035. Programmet innehåller mål och principer för kollektivtrafikens framtida utveckling. Synpunkter skulle inlämnas senast 31 maj 2025.\n\nMarkus Allard (ÖrP) och Karolina Wallström (L) yrkade avslag på yttrandet. Susanne Lindholm Henningsson (KD) yrkade på komplettering med inspel om digitala lösningar för samordning av kollektivtrafik och AI-baserade system. Helena Ståhl (SD) yrkade på att landsbygdsperspektivet skulle poängteras starkare. Martha Wicklund (V) lämnade särskilt yttrande.\n\nOrdföranden avslogs alla ändringsyrkanden och beslutet fattades enligt förvaltningens förslag. Wallström, Henningsson, Ståhl och Allard samt Wicklund reserverade sig.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 110",
+  "tags": [
+    "trafik",
+    "kollektivtrafik",
+    "region",
+    "infrastruktur",
+    "landsbygd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "KD",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Trafikförsörjningsprogrammet utgör den långsiktiga strategiska planeringen för regional kollektivtrafik i Örebro län.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_110.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_110/"
+  }
+}

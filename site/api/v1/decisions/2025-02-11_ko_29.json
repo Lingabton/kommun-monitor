@@ -1,17 +1,16 @@
 {
   "id": "2025-02-11_ko_29",
-  "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
-  "summary": "Kommunstyrelsen beslutade att överföra det ackumulerade resultatet från kommunens interna förvaltningsbolag (intraprenader) till nästa år. Totalt överfördes 36,7 miljoner kronor enligt maxregeln på sju procent av årsbudgeten.",
-  "detail": "Intraprenadernas ekonomiska överskud från 2024 fastställdes till 36 733 tkr. Samtidigt beslutades att de politiska kansliernas överskott på 8 173 tkr överfördes från 2024 till 2025. De politiska kanslierna får maximalt överföra 10 MSEK under mandatperioden 2022-2026 enligt tidigare beslut.\n\nTre intraprenader upphörde under 2024. Systemet för Digital arbetsplats ändrades 2024, vilket innebär att möjligheten att föra med sig överfört resultat mellan åren upphör för denna verksamhet.\n\nMarkus Allard (ÖrP) yrkade avslag på hela ärendet, men röstades ned.",
+  "headline": "Överföring av investeringsanslag 360 mnkr från 2024",
+  "summary": "Kommunstyrelsen godkänner överföring av 360 miljoner kronor i investeringsanslag från 2024 till 2025. Beslutspunkten går vidare till Kommunfullmäktige.",
+  "detail": "I ärendet redovisas förslag till överförda driftresultat för intraprenader och politiska kanslier samt överföring av investeringsanslag. Totalt 36,7 miljoner kronor i ackumulerat resultat från intraprenader överförs till 2025. För politiska kanslier överförs 8,2 miljoner kronor från bokslut 2024.\n\nDet huvudsakliga beslutet avser överföring av 360 miljoner kronor i investeringsanslag - 193 miljoner för skattefinansierade investeringar och 167 miljoner för taxefinansierade investeringar. Balans- och kassaflödesbudgeten för 2025 revideras utifrån detta.\n\nÖrebropartiet (ÖrP) motsatte sig beslutet helt. Sverigedemokraterna (SD) motsatte sig specifikt överföringen av investeringsanslag. Beslutspunkten kräver godkännande från Kommunfullmäktige för att träda i kraft.",
   "category": "budget",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 29",
   "tags": [
+    "investeringar",
     "budget",
-    "intraprenader",
-    "ekonomi",
-    "resultatöverföring"
+    "ekonomi"
   ],
   "voting": {
     "for": [
@@ -19,28 +18,29 @@
       "M",
       "C",
       "L",
+      "KD",
       "V",
-      "SD",
-      "KD"
+      "MP"
     ],
-    "against": [
-      "ÖrP"
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "SD"
     ],
-    "abstained": [],
     "result": "Bifall"
   },
-  "quote": "Intraprenadernas ackumulerade resultat fastställs till 36 733 tkr. Politiska kansliers resultat på totalt 8 173 tkr överförs från 2024 till 2025.",
-  "quote_page": "s. 3-4",
+  "quote": "Investeringsanslag på sammanlagt 360 048 tkr överförs från 2024 till 2025 i enlighet med kommunstyrelseförvaltningens förslag.",
+  "quote_page": "s. 4",
   "meeting": {
-    "id": "2025-02-11_ko",
+    "id": "2025-02-11_Kommunstyrelsen",
     "date": "2025-02-11",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-02-11_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_29.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_29/"
   }
 }

@@ -1,0 +1,45 @@
+{
+  "id": "2026-02-25_ko_51",
+  "headline": "Ej verkställda sociala beslut minskar men problem kvarstår",
+  "summary": "Kommunfullmäktige tar emot rapporter om att många beslut om äldreomsorg, funktionsstöd och socialtjänst inte verkställs i tid.",
+  "detail": "Socialnämndens rapporterade beslut minskade till 53 under kvartal 3 2025, med 14 fortsatt ej verkställda inom tre månader jämfört med 26 i föregående kvartal.\n\nVård- och omsorgsnämnden rapporterade en ökning till 101 beslut, en ökning om 46 sedan föregående kvartal. Vid kvartalets slut var 51 beslut fortsatt ej verkställda inom tre månader.\n\nFunktionsstödsnämnden rapporterade 105 beslut, ökning från 90 i föregående kvartal. Vid slutet var 80 beslut fortsatt ej verkställda inom tre månader, en ökning från 59.\n\nMartha Wicklund (V) yrkade på tillägg att Kommunledningsförvaltningen ska utreda orsakerna till svårigheterna och ta fram förslag på hur kommunen ska kunna verkställa gynnande beslut inom rimlig tid. Förslaget röstades ner. V och ÖrP reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 51",
+  "tags": [
+    "äldreomsorg",
+    "socialtjänst",
+    "köer",
+    "bemanning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Vid kvartalets slut var 51 beslut fortsatt ej verkställda inom tre månader. För Funktionsstödsnämndens del var 80 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 10-11",
+  "meeting": {
+    "id": "2026-02-25_Kommunfullmäktige",
+    "date": "2026-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-25_ko_51.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-25_ko_51/"
+  }
+}

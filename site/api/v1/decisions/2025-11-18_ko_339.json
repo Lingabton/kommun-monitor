@@ -1,0 +1,35 @@
+{
+  "id": "2025-11-18_ko_339",
+  "headline": "Motion om säkerhet för förtroendevalda dras tillbaka",
+  "summary": "Vänsterpartiet drog tillbaka sin motion om att kommunen ska stötta förtroendevalda i hot- och våldssituationer.",
+  "detail": "Martha Wicklund (V) m.fl. motionerade om att kommundirektören omedelbart skulle starta arbete med policy för stöd till förtroendevalda i hot- och våldssituationer och säkerställa att alla förtroendevalda har kännedom om policyn.\n\nKommunledningsförvaltningen bedömde att det på nationell nivå finns ett förslag att ålägga kommunerna ansvara för vissa förtroendevaldas säkerhet, och att det även är upp till partierna att ansvara för sina egna förtroendevaldas säkerhet.\n\nV drog tillbaka motionen innan omröstning.",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 339",
+  "tags": [
+    "säkerhet",
+    "förtroendevalda",
+    "hot och våld"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Tillbakadragen"
+  },
+  "quote": "Bedömningen är att det på nationell nivå finns ett förslag att ålägga kommunerna att ansvara för vissa förtroendevaldas säkerhet.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_339.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_339/"
+  }
+}

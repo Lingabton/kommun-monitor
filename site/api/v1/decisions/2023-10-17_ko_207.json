@@ -1,0 +1,45 @@
+{
+  "id": "2023-10-17_ko_207",
+  "headline": "Investeringsprogram 2023 reviderat till 1,3 miljarder kronor",
+  "summary": "Det reviderade investeringsprogrammet för 2023 fastställs till totalt 1 304 miljoner kronor, med nya driftkostnadskonsekvenser på 95,1 miljoner kronor.",
+  "detail": "Kommunens investeringsprogram revideras två gånger per år, i juni och oktober. Efter revidering uppgår 2023 års totala investeringsbudget till 1 304 miljoner kronor.\n\nAv detta är 744 miljoner kronor skattefinansierade investeringar och 560 miljoner kronor taxefinansierade investeringar. Den kommunövergripande lokalförsörjningsplanen har reviderats, och beräknade driftkostnadskonsekvenser har ökat med 5,9 miljoner kronor jämfört med juni-revideringen.\n\nKommunstyrelsen beslutar även att realisationsvinster från försäljning av bostadsrätter och fastigheter inom Markplanerings- och exploateringsnämnden kan nyttjas för att öka investeringsbudgeten för markinköp. Kvarvarande medel från markåtkomstbidrag kan också användas för att förvärva mark för naturvårdsändamål.\n\nMartha Wicklund (V), Markus Allard (ÖrP) och Karolina Wallström (L) lade egna budgetförslag men förlorade mot majoritetens yrkande.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 207",
+  "tags": [
+    "investeringar",
+    "budget",
+    "lokalförsörjning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "ÖrP",
+      "L"
+    ],
+    "abstained": [
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Efter revidering uppgår kommunens totala investeringsbudget för 2023 till 1 304 mnkr.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_207.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_207/"
+  }
+}

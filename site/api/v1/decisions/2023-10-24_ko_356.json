@@ -1,0 +1,48 @@
+{
+  "id": "2023-10-24_ko_356",
+  "headline": "Reviderad budget 2024 och taxor antagna",
+  "summary": "Kommunfullmäktige fastställer reviderad budget för 2024 med plan för 2025-2027. Flera nya taxor för olika verksamheter antas, bland annat för avfall, vatten/avlopp och bygglov.",
+  "detail": "Den reviderade budgeten för 2024 med plan för 2025-2027 fastställs enligt förslagen från kommunledningen (S, M, C). Driftbudgetramar och investeringsprogram för 2024 revideras.\n\nTaxa för avfall, vatten och avlopp antas från 1 januari 2024. Taxa för TA-planer antas från 1 april 2024. Nya taxor för bygglov, strandskyddsdispens, nybyggnadskarta och utstakning antas från 1 januari 2024.\n\nDessutom antas taxor för dispens för långa, breda och tunga transporter, tillsyn av tobak och nikotin-produkter, receptfria läkemedel, miljödiplomering, miljöbalkens område, alkohollagen, strålskyddslagen och sprängämnesprekursorer.\n\nFlera partier lämnade egna budgetförslag. Sverigedemokraterna, Kristdemokraterna, Miljöpartiet, Vänsterpartiet, Liberalerna och Örebropartiet reserverade sig mot kommunledningens budgetförslag.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 356",
+  "tags": [
+    "budget",
+    "taxa",
+    "avgifter",
+    "avfall",
+    "vatten"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "KD",
+      "MP",
+      "V",
+      "L",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Reviderad Övergripande strategier och budget 2024 med plan för 2025–2027 fastställs enligt förslaget 'Reviderad oktober 2023 - Gemensamt ansvar för framtidens Örebro'.",
+  "quote_page": "s. 13-16",
+  "meeting": {
+    "id": "2023-10-24_Kommunfullmäktige",
+    "date": "2023-10-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-24_ko_356.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-24_ko_356/"
+  }
+}

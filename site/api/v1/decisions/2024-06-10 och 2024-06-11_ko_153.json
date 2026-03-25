@@ -1,0 +1,44 @@
+{
+  "id": "2024-06-10 och 2024-06-11_ko_153",
+  "headline": "Reviderat investeringsprogram 2024 fastställt till 1 476 mnkr",
+  "summary": "Kommunfullmäktige fastställde det reviderade investeringsprogrammet för 2024 med totala utgifter på 1 476 mnkr, varav 818 mnkr är skattefinansierade och 658 mnkr taxefinansierade. Driftkostnadskonsekvenserna justerades ned med 9,2 mnkr.",
+  "detail": "Ärendet handlade om revidering av 2024 års investeringsprogram och driftkostnadskonsekvenser. Totala investeringsbudgeten uppgick till 1 476 mnkr efter revidering, vilket innebar både utökningar och minskningar av redan beslutade medel mellan olika investeringsområden.\n\nKommunledningen föreslog bifall till sitt eget förslag. Flera oppositionspartier yrka avslag: Liberalerna, Sverigedemokraterna, Kristdemokraterna och Örebropartiet ville motsätta sig investeringsprogrammet enligt sina egna budgetförslag.\n\nOrdföranden ställde förslagen mot varandra och fann att Kommunfullmäktige beslutade enligt Kommunstyrelsens förslag. Sex partier reserverade sig mot beslutet: Liberalerna (L), Sverigedemokraterna (SD), Kristdemokraterna (KD) och Örebropartiet (ÖrP).\n\nKarolina Wallström (L) från oppositionen deltog inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 153",
+  "tags": [
+    "investeringar",
+    "budget",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD",
+      "KD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det reviderade investeringsprogrammet beslutas i enlighet med förslaget vilket innebär att kommunens totala investeringsutgifter 2024 uppgår till 1 476 mnkr.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-06-10_Kommunfullmäktige",
+    "date": "2024-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-06-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-06-10 och 2024-06-11_ko_153.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-06-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-06-10 och 2024-06-11_ko_153/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2023-12-05_ko_260",
+  "headline": "Fyra motioner remitterade till nämnder för beredning",
+  "summary": "Kommunstyrelsen remitterade fyra motioner från Kristdemokraterna och Liberalerna till olika nämnder för beredning och behandling.",
+  "detail": "Kommunfullmäktige överlämnade följande motioner till Kommunstyrelsen för beredning den 22 november 2023:\n\n1. Motion från Susanne Lindholm Henningsson (KD) om ställplatser för husbilar remitterades till Markplanerings- och exploateringsnämnden.\n\n2. Motion från Susanne Lindholm Henningsson (KD) om att Örebro kommun bör bli en aktiv del i Örebro Läns Museum. Denna motion bereds av Kommunstyrelsen själv.\n\n3. Motion från Mats-Olof Liljegren (L) om nya delningstal för skolklasser för bättre måluppfyllelse remitterades till Förskolenämnden och Grundskolenämnden.\n\n4. Motion från Mats-Olof Liljegren (L) om att införa maxtak för barngruppernas storlek inom förskolan remitterades till Förskolenämnden.",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 260",
+  "tags": [
+    "motioner",
+    "husbilar",
+    "barngrupper",
+    "skola"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Motion från Susanne Lindholm Henningsson (KD) om ställplatser för husbilar remitteras till Markplanerings- och exploateringsnämnden.",
+  "quote_page": "s. 31",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_260.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_260/"
+  }
+}

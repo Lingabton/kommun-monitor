@@ -1,0 +1,43 @@
+{
+  "id": "2025-04-08_ko_91",
+  "headline": "Motion: Färdtjänsten remitteras till rätt nämnd",
+  "summary": "Motion om att förbättra färdtjänsten genom att säga upp avtalet med Region Örebro län remitteras till Vård- och omsorgsnämnden efter korrektion.",
+  "detail": "Karolina Wallström (L) och Johanna Reimfelt (L) lämnade in motion om förbättring av färdtjänsten genom att säga upp avtalet med Region Örebro län.\n\nKommunstyrelsen ursprungliga förslag var att remittera motionen till Markplanerings- och exploateringsnämnden. Helena Ståhl (SD) påpekade att denna nämnd inte är ansvarig för färdtjänst. Kommunstyrelsen korrigerade därför sitt beslut och remitterade motionen till Vård- och omsorgsnämnden.",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 91",
+  "tags": [
+    "motion",
+    "färdtjänst",
+    "Region Örebro"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "SD",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Helena Ståhl (SD) uppmärksammar Kommunstyrelsen på att Markplanerings- och exploateringsnämnden inte är ansvarig nämnd för färdtjänst och att beslutspunkt 1 bör ändras.",
+  "quote_page": "s. 29",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_91.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_91/"
+  }
+}

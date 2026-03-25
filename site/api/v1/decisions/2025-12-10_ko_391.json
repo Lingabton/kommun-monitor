@@ -1,0 +1,44 @@
+{
+  "id": "2025-12-10_ko_391",
+  "headline": "Motion om motorgård för ungdomar avslås",
+  "summary": "Kommunfullmäktige avslår Bjarne Bäckströms (SD) motion om att starta en motorgård i närheten av centrala Örebro för ungdomar.",
+  "detail": "Bjarne Bäckström föreslog att Örebro kommun i egen regi eller i samarbete startar upp en motorgård för ungdomar nära centrum.\n\nKultur- och fritidsnämnden behandlade ärendet 16 juni 2025. Kommunstyrelsen behandlade det 26 augusti 2025. Ärendet bordlades på fyra fullmäktigenammanträden innan slutlig behandling.\n\nSD, ÖrP reserverade sig mot avslaget.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Centrala Örebro",
+  "paragraph_ref": "§ 391",
+  "tags": [
+    "motorgård",
+    "ungdomar",
+    "kultur",
+    "fritid"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-12-10_Kommunfullmäktige",
+    "date": "2025-12-10",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_391.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_391/"
+  }
+}

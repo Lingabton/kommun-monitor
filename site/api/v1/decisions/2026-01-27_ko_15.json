@@ -1,0 +1,40 @@
+{
+  "id": "2026-01-27_ko_15",
+  "headline": "Motion om offentliga toaletter - bordlades efter meningsskiljaktighet",
+  "summary": "Kommunfullmäktige bordlade motionen från Liberalerna om utökning av offentliga toaletter efter oenighet om hur ärendet ska hanteras.",
+  "detail": "Karolina Wallström (L), Patrik Jämtvall (L) och Johanna Reimfelt (L) motionerade för att kommunen omedelbart ska påbörja att praktiskt ordna eller bygga nya offentliga toaletter i Örebros offentliga rum.\n\nKommunstyrelsen föreslog att motionen skulle anses besvarad, med hänvisning till att Teknik- och serviceförvaltningen redan fått i uppdrag att utöka antalet offentliga toaletter. En utredning av antal, plats och lämpliga lösningar skulle genomföras.\n\nUnder fullmäktiges behandling yrkade flera partier på bifall till motionen, medan andra stödde kommunstyrelsens förslag. Ordföranden fann att majoritet stödde kommunstyrelsens linje att motionen var besvarad, men 21 ledamöter från L, V, MP, ÖrP och KD reserverade sig mot beslutet.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 15",
+  "tags": [
+    "offentlig toalett",
+    "infrastruktur",
+    "Örebro stad"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "C"
+    ],
+    "result": "Bifall till kommunstyrelsens förslag"
+  },
+  "quote": "Motionen innehåller ett förslag om att Örebro kommun omedelbart beslutar att påbörja att praktiskt ordna/öppna eller bygga nya offentliga toaletter i Örebros offentliga rum.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2026-01-27_Kommunfullmäktige",
+    "date": "2026-01-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-27_ko_15.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_15/"
+  }
+}

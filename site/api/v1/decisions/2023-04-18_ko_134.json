@@ -1,0 +1,44 @@
+{
+  "id": "2023-04-18_ko_134",
+  "headline": "Årsredovisningar för Rådhuskoncernen och dotterbolag godkända",
+  "summary": "Årsredovisningar för Örebro Rådhus AB och dotterbolag 2022 godkändes. Rådhuskoncernen gjorde 255 miljoner resultat efter skatt, moderbolaget 71,7 miljoner med 33 miljoner föreslaget utdelat.",
+  "detail": "Örebro Rådhus AB ägs 100% av kommunen och förvaltar kommunens aktier i bland annat ÖrebroBostäder AB, Örebrokompaniet AB, Vätternvatten AB, Alfred Nobel Science Park AB och Örebro Läns Flygplats AB.\n\nRådhuskoncernens resultat för 2022 var 255 miljoner kronor efter skatt (295 miljoner 2021). Moderbolaget Örebro Rådhus AB gjorde 71,7 miljoner efter skatt, varav 33 miljoner föreslagits utdelat till kommunen.\n\nMartha Wicklund (V) deltog inte i beslutspunkt 1 och reserverade sig mot beslutspunkt 2b (disponering av vinster). Markus Allard (ÖrP) reserverade sig mot hela beslutet och yrkade på att ändringstext om Örebropartiets arvodespolicy samt att sälja av aktierna i Örebrokompaniet AB, Kumbro Vind AB och Vätternvatten AB.\n\nKommunstyrelsens förslag bifölls trots reservationerna.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 134",
+  "tags": [
+    "årsredovisning",
+    "Rådhus AB",
+    "dotterbolag",
+    "resultat",
+    "utdelning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Resultatet för hela Örebro Rådhuskoncernen är 255 mnkr efter skatt. Av bolagets resultat föreslås bolagsstämman besluta att 33 mnkr ska delas ut till Örebro kommun.",
+  "quote_page": "s. 15-16",
+  "meeting": {
+    "id": "2023-04-18_Kommunfullmäktige",
+    "date": "2023-04-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-18_ko_134.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-18_ko_134/"
+  }
+}

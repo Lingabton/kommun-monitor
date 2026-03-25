@@ -1,0 +1,41 @@
+{
+  "id": "2023-04-18_ko_135",
+  "headline": "Trädgårdsaktiebolaget årsredovisning godkänd",
+  "summary": "Årsredovisning för Örebro läns trädgårdsaktiebolag 2022 godkändes. Bolaget gjorde 50 032 kronor resultat efter skatt.",
+  "detail": "Bolaget ansvarar för att förvärva, äga och underhålla konstverk i Stadsparken, Skytteparken och Stora Holmen. Resultatet uppgick till 50 032 kronor efter skatt (53 263 kronor 2021). Anläggningstillgångar i form av konstverk värderades till 2 188 240 kronor.\n\nUnder året planerades och påbörjades uppbyggnad av kapital för anskaffning av nytt konstverk genom samarbete med konstnär.\n\nMarkus Allard (ÖrP) reserverade sig mot beslutet och yrkade på ändringstext om Örebropartiets arvodespolicy samt att avyttra bolaget.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Stadsparken, Skytteparken, Stora Holmen",
+  "paragraph_ref": "§ 135",
+  "tags": [
+    "årsredovisning",
+    "trädgårdsaktiebolag",
+    "konstverk",
+    "park"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Bolagets resultat för 2022 uppgår till 63 013 kr före skatt och 50 032 kr efter skatt.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2023-04-18_Kommunfullmäktige",
+    "date": "2023-04-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-18_ko_135.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-18_ko_135/"
+  }
+}

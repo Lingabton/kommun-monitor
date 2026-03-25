@@ -1,0 +1,46 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_187",
+  "headline": "Motion om välfärd i kommunal regi avslagna",
+  "summary": "Vänsterpartiets motion om att avsluta LoV och avsluta vinstdrivna entrepranader avslogs. S-M-C enats om att behålla LoV under mandatperioden.",
+  "detail": "Martha Wicklund (V) m.fl. motionerade om att avsluta Law of Variation (LoV) och att avsluta entreprenader med vinstdrivna företag.\n\nLoV är en reglering för vad som ska gälla när upphandlande myndigheter konkurrensutsätter delar av sin verksamhet genom att inrätta valfrihetssystem där brukaren får välja bland leverantörer.\n\nKommunen har rutiner där man regelbundet följer upp kvaliteten på de externa aktörerna på samma sätt som verksamhet i intern regi. Utifrån tidigare uppföljningar bedöms kvaliteten som bra.\n\nKommunledningen arbetar enligt överenskommelse mellan S, M och C där man enats om att behålla LoV under mandatperioden. Motionen avslogs därför.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 187",
+  "tags": [
+    "välfärd",
+    "LoV",
+    "privatisering",
+    "motion",
+    "entreprenader"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "SD"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 26",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_187.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_187/"
+  }
+}

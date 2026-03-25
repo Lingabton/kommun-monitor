@@ -1,0 +1,45 @@
+{
+  "id": "2023-12-12_ko_421",
+  "headline": "Kulturpolitiska och idrottspolitiska programmen förlängda",
+  "summary": "Kommunfullmäktige förklarade kultur- och idrottspolitiska programmen gällande till vidare med utvärdering inför varje mandatperiod.",
+  "detail": "De kulturpolitiska och idrottspolitiska programmen är två styrdokument för de kommunala nämndernas och bolagens strategiarbete. De antogs 2018 med giltighetstid 2018–2022, men eftersom ställningstagandena fortfarande är aktuella föreslog förvaltningen att förlänga giltigheten.\n\nKommunfullmäktige beslutade att båda programmen ska gälla till och med att behov av revidering uppstår och ställningstaganden inte längre ses aktuella. Utvärdering ska återrapporteras till Kultur- och fritidsnämnden inför varje mandatperiod.\n\nV, L och KD hade reservationer. Lea Strandberg (MP) yrkade på att idrottsprogrammet utvärderas årligen med könsuppdelad statistik, könskonsekvensanalys och jämställdhetsbudgetering, men detta avslogs.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 421",
+  "tags": [
+    "kultur",
+    "idrott",
+    "styrdokument",
+    "policy"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [
+      "L"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kulturpolitiskt program (Km 396/2016) ska gälla till och med att behov av revidering uppstår och ställningstaganden inte längre ses aktuella.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2023-12-12_Kommunfullmäktige",
+    "date": "2023-12-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-12_ko_421.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-12_ko_421/"
+  }
+}

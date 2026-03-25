@@ -1,0 +1,43 @@
+{
+  "id": "2025-02-11_ko_32",
+  "headline": "Årsberättelse 2024 fastställd trots reservationer",
+  "summary": "Kommunstyrelsen fastställer årsberättelsen för 2024 som visar positiv ekonomisk resultat på 10,2 miljoner kronor.",
+  "detail": "Kommunledningsförvaltningen har sammanställt årsberättelse 2024. Verksamheten under Kommunstyrelsen bedrivs enligt reglemente och uppdrag och levererar positiva bidrag till kommuns utveckling och ekonomi.\n\nKommunstyrelsen redovisar en positiv avvikelse på 10,2 miljoner kronor. Kommunledningsförvaltningen visar positiv avvikelse med 14,8 miljoner kronor. Nio av tolv mål bedöms vara uppfyllda. Av tjugo uppdrag från budget 2024 är femton genomförda och fem påbörjade.\n\nÖrebropartiet yrkat avslag på årsberättelsen. Vänsterpartiet, Liberalerna och Kristdemokraterna deltog inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 32",
+  "tags": [
+    "årsberättelse",
+    "ekonomi",
+    "verksamhetsresultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "C",
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunstyrelsen redovisar en positiv avvikelse uppgående till 10,2 mnkr.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2025-02-11_Kommunstyrelsen",
+    "date": "2025-02-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-02-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_32.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_32/"
+  }
+}

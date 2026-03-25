@@ -1,0 +1,36 @@
+{
+  "id": "2024-05-07_ko_113",
+  "headline": "Tre motioner remitterade för beredning",
+  "summary": "Kommunfullmäktige remitterade tre motioner till Kommunstyrelsen: aktivitetspengen, kapell i Wadköping och offentliga toaletter.",
+  "detail": "Bo Ammer (SD) och David Larsson (SD) inlämnade motion om att återinföra aktivitetspengen för funktionshindrade - remitterad till Funktionsstödsnämnden.\n\nSusanne Lindholm Henningsson (KD) motionerade för kapell i Wadköping - ska beredas av Kommunstyrelsen.\n\nKarolina Wallström (L) m.fl. motionerade för fler offentliga toaletter i Örebro - ska beredas av Kommunstyrelsen.",
+  "category": "politik",
+  "contested": false,
+  "location": "Wadköping, Örebro",
+  "paragraph_ref": "§ 113",
+  "tags": [
+    "motioner",
+    "aktivitetspengen",
+    "funktionshinder",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommunfullmäktige har vid sitt sammanträde den april 2024 remitterat följande motioner till Kommunstyrelsen",
+  "quote_page": "s. 23",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_113.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_113/"
+  }
+}

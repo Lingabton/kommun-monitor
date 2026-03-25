@@ -1,0 +1,35 @@
+{
+  "id": "2024-11-12_ko_216",
+  "headline": "Vinternatt-samarbetet avslutas – partnerskap med Stadsmission slutar",
+  "summary": "Utvärdering av överenskommelsen IOP Vinternatt 2022–2024 läggs till handlingarna. Samarbetet mellan Örebro kommun och Örebro Stadsmission avslutas.",
+  "detail": "IOP Vinternatt har varit ett samarbete sedan 2018 för att ge skydd mot kylan under vintermånaderna för utsatta EU/EES-medborgare. Utvärderingen av perioden 2022–2024 visar att verksamheten genomgick flera förändringar. Styrgruppen hade svårt med otydlig ansvarsfördelning, framför allt gällande lokalfrågor som var ett återkommande årligt problem.\n\nAntalet individer från målgruppen som reser till Örebro har minskat kraftigt. Partnerskapet avslutas och förnyas inte 2025. Styrgruppen uttalar att antalet individer från målgruppen minskat, men det finns behov av att fortsätta bevaka målgruppen framöver.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Örebro",
+  "paragraph_ref": "§ 216",
+  "tags": [
+    "Vinternatt",
+    "EU-medborgare",
+    "Stadsmission"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Möjligheten att vara flexibel i samarbetet och kunna förändra verksamheten är en förutsättning av IOP som samarbetsmodell. Utmaningen som har uppstått i samarbetet har varit gällande otydlig ansvarsfördelning.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_216.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_216/"
+  }
+}

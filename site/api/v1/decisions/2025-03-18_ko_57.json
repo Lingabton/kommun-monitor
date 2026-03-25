@@ -1,0 +1,43 @@
+{
+  "id": "2025-03-18_ko_57",
+  "headline": "Motion om lönekostnader för anställda avslogs",
+  "summary": "Kommunstyrelsen avslog Sverigedemokraternas motion om att visa hela lönekostnaden inklusive arbetsgivaravgift i lönebeskeden till anställda.",
+  "detail": "Helena Ståhl (SD) motionerade för att hela lönekostnaden inklusive arbetsgivaravgift skulle redovisas i lönebeskeden till anställda inom Örebro kommun. Kommunledningen föreslog avslag med motiveringen att kommunen inte bör föregripa en pågående regeringsutredning i frågan.\n\nKommunledningen ansåg att det finns värde i att lönespecifikationerna enkelt och tydligt visar vilken lön som faktiskt betalats ut, och att det kan finnas lärdomar att dra från regeringsutredningen angående juridiska aspekter och praktiskt genomförande.\n\nDavid Larsson (SD) och Markus Allard (ÖrP) yrkal bifall till motionen och reserverade sig mot beslutet.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 57",
+  "tags": [
+    "löner",
+    "anställda",
+    "transparens",
+    "motioner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "OrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att motionen ska avslås eftersom Örebro kommun inte bör föregripa den utredning i frågan som påbörjats av regeringen.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_57.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_57/"
+  }
+}

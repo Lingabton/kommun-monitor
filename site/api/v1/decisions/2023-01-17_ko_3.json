@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-17_ko_3",
+  "headline": "Utökning av verksamhetsområden för vatten och avlopp",
+  "summary": "Kommunstyrelsen beslutar utöka VA-verksamhetsområdena för nya exploateringsområden och befintlig bebyggelse enligt Tekniska nämndens förslag.",
+  "detail": "Enligt lagstiftning måste Örebro kommun återkommande se över och vid behov utöka verksamhetsområdena för dricksvatten, spillvatten och dagvatten. Verksamhetsområdet definieras som geografiska områden där kommunen ansvar för VA-försörjning.\n\nTekniska nämnden föreslår utöka verksamhetsområdena enligt bifogade kartor och fastighetsförteckning för att möjliggöra VA-utbyggnad.\n\nSusanne Lindholm (KD) lämnar särskilt yttrande om vikten av god kommunikation med berörda fastighetsägare. Hon refererar till exempel där fastighetsägare inte fått tillräcklig information och tvingats bekosta egna anläggningar för att sedan tvingas ansluta till kommunens nät för ytterligare kostnader.\n\nBo Ammer (SD) lämnar särskilt yttrande där han vill att kommunen visar hänsyn till befintliga privata miljögodkända anläggningar och är generös med dispenser för fastigheter med redan tillräckliga lösningar.",
+  "category": "infrastruktur",
+  "contested": false,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 3",
+  "tags": [
+    "vatten och avlopp",
+    "infrastruktur",
+    "exploatering",
+    "fastighetsägare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Verksamhetsområdet utgörs av geografiska områden inom vilka kommunen har ansvar att ordna kommunal VA-försörjning för berörda fastigheter.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_3.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_3/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2026-02-10_ko_31",
+  "headline": "Skolsäkerhet: Motion om larm och besökarregistrering besvarad",
+  "summary": "Liberalerna motion om att öka skolsäkerheten genom skalskydd, högtalare och besökarregistrering klassas som besvarad utifrån pågående säkerhetsarbete.",
+  "detail": "MOTIONENS FÖRSLAG: Karolina Wallström (L) och Mats-Olof Liljegren (L) förespråkade:\n1. Låsbara skalskydd vid rektorskontor på alla skolor\n2. Högtalarsystem för anrop vid särskilda händelser\n3. Kontroll av fungerande larm på alla skolor\n4. Registrering av besökare före tillträde till skollokaler\n\nFÖRVALTNINGARNAS SVAR: Gymnasie- och arbetsmarknadsförvaltningen samt Förskole- och grundskoleförvaltningen anser motionen besvarad. Säkerhetsarbetet är redan igång utifrån ny skolsäkerhetslagstiftning och ökade lagkrav på begränsad tillträde för obehöriga.\n\nMOTSTÅND: Karolina Wallström (L), Helena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall till motionen för konkreta åtgärder men överröstas.",
+  "category": "skola",
+  "contested": true,
+  "location": "Skolor, Örebro kommun",
+  "paragraph_ref": "§ 31",
+  "tags": [
+    "skolsäkerhet",
+    "trygghet",
+    "säkerhetsmåtgärder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Liberalerna föreslår kommunfullmäktige att besluta om att ge följande specifika uppdrag till kommundirektören: att omgående starta en utredning om hur alla kommunens skolor kan utrustas med av rektor/skolledare låsbart skalskydd.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2026-02-10_Kommunstyrelsen",
+    "date": "2026-02-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-10_ko_31.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_31/"
+  }
+}

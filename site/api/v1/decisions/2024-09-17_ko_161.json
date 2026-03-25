@@ -1,0 +1,45 @@
+{
+  "id": "2024-09-17_ko_161",
+  "headline": "Motion om kapell i Wadköping avslås - platsen behövs för andra aktiviteter",
+  "summary": "Kommunstyrelsen avslår Kristdemokraternas motion om att flytta ett kapell till Wadköping med hänvisning till att platsen är viktig för befintliga evenemang och verksamheter.",
+  "detail": "Kristdemokraterna motionerade för att utreda möjligheter att flytta ett kapell till Wadköping för att användas till bröllop, högtidsdagar, konserter och event. Kommunledningen avslår motionen.\n\nBedömningen är att tidigare beslut från 2018 fortfarande gäller. En stadsantikvarisk bedömning visade att en sådan byggnad inte passar in i Wadköpings karaktär. Dessutom är den fria ytan (Lars Bohms udde) viktig för olika aktiviteter som lekladan, midsommar, marknader, pedagogisk verksamhet och spontana besökare.\n\nSusanne Lindholm Henningsson (KD) reserverade sig mot beslutet med sitt eget bifallsyrkande.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Wadköping",
+  "paragraph_ref": "§ 161",
+  "tags": [
+    "Wadköping",
+    "kapell",
+    "kultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "KD"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Platsen värnas för verksamheten med lekladan och den öppna ytan är viktig för alla olika arrangemang till exempel midsommar, marknader, pedagogisk verksamhet och spontana besökare.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2024-09-17_Kommunstyrelsen",
+    "date": "2024-09-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-17_ko_161.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-17_ko_161/"
+  }
+}

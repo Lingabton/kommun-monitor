@@ -1,0 +1,45 @@
+{
+  "id": "2024-09-17_ko_162",
+  "headline": "Motion om aktivitetspengen för funktionshindrade avslås",
+  "summary": "Kommunstyrelsen avslår Sverigedemokraternas motion om att återinföra aktivitetspengen inom daglig verksamhet för funktionshindrade.",
+  "detail": "Sverigedemokraterna motionerade för att återinföra 'aktivitetspengen' - en tidigare budgeterad post för trivselaktiviteter inom daglig verksamhet för personer med funktionsnedsättning. Postens togs bort 2020 som del av arbetet med ekonomi i balans.\n\nKommunledningen avslår motionen med hänvisningen att trivselaktiviteter fortfarande genomförs och att en satsning från 2018 om kultur- och fritidsaktiviteter fortsätter. Bedömningen är att återinförandet inte är en prioritet givet det ekonomiska läget och att det inte är en lagstadgad del av insatsen daglig verksamhet.\n\nHelena Ståhl (SD) och Karolina Wallström (L) yrkade bifall till motionen, men reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 162",
+  "tags": [
+    "funktionshinder",
+    "daglig verksamhet",
+    "budget",
+    "aktiviteter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "L"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Givet att satsningen från 2018, samt att trivselaktiviteter fortfarande genomförs är återinförandet av aktivitetspengen inte en prioritet givet det ekonomiska läget.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2024-09-17_Kommunstyrelsen",
+    "date": "2024-09-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-17_ko_162.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-17_ko_162/"
+  }
+}

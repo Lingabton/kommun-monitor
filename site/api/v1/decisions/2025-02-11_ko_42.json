@@ -1,8 +1,8 @@
 {
   "id": "2025-02-11_ko_42",
-  "headline": "Fem motioner remitterade till nämnder för vidare beredning",
-  "summary": "Kommunfullmäktige hade remitterat fem motioner till Kommunstyrelsen. Två besvarades direkt av styrelsen, medan tre remitterades vidare till relevanta nämnder för utredning.",
-  "detail": "Motionerna gällde:\n\n1. Martha Wicklund (V) m.fl. om att trygga demokratin - besvaras av Kommunstyrelsen\n2. Helena Ståhl (SD) och Habib Brini om ekonomiska fallskärmar - besvaras av Kommunstyrelsen\n3. Carola Sunesson (SD) och Christer Johansson (SD) om klassisk arkitektur och lokal byggtradition - remitterad till Bygg- och miljönämnden samt Markplanerings- och exploateringsnämnden\n4. Helena Ståhl (SD) och Habib Brini om långtidsarbetslösa vid snöröjning - remitterad till Gymnasie- och arbetsmarknadsnämnden\n5. Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i Översiktsplanen - remitterad till Markplanerings- och exploateringsnämnden",
+  "headline": "Fem motioner remitteras till nämnder och styrelsen",
+  "summary": "Kommunstyrelsen beslutar om remittering av fem motioner från Kommunfullmäktige.",
+  "detail": "Motion från Martha Wicklund (V) m.fl. om att trygga demokratin besvaras av Kommunstyrelsen.\n\nMotion från Helena Ståhl (SD) och Habib Brini (SD) om att sluta med ekonomiska fallskärmar besvaras av Kommunstyrelsen.\n\nMotion från Carola Sunesson (SD) och Christer Johansson (SD) om klassisk arkitektur och lokal byggtradition remitteras till Bygg- och miljönämnden samt Markplanerings- och exploateringsnämnden.\n\nMotion från Helena Ståhl (SD) och Habib Brini (SD) om långtidsarbetslösa vid snöröjning remitteras till Gymnasie- och arbetsmarknadsnämnden.\n\nMotion från Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i översiktsplanen remitteras till Markplanerings- och exploateringsnämnden.",
   "category": "politik",
   "contested": false,
   "location": null,
@@ -10,29 +10,38 @@
   "tags": [
     "motioner",
     "demokrati",
+    "arbetsmarknad",
     "arkitektur",
-    "arbetslöshet",
-    "kärnkraft",
     "energi"
   ],
   "voting": {
-    "for": [],
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
     "against": [],
     "abstained": [],
-    "result": "Enhaltig"
+    "result": "Enhälligt"
   },
-  "quote": "Kommunfullmäktige remitterade följande motioner till Kommunstyrelsen: Motion från Martha Wicklund (V) m.fl. om att trygga demokratin.",
+  "quote": "Motion från Martha Wicklund (V) m.fl. om att trygga demokratin besvaras av Kommunstyrelsen.",
   "quote_page": "s. 14-15",
   "meeting": {
-    "id": "2025-02-11_ko",
+    "id": "2025-02-11_Kommunstyrelsen",
     "date": "2025-02-11",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-02-11_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_42.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_42/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_42.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_42/"
   }
 }

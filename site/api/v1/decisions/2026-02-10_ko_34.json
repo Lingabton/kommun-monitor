@@ -1,0 +1,42 @@
+{
+  "id": "2026-02-10_ko_34",
+  "headline": "Marie Hollertz blir tillförordnad utvecklingsdirektör till årsskiftet",
+  "summary": "Marie Hollertz tillsätts som tillförordnad utvecklings- och hållbarhetsdirektör i Kommunledningsförvaltningen från 7 april till 31 december 2026.",
+  "detail": "BAKGRUND: Katrin Larsson slutar sin tjänst som utvecklings- och hållbarhetsdirektör på grund av pension. Sista arbetsdagen är 6 april 2026.\n\nLÖSNING: Marie Hollertz, analyschef med gedigen erfarenhet och medlem i ledningsgruppen, tillsätts temporärt. Rekrytering av ny permanent direktör beräknas ta tid.\n\nFINANSIERING: Löses inom befintlig budgetram.\n\nMOTSTÅND: Markus Allard (ÖrP) och Helena Ståhl (SD) förespråkar avslag men överröstas.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 34",
+  "tags": [
+    "personalpolitik",
+    "ledning",
+    "hållbarhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Marie Hollertz, idag analyschef med gedigen erfarenhet och del av nuvarande ledningsgrupp, föreslås som tillförordnad direktör.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2026-02-10_Kommunstyrelsen",
+    "date": "2026-02-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-10_ko_34.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_34/"
+  }
+}

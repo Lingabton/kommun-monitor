@@ -1,8 +1,8 @@
 {
   "id": "2025-08-27_ko_223",
-  "headline": "Motion om välfärdspersonalens löner avslogs utan ökad budget",
-  "summary": "Vänsterpartiet krävde mer pengar till välfärdspersonal genom ledningseffektiviseringar och vakansering. Majoriteten avslogs motionen utan att tillskjuta nya resurser.",
-  "detail": "Martha Wicklund (V) m.fl. påpekade att välfärdspersonalen saknar resurser och begärde att kommundirektören skulle:\n\n1. Se över ledningsorganisationen och presentera effektiviseringsförslag\n2. Vakansproiva tjänster för att frigöra pengar till välfärdspersonal\n\nKommunledningen svarade att man redan gjort personella förändringar i samband med omorganisation och att ledningsorganisationen redan minskats. Ingen vilja uttrycktes att tillskjuta ytterligare medel.\n\nMotionen avslogs med bred opposition från V, SD, ÖrP, L, KD-del. Hela 27 ledamöter reserverade sig mot beslutet – en av de största reservationslistorna på protokollet.\n\nDetta beslut visar tydligt att majoriteten inte anser sig kunna öka välfärdssatsningarna genom omorganisering.",
+  "headline": "Motion om mer pengar till välfärdspersonal avslogs",
+  "summary": "Vänsterpartiet yrkade på effektiviseringar i ledningsorganisationen för att ge välfärdspersonalen höjningar. Fullmäktige avslogs motionen trots stöd från flera partier.",
+  "detail": "Martha Wicklund (V) och flera medmotionärer föreslog två åtgärder: att ge Kommundirektören i uppdrag att se över ledningsorganisationen med effektiviseringsförslag, och att vakansprova tjänster på tjänstemannasidan.\n\nMotionen behandlades av Kommunstyrelsen 8 april 2025 och bordlades tre gånger innan slutlig behandling 27 augusti.\n\nKommunstyrelsen noterade att personella förändringar redan genomförts med ny nämndorganisation och att ledningsorganisationen redan minskat. Kommundirektören arbetar löpande med effektivisering.\n\nFullmäktige avslogs motionen. V, SD, L, ÖrP och KD reserverade sig mot beslutet till förmån för bifallsyrkanden.",
   "category": "budget",
   "contested": true,
   "location": null,
@@ -10,31 +10,31 @@
   "tags": [
     "välfärd",
     "personal",
-    "löner",
-    "budget"
+    "budget",
+    "ledning"
   ],
   "voting": {
-    "for": [
+    "for": [],
+    "against": [
       "S",
       "M",
       "C"
     ],
-    "against": [],
     "abstained": [],
-    "result": "Enhalligt"
+    "result": "Avslaget"
   },
-  "quote": "Martha Wicklund (V) m.fl. menar att den konstanta otillräckligheten personalen upplever varken är hållbar eller något kommunen borde acceptera.",
+  "quote": "Ge Kommundirektören i uppdrag att se över ledningsorganisationen och återkomma med effektiviseringsförslag på tjänstemannasidan kopplat till den minskade nämndorganisation.",
   "quote_page": "s. 11",
   "meeting": {
-    "id": "2025-08-27_ko",
+    "id": "2025-08-27_Kommunfullmäktige",
     "date": "2025-08-27",
-    "type": "Kommunfullmäktige",
-    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-27_Kommunfullmäktige.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_223.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_223/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_223.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_223/"
   }
 }

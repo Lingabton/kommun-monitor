@@ -1,0 +1,45 @@
+{
+  "id": "2025-05-13_ko_105",
+  "headline": "Reviderad riktlinje för pension antagen",
+  "summary": "Kommunstyrelsen antar reviderad riktlinje för pension som ersätter tidigare riktlinjer från 2021 och 2007.",
+  "detail": "De tidigare riktlinjerna för pension från 2021 och 2007 upphävs och ersätts med en samlad reviderad riktlinje daterad 2024-12-05. Riktlinjen innehåller bestämmelser om pensionsförstärkning vid förtida uttag, särskild avtalspension, löneväxling och utökad pensionslösning.\n\nPersonalutskottet behandlade ärendet den 6 februari 2025 och rekommenderade antagandet. Beslutet fattades enhälligt utan motsättningar.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 105",
+  "tags": [
+    "pension",
+    "riktlinjer",
+    "personal"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Anta reviderad riktlinje för pension, 2024-12-05",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_105.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_105/"
+  }
+}

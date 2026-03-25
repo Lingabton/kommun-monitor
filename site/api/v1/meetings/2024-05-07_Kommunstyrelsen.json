@@ -1,0 +1,459 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2024-05-07",
+  "decisions": [
+    {
+      "headline": "Näringslivsprogram antaget från juni 2024",
+      "summary": "Kommunstyrelsen antog det reviderade näringslivsprogrammet som ska gälla från 1 juni 2024. Programmet är framtaget i bred parlamentarisk samverkan med samtliga partier representerade.",
+      "detail": "Näringslivsprogrammet reviderats för första gången sedan 2015 i samverkan mellan kommunen och näringslivet. Programmet leds av en arbetsgrupp med parlamentarisk representation. Syfte är att sätta riktningen för kommunens nämnder, förvaltningar och bolag gällande näringslivets förutsättningar för tillväxt och hållbar utveckling.\n\nOmfattar riktlinjer för hur företag ska kunna startas, drivas, utvecklas och etableras i Örebro kommun för att skapa arbetstillfällen och förbättrad service till medborgare.\n\nMarkus Allard (ÖrP) yrkade avslag på programmet. Susanne Lindholm Henningsson (KD) lyfte särskilt tacksamt fram det goda parlamentariska samarbete som skett under framtagandet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 104",
+      "quote": "Syftet med Näringslivsprogrammet är att sätta riktningen och den önskvärda utvecklingen för alla kommunens nämnder, förvaltningar och bolag inom koncernen vad gäller näringslivets förutsättningar för fortsatt tillväxt och hållbar utveckling.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "C",
+          "L",
+          "KD",
+          "M",
+          "V"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "näringslivsprogram",
+        "näringsliv",
+        "tillväxt"
+      ],
+      "id": "2024-05-07_ko_104",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Klimatstrategi återremitterad för revidering",
+      "summary": "Kommunstyrelsen beslöt att återremittera klimatstrategin efter omfattande yrkanden om ändringar från flera partier, framför allt gällande livsmedelsval och transportfrågor.",
+      "detail": "Klimatstrategin hade reviderats första gången sedan 2016 och var framtagen i bred samverkan inom kommunkoncernen. Strategins övergripande syfte är att ge styrning för kommunens arbete med klimatmål från programmet Vårt hållbara Örebro.\n\nStrategin skulle ersätta den från 2016 och dess antagande skulle också medföra avslutandet av Strategi för miljöanpassat byggande (2016).\n\nMultipla yrkanden lämnades in: Markus Allard (ÖrP) och Helena Ståhl (SD) yrkade avslag på huvuddelen. Karolina Wallström (L) presenterade 14 detaljerade ändringsyrkanden kring transportpolitik, livsmedelsval (specifikt krav på 70% ekologiska och 60% svenskproducerade livsmedel) och styrningsprocesser. Susanne Lindholm Henningsson (KD) yrkade på förtydligande om svenska livsmedel före ekologiska samt ökad andel svenskproducerat kött.\n\nOrdförande John Johansson (S) beslöt att återremittera hela ärendet.",
+      "category": "miljo",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 106",
+      "quote": "Klimatstrategin ersätter nuvarande klimatstrategi som antogs 2016 och syftet är att ge en övergripande styrning, enhetlig syn och konkretisering av kommunens övergripande klimatmål.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Återremiss"
+      },
+      "tags": [
+        "klimatstrategi",
+        "miljö",
+        "hållbar utveckling",
+        "livsmedel"
+      ],
+      "id": "2024-05-07_ko_106",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Åtgärdsprogram mot buller 2024-2028 antaget",
+      "summary": "Kommunstyrelsen antog åtgärdsprogram för att begränsa bullerexponeringen bland invånare. Två partier reserverade sig mot beslutet.",
+      "detail": "Programmet är utformat enligt förordningen om omgivningsbuller SFS 2004:675 som kräver att alla kommuner med över 100 000 invånare upprättar åtgärdsprogram vart femte år. Överordnat syfte är att förbättra ljudmiljön och begränsa bullerexponeringen för invånare i Örebro kommun.\n\nProgrammet berörde flera olika bullerkällor och åtgärder under perioden 2024-2028. Teknik- och serviceförvaltningen ansvarar för framtagandet.\n\nMarkus Allard (ÖrP) yrkade avslag på programmet i sin helhet. Karolina Wallström (L) yrkade avslag och ville omforma programmet i enlighet med Liberalernas tidigare förslag och åsikter. Beslutet följde Teknik- och servicenämndens rekommendation.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 105",
+      "quote": "Det övergripande syftet med detta åtgärdsprogram är att förbättra ljudmiljön och begränsa bullerexponeringen för invånarna i Örebro kommun.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "L"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "buller",
+        "miljö",
+        "infrastruktur",
+        "trafikbuller"
+      ],
+      "id": "2024-05-07_ko_105",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Hemlöshetskartläggning presenterad, förebyggande arbete omstritt",
+      "summary": "Kommunstyrelsen godtog hemlöshetskartläggning men avslög Kristdemokraternas förslag om ökat stöd till civilsamhällesaktörer och fler boendeformer för akut hemlösa.",
+      "detail": "En ny hemlöshetskartläggning genomfördes enbart inom Örebro kommun och visar att kommun ligger bland jämförbara kommuner med flest hemlösa - och högst när det gäller akut hemlöshet.\n\nKristdemokraterna (Susanne Lindholm Henningsson), Sverigedemokraterna (Helena Ståhl) och Örebro för Förändring (Markus Allard) yrkade bifall till förslag om: ökat arbete med hemlöshetsförebyggande, snabbare etablering av fler och olika boendeformer för akut hemlösa, samverkan med erfarna civilsamhällesaktörer och ökat ekonomiskt stöd till dessa.\n\nOrdförande John Johansson (S) yrkade avslag på förslaget. Martha Wicklund (V) fick lämna särskilt yttrande till protokollet.",
+      "category": "trygghet",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 102",
+      "quote": "Kartläggningen som genomförts enbart inom Örebro kommun visar att just den akuta hemlösheten var större än man befarat.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "V"
+        ],
+        "against": [
+          "KD",
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag på tilläggsyrkanden"
+      },
+      "tags": [
+        "hemlöshet",
+        "socialt arbete",
+        "civilsamhälle",
+        "utsatta"
+      ],
+      "id": "2024-05-07_ko_102",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "IOP Vinternatt-partnerskap omstritt, omförhandling avslogs",
+      "summary": "Sverigedemokraterna och Örebro för Förändring ville omförhandla partnerskapet IOP Vinternatt då styrgruppen sänkt ambitionsnivån för EU/EES-medborgares vinterövernattningar.",
+      "detail": "IOP Vinternatt är ett idéburet-offentligt partnerskap mellan Örebro kommun och Örebro Stadsmission för att skydda utsatta EU/EES-medborgare framför allt under vintermånaderna. Överenskommelsen gäller 2022-2024.\n\nUnder säsongen 23/24 har verksamheten förändrats inom befintligt IOP. Styrgruppens plan innebär att man inte erbjuder någon härbarge då lämplig lokal inte hittats - en ambitionssänkning som Sverigedemokraterna menar är för långt från den ursprungliga överenskommelsen.\n\nHelena Ståhl (SD) yrkade på omförhandling. Markus Allard (ÖrP) stödde yrkandet. Martha Wicklund (V) fick lämna särskilt yttrande. Ordförande avslogs omförhandlingskravet.",
+      "category": "socialt",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 103",
+      "quote": "Styrgruppen väljer nu att sänka nivån och inte erbjuda någon form av härbärge, då ingen lämplig lokal hittats. Att göra en ambitionssänkning utifrån förutsättningarna behöver inte i sig vara fel. Men detta är ett så pass stort steg utanför den överenskommelse som är gjord.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "EU-migranter",
+        "vinterövernattning",
+        "partnerskap",
+        "civilsamhälle"
+      ],
+      "id": "2024-05-07_ko_103",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Ej verkställda LSS/SoL-beslut: Många väntar utan åtgärder",
+      "summary": "Rapporten visar allvarliga problem med ej verkställda beslut för funktionshindrade. Vänster-, Moderata-, Liberala och Sverigedemokraterna ville skärpa kraven, men Socialdemokraterna avslog tilläggsyrkandena.",
+      "detail": "Funktonsstödsnämndens rapport visar 210 rapporterade ej verkställda beslut i Q4 2023, varav 142 var fortsatt ej verkställda inom tre månader.\n\nDetta innebär att många personer med funktionsnedsättningar väntar på tvåande boendelösningar utan att kommunen verkställer lagliga beslut. Karolina Wallström (L) yrkade på åtgärdsplan för fler gruppbostäder och dialog med privata aktörer. Martha Wicklund (V) ville ge kommundirektören uppdrag att ta fram förslag för rimlig verkställingstid. Helena Ståhl (SD) krävde tydligare rapportering om vänttider och skarpa krav för att undvika att IVO lämnar in ansökan om särskild avgift.\n\nOrdförande avslogs alla tre tilläggsyrkandena.",
+      "category": "budget",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 109",
+      "quote": "För det fjärde kvartalet 2023 ökade nämndens totala antal rapporterade beslut till 210 stycken. Vid kvartalets slut var 142 beslut fortsatt ej verkställda inom tre månader.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S"
+        ],
+        "against": [
+          "L",
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag på tilläggsyrkanden"
+      },
+      "tags": [
+        "LSS",
+        "funktionshinder",
+        "gruppbostäder",
+        "väntköer"
+      ],
+      "id": "2024-05-07_ko_109",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Energiförsörjningsplan-motion: Motionen tillgodosedd",
+      "summary": "Motion från Miljöpartiet om energiförsörjningsplan tillgodosedd genom ÖSB-mål och kommande energistrategi.",
+      "detail": "Miljöpartisterna Lea Strandberg och Fredrik Persson motionerade för en ny energiförsörjningsplan med krav på: att kommunen blir oberoende genom att tillverka all egen el, enbart förnybar energi och åtgärder för privatpersoners energitillverkning.\n\nKommunledningsförvaltningen bedömde att första, andra och tredje förslaget redan tillgodoses genom mål i ÖSB och Vårt hållbara Örebro samt den kommande energistrategin. Fjärde förslaget ansågs besvarat genom att övervägas i energistrategin.\n\nVänsterpartiet (Martha Wicklund) stödde motionen. Sverigedemokraterna (Helena Ståhl) ville bifalla första och fjärde men avslå andra och tredje. Örebro för Förändring (Markus Allard) yrkade avslag.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 110",
+      "quote": "Bedömningen är att motionens första, andra och tredje förslag är tillgodosedda då dessa tillgodoses av mål i ÖSB och Vårt hållbara Örebro samt av den energistrategi för Örebro som ska tas fram.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Tillgodosedd"
+      },
+      "tags": [
+        "energi",
+        "förnybar energi",
+        "miljöstrategi"
+      ],
+      "id": "2024-05-07_ko_110",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Specialkostmotionen avslogs - religiösa kostkostnader minimala",
+      "summary": "Sverigedemokraternas förslag om att inte bekosta religiös specialkost och utöka välbalanserade alternativ avslogs.",
+      "detail": "Helena Ståhl (SD) motionerade för två åtgärder: 1) utreda utökade välbalanserade kostalternativ för att minimera specialkosten, 2) religiös specialkost ska inte bekostas av skattebetalare.\n\nKommunledningsförvaltningen bedömde att motionen bör avslås. De nyligen antagna riktlinjerna och det befintliga utbudet minimerar redan behovet av specialkost, och kostnaderna för religiös specialkost är ringa.\n\nHelena Ståhl och Markus Allard (ÖrP) yrkade bifall. Martha Wicklund (V) stödde avslaget.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 111",
+      "quote": "De nyligen politiskt antagna riktlinjerna samt det utbud som redan erbjuds i dag minimerar behovet av specialkost och att kostnaderna för specialkost som produceras av enbart religiösa skäl är ringa.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "specialkost",
+        "mat",
+        "religion"
+      ],
+      "id": "2024-05-07_ko_111",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Återvandringsstödsmotionen avslogs - statlig uppgift",
+      "summary": "Motion om kommunalt informationsarbete för återvandringsstöd avslogs då ansvar ligger på Migrationsverket.",
+      "detail": "Carola Sunesson (SD) motionerade för att kommunen upprättar regelbundna informationsinsatser till målgrupper om stöd för frivillig återvandring.\n\nKommunledningsförvaltningen menade att eftersom detta inte ingår i befintlig lagstiftning och en statlig utredning pågår om ansvarsfördelning, bör man invänta utredningen innan kommunen tar på sig uppgift som ligger på Migrationsverkets ansvar.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall. Martha Wicklund (V) stödde avslaget.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 112",
+      "quote": "Eftersom det inte ingår i befintlig lagstiftning och då det pågår en statlig utredning gällande ansvarsfördelning bör man invänta den statliga utredningens slutsatser innan kommunen tar på sig ett uppdrag som ligger på Migrationsverkets ansvar.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "återvandring",
+        "migration",
+        "information"
+      ],
+      "id": "2024-05-07_ko_112",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Behovsanalys Kommunstyrelsen 2026-2036 antagen",
+      "summary": "Lokalbehovsanalysen för Kommunstyrelsens verksamhet antogs för tiårsperioden 2026-2036.",
+      "detail": "Varje nämnd ska anta behovsanalys som underlag för den kommunövergripande lokalförsörjningsplanen som besluts årligen i Kommunstyrelsen.\n\nBehovsanalysen för Kommunstyrelsen har inte samma tydliga koppling till befolkningsutvecklingen som andra nämnder då samma samband inte finns mellan befolkningstillväxt och storlek på Kommunledningsförvaltningen.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet i sin helhet. Beslutet följde Kommunledningsförvaltningens förslag.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 98",
+      "quote": "Behovsanalysen för Kommunstyrelsens verksamhet har inte samma tydlig koppling till befolkningsutvecklingen som för många av de andra nämnderna.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "lokalförsörjning",
+        "fastigheter",
+        "planering"
+      ],
+      "id": "2024-05-07_ko_98",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Förändrade förutsättningar inför ÖSB 2026 antaget",
+      "summary": "Kommunstyrelsens analys av förändrade förutsättningar godtogs som planeringsunderlag inför budgetprocessen 2026-2029.",
+      "detail": "Som del av förberedelserna inför Övergripande strategier med budget ÖSB 2026 med plan för 2027-2029 antog kommunstyrelsen sin analys av nuläget. Analysen innehåller kostnadsjämförelse mot liknande kommuner och slutsatser om förändrade förutsättningar.\n\nUnderlagen kommer att användas senare tillsammans med planeringsförutsättningar som beslutas av Kommunstyrelsen i december 2024. I februari 2025 får nämnder möjlighet att respondera på innehållet.\n\nMarkus Allard (ÖrP) yrkade avslag. Helena Ståhl (SD) deltog inte i beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 97",
+      "quote": "Ärendet beskriver Kommunstyrelsens analys av nuläget i form av kostnadsjämförelse mot liknande kommuner samt slutsatser kring förändrade förutsättningar.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "ekonomi",
+        "planering",
+        "ÖSB"
+      ],
+      "id": "2024-05-07_ko_97",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    },
+    {
+      "headline": "Tre motioner remitterade för beredning",
+      "summary": "Kommunfullmäktige remitterade tre motioner till Kommunstyrelsen: aktivitetspengen, kapell i Wadköping och offentliga toaletter.",
+      "detail": "Bo Ammer (SD) och David Larsson (SD) inlämnade motion om att återinföra aktivitetspengen för funktionshindrade - remitterad till Funktionsstödsnämnden.\n\nSusanne Lindholm Henningsson (KD) motionerade för kapell i Wadköping - ska beredas av Kommunstyrelsen.\n\nKarolina Wallström (L) m.fl. motionerade för fler offentliga toaletter i Örebro - ska beredas av Kommunstyrelsen.",
+      "category": "politik",
+      "contested": false,
+      "location": "Wadköping, Örebro",
+      "paragraph_ref": "§ 113",
+      "quote": "Kommunfullmäktige har vid sitt sammanträde den april 2024 remitterat följande motioner till Kommunstyrelsen",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "motioner",
+        "aktivitetspengen",
+        "funktionshinder",
+        "infrastruktur"
+      ],
+      "id": "2024-05-07_ko_113",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-05-07"
+    }
+  ],
+  "decisions_count": 12,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf",
+  "headline": "Klimatstrategi återremitterad, näringslivsprogram antaget",
+  "motions_of_interest": [
+    {
+      "title": "Återinföra aktivitetspengen för funktionshindrade",
+      "party": "SD",
+      "status": "Remitterad till Funktionsstödsnämnden"
+    },
+    {
+      "title": "Kapell i Wadköping",
+      "party": "KD",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Fler offentliga toaletter i Örebro",
+      "party": "L",
+      "status": "Bereds av Kommunstyrelsen"
+    },
+    {
+      "title": "Energiförsörjningsplan för självförsörjning",
+      "party": "MP",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Optimera specialkosten - inte finansiera religiös kost",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Kommunal information om återvandringsstöd",
+      "party": "SD",
+      "status": "Avslagen"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_104.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_106.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_105.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_102.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_103.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_109.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_110.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_111.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_112.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_98.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_97.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_113.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2024-05-07_Kommunstyrelsen"
+  }
+}

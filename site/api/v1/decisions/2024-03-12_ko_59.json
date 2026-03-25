@@ -1,0 +1,36 @@
+{
+  "id": "2024-03-12_ko_59",
+  "headline": "Motion om hjärtstartare på äldreboenden tillgodosedd",
+  "summary": "Kommunstyrelsen fastställde att motionen från David Larsson (SD) om hjärtstartare på äldreboenden är tillgodosedd efter att Vård- och omsorgsnämnden redan fattat beslut.",
+  "detail": "David Larsson (SD) motionerade om att utrusta alla kommunala vård- och omsorgsboenden med hjärtstartare och att upprätta en tids- och genomförandeplan samt utreda finansieringsalternativ.\n\nMotionen bedömdes vara tillgodosedd då Vård- och omsorgsnämnden redan den 31 augusti 2023 beslutade att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare.\n\nHelena Ståhl (SD) yrkat att få lämna särskilt yttrande.",
+  "category": "trygghet",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 59",
+  "tags": [
+    "äldreomsorg",
+    "hjärtstartare",
+    "säkerhet",
+    "motion"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Tillgodosedd"
+  },
+  "quote": "Vård- och omsorgsnämnden den 31 augusti 2023 beslutade att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2024-03-12_Kommunstyrelsen",
+    "date": "2024-03-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-12_ko_59.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-12_ko_59/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2023-03-14_ko_49",
+  "headline": "Reservationsavtal med ÖBO för vård- och omsorgsboende i Brickebacken godkänt",
+  "summary": "Kommunstyrelsen godkände reservationsavtal för markförsäljning till ÖBO Omsorgsfastigheter AB för nybyggnation av vård- och omsorgsboende trots oppositionskritik om konkurrens.",
+  "detail": "Miljö- och stadsbyggnadsförvaltningen föreslog att Örebro kommun ingår reservationsavtal med ÖBO Omsorgsfastigheter AB för markförsäljning i Brickebacken. Marken skulle reserveras fram till 30 november 2023. Markförsäljningen genomfördes enligt kommunens markanvisningsprocess.\n\nSusanne Lindholm (KD) yrkade avslag och föreslög i stället sedvanligt anbudsförfarande eller marknadsanvisningstävling för att säkra konkurrens och kreativitet. Helena Ståhl (SD) stödde detta yrkande.\n\nKristdemokraterna kritiserade direktanvisningen och hänvisade till kommunens egna riktlinjer om att eftersträva mångfald bland bostadsproducenter för goda konkurrensförhållanden. De menade att konkurrens genererar billigare hyror.\n\nOrdföranden ställde förslagen mot varandra och Markplanerings- och exploateringsnämndens förslag antogs. Reservationer lämnades av KD och SD.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Brickebacken, Örebro",
+  "paragraph_ref": "§ 49",
+  "tags": [
+    "ÖBO",
+    "vård- och omsorgsboende",
+    "Brickebacken",
+    "markförsäljning",
+    "konkurrens"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun eftersträvar vid valet av byggherre en mångfald bland bostadsproducenter i Örebro för att det ska finnas goda konkurrensförhållanden på marknaden.",
+  "quote_page": "s. 12, yttrande Susanne Lindholm (KD)",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_49.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_49/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2025-01-29_ko_19",
+  "headline": "Motion om löneökning för låglönade yrkesgrupper avslås",
+  "summary": "Vänsterpartiet föreslår att kommunen begär regeringsmedel för att höja låga löner, men motionen avslås.",
+  "detail": "Martha Wicklund (V) och övriga vänsterpartister motionerade om att kommunen ska begära pengar från regeringen för att göra en permanent höjning av lönerna för yrkesgrupper under nivån som utgör \"god försörjning\" enligt regeringens definition. De ville att beviljade extramedel ska användas för att höja lönerna för de lägst betalda grupperna.\n\nKommunledningen avslår motionen med motiveringen att en sådan löneökning skulle få stora konsekvenser på kommuns befintliga lönestruktur, innebära stora kostnader på sikt, och att det inte finns en struktur för att ansöka om extra medel för detta ändamål. Motionen var bordlagd sedan oktober 2024. V reserverar sig.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 19",
+  "tags": [
+    "löner",
+    "välfärd",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "En höjning av kommunens lägstalöner med flera tusen kronor skulle få stora konsekvenser på kommunens befintliga lönestruktur och innebära stora kostnader på sikt.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_19.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_19/"
+  }
+}

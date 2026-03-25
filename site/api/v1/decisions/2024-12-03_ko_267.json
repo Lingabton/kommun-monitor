@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_267",
+  "headline": "Driftsstöd till Örebro Läns Flygplats 17,9 miljoner för 2025",
+  "summary": "Kommunstyrelsen beviljade 17,9 miljoner kronor i driftsbidrag till Örebro Läns Flygplats för att täcka rörelseförluster under 2025.",
+  "detail": "Örebro Läns Flygplats AB är ett bolag där Örebro Rådhus AB och Region Örebro Län äger var sitt 44,95 procent. Flygplatsen hade 80 592 passagerare 2023. Totalt driftsbidrag från alla ägare blir 38 miljoner kronor, där Örebro kommun och Region Örebro Län var står för 17,9 miljoner kronor vardera.\n\nStödet ges enligt EU:s allmänna gruppundantagsförordning (GBER) som tillåter stöd till flygplatser under 200 000 passagerare per år för täckning av rörelseförluster.\n\nMartha Wicklund (V) yrkade avslag men förlorade.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 267",
+  "tags": [
+    "flygplats",
+    "bidrag",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "ÖLF erhåller driftbidrag på sammanlagt 38 018 200 kr för 2025, varav Örebro kommuns och Region Örebro läns andel är 17 897 200 kr vardera.",
+  "quote_page": "s. 34",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_267.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_267/"
+  }
+}

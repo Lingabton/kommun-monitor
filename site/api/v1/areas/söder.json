@@ -1,0 +1,82 @@
+{
+  "id": "söder",
+  "name": "Söder",
+  "decisions": [
+    {
+      "id": "2024-09-25_ko_236",
+      "headline": "Köp av mark i Ekeby-Almby för 31,5 miljoner kronor",
+      "summary": "Kommunfullmäktige godkänner förvärv av tre fastigheter (Almby 13:454, 13:384 och 13:372) totalt cirka 41 hektar för framtida bostadsexploatering, naturvård och allmänna platser.",
+      "date": "2024-09-25",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2024-09-17_ko_152",
+      "headline": "Kommunen förvärvar 41 hektar mark i Ekeby-Almby för 31,5 miljoner",
+      "summary": "Kommunstyrelsen godkänner köp av fastigheterna Almby 13:454, 13:384 och 13:372 för framtida exploatering av bostäder och bevarande av naturvärden.",
+      "date": "2024-09-17",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2023-09-27_ko_314",
+      "headline": "Örebrobostäder får förlängning av reservationsavtal för 130 bostäder",
+      "summary": "Kommunfullmäktige godkände förlängning av reservationsavtal för fastigheten Citronmelissen 1 i Tamarinden. Örebrobostäder kan bygga cirka 130 hyresrätter på marken värd cirka 28 miljoner kronor.",
+      "date": "2023-09-27",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2023-09-19_ko_188",
+      "headline": "Citronmelissen 1: 130 lägenheter för 28 miljoner",
+      "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 130 hyresrätter på Citronmelissen 1 i Tamarinden, Sörbyängen.",
+      "date": "2023-09-19",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2023-09-19_ko_189",
+      "headline": "Pepparmyntan 1: 60 hyresrätter för cirka 13 miljoner",
+      "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 60 hyresrätter på Pepparmyntan 1 i Tamarinden.",
+      "date": "2023-09-19",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2023-09-19_ko_190",
+      "headline": "Renfanan 1: 80 hyresrätter för cirka 8,8 miljoner",
+      "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 80 hyresrätter på Renfanan 1 i Tamarinden.",
+      "date": "2023-09-19",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2023-09-19_ko_191",
+      "headline": "Lakritsroten 1: 100 hyresrätter för cirka 13 miljoner",
+      "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 100 hyresrätter på Lakritsroten 1 i Tamarinden.",
+      "date": "2023-09-19",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2023-02-07_ko_31",
+      "headline": "Motion om naturreservat Sörbyskogen avslogs",
+      "summary": "Kommunstyrelsen avslogs Miljöpartiet de grönas motion om att inrätta naturreservatet Sörbyskogen. V och SD ville bifalla motionen.",
+      "date": "2023-02-07",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "miljo",
+      "contested": true
+    }
+  ],
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/söder.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/söder/"
+  }
+}

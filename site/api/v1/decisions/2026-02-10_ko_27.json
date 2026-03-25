@@ -1,0 +1,46 @@
+{
+  "id": "2026-02-10_ko_27",
+  "headline": "Gustavsvik drift övergår till privat drift via upphandling",
+  "summary": "Kommunstyrelsen godkänner privatiseringen av Gustavsviksanläggningen. Gustavsvik Resorts AB renodlas till fastighetsbolag medan extern aktör tar över driften av bad och camping.",
+  "detail": "Gustavsvik Resorts AB, helägt av Örebroporten Fastigheter AB, bedriver idag både ägande och drift av bad- och campinganläggningen. Efter utredning har kommunen genomfört upphandling enligt lagen om tjänstekoncessioner (LUK). En extern aktör med branscherfarenhet vinner upphandlingen och kommer att driva verksamheten.\n\nGUSTAVSVIK RENODLAS: GRAB blir rensat fastighetsägande bolag. Möjlighet finns för Örebroporten att senare fusionera GRAB med moderbolaget eller låta det likvideras.\n\nKOMOUTRAD FRÅGA: Martha Wicklund (V) och Markus Allard (ÖrP) motsätter sig privat drift och förespråkar att kommunen fortsätter driva verksamheten själv. Karolina Wallström (L) lämnar särskilt yttrande.\n\nRÖSTNING: Majoritet för privat drift (S, M, C, KD). Ärendet går till Kommunfullmäktige för slutgiltigt beslut.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Gustavsvik",
+  "paragraph_ref": "§ 27",
+  "tags": [
+    "Gustavsvik",
+    "privatisering",
+    "drift",
+    "bad",
+    "camping"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "GRAB renodlas till ett fastighetsägande bolag och en extern aktör med erfarenhet och kompetens inom branschen driver verksamheten inom Gustavsviksanläggningen.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2026-02-10_Kommunstyrelsen",
+    "date": "2026-02-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-10_ko_27.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_27/"
+  }
+}

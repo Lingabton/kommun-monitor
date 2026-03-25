@@ -3,26 +3,53 @@
   "name": "Eyrafältet",
   "decisions": [
     {
-      "id": "2024-04-09_ko_76",
-      "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
-      "summary": "Kommunstyrelsen godkände att Örebroporten Fastigheter AB förvärvar fyra fastigheter från Region Örebro Län för cirka 140 miljoner kronor, och Örebroporten Holding AB förvärvar en fastighet från Länsgården för cirka 14 miljoner kronor. Fastigheterna vid Eklundavägen kommer att användas för utveckling av elitidrottsområdet på Eyrafältet.",
-      "date": "2024-04-09",
+      "id": "2025-09-16_ko_179",
+      "headline": "Aktieöverlåtelse av fastighet Örebro Staven 5 för 63 mnkr",
+      "summary": "Kommunstyrelsen godkänner försäljning av fastigheten Örebro Staven 5 genom aktieöverlåtelse till Norrpalatset-koncernen. Försäljningen genererar en realisationsvinst på cirka 28,5 mnkr för kommunens bolag Kikapu i Örebro AB.",
+      "date": "2025-09-16",
       "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2024-10-23_ko_273",
+      "headline": "Tilläggsbudget 2025-2028 med nya taxor och parkeringsavgifter",
+      "summary": "Kommunfullmäktige fastställer tilläggsbudget för 2025-2028 och beslutar om omfattande taxeförändringar gällande parkering, avfall, vatten/avlopp och avgifter för fristående förskolor.",
+      "date": "2024-10-23",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2024-04-24_ko_89",
+      "headline": "Örebroporten förvärvar sex fastigheter vid Eklundavägen",
+      "summary": "Kommunfullmäktige godkänner att Örebroporten förvärvar fastigheterna från Region Örebro Län för cirka 140 miljoner kronor och från Länsgården för cirka 14 miljoner kronor. Fastigheterna möjliggör utveckling av elitidrottsområdet på Eyrafältet.",
+      "date": "2024-04-24",
+      "meeting_type": "Kommunfullmäktige",
       "category": "infrastruktur",
       "contested": true
     },
     {
       "id": "2024-04-09_ko_76",
-      "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
-      "summary": "Örebroporten Fastigheter AB och Örebroporten Holding AB godkändes att förvärva sex fastigheter vid Eklundavägen för utveckling av elitidrottsområdet på Eyrafältet, med ett totalt investeringsbehov på över 154 miljoner kronor.",
+      "headline": "Förvärv av Eklundaområdet från Region Örebro: 154 miljoner kronor",
+      "summary": "Kommunstyrelsen godkänner förvärv av sex fastigheter vid Eklundavägen från Region Örebro Län och Länsgården. Köpeskillingen är cirka 154 miljoner kronor. Förvärvet möjliggör utveckling av Eyrafältet.",
       "date": "2024-04-09",
       "meeting_type": "Kommunstyrelsen",
-      "category": "infrastruktur",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2023-05-23_ko_103",
+      "headline": "Namnrättigheter för Eyrafältets arenor förhandlade med Behrn",
+      "summary": "Tilläggsavtal godkändes för Behrn Fastigheter ABs namnrättigheter till Eyrafältets arenor. Avtalet förlängs till 2028 med årlig ersättning på 3 miljoner kronor.",
+      "date": "2023-05-23",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "ovrigt",
       "contested": true
     }
   ],
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/eyrafältet.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/eyrafältet/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/eyrafältet.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/eyrafältet/"
   }
 }

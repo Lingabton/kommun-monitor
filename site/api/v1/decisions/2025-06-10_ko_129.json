@@ -1,0 +1,43 @@
+{
+  "id": "2025-06-10_ko_129",
+  "headline": "Tilläggsanslag 39,2 mnkr för hyror och investeringsobjekt beviljat",
+  "summary": "Kommunstyrelsen beviljade tilläggsanslag på totalt 39,2 mnkr för indexuppräkning av hyror och färdigställda investerings- och lokalförsörjningsobjekt.",
+  "detail": "Kommunledningsförvaltningen föreslög tilläggsanslag och ombudgeteringar för kostnadsökningar och oförutsedda kostnader för 2025. Tilläggsanslag på 39 246 tkr beviljades för bland annat kompensation för årlig indexuppräkning av hyror samt färdigställda investerings- och lokalförsörjningsobjekt.\n\nOmbudgetering mellan nämnder genomfördes enligt förslaget för att hantera organisationsförändringar. Helena Ståhl (SD) yrkade avslag och ville lämna anteckning om bristande information. Markus Allard (ÖrP) yrkade också avslag.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 129",
+  "tags": [
+    "budget",
+    "hyror",
+    "investeringar",
+    "kostnadsökningar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas med totalt 39 246 tkr enligt Kommunledningsförvaltningens förslag.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_129.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_129/"
+  }
+}

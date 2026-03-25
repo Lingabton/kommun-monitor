@@ -1,0 +1,41 @@
+{
+  "id": "2023-10-24_ko_354",
+  "headline": "Delårsrapport prognos 2 för 2023 godkänd",
+  "summary": "Kommunfullmäktige godkänner delårsrapporten som visar att kommunen inte uppfyller alla finansiella mål men bedöms ha god ekonomisk hushållning. Helårsprognosen visar ett resultat på 362 mnkr, 78 mnkr högre än budgeterat.",
+  "detail": "Delårsrapporten för första åtta månader av 2023 visar ett utfall på 509 mnkr. Helårsprognosen är 362 mnkr, vilket är 78 mnkr högre än budgeterat. Av avvikelsen utgörs -19 mnkr från verksamhetens resultat och 97 mnkr från finansverksamheten.\n\nPrognosen visar att fem av sex verksamhetsmål uppfylls. Målet om att alla elever ska nå kunskapsmålen i skolan beräknas inte uppfyllas. För finansiella mål uppfylls två av fyra. Kommungemensamma nämnder prognostiserar en samlad negativ budgetavvikelse på 206 mnkr.\n\nKommunfullmäktige beslutar att samtliga nämnder som prognostiserar negativ budgetavvikelse ska vidta åtgärder för långsiktigt hållbar ekonomi. Vänsterpartiet reserverade sig och yrkade för att Kommundirektören skulle få uppdrag att se över orsakerna till underskottet.\n\nMarkus Allard (ÖrP) och Peter Springare (ÖrP) reserverade sig mot beslutet helt.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 354",
+  "tags": [
+    "ekonomi",
+    "budget",
+    "helårsprognos"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den sammantagna bedömningen baserad på prognoserna för Kommunfullmäktiges verksamhetsmål och finansiella mål är att Örebro kommun inte uppfyller målen av betydelse för god ekonomisk hushållning. Mot bakgrund av kommunens stabila ekonomi samt att nämnderna och bolagen fortsatt bedriver sina grunduppdrag med god kvalitet är bedömningen dock att kommunen som helhet har en god ekonomisk hushållning.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2023-10-24_Kommunfullmäktige",
+    "date": "2023-10-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-24_ko_354.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-24_ko_354/"
+  }
+}

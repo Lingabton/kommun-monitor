@@ -1,0 +1,45 @@
+{
+  "id": "2024-02-14_ko_51",
+  "headline": "Motion om Fritte fritidsgård tillgodosedd med 600 000 kronor",
+  "summary": "Kommunfullmäktige ansåg MP:s motion om fritidsgården Fritte tillgodosedd. Kultur- och fritidsnämnden får 600 000 kronor för stärkt verksamhet.",
+  "detail": "Miljöpartiet lämnade motion med fyra yrkanden om fritidsgården Fritte för teckenspråkiga ungdomar. Motionen krävde ekonomisk förstärkning för befintliga öppettider, prioritering i utredning, att kommun ska säkerställa öppettider över tid, och att döva och hörselskadade ungdomar garanteras fritidsgård utifrån sina behov.\n\nKommunledningen delade bedömningen att Fritte behöver stärkt finansiering. Kultur- och fritidsnämnden får öka verksamhetsbidraget med 600 000 kronor. Detta möjliggör två heltidsanställda och minst tre personal per kväll, samt viss sommarverksamhet.\n\nKommunfullmäktige ansåg motionen tillgodosedd. V, ÖrP och SD reserverade sig för bifall.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 51",
+  "tags": [
+    "Fritte",
+    "fritidsgård",
+    "ungdomar",
+    "teckenspråk"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den teckenspråkiga fritidsgården Fritte drivs av föreningen Kulturhuset Scenit via avtal med Kultur- och fritidsnämnden.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_51.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_51/"
+  }
+}

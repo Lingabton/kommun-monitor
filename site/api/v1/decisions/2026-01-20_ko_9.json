@@ -1,0 +1,43 @@
+{
+  "id": "2026-01-20_ko_9",
+  "headline": "Partnerskap Örebro fortsätter - Allard vill lägga ned",
+  "summary": "Kommunstyrelsen accepterar återrapportering från Partnerskap Örebro. Markus Allard (ÖrP) yrkade att lägga ned partnerskapet utan framgång.",
+  "detail": "Kommunstyrelsen tar informationen från återrapporteringen av Partnerskap Örebro till protokollet.\n\nPartnerskap Örebro är ett samverkansinitiativ som verkar i fem områden: Vivalla, Baronbackarna, Varberga, Oxhagen och Brickebacken. Programmet leds av Gymnasie- och arbetsmarknadsförvaltningen sedan januari 2024.\n\n2024 användes till att bygga upp verksamheten, rekrytera medarbetare och förankra arbetssätt. Ett avtal tecknade med Örebro universitet för löpande utvärdering.\n\n2025 fokuserade på stöd till elever på Campus Risbergska och framtagning av områdes- och behovsbeskrivningar.\n\nMarkus Allard (ÖrP) yrkade att lägga ned partnerskapet helt, men dette avslogos.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Vivalla, Baronbackarna, Varberga, Oxhagen, Brickebacken",
+  "paragraph_ref": "§ 9",
+  "tags": [
+    "Partnerskap Örebro",
+    "bostadsområden",
+    "samverkan",
+    "ungdomar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Partnerskap Örebros övergripande uppdrag är att genom samverkan förbättra livskvalitén för invånarna i kommunens fem partnerskapsområden.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_9.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_9/"
+  }
+}

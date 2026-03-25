@@ -1,0 +1,48 @@
+{
+  "id": "2025-09-24_ko_271",
+  "headline": "Närkeslätt-motion avslås efter omröstning",
+  "summary": "Kommunfullmäktige avslår Sverigedemokraternas motion om nivåfri asfalt i trafiksepareringsåtgärder. 43 röster för avslag, 16 emot.",
+  "detail": "Daniel Spiik (SD) föreslog att Örebro kommun vid anläggning av hastighetsdämpande och trafikseparerade åtgärder endast ska anlägga nivåfri asfalt med målade linjer och spärrfält, utom i särskilda undantagsfall. Vidare föreslogs att kommunen successivt ska ersätta kantsten, stolpar och vegetation med nivåfri asfalt. Teknik- och servicenämnden bedömde att motionen bör avslås. Kommunledningen framhåller att kantsten är viktigt för att skapa en trygg trafikmiljö när olika trafikslag ska separeras med nivåskillnad. Målningar är inte heller synliga året om. Motionen röstades ned med 43 ja-röster för avslag mot 16 nej-röster för bifall, med 5 som abstinerade.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro stad",
+  "paragraph_ref": "§ 271",
+  "tags": [
+    "infrastruktur",
+    "trafikplanering",
+    "vägar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "KD"
+    ],
+    "abstained": [
+      "L"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "Det är viktigt med kantsten för att skapa en trygg trafikmiljö där kommunen vill separera olika trafikslag med nivåskillnad. En målning är inte heller synlig året om.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_271.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_271/"
+  }
+}

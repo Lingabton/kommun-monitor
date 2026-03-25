@@ -1,0 +1,44 @@
+{
+  "id": "2025-03-26_ko_78",
+  "headline": "Motion om ställplatser för husbilar avslogs",
+  "summary": "Motion från KD om att utreda och inrymma ställplatser för husbilar nära Örebro centrum avslogs. Flera partier ville bibehålla detta för framtida utredning.",
+  "detail": "Susanne Lindholm Henningsson (KD) motionerade för att Örebro kommun ska utreda lämpliga platser för husbilar i nära anslutning till Örebro city och därefter iordningställa dessa. Miljö- och stadsbyggnadsförvaltningen rekommenderade avslag med motiveringen att detta inte är en prioriterad fråga.\n\nKommunstyrelsen föreslog avslag. Motionen fick stöd från KD, V, SD, L och ÖrP, men S:s Kemal Hoso yrkade på avslag enligt styrelsen. Efter proposition beslutade fullmäktige att avslå motionen.\n\nAvslaget väckte motsättningar. Sex partier reserverade sig: KD, V (5 ledamöter), SD (7 ledamöter), L (4 ledamöter) och ÖrP (5 ledamöter) mot beslutet, vilket visar breda politiska intressen för husbilarnas situation.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro centrum",
+  "paragraph_ref": "§ 78",
+  "tags": [
+    "husbilar",
+    "ställplatser",
+    "infrastruktur",
+    "Örebro centrum"
+  ],
+  "voting": {
+    "for": [
+      "S"
+    ],
+    "against": [
+      "KD",
+      "V",
+      "SD",
+      "L",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen behandlar möjligheten för Örebro kommun att utöka antalet ställplatser för husbilar och innehåller följande förslag: 1. Lämpliga platser för husbilar i nära anslutning till Örebro city ska utredas.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2025-03-26_Kommunfullmäktige",
+    "date": "2025-03-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-26_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-26_ko_78.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-26_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-26_ko_78/"
+  }
+}

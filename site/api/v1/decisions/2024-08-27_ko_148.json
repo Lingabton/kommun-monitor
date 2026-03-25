@@ -1,0 +1,44 @@
+{
+  "id": "2024-08-27_ko_148",
+  "headline": "Tilläggsanslag på 186,6 miljoner för kostnadsökningar",
+  "summary": "Kommunstyrelsen beviljar tilläggsanslag med totalt 186 659 tkr för löneöversyn och andra kostnadsökningar. SD och ÖrP reserverar sig.",
+  "detail": "Ärendet avser tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda kostnader för budgetåret 2024. Tilläggsanslaget finansieras ur Kommunstyrelsens utrymme för generella kostnadsökningar och oförutsedda behov.\n\nHelena Ståhl (SD) yrkar avslag på tilläggsanslaget till Länsmusiken på 1 250 tkr och avslag på ombudgeteringen till Kultur- och Fritidsnämnden på 175 tkr för Nerike Pride. Markus Allard (ÖrP) yrkar avslag på ärendet i sin helhet.\n\nKommunstyrelsen beslutar enligt förvaltningens förslag. Martha Wicklund (V) deltar inte i beslutet.\n\nReservationer: Helena Ståhl (SD) och Markus Allard (ÖrP) reserverar sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 148",
+  "tags": [
+    "budget",
+    "löneöversyn",
+    "Länsmusiken",
+    "Nerike Pride"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas med totalt 186 659 tkr enligt Kommunledningsförvaltningens förslag.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2024-08-27_Kommunstyrelsen",
+    "date": "2024-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-27_ko_148.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-27_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-27_ko_148/"
+  }
+}

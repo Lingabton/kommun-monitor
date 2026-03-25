@@ -1,0 +1,48 @@
+{
+  "id": "2025-10-22_ko_314-331",
+  "headline": "Motioner om integration, hedersförtryck och trygghet bordlagda",
+  "summary": "Flera motioner från SD om integration, hedersförtryck, kulturarv och kravställande föräldrautbildning bordlades utan slutgöring denna gång.",
+  "detail": "Flera motioner bordlades återigen efter att ha bordlagts flera gånger tidigare:\n\n§314: Motion från Carola Sunesson (SD) om redovisning och modell för integrationssatsningar – Förslag om avslag. Bordlad.\n\n§315: Motion från Carola Sunesson och Habib Brini (SD) om beredskapsplan för kulturarvet – Bedömningen att motionen anses besvarad. Bordlad.\n\n§316: Motion från Carola Sunesson m.fl. (SD) om kravställande föräldrautbildning – Förslag om avslag på alla tre punkter då förslagen inte är förenliga med lagstiftningen. Bordlad.\n\n§317: Motion från Helena Ståhl m.fl. (SD) om kunskapsutveckling om kulturarv i grund- och gymnasieskolor – Förslag om avslag då det motsäger lärarnas professionella frihet. Bordlad.\n\n§318: Motion från Helena Ståhl m.fl. (SD) om kravställande strategi mot hedersförtryck – Motionen anses besvarad då arbete redan pågår. Bordlad.\n\n§329: Motion från Helena Ståhl m.fl. (SD) om att egenskapade raster för bön ska upphöra – Förslag om avslag. Bordlad.\n\n§330-331: Två motioner från Martha Wicklund (V) m.fl. om förtroendevaldas trygghet – Förslag om avslag då det är nationell fråga och partiernas ansvar. Bordlagda.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 314-331",
+  "tags": [
+    "motioner",
+    "integration",
+    "hedersförtryck",
+    "trygghet",
+    "demokrati",
+    "lagstiftning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "L",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bordläggnig"
+  },
+  "quote": "Motionen bordlades på Kommunfullmäktiges sammanträde den 23 april, den 21 maj, 18-19 juni, den 27 augusti och den 24 september 2025.",
+  "quote_page": "s. 25-42",
+  "meeting": {
+    "id": "2025-10-22_Kommunfullmäktige",
+    "date": "2025-10-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_314-331.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-22_ko_314-331/"
+  }
+}

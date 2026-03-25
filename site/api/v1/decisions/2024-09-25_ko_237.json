@@ -1,0 +1,47 @@
+{
+  "id": "2024-09-25_ko_237",
+  "headline": "Rapport om ej verkställda SoL- och LSS-beslut läggs till handlingarna",
+  "summary": "Statistikrapporter från tre nämnder över beslut som inte verkställts inom tre månader läggs till handlingarna.",
+  "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden rapporterar kvartalsvis om ej verkställda biståndsärenden enligt Socialtjänstlagen och LSS.\n\nQ1 2024: Socialnämnden rapporterade 25 ärenden, varav 22 fortsatt ej verkställda. Vård- och omsorgsnämnden rapporterade 18 ärenden (minskning om 2), varav 5 fortsatt ej verkställda. Funktionsstödsnämnden rapporterade 18 ärenden (minskning om 2), varav 5 fortsatt ej verkställda.\n\nRapporterna läggs till handlingarna. SD yrkar på utökad rapportering med anledningar till varför verkställning försenades. Helena Ståhl (SD) m.fl. reserverade sig för detta tilläggsyrkande som avslogs av majoriteten.\n\nV och ÖrP reserverade sig för att Kommunstyrelsen skulle få i uppdrag att ta fram förslag på hur kommunen verkställer gynnande beslut inom rimlig tid.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 237",
+  "tags": [
+    "omsorg",
+    "äldre",
+    "funktionsstöd",
+    "verkställning",
+    "väntetider"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden är som beslutande nämnder skyldig att till Inspektionen för vård och omsorg (IVO) och Stadsrevisionen kvartalsvis rapportera de beslut om bistånd [...] som inte verkställts inom tre månader.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_237.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_237/"
+  }
+}

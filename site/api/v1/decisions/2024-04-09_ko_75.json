@@ -1,0 +1,41 @@
+{
+  "id": "2024-04-09_ko_75",
+  "headline": "Örebro läns trädgårdsaktiebolag: årsredovisning godkänd, avveckling föreslagen",
+  "summary": "Trädgårdsaktiebolaget gjorde 90 000 kronor resultat 2023. Årsredovisningen godkänns. Bolagsordning uppdateras. Örebropartiet yrkar på bolgets avveckling.",
+  "detail": "Örebro läns trädgårdsaktiebolag AB äger och underhåller konstverk i Stadsparken, Skytteparken och Stora Holmen.\n\nBolagets resultat för 2023: 90 003 kronor före skatt (63 013 kronor 2022). Anläggningstillgångar i form av konstverk och installationer värderade till 2,39 miljoner kronor. Bolaget har inga anställda.\n\nUnder året gjordes inledande investeringar i nytt konstverk inför invigning 2024. Ett befintligt verk genomgick reparation.\n\nBolagsordningen föreslås uppdateras för att bättre stämma överens med övriga kommunägda bolag. Örebropartiet yrkade på ändrad arvodespolicy och på att verka för bolgets avveckling. Majoritetens förslag antogs.",
+  "category": "budget",
+  "contested": true,
+  "location": "Stadsparken, Skytteparken, Stora Holmen",
+  "paragraph_ref": "§ 75",
+  "tags": [
+    "trädgårdsaktiebolag",
+    "konstverk",
+    "avveckling"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Bolagets resultat för 2023 uppgår till 90 003 kr före skatt och bolaget har under året gjort en inledande investering i ett nytt konstverk.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2024-04-09_Kommunstyrelsen",
+    "date": "2024-04-09",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_75.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_75/"
+  }
+}

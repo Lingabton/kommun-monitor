@@ -1,0 +1,43 @@
+{
+  "id": "2025-06-10_ko_145",
+  "headline": "Motion om förbjudna böcker på bibliotek avslås",
+  "summary": "Kommunstyrelsen avslog motion från Lea Strandberg (MP) om att Örebro stadsbibliotek synliggör möjligheten att låna förbjudna böcker via fjärrlån.",
+  "detail": "Miljöpartiet (MP) hade lämnat motion föreslående att Örebro stadsbibliotek informerar om möjligheten att fjärrlåna böcker som är förbjudna i andra länder. Kommunledningen konstaterade att yttrandefrihet och fri litteraturtillgång är fundamentalt för demokrati, men att bibliotek själva bör avgöra informationsstrategier utan politiska påbud.\n\nKultur- och fritidsnämnden föreslög avslag på motionen. Cristian Rehn Janowicz (V) yrkade bifall till motionen, men detta avslogs.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 145",
+  "tags": [
+    "bibliotek",
+    "yttrandefrihet",
+    "litteratur",
+    "censur",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Kommunledningen delar uppfattningen om att yttrandefrihet och fri tillgång till litteratur är grundläggande för en levande demokrati.",
+  "quote_page": "s. 27",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_145.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_145/"
+  }
+}

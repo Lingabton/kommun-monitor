@@ -1,0 +1,46 @@
+{
+  "id": "2023-05-23_ko_107",
+  "headline": "Riktlinjer för exploatering antagna med omstridd zonprissättning",
+  "summary": "Kommunstyrelsen antog riktlinjer för exploatering med nya zonpriser för markanvisning. SD yrkade på takbelopp för tomträttshöjningar utan framgång.",
+  "detail": "Styrdokumentet \"Riktlinjer för exploatering inkluderat riktlinjer för markanvisning och riktlinjer för exploateringsavtal\" är en sammanfogning av tidigare styrdokument inom exploateringsverksamheten. Markplanerings- och exploateringsnämnden fick i uppdrag att besluta om förändringar av zonpriserna.\n\nDe uppdaterade zonpriserna gäller för försäljningar och nya markanvisningar från beslutet. För redan påbörjade markanvisningar gäller nuvarande prissättning med indexering för försäljningar där köpekontrakt tecknas före 31 december 2024.\n\nHelena Ståhl (SD) yrkade på tillägg om takbelopp för avgifter och höjningar av tomträttsavgäld för att ge större förutsägbarhet. Hon menade att husägare som inte äger sin tomt kan drabbas av kraftigt höjda boendekostnader. SD önskade också ökad användning av anbudsförfarande för att gynna näringslivet och öka konkurrensen. Markus Allard (ÖrP) bifoll yrkandet men Kommunstyrelsen avslogs det.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 107",
+  "tags": [
+    "exploatering",
+    "zonpriser",
+    "tomträtter",
+    "markanvisning",
+    "näringsliv"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Riktlinjer för exploatering antas.",
+  "quote_page": "s. 15-17",
+  "meeting": {
+    "id": "2023-05-23_Kommunstyrelsen",
+    "date": "2023-05-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-23_ko_107.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-23_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-23_ko_107/"
+  }
+}

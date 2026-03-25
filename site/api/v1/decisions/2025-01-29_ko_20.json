@@ -1,0 +1,45 @@
+{
+  "id": "2025-01-29_ko_20",
+  "headline": "Gratis mensskydd på högstadiet avslås, gymnasiet redan löst",
+  "summary": "Motion om gratis mensskydd på högstadiet avslås, men gymnasieskolor har redan löst detta med behållare.",
+  "detail": "Helena Ståhl (SD) motionerade om behållare för kostnadsfria mensskydd i både högstadiet och gymnasiet. Kommunledningen rapporterar att gymnasieskolor redan tillhandahåller gratis mensskydd via behållare (kostnad ca 140 tkr/år), vilket är tillgodosett.\n\nFör högstadieskolorna avslås motionen med motiveringen att det är mer kostnadseffektivt att distribuera mensskydd genom elevhälsan än att köpa behållare. Varje skola arbetar för att mensskydd ska finnas tillgängliga hela skoldagen.\n\nBeslut: Gymnasiedelen tillgodosedd, högstadiedelen avslås. Många partier reserverar sig för att vilja tillgodose även högstadiedelen: SD, ÖrP, V, KD och C.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 20",
+  "tags": [
+    "menstruation",
+    "skola",
+    "jämlikhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP",
+      "V",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Bedömningen är att det är mer kostnadseffektivt att högstadieskolorna fortsätter att distribuera mensskydden i egen regi i stället för att köpa in behållare.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_20.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_20/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2024-08-28_ko_198",
+  "headline": "Specialkost - motion avslagen",
+  "summary": "Motion om optimering av specialkost och religion avslaget; regler redan antas minimera behov.",
+  "detail": "Helena Ståhl (SD) motionerade för utredning av välbalanserade kostalternativ för att minska specialkostbehovet, samt att religiöst betingad specialkost inte ska bekostas av skattebetalarna.\n\nKommunledningen avslog motionen med motiveringen att nyligen antagna riktlinjer och befintligt utbud redan minimerar behovet av specialkost. Kostnaden för religiöst betingad specialkost är ringa.\n\nKommunfullmäktige beslutade att avslå motionen. SD och OrP reserverade sig för att bifalla motionen.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 198",
+  "tags": [
+    "mat",
+    "specialkost",
+    "religion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "L",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "De nyligen politiskt antagna riktlinjerna samt det utbud som redan erbjuds i dag minimerar behovet av specialkost",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_198.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_198/"
+  }
+}

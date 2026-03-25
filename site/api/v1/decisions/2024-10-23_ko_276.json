@@ -1,0 +1,35 @@
+{
+  "id": "2024-10-23_ko_276",
+  "headline": "Partistöd för 2025 utbetalas till nio partier",
+  "summary": "Kommunfullmäktige beslutar att utbetala kommunalt partistöd för 2025 till samtliga nio representerade partier. Redovisning från 2023 läggs till handlingarna.",
+  "detail": "Enligt kommunallagen måste partierna årligen redovisa att partistödet använts för att stärka partiets ställning i kommunal demokrati. Samtliga nio partier representerade i Kommunfullmäktige under 2023 inkom med redovisning inom sex månader efter periodens utgång. Partistödet består av grundstöd (40 000 kronor per parti och år) samt mandatstöd (2 x prisbasbeloppet per mandat och år). Redovisning av partistöd för 2025 ska ske enligt riktlinjer antagna 25 maj 2022.",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 276",
+  "tags": [
+    "partistöd",
+    "politik",
+    "kommunfullmäktige"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Samtliga nio partier som var representerade i Kommunfullmäktige under år 2023 har inkommit med redovisning inom sex månader efter periodens utgång.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2024-10-23_Kommunfullmäktige",
+    "date": "2024-10-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-23_ko_276.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-23_ko_276/"
+  }
+}

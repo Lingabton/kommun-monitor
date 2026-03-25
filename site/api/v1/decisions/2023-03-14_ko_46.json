@@ -1,0 +1,39 @@
+{
+  "id": "2023-03-14_ko_46",
+  "headline": "Kommunövergripande lokalförsörjningsplan 2024-2034 antagen",
+  "summary": "Kommunstyrelsen antog lokalförsörjningsplanen med 29 prioriterade lokalprojekt, varav 18 är pågående. Flera oppositionspartier reserverade sig mot beslutet.",
+  "detail": "Lokalförsörjningsplanen är en handlingsplan för framtida lokalbehov och investeringsprocess. Planen synliggör 29 prioriterade lokalprojekt.\n\nMarkus Allard (ÖrP) yrkade avslag på hela förslaget. Susanne Lindholm (KD) yrkade återremiss för att undersöka möjligheten att komma ifatt med åtminstone delar av renoveringsbehoven för gruppbostäder. Helena Ståhl (SD) yrkade att objektet 'Vivalla socialkontor, nya ändamålsenliga lokaler' skulle strykas ur planen, med motiveringen att socialkontoret inte hade givit önskade resultat och personalen haft säkerhetsproblem.\n\nOrdföranden avvisade Lindholms yrkande om återremiss och ställde förslagen mot varandra genom acklamation. Kommunledningsförvaltningens ursprungliga förslag antogs. Reservationer lämnades av ÖrP, KD och SD.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Vivalla, Örebro",
+  "paragraph_ref": "§ 46",
+  "tags": [
+    "lokalförsörjning",
+    "gruppbostäder",
+    "renovation",
+    "Vivalla socialkontor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "En gruppbostad är inte bara tak över huvudet för en person. Det är ett hem. För en målgrupp som vistas många timmar hemma... här väljer man att spara på en av de svagaste och mest utsatta grupperna.",
+  "quote_page": "s. 8, yttrande Susanne Lindholm (KD)",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_46.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_46/"
+  }
+}

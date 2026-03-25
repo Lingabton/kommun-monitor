@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-14_ko_42",
+  "headline": "Motion om pratbänkar i Örebro avslås på grund av ekonomiska prioriteringar",
+  "summary": "Kommunfullmäktige avslogs motion från KD om att införa pratbänkar i Örebro för att motverka ensamhet och skapa generationsmöten.",
+  "detail": "KD lämnade motion om att ta fram en modell för pratbänkar och placera ut dem på några platser i Örebro. Motionen syftade till att motverka ensamhet och skapa gemenskap mellan människor.\n\nKommunledningen (S, M, C) såg positivt på intentionen men menade att pratbänkarna medför engångskostnad för inköp och ökade driftskostnader för Teknik- och servicenämnden. Dessa kostnader fanns inte bland kommunledningens ekonomiska prioriteringar för mandatperioden.\n\nKommunfullmäktige avslogs motionen. KD, V, L och MP reserverade sig för bifall till motionen.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 42",
+  "tags": [
+    "praktbänkar",
+    "ensamhet",
+    "gemenskap"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "SD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "V",
+      "L",
+      "MP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Dessa kostnader finns inte med bland kommunledningens ekonomiska prioriteringar för mandatperioden.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_42.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_42/"
+  }
+}

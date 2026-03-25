@@ -1,0 +1,45 @@
+{
+  "id": "2023-02-07_ko_27",
+  "headline": "Arkivöverslamlning för Landsbygdsnämnden förskjuten",
+  "summary": "Kommunstyrelsen beslutade förlänga tiden för arkivöverlämnande från Landsbygdsnämnden till Stadsarkivet från april till 30 juni 2023.",
+  "detail": "Den nya nämndorganisationen trädde i kraft 12 januari 2023, vilket innebar att Landsbygdsnämnden upphörde. Enligt arkivlagen ska myndigheternas arkiv överlämnas inom tre månader (skulle alltså avsluttas 12 april 2023).\n\nResourcebrist inom Stadsarkivet gör det mycket svårt att genomföra överlämnelsen inom lagstadgad tid. Kommunfullmäktige föreslogs därför förlänga perioden till 30 juni 2023. Kommunstyrelsen godkände förslaget som skulle vidare till Kommunfullmäktige.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 27",
+  "tags": [
+    "arkiv",
+    "Landsbygdsnämnden",
+    "administration"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Den tremånadersgräns för överlämning som nämns i 14 § arkivlagen upphör den 12 april 2023.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_27.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_27/"
+  }
+}

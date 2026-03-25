@@ -1,0 +1,46 @@
+{
+  "id": "2024-11-20_ko_276",
+  "headline": "Möjlighet att fusionera eller likvidera utvecklingsbolag godkänns",
+  "summary": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB får fusionera Gustavsviks Utvecklingsbolag AB med sitt koncernbolag eller likvidera det när så bedöms lämpligt.",
+  "detail": "Tillsammans med ägarförändringen i Gustavsvik godkänner kommunfullmäktige att Örebroporten Förvaltning AB, om och när bolaget bedömer det lämpligt, fusionerar Gustavsviks Utvecklingsbolag AB med Örebroporten Förvaltning AB eller annat koncernbolag. Alternativt kan GUAB likvideras.\n\nSamtidigt ges godkännande för att GUAB kan fusionera sitt helägda dotterbolag Kikapu i Örebro AB eller likvidera det.\n\nDessa möjligheter är långsiktiga organisatoriska verktyg för att förenkla koncernstrukturen kring Gustavsvikverksamheten.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Gustavsvik",
+  "paragraph_ref": "§ 276",
+  "tags": [
+    "Gustavsvik",
+    "fusion",
+    "bolagsstruktur",
+    "koncern"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "L",
+      "MP",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB, om och när bolaget bedömer det lämpligt, fusionerar Gustavsviks Utvecklingsbolag AB med Örebroporten Förvaltning AB eller annat koncernbolag, alternativt tillser att Gustavsviks Utvecklingsbolag AB likvideras.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2024-11-20_Kommunfullmäktige",
+    "date": "2024-11-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-20_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-20_ko_276.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-20_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-20_ko_276/"
+  }
+}

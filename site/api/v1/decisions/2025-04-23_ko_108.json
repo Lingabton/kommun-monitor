@@ -1,0 +1,46 @@
+{
+  "id": "2025-04-23_ko_108",
+  "headline": "Motion om minskade klassdelningar i grundskolan avslogs",
+  "summary": "Kommunfullmäktige avslogs motionen från Mats-Olof Liljegren (L) om att införa nya delningstal för skolklasser med maximal 20-30 elever beroende på årskurs.",
+  "detail": "Liberalen Mats-Olof Liljegren föreslog att Kommunfullmäktige skulle ge förvaltningen uppgift att utreda införande av nya delningstal: max 20 elever per klass från förskoleklass, max 25 från årskurs 4, och max 30 från årskurs 7.\n\nFörskole- och grundskoleförvaltningen rekommenderade avslag med motiveringen att de idag har en funktionell process som ger flexibilitet för rektorer att anpassa organisationen efter elevers behov, lokaler och möjlighet att säkra behöriga lärare - allt inom budgetramen.\n\nMotionen avslogs i votering. Liberalerna, Miljöpartiet, Vänsterpartiet, Sverigedemokraterna och KD reserverade sig mot beslutet och förespråkade bifallande av motionen.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 108",
+  "tags": [
+    "skola",
+    "klassdelning",
+    "elever",
+    "utbildning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "V",
+      "MP",
+      "SD",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Förskole- och grundskoleförvaltningen föreslår att motionen avslås eftersom bedömningen är att förvaltningen idag har en funktionell och bra process som ger förvaltningen och rektorer möjlighet att vara flexibla och anpassa skolans organisation och resurser efter elevers behov.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_108.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_108/"
+  }
+}

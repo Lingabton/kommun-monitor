@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-17_ko_210",
+  "headline": "Lokalförsörjningsplan 2025-2035 antagen: 29 projekt prioriterade",
+  "summary": "Kommunstyrelsen antar kommunövergripande lokalförsörjningsplan för 2025-2035 med 29 prioriterade lokalprojekt, varav 16 är redan pågående.",
+  "detail": "Lokalförsörjningsplanen är en handlingsplan som åskådliggör framtida lokalbehov för kommunen och utgör underlag för investeringsprocessen. Prioriteringen är gjord ur ett kommunövergripande perspektiv baserat på behovsanalyser från samtliga nämnder.\n\nPlanen synliggör 29 lokalprojekt mellan 2025-2035, varav 16 är redan pågående projekt. Under år 2024 genomförs ett stort antal lokalprojekt parallellt.\n\nMarkus Allard (ÖrP) yrkade på avslag men förlorade.",
+  "category": "bygg",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 210",
+  "tags": [
+    "lokalförsörjning",
+    "investeringar",
+    "planering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Mellan år 2025–2035 prioriteras 29 lokalprojekt varav 16 är pågående.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_210.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_210/"
+  }
+}

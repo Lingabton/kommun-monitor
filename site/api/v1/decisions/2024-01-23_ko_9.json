@@ -1,0 +1,44 @@
+{
+  "id": "2024-01-23_ko_9",
+  "headline": "Reservgeneratorer och internetberedskap - SD motion avslåd",
+  "summary": "Motion från SD om utökning av beredskap för elektricitet och kommunikation. Två av tre förslag tillgodosedda genom pågående arbete, tredje om satellit-internet avslaget.",
+  "detail": "SD lämnade motion 2022-04-27 med tre förslag: inventering av befintliga reservgeneratorer, utredning kring behov av reservgeneratorer på kritiska anläggningar, och möjligheter för satellit-internet som reservsystem.\n\nKommunledningen bedömer att de två första förslagen redan tillgodoses genom förvaltningarnas pågående arbete med att identifiera behov av reservlösningar i kris. Det tredje förslaget avslås med motiveringen att ett nationellt kommunikationssystem redan finns för säker och effektiv informationsdelning i vardag och kris.\n\nSD reserverade sig mot avslaget av det tredje förslaget. Även Örebropartiet reserverade sig. Majoriteten röstade för Kommunstyrelsens förslag.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 9",
+  "tags": [
+    "beredskap",
+    "krisberedskap",
+    "reservgenerator",
+    "trygghet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "V",
+      "L",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Bedömningen är att motionens första och andra förslag är tillgodosedda genom förvaltningarnas pågående arbete. Tredje förslaget avslås eftersom det redan finns ett nationellt kommunikationssystem.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_9.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_9/"
+  }
+}

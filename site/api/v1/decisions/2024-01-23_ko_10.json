@@ -1,0 +1,44 @@
+{
+  "id": "2024-01-23_ko_10",
+  "headline": "SMR-reaktor utredning - SD motion avslåd av majoritet",
+  "summary": "Sverigedemokraternas förslag att utreda förutsättningarna för Small Modular Reactors i Örebro avslaget. Kommunledningen anser det finns för många osäkerhetsfaktorer.",
+  "detail": "SD inlämnade motion 2022-11-23 om att Örebro kommun skulle undersöka möjligheterna för framtida etablering av SMR-reaktor (Small Modular Reactors).\n\nKommunledningen avslår motionen med motiveringen att det finns alltför många osäkerhetsfaktorer för att kommun ska lägga pengar och resurser på sådan utredning. Frågan behöver stabiliseras på nationell nivå före det kan vara aktuellt för kommunal nivå.\n\nSD, Örebropartiet och några andra reserverade sig för bifall till motionen, men majoriteten röstade för avslag.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 10",
+  "tags": [
+    "kärnkraft",
+    "SMR",
+    "energi",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Det finns alltför många osäkerhetsfaktorer för att Örebro kommun ska lägga pengar och resurser på att undersöka förutsättningarna för en framtida etablering av SMR-reaktor.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_10.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_10/"
+  }
+}

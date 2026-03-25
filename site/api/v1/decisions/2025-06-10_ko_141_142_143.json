@@ -1,0 +1,48 @@
+{
+  "id": "2025-06-10_ko_141_142_143",
+  "headline": "Markområden till Peab och Epiroc för bostäder och industri",
+  "summary": "Kommunstyrelsen godkände tre reservationsavtal för markområden: Peab Bostad AB för Hovsta-fastigheter (15 mnkr), Epiroc för test-/kompetenscenter (75 mnkr) och distributionscenter (40 mnkr).",
+  "detail": "Kommunstyrelsen godkände tre reservationsavtal för försäljning av kommunal mark:\n\n1. Peab Bostad AB får fastigheterna Kumla 1:71, 1:92 och 2:36 i Hovsta för ny bebyggelse. Köpeskilling cirka 15 mnkr.\n\n2. Epiroc Rock Drills AB får del av fastigheten Kränglan 3:1 för test- och kompetenscenter. Köpeskilling cirka 75 mnkr. Reservationsavtalet förlängs.\n\n3. Epiroc Rock Drills AB får fastigheten del av Ånsta 20:209 för distributionscenter. Köpeskilling cirka 40 mnkr.\n\nMarkus Allard (ÖrP) yrkade avslag på alla tre ärendena. Vid behandlingen av Ånsta-fastigheten korrigerades ett skrivfel i beslutsförslaget.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Hovsta, Kränglan, Ånsta",
+  "paragraph_ref": "§ 141, 142, 143",
+  "tags": [
+    "mark",
+    "försäljning",
+    "Peab",
+    "Epiroc",
+    "Hovsta",
+    "industri",
+    "bostäder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Föreliggande reservationsavtal för fastigheterna Kumla 1:71, 1:92 och 2:36 godkänns.",
+  "quote_page": "s. 20-23",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_141_142_143.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_141_142_143/"
+  }
+}

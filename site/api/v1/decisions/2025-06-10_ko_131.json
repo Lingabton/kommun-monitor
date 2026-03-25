@@ -1,0 +1,42 @@
+{
+  "id": "2025-06-10_ko_131",
+  "headline": "Budget 2026: Skattesats oförändrad 21,35 kronor, 82 mnkr sparning krävd",
+  "summary": "Kommunstyrelsen antog budget för 2026 med samma skattesats som 2025 (21,35 kr/skattekrona). Effektiviseringskrav på 82 mnkr lagts på Kommunstyrelsen. Investeringsbudget 2026 på 1 377 mnkr beslutad.",
+  "detail": "Kommunledningsförvaltningen presenterade proposerat budget \"Gemensamt ansvar för framtidens Örebro\" inför 2026. Skattesatsen för allmän kommunalskatt fastställdes till 21,35 per skattekrona, samma nivå som 2025.\n\nKommunstyrelsen får uppdrag att ta fram riktat effektiviseringsuppdrag om 82 mnkr för 2026 och arbeta vidare med effektiviseringsförslag för 2027-2029. Låneramar fastställdes: kommunkoncernen 23,8 miljarder kronor, Örebro kommun 22,0 miljarder kronor för perioden 2026-2029.\n\nInvesteringsprojektet Södra infarten kategoriserades som större investering och undantogs från finansiella mål. Flera oppositionspartier lämnade egna budgetförslag. Vänsterpartiet (V) yrka på återremiss av beslutspunkt 8 för att ge kommundirektören sparuppdrag. Liberalerna (L), Sverigedemokraterna (SD), Kristdemokraterna (KD) och Väl presenterade alternativa budgetar.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 131",
+  "tags": [
+    "budget",
+    "2026",
+    "skattesats",
+    "sparningar",
+    "investeringar",
+    "Södra infarten"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kommunstyrelsen får i uppdrag att ta fram ett riktat effektiviseringsuppdrag om 82 mnkr för 2026 samt arbeta vidare med förslag till effektiviseringar för år 2027-2029.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_131.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_131/"
+  }
+}

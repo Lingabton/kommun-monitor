@@ -1,0 +1,47 @@
+{
+  "id": "2025-09-24_ko_274",
+  "headline": "Motion om snöröjning med arbetslösa avslås",
+  "summary": "Kommunfullmäktige avslår motion från Helena Ståhl och Habib Brini (SD) om att engagera långtidsarbetslösa vid snöröjning.",
+  "detail": "Sverigedemokraterna föreslog att Örebro kommun skulle utreda hur försörjningsstödstagare kunde mobiliseras för snöröjning som komplement till befintlig snöröjning. Gymnasie- och arbetsmarknadsförvaltningen bedömde att att likställa denna målgrupp som arbetskraftsreserv är missvisande då majoriteten står långt från arbetsmarknaden och behöver omfattande stöd. Snöröjning kräver utbildning, samordning och säkerhetshänsyn vilket kan bli dyrare än effektivt. Förvaltningen bedömde det som mer verkningsfullt att ta fram stadigvarande praktikplatser för aktivering.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 274",
+  "tags": [
+    "sysselsättning",
+    "socialt",
+    "arbetsmarknad"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "Att likställa den aktuella målgruppen av försörjningsstödstagare som en arbetskraftsreserv upplever förvaltningen som missvisade då denna målgrupp i majoritet utgörs av personer som står långt i från arbetsmarknaden.",
+  "quote_page": "s. 26",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_274.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_274/"
+  }
+}

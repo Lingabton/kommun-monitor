@@ -1,0 +1,40 @@
+{
+  "id": "2023-10-17_ko_215",
+  "headline": "Pratbänkar för att motverka ensamhet avslagnas",
+  "summary": "Kommunstyrelsen avslår motion från KD om att införa pratbänkar på olika platser i Örebro för att motverka ensamhet och skapa generationsmöten.",
+  "detail": "Anna Andersson (KD) motionerade om att ta fram en modell för pratbänkar i Örebro och placera ut dem på några platser i staden.\n\nKommunledningen (S-M-C) såg positivt på motionens intention om att motverka ensamhet, skapa generationsmöten och öka gemenskap mellan människor, men bedömde att initialkostnader för bänkarna och ökade driftskostnader för Teknik- och servicenämnden inte passar in i kommunledningens ekonomiska prioriteringar för mandatperioden.\n\nSusanne Lindholm Henningsson (KD) yrkade på bifall till motionen men förlorade.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 215",
+  "tags": [
+    "motion",
+    "ensamhet",
+    "socialt",
+    "trivsel"
+  ],
+  "voting": {
+    "for": [],
+    "against": [
+      "S",
+      "M",
+      "C"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Dessa kostnader finns inte med bland kommunledningens ekonomiska prioriteringar för mandatperioden.",
+  "quote_page": "s. 25",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_215.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_215/"
+  }
+}

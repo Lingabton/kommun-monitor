@@ -1,5 +1,5 @@
 """
-Kommun Monitor — API Builder
+Beslutskollen — API Builder
 ==============================
 Generates a static REST-like JSON API from site/data.json.
 Served directly from GitHub Pages at /api/v1/...
@@ -36,7 +36,7 @@ SITE_DIR = ROOT / "site"
 API_DIR = SITE_DIR / "api" / "v1"
 
 VERSION = "1.0.0"
-API_NAME = "Kommun Monitor API"
+API_NAME = "Beslutskollen API"
 
 
 def load_data():
@@ -109,7 +109,7 @@ def build_meta(data, base_url):
         },
         "license": {
             "data": "Swedish public records (offentlighetsprincipen). Free to use.",
-            "api": "CC BY 4.0 — attribute Kommun Monitor",
+            "api": "CC BY 4.0 — attribute Beslutskollen",
             "note": "AI-generated summaries may contain errors. Always verify against original protocols.",
         }
     }
@@ -145,7 +145,7 @@ def build_meetings(data, base_url):
     meetings_summary = []
     for m in data.get("meetings", []):
         summary = {
-            "id": m["id"],
+            "id": m.get("id", f"{m['date']}_{m.get('organ','')}"),
             "date": m["date"],
             "type": m.get("type", m.get("meeting_type", "")),
             "municipality": "orebro",
@@ -153,7 +153,7 @@ def build_meetings(data, base_url):
             "decisions_count": len(m.get("decisions", [])),
             "contested_count": len([d for d in m.get("decisions", []) if d.get("contested")]),
             "source_url": m.get("url", m.get("source_url", "")),
-            "api_url": f"{base_url}/api/v1/meetings/{m['id']}.json",
+            "api_url": f"{base_url}/api/v1/meetings/{m.get('id', f"{m['date']}_{m.get('organ','')}")}.json",
         }
         meetings_summary.append(summary)
 
@@ -162,12 +162,12 @@ def build_meetings(data, base_url):
             **m,
             "municipality": "orebro",
             "_links": {
-                "self": f"{base_url}/api/v1/meetings/{m['id']}.json",
+                "self": f"{base_url}/api/v1/meetings/{m.get('id', f"{m['date']}_{m.get('organ','')}")}.json",
                 "decisions": [f"{base_url}/api/v1/decisions/{d['id']}.json" for d in m.get("decisions", [])],
-                "web_url": f"{base_url}/#meeting-{m['id']}",
+                "web_url": f"{base_url}/#meeting-{m.get('id', f"{m['date']}_{m.get('organ','')}")}",
             }
         }
-        write_json(API_DIR / "meetings" / f"{m['id']}.json", meeting_detail)
+        write_json(API_DIR / "meetings" / f"{m.get('id', f"{m['date']}_{m.get('organ','')}")}.json", meeting_detail)
 
     write_json(API_DIR / "meetings.json", {
         "count": len(meetings_summary),
@@ -182,7 +182,7 @@ def build_decisions(data, base_url):
         for d in m.get("decisions", []):
             flat = {
                 **d,
-                "meeting_id": m["id"],
+                "meeting_id": m.get("id", f"{m['date']}_{m.get('organ','')}"),
                 "meeting_date": m["date"],
                 "meeting_type": m.get("type", m.get("meeting_type", "")),
                 "municipality": "orebro",
@@ -222,7 +222,7 @@ def build_decisions(data, base_url):
                 "quote": d.get("quote"),
                 "quote_page": d.get("qp", d.get("quote_page")),
                 "meeting": {
-                    "id": m["id"],
+                    "id": m.get("id", f"{m['date']}_{m.get('organ','')}"),
                     "date": m["date"],
                     "type": m.get("type", m.get("meeting_type", "")),
                     "source_url": m.get("url", m.get("source_url", "")),
@@ -230,7 +230,7 @@ def build_decisions(data, base_url):
                 "municipality": "orebro",
                 "_links": {
                     "self": f"{base_url}/api/v1/decisions/{d['id']}.json",
-                    "meeting": f"{base_url}/api/v1/meetings/{m['id']}.json",
+                    "meeting": f"{base_url}/api/v1/meetings/{m.get('id', f"{m['date']}_{m.get('organ','')}")}.json",
                     "web_url": f"{base_url}/beslut/{d['id']}/",
                 }
             }
@@ -359,7 +359,7 @@ def build_json_feed(data, base_url):
 
     feed = {
         "version": "https://jsonfeed.org/version/1.1",
-        "title": "Kommun Monitor — Örebro",
+        "title": "Beslutskollen — Örebro",
         "home_page_url": base_url or "https://kommun-monitor.se",
         "feed_url": f"{base_url}/api/v1/feed.json",
         "description": "AI-sammanfattningar av kommunala beslut i Örebro",
@@ -373,7 +373,7 @@ def build_docs(base_url):
     """Generate interactive API documentation page."""
     doc_html = f'''<!DOCTYPE html><html lang="sv"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kommun Monitor API — Dokumentation</title>
+<title>Beslutskollen API — Dokumentation</title>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{{box-sizing:border-box;margin:0;padding:0}}
@@ -427,63 +427,53 @@ console.log(`${{data.count}} beslut`);
 <h2>Endpoints</h2>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/meta.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">API-metadata: version, statistik, tillgängliga endpoints.</p>
+<span class="method">GET</span><span class="path">/meta.json</span><p style="margin-top:6px">API-metadata: version, statistik, tillgängliga endpoints.</p>
 <button class="try-btn" onclick="tryIt(this,'{base_url}/api/v1/meta.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/municipalities.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Lista över kommuner med data tillgänglig.</p>
+<span class="method">GET</span><span class="path">/municipalities.json</span><p style="margin-top:6px">Lista över kommuner med data tillgänglig.</p>
 <button class="try-btn" onclick="tryIt(this,'{base_url}/api/v1/municipalities.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/meetings.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Alla sammanträden (sammanfattning). Sorterade efter datum (nyast först).</p>
+<span class="method">GET</span><span class="path">/meetings.json</span><p style="margin-top:6px">Alla sammanträden (sammanfattning). Sorterade efter datum (nyast först).</p>
 <button class="try-btn" onclick="tryIt(this,'{base_url}/api/v1/meetings.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/meetings/{{id}}.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Enskilt sammanträde med alla beslut. Exempel: <code>/meetings/2025-12-10_kf.json</code></p>
+<span class="method">GET</span><span class="path">/meetings/{{id}}.json</span><p style="margin-top:6px">Enskilt sammanträde med alla beslut. Exempel: <code>/meetings/2025-12-10_kf.json</code></p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/decisions.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Alla beslut som flat lista (headline, summary, category, date, tags). Utan full detail.</p>
+<span class="method">GET</span><span class="path">/decisions.json</span><p style="margin-top:6px">Alla beslut som flat lista (headline, summary, category, date, tags). Utan full detail.</p>
 <button class="try-btn" onclick="tryIt(this,'{base_url}/api/v1/decisions.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/decisions/{{id}}.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Enskilt beslut med full detalj: voting, quotes, tags, protocol reference.</p>
+<span class="method">GET</span><span class="path">/decisions/{{id}}.json</span><p style="margin-top:6px">Enskilt beslut med full detalj: voting, quotes, tags, protocol reference.</p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/parties.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Partistatistik: röstningsfördelning, allianser, nyckelfrågor.</p>
+<span class="method">GET</span><span class="path">/parties.json</span><p style="margin-top:6px">Partistatistik: röstningsfördelning, allianser, nyckelfrågor.</p>
 <button class="try-btn" onclick="tryIt(this,'{base_url}/api/v1/parties.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/parties/{{abbr}}.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Enskilt parti. Exempel: <code>/parties/v.json</code>, <code>/parties/sd.json</code></p>
+<span class="method">GET</span><span class="path">/parties/{{abbr}}.json</span><p style="margin-top:6px">Enskilt parti. Exempel: <code>/parties/v.json</code>, <code>/parties/sd.json</code></p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/search.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Fulltextsökindex för client-side search. Varje entry innehåller normaliserat <code>text</code>-fält.</p>
+<span class="method">GET</span><span class="path">/search.json</span><p style="margin-top:6px">Fulltextsökindex för client-side search. Varje entry innehåller normaliserat <code>text</code>-fält.</p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/feed.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px"><a href="https://jsonfeed.org">JSON Feed</a> (RFC) — för RSS-läsare och appar som stöder JSON Feed.</p>
+<span class="method">GET</span><span class="path">/feed.json</span><p style="margin-top:6px"><a href="https://jsonfeed.org">JSON Feed</a> (RFC) — för RSS-läsare och appar som stöder JSON Feed.</p>
 <button class="try-btn" onclick="tryIt(this,'{base_url}/api/v1/feed.json')">Testa →</button>
 <div class="response"></div>
 </div>
@@ -573,11 +563,11 @@ curl -s {base_url}/api/v1/parties/sd.json | \\
 
 <h2>Licens & villkor</h2>
 <p>Data baserad på svenska offentliga handlingar (offentlighetsprincipen) — fritt att använda.</p>
-<p>AI-sammanfattningar publiceras under <strong>CC BY 4.0</strong>. Ange <em>"Kommun Monitor"</em> som källa.</p>
+<p>AI-sammanfattningar publiceras under <strong>CC BY 4.0</strong>. Ange <em>"Beslutskollen"</em> som källa.</p>
 <p style="color:#f59e0b">⚠️ Sammanfattningar genereras av AI och kan innehålla fel. Verifiera alltid mot <a href="https://www.orebro.se/kommun--politik/politik--beslut.html">originalprotokollen</a>.</p>
 
 <footer>
-<p>Kommun Monitor API v{VERSION} — <a href="{base_url}/">Hem</a> · <a href="{base_url}/parti/">Partier</a> · <a href="{base_url}/omrade/">Områden</a></p>
+<p>Beslutskollen API v{VERSION} — <a href="{base_url}/">Hem</a> · <a href="{base_url}/parti/">Partier</a> · <a href="{base_url}/omrade/">Områden</a></p>
 </footer>
 </div>
 
@@ -650,7 +640,7 @@ def main():
     args = parser.parse_args()
     base_url = args.base_url.rstrip("/")
 
-    print(f"🔧 Building Kommun Monitor API v{VERSION}")
+    print(f"🔧 Building Beslutskollen API v{VERSION}")
     print(f"   Base URL: {base_url or '(relative)'}")
     print(f"   Output: {API_DIR}/")
 

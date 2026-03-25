@@ -1,0 +1,42 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_175",
+  "headline": "Reservationsavtal med Epiroc för Kränglan 3:1 godkänt",
+  "summary": "Kommunfullmäktige godkänte reservationsavtal för Epiroc Rock Drills AB att etablera test- och kompetenscenter på fastigheten Kränglan 3:1 med beräknad köpeskilling omkring 75 miljoner kronor.",
+  "detail": "Epiroc Rock Drills AB tilldelades markanvisning (reservationsavtal) år 2023 för att etablera ett nytt test- och kompetenscenter för egen verksamhet på del av fastigheten Kränglan 3:1. Samtidigt påbörjades detaljplaneläggning för verksamhetsmark på fastigheten.\n\nDet tidigare reservationsavtalet löpte ut 2025-06-30. Då köpeskillingen beräknas uppgå till cirka 75 miljoner kronor krävs beslut av Kommunfullmäktige enligt gällande reglemente.\n\nMarkplanerings- och exploateringsnämndens ordförande får i uppdrag att underteckna reservationsavtalet, besluta om förlängning om nödvändigt, samt godkänna och underteckna överlåtelseavtal för området.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Kränglan 3:1",
+  "paragraph_ref": "§ 175",
+  "tags": [
+    "markanvisning",
+    "näringsliv",
+    "Epiroc",
+    "fastighet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "V"
+    ],
+    "against": [
+      "ÖrP",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Köpeskillingen beräknas uppgå till ca 75 miljoner kronor ska beslut om reservationsavtal i enlighet med gällande reglemente tas av Kommunfullmäktige.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_175.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_175/"
+  }
+}

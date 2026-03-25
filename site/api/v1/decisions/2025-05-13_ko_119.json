@@ -1,0 +1,45 @@
+{
+  "id": "2025-05-13_ko_119",
+  "headline": "Ledamotsinitiativ om HBT-monument i Vivalla avslaget",
+  "summary": "SD:s Helena Ståhl initiativ om att upprätta monument över Muhsin Hendricks i Vivalla avslås som stridande mot konstnärlig frihet.",
+  "detail": "Helena Ståhl (SD) inkom med ledamotsinitiativ om att upprätta ett monument över Muhsin Hendricks på Vivallakullen finansierat genom försäljning av konstverket \"Äppeltanke\".\n\nKommunledningsförvaltningen hävdade att detta strider mot kommunens konstpolicy som grundas på konstnärlig frihet, professionell bedömning och långsiktiga strategier. Policyn slår fast principen om armlängds avstånd, vilket innebär att politiker inte ska styra innehål eller utformning av konstverk - detta ska göras av sakkunniga med konstnärlig kompetens.\n\nEn politisk beslut om ett specifikt monument på angiven plats står i direkt strid med dessa principer och riskerar undergräva konstnärlig frihet. Kultur- och fritidsnämnden har enligt reglementet ansvar för kommunens konst.\n\nStåhl yrkade bifall men avslogs. Ståhl och Larsson (SD) reserverade sig.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Vivalla",
+  "paragraph_ref": "§ 119",
+  "tags": [
+    "monument",
+    "konst",
+    "Muhsin Hendricks",
+    "HBT",
+    "Vivalla"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Ett politiskt beslut om att uppföra ett specifikt monument på en angiven plats och med ett föreskrivet innehål står i direkt strid med dessa principer.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_119.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_119/"
+  }
+}

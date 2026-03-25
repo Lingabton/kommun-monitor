@@ -1,43 +1,40 @@
 {
   "id": "2025-10-14_ko_211",
-  "headline": "Sammanträdestider för 2026 fastställda",
-  "summary": "Kommunstyrelsen fastställde sammanträdestider för 2026 för kommunstyrelsen, dess utskott och kommunfullmäktige. Liberalerna ville förhindra driftnämndsammanträden samma vecka som kommunfullmäktige men förlorade.",
-  "detail": "Beslut gäller:\n\n1. 11 ordinarie beslutssammanträden med Kommunstyrelsen på tisdagar klockan 14.15 (20 januari – 1 december)\n2. Beredningssammanträden tisdagar 09.00-12.00\n3. Rekommendation till nämnderna om vilka veckor de bör förlägga sammanträden\n4. Trygghetsutskottets sammanträden på 6 tisdagar\n5. Personalutskottets sammanträden på 5 torsdagar\n6. Hållbarhetsutskottets sammanträden på 6 tillfällen\n7. 11 ordinarie sammanträden med Kommunfullmäktige på tisdagar/onsdagar\n\nKarolina Wallström (L) yrkat att förvaltningen inte ska få planera driftnämndsammanträden samma vecka som kommunfullmäktige utan i särskild nöd. KD och V stödde detta men S majoritet avslogs yrkandet.\n\nLiberalerna menade att detta tvingar fritidspolitiker att ta ledigt två dagar samma vecka från sitt ordinarie arbete om de sitter i både driftnämnd och kommunfullmäktige.",
+  "headline": "Sammanträdestider för 2026 fastställda - motton om nämndmöten",
+  "summary": "Kommunstyrelsen fastställde sammanträdestider för 2026. Karolina Wallström (L) yrkat på att nämnderna inte ska lägga möten samma vecka som fullmäktige - förslaget avslogs.",
+  "detail": "Ordförande beslutat följande:\n\n- 11 ordinarie KS-sammanträden 2026 på tisdagar kl 14.15\n- Beredningssammanträden tisdagar kl 09.00-12.00\n- 11 ordinarie fullmäktigesammanträden på tisdagar/onsdagar kl 09.00-17.00\n- Rekommendationer för nämndernas sammanträdestider\n- Utskottsammanträden planerade\n\nKarolina Wallström (L) yrkat att förvaltningen inte ska planera in driftnämndsmöten under samma vecka som fullmäktige möten, argumenterande att fritidspolitiker tvingas ta ledigt två dagar samma vecka. Susanne Lindholm Henningsson (KD) och Helena Ståhl (SD) stödde yrkandet, men majoritet avslogs det.\n\nL, KD och Wallström reserverade sig mot beslutet.",
   "category": "regler",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 211",
   "tags": [
-    "möte",
-    "organisation",
-    "kommunstyrelsen",
-    "kommunfullmäktige"
+    "sammanträden",
+    "möten",
+    "demokrati",
+    "schemaläggning"
   ],
   "voting": {
     "for": [
       "S",
       "M",
-      "C"
+      "ÖrP"
     ],
     "against": [],
-    "abstained": [
-      "L",
-      "KD"
-    ],
+    "abstained": [],
     "result": "Bifall"
   },
-  "quote": "Ordinarie beslutssammanträden med Kommunstyrelsen ska under år 2026 hållas klockan 14.15 tisdag 20 januari, tisdag 10 februari, tisdag 17 mars... [m.fl.]",
+  "quote": "Ordinarie beslutssammanträden med Kommunstyrelsen ska under år 2026 hållas klockan 14.15 tisdag 20 januari, tisdag 10 februari, tisdag 17 mars, tisdag 14 april, tisdag 12 maj, måndag 1 juni, tisdag 25 augusti, tisdag 15 september, tisdag 13 oktober, tisdag 10 november och tisdag 1 december.",
   "quote_page": "s. 24-25",
   "meeting": {
-    "id": "2025-10-14_ko",
+    "id": "2025-10-14_Kommunstyrelsen",
     "date": "2025-10-14",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_211.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_211/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_211.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_211/"
   }
 }

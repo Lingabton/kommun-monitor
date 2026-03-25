@@ -1,0 +1,47 @@
+{
+  "id": "2023-01-24_ko_11",
+  "headline": "Utökning av VA-verksamhetsområden godkänd trots reservationer",
+  "summary": "Kommunfullmäktige beslutat utöka verksamhetsområdena för dricks-, spill- och dagvatten. Örebropartiet, Sverigedemokraterna och Liberalerna ville se kompensation för tidigare drabbade medborgare.",
+  "detail": "Kommunfullmäktige beslutade att utöka verksamhetsområdena för vatten och avlopp enligt föreslagna kartor och fastighetsförteckning. Ärendet väckte debatt om kommunens hantering av invånare som redan installerat egna lösningar innan VA dras ut.\n\nÖrebropartiet krävde att ärendet återremitterades för att utreda retroaktiv kompensation till medborgare som tvingats \"betala dubbelt\" – först för privata anläggningar, sedan för tvångsanslutning till kommunalt nätverk.\n\nSverigedemokraterna förespråkade att kommunen bör visa hänsyn till befintliga miljögodkända privata lösningar och vara generös med dispenser för att inte tvinga på onödiga kostnader.\n\nVoteringen visade 48 ja-röster mot 17 nej-röster för att avgöra ärendet omedelbar. Beslutet fattades enbart enligt Kommunstyrelsens ursprungliga förslag, utan kompensationsutredning.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 11",
+  "tags": [
+    "VA-utbyggnad",
+    "infrastruktur",
+    "kompensation",
+    "medborgare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "MP",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Vissa har fått vänta länge på en lösning, andra har skaffat egna anläggningar för att kort därefter överraskas av att kommunen ska dra ut sitt kommunala VA till fastigheten – varmed man blivit tvungen att betala.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-01-24_Kommunfullmäktige",
+    "date": "2023-01-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_11.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-24_ko_11/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2025-02-25_ko_53",
+  "headline": "Motion om hemskydd-garanti för hemlösa avslagen",
+  "summary": "Kommunfullmäktige avslog Liberalernas motion om att inrätta en 'tak över huvudet-garanti' för hemlösa i Örebro.",
+  "detail": "Johanna Reimfelt (L) inlämnade motion om att Örebro kommun ska utreda hur en 'tak över huvudet-garanti' ska inrättas, där föreningar som Svenska kyrkan eller Stadsmissionen kan erbjuda boendet med ersättning från kommunen. Ärendet bordlades flera gånger från oktober 2024 till januari 2025.\n\nKommunstyrelsen föreslog avslag. Jessica Ekerbring (S), Martha Wicklund (V), Gunhild Wallin (C) och Pell Uno Larsson (S) yrkade bifall till avslaget. Johanna Reimfelt (L), Markus Allard (ÖrP), Lea Strandberg (MP), Susanne Lindholm Henningsson (KD) och Karolina Wallström (L) yrkade bifall till motionen.\n\nOrdföranden ställde förslagen mot varandra och fann att Kommunfullmäktige beslutade enligt avslaget. Fyra partier reserverade sig för att vilja bifalla motionen: L, ÖrP, KD och MP.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 53",
+  "tags": [
+    "hemlöshet",
+    "välfärd",
+    "boendesupport"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "V",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "M",
+      "L",
+      "SD",
+      "ÖrP",
+      "KD",
+      "MP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "I motionen vill Liberalerna att en 'tak över huvudet-garanti' ska utformas på ett sådant sätt att föreningar som exempelvis Svenska kyrkan eller Stadsmissionen ska kunna erbjuda tak över huvudet och där ersättning då ges från kommunen.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_53.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_53/"
+  }
+}

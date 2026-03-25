@@ -1,0 +1,46 @@
+{
+  "id": "2023-05-23_ko_101",
+  "headline": "Reviderad placeringspolicy för kapitalförvaltning fastställd",
+  "summary": "Kommunstyrelsen fastställde reviderad placeringspolicy för kommunens kapitalförvaltning med omallokering av kapital mellan portföljer och etiska riktlinjer för investeringar.",
+  "detail": "Policyn reviderades för första gången sedan 2017. Målen för pensionsportföljen ändrades för att kapitalet över tid ska motsvara 120% av åtagandet, vilket kräver en avsättning på 4,2 miljarder kronor. Den kortfristiga likviditetsportföljen ska uppgå till 300 miljoner kronor.\n\nPolicyn innehåller etiska riktlinjer som förbjuder placeringar i bolag vars omsättning kommer från tobak, alkohol, droger, kommersiell spelverksamhet, vapen och pornografi. Vidare förbjuds placeringar i bolag vars omsättning från fossila bränslen överstiger 5%. Martha Wicklund (V) ville skärpa kraven till ett totalförbud medan Markus Allard (ÖrP) kritiserade de etiska begränsningarna som onödiga hinder för avkastning.\n\nJohn Johansson (S) yrkade på tillägg om fotnot till tobaksvaror som även omfattar nikotinbaserade produkter som e-cigaretter. Karolina Wallström (L) och Helena Ståhl (SD) bifoll detta tillägg.\n\nKommunstyrelsen beslutade enligt förslaget med tillägg om fotnoten. Martha Wicklund (V) och Markus Allard (ÖrP) reserverade sig mot beslutet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 101",
+  "tags": [
+    "placeringar",
+    "kapitalförvaltning",
+    "etik",
+    "investeringar",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Placeringspolicy för Örebro kommuns kapitalförvaltning fastställs i enlighet med kommunledningsförvaltningens förslag.",
+  "quote_page": "s. 4-6",
+  "meeting": {
+    "id": "2023-05-23_Kommunstyrelsen",
+    "date": "2023-05-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-23_ko_101.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-23_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-23_ko_101/"
+  }
+}

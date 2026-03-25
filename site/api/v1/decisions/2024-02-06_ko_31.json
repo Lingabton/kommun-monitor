@@ -1,0 +1,45 @@
+{
+  "id": "2024-02-06_ko_31",
+  "headline": "Investeringsanslag 416,9 miljoner kronor överförda från 2023",
+  "summary": "Kommunstyrelsen beslutade att överföra investeringsanslag från 2023 till 2024 på totalt 416 884 tkr. Ärendet ska vidare till Kommunfullmäktige för slutgiltigt beslut.",
+  "detail": "För pågående investeringsobjekt föreslogs överföring av totalt 416 884 tkr, varav 240 714 tkr för skattefinansierade investeringar och 176 170 tkr för taxefinansierade investeringar.\n\nIntraprenadernas ackumulerade resultat fastställdes till 21 453 tkr och Digital arbetsplats ackumulerade resultat till -25 689 tkr.\n\nMarkus Allard (ÖrP), Helena Ståhl (SD) och Karolina Wallström (L) yrkade alla avslag på överföringen till förmån för respektive budgetförslag, men majoriteten röstade genom. Alla tre oppositionsrepresentanter samt Boammer (SD) reserverade sig.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 31",
+  "tags": [
+    "investeringar",
+    "budget",
+    "överföring"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Investeringsanslag på sammanlagt 416 884 tkr överförs från 2023 till 2024 i enlighet med kommunstyrelseförvaltningens förslag. Balans- och kassaflödesbudgeten för 2024 revideras och fastställs utifrån överfört investeringsanslag.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_31.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_31/"
+  }
+}

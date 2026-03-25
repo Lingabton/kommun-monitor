@@ -1,0 +1,42 @@
+{
+  "id": "2024-04-24_ko_89",
+  "headline": "Örebroporten förvärvar sex fastigheter vid Eklundavägen",
+  "summary": "Kommunfullmäktige godkänner att Örebroporten förvärvar fastigheterna från Region Örebro Län för cirka 140 miljoner kronor och från Länsgården för cirka 14 miljoner kronor. Fastigheterna möjliggör utveckling av elitidrottsområdet på Eyrafältet.",
+  "detail": "Region Örebro Län avser att lämna sina kontorslokaler vid Eklundavägen under 2025 och avyttra sex fastigheter. Örebroporten Fastigheter AB förvärvar fem fastigheter från Region för totalt cirka 140 mnkr, medan Örebroporten Holding AB förvärvar ett nystartad bolag innehållande Länsgårdens fastighet för cirka 14 mnkr. Tillträde planeras till 1 april 2025 respektive 2 december 2024.\n\nKöparen och säljare delar på eventuella saneringskostnader beräknade till cirka 19 mnkr totalt. Genom förvärvet får Örebroporten och kommunen rådighet över framtida utveckling av elitidrottsområdet på Eyrafältet enligt det ägardirektiv bolaget har. Fastigheterna som inte behövs för utvecklingen föreslås senare erbjudas till marknaden eller andra delar av kommunkoncernen.\n\nÖrebropartiet (ÖrP) motsatte sig beslutet. Vänsterpartiet (V) och Liberalerna (L) reserverade sig men bifoll beslutet.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Eklundavägen, Eyrafältet",
+  "paragraph_ref": "§ 89",
+  "tags": [
+    "fastighetsförvärv",
+    "Eyrafältet",
+    "Örebroporten",
+    "elitidrottområde"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Genom att förvärva de aktuella fastigheterna får Örebroporten och kommunen rådighet över framtida utveckling av Eyrafältet.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-04-24_Kommunfullmäktige",
+    "date": "2024-04-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-24_ko_89.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-24_ko_89/"
+  }
+}

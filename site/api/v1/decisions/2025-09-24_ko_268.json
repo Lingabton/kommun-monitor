@@ -1,0 +1,45 @@
+{
+  "id": "2025-09-24_ko_268",
+  "headline": "Valdistriktsindelning fastställs oförändrad inför nästa val",
+  "summary": "Kommunfullmäktige beslutar att behålla nuvarande valdistriktsindelning utan ändringar. Valdistrikten reviderades senast 2024 med målsättning att gälla för flera kommande val.",
+  "detail": "Inför varje allmänt val ska kommunfullmäktige fatta beslut om valdistrikt senast i oktober året innan valåret enligt vallagen. Valnämnden måste därför fatta beslut om eventuella ändringar senast i maj året före valår. Örebro kommuns valdistriktsindelning genomgick en omfattande revidering inför EU-valet 2024, med målsättningen att denna skulle kunna gälla för flera kommande allmänna val utan större justeringar. Vid revideringen användes 1 300 röstberättigade som referens för maximalt antal väljare per valdistrikt, medan vallagen anger 2 000 som maximalt.",
+  "category": "politik",
+  "contested": false,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 268",
+  "tags": [
+    "val",
+    "valdistriktsindelning",
+    "procedur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Inför varje val till Riksdag, Kommun- och Regionfullmäktige ska Kommunfullmäktige enligt vallagen fatta beslut om valdistrikt senast i oktober månad innan ett valår besluta angående valdistrikt.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_268.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_268/"
+  }
+}

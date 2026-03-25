@@ -1,0 +1,45 @@
+{
+  "id": "2025-09-16_ko_181",
+  "headline": "Reservationsavtal för Swedol-expansion på Väghyveln godkänd",
+  "summary": "Kommunstyrelsen godkänner reservationsavtal för försäljning av fastigheten Väghyveln 1 för cirka 24 miljoner kronor för att möjliggöra Swedol Förvaltning ABs lokaltillväxt.",
+  "detail": "Swedol Förvaltning AB avser att uppföra ny byggnad för utökade lokalbehov. Målsättningen är att sammanföra fastigheterna Väghyveln 1 (ägd av Örebro kommun) och Väghyveln 2 (privat ägt) för att möjliggöra expansion.\n\nKöpeskillingen för fastigheten Väghyveln 1 uppgår till cirka 24 miljoner kronor, vilket innebär att beslutet enligt reglementet måste fattas av Kommunstyrelsen.\n\nBeslutet innebär att Markplanerings- och exploateringsnämndens ordförande ges i uppdrag att underteckna reservationsavtalet, godkänna justeringar på situationsplanen, besluta om eventuell förlängning samt underteckna överlåtelseavtalet när det är aktuellt.\n\nBeslutet fattas enhälligt.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Väghyveln 1",
+  "paragraph_ref": "§ 181",
+  "tags": [
+    "fastighetsförsäljning",
+    "Väghyveln",
+    "expansion",
+    "näringsliv"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Målsättningen är att fastigheterna Väghyveln 1 och Väghyveln 2 ska sammanföras för att möjliggöra för verksamhetens expansion.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2025-09-16_Kommunstyrelsen",
+    "date": "2025-09-16",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-16_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-16_ko_181.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-16_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-16_ko_181/"
+  }
+}

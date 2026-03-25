@@ -1,43 +1,46 @@
 {
   "id": "2025-02-11_ko_39",
-  "headline": "Rapport över ej verkställda LSS- och SoL-beslut kvartal 3 - SD och L kritiska",
-  "summary": "Kommunstyrelsen mottog rapporter om beslut enligt Lag om stöd och service (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) som inte verkställts inom tre månader. SD och Liberalerna yrkade på förbättringar i rapporteringen.",
-  "detail": "Funktionsstödsnämnden rapporterade 149 beslut totalt, varav 98 inte verkställda inom tre månader (ned från 157/97 föregående kvartal).\n\nVård- och omsorgsnämnden rapporterade 42 beslut, varav 26 inte verkställda inom tre månader (upp från 15 föregående kvartal).\n\nSocialnämnden rapporterade 29 beslut (ned från 41).\n\nHelena Ståhl (SD) yrkade att framtida rapporter särredovisar om förseningar beror på kommunens eller individens handlingar, för att kunna skilja mellan verklig ineffektivitet och situationer då personer tackat nej till insatser. Markus Allard (ÖrP) stödde SD:s yrkande. Karolina Wallström (L) skrev ett särskilt yttrande där hon betecknar situationen som \"oacceptabel\" och en \"kränkning av rättigheter\".\n\nStyrelsens majoritet avslogs SD:s tilläggsyrkande, men godkände att Wallström (L) fick lämna ett särskilt yttrande.",
-  "category": "trygghet",
+  "headline": "Rapport ej verkställda LSS och SoL-beslut behandlad",
+  "summary": "Kommunstyrelsen tar del av rapport över ej verkställda LSS och SoL-beslut för tredje kvartalet 2024.",
+  "detail": "Funktionsstödsnämnden rapporterar 149 beslut varav 98 fortsatt ej verkställda efter tre månader. Vård- och omsorgsnämnden rapporterar 42 beslut med 26 ej verkställda. Socialnämnden rapporterar 29 beslut.\n\nSverigedemokraterna yrkat på att framtida rapporter särredovisar om anledningen till förseningar beror på kommunen eller individen, samt fortsatta skarpa krav på nämnder för att undvika IVO-anmälningar. Liberalerna gav ett särskilt yttrande om den bekymmersamma situationen och kallat på gemensamma krafttag över nästan alla politiska gränser.",
+  "category": "ovrigt",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 39",
   "tags": [
     "LSS",
     "SoL",
-    "socialtjänst",
-    "funktionshinder",
     "välfärd",
-    "omsorg",
-    "service"
+    "försörjning"
   ],
   "voting": {
     "for": [
       "S",
       "M",
-      "C"
+      "C",
+      "KD",
+      "MP"
     ],
     "against": [],
-    "abstained": [],
-    "result": "Bifall med reservationer"
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
   },
-  "quote": "Rapporten läggs till handlingarna. Karolina Wallström (L) får lämna ett särskilt yttrande till protokollet.",
-  "quote_page": "s. 12-13",
+  "quote": "För det tredje kvartalet 2024 minskade Funktionsstödsnämndens totala antal rapporterade beslut till 149 stycken.",
+  "quote_page": "s. 12",
   "meeting": {
-    "id": "2025-02-11_ko",
+    "id": "2025-02-11_Kommunstyrelsen",
     "date": "2025-02-11",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-02-11_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_39.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_39/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_39.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_39/"
   }
 }

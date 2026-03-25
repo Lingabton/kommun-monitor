@@ -1,17 +1,16 @@
 {
   "id": "2024-04-09_ko_87",
-  "headline": "KD-initiativ om regelbundna dragningar om strategi bedömdes besvarat",
-  "summary": "Kommunstyrelsen bedömde ledamotsinitiativet från Anna Andersson (KD) om regelbundna dragningar om viktiga strategiområden som besvarat. Kommunledningen föreslogs diskutera utskottledamöternas möjlighet att sammanfatta diskussioner under Kommunstyrelsens beredningssammanträden.",
-  "detail": "Anna Andersson (KD) yrkade på regelbundna kort dragningar om: Utsatta områden, kompetensförsörjning, digital utveckling och AI, samt hållbarhetsmål.\n\nMotiveringen var att endast delar av oppositionen är representerad i Kommunstyrelsens utskott för personal, trygghet och hållbarhet, varför hela styrelsen behöver uppdateringar om dessa områden.\n\nKommunledningen bedömde att en möjlig lösning var att låta utskottsledamöter sammanfatta utskottens diskussioner under Kommunstyrelsens beredningssammanträden.\n\nSusanne Lindholm Henningsson (KD) reserverade sig mot beslutet att betrakta initiativet som besvarat.",
+  "headline": "Ledamotsinitiativ om regelbundna strategidragningar besvarat",
+  "summary": "Kommunstyrelsen anser ledamotsiniatiativ från Anna Andersson (KD) om regelbundna dragningar om strategier besvarat. Möjlighet till uppdateringar från utskotten inom beredning diskuteras.",
+  "detail": "Anna Andersson (KD) yrkade på regelbundna kortfattade dragningar om utsatta områden, kompetensförsörjning, digital utveckling och AI, samt hållbarhetsmål.\n\nInitiativet påpekade att endast delar av oppositionen finns representerad i Kommunstyrelsens utskott för personalpolitik, trygghet och hållbarhet.\n\nKommunledningen föreslår möjlighet för utskottsledamöter att sammanfatta utskottens diskussioner och beslut under beredningssammanträden för löpande uppdateringar. Större förändringar rapporteras när de uppstår.\n\nSusanne Lindholm Henningsson (KD) yrkade bifall men majoritetens förslag att anse initiativet besvarat antogs.",
   "category": "politik",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 87",
   "tags": [
-    "ledamotsinitiativ",
     "strategi",
     "dragning",
-    "kommunstyrelsen"
+    "politik"
   ],
   "voting": {
     "for": [
@@ -21,23 +20,21 @@
       "L"
     ],
     "against": [],
-    "abstained": [
-      "KD"
-    ],
-    "result": "Avslag"
+    "abstained": [],
+    "result": "Bifall"
   },
-  "quote": "Kommunledningen tar med sig frågan för att diskutera och fundera på en eventuell struktur för att se hur arbetet ska gå till.",
+  "quote": "En möjlighet att tillgodose delar av ledamotsinitiativet att ledamöterna från utskotten få möjlighet att sammanfatta utskottens sammanträden under Kommunstyrelsens beredningssammanträde.",
   "quote_page": "s. 22",
   "meeting": {
-    "id": "2024-04-09_ko",
+    "id": "2024-04-09_Kommunstyrelsen",
     "date": "2024-04-09",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_87.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_87/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_87.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_87/"
   }
 }

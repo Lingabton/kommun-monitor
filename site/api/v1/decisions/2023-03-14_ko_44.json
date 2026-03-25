@@ -1,0 +1,35 @@
+{
+  "id": "2023-03-14_ko_44",
+  "headline": "Tillsynsplan 2023 för Kommunstyrelsens verksamhet fastställd",
+  "summary": "Kommunstyrelsen fastställde tillsynsplan 2023 baserad på risk- och väsentlighetsanalys av verksamheten.",
+  "detail": "I enlighet med riktlinjer för intern kontroll i Örebro kommun fastställs årlig tillsynsplan. Avdelningsdirektörer bidrog till risk- och väsentlighetsanalys enligt handbok 'Bätter koll med intern kontroll'. Fördjupade analyser genomfördes med sakkunniga. Prioriteringar och urval genomfördes för vidare förankring.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 44",
+  "tags": [
+    "tillsynsplan",
+    "intern kontroll",
+    "risk- och väsentlighetsanalys"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "I enlighet med Riktlinjer för intern kontroll i Örebro kommun ska nämnderna och bolagen varje år besluta om en tillsynsplan för uppföljning av intern kontroll.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_44.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_44/"
+  }
+}

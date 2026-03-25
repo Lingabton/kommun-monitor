@@ -1,0 +1,47 @@
+{
+  "id": "2025-01-21_ko_9",
+  "headline": "Landsbygdsdelegationens verksamhetsplan 2025 antagen",
+  "summary": "Verksamhetsplan för Landsbygdsdelegationen antagen. Delegationen fortsätter arbeta för hållbar utveckling och tillväxt på Örebro kommuns landsbygd.",
+  "detail": "Landsbygdsdelegationen är en delegation under Kommunstyrelsen som följer upp och samordnar landsbygdsfrågor i Örebro kommun. Delegationen arbetar långsiktigt och strategiskt för hållbar utveckling och tillväxt på kommunens landsbygd.\n\nMarkus Allard (ÖrP) yrka att delegationen inte ska ha någon verksamhet, medan Susanne Lindholm Henningsson (KD) yrka på att delegationen antingen ges större mandat med egen budget och tydligare resultatstyrning, eller läggs ned och målen bevakas genom ordinarie målstyrning i nämnderna. Båda reserverade sig.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 9",
+  "tags": [
+    "landsbygd",
+    "delegation",
+    "tillväxt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP",
+      "KD"
+    ],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Landsbygdsdelegationen är en delegation utgående från Kommunstyrelsen som följer upp och samordnar landsbygdsfrågor i Örebro kommun.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_9.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_9/"
+  }
+}

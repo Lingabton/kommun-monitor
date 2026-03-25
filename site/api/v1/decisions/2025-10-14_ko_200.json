@@ -1,16 +1,16 @@
 {
   "id": "2025-10-14_ko_200",
-  "headline": "Stockholm Business Alliance-medlemskap 2026-2030 förlängt",
-  "summary": "Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance (SBA) för perioden 2026-2030. Avgiften förblir oförändrad på 4 kr per invånare plus fast bidrag från Stockholm.",
-  "detail": "Örebro kommun har varit medlem i SBA under lång tid. Samarbetet omfattar 55 kommuner i storregionen Stockholm Mälardalen och fokuserar på näringslivsutveckling, nya investeringar, tillväxt i befintliga företag och förbättring av företagsklimatet.\n\nSBA genomför årliga servicemätningar (Nöjd Kundindex) och Örebro kommun deltar aktivt med flera förvaltningar. Samarbetet stärker möjligheterna till nya etableringar, internationell exponering och regionalt investeringsarbete samt ger utvecklingsmöjligheter för personal.\n\nFinansiering sker inom befintlig budgetram för Näringslivsavdelningen, Kommunledningsförvaltningen.\n\nHelena Ståhl (SD), David Larsson (SD) och Martha Wicklund (V) reserverade sig mot beslutet. De motsatte sig medlemskapet med hänvisning till kostnader utan tydligt resultat för kommunen.",
+  "headline": "Medlemskap i Stockholm Business Alliance 2026-2030 förnyat",
+  "summary": "Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance för perioden 2026-2030. SBA är ett samarbete mellan 55 kommuner i Stockholm Mälardalen för näringslivsutveckling.",
+  "detail": "SBA fokuserar på att främja nya investeringar, tillväxt i befintliga företag och utveckling av företagsklimatet genom mätningar som Nöjd Kundindex. Örebro kommun deltar aktivt med flera förvaltningar.\n\nVerksamheten finansieras genom medlemsavgifter baserade på 4 kr per invånare och ett fast bidrag från Stockholms stad. Avgiften för 2026-2030 är oförändrad från föregående period.\n\nSamarbetet stärker möjligheterna till nya etableringar, internationell exponering och regionalt investeringsarbete. Helena Ståhl (SD), David Larsson (SD) och Martha Wicklund (V) reserverade sig mot beslutet.",
   "category": "ovrigt",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 200",
   "tags": [
     "näringslivsutveckling",
+    "SBA",
     "samarbete",
-    "stockholm",
     "medlemskap"
   ],
   "voting": {
@@ -18,29 +18,27 @@
       "S",
       "M",
       "C",
-      "L",
       "KD",
-      "MP"
+      "L",
+      "MP",
+      "ÖrP"
     ],
     "against": [],
-    "abstained": [
-      "SD",
-      "V"
-    ],
+    "abstained": [],
     "result": "Bifall"
   },
-  "quote": "Teckna avtal med Stockholm Business Alliance (SBA) för perioden 2026-2030. Finansiering sker i befintlig budgetram för Näringslivsavdelningen, Kommunledningsförvaltningen.",
+  "quote": "SBA är ett samarbete mellan 55 kommuner i storregionen Stockholm Mälardalen som syftar till näringslivsutveckling och förbättrad kommunservice för företag.",
   "quote_page": "s. 12",
   "meeting": {
-    "id": "2025-10-14_ko",
+    "id": "2025-10-14_Kommunstyrelsen",
     "date": "2025-10-14",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_200.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_200/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_200.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_200/"
   }
 }

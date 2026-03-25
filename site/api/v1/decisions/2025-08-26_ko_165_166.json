@@ -1,0 +1,44 @@
+{
+  "id": "2025-08-26_ko_165_166",
+  "headline": "SD-motioner om motorgård och kulturarvsvecka avslagna",
+  "summary": "Motioner från Bjarne Bäckström om motorgård för ungdomar och från Carola Sunesson om återkommande kulturarvsvecka avslagna.",
+  "detail": "Bjarne Bäckström (SD) föreslog att Örebro kommun startar motorgård för ungdomar i närheten av centrala Örebro, antingen i egen regi eller i samarbete med föreningar.\n\nKultur- och fritidsnämnden rekommenderade avslag. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall, men majoriteteten röstade för avslag.\n\nCarola Sunesson och Bo Ammer (SD) föreslog årlig återkommande kulturarvsvecka inom befintlig verksamhet.\n\nKultur- och fritidsnämnden rekommenderade avslag. Helena Ståhl (SD) yrkade bifall (Markus Allard deltog inte i denna röstning). Ärendena ska vidare till Kommunfullmäktige.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 165, 166",
+  "tags": [
+    "ungdomar",
+    "kultur",
+    "fritid",
+    "kulturarv"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen behandlar möjligheten för Örebro kommun att starta upp en motorgård för ungdomar i närheten av centrala Örebro.",
+  "quote_page": "s. 14-15",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_165_166.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_165_166/"
+  }
+}

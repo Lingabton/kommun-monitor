@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-06_ko_28",
+  "headline": "Preliminärt bokslut 2023 godkänt med reservationen från V",
+  "summary": "Kommunstyrelsen godkände bokslutskommunikén för 2023 som preliminär rapport av årets ekonomiska utfall. Vänsterpartiet lämnade särskilt yttrande.",
+  "detail": "Bokslutskommunikén är en preliminär rapport som visar årets ekonomiska utfall. Den fullständiga årsredovisningen presenteras senare i mars i Kommunstyrelsen och i april i Kommunfullmäktige.\n\nMartha Wicklund (V) fick lämna ett särskilt yttrande till protokollet.\n\nKarolina Wallström (L), Susanne Lindholm (KD) och Martha Wicklund (V) deltog inte i beslutet.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 28",
+  "tags": [
+    "bokslut",
+    "ekonomi",
+    "2023"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "KD",
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Bokslutskommunikén är en preliminär rapport av årets ekonomiska utfall. Årsredovisningen som är en uppföljning av kommunens övergripande strategier med budget för 2023 (ÖSB) är under produktion.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_28.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_28/"
+  }
+}

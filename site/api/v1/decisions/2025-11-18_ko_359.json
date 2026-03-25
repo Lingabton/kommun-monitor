@@ -1,0 +1,44 @@
+{
+  "id": "2025-11-18_ko_359",
+  "headline": "Motion om hedersförtryck bedömdes redan besvarad",
+  "summary": "Kommunfullmäktige beslöt att motionen från Helena Ståhl (SD) om strategi mot hedersförtryck var redan besvarad.",
+  "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) motionerade om att kommunen skulle ta fram en kravställande strategi mot hedersförtryck och hederskultur. De menade att nuvarande handlingsplan mot våld i nära relationer saknade tillräckligt fokus på hedersproblematik.\n\nKommunledningsförvaltningen bedömde att Örebro kommun redan arbetar aktivt med att utveckla ny styrning för att bekämpa våld i nära relationer, hedersrelaterat våld och sexuell exploatering. Den nya strategin innehåller insatser för både utsatta och förövare. Ärendet anses därför besvarat. SD, OrP, KD och L reserverade sig.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 359",
+  "tags": [
+    "hedersförtryck",
+    "hedersvåld",
+    "strategi",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "OrP",
+      "KD",
+      "L"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun arbetar redan aktivt med att utveckla en ny styrning för att bekämpa våld i nära relationer, hedersrelaterat våld och sexuell exploatering.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_359.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_359/"
+  }
+}

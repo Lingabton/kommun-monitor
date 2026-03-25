@@ -1,0 +1,47 @@
+{
+  "id": "2023-11-22_ko_391",
+  "headline": "Förpackningsavfallstaxa för hämtning införs från 2024",
+  "summary": "Kommunfullmäktige antog en ny förpackningsavfallstaxa för fastighetsnära insamling av förpackningar i flerfamiljshus. Taxan gäller från 1 januari 2024.",
+  "detail": "Teknik- och servicenämnden har beslutat att Örebro kommun ska ha ett auktorisationssystem för hämtning av förpackningar (FNI) i flerfamiljshus från 1 januari 2024.\n\nKommunfullmäktige behövde sätta en taxa för hur mycket en tömning av ett kärl med förpackningsmaterial får kosta mot fastighetsägare. Taxan reglerar vad de auktoriserade privata entreprenörerna maximalt får ta betalt för fastighetsnära insamling.\n\nTaxan är avsedd att vara fristående från avfallstaxan för enklare administration och justeringar. Vänsterpartiet ville utvärdera totalkostnaden för återvinningen, men detta avslogs.",
+  "category": "miljö",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 391",
+  "tags": [
+    "avfallshantering",
+    "miljö",
+    "taxa",
+    "förpackningar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Taxan reglerar vad de auktoriserade privata entreprenörerna maximalt får ta betalt för att hämta förpackningar fastighetsnära i flerfamiljshus.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2023-11-22_Kommunfullmäktige",
+    "date": "2023-11-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-22_ko_391.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-22_ko_391/"
+  }
+}

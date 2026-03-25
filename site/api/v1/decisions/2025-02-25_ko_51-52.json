@@ -1,0 +1,45 @@
+{
+  "id": "2025-02-25_ko_51-52",
+  "headline": "Motioner om Örebro läns museum avslagna",
+  "summary": "Kommunfullmäktige avslog två motioner från Vänsterpartiet och Kristdemokraterna om att kommunen ska bli aktiv del av Örebro läns museum.",
+  "detail": "Martha Wicklund (V) och Susanne Lindholm Henningsson (KD) inlämnade separata motioner om att Örebro kommun åter ska bli en aktiv del i Stiftelsen Örebro läns museum. Ärendena bordlades flera gånger mellan oktober 2024 och januari 2025.\n\nKommunstyrelsen föreslog avslag på båda motionerna. Maria Haglund (M) och Willhelm Sundman (L) yrkade bifall till avslaget. Peter Ekström (V), Susanne Lindholm Henningsson (KD), Carola Sunesson (SD) och Lea Strandberg (MP) yrkade bifall till motionerna.\n\nOrdföranden ställde förslagen mot varandra för varje motion och fann att Kommunfullmäktige beslutade enligt avslaget. Totalt sex partier reserverade sig: V, KD, SD och MP reserverade sig för att vilja bifalla motionerna.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 51-52",
+  "tags": [
+    "museum",
+    "kultur",
+    "Örebro läns museum"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "C",
+      "KD",
+      "SD",
+      "MP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "I motionen föreslår Vänsterpartiet att Örebro kommun ska verka för att snart åter bli en del av Stiftelsen Örebro läns museum och vara med och ta ansvar för Örebro läns museum.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_51-52.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_51-52/"
+  }
+}

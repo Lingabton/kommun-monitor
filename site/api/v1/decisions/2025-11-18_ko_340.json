@@ -1,0 +1,35 @@
+{
+  "id": "2025-11-18_ko_340",
+  "headline": "Motion om ekonomiska fallskärmar dras tillbaka",
+  "summary": "Helena Ståhl och Habib Brini (SD) motion om begränsning av avgångsvederlag och ekonomiska fallskärmar drogs tillbaka.",
+  "detail": "Motionen yrkade på ändringar av styrdokument så att beslut om ekonomisk kompensation alltid fattades politiskt och aldrig kunde delegeras. Kommunledningsförvaltningen bedömde att motionens intentioner redan hanterades genom gällande rättsordning och befintliga rutiner.\n\nSD drog tillbaka motionen innan omröstning.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 340",
+  "tags": [
+    "avgångsvederlag",
+    "ekonomiska fallskärmar",
+    "motion"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Tillbakadragen"
+  },
+  "quote": "Kommunledningsförvaltningen bedömer att motionens intentioner redan hanteras genom gällande rättsordning, befintliga rutiner samt varje nämnds och kommunstyrelsens ansvar för sina delegationsordningar.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_340.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_340/"
+  }
+}

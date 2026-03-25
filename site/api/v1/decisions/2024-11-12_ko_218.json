@@ -1,0 +1,43 @@
+{
+  "id": "2024-11-12_ko_218",
+  "headline": "Program för uppföljning av privata utförare antaget",
+  "summary": "Kommunstyrelsen antar program för uppföljning av privat driftas och kommunal verksamhet. Nämnder får uppdrag att ta fram uppföljningsplaner.",
+  "detail": "Enligt nya bestämmelser i Kommunallagen från 1 juli 2024 ska fullmäktige anta ett program för uppföljning av privat driftas kommunala angelägenheter. Programmet ska gälla för alla utförare där det finns privata utförare – även för verksamhet i egen regi – för att säkerställa likvärdig kvalitet.\n\nMärtha Wicklund (V) yrkade avslag och ville att kommunen skulle återta all privatdrift i egen regi. Detta avslogs. Nämnder får nu uppdrag att ta fram uppföljningsplaner.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 218",
+  "tags": [
+    "privat drift",
+    "uppföljning",
+    "nämnder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det är viktigt att kommuninvånarna kan förutsätta att de tjänster som kommunen tillhandahåller har en likvärdig kvalitet och är föremål för kontroll och uppföljning oavsett om de utförs i egen regi eller av en privat utförare.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_218.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_218/"
+  }
+}

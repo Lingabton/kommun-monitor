@@ -1,0 +1,44 @@
+{
+  "id": "2024-02-06_ko_30",
+  "headline": "Tilläggsanslag 6,2 miljoner kronor beviljat för 2024",
+  "summary": "Kommunstyrelsen beviljade tilläggsanslag på totalt 6 248 tkr för kostnadsökningar och oförutsedda behov under 2024. Finansiering sker ur olika kassor för investeringskompensation och generella kostnadsökningar.",
+  "detail": "Ärendet innefattar både tilläggsanslag och ombudgetering för budgetåret 2024. Tilläggsanslaget kompenserar bland annat beslut som fattades i Kommunstyrelsen i januari. Ombudgetering berör flytt av medel mellan nämnder med grund i ramfördelningen till ny nämndstruktur för 2023.\n\nFinansiering sker ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar samt oförutsedda behov. Vänsterpartiet yrkat avslag på förslaget men minoriteten ställdes mot majoriteten.\n\nMarta Wicklund (V) reserverade sig mot beslutet. Markus Allard (ÖrP) deltog inte på grund av jäv.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 30",
+  "tags": [
+    "budget",
+    "kostnadsökningar",
+    "finansiering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas med totalt 6 248 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur Kommunstyrelsens utrymme för investeringskompensation, Kommunstyrelsens utrymme för generella kostnadsökningar samt ur Kommunstyrelsens utrymme för oförutsedda behov.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_30.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_30/"
+  }
+}

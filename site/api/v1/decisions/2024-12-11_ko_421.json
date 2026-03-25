@@ -1,0 +1,46 @@
+{
+  "id": "2024-12-11_ko_421",
+  "headline": "Nämndreglementets revision – ansvar för sociala hyreskontrakt flyttat",
+  "summary": "Kommunfullmäktige godkänner revidering av nämndreglementen för 2023-2026 för att förtydliga ansvaret för sociala hyreskontrakt.",
+  "detail": "I samband med ny politisk organisation 2023 flyttades ansvar för sociala hyreskontrakt från Kommunstyrelsen till Socialnämnden för att lösa organisatoriska mellanrum och oklarheter.\n\nNu visar sig nya organisatoriska mellanrum ha uppstått. Förslaget är att ansvaret för att teckna avtal med fastighetsägare och tillhörande hyresadministration tas bort från Kommunstyrelsens övergripande uppgifter och läggs på Socialnämnden.\n\nSocialnämnden har redan enligt Socialtjänstlagen ansvar för att bidra till samhällsplaneringen och främja boendelösningar. Kommunstyrelsen behåller övergripande strategiskt ansvar för kommunens lokalförsörjning.\n\nReglementet träder i kraft 1 januari 2025. ÖrP reserverade sig.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 421",
+  "tags": [
+    "nämndreglementen",
+    "sociala hyreskontrakt",
+    "organisering",
+    "ansvar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Reviderat förslag till nämndreglementen för mandatperioden 2023-2026 antas i enlighet med föreliggande förslag.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_421.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_421/"
+  }
+}

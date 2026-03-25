@@ -1,0 +1,44 @@
+{
+  "id": "2025-09-16_ko_179",
+  "headline": "Aktieöverlåtelse av fastighet Örebro Staven 5 för 63 mnkr",
+  "summary": "Kommunstyrelsen godkänner försäljning av fastigheten Örebro Staven 5 genom aktieöverlåtelse till Norrpalatset-koncernen. Försäljningen genererar en realisationsvinst på cirka 28,5 mnkr för kommunens bolag Kikapu i Örebro AB.",
+  "detail": "Örebroporten Fastigheter AB förvärvade fastigheten som del av ett fastighetspaket från Region Örebro län för att främja Eyrafältets utveckling för idrottsändamål. Fastigheten bedömdes dock olämplig för detta ändamål och är istället lämplig för bostadsändamål.\n\nFörsäljningen sker genom överlåtelse av aktierna i nybildade bolaget Mchawi Fastighet i Örebro AB (ägt av Kikapu i Örebro AB) till ett bolag inom Norrpalatset-koncernen. Köpeskillingen är 63 miljoner kronor, vilket genererar en preliminär realisationsvinst på cirka 28,5 miljoner kronor.\n\nMarku Allard (ÖrP) deltog inte på grund av jäv. Martha Wicklund (V) lämnade ett särskilt yttrande där Vänsterpartiet öppet förespråkar grönytor i centrala Örebro och kräver att köparen Norrpalatset tar socialt ansvar genom rimliga hyror även för örebroare med lägre ekonomiska förutsättningar.\n\nBeslutet ska vidare till Kommunfullmäktige för slutgiltig behandling.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro Staven 5",
+  "paragraph_ref": "§ 179",
+  "tags": [
+    "fastighetsförsäljning",
+    "Eyrafältet",
+    "bostäder",
+    "Norrpalatset",
+    "realisationsvinst"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Köpeskillingen baseras på ett överenskommet värde på fastigheten om 63 mnkr och innebär en preliminär realisationsvinst för Kikapu i Örebro AB med ca 28,5 mnkr.",
+  "quote_page": "s. 2",
+  "meeting": {
+    "id": "2025-09-16_Kommunstyrelsen",
+    "date": "2025-09-16",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-16_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-16_ko_179.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-16_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-16_ko_179/"
+  }
+}

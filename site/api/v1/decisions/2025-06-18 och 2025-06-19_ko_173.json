@@ -1,0 +1,44 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_173",
+  "headline": "Reviderat investeringsprogram 2025 godkänt, 1 377 mnkr",
+  "summary": "Kommunfullmäktige fastställde reviderat investeringsprogram för 2025 på totalt 1 377 miljoner kronor, varav 781 mnkr skattefinansierad och 596 mnkr taxefinansierad.",
+  "detail": "Det reviderade investeringsprogrammet för 2025 beslutas enligt förslaget. Kommunens totala investeringsutgifter för året uppgår till 1 377 miljoner kronor, vilket innebär en revidering jämfört med beslutet om Övergripande strategier och budget 2025 från oktober.\n\nAv summan avser 781 miljoner kronor skattefinansierade investeringar och 596 miljoner kronor taxefinansierade investeringar. Den kommunövergripande lokalförsörjningsplanen för 2025 har reviderats.\n\nBeräknade driftkostnadskonsekvenser uppgår för 2025 till 55 miljoner kronor, vilket innebär en minskning med 2 miljoner kronor jämfört med det tidigare beslutet om ÖSB 2025 från oktober 2024.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 173",
+  "tags": [
+    "investeringar",
+    "driftskostnader",
+    "lokalförsörjning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "L",
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Det reviderade investeringsprogrammet beslutas i enlighet med förslaget vilket innebär att kommunens totala investeringsutgifter 2025 uppgår till 1 377 mnkr.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_173.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_173/"
+  }
+}

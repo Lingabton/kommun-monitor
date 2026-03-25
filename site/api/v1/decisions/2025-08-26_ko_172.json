@@ -1,0 +1,45 @@
+{
+  "id": "2025-08-26_ko_172",
+  "headline": "8 nya motioner remitterade för beredning och utredning",
+  "summary": "Kommunfullmäktige har remitterat 8 nya motioner till nämnderna, bland annat om bussresor för pensionärer, maträtt i grundskolan och parkeringsavgifter.",
+  "detail": "8 motioner från SD, KD och ÖrP remitterades enligt följande:\n\n1. Fria bussresor för pensionärer (SD) - remitterad till Markplanerings- och exploateringsnämnden\n2. Fler hörande som kan svenskt teckenspråk (SD) - bereds av Kommunstyrelsen\n3. Stående maträtt i grundskolan (SD) - remitterad till Grundskolenämnden\n4. Nollbasbudget (SD) - bereds av Kommunstyrelsen\n5. Elevernas rätt att ta med matlåda till skolan (SD) - remitterad till Grundskole- och Gymnasie- och arbetsmarknadsnämnden\n6. Återinförande av lägre parkeringsavgift (KD) - remitterad till Teknik- och servicenämnden\n7. Krogarnas öppettider (ÖrP) - remitterad till Bygg- och miljönämnden\n8. Markeringar tio meter från korsningar (ÖrP) - remitterad till Teknik- och servicenämnden",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 172",
+  "tags": [
+    "motioner",
+    "remittering",
+    "beredning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "OrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommunfullmäktige har remitterat följande motioner till Kommunstyrelsen",
+  "quote_page": "s. 21-22",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_172.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_172/"
+  }
+}

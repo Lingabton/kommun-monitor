@@ -1,0 +1,36 @@
+{
+  "id": "2023-05-31_ko_178",
+  "headline": "Riktlinjer för exploatering bordlagda",
+  "summary": "Kommunfullmäktige bordlade ärendet om nya riktlinjer för exploatering, markanvisning och exploateringsavtal. SD, ÖrP reserverade sig.",
+  "detail": "Kommunledningsförvaltningen presenterade ett övergripande styrdokument för exploateringsverksamheten som sammanfogade tidigare styrdokument med nya avsnitt.\n\nRiktlinjerna inkluderar zonprisbild, medfinansieringsersättningskarta och mekanismer för prissättning av mark. Beslutspunkterna omfattade möjligheter för Markplanerings- och exploateringsnämnden att justerade zonpriser och zonindelning.\n\nKommunstyrelsen föreslog bifall. Helena Ståhl (SD), Bo Ammer (SD) och Markus Allard (ÖrP) reserverade sig mot beslutet.\n\nFull Fullmäktige beslutade att bordlägga ärendet för vidare behandling.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 178",
+  "tags": [
+    "exploatering",
+    "markanvisning",
+    "zonpriser",
+    "riktlinjer"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Riktlinjen är en sammanfogning av tidigare styrdokument inom verksamheten samt nya avsnitt.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-05-31_Kommunfullmäktige",
+    "date": "2023-05-31",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-31_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-31_ko_178.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-31_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-31_ko_178/"
+  }
+}

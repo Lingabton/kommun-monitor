@@ -1,0 +1,42 @@
+{
+  "id": "2026-02-10_ko_32",
+  "headline": "Motion om anonyma avgångsamtal från SD avslås",
+  "summary": "Kommunstyrelsen avslår SD:s förslag om att införa anonym funktion för tidigare anställda att berätta varför de slutade.",
+  "detail": "MOTIONENS FÖRSLAG: David Larsson (SD) förespråkade en funktion för anonyma avslutningssamtal som komplement till befintliga samtal, för att få sanningsenlig feedback om varför anställda slutar.\n\nKOMMUNLEDNINGENS SVAR: Ärendet avslås. Fokus ligger på befintliga avslutningssamtalsprocesser.\n\nMOTSTÅND: Helena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall men överröstas av majoritet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 32",
+  "tags": [
+    "personalpolitik",
+    "anställda",
+    "arbetsmiljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen innehåller förslag om att Örebro kommun ska införa en funktion för anonyma avslutningssamtal.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2026-02-10_Kommunstyrelsen",
+    "date": "2026-02-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-10_ko_32.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_32/"
+  }
+}

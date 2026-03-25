@@ -1,0 +1,43 @@
+{
+  "id": "2025-01-29_ko_18",
+  "headline": "SD:s motion om effektivering av kommunala processer delvis tillgodosedd",
+  "summary": "Motion om 30 procent kortare handläggning avslås, men två andra delar om LEAN-utbildning anses tillgodosedda.",
+  "detail": "Carola Sunesson (SD) och Bo Ammer (SD) motionerade om att Örebro kommun ska fokusera mer på kärnverksamheten och effektivisera administrativa processer. De föreslogs tre åtgärder: att korta ned liggtid och handläggning med minst 30 procent, att chefer identifierar tidsläckage, och att implementera LEAN-utbildning för alla chefer.\n\nKommunfullmäktige avslår första punkten (30-procents kortning) men anser andra och tredje punkten tillgodosedda. KD reserverade sig för att vilja se mer ambition kring de andra punkterna. Motionen var bordlagd sedan oktober 2024.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 18",
+  "tags": [
+    "effektivitet",
+    "processer",
+    "organisation"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "ÖrP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "KD"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Att korta ner samtlig liggtid och handläggning av ärenden, möten, föredragningar med åtminstone 30 procent.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_18.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_18/"
+  }
+}

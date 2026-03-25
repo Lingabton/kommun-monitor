@@ -1,0 +1,44 @@
+{
+  "id": "2025-10-22_ko_306",
+  "headline": "Reviderat investeringsprogram 2025 beslutat - 1 359 mnkr",
+  "summary": "Kommunfullmäktige beslutade om ett reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr, varav 780,6 mnkr är skattefinansierade och 578,6 mnkr taxefinansierade.",
+  "detail": "Efter revidering av 2025 års investeringsprogram uppgår det till 1 359,2 mnkr. Revideringarna avser både utökning och minskning av investeringsbudget samt ombudgetering mellan projekttyper och nämnder.\n\nDen kommunövergripande lokalförsörjningsplanen för 2025 reviderats, och de beräknade driftkostnadskonsekvenserna uppgår till 56,2 mnkr för 2025, en ökning med 1,2 mnkr jämfört med beslut om ÖSB 2025 i juni.\n\nÖrP, L och SD reserverar sig mot beslutet till förmån för sina egna budgetförslag. KD deltar inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 306",
+  "tags": [
+    "investeringar",
+    "budget",
+    "infrastruktur",
+    "lokalförsörjning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "ÖrP",
+      "L",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Årets revideringar avser både utökning och minskning av investeringsbudget samt ombudgetering av redan beslutade medel mellan projekttypen och nämnderna.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-10-22_Kommunfullmäktige",
+    "date": "2025-10-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_306.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-22_ko_306/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-19_ko_196",
+  "headline": "Motion om Rådhusets julkalender avslogs",
+  "summary": "Motion från Sverigedemokraterna om att återuppliva Rådhusets julkalender avslogs.",
+  "detail": "Bo Ammer (SD) och Helena Ståhl (SD) motionerade om att Örebro kommun ska utreda möjligheterna för att återuppliva Rådhusets julkalender i egen regi. Detta skulle kunna ske genom att ta över varumärket eller utveckla ett eget återkommande projekt med liknande koncept.\n\nMotionen avslogs. Helena Ståhl (SD) och Susanne Lindholm Henningsson (KD) yrkade på bifall men Kommunstyrelsen beslutade enligt avslaget.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Rådhuset",
+  "paragraph_ref": "§ 196",
+  "tags": [
+    "julkalender",
+    "Rådhuset",
+    "kultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen handlar om att utreda möjligheterna för att återuppliva Rådhusets julkalender i egen regi.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_196.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_196/"
+  }
+}

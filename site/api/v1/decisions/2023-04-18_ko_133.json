@@ -1,0 +1,43 @@
+{
+  "id": "2023-04-18_ko_133",
+  "headline": "Årsredovisning 2022 godkänd trots oenighet om resultatreserver",
+  "summary": "Kommunfullmäktige godkände årsredovisningen för 2022. Kommunkoncernen gjorde 504 miljoner kronor resultat. Vänsterpartiet avslog reservering av 19 miljoner till resultatutjämningsreserven.",
+  "detail": "Kommunkoncernens resultat uppgick till 504 miljoner kronor. Kommunens eget resultat var 297 miljoner kronor, vilket är 12 miljoner lägre än budgeterat. En gynnsam skatteintäktsutveckling och extra statsbidrag påverkade resultatet positivt, medan negativ utveckling av kapitalförvaltningens placeringar påverkade negativt.\n\nInvesteringarna uppgick till 3 023 miljoner kronor i koncernen och 811 miljoner i kommunen. Alla fyra finansiella mål och balanskravet uppnåddes. Dock uppnåddes endast 12 av 33 verksamhetsmål.\n\nVänsterpartiet motsatte sig beslutet att reservera 19 mnkr till resultatutjämningsreserven, då de anser RUR är ett trubbigt instrument. Vänsterpartiet ville inte öka reserverna till dess SKR:s utredning var klar.\n\nMartha Wicklund (V) deltog inte i beslutspunkt 1. Vänsterpartigruppen reserverade sig mot beslutspunkt 2.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 133",
+  "tags": [
+    "årsredovisning",
+    "budget",
+    "ekonomi",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Samtliga fyra finansiella mål och balanskravet uppnås. Den sammantagna bedömningen är att Örebro kommun inte uppfyller målen av betydelse för god ekonomisk hushållning. Mot bakgrund av att samtliga finansiella mål är uppfyllda, att kommunen har en stabil ekonomi och att nämnderna fortsatt bedriver sina grunduppdrag med god kvalitet är bedömningen dock att kommunen som helhet har en god ekonomisk hushållning.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-04-18_Kommunfullmäktige",
+    "date": "2023-04-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-18_ko_133.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-18_ko_133/"
+  }
+}

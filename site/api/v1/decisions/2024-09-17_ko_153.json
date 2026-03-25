@@ -1,0 +1,46 @@
+{
+  "id": "2024-09-17_ko_153",
+  "headline": "Pilotprojekt startar: seniorluncher vid fyra skolrestauranger",
+  "summary": "Kommunstyrelsen beslutar att starta pilotprojekt med seniorluncher vid fyra skolor från oktober 2024 för att motverka ensamhet bland äldre.",
+  "detail": "Kommunstyrelsen godkänner ett pilotprojekt för seniorluncher vid skolrestauranger från 14 oktober 2024 till slutet av vårterminen 2025. Projektet genomförs vid fyra skolor: Odenskolan, Vintrosa skola, Västra Engelbrektsskolan och Tullängsgymnasiet.\n\nSyftet är att motverka ofrivillig ensamhet hos äldre genom att erbjuda prisvärd och näringsrik mat samt möjlighet till social gemenskap över generationsgränserna. Projektet följer en ny riktlinje för seniorluncher som antas tillsammans med beslutet.\n\nJohn Johansson (S) föreslogs ändringar som accepterades för att klargöra att både rektorer och kökschefer ansvarar för verksamheten. Karolina Wallström (L) föreslog ändringar för att riktlinjerna ska gälla för alla skolrestauranger som säljer seniorluncher. Martha Wicklund (V) yrkade på att se över måltidsavgiften för att sänka den, men detta avslogs. Projektet ska utvärderas våren 2025.",
+  "category": "skola",
+  "contested": true,
+  "location": "Odenskolan, Vintrosa skola, Västra Engelbrektsskolan, Tullängsgymnasiet",
+  "paragraph_ref": "§ 153",
+  "tags": [
+    "seniorluncher",
+    "skolrestauranger",
+    "ensamhet",
+    "äldre"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunen ska erbjuda möjligheten för seniorer att äta lunch vid skolor där Örebro kommun är huvudman i syfte att motverka ofrivillig ensamhet hos äldre.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2024-09-17_Kommunstyrelsen",
+    "date": "2024-09-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-17_ko_153.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-17_ko_153/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-27_ko_319_320_321",
+  "headline": "Motioner om Örebrobostäder avslås - hyror och privatisering bekräftade",
+  "summary": "Kommunfullmäktige avslogs tre motioner från Vänsterpartiet om Örebrobostäder. Partiets krav på att avskaffa avkastningskrav, sänka hyror och öka allmännyttan förklarades omöjliga eller redan uppfyllda.",
+  "detail": "Vänsterpartiet lämnade tre motioner om Örebrobostäder AB (ÖBO) som alla avslogs av Kommunfullmäktige:\n\nMotion 1 (§319): Martha Wicklund och Linn Josefsson yrkade på att avskaffa avkastningskravet och sänka hyror. Kommunfullmäktige avslogs motionen. Bedömningen var att lag förbjuder avskaffandet av avkastningskravet och att ÖBO redan har låga hyror jämfört med andra regionhuvudstäder. En rabattstege gör det möjligt för fler att hyra nyproducerade bostäder.\n\nMotion 2 (§320): Motionen ville att ÖBO slutar sitt medlemskap i Fastighetsägarföreningen och reviderar ägardirektiven. Avslogs. Medlemskapet ger samarbetsmöjligheter och en organisationsöversyn ska genomföras. En generell hyressänkning skulle innebära stora nedskrivningar.\n\nMotion 3 (§321): Motionen ville att ÖBO driva mer i egen regi och pressar kostnaderna. Partierna menade att ÖBO redan är tillgänglig för alla genom låga hyror. Första och andra attsatsen avslogs, tredje tillgodoseddes.\n\nVänsterpartiet, Miljöpartiet och senare Örebro för Förändring reserverade sig mot besluten.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 319, 320, 321",
+  "tags": [
+    "Örebrobostäder",
+    "hyror",
+    "allmännyttan",
+    "välfärd",
+    "politik"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "ÖrP"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslagen"
+  },
+  "quote": "Det enligt Lag (2010:879) om allmännyttiga kommunala bostadsaktiebolag inte är möjligt att avskaffa avkastningskravet samt att Örebrobostäder AB idag har en snitthyra som ligger lägre än alla Regionhuvudstäder-, och bostadsbolag med fler än 10 000 bostäder",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_319_320_321.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_319_320_321/"
+  }
+}

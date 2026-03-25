@@ -1,0 +1,45 @@
+{
+  "id": "2023-09-19_ko_184",
+  "headline": "Arkiveringsplan reviderad för nya handlingstyper",
+  "summary": "Kommungemensam arkiveringsplan revideras med nya och reviderade handlingstyper gällande bevarande och gallring.",
+  "detail": "Kommunstyrelsen är arkivmyndighet för Örebro kommun och beslutar om handlingar för samtliga nämndområden och kommunala bolag. Revisering av arkiveringsplanen sker kontinuerligt enligt arkivreglemente antaget av Kommunfullmäktige.\n\nDen kompletta arkiveringsplanen med arkivmyndighetens beslut gällande bevarande och gallringsfrister finns tillgänglig både på intranätet och kommunens publika webb.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 184",
+  "tags": [
+    "arkivering",
+    "styrdokument",
+    "handlingar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "I den kommungemensamma arkiveringsplanen redovisas handlingar, oavsett media, för alla Örebro kommuns olika verksamheter och de av arkivmyndigheten antagna beslut som gäller för bevarande och gallring.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_184.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_184/"
+  }
+}

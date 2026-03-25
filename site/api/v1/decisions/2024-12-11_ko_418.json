@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-11_ko_418",
+  "headline": "Nya friköpspriser för tomträtter från 2026",
+  "summary": "Kommunfullmäktige beslutar att från 2026-01-01 basera friköpspriset för småhustomträtter på aktuellt marktaxeringsvärde istället för värden från 2009, med räknemodell på 70 procent.",
+  "detail": "Fastighetsenheten föreslår uppdatering av räknemodellen för friköpspriser på småhus (typkod 220). I dag används marktaxeringsvärde från 2009 som utgångspunkt.\n\nFörslaget är att från 2026-01-01 övergå till aktuellt marktaxeringsvärde och att sänka beräkningsvärdet från 73 procent till 70 procent. Marktaxeringsvärdet uppdateras vart tredje år (2024, 2027 och framåt).\n\nÖrebro Rådhus AB får i uppdrag att ingå tilläggsavtal för Region Örebro Innovation AB. Riktlinjer för exploatering uppdateras med den nya beräkningsmodellen.\n\nÖrP reserverade sig mot beslutet. Beslutet togs med bifallsyrkande från S.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 418",
+  "tags": [
+    "tomträtter",
+    "friköpspriser",
+    "marktaxeringsvärde",
+    "exploatering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Från och med 2026-01-01 baseras friköpspriset för en småhustomträtt (typkod 220) på följande uträkning: (Aktuellt marktaxeringsvärde vid årets början) x 0,70 = friköpspris.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_418.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_418/"
+  }
+}

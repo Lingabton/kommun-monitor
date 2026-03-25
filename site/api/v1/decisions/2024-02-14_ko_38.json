@@ -1,0 +1,46 @@
+{
+  "id": "2024-02-14_ko_38",
+  "headline": "Investeringsanslag 416,9 miljoner överförs från 2023 till 2024",
+  "summary": "Kommunfullmäktige beslutade att överföra investeringsanslag på 416,9 miljoner kronor från 2023 till 2024. Av dessa går 240,7 miljoner till skattefinansierade investeringar och 176,2 miljoner till taxefinansierade investeringar.",
+  "detail": "Ärendet gällde överföring av investeringsanslag från 2023 för pågående investeringsobjekt samt fastställande av intraprenadernas och digital arbetsplats ackumulerade resultat.\n\nIntraprenadernas resultat fastställdes till 21,5 miljoner kronor och Digital arbetsplats ackumulerade resultat till minus 25,7 miljoner kronor. Överförda anslag exkluderas från beräkningen av finansiella mål om självfinansieringsgrad för 2024.\n\nKommunstyrelsens förslag antogs med reservationer från SD, ÖrP, L och MP. SD, ÖrP, L och MP motsatte sig överföringarna med hänvisning till sina budgetförslag.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 38",
+  "tags": [
+    "investeringar",
+    "budget",
+    "anslag"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP",
+      "L",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Investeringsanslag på sammanlagt 416 884 tkr överförs från 2023 till 2024 i enlighet med kommunstyrelseförvaltningens förslag.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_38.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_38/"
+  }
+}

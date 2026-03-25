@@ -1,17 +1,17 @@
 {
   "id": "2025-10-14_ko_197",
-  "headline": "Reviderat investeringsprogram 2025: 1 359 mnkr totalt",
-  "summary": "Kommunstyrelsen godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr. Lokalförsörjningsdriftkostnader uppgår till 56,2 mnkr för året.",
-  "detail": "Investeringsprogrammet reviderats från det ursprungliga beslut som togs i juni 2025. Totalt investeras 1 359,2 mnkr, varav 780,6 mnkr är skattefinansierade och 578,6 mnkr taxefinansierade investeringar.\n\nDe kommunövergripande lokalförsörjningsplanens driftkostnadskonsekvenser har ökat med 1,2 mnkr jämfört med beslutet om ÖSB 2025.\n\nKarolina Wallström (L) och Helena Ståhl (SD) yrkat avslag till förmån för sina egna budgetförslag men förlorade. Både L och SD reserverade sig tillsammans med sina ersättare mot beslutet.",
+  "headline": "Investeringsprogram 2025 revideras till 1 359 miljarder kronor",
+  "summary": "Kommunstyrelsens godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr, omfattande 780,6 mnkr skattefinansierade och 578,6 mnkr taxefinansierade investeringar. Driftkostnadskonsekvenser beräknas till 56,2 mnkr.",
+  "detail": "Revideringen innebär både utökning och minskning av investeringsbudget samt ombudgetering mellan projekt och nämnder. De skattefinansierade investeringarna uppgår till 780,6 mnkr och de taxefinansierade till 578,6 mnkr.\n\nDen kommunövergripande lokalförsörjningsplanen för 2025 har reviderats med driftkostnadskonsekvenser på 56,2 mnkr, vilket är en ökning med 1,2 mnkr jämfört med beslutet om ÖSB 2025 i juni.\n\nKarolina Wallström (L) och Helena Ståhl (SD) yrkade avslag till förmån för sina egna budgetförslag. Både L och SD reserverade sig mot beslutet.",
   "category": "budget",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 197",
   "tags": [
-    "investering",
+    "budget",
+    "investeringar",
     "lokalförsörjning",
-    "infrastruktur",
-    "budget"
+    "driftskostnader"
   ],
   "voting": {
     "for": [
@@ -19,27 +19,25 @@
       "M",
       "C",
       "KD",
-      "MP"
+      "MP",
+      "ÖrP"
     ],
     "against": [],
-    "abstained": [
-      "L",
-      "SD"
-    ],
+    "abstained": [],
     "result": "Bifall"
   },
-  "quote": "Det reviderade investeringsprogrammet beslutas i enlighet med förslaget vilket innebär att kommunens totala investeringsutgifter 2025 uppgår till 1 359,2 mnkr.",
-  "quote_page": "s. 7",
+  "quote": "Efter revidering uppgår kommunens investeringsbudget till 1 359,2 mnkr för år 2025, varav 780,6 mnkr avser skattefinansierade investeringar och 578,6 mnkr taxefinansierade investeringar.",
+  "quote_page": "s. 6",
   "meeting": {
-    "id": "2025-10-14_ko",
+    "id": "2025-10-14_Kommunstyrelsen",
     "date": "2025-10-14",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_197.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_197/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_197.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_197/"
   }
 }

@@ -1,0 +1,43 @@
+{
+  "id": "2024-11-12_ko_220",
+  "headline": "Försäljning av fastigheter – 26 miljoner till Örebroporten",
+  "summary": "Kommunstyrelsen godkänner försäljning av del av Tankbilen 3 och Ånsta 20:134 till Örebroporten Fastigheter AB för 26 miljoner kronor.",
+  "detail": "Fastigheten används för parkering och servicefunktioner för tung trafik. Försäljningen möjliggör utveckling av fastigheten genom Örebroporten.\n\nMarkus Allard (ÖrP) yrkade på återremiss för att förtydliga affärens ändamål, i andra hand avslag. John Johansson (S) yrkade på att avgöra ärendet idag. Kommunstyrelsen beslutade enligt försäljningsförslaget.",
+  "category": "budget",
+  "contested": true,
+  "location": "Tankbilen 3, Ånsta",
+  "paragraph_ref": "§ 220",
+  "tags": [
+    "fastighetförsäljning",
+    "Örebroporten",
+    "exploatering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Fastigheten används i dag till parkering och andra servicefunktioner för tung trafik. Syftet med försäljningen är att möjliggöra för utveckling av fastigheten.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_220.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_220/"
+  }
+}

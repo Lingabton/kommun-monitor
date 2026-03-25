@@ -1,0 +1,40 @@
+{
+  "id": "2023-04-18_ko_136",
+  "headline": "Nerikes Brandkår årsredovisning godkänd enhälligt",
+  "summary": "Årsredovisning för Nerikes Brandkår 2022 godkändes. Förbundet gick med överskott på 1,8 miljoner kronor.",
+  "detail": "Nerikes Brandkår är ett kommunalförbund för räddningstjänst med nio medlemskommuner: Askersund, Hallsbergs, Kumla, Laxå, Lekeberg, Lindesberg, Ljusnarsberg, Nora och Örebro.\n\nFörbundet redovisade överskott på 1,8 miljoner kronor (6,7 miljoner 2021). Balanskravsresultatet var 3,4 miljoner kronor (7,1 miljoner 2021).",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 136",
+  "tags": [
+    "räddningstjänst",
+    "Nerikes Brandkår",
+    "årsredovisning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Nerikes Brandkår redovisar ett överskott på 1,8 mnkr. Balanskravsresultatet är 3,4 mnkr.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2023-04-18_Kommunfullmäktige",
+    "date": "2023-04-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-18_ko_136.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-18_ko_136/"
+  }
+}

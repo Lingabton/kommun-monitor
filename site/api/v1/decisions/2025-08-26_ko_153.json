@@ -1,0 +1,43 @@
+{
+  "id": "2025-08-26_ko_153",
+  "headline": "Tilläggsanslag 140,8 miljoner för löneöversyn och lokalförsörjning",
+  "summary": "Kommunstyrelsen beviljar tilläggsanslag på totalt 140 819 tkr för bland annat löneöversyner och färdigställda lokalförsörjningsobjekt. Finansiering sker från KS utrymme för oförutsedda behov och generella kostnadsökningar.",
+  "detail": "Ärendet omfattar tilläggsanslag för budgetåret 2025 avseende kostnadsökningar och oförutsedda kostnader. Huvuddelen går till kompensation för årlig löneöversyn till nämnderna samt färdigställda lokalförsörjningsobjekt.\n\nKarolina Wallström (L) yrkade avslag på 13,5 miljoner kronor till Vård- och omsorgsnämnden för korttidsplatser, med hänvisning till otydligt samarbete mellan kommun och region samt höga kostnader utan klarlagd budget för nästa år. Helena Ståhl (SD) yrka på att ta bort 1 miljoner till Sommartorg 2025. Markus Allard (ÖrP) yrkade avslag på hela ärendet.\n\nKommunstyrelsen beslutade enligt Kommunledningsförvaltningens ursprungliga förslag. Susanne Lindholm Henningsson (KD) fick lämna särskilt yttrande där hon förespeglade att omkostade platser på Ölmbrogården borde återöppnas istället för ny avdelning på USÖ.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 153",
+  "tags": [
+    "budget",
+    "löneöversyn",
+    "lokalförsörjning",
+    "korttidsvård"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas med totalt 140 819 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur KS utrymme för oförutsedda behov, KS utrymme för generella kostnadsökningar samt från KS utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_153.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_153/"
+  }
+}

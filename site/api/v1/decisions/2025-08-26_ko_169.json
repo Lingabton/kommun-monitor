@@ -1,0 +1,44 @@
+{
+  "id": "2025-08-26_ko_169",
+  "headline": "Cirkulationsbibliotek motion avslagna: inte folkbibliotekets uppgift",
+  "summary": "Motion från Johanna Reimfelt och Mats-Olof Liljegren (L) om cirkulationsbibliotek med klassuppsättningar för skolor avslagna.",
+  "detail": "Johanna Reimfelt och Mats-Olof Liljegren (L) föreslog att Örebro kommun utvecklar cirkulationsbibliotek där folkbiblioteket köper in och tillhandahåller klassuppsättningar till grundskolorna.\n\nKultur- och fritidsförvaltningen och Förskole- och grundskoleförvaltningen bedömde att denna typ av verksamhet inte är en uppgift för folkbiblioteket utan för grundskolan. I dagsläget finns ingen bedömd behov eller förutsättningar för centralt cirkulationsbibliotek, men viktig att skapa förutsättningar för samarbete mellan skolbibliotek och folkbibliotek.\n\nMotionen återremitterades 31 mars 2025 för att utreda förutsättningar och ekonomiska aspekter.\n\nKarolina Wallström (L), Helena Ståhl (SD), Martha Wicklund (V) och Markus Allard (ÖrP) yrkade bifall, men kommunstyrelsen avslogs motionen. Ärendet ska vidare till Kommunfullmäktige.",
+  "category": "skola",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 169",
+  "tags": [
+    "bibliotek",
+    "skola",
+    "läsning",
+    "ungdomar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Förvaltningarna är överens om att den typ av verksamhet som föreslås i motionen dock inte är en fråga för folkbiblioteket utan snarare för grundskolan.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_169.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_169/"
+  }
+}

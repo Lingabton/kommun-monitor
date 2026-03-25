@@ -1,0 +1,42 @@
+{
+  "id": "2025-03-18_ko_62",
+  "headline": "Motion om välfärd i kommunal regi avslogs – LoV behålls",
+  "summary": "Kommunstyrelsen avslog Västerpartiet motion om att avsluta lagen om valfrihet (LoV) och sluta med vinstdrivna välfärdsföretag.",
+  "detail": "Martha Wicklund (V) motionerade för att avsluta tillämpningen av LoV (lagen om valfrihet) samt att avsluta entreprenader med vinstdrivna företag. Kommunledningen föreslog avslag.\n\nKommunledningen poängterade att kommunen regelbundet följer upp kvaliteten på externa aktörer på samma sätt som verksamhet bedrivs i intern regi. Enligt tidigare gjorda uppföljningar bedöms kvaliteten som bra.\n\nDen reglerade av kommunledningen överenskommelse mellan Socialdemokraterna, Moderaterna och Centerpartiet föreskriver att LoV ska behållas under mandatperioden. Detta är en central del av kommunledningens styrning.\n\nCristian Rehn Janowicz (V) yrkal bifall till motionen.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 62",
+  "tags": [
+    "LoV",
+    "välfärd",
+    "privata utförare",
+    "vinstdrivna företag"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Kommunledningen arbetar enligt den överenskommelse som ingåtts mellan S, M och C och där vi enats om att behålla LOV under mandatperioden.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_62.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_62/"
+  }
+}

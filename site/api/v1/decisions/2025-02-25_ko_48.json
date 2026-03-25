@@ -1,0 +1,47 @@
+{
+  "id": "2025-02-25_ko_48",
+  "headline": "Riktlinjer för bostadsförsörjning antagna efter omstridda debatter",
+  "summary": "Kommunfullmäktige antog riktlinjer för bostadsförsörjning enligt lag. Fem partier ville återremittera eller avslå ärendet med olika motiv om boendesegregation, småhus och välfärdsbrottslighet.",
+  "detail": "Enligt lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje kommun genom riktlinjer planera för bostadsförsörjningen. Riktlinjerna innehåller Örebro kommuns mål för bostadsförsörjningen och insatser för att uppnå målen, samt analyser av demografisk utveckling och marknadsförutsättningar.\n\nKommunstyrelsen behandlade ärendet den 11 februari 2025. Martha Wicklund (V) yrkade återremiss för att förstärka formuleringarna kring varsam renovering kopplat till ÖBOs bestånd och adressera boendesegregation. Susanne Lindholm Henningsson (KD) yrkade återremiss för att lägga till förslag om boendesegregation, välfärdsbrottslighet, hemlöshet och Trädgårdsstad. Helena Ståhl (SD) yrkade återremiss för att anpassa riktlinjerna till SD:s prioriteringar kring småhus och bostadsrätter. Lea Strandberg (MP) yrkade återremiss för att uppdatera enligt bostadsefterfrågan. Liberalerna yrkade avslag för friare bostadsplanering.\n\nOrdföranden ställde återremissyrkandena mot varandra. Vänsterpartiets förslag fick flest röster och blev motförslag. Slutligen ställde ordföranden Vänsterpartiets förslag mot Kommunstyrelsens förslag och fann att Kommunfullmäktige beslutade enligt Kommunstyrelsens förslag.\n\nSex partier reserverade sig: SD, ÖrP, V, MP, L och KD.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 48",
+  "tags": [
+    "bostäder",
+    "boendesegregation",
+    "riktlinjer",
+    "Mark&Exploatering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP",
+      "V",
+      "MP",
+      "L",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Riktlinjerna ska kunna tillämpas förvaltnings- och bolagsövergripande och ska även fungera som underlag till kommunens översiktsplan.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_48.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_48/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2024-05-07_ko_102",
+  "headline": "Hemlöshetskartläggning presenterad, förebyggande arbete omstritt",
+  "summary": "Kommunstyrelsen godtog hemlöshetskartläggning men avslög Kristdemokraternas förslag om ökat stöd till civilsamhällesaktörer och fler boendeformer för akut hemlösa.",
+  "detail": "En ny hemlöshetskartläggning genomfördes enbart inom Örebro kommun och visar att kommun ligger bland jämförbara kommuner med flest hemlösa - och högst när det gäller akut hemlöshet.\n\nKristdemokraterna (Susanne Lindholm Henningsson), Sverigedemokraterna (Helena Ståhl) och Örebro för Förändring (Markus Allard) yrkade bifall till förslag om: ökat arbete med hemlöshetsförebyggande, snabbare etablering av fler och olika boendeformer för akut hemlösa, samverkan med erfarna civilsamhällesaktörer och ökat ekonomiskt stöd till dessa.\n\nOrdförande John Johansson (S) yrkade avslag på förslaget. Martha Wicklund (V) fick lämna särskilt yttrande till protokollet.",
+  "category": "trygghet",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 102",
+  "tags": [
+    "hemlöshet",
+    "socialt arbete",
+    "civilsamhälle",
+    "utsatta"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "V"
+    ],
+    "against": [
+      "KD",
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag på tilläggsyrkanden"
+  },
+  "quote": "Kartläggningen som genomförts enbart inom Örebro kommun visar att just den akuta hemlösheten var större än man befarat.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_102.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_102/"
+  }
+}

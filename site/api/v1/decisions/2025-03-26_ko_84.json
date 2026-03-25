@@ -1,0 +1,46 @@
+{
+  "id": "2025-03-26_ko_84",
+  "headline": "Flera motioner bordlades för senare behandling",
+  "summary": "Ordföranden Jan Zetterqvist (S) yrkade på att bordlägga återstående ärenden från dagordningen. Efter votering godkändes detta med 45 ja-röster mot 18 nej-röster, trots SD:s protester.",
+  "detail": "Vid slutet av mötet uppstod en procedurell konflikt. Ordförande Jan Zetterqvist (S) yrkade på att alla återstående motioner och ärenden skulle bordläggas för senare behandling. Helena Ståhl (SD) motsatte sig detta och yrkade på att ärendena skulle avgöras samma dag.\n\nEnlig reglerna för propositionsordning ställdes förslagen mot varandra. Fullmäktige röstade: 45 ja-röster för bordläggning mot 18 nej-röster. SD reserverade sig mot beslutet.\n\nBordlades motioner om suicidprevention (Reimfelt/Wallström L), lönekostnader (Ståhl SD), konsulttjänster (Wicklund V), skolklassstorlekar (Liljegren L), och enprocentsregeln (Wicklund V). Detta påverkade många örebropolitiker negativt.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 84",
+  "tags": [
+    "procedur",
+    "bordläggning",
+    "politisk taktik"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall till bordläggning"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) finner att det finns två förslag, det vill säga ordförandens eget yrkande om att ärendena bordläggs respektive Helena Ståhls (SD) yrkande om att resterande ärenden ska avgöras idag.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-03-26_Kommunfullmäktige",
+    "date": "2025-03-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-26_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-26_ko_84.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-26_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-26_ko_84/"
+  }
+}

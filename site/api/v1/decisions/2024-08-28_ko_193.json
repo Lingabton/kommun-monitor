@@ -1,0 +1,41 @@
+{
+  "id": "2024-08-28_ko_193",
+  "headline": "FRITTE fritidsgård får förstärkt finansiering",
+  "summary": "Kultur- och fritidsnämnden får 600 000 kronor extra till teckenspråkig fritidsgård för att säkerställa öppettider och bemanning.",
+  "detail": "Miljöpartiet de gröna motionerade för stärkt finansiering av fritidsgården FRITTE, som drivs för döva och hörselskadade ungdomar. Kommunledningen (S, M, C) delade bedömningen att FRITTE behövde förstärkning.\n\nKommunfullmäktige beslutade att motionen anses tillgodosedd. Kultur- och fritidsnämnden ökar verksamhetsbidraget med 600 000 kronor.\n\nDen ekonomiska förstärkningen möjliggör två heltidsanställda, minst tre personal per kväll, och viss sommarverksamhet. Detta säkerställer att FRITTE kan fortsätta vara en viktig mötesplats för teckenspråkiga ungdomar.\n\nMotionen hade bordlagts flera gånger sedan februari 2024 innan den slutligen behandlades.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Fritte fritidsgård",
+  "paragraph_ref": "§ 193",
+  "tags": [
+    "FRITTE",
+    "fritidsgård",
+    "döva",
+    "teckenspråk",
+    "kultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Den ekonomiska förstärkningen leder bl.a. till att Fritte kan ha två heltidsanställda och att bemanningen blir minst tre personal per kväll.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_193.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_193/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2023-11-13_ko_228",
+  "headline": "Nya avfallsföreskrifter för kommunen gäller från årsskiftet",
+  "summary": "Kommunstyrelsen godkänner nya Föreskrifter om avfallshantering i Örebro kommun 2024, gällande från 1 januari 2024.",
+  "detail": "Avfallsverksamheten presenterar reviderade avfallsföreskrifter för Örebro kommun. Förslaget visar ändringar inför samråd och tillägg efter offentlig utställning.\n\nFöreskrifterna fastställs med stöd av miljöbalken (1998:808) och avfallsförordningen (2020:614).\n\nÖrebro för Polen avslogar förslaget och reserverar sig.\n\nÄrendet går vidare till Kommunfullmäktige.",
+  "category": "regler",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 228",
+  "tags": [
+    "avfallshantering",
+    "föreskrifter",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Avfallsverksamheten lämnar förslag till reviderade avfallsföreskrifter för Örebro kommun att börja gälla 1 januari 2024.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_228.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_228/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-03_ko_252",
+  "headline": "Vattenskyddsområde Eker reviderat och ansökt",
+  "summary": "Kommunstyrelsen ansökte om revidering av det befintliga vattenskyddsområdet Eker med uppdaterade skyddsföreskrifter.",
+  "detail": "Vattenskyddsområde Eker fastställdes av Länsstyrelsen 1997. Teknik- och serviceförvaltningen genomförde en översyn av områdets utsträckning och föreskrifternas innehål baserat på riskanalys och vattenkvalitetsanalys.\n\nDet reviderade förslaget lämnas till Länsstyrelsen för godkännande. Susanne Lindholm Henningsson (KD) och Helena Ståhl (SD) lämnade särskilda yttranden med samma poänger som för Gäddesta - vikten av kompensation till berörda och bättre kommunikation.",
+  "category": "miljo",
+  "contested": false,
+  "location": "Eker",
+  "paragraph_ref": "§ 252",
+  "tags": [
+    "vatten",
+    "miljö",
+    "skydd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "För att säkerställa skyddet av grundvattenmagasinet för Ekers vattentäkt har Örebro kommun gjort en översyn av det befintliga vattenskyddsområdets utsträckning och skyddsföreskrifternas innehål.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_252.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_252/"
+  }
+}

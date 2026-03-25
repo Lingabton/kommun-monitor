@@ -1,19 +1,19 @@
 {
   "id": "2025-10-14_ko_206",
-  "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
-  "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
-  "detail": "Beslutet innebär att Örebro kommun tillsammans med Region Örebro län fortsätter implementeringen av Bus Rapid Transit enligt en genomförandeplan för etapp 2. Projektet syftar till att skapa ett attraktivt och kapacitetsstarkt kollektivtrafiksystem.\n\nFärdigställelsen av etapp 1 beräknas under 2025. Utvärderingen visar att resandet har ökat och prognosen pekar på en resandeökning på 18% för 2025 jämfört med 2023. Restiden mellan Örebro Resecentrum och Brickebacken har minskat med cirka 30% (cirka 8 minuter).\n\nMålet för det fullständiga BRT-systemet är att öka resandet med 40% tre år efter färdigställandet av etapp 2 och att minska restiden med 30%.\n\nTilläggsyrkanden antogs:\n- Kristdemokraterna yrkat och fick bifall för att särskilt beakta och i god förväg kommunicera förändringar till berörda näringsidkare och invånare\n- Vänsterpartiet yrkat och fick bifall för att i arbetet med BRT beakta frågan om pendlarparkeringar i anslutning till stråket\n- Vänsterpartiet yrkat om prissänkning i stadstrafiken men detta avslogs\n\nKarolina Wallström (L) och Helena Ståhl (SD) motsatte sig projektet helt, menade att det är kostsamt och försämrar framkomligheten. Vänsterpartiet reserverade sig mot avslaget på prisfrågan.",
+  "headline": "Bus Rapid Transit etapp 2 godkänd - fokus på pendlarparkeringar",
+  "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med nya utgångspunkter om kommunikation med näringsidkare och pendlarparkering. Investeringen syftar till snabbare buskörning och ökat resande.",
+  "detail": "Projektet etapp 1 färdigställs 2025 med positiva effekter: resandet har ökat 18 procent 2023-2025, punktligheten förbättrats och restiden minskat med cirka 8 minuter mellan Resecentrum och Brickebacken.\n\nEtapp 2 ska bygga ut BRT enligt samma principer. Målet är öka resandet med 40 procent tre år efter färdigställandet och minska restiden med 30 procent från ändhållplats till Resecentrum. Projektet förväntas bidra till minskade luftföroreningar, förbättrad integration och attraktivare stadsmiljö.\n\nKommunstyrelsen lade till två villkor på initiativ av KD, S och V:\n- Särskild hänsyn till näringsidkare med god förväg kommunikation av förändringar\n- Pendlarparkeringar i anslutning till stråket ska beaktas\n\nV yrkat att genomförandeplanen ska inkludera översyn av taxor - detta avslogs.\n\nL och SD reserverade sig mot beslutet.",
   "category": "infrastruktur",
   "contested": true,
-  "location": "Örebro, Vivalla, Lundby, Mellringe, Tegnérlunden",
+  "location": "Örebro stad",
   "paragraph_ref": "§ 206",
   "tags": [
     "BRT",
     "kollektivtrafik",
+    "buss",
     "infrastruktur",
-    "parkering",
-    "stadstrafik",
-    "resande"
+    "pendlarparkering",
+    "näringslivskommunikation"
   ],
   "voting": {
     "for": [
@@ -22,27 +22,25 @@
       "C",
       "KD",
       "V",
-      "MP"
+      "MP",
+      "ÖrP"
     ],
     "against": [],
-    "abstained": [
-      "L",
-      "SD"
-    ],
+    "abstained": [],
     "result": "Bifall"
   },
-  "quote": "Tillsammans med Region Örebro län ingå \"samarbetsavtal avseende Bus Rapid Transit (BRT) etapp 2 i Örebro\" för att fortsätta införandet av BRT.",
+  "quote": "Målet för det fullständiga BRT-systemet är att öka resandet med 40 % tre år efter färdigställandet av etapp 2 och att minska restiden med 30 % från ändhållplats till resecentrum. Utöver förbättrade restider och ökat resande förväntas projektet bidra till minskade luftföroreningar, förbättrad integration och en mer attraktiv stadsmiljö.",
   "quote_page": "s. 20-22",
   "meeting": {
-    "id": "2025-10-14_ko",
+    "id": "2025-10-14_Kommunstyrelsen",
     "date": "2025-10-14",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_206.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_206/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_206.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_206/"
   }
 }

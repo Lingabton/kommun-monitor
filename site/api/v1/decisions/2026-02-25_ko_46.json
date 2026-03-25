@@ -1,0 +1,46 @@
+{
+  "id": "2026-02-25_ko_46",
+  "headline": "Gustavsvik Resorts AB privatiseras genom upphandling",
+  "summary": "Kommunfullmäktige godkänner upphandling av driften av Gustavsviksanläggningen (bad och camping). GRAB omvandlas till fastighetsägare medan extern aktör driver verksamheten.",
+  "detail": "Gustavsvik Resorts AB ägs till 100 procent av Örebroporten Fastigheter AB och driver bad- och campinganläggningen. Kommunen har genomfört en upphandling enligt lagen om upphandling av tjänstekoncessioner (LUK) för att renodla GRAB till fastighetsägare medan en extern aktör med erfarenhet inom branschen övertar driften.\n\nKommunfullmäktige godkänner tre beslutspunkter: genomförandet av upphandlingen och omvandlingen av GRAB:s verksamhetsinriktning, att godkännandet gäller även vid eventuella rättningar eller omgöringar av upphandlingen under förutsättning att ändringar inte är av principiell beskaffenhet, samt att Örebroporten Fastigheter AB får godkännande att fusionera eller likvidera GRAB när bolaget bedömer det lämpligt.\n\nMartha Wicklund (V) och Markus Allard (ÖrP) reserverade sig mot beslutet och yrkade på avslag för att kommunen skulle behålla och fortsätta driva Gustavsvik inom den kommunala koncernen. Övriga partier stödde Kommunstyrelsens förslag.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Gustavsvik",
+  "paragraph_ref": "§ 46",
+  "tags": [
+    "Gustavsvik",
+    "privatisering",
+    "upphandling",
+    "fritid"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "GRAB renodlas till ett fastighetsägande bolag och en extern aktör med erfarenhet och kompetens inom branschen driver verksamheten inom Gustavsviksanläggningen.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2026-02-25_Kommunfullmäktige",
+    "date": "2026-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-25_ko_46.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-25_ko_46/"
+  }
+}

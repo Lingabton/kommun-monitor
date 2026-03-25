@@ -4,180 +4,1005 @@
   "color": "#f47920",
   "position": "Opposition",
   "ideology": "Lokalt parti",
-  "votes_for": 3,
-  "votes_against": 14,
-  "votes_abstained": 2,
-  "total_votes": 19,
+  "votes_for": 83,
+  "votes_against": 113,
+  "votes_abstained": 112,
+  "total_votes": 308,
   "contested_votes": [
     {
-      "id": "2025-12-10_ko_390_391",
-      "headline": "Motioner om farligt gods och motorgård avslagna",
+      "id": "2026-02-25_ko_46",
+      "headline": "Gustavsvik Resorts AB privatiseras genom upphandling",
+      "date": "2026-02-25"
+    },
+    {
+      "id": "2026-01-27_ko_2_3_4_5",
+      "headline": "Flera SD-motioner bordlades på ordförandens initiativ",
+      "date": "2026-01-27"
+    },
+    {
+      "id": "2025-12-10_ko_390",
+      "headline": "Motion om farligt gods-transporter avslås",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-12-10_ko_394_395",
-      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "id": "2025-12-10_ko_391",
+      "headline": "Motion om motorgård för ungdomar avslås",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2025-12-10_ko_394",
+      "headline": "Motion om medborgarinflytande på arkitektur avslås",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2025-12-10_ko_395",
+      "headline": "Motion om cirkulationsbibliotek avslås efter votering",
+      "date": "2025-12-10"
+    },
+    {
+      "id": "2025-12-10_ko_396",
+      "headline": "Carina Börjesson (M) blir förste vice ordförande",
       "date": "2025-12-10"
     },
     {
       "id": "2025-12-10_ko_397-417",
-      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
+      "headline": "Motioner om toaletter, värmestuga och flera andra bordläggs",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-12-10_ko_389",
-      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
-      "date": "2025-12-10"
+      "id": "2025-11-11_ko_225",
+      "headline": "Reviderad konstpolicy antas trots kritik från högern",
+      "date": "2025-11-11"
     },
     {
-      "id": "2025-08-27_ko_228",
-      "headline": "Många SD-motioner bordlagda för senare behandling",
+      "id": "2025-11-11_ko_226",
+      "headline": "Örebro tillstyrker förbättrat informationsutbyte mellan myndigheter",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "2025-11-11_ko_227",
+      "headline": "Örebro stödjer regional handlingsplan för civilsamhälle",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "2025-11-11_ko_228",
+      "headline": "Kommun stödjer skärpad lagstiftning mot korruption",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "2025-11-11_ko_231",
+      "headline": "Motion om att riva fontänen på Järntorget avslås",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "2025-11-11_ko_232",
+      "headline": "Motion om att rensa bland styrdokument delvis tillgodosedd",
+      "date": "2025-11-11"
+    },
+    {
+      "id": "2025-10-22_ko_305",
+      "headline": "Delårsrapport prognos 2 2025 godkänd",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-10-22_ko_306",
+      "headline": "Reviderat investeringsprogram 2025 beslutat - 1 359 mnkr",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-10-22_ko_307",
+      "headline": "Tilläggsbudget 2026 och taxor beslutade",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-10-22_ko_310",
+      "headline": "Samarbetsavtal Bus Rapid Transit etapp 2 godkänt",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-10-22_ko_308",
+      "headline": "Sammanträdestider Kommunfullmäktige 2026 fastställda",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-10-22_ko_314-331",
+      "headline": "Motioner om integration, hedersförtryck och trygghet bordlagda",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-10-22_ko_319-328",
+      "headline": "Motioner om kulturarv, bibliotek och toaletter bordlagda",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-09-24_ko_269",
+      "headline": "Motion om fossil reklam avslås",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "2025-09-24_ko_271",
+      "headline": "Närkeslätt-motion avslås efter omröstning",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "2025-09-24_ko_273",
+      "headline": "Motion om väg för lantbruksmaskiner avslås",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "2025-08-27_ko_228-251",
+      "headline": "Flera motioner om SD-förslag bordlades utan behandling",
       "date": "2025-08-27"
     },
     {
-      "id": "2025-02-11_ko_29",
-      "headline": "360 MSEK investeringsanslag överförda från 2024 till 2025",
-      "date": "2025-02-11"
+      "id": "2025-06-18 och 2025-06-19_ko_172",
+      "headline": "Övergripande strategier och budget 2026 fastställd",
+      "date": "2025-06-18"
     },
     {
-      "id": "2025-02-11_ko_38",
-      "headline": "Riktlinjer för bostadsförsörjning antagna till Kommunfullmäktige",
-      "date": "2025-02-11"
+      "id": "2025-06-18 och 2025-06-19_ko_173",
+      "headline": "Reviderat investeringsprogram 2025 godkänt, 1 377 mnkr",
+      "date": "2025-06-18"
     },
     {
-      "id": "2025-02-11_ko_29",
-      "headline": "36,7 MSEK ackumulerat resultat från intraprenader överförda till 2025",
-      "date": "2025-02-11"
+      "id": "2025-06-18 och 2025-06-19_ko_175",
+      "headline": "Reservationsavtal med Epiroc för Kränglan 3:1 godkänt",
+      "date": "2025-06-18"
     },
     {
-      "id": "2025-02-11_ko_31",
-      "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
-      "date": "2025-02-11"
+      "id": "2025-06-18 och 2025-06-19_ko_176",
+      "headline": "Reservationsavtal med Epiroc för Ånsta 20:209 godkänt",
+      "date": "2025-06-18"
     },
     {
-      "id": "2024-04-09_ko_76",
-      "headline": "Örebroporten förvärvar sex fastigheter från Region Örebro Län",
-      "date": "2024-04-09"
+      "id": "2025-06-18 och 2025-06-19_ko_183",
+      "headline": "Delårsrapport prognos 1 för 2025 godkänd, ekonomi i obalans",
+      "date": "2025-06-18"
     },
     {
-      "id": "2024-04-09_ko_72",
-      "headline": "Tilläggsanslag på 127,6 miljoner kronor för kostnadsökningar 2024",
-      "date": "2024-04-09"
+      "id": "2025-06-18 och 2025-06-19_ko_185",
+      "headline": "Motion om redovisning av hela lönekostnaden avslagna",
+      "date": "2025-06-18"
     },
     {
-      "id": "2024-04-09_ko_76",
-      "headline": "Örebroporten ska investera i elitidrottscenter – 154 miljoner kronor",
-      "date": "2024-04-09"
+      "id": "2025-06-18 och 2025-06-19_ko_189",
+      "headline": "Motion om upprättelse för konsten avslagna",
+      "date": "2025-06-18"
     },
     {
-      "id": "2024-04-09_ko_77",
-      "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
-      "date": "2024-04-09"
+      "id": "2025-06-18 och 2025-06-19_ko_184",
+      "headline": "Rapport ej verkställda LSS/SoL-beslut avslagna, ingen åtgärdsplan",
+      "date": "2025-06-18"
     },
     {
-      "id": "2024-04-09_ko_86",
-      "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan avslogs",
-      "date": "2024-04-09"
+      "id": "2025-06-10_ko_141_142_143",
+      "headline": "Markområden till Peab och Epiroc för bostäder och industri",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "2025-04-23_ko_109",
+      "headline": "Årsredovisning 2024 godkänd, 645 mnkr resultat",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "2025-04-23_ko_110",
+      "headline": "Årsredovisning Örebro Rådhus AB godkänd, 32,6 mnkr resultat",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "2025-04-23_ko_101",
+      "headline": "Motion om lönekostnad för anställda bordlades utan avslut",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "2025-04-23_ko_117-126",
+      "headline": "Flera motioner om välfärd, förskola och skola bordlagda",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "2025-04-23_ko_111",
+      "headline": "Örebro läns trädgårdsaktiebolag årsredovisning godkänd",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "2025-03-26_ko_78",
+      "headline": "Motion om ställplatser för husbilar avslogs",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "2025-03-26_ko_84",
+      "headline": "Flera motioner bordlades för senare behandling",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "2025-01-29_ko_17",
+      "headline": "Motion om äldreomsorgsteam för missbruk avslås",
+      "date": "2025-01-29"
+    },
+    {
+      "id": "2025-01-29_ko_25-26",
+      "headline": "Två motioner om Örebro läns museum bordlades",
+      "date": "2025-01-29"
+    },
+    {
+      "id": "2025-01-29_ko_27-30",
+      "headline": "Sex motioner om bostäder, skogsbruk och väld bordlades",
+      "date": "2025-01-29"
+    },
+    {
+      "id": "2025-01-21_ko_1",
+      "headline": "Kommunstyrelsens verksamhetsplan med budget 2025 fastställd",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_2",
+      "headline": "1650 tkr tillförs Överförmyndarkansliet för förstärkning",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_3",
+      "headline": "Vätternvattenprojektet: 536,6 mnkr borgensförbindelse besluten",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_4",
+      "headline": "Oslo-Stockholm 255 AB styrdokument reviderade",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_9",
+      "headline": "Landsbygdsdelegationens verksamhetsplan 2025 antagen",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_10",
+      "headline": "Jämställdhetsdelegationens verksamhetsplan 2025 antagen",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_11",
+      "headline": "Örebro undertecknar CEMR-deklarationens nio nya jämställdhetsartiklar",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_12",
+      "headline": "Försäljning fastighet Palmbohult 2:33 för 13,5 mnkr godkänd",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_15",
+      "headline": "Motionen om ställplatser för husbilar avslogs",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2024-12-11_ko_418",
+      "headline": "Nya friköpspriser för tomträtter från 2026",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_417",
+      "headline": "Tilläggsavtal Region Örebro Innovation AB godkänt",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_428",
+      "headline": "Aktivitetspengen för funktionshindrade – motionen avslogs",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_429",
+      "headline": "Motion om delade turer äldreomsorg – avslaget",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_432",
+      "headline": "Språktest vård- och omsorgspersonal – motionen avslaget",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_433-446",
+      "headline": "Bordläggningar: elfte motioner skjutet på framtiden",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_421",
+      "headline": "Nämndreglementets revision – ansvar för sociala hyreskontrakt flyttat",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-09-25_ko_238",
+      "headline": "Motionen om självförsvarsutbildning avslaget",
+      "date": "2024-09-25"
+    },
+    {
+      "id": "2024-09-25_ko_239",
+      "headline": "Motion om återvandringsstöd avslaget",
+      "date": "2024-09-25"
+    },
+    {
+      "id": "2024-09-25_ko_241",
+      "headline": "Motion om skadegörelse i skolor avslaget",
+      "date": "2024-09-25"
+    },
+    {
+      "id": "2024-09-25_ko_243",
+      "headline": "Motion om kameraövervakning avslaget",
+      "date": "2024-09-25"
+    },
+    {
+      "id": "2024-06-10 och 2024-06-11_ko_155",
+      "headline": "Delårsrapport 1 2024 godkänd, nämnder måste spara",
+      "date": "2024-06-10"
+    },
+    {
+      "id": "2024-06-10 och 2024-06-11_ko_160",
+      "headline": "Klimatstrategi för Örebro kommun antagen",
+      "date": "2024-06-10"
+    },
+    {
+      "id": "2024-05-14_ko_123",
+      "headline": "Näringslivsprogram för Örebro kommun antaget",
+      "date": "2024-05-14"
+    },
+    {
+      "id": "2024-05-14_ko_127",
+      "headline": "Åtgärdsprogram mot buller för 2024–2028 antaget",
+      "date": "2024-05-14"
+    },
+    {
+      "id": "2024-05-14_ko_129",
+      "headline": "Motion om Vätternvatten-folkomröstning avslagen",
+      "date": "2024-05-14"
+    },
+    {
+      "id": "2024-05-14_ko_130",
+      "headline": "Motion om Open Art med barn avslagen",
+      "date": "2024-05-14"
+    },
+    {
+      "id": "2024-05-14_ko_128",
+      "headline": "Rapport ej verkställda SoL/LSS-beslut väcker debatt",
+      "date": "2024-05-14"
+    },
+    {
+      "id": "2024-05-07_ko_104",
+      "headline": "Näringslivsprogram antaget från juni 2024",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-05-07_ko_102",
+      "headline": "Hemlöshetskartläggning presenterad, förebyggande arbete omstritt",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-05-07_ko_103",
+      "headline": "IOP Vinternatt-partnerskap omstritt, omförhandling avslogs",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-05-07_ko_109",
+      "headline": "Ej verkställda LSS/SoL-beslut: Många väntar utan åtgärder",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-05-07_ko_110",
+      "headline": "Energiförsörjningsplan-motion: Motionen tillgodosedd",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-05-07_ko_111",
+      "headline": "Specialkostmotionen avslogs - religiösa kostkostnader minimala",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-05-07_ko_112",
+      "headline": "Återvandringsstödsmotionen avslogs - statlig uppgift",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-05-07_ko_97",
+      "headline": "Förändrade förutsättningar inför ÖSB 2026 antaget",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-03-20_ko_66",
+      "headline": "BRT-folkomröstning avslås efter votering",
+      "date": "2024-03-20"
+    },
+    {
+      "id": "2024-03-12_ko_58",
+      "headline": "Motion om självförsvarsutbildning avslås",
+      "date": "2024-03-12"
+    },
+    {
+      "id": "2024-03-12_ko_60",
+      "headline": "Motion om hemlöshetsstöd till civilsamhället avslås",
+      "date": "2024-03-12"
+    },
+    {
+      "id": "2024-03-12_ko_69",
+      "headline": "Ledamotsinitiativ om haverikommission för Arenaskolan skickas vidare",
+      "date": "2024-03-12"
+    },
+    {
+      "id": "2023-12-12_ko_420",
+      "headline": "Låneramen för kommunkoncernen fastställs till 22,5 miljarder kronor",
+      "date": "2023-12-12"
+    },
+    {
+      "id": "2023-12-12_ko_422",
+      "headline": "Planeringsstrategi för översiktsplanen 2023–2026 antagen",
+      "date": "2023-12-12"
+    },
+    {
+      "id": "2023-12-12_ko_423",
+      "headline": "VA-verksamhetsområden utökade för ny bebyggelse",
+      "date": "2023-12-12"
+    },
+    {
+      "id": "2023-12-12_ko_426",
+      "headline": "Enprocentsregeln för offentlig konst behålls",
+      "date": "2023-12-12"
+    },
+    {
+      "id": "2023-11-22_ko_389",
+      "headline": "Örebrobostäder höjer försäljningsgräns för fastigheter",
+      "date": "2023-11-22"
+    },
+    {
+      "id": "2023-10-17_ko_203",
+      "headline": "Omstridd Hjälmarsamarbetet-förening efter kritik från flera partier",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_204",
+      "headline": "700 000 kronor till Stadsmissionen Porten under två år",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_205",
+      "headline": "10,25 miljoner till akut park- och gatunderhåll hösten 2023",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_206",
+      "headline": "Delårsrapport: kommun har bra ekonomi men mål uppfylls inte",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_207",
+      "headline": "Investeringsprogram 2023 reviderat till 1,3 miljarder kronor",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_208",
+      "headline": "Tilläggsanslag oktober 2023: 34,2 miljoner kronor",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_209",
+      "headline": "Reviderad budget 2024 antagen: 21,35 procents kommunalskatt",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_210",
+      "headline": "Lokalförsörjningsplan 2025-2035 antagen: 29 projekt prioriterade",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-09-27_ko_315",
+      "headline": "Motion om bemötandeproblematik avslås - SD protesterar",
+      "date": "2023-09-27"
+    },
+    {
+      "id": "2023-09-27_ko_317",
+      "headline": "Solcellsavgifter behålls - motion om slopad taxa avslogs",
+      "date": "2023-09-27"
+    },
+    {
+      "id": "2023-09-27_ko_332",
+      "headline": "Busskort för grundskolelever - motion avslogs",
+      "date": "2023-09-27"
+    },
+    {
+      "id": "2023-09-19_ko_194",
+      "headline": "Motion om SMR-reaktor i Örebro avslogs",
+      "date": "2023-09-19"
+    },
+    {
+      "id": "2023-06-12 och 2023-06-13_ko_224",
+      "headline": "Riktlinjer för exploatering antagna trots motsättningar",
+      "date": "2023-06-12"
+    },
+    {
+      "id": "2023-03-22_ko_90",
+      "headline": "Motion om neutral klädpolicy för kommunens anställda avslås",
+      "date": "2023-03-22"
+    },
+    {
+      "id": "2023-03-14_ko_58",
+      "headline": "Motion om att slopa solcellsavgifter avslagen",
+      "date": "2023-03-14"
+    },
+    {
+      "id": "2023-02-15_ko_47",
+      "headline": "Örebroporten säljer aktier i Marieberg Utvecklings AB",
+      "date": "2023-02-15"
+    },
+    {
+      "id": "2023-02-15_ko_51",
+      "headline": "Motion om kommunala bolags avtalkrav avslås",
+      "date": "2023-02-15"
+    },
+    {
+      "id": "2023-01-24_ko_11",
+      "headline": "Utökning av VA-verksamhetsområden godkänd trots reservationer",
+      "date": "2023-01-24"
+    },
+    {
+      "id": "2023-01-24_ko_13",
+      "headline": "Motion om positiv särbehandling avslogs",
+      "date": "2023-01-24"
+    },
+    {
+      "id": "2023-01-24_ko_12",
+      "headline": "Välfärdsrapport: 148 beslut ej verkställda inom tidsfristen",
+      "date": "2023-01-24"
+    },
+    {
+      "id": "2023-01-24_ko_15",
+      "headline": "Lokalproducerad mat: motionens första punkt avslogs",
+      "date": "2023-01-24"
+    },
+    {
+      "id": "2023-01-17_ko_2",
+      "headline": "Riktlinjer för uppsiktsplikt mellan kommunstyrelse och nämnder",
+      "date": "2023-01-17"
+    },
+    {
+      "id": "2023-01-17_ko_4",
+      "headline": "Rotelansvariga utses för fyra huvudsakliga områden",
+      "date": "2023-01-17"
+    },
+    {
+      "id": "2023-01-17_ko_5",
+      "headline": "Jämställdhetsdelegation inrättad trots kritik",
+      "date": "2023-01-17"
+    },
+    {
+      "id": "2023-01-17_ko_6",
+      "headline": "Landsbygdsdelegation inrättad utan medborgardialoger",
+      "date": "2023-01-17"
     }
   ],
   "key_issues": {
-    "ovrigt": 2,
-    "kultur": 1,
-    "politik": 3,
-    "budget": 6,
-    "regler": 3,
-    "infrastruktur": 2
+    "ovrigt": 30,
+    "politik": 23,
+    "regler": 32,
+    "infrastruktur": 16,
+    "kultur": 13,
+    "bygg": 14,
+    "skola": 6,
+    "budget": 38,
+    "miljo": 10,
+    "trygghet": 8,
+    "miljö": 3,
+    "ekonomi": 1,
+    "omsorg": 1,
+    "socialt": 1
   },
   "motions_filed": [
     {
-      "title": "Stänga förskolan Igelkotten",
+      "title": "Stäng förskolan Igelkotten efter Skolinspektionens åtgärd",
       "status": "Tillgodosedd",
       "date": "2025-08-27"
     },
     {
+      "title": "Krogarnas öppettider (Markus Allard, ÖrP)",
+      "status": "Remitterad",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Markeringar tio meter från korsningar (Markus Allard, ÖrP)",
+      "status": "Remitterad",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Krogarnas öppettider",
+      "status": "Remitterad",
+      "date": "2025-06-18"
+    },
+    {
+      "title": "Markeringar tio meter från korsningar",
+      "status": "Remitterad",
+      "date": "2025-06-18"
+    },
+    {
       "title": "Stänga förskolan Igelkotten",
-      "status": "Remitterad - Till Förskolenämnden",
+      "status": "Aterremiss",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Stänga förskolan Igelkotten",
+      "status": "Tillgodosedd",
+      "date": "2025-04-08"
+    },
+    {
+      "title": "Markus Allard & Glenn Roswall (ÖrP) - Stänga förskolan Igelkotten",
+      "status": "Remitterad till Förskolenämnden",
       "date": "2024-04-09"
+    },
+    {
+      "title": "Folkomröstning kring BRT etapp 2 och 3",
+      "status": "Avslagen",
+      "date": "2024-03-20"
+    },
+    {
+      "title": "Folkomröstning om Vätternvatten-projektet",
+      "status": "Bordlagd",
+      "date": "2024-03-20"
+    },
+    {
+      "title": "Open Art för barn",
+      "status": "Bordlagd",
+      "date": "2024-03-20"
+    },
+    {
+      "title": "Stänga förskolan Igelkotten",
+      "status": "Remitterad",
+      "date": "2024-03-20"
+    },
+    {
+      "title": "BRT folkomröstning",
+      "status": "Bordlat",
+      "date": "2024-01-23"
+    },
+    {
+      "title": "Vätternvatten folkomröstning",
+      "status": "Bordlat",
+      "date": "2024-01-23"
+    },
+    {
+      "title": "Barns OpenArt",
+      "status": "Bordlat",
+      "date": "2024-01-23"
+    },
+    {
+      "title": "Motion från Markus Allard & Peter Springare (ÖrP) om att slopa enprocentsregeln (2022)",
+      "status": "Bordlad – avslag föreslaget men uppskjutet",
+      "date": "2023-11-22"
+    },
+    {
+      "title": "Slopa enprocentsregeln för offentlig konst",
+      "status": "Bordlagd",
+      "date": "2023-10-24"
+    },
+    {
+      "title": "Slopa enprocentsregeln för offentlig konst",
+      "status": "Avslagen",
+      "date": "2023-08-29"
+    },
+    {
+      "title": "Motion från Markus Allard (ÖrP) och Peter Springare (ÖrP) om att särredovisa vad ni betalat medierna",
+      "status": "Avslagen",
+      "date": "2023-01-17"
     }
   ],
   "agreement_with": {
-    "L": 6,
-    "KD": 6,
-    "SD": 4,
-    "MP": 1,
-    "V": 5,
-    "M": 3,
-    "C": 3,
-    "S": 3
+    "V": 87,
+    "MP": 67,
+    "C": 81,
+    "SD": 129,
+    "L": 94,
+    "M": 83,
+    "S": 83,
+    "KD": 92
   },
   "disagreement_with": {
-    "C": 14,
-    "S": 14,
-    "M": 14,
-    "V": 6,
-    "MP": 2,
-    "L": 9,
-    "KD": 8,
-    "SD": 2
+    "MP": 39,
+    "C": 98,
+    "L": 71,
+    "M": 105,
+    "S": 109,
+    "KD": 75,
+    "V": 60,
+    "SD": 16
   },
-  "for_pct": 16,
-  "against_pct": 74,
-  "abstained_pct": 11,
+  "meetings_attended": 46,
+  "total_present_sum": 140,
+  "attendance_records": [
+    {
+      "date": "2025-03-26",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2025-03-18",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2025-02-25",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2025-02-11",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2025-01-29",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2025-01-21",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-12-11",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2024-12-03",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-11-20",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2024-11-12",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-10-23",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-10-15",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-09-25",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-09-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-08-28",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-08-27",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-06-10",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2024-05-14",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-05-07",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-04-24",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-04-09",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-03-20",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2024-03-12",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-02-14",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-01-23",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-12-12",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-12-05",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-11-22",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-11-13",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-10-24",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2023-10-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-09-27",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-09-19",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-08-29",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-06-12",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2023-06-05",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-05-31",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-05-23",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-04-18",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-04-11",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-03-22",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-03-14",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-02-15",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-02-07",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-01-24",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-01-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    }
+  ],
+  "for_pct": 27,
+  "against_pct": 37,
+  "abstained_pct": 36,
   "activity_score": 100,
+  "attendance_pct": 98,
+  "avg_present": 3.0,
+  "total_meetings_with_attendance": 47,
   "top_categories": [
     [
       "budget",
-      6
-    ],
-    [
-      "politik",
-      3
+      38
     ],
     [
       "regler",
-      3
+      32
     ],
     [
       "ovrigt",
-      2
+      30
+    ],
+    [
+      "politik",
+      23
     ],
     [
       "infrastruktur",
-      2
+      16
     ]
   ],
   "top_allies": [
     [
+      "SD",
+      129
+    ],
+    [
       "L",
-      6
+      94
     ],
     [
       "KD",
-      6
-    ],
-    [
-      "V",
-      5
+      92
     ]
   ],
   "top_opponents": [
     [
-      "C",
-      14
-    ],
-    [
       "S",
-      14
+      109
     ],
     [
       "M",
-      14
+      105
+    ],
+    [
+      "C",
+      98
     ]
   ],
   "abbr": "ÖrP",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/örp.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/örp/",
-    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/parties/örp.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/parti/örp/",
+    "all_parties": "https://lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

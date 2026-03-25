@@ -1,0 +1,46 @@
+{
+  "id": "2025-11-18_ko_341-343",
+  "headline": "Enkla frågor om återvandringsbidrag och moderaternas politik nekades",
+  "summary": "Ordföranden avvisade tre enkla frågor från SD angående återvandringsbidrag och politiska allianser som inte uppfyllde kriterierna.",
+  "detail": "David Larsson (SD) och Carola Sunesson (SD) ställde enkla frågor till John Johansson (S) om återvandringsbidraget och om Moderaternas sak är Socialdemokraternas. Bo Ammer (SD) ställde fråga till Anders Åhrlin (M). Ordförande Jan Zetterqvist (S) avvisade alla tre frågorna med hänvisning till att de inte uppfyllde kriterierna för enkla frågor enligt Kommunallagens 5 kap 64 §.\n\nSD och OrP reserverade sig kraftigt mot avvisandet.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 341-343",
+  "tags": [
+    "enkla frågor",
+    "återvandringsbidrag",
+    "procedurfråga"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "OrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Ordföranden Jan Zetterqvist (S) föreslår kommunfullmäktige att frågan inte ska få ställas eftersom den inte uppfyller kriterierna för en enkel fråga enligt Kommunallagens 5 kap 64 §.",
+  "quote_page": "s. 6-8",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_341-343.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_341-343/"
+  }
+}

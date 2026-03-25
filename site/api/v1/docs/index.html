@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="sv"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kommun Monitor API — Dokumentation</title>
+<title>Beslutskollen API — Dokumentation</title>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
@@ -30,23 +30,23 @@ footer{padding:24px 0;border-top:1px solid rgba(255,255,255,0.06);margin-top:40p
 <div style="font-size:12px;color:#475569;margin-bottom:8px">🏛️ KOMMUN MONITOR</div>
 <h1>API Documentation</h1>
 <p style="font-size:16px;color:#94a3b8">v1.0.0 — Gratis tillgång till strukturerade kommunbeslut</p>
-<p>Base URL: <code>https://Lingabton.github.io/kommun-monitor/api/v1</code></p>
+<p>Base URL: <code>https://lingabton.github.io/kommun-monitor/api/v1</code></p>
 </header>
 
 <h2>Snabbstart</h2>
 <p>API:et är statiskt — inga API-nycklar, ingen autentisering, inga rate limits. Hämta JSON direkt:</p>
 <pre>
 # Alla beslut
-curl https://Lingabton.github.io/kommun-monitor/api/v1/decisions.json
+curl https://lingabton.github.io/kommun-monitor/api/v1/decisions.json
 
 # Ett specifikt beslut
-curl https://Lingabton.github.io/kommun-monitor/api/v1/decisions/kf389.json
+curl https://lingabton.github.io/kommun-monitor/api/v1/decisions/kf389.json
 
 # Partistatistik
-curl https://Lingabton.github.io/kommun-monitor/api/v1/parties.json
+curl https://lingabton.github.io/kommun-monitor/api/v1/parties.json
 
 # JavaScript
-const res = await fetch("https://Lingabton.github.io/kommun-monitor/api/v1/decisions.json");
+const res = await fetch("https://lingabton.github.io/kommun-monitor/api/v1/decisions.json");
 const data = await res.json();
 console.log(`${data.count} beslut`);
 </pre>
@@ -54,64 +54,54 @@ console.log(`${data.count} beslut`);
 <h2>Endpoints</h2>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/meta.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">API-metadata: version, statistik, tillgängliga endpoints.</p>
-<button class="try-btn" onclick="tryIt(this,'https://Lingabton.github.io/kommun-monitor/api/v1/meta.json')">Testa →</button>
+<span class="method">GET</span><span class="path">/meta.json</span><p style="margin-top:6px">API-metadata: version, statistik, tillgängliga endpoints.</p>
+<button class="try-btn" onclick="tryIt(this,'https://lingabton.github.io/kommun-monitor/api/v1/meta.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/municipalities.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Lista över kommuner med data tillgänglig.</p>
-<button class="try-btn" onclick="tryIt(this,'https://Lingabton.github.io/kommun-monitor/api/v1/municipalities.json')">Testa →</button>
+<span class="method">GET</span><span class="path">/municipalities.json</span><p style="margin-top:6px">Lista över kommuner med data tillgänglig.</p>
+<button class="try-btn" onclick="tryIt(this,'https://lingabton.github.io/kommun-monitor/api/v1/municipalities.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/meetings.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Alla sammanträden (sammanfattning). Sorterade efter datum (nyast först).</p>
-<button class="try-btn" onclick="tryIt(this,'https://Lingabton.github.io/kommun-monitor/api/v1/meetings.json')">Testa →</button>
+<span class="method">GET</span><span class="path">/meetings.json</span><p style="margin-top:6px">Alla sammanträden (sammanfattning). Sorterade efter datum (nyast först).</p>
+<button class="try-btn" onclick="tryIt(this,'https://lingabton.github.io/kommun-monitor/api/v1/meetings.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/meetings/{id}.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Enskilt sammanträde med alla beslut. Exempel: <code>/meetings/2025-12-10_kf.json</code></p>
+<span class="method">GET</span><span class="path">/meetings/{id}.json</span><p style="margin-top:6px">Enskilt sammanträde med alla beslut. Exempel: <code>/meetings/2025-12-10_kf.json</code></p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/decisions.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Alla beslut som flat lista (headline, summary, category, date, tags). Utan full detail.</p>
-<button class="try-btn" onclick="tryIt(this,'https://Lingabton.github.io/kommun-monitor/api/v1/decisions.json')">Testa →</button>
+<span class="method">GET</span><span class="path">/decisions.json</span><p style="margin-top:6px">Alla beslut som flat lista (headline, summary, category, date, tags). Utan full detail.</p>
+<button class="try-btn" onclick="tryIt(this,'https://lingabton.github.io/kommun-monitor/api/v1/decisions.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/decisions/{id}.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Enskilt beslut med full detalj: voting, quotes, tags, protocol reference.</p>
+<span class="method">GET</span><span class="path">/decisions/{id}.json</span><p style="margin-top:6px">Enskilt beslut med full detalj: voting, quotes, tags, protocol reference.</p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/parties.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Partistatistik: röstningsfördelning, allianser, nyckelfrågor.</p>
-<button class="try-btn" onclick="tryIt(this,'https://Lingabton.github.io/kommun-monitor/api/v1/parties.json')">Testa →</button>
+<span class="method">GET</span><span class="path">/parties.json</span><p style="margin-top:6px">Partistatistik: röstningsfördelning, allianser, nyckelfrågor.</p>
+<button class="try-btn" onclick="tryIt(this,'https://lingabton.github.io/kommun-monitor/api/v1/parties.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/parties/{abbr}.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Enskilt parti. Exempel: <code>/parties/v.json</code>, <code>/parties/sd.json</code></p>
+<span class="method">GET</span><span class="path">/parties/{abbr}.json</span><p style="margin-top:6px">Enskilt parti. Exempel: <code>/parties/v.json</code>, <code>/parties/sd.json</code></p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/search.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px">Fulltextsökindex för client-side search. Varje entry innehåller normaliserat <code>text</code>-fält.</p>
+<span class="method">GET</span><span class="path">/search.json</span><p style="margin-top:6px">Fulltextsökindex för client-side search. Varje entry innehåller normaliserat <code>text</code>-fält.</p>
 </div>
 
 <div class="endpoint">
-<span class="method">GET</span><span class="path">/feed.json</span><span class="badge free">GRATIS</span>
-<p style="margin-top:6px"><a href="https://jsonfeed.org">JSON Feed</a> (RFC) — för RSS-läsare och appar som stöder JSON Feed.</p>
-<button class="try-btn" onclick="tryIt(this,'https://Lingabton.github.io/kommun-monitor/api/v1/feed.json')">Testa →</button>
+<span class="method">GET</span><span class="path">/feed.json</span><p style="margin-top:6px"><a href="https://jsonfeed.org">JSON Feed</a> (RFC) — för RSS-läsare och appar som stöder JSON Feed.</p>
+<button class="try-btn" onclick="tryIt(this,'https://lingabton.github.io/kommun-monitor/api/v1/feed.json')">Testa →</button>
 <div class="response"></div>
 </div>
 
@@ -169,7 +159,7 @@ console.log(`${data.count} beslut`);
 import requests
 
 # Hämta alla omstridda beslut
-data = requests.get("https://Lingabton.github.io/kommun-monitor/api/v1/decisions.json").json()
+data = requests.get("https://lingabton.github.io/kommun-monitor/api/v1/decisions.json").json()
 contested = [d for d in data["decisions"] if d["contested"]]
 print(f"{len(contested)} omstridda beslut")
 for d in contested:
@@ -179,7 +169,7 @@ for d in contested:
 <h3>JavaScript</h3>
 <pre>
 // Hämta partistatistik
-const res = await fetch("https://Lingabton.github.io/kommun-monitor/api/v1/parties.json");
+const res = await fetch("https://lingabton.github.io/kommun-monitor/api/v1/parties.json");
 const { parties } = await res.json();
 
 // Mest oppositionella parti
@@ -190,21 +180,21 @@ console.log(`${mostOpposed.name} röstar NEJ ${mostOpposed.against_pct}% av gån
 <h3>curl + jq</h3>
 <pre>
 # Alla beslut om skola
-curl -s https://Lingabton.github.io/kommun-monitor/api/v1/decisions.json | \
+curl -s https://lingabton.github.io/kommun-monitor/api/v1/decisions.json | \
   jq '.decisions[] | select(.category == "skola") | .headline'
 
 # Hur röstade SD?
-curl -s https://Lingabton.github.io/kommun-monitor/api/v1/parties/sd.json | \
+curl -s https://lingabton.github.io/kommun-monitor/api/v1/parties/sd.json | \
   jq '{name, for_pct, against_pct, top_allies}'
 </pre>
 
 <h2>Licens & villkor</h2>
 <p>Data baserad på svenska offentliga handlingar (offentlighetsprincipen) — fritt att använda.</p>
-<p>AI-sammanfattningar publiceras under <strong>CC BY 4.0</strong>. Ange <em>"Kommun Monitor"</em> som källa.</p>
+<p>AI-sammanfattningar publiceras under <strong>CC BY 4.0</strong>. Ange <em>"Beslutskollen"</em> som källa.</p>
 <p style="color:#f59e0b">⚠️ Sammanfattningar genereras av AI och kan innehålla fel. Verifiera alltid mot <a href="https://www.orebro.se/kommun--politik/politik--beslut.html">originalprotokollen</a>.</p>
 
 <footer>
-<p>Kommun Monitor API v1.0.0 — <a href="https://Lingabton.github.io/kommun-monitor/">Hem</a> · <a href="https://Lingabton.github.io/kommun-monitor/parti/">Partier</a> · <a href="https://Lingabton.github.io/kommun-monitor/omrade/">Områden</a></p>
+<p>Beslutskollen API v1.0.0 — <a href="https://lingabton.github.io/kommun-monitor/">Hem</a> · <a href="https://lingabton.github.io/kommun-monitor/parti/">Partier</a> · <a href="https://lingabton.github.io/kommun-monitor/omrade/">Områden</a></p>
 </footer>
 </div>
 

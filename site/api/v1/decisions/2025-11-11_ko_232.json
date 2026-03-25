@@ -1,0 +1,46 @@
+{
+  "id": "2025-11-11_ko_232",
+  "headline": "Motion om att rensa bland styrdokument delvis tillgodosedd",
+  "summary": "SD väckade motion om översyn av samtliga styrdokument. Kommun bedömer att revisionen av Riktlinjer för styrdokument från maj 2025 redan tillgodoser intentionen.",
+  "detail": "Carola Sunesson (SD) och Bo Ammer (SD) väckade motion om att göra en omfattande översyn av samtliga styrdokument för att minska antalet och sammanföra nödvändiga nya dokumenten med befintliga.\n\nKommunfullmäktige reviderade redan den 21 maj 2025 Riktlinjer för styrdokument. Kommunledningsförvaltningen bedömer att denna revidering motsvarar motionens intention. Den nya riktlinjen utgår från att endast de styrdokument som behövs ska upprättas. Löpande skall varje förvaltning pröva om deras styrdokument fortfarande behövs eller om det ska upphävas, revideras eller sammanföras.\n\nMotionens första yrkande (om allmän översyn) avslås. Motionens andra yrkande (om försiktighet med nya dokument) anses tillgodosett.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 232",
+  "tags": [
+    "styrdokument",
+    "administration",
+    "regelklar",
+    "effektivitet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Delvis bifall"
+  },
+  "quote": "Motionens första yrkande avslås. Motionens andra yrkande anses tillgodosett.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_232.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_232/"
+  }
+}

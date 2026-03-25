@@ -1,0 +1,47 @@
+{
+  "id": "2025-02-25_ko_50",
+  "headline": "Rapport ej verkställda LSS- och SoL-beslut kompletterad",
+  "summary": "Kommunfullmäktige godkände rapport över ej verkställda beslut för personer med funktionsnedsättning och äldreomsorg. Rapporterna ska kompletteras med information om skälen till förseningar.",
+  "detail": "Funktionsstödsnämnden rapporterade 149 totalt rapporterade beslut för kvartal 3 2024, med 98 beslut fortsatt ej verkställda inom tre månader. Vård- och omsorgsnämnden rapporterade 42 beslut med 26 fortsatt ej verkställda inom tre månader. Socialnämnden rapporterade 29 beslut.\n\nJessica Ekerbring (S) och Maria Haglund (M) yrkade bifall med tillägget att komplettera med beslutsunderlag som beskriver skälet till att beslut ej verkställts. Martha Wicklund (V) yrkade bifall med tillägget att Kommunstyrelseförvaltningen får uppdrag att ta fram förslag på hur gynnande beslut kan verkställas inom rimlig tid. David Larsson (SD) yrkade bifall med krav på särredovisning av skäl till förseningar.\n\nOrdföranden ställde Vänsterpartiets förslag mot avslags-yrkandena och fann att Kommunfullmäktige avslår återremissyrkandena. Jessica Ekerbrings tilläggsyrkande godkändes.\n\nFyra partier reserverade sig: SD, V, ÖrP och KD.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 50",
+  "tags": [
+    "LSS",
+    "SoL",
+    "funktionsnedsättning",
+    "äldreomsorg",
+    "ärendehantering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "V",
+      "ÖrP",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "För det tredje kvartalet 2024 minskade Funktionsstödsnämndens totala antal rapporterade beslut till 149 stycken vid kvartalets slut var 98 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_50.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_50/"
+  }
+}

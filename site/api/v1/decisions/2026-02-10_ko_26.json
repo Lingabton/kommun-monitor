@@ -1,0 +1,43 @@
+{
+  "id": "2026-02-10_ko_26",
+  "headline": "Stadskärnan får utvecklingsstrategi genom bred samverkan",
+  "summary": "Kommunstyrelsen ger Miljö- och stadsbyggnadsförvaltningen uppdrag att ta fram strategi för stadskärnans utveckling med fokus på samverkan mellan kommunens förvaltningar, näringsliv och civilsamhälle.",
+  "detail": "Stadskärnan är viktig för både invånares vardagsliv och stadens rykte utåt. Strukturella förändringar och nya samhällsutmaningar kräver strategiskt arbete.\n\nArbetet ska genomföras genom bred samverkan mellan: kommunens olika förvaltningar, kommunala bolag, privata aktörer, offentliga institutioner och civilsamhälle. Syftet är att skapa gemensam förståelse, nuläges- och målbild samt övergripande riktning för stadskärnans framtida utveckling.\n\nRESULTAT: Strategin ska lägga grund för efterföljande fördjupande arbete och klargöra organisationen för detta.\n\nMOTSTÅND: Markus Allard (ÖrP) förespråkar avslag men överröstas.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Stadskärnan, Örebro",
+  "paragraph_ref": "§ 26",
+  "tags": [
+    "stadskärna",
+    "utveckling",
+    "strategi",
+    "samverkan"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med uppdraget är att genom bred och nära samverkan mellan dessa aktörer öka förståelsen, skapa en gemensam nuläges- och målbild samt övergripande riktning för arbetet med stadskärnans utveckling.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2026-02-10_Kommunstyrelsen",
+    "date": "2026-02-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-10_ko_26.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_26/"
+  }
+}

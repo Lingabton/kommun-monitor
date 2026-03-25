@@ -1,0 +1,45 @@
+{
+  "id": "2024-08-28_ko_202",
+  "headline": "HBTQI-inkludering - arbetssätt framtages",
+  "summary": "Motion om HBTQI-inkludering anses besvarad; kommun arbetar med strukturerat arbetssätt och skräddarsydda utbildningar.",
+  "detail": "Vänsterpartiet motionerade för att göra Örebro till en HBTQI-inkluderande kommun med 11 konkreta förslag, bland annat hbtqi-råd, trygghetsundersökning, diplomering av politiker, och hbtqi-profil på äldreboenden.\n\nKommunledningen delar bedömningen att mer behöver göras men föreslog att motionen anses besvarad. Anledningen är att ÖSB 2024 redan innehöll uppdrag om att ta fram arbetssätt/färdplan för konkreta insatser. Kartläggning pågår, skräddarsydda utbildningar genomförs, och statsbidrag beviljats.\n\nKommunledningen avslår att inrätta ett nytt hbtqi-råd men förhandlar med RFSL om att använda dem som remissinstans. Regnbågsflaggan flaggas redan under Nerike Pride vid Nikolaikyrkan och Storbron.\n\nKommunfullmäktige beslutade enligt kommunledningens förslag. Flera partier reserverade sig för starkare åtgärder.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 202",
+  "tags": [
+    "HBTQI",
+    "inkludering",
+    "RFSL",
+    "regnbågsflagga"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "ÖrP",
+      "V",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunledningen delar bilden av att mer behöver göras på det här området vilket också var anledningen till att kommunledningen i ÖSB 2024 lade ett uppdrag om att ta fram ett arbetssätt/färdplan",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_202.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_202/"
+  }
+}

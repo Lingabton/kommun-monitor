@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_259",
+  "headline": "Motion om israelbojkott avslogs",
+  "summary": "Kommunstyrelsen avslог Vänsterpartiet motion om att införa kommunal bojkott av israeliska varor och tjänster.",
+  "detail": "Martha Wicklund (V) et al. inlämnade motion om två åtgärder: att kartlägga vilka länder kommunen köper från, och att inte köpa israeliska varor/tjänster tills vidare.\n\nKommunledningen förespeglade avslag på motionen. Helena Ståhl (SD) yrkade bifall endast till första delen (kartläggningen).\n\nBoth Martha Wicklund (V) och Helena Ståhl (SD) reserverade sig mot beslutet att avslå motionen. Ärendet ska vidare till Kommunfullmäktige.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 259",
+  "tags": [
+    "politik",
+    "välgörenhet",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "S",
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Vänsterpartiet har inkommit med en motion om att införa en kommunal bojkott av israeliska varor och tjänster.",
+  "quote_page": "s. 29",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_259.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_259/"
+  }
+}

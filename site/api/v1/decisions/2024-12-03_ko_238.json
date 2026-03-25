@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-03_ko_238",
+  "headline": "Digital arbetsplats får ny finansieringsmodell från 2025",
+  "summary": "Kommunstyrelsen beslutade att avskriva 25,7 miljoner kronors ackumulerad skuld och byta finansieringsmodell för IT-drift.",
+  "detail": "Den så kallade Digital arbetsplats-enheten hade sedan 2018 drivit ett särskilt kostnadsställe för datorinköp som ackumulerat ett underskott på 25,7 miljoner kronor. Denna skuld skulle enligt ursprunglig plan ha återbetalats år 2026, men kunde inte fullfölja det på grund av pandemin, låg utbytestakt och utebliven prisanpassning.\n\nKommundirektören bestämde att denna historiska skuld inte skulle tas igen retroaktivt. I stället introduceras från 2025 en ny finansieringsmodell baserad på intäktsfinansiering genom internprissättning inom Förvaltningsportföljen.\n\nDet markerade beloppet för Digital arbetsplats ackumulerade resultat avmarkeras från eget kapital i årsbokslutet 2024.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 238",
+  "tags": [
+    "IT",
+    "ekonomi",
+    "drift"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Till följd av olika orsaker (bl.a. pandemin, få utbytta datorer, ökad volym/efterfrågan och utebliven prisanpassning) kunde underskotten inte återbetalas enligt plan. Vid bokslutet 2023 kvarstod ett ackumulerat underskott om 25,7mnkr.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_238.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_238/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2024-05-07_ko_111",
+  "headline": "Specialkostmotionen avslogs - religiösa kostkostnader minimala",
+  "summary": "Sverigedemokraternas förslag om att inte bekosta religiös specialkost och utöka välbalanserade alternativ avslogs.",
+  "detail": "Helena Ståhl (SD) motionerade för två åtgärder: 1) utreda utökade välbalanserade kostalternativ för att minimera specialkosten, 2) religiös specialkost ska inte bekostas av skattebetalare.\n\nKommunledningsförvaltningen bedömde att motionen bör avslås. De nyligen antagna riktlinjerna och det befintliga utbudet minimerar redan behovet av specialkost, och kostnaderna för religiös specialkost är ringa.\n\nHelena Ståhl och Markus Allard (ÖrP) yrkade bifall. Martha Wicklund (V) stödde avslaget.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 111",
+  "tags": [
+    "specialkost",
+    "mat",
+    "religion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "De nyligen politiskt antagna riktlinjerna samt det utbud som redan erbjuds i dag minimerar behovet av specialkost och att kostnaderna för specialkost som produceras av enbart religiösa skäl är ringa.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_111.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_111/"
+  }
+}

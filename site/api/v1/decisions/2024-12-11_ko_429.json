@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-11_ko_429",
+  "headline": "Motion om delade turer äldreomsorg – avslaget",
+  "summary": "Kommunfullmäktige avslår V:s motion om att tillsätta parlamentarisk arbetsgrupp för att arbeta bort delade turer inom äldreomsorgen.",
+  "detail": "V motionerade för att tillsätta en parlamentarisk arbetsgrupp för att komma med förslag på hur delade turer inom äldreomsorgen ska avskaffas.\n\nKommunledningen påpekar oklarheter omkring mandatet för arbetsgruppen och konstaterar att kortsiktiga åtgärder för att avskaffa ofrivilliga delade turer skulle öka övertid, vikariebehov och kostnader.\n\nAktivt arbete pågår redan inom nämnderna på bemanning, schemaläggning och organisation för att minska vikariekostnader, öka grundbemanningen och få bort ofrivilliga delade turer och deltidstjänster.\n\nMajoriteten välkomnar diskussion om långsiktiga lösningar men föredrar fortsatt arbete i befintliga nämnder. V och ÖrP reserverade sig.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 429",
+  "tags": [
+    "äldreomsorg",
+    "arbetstider",
+    "delade turer",
+    "bemanning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Utifrån att ett aktivt arbete pågår ser vi hellre att ett konstruktivt arbete fortsätter i de aktuella nämnderna, och därför avslår vi motionen.",
+  "quote_page": "s. 25",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_429.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_429/"
+  }
+}

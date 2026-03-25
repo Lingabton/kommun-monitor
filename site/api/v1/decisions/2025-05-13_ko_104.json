@@ -1,0 +1,45 @@
+{
+  "id": "2025-05-13_ko_104",
+  "headline": "Nya regler för omställningsstöd och pension förtroendevalda",
+  "summary": "Kommunstyrelsen antar nya bestämmelser OPF-KR 25 för omställningsstöd och pension till förtroendevalda, som ersätter tidigare regler.",
+  "detail": "Sveriges Kommuner och Regioners styrelse antog reviderade bestämmelser om omställningsstöd och pension (OPF-KR 25) i oktober 2024. Dessa gäller förtroendevalda som omfattades av tidigare regelverk eller tillträdde vid valet 2018 eller senare.\n\nSD:s Helena Ståhl yrkade på återremiss med motiveringen att reglerna inte tar hänsyn till varför förtroendevalda lämnar uppdraget, exempelvis på grund av kriminalitet. Hon ville att ärendet skulle bereds vidare. Ordförande John Johansson (S) avvisade återremiss och föreslög att ärendet avgjordes omedelbar.\n\nMarkus Allard (ÖrP) yrkade avslag. Beslutet fattades enligt förvaltningens förslag med reservationer från SD och ÖrP.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 104",
+  "tags": [
+    "pensioner",
+    "förtroendevalda",
+    "regler"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "L",
+      "C",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Anta OPF-KR 25 som ersätter OPF-KL 18.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_104.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_104/"
+  }
+}

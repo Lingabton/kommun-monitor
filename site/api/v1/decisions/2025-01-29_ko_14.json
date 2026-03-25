@@ -1,0 +1,44 @@
+{
+  "id": "2025-01-29_ko_14",
+  "headline": "Vätternvatten AB: 536 miljoner kronor borgen för vattenledning",
+  "summary": "Kommunfullmäktige godkänner tilläggsavtal för Vätternvatten AB och går i borgen för maximalt 536,6 miljoner kronor för projektet Fas 1. Kostnaden har ökat med 315 miljoner kronor sedan 2021.",
+  "detail": "Vätternvatten AB har uppdaterat kostnadsbedömningen för Fas 1 av vattenledningsprojektet. Utgifterna beräknas nu till ca 650 miljoner kronor, en ökning med 315 miljoner kronor från tidigare budget från 2021. Huvudsakliga kostnadsökningar beror på förändrad tidplan, ökat kostnadsindex, kunskap om befintliga förhållanden samt val av reservvattenlösning.\n\nKommunfullmäktige beslutar att Örebro Rådhus AB får i uppdrag att ingå tilläggsavtal enligt förslag, att kommunen ingår borgen för låneförpliktelser upp till 536,6 miljoner kronor jämte ränta och kostnader, samt att ramen för kommunkoncernens samlade externa låneskuld fastställs till 23 700 miljoner kronor för perioden 2025–2028.\n\nÖrebro Rädhus AB är gemensam ägare av Vätternvatten tillsammans med Region Örebro läns förvaltning AB, Karlstad, Region Värmland, Västerås och Region Västmanland. Beslutet är omstritt, där Örebro Piraterna reserverade sig mot beslutet i sin helhet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 14",
+  "tags": [
+    "Vätternvatten",
+    "vattenledning",
+    "borgen",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den uppdaterade budgeten innebär att aktieägaravtalet behöver uppdateras genom ett tilläggsavtal samt att nya borgensbeslut fattas.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_14.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_14/"
+  }
+}

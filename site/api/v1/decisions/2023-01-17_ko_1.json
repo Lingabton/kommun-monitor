@@ -1,0 +1,42 @@
+{
+  "id": "2023-01-17_ko_1",
+  "headline": "Återföring av medel från sociala investeringar Team Oxhagen",
+  "summary": "Kommunstyrelsen beslutar att fastställa återföringsplan för tre avslutade satsningar och åläggs nämnder att återföra medel. L och KD motsatte sig återföringen.",
+  "detail": "Kommunstyrelsen godkänner uppföljande utvärdering av satsningarna Team Oxhagen, Specialpedagogisk kompetentutveckling och El Sistema som genomfördes 2015-2018 i Varberga och Oxhagen. Rapporten visar att insatsgruppens båda kohorter presterar bättre i svenska och matematik än helklassen.\n\nKommunstyrelsen fattar beslut om att fastställa gemensam återföringsplan och åtlägger Grundskolenämnd, Funktionsstödsnämnd och Socialnämnd att återföra medel i enlighet med planen.\n\nL och KD yrkar bifall till rapporten men avslag på återföringen, med motiveringen att skolområdet och socialvälfärdsområdet redan har stora miljonbesparingar budgeterade för 2023. De menar att det är omöjligt att både fortsätta verksamheten och kräva återföring av 34 procent av tidigare investerat belopp under lågkonjunkturår.\n\nÖrP yrkade helt avslag. V och SD stödde L/KD:s yrkande om uppskjuten återföring.",
+  "category": "budget",
+  "contested": true,
+  "location": "Varberga och Oxhagen",
+  "paragraph_ref": "§ 1",
+  "tags": [
+    "sociala investeringar",
+    "budget",
+    "Varberga",
+    "Oxhagen",
+    "skolvälfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Att fortsätta innebär kostnader och då investeringen ännu inte visar ekonomiska mål, så innebär en fortsättning och återföring att resurserna måste tas från annat hål.",
+  "quote_page": "s. 3-4",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_1.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_1/"
+  }
+}

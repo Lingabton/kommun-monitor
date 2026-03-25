@@ -4,125 +4,785 @@
   "color": "#83cf39",
   "position": "Opposition",
   "ideology": "Grön politik",
-  "votes_for": 12,
-  "votes_against": 1,
-  "votes_abstained": 0,
-  "total_votes": 13,
+  "votes_for": 202,
+  "votes_against": 20,
+  "votes_abstained": 32,
+  "total_votes": 254,
   "contested_votes": [
     {
-      "id": "2025-12-10_ko_394_395",
-      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "id": "2025-12-10_ko_395",
+      "headline": "Motion om cirkulationsbibliotek avslås efter votering",
       "date": "2025-12-10"
+    },
+    {
+      "id": "2025-09-24_ko_269",
+      "headline": "Motion om fossil reklam avslås",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "2025-09-24_ko_270",
+      "headline": "Motion om förbjudna böcker avslås med näkna majoritet",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "2025-06-18 och 2025-06-19_ko_172",
+      "headline": "Övergripande strategier och budget 2026 fastställd",
+      "date": "2025-06-18"
+    },
+    {
+      "id": "2025-06-18 och 2025-06-19_ko_175",
+      "headline": "Reservationsavtal med Epiroc för Kränglan 3:1 godkänt",
+      "date": "2025-06-18"
+    },
+    {
+      "id": "2025-05-21_ko_142",
+      "headline": "Motion om suicidprevention avslåsed – arbete redan pågår",
+      "date": "2025-05-21"
+    },
+    {
+      "id": "2025-04-23_ko_108",
+      "headline": "Motion om minskade klassdelningar i grundskolan avslogs",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "2025-03-26_ko_80",
+      "headline": "Motion om att skydda Garphytteklint delvis godkänd efter votering",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "2025-01-29_ko_17",
+      "headline": "Motion om äldreomsorgsteam för missbruk avslås",
+      "date": "2025-01-29"
+    },
+    {
+      "id": "2024-12-11_ko_422",
+      "headline": "Motion om döva barns rättigheter avslaget",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_427",
+      "headline": "Motion om kapell i Wadköping avslaget",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-12-11_ko_430,431",
+      "headline": "Solceller – motioner delvis tillgodosedda och avslagna",
+      "date": "2024-12-11"
+    },
+    {
+      "id": "2024-05-14_ko_128",
+      "headline": "Rapport ej verkställda SoL/LSS-beslut väcker debatt",
+      "date": "2024-05-14"
+    },
+    {
+      "id": "2023-12-12_ko_424",
+      "headline": "Motion om miljöbidrag för hållbar utveckling avslogs",
+      "date": "2023-12-12"
+    },
+    {
+      "id": "2023-12-12_ko_425",
+      "headline": "Motion om hemlöshetsansvar delvis tillgodosedd",
+      "date": "2023-12-12"
+    },
+    {
+      "id": "2023-09-27_ko_332",
+      "headline": "Busskort för grundskolelever - motion avslogs",
+      "date": "2023-09-27"
+    },
+    {
+      "id": "2023-05-31_ko_176",
+      "headline": "Detaljplan Törsjö logistikområde godkänd",
+      "date": "2023-05-31"
+    },
+    {
+      "id": "2023-03-14_ko_59",
+      "headline": "Motion om hastighetsgräns i centrala Örebro avslagen",
+      "date": "2023-03-14"
+    },
+    {
+      "id": "2023-02-15_ko_50",
+      "headline": "Motion om medborgarvittnen avslås",
+      "date": "2023-02-15"
+    },
+    {
+      "id": "2023-01-24_ko_14",
+      "headline": "Kulturarvsprojekt Örebrokällan avslogs som för stort och dyrt",
+      "date": "2023-01-24"
     }
   ],
   "key_issues": {
-    "kultur": 2,
-    "politik": 3,
-    "budget": 2,
-    "infrastruktur": 1,
-    "ovrigt": 3,
-    "regler": 1,
-    "skola": 1
+    "trygghet": 11,
+    "näringsliv": 1,
+    "ovrigt": 34,
+    "politik": 29,
+    "regler": 34,
+    "kultur": 21,
+    "skola": 10,
+    "infrastruktur": 17,
+    "budget": 31,
+    "bygg": 15,
+    "miljo": 12,
+    "miljö": 5,
+    "ekonomi": 1,
+    "omsorg": 1
   },
   "motions_filed": [
     {
-      "title": "Publicera trädinventering (MP)",
-      "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+      "title": "Lea Strandberg (MP) om återöppna vårdboendet i Ölmbrotorp",
+      "status": "Remitterad",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "Lea Strandberg (MP) om att Meetings + öppnas upp",
+      "status": "Bordlad",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "Marcus Willén Ode (MP) - Övernattningsstugor",
+      "status": "Remitterad",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "Marcus Willén Ode (MP) - Biosfärsområde Hjälmaren",
+      "status": "Remitterad",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "Motioner från Marcus Willén Ode (MP) om övernattningsstugor och biosfärsområde",
+      "status": "Remitterad",
+      "date": "2026-01-27"
+    },
+    {
+      "title": "Laddstationer för elcyklar",
+      "status": "Remitterad",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Missvisande räkning av koldioxidutsläpp",
+      "status": "Remitterad till Kommunstyrelsen för beredning",
+      "date": "2025-11-11"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om missvisande räkning av koldioxidutsläpp",
+      "status": "Anmäld till kommande behandling",
+      "date": "2025-10-22"
+    },
+    {
+      "title": "Publicera trädinventering",
+      "status": "Remitterad",
       "date": "2025-10-14"
     },
     {
-      "title": "Flaggan i topp – flaggning på kommunala byggnader (MP)",
-      "status": "Bereds av Kommunstyrelsen",
+      "title": "Flaggan i topp",
+      "status": "Remitterad",
       "date": "2025-10-14"
     },
     {
-      "title": "Arbeta för att behålla övertaliga lärare (MP)",
-      "status": "Remitterad till Grundskolenämnden",
+      "title": "Arbeta för att behålla övertaliga lärare",
+      "status": "Remitterad",
       "date": "2025-10-14"
     },
     {
       "title": "Fossil reklam på allmän plats",
-      "status": "Bordlagd",
+      "status": "Avslagen",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Synliggöra fjärrlån av förbjudna böcker",
+      "status": "Avslagen",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Publicera trädinventering",
+      "status": "Remitterad",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Flaggan i topp",
+      "status": "Remitterad",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Behålla övertaliga lärare",
+      "status": "Remitterad",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Fossil reklam på allmän plats - förbjudas eller definieras?",
+      "status": "Bordlad",
       "date": "2025-08-27"
+    },
+    {
+      "title": "Fredrik Persson (MP) - Prioritera busstrafiken i Örebro",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+      "date": "2025-06-10"
+    },
+    {
+      "title": "Lea Strandberg (MP) - Förbjudna böcker på bibliotek",
+      "status": "Avslagen",
+      "date": "2025-06-10"
+    },
+    {
+      "title": "Motion om att prioritera busstrafiken i Örebro (Fredrik Persson, MP)",
+      "status": "Anmäld",
+      "date": "2025-05-21"
+    },
+    {
+      "title": "Säkra kommunens tillgång till livsmedel under krig och kris",
+      "status": "Remitterad för beredning i Kommunstyrelsen",
+      "date": "2025-05-13"
+    },
+    {
+      "title": "Underlätta för kollektivtrafiken vid resecentrum",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+      "date": "2025-05-13"
+    },
+    {
+      "title": "Fossil reklam på allmän plats",
+      "status": "Aterremiss",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Fossil reklam på allmän plats",
+      "status": "Avslaget",
+      "date": "2025-04-08"
+    },
+    {
+      "title": "Skydd av Garphytteklint som naturreservat",
+      "status": "Besvarad",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "Meetings+ öppnas upp för allmän tillgång",
+      "status": "Bereds av Kommunstyrelsen",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "Döva barns rättigheter – implementering av internationell deklaration",
+      "status": "Avslaget",
+      "date": "2024-12-11"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om förbjudna böcker",
+      "status": "Remitterad till Kultur- och fritidsnämnden",
+      "date": "2024-12-03"
+    },
+    {
+      "title": "Implementera deklarationen om döva barns rättigheter (Lea Strandberg & Fredrik Persson, MP)",
+      "status": "Bordlad - avslagen föreslås",
+      "date": "2024-10-23"
+    },
+    {
+      "title": "Gratis mensskydd på skolor och arbetsplatser (MP 2021) – Besvarad",
+      "status": "Besvarad",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Solcellsanläggningar via Kumbro Utveckling (MP 2016) – Avslagen",
+      "status": "Avslagen",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Hållbart skogsbruk och skogspolicy (MP 2023) – Avslagen",
+      "status": "Avslagen",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Barns lika rätt - deklaration om döva barns rättigheter",
+      "status": "Avslagen",
+      "date": "2024-09-17"
+    },
+    {
+      "title": "Ge barnen en bra start i livet (förskolans maxtak)",
+      "status": "Avslagen",
+      "date": "2024-08-27"
+    },
+    {
+      "title": "Fritidsgård FRITTE - finansiering och teckenspråkig verksamhet",
+      "status": "Tillgodosedd",
+      "date": "2024-06-10"
+    },
+    {
+      "title": "Energiförsörjningsplan för kommunen",
+      "status": "Bordlagd",
+      "date": "2024-06-10"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om fritidsgård FRITTE - ekonomisk stöd",
+      "status": "Bordlagd",
+      "date": "2024-05-14"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) och Fredrik Persson (MP) om energiförsörjningsplan",
+      "status": "Bordlagd",
+      "date": "2024-05-14"
+    },
+    {
+      "title": "Energiförsörjningsplan för självförsörjning",
+      "status": "Tillgodosedd",
+      "date": "2024-05-07"
+    },
+    {
+      "title": "Sara Richert (MP) - fler solcellsanläggningar genom Kumbro Utveckling AB (Ks 132/2016)",
+      "status": "Inte avskriven - ärendet från 2016",
+      "date": "2024-04-24"
+    },
+    {
+      "title": "Fritidsgård utifrån ungdomarnas behov",
+      "status": "Tillgodosedd",
+      "date": "2024-03-20"
+    },
+    {
+      "title": "Fossil reklam",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+      "date": "2024-03-12"
+    },
+    {
+      "title": "Skydda Garphytteklint",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+      "date": "2024-03-12"
+    },
+    {
+      "title": "Fossil reklam - motion från Lea Strandberg (MP)",
+      "status": "Remitterad",
+      "date": "2024-02-14"
+    },
+    {
+      "title": "Skydda Garphytteklint - motion från Lea Strandberg (MP)",
+      "status": "Remitterad",
+      "date": "2024-02-14"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om fritidsgård utifrån ungdomarnas behov - fokus på Fritte och teckenspråkiga ungdomar",
+      "status": "Tillgodosedd (600 tkr extra till Fritte godkänt)",
+      "date": "2024-02-06"
+    },
+    {
+      "title": "Mobil fritidsgård",
+      "status": "Besvarad - MP, V, KD och L reserverade sig",
+      "date": "2024-01-23"
+    },
+    {
+      "title": "Mobil fritidsgård i Örebro",
+      "status": "Bordlad",
+      "date": "2023-12-12"
+    },
+    {
+      "title": "Motion från Sara Bronner (MP) om miljöbidrag för lokala initiativ (2017)",
+      "status": "Bordlad – avslag föreslaget men uppskjutet",
+      "date": "2023-11-22"
+    },
+    {
+      "title": "Motion från Niclas Persson (MP) om hemlöshet och socialtjänstens ansvar (2019)",
+      "status": "Bordlad – avslag föreslaget men uppskjutet",
+      "date": "2023-11-22"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om mobil fritidsgård (2021)",
+      "status": "Bordlad – anses besvarad",
+      "date": "2023-11-22"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om att ge barnen en bra start i livet",
+      "status": "Remitterad till Förskolenämnden",
+      "date": "2023-11-13"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om barns lika rätt",
+      "status": "Bereds av Kommunstyrelsen",
+      "date": "2023-11-13"
+    },
+    {
+      "title": "Stöd till lokala initiativ för hållbar utveckling - miljöbidrag",
+      "status": "Bordlagd",
+      "date": "2023-10-24"
+    },
+    {
+      "title": "Motverka hemlöshet genom tydligare ekonomiska incitament",
+      "status": "Bordlagd",
+      "date": "2023-10-24"
+    },
+    {
+      "title": "Mobil fritidsgård i Örebro",
+      "status": "Bordlagd",
+      "date": "2023-10-24"
+    },
+    {
+      "title": "Lea Strandberg (MP) - Fritidsgård utifrån ungdomarnas behov",
+      "status": "Remitterad för beredning",
+      "date": "2023-10-17"
+    },
+    {
+      "title": "Mobil fritidsgård i Örebro",
+      "status": "Avslagen - anses besvarad",
+      "date": "2023-09-19"
+    },
+    {
+      "title": "Införa bilfria zoner kring skolor och förskolor",
+      "status": "Bordlagd",
+      "date": "2023-06-12"
+    },
+    {
+      "title": "Naturreservat i Sörbyskogen",
+      "status": "Bordlagd",
+      "date": "2023-06-12"
+    },
+    {
+      "title": "Bilfria zoner kring skolor och förskolor",
+      "status": "Avslagen",
+      "date": "2023-04-18"
+    },
+    {
+      "title": "Naturreservat Sörbyskogen",
+      "status": "Avslagen",
+      "date": "2023-04-18"
+    },
+    {
+      "title": "Omgöra nedre delen av Stortorget - bilfri zon",
+      "status": "Avslagen",
+      "date": "2023-04-18"
+    },
+    {
+      "title": "30 km/h hastighetsgräns i centrala Örebro",
+      "status": "Tillgodosedd",
+      "date": "2023-04-18"
+    },
+    {
+      "title": "Om hållbart skogsbruk",
+      "status": "Bereds av Kommunstyrelsen",
+      "date": "2023-04-11"
+    },
+    {
+      "title": "Hållbart skogsbruk",
+      "status": "Remitterad",
+      "date": "2023-03-22"
+    },
+    {
+      "title": "Lea Strandberg (MP) och Fredrik Persson (MP) om energiförsörjningsplan",
+      "status": "Remitterad till Kommunstyrelsen för beredning",
+      "date": "2023-02-07"
+    },
+    {
+      "title": "Om energiförsörjningsplan (Lea Strandberg, Fredrik Persson, MP)",
+      "status": "Remitterad",
+      "date": "2023-01-24"
+    },
+    {
+      "title": "Om att göra kulturarvet Örebrokällan tillgängligt (Marcus Willén Ode, MP)",
+      "status": "Avslagen",
+      "date": "2023-01-24"
     }
   ],
   "agreement_with": {
-    "V": 8,
-    "M": 11,
-    "C": 11,
-    "L": 10,
-    "S": 11,
-    "ÖrP": 1,
-    "KD": 11,
-    "SD": 5
+    "C": 198,
+    "L": 190,
+    "V": 174,
+    "M": 202,
+    "S": 202,
+    "KD": 190,
+    "ÖrP": 67,
+    "SD": 105
   },
   "disagreement_with": {
-    "SD": 3,
-    "C": 2,
-    "V": 2,
-    "S": 2,
-    "M": 2,
-    "ÖrP": 2,
-    "L": 1
+    "ÖrP": 39,
+    "V": 8,
+    "SD": 38,
+    "M": 18,
+    "S": 19,
+    "C": 17,
+    "L": 6,
+    "KD": 15
   },
-  "for_pct": 92,
+  "meetings_attended": 45,
+  "total_present_sum": 79,
+  "attendance_records": [
+    {
+      "date": "2025-03-26",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2025-03-18",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2025-02-25",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2025-02-11",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2025-01-29",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2025-01-21",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-12-11",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2024-12-03",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-11-20",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2024-11-12",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-10-23",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2024-10-15",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-09-25",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2024-09-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-08-28",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2024-08-27",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-06-10",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2024-05-14",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2024-05-07",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-04-24",
+      "organ": "Kommunfullmäktige",
+      "present": 1
+    },
+    {
+      "date": "2024-04-09",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-03-20",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2024-03-12",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-02-14",
+      "organ": "Kommunfullmäktige",
+      "present": 1
+    },
+    {
+      "date": "2024-02-06",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-01-23",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2023-12-12",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-11-22",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-11-13",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-10-24",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-10-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-09-27",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2023-09-19",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-06-12",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-06-05",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-05-31",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-05-23",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-04-18",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2023-04-11",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-03-22",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-03-14",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-02-15",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-02-07",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-01-24",
+      "organ": "Kommunfullmäktige",
+      "present": 2
+    },
+    {
+      "date": "2023-01-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    }
+  ],
+  "for_pct": 80,
   "against_pct": 8,
-  "abstained_pct": 0,
+  "abstained_pct": 13,
   "activity_score": 100,
+  "attendance_pct": 96,
+  "avg_present": 1.8,
+  "total_meetings_with_attendance": 47,
   "top_categories": [
     [
-      "politik",
-      3
-    ],
-    [
       "ovrigt",
-      3
+      34
     ],
     [
-      "kultur",
-      2
+      "regler",
+      34
     ],
     [
       "budget",
-      2
+      31
     ],
     [
-      "infrastruktur",
-      1
+      "politik",
+      29
+    ],
+    [
+      "kultur",
+      21
     ]
   ],
   "top_allies": [
     [
       "M",
-      11
-    ],
-    [
-      "C",
-      11
+      202
     ],
     [
       "S",
-      11
+      202
+    ],
+    [
+      "C",
+      198
     ]
   ],
   "top_opponents": [
     [
+      "ÖrP",
+      39
+    ],
+    [
       "SD",
-      3
+      38
     ],
     [
-      "C",
-      2
-    ],
-    [
-      "V",
-      2
+      "S",
+      19
     ]
   ],
   "abbr": "MP",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/mp.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/mp/",
-    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/parties/mp.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/parti/mp/",
+    "all_parties": "https://lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

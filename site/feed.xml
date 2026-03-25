@@ -1,16 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Kommun Monitor — Örebro</title>
-<link>/</link>
+<title>Beslutskollen — Örebro</title>
+<link>https://lingabton.github.io/kommun-monitor/</link>
 <description>AI-sammanfattningar av beslut från Örebro kommun</description>
 <language>sv</language>
-<atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 20 Mar 2026 09:42:31 +0100</lastBuildDate>
+<atom:link href="https://lingabton.github.io/kommun-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Wed, 25 Mar 2026 08:36:45 +0100</lastBuildDate>
+<item>
+<title>Yttrande om stärkt trygghet i bostadsrätter till Justitiedepartementet</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-03-17_ko_48/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-03-17_ko_48/</guid>
+<pubDate>Tue, 17 Mar 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen antog ett yttrande över departementets promemoria om förverkande av bostadsrätter. Förslaget skärper kraven på bostadsrättsinnehavares skyldighet att bevara tryggheten inom fastigheten.</description>
+<category>Trygghet</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-03-17_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Kommunen svarar på remiss om stärkt hästnäring – debatt om ridhus</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-03-17_ko_49/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-03-17_ko_49/</guid>
+<pubDate>Tue, 17 Mar 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen antog ett yttrande om hästnäringen men med reservationer från flera partier. Debatten gällde framför allt om enklare ridhus ska klassificeras som ekonomibyggnad.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-03-17_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Gustavsvik Resorts AB privatiseras genom upphandling</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-25_ko_46/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-25_ko_46/</guid>
+<pubDate>Wed, 25 Feb 2026 00:00:00 +0100</pubDate>
+<description>Kommunfullmäktige godkänner upphandling av driften av Gustavsviksanläggningen (bad och camping). GRAB omvandlas till fastighetsägare medan extern aktör driver verksamheten.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-25_Kommunfullmäktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Ej verkställda sociala beslut minskar men problem kvarstår</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-25_ko_51/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-25_ko_51/</guid>
+<pubDate>Wed, 25 Feb 2026 00:00:00 +0100</pubDate>
+<description>Kommunfullmäktige tar emot rapporter om att många beslut om äldreomsorg, funktionsstöd och socialtjänst inte verkställs i tid.</description>
+<category>Budget</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-25_Kommunfullmäktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Gustavsvik drift övergår till privat drift via upphandling</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_27/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_27/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen godkänner privatiseringen av Gustavsviksanläggningen. Gustavsvik Resorts AB renodlas till fastighetsbolag medan extern aktör tar över driften av bad och camping.</description>
+<category>Kultur</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Stadskärnan får utvecklingsstrategi genom bred samverkan</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_26/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_26/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen ger Miljö- och stadsbyggnadsförvaltningen uppdrag att ta fram strategi för stadskärnans utveckling med fokus på samverkan mellan kommunens förvaltningar, näringsliv och civilsamhälle.</description>
+<category>Infrastruktur</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Allvarligt: 145 sociala beslut ej verkställda inom rimlig tid</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_28/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_28/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Rapport visar att många beslut enligt socialtjänstlagen (SoL) och LSS inte verkställs inom tre månader. Funktionsstödsnämnden har 80 overkställda beslut, Vård- och omsorgnämnden 51.</description>
+<category>Trygghet</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Skolsäkerhet: Motion om larm och besökarregistrering besvarad</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_31/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_31/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Liberalerna motion om att öka skolsäkerheten genom skalskydd, högtalare och besökarregistrering klassas som besvarad utifrån pågående säkerhetsarbete.</description>
+<category>Skola</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Motion om anonyma avgångsamtal från SD avslås</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_32/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_32/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen avslår SD:s förslag om att införa anonym funktion för tidigare anställda att berätta varför de slutade.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Stefan Ask blir tillförordnad förvaltningsdirektör till årsskiftet</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_33/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_33/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Stefan Ask tillsätts som tillförordnad chef för Gymnasie- och arbetsmarknadsförvaltningen från 13 april till 31 december 2026 efter närmaste direktörs avgång.</description>
+<category>Budget</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Marie Hollertz blir tillförordnad utvecklingsdirektör till årsskiftet</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_34/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_34/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Marie Hollertz tillsätts som tillförordnad utvecklings- och hållbarhetsdirektör i Kommunledningsförvaltningen från 7 april till 31 december 2026.</description>
+<category>Budget</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Fem nya motioner remitteras till nämnder och beredning</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_35/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_35/</guid>
+<pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate>
+<description>Kommunfullmäktige har remitterat fem motioner. En om mittokrati beredas internt, fyra skickas till nämnder.</description>
+<category>Politik</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Region Stockholm blir delägare i Oslo-Stockholm 255 AB</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_13/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_13/</guid>
+<pubDate>Tue, 27 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunfullmäktige godkände att Region Stockholm blir delägare i infrastrukturbolaget Oslo-Stockholm 255 AB genom en nyemission.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Motion om offentliga toaletter - bordlades efter meningsskiljaktighet</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_15/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_15/</guid>
+<pubDate>Tue, 27 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunfullmäktige bordlade motionen från Liberalerna om utökning av offentliga toaletter efter oenighet om hur ärendet ska hanteras.</description>
+<category>Infrastruktur</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Flera SD-motioner bordlades på ordförandens initiativ</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_2_3_4_5/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_2_3_4_5/</guid>
+<pubDate>Tue, 27 Jan 2026 00:00:00 +0100</pubDate>
+<description>Ordförande bordlade flertalet motioner från Sverigedemokraterna, inklusive kärnkraft, arbetsmiljö, Järntorget och Kilsmo skola.</description>
+<category>Politik</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Återbruk och cirkulär ekonomi - motionen ansågs besvarad</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_16/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_16/</guid>
+<pubDate>Tue, 27 Jan 2026 00:00:00 +0100</pubDate>
+<description>Motion från Vänsterpartiet om att utveckla återbruk i kommunen ansågs besvarad efter diskussion om cirkulär ekonomi.</description>
+<category>Miljö</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Många motioner och interpellationer bordlades massivt</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_31_32_33_34_35_36_37_38/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_31_32_33_34_35_36_37_38/</guid>
+<pubDate>Tue, 27 Jan 2026 00:00:00 +0100</pubDate>
+<description>Ordförande bordlade stora mängder motioner och interpellationer, många från SD, flera tillhörande övriga partier.</description>
+<category>Politik</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Region Stockholm blir delägare i Oslo-Stockholm 255 AB</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_2/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_2/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen godkänner att Region Stockholm blir ny delägare i infrastrukturbolaget Oslo-Stockholm 255 AB. Örebro Rådhus AB får i uppdrag att ingå nytt aktieägaravtal.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>38,6 miljoner till Örebro Läns Flygplats 2026</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_3/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_3/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen beviljar 38,6 miljoner kronor i driftsbidrag till Örebro Läns Flygplats AB för år 2026. Beslutet strider mot miljökritik från Vänsterpartiet.</description>
+<category>Budget</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Strategi mot våld återremitteras för förtydligande</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_7/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_7/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen återremitterar strategin mot våld i nära relationer, hedersrelaterat våld och sexuell exploatering för att förtydliga styrkedjan och beslutsmandaten enligt kommunens styrmodell.</description>
+<category>Regler</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>HBTQI-riktlinje antas trots kritik från höger</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_8/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_8/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen antar riktlinje för arbetet med HBTQI-personers rättigheter. Sverigedemokraterna och Schwefelpartiet reserverar sig.</description>
+<category>Regler</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Landsbygdsdelegationen får fortsätta trots kritik</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_5/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_5/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen antar Landsbygdsdelegationens verksamhetsplan för 2026, men Kristdemokraterna kritiserar delegationen för ineffektivitet och slöseri.</description>
+<category>Budget</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Jämställdhetsdelegationen försvars mot nedläggningsyrkande</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_6/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_6/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen antar Jämställdhetsdelegationens verksamhetsplan. Sverigedemokraterna och Schwefelpartiet yrkade på avveckling.</description>
+<category>Regler</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Partnerskap Örebro fortsätter - Allard vill lägga ned</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_9/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_9/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen accepterar återrapportering från Partnerskap Örebro. Markus Allard (ÖrP) yrkade att lägga ned partnerskapet utan framgång.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Åsa Lindahl ny signalskyddschef för kommunen</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_14/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_14/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen utser Åsa Lindahl till ny signalskyddschef. Eva Barrera Glader entledigs från posten men förordnas som biträdande.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Jämställdhetspris förblir endast för kommun - initiative avslaget</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_15/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_15/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen avslår motion om att öppna jämställdhetspriset för privatpersoner och civil samhälle.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
+<item>
+<title>Två motioner remitteras för beredning</title>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_16/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_16/</guid>
+<pubDate>Tue, 20 Jan 2026 00:00:00 +0100</pubDate>
+<description>Kommunstyrelsen remitterar två motioner: en om värmestuga till Socialnämnden och en om ersättning till företag för beredning.</description>
+<category>Övrigt</category>
+<source url="/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf">Örebro kommun</source>
+</item>
 <item>
 <title>Nämndreglementen revideras för nya socialtjänstlagen</title>
-<link>/beslut/2025-12-10_ko_388/</link>
-<guid>/beslut/2025-12-10_ko_388/</guid>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_388/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_388/</guid>
 <pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
 <description>Kommunfullmäktige beslutar att anta reviderade nämndreglementen för mandatperioden 2023-2026 med ikraftträdande 1 januari 2026. Budget- och skuldrådgivningen flyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden.</description>
 <category>Regler</category>
@@ -18,8 +261,8 @@
 </item>
 <item>
 <title>Motion om farligt gods-transporter avslås</title>
-<link>/beslut/2025-12-10_ko_390/</link>
-<guid>/beslut/2025-12-10_ko_390/</guid>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_390/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_390/</guid>
 <pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
 <description>Kommunfullmäktige avslår motion från SD om att Örebro kommun ska vara pådrivande i diskussioner med Trafikverket om minimering av farligt gods-transporter.</description>
 <category>Infrastruktur</category>
@@ -27,255 +270,12 @@
 </item>
 <item>
 <title>Motion om motorgård för ungdomar avslås</title>
-<link>/beslut/2025-12-10_ko_391/</link>
-<guid>/beslut/2025-12-10_ko_391/</guid>
+<link>https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_391/</link>
+<guid>https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_391/</guid>
 <pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
 <description>Kommunfullmäktige avslår Bjarne Bäckströms (SD) motion om att starta en motorgård i närheten av centrala Örebro för ungdomar.</description>
 <category>Kultur</category>
 <source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motion om kulturarvsvecka avslås</title>
-<link>/beslut/2025-12-10_ko_392/</link>
-<guid>/beslut/2025-12-10_ko_392/</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige avslår motion från SD om att inrätta en årlig kulturarvsvecka.</description>
-<category>Kultur</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motion om byggnadsvårdspris anses tillgodosedd</title>
-<link>/beslut/2025-12-10_ko_393/</link>
-<guid>/beslut/2025-12-10_ko_393/</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige anser Carola Sunessons (SD) motion om att utveckla byggnadspriset med en renodlad del för byggnadsvård tillgodosedd.</description>
-<category>Bygg</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motion om medborgarinflytande på arkitektur avslås</title>
-<link>/beslut/2025-12-10_ko_394/</link>
-<guid>/beslut/2025-12-10_ko_394/</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige avslår motion från Carola Sunesson och Habib Brini (SD) om medborgarinflytande på arkitekturinriktning.</description>
-<category>Bygg</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motion om cirkulationsbibliotek avslås efter votering</title>
-<link>/beslut/2025-12-10_ko_395/</link>
-<guid>/beslut/2025-12-10_ko_395/</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige avslår motion från Johanna Reimfelt och Mats-Olof Liljegren (L) om att utveckla ett cirkulationsbibliotek med klassuppsättningar.</description>
-<category>Skola</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Carina Börjesson (M) blir förste vice ordförande</title>
-<link>/beslut/2025-12-10_ko_396/</link>
-<guid>/beslut/2025-12-10_ko_396/</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige väljer Carina Börjesson (M) till ny förste vice ordförande i Kommunfullmäktige och ordförande i valberedningen.</description>
-<category>Politik</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motioner om toaletter, värmestuga och flera andra bordläggs</title>
-<link>/beslut/2025-12-10_ko_397-417/</link>
-<guid>/beslut/2025-12-10_ko_397-417/</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige bordlägger 13 motioner och interpellationer för senare behandling.</description>
-<category>Övrigt</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Rapport över ej verkställda biståndsbeslut antas</title>
-<link>/beslut/2025-12-10_ko_389/</link>
-<guid>/beslut/2025-12-10_ko_389/</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige noterar rapporten över ej verkställda SoL- och LSS-beslut för kvartal 2, 2025.</description>
-<category>Budget</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Överföring av pensionsmedel och likviditet fastställs</title>
-<link>/beslut/2025-11-11_ko_224/</link>
-<guid>/beslut/2025-11-11_ko_224/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen fastställer storleken på kort- och långfristig likviditetsportfölj för 2026. 234 miljoner kronor överförs från pensionsportföljen och 510 miljoner från långfristig portfölj.</description>
-<category>Budget</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Reviderad konstpolicy antas trots kritik från högern</title>
-<link>/beslut/2025-11-11_ko_225/</link>
-<guid>/beslut/2025-11-11_ko_225/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Kultur- och fritidsnämndens förslag till reviderad konstpolicy antas. SD och ÖrP reserverar sig och yrkade på att enprocentsregeln ska upphöra helt.</description>
-<category>Regler</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Örebro tillstyrker förbättrat informationsutbyte mellan myndigheter</title>
-<link>/beslut/2025-11-11_ko_226/</link>
-<guid>/beslut/2025-11-11_ko_226/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Kommunen svarar positivt på remiss om utökat informationsutbyte mellan myndigheter för att bekämpa välfärdsbrott. SD och ÖrP motsätter sig, V ifrågasätter integritetsaspekter.</description>
-<category>Regler</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Örebro stödjer regional handlingsplan för civilsamhälle</title>
-<link>/beslut/2025-11-11_ko_227/</link>
-<guid>/beslut/2025-11-11_ko_227/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Kommun svarar positivt på remiss om ny regional handlingsplan för civilsamhälle och social ekonomi 2026-2030. ÖrP och en C-ledamot reserverar sig.</description>
-<category>Övrigt</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Kommun stödjer skärpad lagstiftning mot korruption</title>
-<link>/beslut/2025-11-11_ko_228/</link>
-<guid>/beslut/2025-11-11_ko_228/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Örebro tillstyrker remiss om straffrättsliga åtgärder mot korruption och tjänstefel, förespråkar tydligare rekvisit och skärpta straff.</description>
-<category>Regler</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Vänsterpartiet kritiserar försökt sänkning av straffbarhetsålder</title>
-<link>/beslut/2025-11-11_ko_229/</link>
-<guid>/beslut/2025-11-11_ko_229/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Justitiedepartementet remitterade förslag om sänkt straffbarhetsålder för allvarliga brott till 13 år. V reserverar sig starkt och ifrågasätter effektiviteten.</description>
-<category>Trygghet</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motion om att riva fontänen på Järntorget avslås</title>
-<link>/beslut/2025-11-11_ko_231/</link>
-<guid>/beslut/2025-11-11_ko_231/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Sverigedemokraterna och ÖrP ville riva fontänen och återupprätta parkering på Järntorget. Kommun bedömer att problemen kräver innehållsmässiga, inte parkeringsmässiga lösningar.</description>
-<category>Bygg</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motion om att rensa bland styrdokument delvis tillgodosedd</title>
-<link>/beslut/2025-11-11_ko_232/</link>
-<guid>/beslut/2025-11-11_ko_232/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>SD väckade motion om översyn av samtliga styrdokument. Kommun bedömer att revisionen av Riktlinjer för styrdokument från maj 2025 redan tillgodoser intentionen.</description>
-<category>Regler</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Motion om avgångsvederlag avslås efter rättslig prövning</title>
-<link>/beslut/2025-11-11_ko_233/</link>
-<guid>/beslut/2025-11-11_ko_233/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>SD väckade motion om att begränsa avgångsvederlag och ekonomiska fallskärmar. Kommun bedömer att rättsordning och befintliga rutiner redan hanterar frågan.</description>
-<category>Budget</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Fem nya motioner remitteras till nämnder och styrelse</title>
-<link>/beslut/2025-11-11_ko_235/</link>
-<guid>/beslut/2025-11-11_ko_235/</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0100</pubDate>
-<description>Kommunfullmäktige remitterade fem motioner. Två går till Kommunstyrelsen för beredning, två till nämnder och en till Teknik- och servicenämnden.</description>
-<category>Övrigt</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Tilläggsanslag 12,5 miljarder kronor för oförutsedda kostnader</title>
-<link>/beslut/2025-10-14_ko_194/</link>
-<guid>/beslut/2025-10-14_ko_194/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen beviljade tilläggsanslag på totalt 12 495 tkr för kostnadsökningar under 2025, finansierat ur oförutsedda behov och lokalförsörjningskonsekvenser. SD reserverade sig mot ett anslag på 200 tkr för klimatkommunikation.</description>
-<category>Budget</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Delårsrapport visar negativ avvikelse på 210 miljoner kronor</title>
-<link>/beslut/2025-10-14_ko_196/</link>
-<guid>/beslut/2025-10-14_ko_196/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen godkände delårsrapport för 2025 som visar att Örebro kommun inte uppnår finansiella mål. Resultatet prognostiseras till 257 mnkr mot budgeterat 467 mnkr. Nämnder ska vidta åtgärder för att säkra långsiktigt hållbar ekonomi.</description>
-<category>Budget</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Investeringsprogram 2025 revideras till 1 359 miljarder kronor</title>
-<link>/beslut/2025-10-14_ko_197/</link>
-<guid>/beslut/2025-10-14_ko_197/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsens godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr, omfattande 780,6 mnkr skattefinansierade och 578,6 mnkr taxefinansierade investeringar. Driftkostnadskonsekvenser beräknas till 56,2 mnkr.</description>
-<category>Budget</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Kommunövergripande lokalförsörjningsplan 2027-2037 antagen</title>
-<link>/beslut/2025-10-14_ko_198/</link>
-<guid>/beslut/2025-10-14_ko_198/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen antog lokalförsörjningsplanen för perioden 2027-2037 som handlingsplan för framtida lokalbehov. Planen prioriterar 37 lokalprojekt varav 15 är pågående.</description>
-<category>Bygg</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Budget 2026 fastställd med nya taxor och avgifter från 1 januari</title>
-<link>/beslut/2025-10-14_ko_199/</link>
-<guid>/beslut/2025-10-14_ko_199/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen fastställde tilläggsbudget för 2026 med reviderade driftbudgetramar, nya taxor för avfall, vatten-avlopp, alkohol och markanvändning. Nya avgifter för transportdispenser introducerats.</description>
-<category>Budget</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Medlemskap i Stockholm Business Alliance 2026-2030 förnyat</title>
-<link>/beslut/2025-10-14_ko_200/</link>
-<guid>/beslut/2025-10-14_ko_200/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance för perioden 2026-2030. SBA är ett samarbete mellan 55 kommuner i Stockholm Mälardalen för näringslivsutveckling.</description>
-<category>Övrigt</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Finansverksamhet - delegationsordning och firmatecknare reviderad</title>
-<link>/beslut/2025-10-14_ko_201/</link>
-<guid>/beslut/2025-10-14_ko_201/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen beslöt om revidering av delegationsordning och firmatecknare inom finansverksamheten. Beslut omfattar ny namngivning av ansvariga tjänstemän för låneprogram, placeringar, borgensåtaganden och banktjänster.</description>
-<category>Regler</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Revisor utbytt i sju kommunala bolag</title>
-<link>/beslut/2025-10-14_ko_202/</link>
-<guid>/beslut/2025-10-14_ko_202/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen gav instruktion till stämmoombud att byta revisor i flera kommunala bolag efter att Gustav Tönnies slutade på Ernst &amp; Young AB. Per Modin och Joakim Holmquist utsågs till nya revisorer.</description>
-<category>Övrigt</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Smart Säker Stad-samarbete formaliserat mellan kommunen och bolag</title>
-<link>/beslut/2025-10-14_ko_203/</link>
-<guid>/beslut/2025-10-14_ko_203/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen godkände samverkansavtal för projektet Smart Säker Stad som syftar till att förbättra säkerhet, resiliens och kommunikationslösningar i staden genom digitalisering.</description>
-<category>Övrigt</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
-</item>
-<item>
-<title>Partistöd 2024 godkänt - utbetaling till nio partier</title>
-<link>/beslut/2025-10-14_ko_204/</link>
-<guid>/beslut/2025-10-14_ko_204/</guid>
-<pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-<description>Kommunstyrelsen godkände redovisning av lokalt partistöd för 2024 från alla nio representerade partier. Partistöd för 2026 ska utbetalas enligt tidigare gällande regler.</description>
-<category>Övrigt</category>
-<source url="/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf">Örebro kommun</source>
 </item>
 
 </channel>

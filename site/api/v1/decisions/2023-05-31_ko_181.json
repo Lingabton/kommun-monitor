@@ -1,0 +1,39 @@
+{
+  "id": "2023-05-31_ko_181",
+  "headline": "Rapportering ej verkställda SoL/LSS-beslut bordlagd",
+  "summary": "Rapport över ej verkställda beslut inom socialtjänst, funktionsstöd och äldreomsorg för Q4 2022 bordlades. V reserverade sig.",
+  "detail": "Socialnämnden rapporterade 11 ej verkställda beslut varav 9 fortfarande ej verkställda inom 3 månader. Funktionsstödsnämnden rapporterade 200 ej verkställda beslut varav 143 fortfarande väntande. Vård- och omsorgsnämnden rapporterade 49 ej verkställda beslut varav 5 fortfarande väntande.\n\nRapporterna visar på behov av resursplanering för att kunna verkställa insatser inom skälig tid.\n\nMartha Wicklund (V) reserverade sig mot behandlingen. Fullmäktige bordlade ärendet för vidare hantering.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 181",
+  "tags": [
+    "socialtjänst",
+    "äldreomsorg",
+    "verkställning",
+    "resurser",
+    "LSS"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Aterremiss"
+  },
+  "quote": "Syftet med rapporteringen är att kommunen ska ha kännedom om dessa ärenden samt kunna planera sina resurser för att kunna verkställa insatser inom skälig tid.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2023-05-31_Kommunfullmäktige",
+    "date": "2023-05-31",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-31_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-31_ko_181.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-31_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-31_ko_181/"
+  }
+}

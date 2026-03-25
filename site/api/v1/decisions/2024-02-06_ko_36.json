@@ -1,0 +1,45 @@
+{
+  "id": "2024-02-06_ko_36",
+  "headline": "Nya intraprenader-riktlinjer antagna utan Liberalernas ändringsförslag",
+  "summary": "Kommunstyrelsen antog nya riktlinjer för intraprenader som ersätter tidigare styrdokument. Liberalerna, KD och SD yrkade ändringar för att förmuntra fler intraprenader, men förslaget röstades igenom utan ändringar.",
+  "detail": "Kommunledningsförvaltningen sammanförde två tidigare styrdokument (Regelverk för resultatenheter och Intraprenad 2.0) till ett nytt ramverk för intraprenader. De nya riktlinjerna innehåller inte genomgripande förändringar utan fokuserar på att rensa bort det som gäller alla verksamheter och förtydliga det som är specifikt för intraprenader.\n\nKarolina Wallström (L) yrkade på åtta ändringsförslag för att göra riktlinjerna mer tillitsbaserade och uppmuntrande till nya intraprenader, bland annat högre procentsatser för resultattransfer och större flexibilitet. Susanne Lindholm Henningsson (KD) yrkade på en mer positiv formulering. Helena Ståhl (SD) och Markus Allard (ÖrP) stödde Wallströms ändringsförslag.\n\nOrdinarie Anders Åhrlin (M) utseende kommunledningsförvaltningens förslag till huvudförslag och röstade igenom det. Wallström (L), Ståhl (SD), Bo Ammer (SD) och Allard (ÖrP) reserverade sig.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 36",
+  "tags": [
+    "intraprenader",
+    "styrdokument",
+    "organisering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det övergripande syftet med intraprenader är att enheten ska ges möjlighet att, använda ekonomiskt överskott och annat eget agerande i drift och organisation, genomföra åtgärder som utvecklar verksamheten.",
+  "quote_page": "s. 14-15",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_36.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_36/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-19_ko_188",
+  "headline": "Citronmelissen 1: 130 lägenheter för 28 miljoner",
+  "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 130 hyresrätter på Citronmelissen 1 i Tamarinden, Sörbyängen.",
+  "detail": "Örebrobostäder avser att bygga cirka 130 lägenheter på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen. Bostäderna ska upplåtas som hyresrätter. Priset för markförsäljningen är beräknat till cirka 28 miljoner kronor.\n\nEtt reservationsavtal har redan tecknats. På grund av årliga indexregleringar enligt kommunens riktlinjer för markprissättning har priset höjts från under 25 mkr till över 25 mkr enligt 2023 års markpriser. Då köpeskillingen nu överstiger 25 miljoner krävs beslut från Kommunfullmäktige om förlängning av reservationsavtalet.\n\nOrdförande i markplanerings- och exploateringsnämnden får uppdrag att underteckna avtal och godkänna justeringar i situationsplan och byggnadernas utformning.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Citronmelissen 1, Tamarinden, Sörbyängen",
+  "paragraph_ref": "§ 188",
+  "tags": [
+    "Citronmelissen 1",
+    "Tamarinden",
+    "bostäder",
+    "Örebrobostäder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Örebrobostäder avser att bygga ca 130 lägenheter på fastigheten Citronmelissen 1 i området Tamarinden, Sörbyängen.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_188.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_188/"
+  }
+}

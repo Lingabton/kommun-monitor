@@ -1,0 +1,45 @@
+{
+  "id": "2025-09-16_ko_184",
+  "headline": "Kritik mot livsmedelskontrollreform – Örebro svarar remiss",
+  "summary": "Kommunstyrelsen godkänner ett kritiskt remissvar mot regeringens förslag om omorganisering av livsmedelskontrollen, som riskerar högre kostnader och försämrad lokal närvaro.",
+  "detail": "Örebro kommun har ytterligit sig över Landsbygds- och infrastrukturdepartementets betänkande om en översyn av kontrollorganisation och finansiering av kontroll i livsmedelskedjan (SOU 2025:64).\n\nBygg- och miljönämndens remissvar förespråkar det föreslagna systemet kan ge vinster i enhetlighet och effektivitet, men risker samtidigt att bli kostsamt, skapa mer splittrad tillsyn för företagen och försvaga den lokala närvaron.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) yrkar avslag på förslaget. Trots detta beslutar Kommunstyrelsen att anta och överlämna yttrandet enligt Bygg- och miljönämndens förslag. ÖrP och SD reserverar sig mot beslutet.\n\nBeslutet ska översendes till Landsbygds- och infrastrukturdepartementet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 184",
+  "tags": [
+    "livsmedelskontroll",
+    "regeringsremiss",
+    "näringsliv",
+    "tillsyn",
+    "lokalnärvaro"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Förslaget kan ge vissa vinster i enhetlighet och effektivitet, men riskerar samtidigt att bli kostsamt, skapa mer splittrad tillsyn för företagen och försvaga den lokala närvaron.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2025-09-16_Kommunstyrelsen",
+    "date": "2025-09-16",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-16_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-16_ko_184.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-16_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-16_ko_184/"
+  }
+}

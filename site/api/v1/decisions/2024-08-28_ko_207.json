@@ -1,0 +1,35 @@
+{
+  "id": "2024-08-28_ko_207",
+  "headline": "Skadegörelse skolor - motion bordlades",
+  "summary": "Motion om debiteringsprincip för uppsåtlig skadegörelse i skolor bordlades utan slutbeslut.",
+  "detail": "Helena Ståhl, Bo Ammer och Carola Sunesson (SD) motionerade för att rekommendera rektorer att debitera vårdnadshavare vid uppsåtlig skadegörelse och att ge elever möjlighet att arbeta av skulder.\n\nFörskole- och grundskoleförvaltningen föreslog att motionen skulle avslås med motiveringen att det redan finns tillräckligt underlag för att begära ersättning.\n\nKommunfullmäktige bordlade ärendet utan att anta avslagesförslaget.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 207",
+  "tags": [
+    "skada",
+    "skola",
+    "ansvar"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "det i nuläget inte finns några planer inom Förskole- och grundskoleförvaltningen att förändra något i hanteringen av skadegörelse i skolor",
+  "quote_page": "s. 28",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_207.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_207/"
+  }
+}

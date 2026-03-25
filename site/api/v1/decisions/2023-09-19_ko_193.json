@@ -1,0 +1,45 @@
+{
+  "id": "2023-09-19_ko_193",
+  "headline": "Motion om vildsvinskött är redan tillgodosedd",
+  "summary": "Motion från Daniel Spiik (SD) om vildsvinskött som köttalternativ anses redan tillgodosedd.",
+  "detail": "Daniel Spiik (SD) motionerade 2022-04-27 om att Örebro kommun ska utreda möjligheterna att köpa in vildsvinskött som utökat köttalternativ till kommunala verksamheters menyer.\n\nBedömningen är att vildsvinskött redan finns med i kommunens upphandlingsavtal, varför motionen anses tillgodosedd. Bo Ammer (SD) yrkar bifall till detta förslag vilket Kommunstyrelsen beslutar.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 193",
+  "tags": [
+    "vildsvinskött",
+    "livsmedel",
+    "upphandling"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Vildsvinskött finns med i upphandlingsavtal redan i dag och att motionen därför är tillgodosedd.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_193.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_193/"
+  }
+}

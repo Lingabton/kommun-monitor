@@ -1,0 +1,39 @@
+{
+  "id": "2023-03-14_ko_56",
+  "headline": "Motion om dans för hälsa i skolor avslagen trots stöd",
+  "summary": "Kommunstyrelsen fastslöog att motion om att permanenta 'Dans för hälsa' ansågs tillgodosedd, men oppositionen ville se det som besvarad.",
+  "detail": "Gunilla Werme (L) hade motionerat om att permanenta 'Dans för hälsa' som del av skolors hälsofrämjande arbete. Bedömningen var att intentionerna redan uppfylldes då verksamheten placerats under Förvaltningen för utbildning och finansierades genom elevhälsosatsning. En utredning skulle fortsätta under läsåret för att finna långsiktigt hållbar lösning.\n\nKarolina Wallström (L) yrkade att motionen skulle anses besvarad. Susanne Lindholm (KD) stödde detta.\n\nOrdföranden ställde förslagen mot varandra. Kommunledningsförvaltningens förslag (tillgodosedd) antogs framför yrkandet om 'besvarad'. Liberalerna och KD reserverade sig.\n\nEn notering gjordes att Karolina Wallström senare skickade in en rättelse angående sitt yrkande - hon hade ämnat yrka bifall till motionen.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 56",
+  "tags": [
+    "Dans för hälsa",
+    "elevhälsa",
+    "psykisk ohälsa",
+    "barn och ungdomar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Motionen innehåller ett förslag om att permanenta 'Dans för hälsa' som en del i skolors och kommunens hälsofrämjande arbete och därmed förebygga psykisk ohälsa hos barn och ungdomar.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_56.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_56/"
+  }
+}

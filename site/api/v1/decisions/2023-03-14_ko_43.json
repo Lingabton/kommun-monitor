@@ -1,0 +1,39 @@
+{
+  "id": "2023-03-14_ko_43",
+  "headline": "Kommunstyrelsens verksamhetsplan med budget 2023 fastställd",
+  "summary": "Kommunstyrelsen fastställde budgeten för 2023 med krav på 18 miljoner kronor i effektiviseringar. Ett flertal oppositionspartier reserverade sig mot beslutet.",
+  "detail": "Kommunledningsförvaltningen presenterade verksamhetsplan med budget för 2023. Motiveringen var att Örebro kommun står inför utmaningar med demografisk utveckling som ökar välfärdskostnaderna, samtidigt som tillväxttakten avtar. Kommundirektören fick i uppdrag att presentera effektiviseringsförslag på 18 miljoner kronor.\n\nMarkus Allard (ÖrP) yrkade avslag till förmån för Örebropartiets budget. Martha Wicklund (V) yrkade avslag på beslutspunkt 1 och att beslutspunkt 2 återremitterades. Susanne Lindholm (KD) yrkade avslag för Kristdemokraternas budget. Helena Ståhl (SD) yrkade avslag för Sverigedemokraternas budget. Karolina Wallström (L) yrkade avslag för Liberalernas budget.\n\nOrdföranden ställde yrkandena mot varandra. Martha Wicklunds yrkande om återremiss avslogs. Därefter valdes Kommunledningsförvaltningens förslag framför oppositionens avslagsyrkanden.\n\nReservationer lämnades av samtliga oppositionspartier. Kristdemokraterna kritiserade att löften om miljardsatsning mot utanförskap inte finansierades. Liberalerna ville minska förvaltningsorganisationen med 1,6 procent som första steg.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 43",
+  "tags": [
+    "budget 2023",
+    "effektiviseringar",
+    "välfärd",
+    "kritik från opposition"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Stora ord i texten om viktiga områden som kompetensförsörjning, klimat o miljö samt att motverka utanförskap. Det sistnämnde har Socialdemokraterna i valrörelsen lovat miljardsatsning... men när vi läser om uppdraget i KS plan och budget, finns inga pengar avsatta 2023.",
+  "quote_page": "s. 4, yttrande Susanne Lindholm (KD)",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_43.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_43/"
+  }
+}

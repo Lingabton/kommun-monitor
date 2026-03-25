@@ -1,0 +1,34 @@
+{
+  "id": "2024-08-28_ko_199",
+  "headline": "Återvandringsstöd - motion bordlades",
+  "summary": "Motion om informationsinsats om återvandringsstöd bordlades utan slutbeslut.",
+  "detail": "Carola Sunesson (SD) motionerade för regelbunden informationsinsats om möjligheter till stöd för frivillig återvandring till relevanta målgrupper.\n\nKommunledningen föreslog att motionen skulle avslås då det inte ingår i befintlig lagstiftning och en statlig utredning pågår om ansvarsfördelning. Bedömningen var att invänta statliga resultat.\n\nKommunfullmäktige bordlade ärendet utan slutbeslut.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 199",
+  "tags": [
+    "migration",
+    "återvandring"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Migrationsverket har regeringens uppdrag att administrera stödinsatser för frivillig återvandring.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_199.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_199/"
+  }
+}

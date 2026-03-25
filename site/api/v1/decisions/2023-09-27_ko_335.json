@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-27_ko_335",
+  "headline": "Enprocentsregeln för konst behålls - motionen avslogs",
+  "summary": "Örebro för Förändring motionerade för att slopa enprocentsregeln för offentlig konst. Fullmäktige avslogs motionen och menar att regeln är ett viktigt kulturverktyg.",
+  "detail": "Markus Allard och Peter Springare från Örebro för Förändring motionerade för att slopa enprocentsregeln för hela kommunkoncernen.\n\nEnprocentsregeln är en ekonomisk princip för offentlig konst som innebär att en procent av den totala budgeten avsätts för konstnärlig gestaltning vid ny-, om- och tillbyggnad. Regeln tillämpas sedan 1930-talet i Sverige och av Örebro kommun sedan 1968.\n\nKommunfullmäktige avslogs motionen. Bedömningen var att enprocentsregeln är ett viktigt verktyg för att garantera att medborgarna har möjlighet att ta del av konst. Nutida konst är viktig för framtida kulturarv. Kulturnämnden hade tidigare fått uppdrag att föreslå reviderad användning för större flexibilitet och strategiskt arbete.\n\nÖrebro för Förändring och Sverigedemokraterna reserverade sig.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 335",
+  "tags": [
+    "enprocentsregeln",
+    "offentlig konst",
+    "kultur",
+    "kulturpolitik"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Enprocentsregeln är ett viktigt verktyg för att kommunen ska kunna garantera att medborgarna har möjlighet att ta del av konst, samt att den nutida konsten är en viktig faktor för vårt framtida kulturarv.",
+  "quote_page": "s. 31",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_335.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_335/"
+  }
+}

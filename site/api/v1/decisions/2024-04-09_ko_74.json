@@ -1,0 +1,43 @@
+{
+  "id": "2024-04-09_ko_74",
+  "headline": "Örebro Rådhuskoncernen: 137 miljoner resultat, inga utdelningar",
+  "summary": "Årsredovisningen för Örebro Rådhus AB och dotterbolag godkänns. Koncernen gjorde 137 miljoner kronor resultat. Ingen utdelning föreslås från moderbolaget till kommunen.",
+  "detail": "Örebro Rådhus AB ägs till 100 % av Örebro kommun och äger samtliga aktier i ÖrebroBostäder AB, Örebroporten Fastigheter AB, Futurum Fastigheter, Örebrokompaniet AB och Örebro Parkering AB, samt delägande i flera andra bolag.\n\nÖrebro Rådhus AB gjorde ett resultat på 25,6 miljoner kronor efter skatt. Hela Örebro Rådhuskoncernen gjorde 137 miljoner kronor resultat efter skatt (255 miljoner 2022).\n\nAktieägarvärde i moderbolagets bokslut: 1 849 miljoner kronor. Stämmoombuden får uppdrag att rösta för godkännande av resultat, disponering av vinster, ansvarsfrihet för styrelse och ledning, samt antagande av nya bolagsordningar.\n\nÖrebropartiet yrkade återremiss och avslag. Vänsterpartiet yrkade utredning om överlåtelse eller nedläggning av Örebro läns flygplats.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 74",
+  "tags": [
+    "Örebro Rådhus",
+    "bolag",
+    "resultat",
+    "utdelning",
+    "Flygplats"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Resultatet för Örebro Rådhus AB är 25,6 mnkr efter skatt. Ingen utdelning från Örebro Rådhus föreslås till Örebro kommun.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-04-09_Kommunstyrelsen",
+    "date": "2024-04-09",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_74.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_74/"
+  }
+}

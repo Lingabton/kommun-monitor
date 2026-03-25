@@ -1,0 +1,47 @@
+{
+  "id": "2025-12-10_ko_390",
+  "headline": "Motion om farligt gods-transporter avslås",
+  "summary": "Kommunfullmäktige avslår motion från SD om att Örebro kommun ska vara pådrivande i diskussioner med Trafikverket om minimering av farligt gods-transporter.",
+  "detail": "Habib Brini och Bo Ammer från SD lämnade motionen där de föreslår att Örebro kommun ska arbeta för att minimera transporter av farligt gods genom kommunen och verka för att en framtida järnväg blir verklighet.\n\nMotionen avslogs med motiveringen att andra åtgärder har högre prioritet i dagsläget. Markplanerings- och exploateringsnämnden behandlade ärendet 23 maj 2025 och Kommunstyrelsen 26 augusti 2025.\n\nMotionen bordlades flera gånger innan slutlig behandling: 27 augusti, 24 september, 22 oktober och 18 november 2025. SD, ÖrP, L och KD reserverade sig mot beslutet.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 390",
+  "tags": [
+    "farligt gods",
+    "transporter",
+    "järnväg",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "L",
+      "KD"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "Motionen avslås eftersom andra åtgärder i dagsläget har en högre prioritet.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-12-10_Kommunfullmäktige",
+    "date": "2025-12-10",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_390.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_390/"
+  }
+}

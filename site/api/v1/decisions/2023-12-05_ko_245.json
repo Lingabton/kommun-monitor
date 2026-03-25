@@ -1,0 +1,42 @@
+{
+  "id": "2023-12-05_ko_245",
+  "headline": "Kommunstyrelsens budget 2024 fastställd trots reservationer",
+  "summary": "Kommunstyrelsen fastställde sin egen verksamhetsplan och budget för 2024 enligt förvaltningens förslag. Fyra oppositionspartier reserverade sig för egna budgetförslag.",
+  "detail": "Kommunstyrelsen fastställde sin verksamhetsplan med budget 2024 enligt förvaltningens förslag. Planen utgår från Örebros övergripande strategier och ska leda till måluppfyllelse enligt Kommunfullmäktiges fastställda strategiska områden.\n\nFör 2024 måste kommunens verksamheter klara budget och kostnadsutvecklingen för att hålla de finansiella målen. Detta kräver mer samarbete mellan förvaltningarna. Kommundirektören fick besluta om ombudgetering inom kommunledningsförvaltningens verksamhetsområden under året.\n\nKarolina Wallström (L) yrkade avslag till förmån för Liberalernas förslag. Susanne Lindholm Henningsson (KD) yrkade avslag för Kristdemokraternas satsningar. Helena Ståhl (SD) yrkade avslag för Sverigedemokraternas budgetförslag. Markus Allard (Örebropartiet) yrkade avslag för sitt partis budgetförslag. Martha Wicklund (V) avstod från att delta. Ordföranden fann att Kommunstyrelsen beslutade enligt förvaltningens förslag. Fyra partier reserverade sig.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 245",
+  "tags": [
+    "budget",
+    "kommunstyrelsen",
+    "2024",
+    "verksamhetsplan"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Verksamhetsplan med budget 2024 för Kommunstyrelsen fastställs.",
+  "quote_page": "s. 9-10",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_245.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_245/"
+  }
+}

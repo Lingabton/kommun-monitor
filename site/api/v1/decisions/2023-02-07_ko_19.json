@@ -1,0 +1,42 @@
+{
+  "id": "2023-02-07_ko_19",
+  "headline": "Tilläggsanslag och ombudgeteringar för 2023",
+  "summary": "Kommunstyrelsen beviljade tilläggsanslag på 509 tkr för brandskydd i gruppbostäder och genomförde ombudgeteringar mellan nämnder. Flera partier reserverade sig mot beslutet.",
+  "detail": "Ärendet omfattade två delar: investeringskompensation för brandskydd i gruppbostäder (509 tkr) och ombudgeteringar mellan nämnder enligt ramfördelning för den nya nämndstrukturen 2023.\n\nOmbudgeteringarna innefattade bland annat finansiering till Tegelbruket genom överföringar från Kommunstyrelsen till Kultur- och fritidsnämnden på 2 000 tkr. Detta väckte motsättningar, då ÖBO:s minskade stöd till Tegelbruket skulle täckas genom kommunal finansiering.\n\nSD (Bo Ammer) yrkade avslag på ombudgeteringen till Tegelbruket. KD (Susanne Lindholm) och L (Karolina Wallström) yrkade avslag på hela ombudgeteringsdelen till förmån för egna budgetförslag. ÖrP (Markus Allard) föreslog helt andra ombudgeteringar med bland annat mindre överföringar till Kultur- och fritidsnämnden.\n\nMajoriteten (S, M och C) beslutade enligt förvaltningens förslag. V (Martha Wicklund) deltog inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 19",
+  "tags": [
+    "budget",
+    "ombudgetering",
+    "Tegelbruket",
+    "nämndöversyn"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Ombudgetering från Kommunstyrelsen till Kultur- och fritidsnämnden på 2 000 tkr som avser Tegelbruket",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_19.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_19/"
+  }
+}

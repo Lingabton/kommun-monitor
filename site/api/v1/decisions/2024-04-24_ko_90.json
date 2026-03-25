@@ -1,0 +1,43 @@
+{
+  "id": "2024-04-24_ko_90",
+  "headline": "Utökat ägande i Kumbro Vind för att leverera el till flygplatsen",
+  "summary": "Kommunfullmäktige godkänner att Örebro läns flygplats och fastighetsbolaget Futurum blir aktieägare i Kumbro Vind. Detta möjliggör att flygplatsen upphandlar sitt elbehov från kommunens vindkraftbolag.",
+  "detail": "För att möjliggöra att Örebro läns flygplats (ÖLF) upphandlar elkraft från Kumbro Vind föreslås ändringar i bolagsordningen så att ÖLF tillsammans med Örebro kommun, Kumla kommun och Futurum får avgörande inflytande över Kumbro Vinds strategiska mål. Både ÖLF och Futurum blir aktieägare för att underlätta samordning av direktiv.\n\nÖverblivna aktiepositioner från Kumbro Utveckling överlåts till ÖLF och Futurum. Ändringar görs även i aktieägaravtalet mellan ägarna i Kumbro Utveckling. Beslutet är villkorat av att Kumla kommun och Region Örebro län godkänner motsvarande ändringar.\n\nVänsterpartiet reserverade sig mot beslutet och yrkade att kommunen omedelbar skulle starta utredning för överlåtelse eller nedläggning av flygplatsen. Liberalerna och Örebropartiet motsatte sig beslutet helt.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro läns flygplats",
+  "paragraph_ref": "§ 90",
+  "tags": [
+    "Kumbro Vind",
+    "vindkraft",
+    "flygplats",
+    "ägande",
+    "elnätet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kumbro Vind har tillräcklig produktionskapacitet genom befintliga vindkraftsanläggningar för att kunna leverera elkraft till ÖLF motsvarande det behov ÖLF har i dagsläget.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2024-04-24_Kommunfullmäktige",
+    "date": "2024-04-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-24_ko_90.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-24_ko_90/"
+  }
+}

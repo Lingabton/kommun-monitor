@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-17_ko_208",
+  "headline": "Tilläggsanslag oktober 2023: 34,2 miljoner kronor",
+  "summary": "Kommunstyrelsen beviljar tilläggsanslag på totalt 34,2 miljoner kronor för kostnadsökningar och oförutsedda behov under 2023.",
+  "detail": "Ärendet innefattar tilläggsanslag och ombudgetering för budgetåret 2023, vilket bland annat kompenserar för tidigare beslutade tilläggsanslag från september.\n\nTotalt beviljas 34 192 000 kronor, finansierat ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar och oförutsedda behov.\n\nOmbudgetering sker mellan nämnder enligt förslaget. En särskild debatt fördes om nivån på förstärkningen till Porten (Stadsmissionen), där Kristdemokraterna och Sverigedemokraterna ville höjda posterna, men majoriteten godkände administrationens förslag.\n\nFlera partier, inklusive Liberalerna, reserverade sig mot delar av beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 208",
+  "tags": [
+    "budget",
+    "tilläggsanslag",
+    "ombudgetering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "KD",
+      "SD",
+      "L",
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag avser bland annat kompensation för av Kommunstyrelsen beslutade tilläggsanslag avseende beslut som skett i Kommunstyrelsen i september.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_208.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_208/"
+  }
+}

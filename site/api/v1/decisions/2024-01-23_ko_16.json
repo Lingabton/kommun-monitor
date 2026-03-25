@@ -1,0 +1,36 @@
+{
+  "id": "2024-01-23_ko_16",
+  "headline": "Vätternvatten folkomröstning - motion bordlad",
+  "summary": "Motion från Örebropartiet om folkomröstning angående Vätternvatten dricksvattenprojekt bordlades.",
+  "detail": "Örebropartiet (Markus Allard, Peter Springare) föreslog 2022-08-11 folkomröstning om Vätternvatten-projektet med motivering att det är en avgörande fråga för kommunen.\n\nKommunledningen (S, M, C) är överens med Örebropartiet om att Vätternvatten är en mycket viktig fråga för vattenförsörjning. Kommunledningen konstaterar att denna typ av projekt föregås av grundlig utredning och att Vätternvatten är den långsiktiga lösningen.\n\nÄrendet bordlades tidigare och bordlades igen 2024-01-23 utan slutgöring.",
+  "category": "miljö",
+  "contested": true,
+  "location": "Vättern",
+  "paragraph_ref": "§ 16",
+  "tags": [
+    "Vätternvatten",
+    "dricksvatten",
+    "miljö",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Borderläggning"
+  },
+  "quote": "Ytterst handlar det om att säkra vattenförsörjningen för flera kommuner vilket gör projektet till ett av landets viktigaste dricksvattenprojekt.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_16.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_16/"
+  }
+}

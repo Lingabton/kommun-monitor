@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-19_ko_182",
+  "headline": "Delårsrapport 2 2023 fastställd",
+  "summary": "Kommunstyrelsen fastställer delårsrapport med prognos 2 för 2023. Kommunstyrelsens verksamhet bedöms i allt väsentligt följa givet reglemente och styrregler.",
+  "detail": "Rapporten visar att kommunledningsförvaltningen beräknas vara i nivå med budget med en positiv avvikelse om 0,2 mnkr. Intraprenaden Kulturkvarteret ingår i förvaltningen och beräknas visa negativ avvikelse om -3,8 mnkr. Kommungemensam nivå prognostiseras negativ avvikelse bland annat på grund av reduceringskrav på administrativa lokaler och effekter av NOD-projektet. Den sammanställda budgetavvikelsen för kommunstyrelsen beräknas till -15,2 mnkr.\n\nRapporten överlämnas för vidare hantering inom Örebro kommuns uppföljningsprocess 2023. Samtliga avdelningar har vidtagit åtgärder med fokus att uppnå ekonomi i balans även för kommande år.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 182",
+  "tags": [
+    "budget",
+    "delårsrapport",
+    "ekonomi",
+    "Kulturkvarteret"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Bedömningen grundar sig på Kommunstyrelsens uppföljning utifrån av Kommunfullmäktige fastställda målområden och bidrag till kommunfullmäktigemål för god ekonomisk hushållning.",
+  "quote_page": "s. 2",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_182.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_182/"
+  }
+}

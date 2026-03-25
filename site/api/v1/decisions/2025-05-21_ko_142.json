@@ -1,0 +1,46 @@
+{
+  "id": "2025-05-21_ko_142",
+  "headline": "Motion om suicidprevention avslåsed – arbete redan pågår",
+  "summary": "Kommunfullmäktige beslutade att avslå motion om handlingsplan för suicidprevention. Kommunledningen menar att arbetet redan ingår i det breda psykisk hälso-arbetet.",
+  "detail": "Johanna Reimfelt och Karolina Wallström (L) motionerade om att Örebro kommun ska upprätta en handlingsplan för suicidprevention som inkluderar förebyggande arbete.\n\nKommunledningen (S, M, C) anser att det är viktigt att aktivt arbeta med psykisk ohälsa för att förhindra suicid. Dock bedöms att det finns en risk att arbetet blir för smalt med en separat handlingsplan eller riktlinjer. Istället arbetar kommunen utifrån att psykisk ohälsa och suicidpreventivt arbete hör ihop.\n\nKommunen genomför tre utbildningsinsatser för suicidnära samtal för medarbetare. Arbetet inväntar även en kommande nationell strategi för psykisk hälsa och suicidprevention.\n\nMotionen avslogs med 41 ja-röster mot 24 nej-röster. Flera partier (KD, SD, V, L, MP) yrkade på bifall till motionen.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 142",
+  "tags": [
+    "psykisk hälsa",
+    "suicid",
+    "prevention"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "ÖrP"
+    ],
+    "against": [
+      "KD",
+      "SD",
+      "V",
+      "L",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Idag arbetar Örebro kommun utifrån att psykisk ohälsa och det suicidpreventiva arbetet hör ihop, då detta ger arbetet en bredd än om man separerar och arbetar med områdena var för sig.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2025-05-21_Kommunfullmäktige",
+    "date": "2025-05-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-21_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-21_ko_142.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-21_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-21_ko_142/"
+  }
+}

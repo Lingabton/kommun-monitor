@@ -3,17 +3,62 @@
   "name": "Garphyttan",
   "decisions": [
     {
-      "id": "2025-08-27_kf_217",
-      "headline": "Naturreservat Garphytteklint bildas",
-      "summary": "Nytt naturreservat med skötselplan.",
-      "date": "2025-08-27",
+      "id": "2025-03-26_ko_80",
+      "headline": "Motion om att skydda Garphytteklint delvis godkänd efter votering",
+      "summary": "Motion från Miljöpartiet om långsiktigt skydd för Garphytteklint ansågs besvarad. Kommunen arbetar med naturreservatsbildning och naturvårdsavtal för området.",
+      "date": "2025-03-26",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "miljo",
+      "contested": true
+    },
+    {
+      "id": "2025-02-25_ko_63",
+      "headline": "Motion om att skydda Garphytteklint bordlades",
+      "summary": "Kommunfullmäktige bordlade Miljöpartiets motion om att långsiktigt skydda Garphytteklint och dess artrikedom.",
+      "date": "2025-02-25",
       "meeting_type": "Kommunfullmäktige",
       "category": "miljö",
+      "contested": true
+    },
+    {
+      "id": "2025-01-29_ko_27-30",
+      "headline": "Sex motioner om bostäder, skogsbruk och väld bordlades",
+      "summary": "Motioner om tak-över-huvudet-garanti, husbilar, småhusmark, Garphytteklint, väld mot kvinnor och israelisk bojkott bordlades.",
+      "date": "2025-01-29",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "ovrigt",
+      "contested": false
+    },
+    {
+      "id": "2025-01-21_ko_17",
+      "headline": "Motion om Garphytteklint naturreservat besvarad",
+      "summary": "Motion från Lea Strandberg (MP) om långsiktigt skydd för Garphytteklint ansågs besvarad.",
+      "date": "2025-01-21",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "miljo",
+      "contested": false
+    },
+    {
+      "id": "2024-01-23_ko_8",
+      "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+      "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+      "date": "2024-01-23",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2023-08-29_ko_171",
+      "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+      "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+      "date": "2023-08-29",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "infrastruktur",
       "contested": true
     }
   ],
   "_links": {
-    "self": "https://kommun-monitor.se/api/v1/areas/garphyttan.json",
-    "web_url": "https://kommun-monitor.se/omrade/garphyttan/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/garphyttan.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/garphyttan/"
   }
 }

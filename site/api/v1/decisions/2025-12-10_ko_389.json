@@ -1,19 +1,16 @@
 {
   "id": "2025-12-10_ko_389",
-  "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
-  "summary": "Fullmäktige behandlade rapport om ej verkställda beslut enligt SoL och LSS under Q2 2025. Martha Wicklund (V) yrkade att kommunledning fick uppdrag att ta fram förslag på bättre verkställande, men detta avslogs.",
-  "detail": "För Q2 2025 rapporterades ej verkställda biståndbeslut inom tre månader enligt följande: Socialnämnden 26 beslut, Funktionsstödsnämnden 59 beslut och Vård- och omsorgsnämnden 26 beslut.\n\nMartha Wicklund (V) yrkade ett tilläggsyrkande att Kommunledningsförvaltningen skulle få i uppdrag att ta fram förslag på hur kommunen ska kunna verkställa gynnande beslut inom rimlig tid. Susanne Lindholm Henningsson (KD) och Markus Allard (ÖrP) stödde tilläggsyrkandet.\n\nFullmäktige avslogs dock tilläggsyrkandet. Jessica Ekerbring (S), Gunhild Wallin (C) och Hossein Azeri (M) yrkade bifall till ursprungligt förslag (att rapporterna läggs till handlingarna).\n\nMartha Wicklund (V), Markus Allard (ÖrP) och Susanne Lindholm Henningsson (KD) reserverade sig mot beslutet.",
+  "headline": "Rapport över ej verkställda biståndsbeslut antas",
+  "summary": "Kommunfullmäktige noterar rapporten över ej verkställda SoL- och LSS-beslut för kvartal 2, 2025.",
+  "detail": "Rapporten visar att Socialnämndens ej verkställda beslut inom tre månader ökade från 19 till 26. Funktionsstödsnämndens ökade från 55 till 59. Vård- och omsorgsnämndens var 26.\n\nMartha Wicklund (V) ville tilföra ett uppdrag till Kommunledningsförvaltningen om att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid. Detta avslogs.\n\nKarolina Wallström (L) lämnade ett särskilt yttrande. Reservation från V, ÖrP och KD.",
   "category": "budget",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 389",
   "tags": [
-    "biståndbeslut",
-    "SoL",
-    "LSS",
-    "verkställning",
-    "socialtjänst",
-    "försörjningsstöd"
+    "bistånd",
+    "socialtjänstlag",
+    "verkställning"
   ],
   "voting": {
     "for": [
@@ -21,26 +18,26 @@
       "M",
       "C"
     ],
-    "against": [
+    "against": [],
+    "abstained": [
       "V",
-      "ÖrP",
-      "KD"
+      "KD",
+      "ÖrP"
     ],
-    "abstained": [],
-    "result": "Avslagen (tilläggsyrkande)"
+    "result": "Bifall"
   },
-  "quote": "För det andra kvartalet 2025 minskade Socialnämndens totala antal rapporterade beslut till 57 stycken... Vid kvartalets slut var 26 beslut fortsatt ej verkställda inom tre månader.",
+  "quote": "Socialnämndens statistikrapport till Kommunfullmäktige över ej verkställda SoL-beslut rapporterade kvartal 2, 2025 läggs till handlingarna.",
   "quote_page": "s. 9-10",
   "meeting": {
-    "id": "2025-12-10_ko",
+    "id": "2025-12-10_Kommunfullmäktige",
     "date": "2025-12-10",
-    "type": "Kommunfullmäktige",
-    "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_389/"
   }
 }

@@ -1,0 +1,40 @@
+{
+  "id": "2025-06-10_ko_130",
+  "headline": "Investeringsprogram 2025 reviderat till 1 377 mnkr",
+  "summary": "Kommunstyrelsen fastställde reviderat investeringsprogram för 2025 på totalt 1 377 mnkr (781 mnkr skattefinansierat, 596 mnkr taxefinansierat).",
+  "detail": "Kommunledningsförvaltningen presenterade reviderat investeringsprogram för 2025 med totala investeringsutgifter på 1 377 mnkr. Skattefinansierade investeringar uppgår till 781 mnkr och taxefinansierade till 596 mnkr. Driftkostnadskonsekvenser från lokalförsörjningsplanen beräknades till 55 mnkr för 2025 (minskning om 2 mnkr från tidigare beslut om ÖSB 2025).\n\nFlera oppositionspartier yrkade avslag enligt sina budgetförslag. Susanne Lindholm Henningsson (KD) yrka att medel för investeringsplanen förvaltades för bästa möjlig avkastning, men detta avslogs.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 130",
+  "tags": [
+    "investeringar",
+    "budget",
+    "2025",
+    "lokalförsörjning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kommunens totala investeringsutgifter 2025 uppgår till 1 377 mnkr.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_130.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_130/"
+  }
+}

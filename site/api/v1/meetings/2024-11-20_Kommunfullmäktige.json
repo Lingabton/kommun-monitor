@@ -1,0 +1,129 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2024-11-20",
+  "decisions": [
+    {
+      "headline": "Örebroporten förvärvar majoritetsägande i Gustavsvik Resorts",
+      "summary": "Kommunfullmäktige godkänner att Örebroporten Fastigheter AB förvärvar aktier i Gustavsvik Resorts AB från Gustavsviks Intressenter AB enligt aktieöverlåtelseavtal. Beslutet innebär att kommunen får 100 procent ägarskap i nöjesparken.",
+      "detail": "Gustavsviks Intressenter AB (GIAB) har uttryckt önskemål att sälja sina aktier i Gustavsvik Resorts AB (GRAB) och utvecklingsbolaget GUAB till Örebroporten. GIAB äger idag 55 procent av GRAB medan Örebroporten äger 45 procent. Efter förvärvet kommer Örebroporten att äga 100 procent av både GRAB och utvecklingsbolaget.\n\nKommunfullmäktige godkänner även föreslagna bolagsordningar för GRAB, GUAB och Kikapu i Örebro AB. Kommunens stämmoombud får i uppdrag att rösta för dessa på bolagsstämmorna.\n\nBeslutet var omstritt. Liberalerna (L) ville avslå valen av styrelsesuppleanter och föreslog att kommunen inom 3 år ska sälja GRAB till en mer lämpad aktör. Örebroparten (ÖrP) ville återremittera ärendet för att få klarare värderingsfrågor och avtalsunderlag. Sverige Demokraterna (SD) deltog inte i beslutet.\n\nKoncernens låneRam för Örebroporten fastställs till 4 100 miljoner kronor för 2024–2028.",
+      "category": "budget",
+      "contested": true,
+      "location": "Gustavsvik, Örebro",
+      "paragraph_ref": "§ 276",
+      "quote": "Förvärvet ska enligt Örebroportens bolagsordning underställas kommunfullmäktige för ställningstagande. Ägarförändringarna medför även att vissa ändringar i bolagsordningar, styrelser och lekmannarevisorer för GRAB, GUAB och Kikapu behöver göras.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "L",
+          "MP",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Gustavsvik",
+        "Örebroporten",
+        "ägarförändring",
+        "nöjespark",
+        "styrelse"
+      ],
+      "id": "2024-11-20_ko_276",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-11-20"
+    },
+    {
+      "headline": "Styrelsefördelnin gändras i Gustavsvik Resorts efter ägarskifte",
+      "summary": "Två styrelseledamöter entledigas och sju nya utses till Gustavsvik Resorts AB. Nya namn inkluderar Anders Åhrlin (M) och tidigare kandidater från lokala intressentgrupper.",
+      "detail": "Magnus Persson och Clas Rosdahl entledigas som styrelseledamöter i GRAB. Nya styrelseledamöter blir Anders Åhrlin (M), Max Klarvik, Lars Modig, Cecilia Hermansson, Mårten Blomqvist, Elisabeth Karlsson Zuaw och Efwa Nilsson.\n\nTill suppleanter utses David Larsson (SD), Johan Kumlin (M) och Jennie Jensen.\n\nDetta var ett omstritt val, främst för att Liberalerna avslog detta förvärv. De nya styrelsebesluten går igenom trots att både L och ÖrP reserverar sig mot valet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Gustavsvik",
+      "paragraph_ref": "§ 276",
+      "quote": "Till styrelseledamöter i Gustavsvik Resorts AB utses Anders Åhrlin, Max Klarvik, Lars Modig, Cecilia Hermansson, Mårten Blomqvist, Elisabeth Karlsson Zuaw och Efwa Nilsson och till suppleanter i Gustavsvik Resorts AB utses David Larsson, Johan Kumlin och Jennie Jensen.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "L",
+          "MP",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Gustavsvik",
+        "styrelseval",
+        "ägarförändring",
+        "personval"
+      ],
+      "id": "2024-11-20_ko_276",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-11-20"
+    },
+    {
+      "headline": "Möjlighet att fusionera eller likvidera utvecklingsbolag godkänns",
+      "summary": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB får fusionera Gustavsviks Utvecklingsbolag AB med sitt koncernbolag eller likvidera det när så bedöms lämpligt.",
+      "detail": "Tillsammans med ägarförändringen i Gustavsvik godkänner kommunfullmäktige att Örebroporten Förvaltning AB, om och när bolaget bedömer det lämpligt, fusionerar Gustavsviks Utvecklingsbolag AB med Örebroporten Förvaltning AB eller annat koncernbolag. Alternativt kan GUAB likvideras.\n\nSamtidigt ges godkännande för att GUAB kan fusionera sitt helägda dotterbolag Kikapu i Örebro AB eller likvidera det.\n\nDessa möjligheter är långsiktiga organisatoriska verktyg för att förenkla koncernstrukturen kring Gustavsvikverksamheten.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": "Gustavsvik",
+      "paragraph_ref": "§ 276",
+      "quote": "Kommunfullmäktige godkänner att Örebroporten Förvaltning AB, om och när bolaget bedömer det lämpligt, fusionerar Gustavsviks Utvecklingsbolag AB med Örebroporten Förvaltning AB eller annat koncernbolag, alternativt tillser att Gustavsviks Utvecklingsbolag AB likvideras.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "L",
+          "MP",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Gustavsvik",
+        "fusion",
+        "bolagsstruktur",
+        "koncern"
+      ],
+      "id": "2024-11-20_ko_276",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-11-20"
+    }
+  ],
+  "decisions_count": 3,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-20_Kommunfullmäktige.pdf",
+  "headline": "Örebroporten ökar ägandet i Gustavsvik efter omstridda val",
+  "motions_of_interest": [],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-20_Kommunfullmäktige.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-20_ko_276.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-20_ko_276.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-20_ko_276.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2024-11-20_Kommunfullmäktige"
+  }
+}

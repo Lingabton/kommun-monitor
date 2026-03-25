@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-17_ko_203",
+  "headline": "Omstridd Hjälmarsamarbetet-förening efter kritik från flera partier",
+  "summary": "Kommunstyrelsen beslutar att bilda föreningen Hjälmarsamarbetet tillsammans med andra kommuner och regioner, trots att fyra partier ville ha ärende återremitterat för att få svar på frågor om ansvarsfördelning.",
+  "detail": "Örebro kommun har sedan 2021 drivit projektet 'Hjälmarens framtida utveckling' tillsammans med andra kommuner, regioner och länsstyrelser. En gemensam utvecklingsstrategi har tagits fram som konstaterar att utvecklingen av Hjälmaren kräver en samordningsfunktion.\n\nEn ideell förening föreslås bildas med medlemmar från Arboga, Eskilstuna, Katrineholm, Vingåker, Region Örebro län, länsstyrelser i Västmanland, Södermanland och Örebro län, samt olika destinationsbolag.\n\nKommunstyrelsen tilldelas ett anslag motsvarande 2 kronor per invånare, totalt 316 000 kronor, för 2024. Kemal Hoso (S) utses till ledamot och Susanne Lindholm Henningsson (KD) till ersättare.\n\nSusanne Lindholm Henningsson (KD) yrka på återremiss för att få svar på frågor om vattenkvalitet, kompetensfördelning mellan liknande föreningar och möjligheten att slå samman organisationerna. Helena Ståhl (SD), Martha Wicklund (V), Markus Allard (ÖrP) och Karolina Wallström (L) stödde återremissyrkandet, men förlorade omröstningen.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Hjälmaren",
+  "paragraph_ref": "§ 203",
+  "tags": [
+    "Hjälmaren",
+    "miljö",
+    "samarbete",
+    "vattenvård"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "KD",
+      "SD",
+      "V",
+      "ÖrP",
+      "L"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Det är nödvändigt att utvecklingen av Hjälmaren sker samordnat, och att det för detta krävs en samordningsfunktion.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_203.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_203/"
+  }
+}

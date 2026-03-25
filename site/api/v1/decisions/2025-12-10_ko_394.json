@@ -1,0 +1,43 @@
+{
+  "id": "2025-12-10_ko_394",
+  "headline": "Motion om medborgarinflytande på arkitektur avslås",
+  "summary": "Kommunfullmäktige avslår motion från Carola Sunesson och Habib Brini (SD) om medborgarinflytande på arkitekturinriktning.",
+  "detail": "Motionen yrkar på tre punkter: att en medborgarundersökning genomförs om arkitekturinriktning, att arkitekturpolicyn omformuleras utifrån resultatet, och att kommunen undersöker hur betydande medborgarinflytande på arkitektur kan införas.\n\nBedömningen är att existerande styrdokument och befintliga former för medborgarinflytande inför ny- och ombyggnation är tillräckliga.\n\nBygg- och miljönämnden behandlade ärendet 12 juni 2025. ÖrP reserverar sig för att vilja bifalla beslutspunkt tre om medborgarinflytande. KD vill även se tredje beslutspunkten besvarad.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 394",
+  "tags": [
+    "arkitektur",
+    "medborgarinflytande",
+    "gestaltning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-12-10_Kommunfullmäktige",
+    "date": "2025-12-10",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_394.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_394/"
+  }
+}

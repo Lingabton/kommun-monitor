@@ -1,0 +1,47 @@
+{
+  "id": "2026-03-17_ko_49",
+  "headline": "Kommunen svarar på remiss om stärkt hästnäring – debatt om ridhus",
+  "summary": "Kommunstyrelsen antog ett yttrande om hästnäringen men med reservationer från flera partier. Debatten gällde framför allt om enklare ridhus ska klassificeras som ekonomibyggnad.",
+  "detail": "Landsbygds- och infrastrukturdepartementet bad Örebro kommun svara på remissen \"En stärkt hästnäring – för företagande, jämställdhet, jämlikhet och folkhälsa\" (SOU 2025:58). Utredningen fokuserar på hur man kan underlätta för företagande inom hästnäringen och deltagande i hästsporten, framför allt för barn och ungdomar.\n\nKommunledningsförvaltningen föreslog att yttrandet skulle antas och överlämnas till departementet. Liberalerna (Karolina Wallström) yrkade på att stryka en mening i yttrandet – specifikt kommunens uppfattning att enklare ridhus inte ska anses som ekonomibyggnad. KD:s Susanne Lindholm Henningsson stödde Liberalernas yrkande. ÖrP:s Markus Allard yrkade helt avslag.\n\nKommunstyrelsen beslutade enligt förvaltningens ursprungliga förslag. Tre partier reserverade sig: Liberalerna för sitt ändringsyrkande, KD för samma grund, och ÖrP för sitt avslagsyrkande.\n\nFrågan om ridhus klassificering är viktig för företagare inom hästnäringen då det påverkar bygglovsprocesser och kostnader.",
+  "category": "näringsliv",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 49",
+  "tags": [
+    "hästnäring",
+    "ridhus",
+    "näringsliv",
+    "Liberalerna",
+    "remiss"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "KD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Behoven av ridhus är en viktig aspekt för att utveckla näringen. Därför anser vi att enklare ridhus ska ses som en ekonomibyggnad likt övriga utrymmen till exempel maskinhall.",
+  "quote_page": "s. 4-5",
+  "meeting": {
+    "id": "2026-03-17_Kommunstyrelsen",
+    "date": "2026-03-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-03-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-03-17_ko_49.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-03-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-03-17_ko_49/"
+  }
+}

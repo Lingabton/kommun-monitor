@@ -1,0 +1,47 @@
+{
+  "id": "2025-04-23_ko_106",
+  "headline": "Sex nya motioner inkomna och remitterade till Kommunstyrelsen",
+  "summary": "Sex nya motioner anmäldes och remitterades för beredning: om livsmedel i kris, kollektivtrafik, studie- och yrkesvägledning, konkurrensöversyn, nyttoparkeringstillstånd och näringslivssäkring.",
+  "detail": "Följande motioner anmäldes och remitterades till Kommunstyrelsen för beredning:\n\n1. Lea Strandberg (MP): säkra kommunens tillgång till livsmedel under krig och kris (Ks 943/2025)\n2. Fredrik Persson (MP): underlätta för kollektivtrafiken vid resecentrum (Ks 944/2025)\n3. Helena Ståhl (SD): införa garantin om studie- och yrkesvägledning (Ks 945/2025)\n4. Carola Sunesson och Bo Ammer (SD): konkurrensöversyn av kommunal verksamhet (Ks 946/2025)\n5. Helena Ståhl och Carola Sunesson (SD): införa nyttoparkeringstillstånd för näringsidkare (Ks 947/2025)\n6. Susanne Lindholm Henningsson (KD): näringslivssäkra de kommunala besluten (Ks 948/2025)",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 106",
+  "tags": [
+    "motioner",
+    "beredskning",
+    "infrastruktur",
+    "näringsliv",
+    "parkering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "MP",
+      "SD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Motionerna remitteras till Kommunstyrelsen.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_106.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_106/"
+  }
+}

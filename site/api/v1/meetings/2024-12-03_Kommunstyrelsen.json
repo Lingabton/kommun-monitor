@@ -1,0 +1,610 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2024-12-03",
+  "decisions": [
+    {
+      "headline": "Planeringsförutsättningar 2026 godkända trots motstånd",
+      "summary": "Kommunstyrelsen godkände planeringsförutsättningar för budget 2026-2029. Markus Allard (ÖrP) reserverade sig.",
+      "detail": "Ärendet behandlade planeringsförutsättningar för budgetperioden 2026-2029 med utgångspunkt i en omvärldsanalys och identifiering av centrala trender. Dokumentet innehöll preliminär resultatbudget och investeringsprogram. Kommunledningsförvaltningen föreslog att planeringsförutsättningarna togs till handlingarna som underlag för fortsatt beredning.\n\nMarkus Allard (ÖrP) yrkade avslag, men förlorade omröstningen. Tre ledamöter (L och KD) deltog inte i beslutet.\n\nBeslutet är en del av arbetsgången inför den stora budgetprocessen för kommande år och klar prioritering mot långsiktiga utmaningar.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 235",
+      "quote": "Genom en omvärldsanalys med spaning mot 2035 har kommunen identifierat ett antal huvudsakliga trender som kommer att vara centrala för kommunens framtida planering och beslut.",
+      "quote_page": "s. 2",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "KD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "planering",
+        "strategi"
+      ],
+      "id": "2024-12-03_ko_235",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Tilläggsanslag 2024 på 8,9 miljoner kronor beviljat",
+      "summary": "Kommunstyrelsen beviljade 8,9 miljoner kronor i tilläggsanslag för 2024 för löneöversyn och investeringar. SD och ÖrP reserverade sig.",
+      "detail": "Ärendet omfattade tilläggsanslag för kostnadsökningar och oförutsedda utgifter under 2024. Medlen användes bland annat för kompensation till nämnderna gällande löneöversynen för Vårdförbundet och färdigställda objekt i investeringsprogrammet.\n\nTilläggsanslaget på totalt 8 914 tkr finansierades ur Kommunstyrelsens utrymme för generella kostnadsökningar och beslutade konsekvenser av investeringsprogram.\n\nHelena Ståhl (SD) yrkade för undantag för konstutsmyckningen vid Karlslunds ridanläggning, men förslaget avslogs. Både SD och ÖrP reserverade sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 236",
+      "quote": "Tilläggsanslag avser bland annat kompensation till nämnderna för återstående del av löneöversyn för Vårdförbundet samt kompensation för färdigställda objekt i investeringsprogrammet.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "löner",
+        "investeringar"
+      ],
+      "id": "2024-12-03_ko_236",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Tilläggsanslag 2025 på 19 miljoner godkänt med reservationer",
+      "summary": "Kommunstyrelsen beviljade 19 miljoner kronor i tilläggsanslag för 2025, bland annat för Kultur- och fritidsnämnden. V, SD och ÖrP reserverade sig.",
+      "detail": "Tilläggsanslaget på 19 054 tkr för 2025 omfattade förstärkning till Kultur- och fritidsnämnden samt kompensation för färdigställda objekt i investeringsprogrammet. Ombudgetering gjordes även för organisationsförändringar.\n\nFinansiering skedde ur Kommunstyrelsens utrymme för oförutsett, generella kostnadsökningar och beslutade konsekvenser av investeringsprogram.\n\nHelena Ståhl (SD) yrkade för undantag gällande indexuppräkning av Länsmusiken och Örebrokompaniet, men avslogs. Martha Wicklund (V) och Markus Allard (ÖrP) yrkade fullt avslag.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 237",
+      "quote": "Tilläggsanslag avser bland annat kompensation till nämnderna för en förstärkning till Kultur- och fritidsnämnden samt kompensation för färdigställda objekt i investeringsprogrammet.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "kultur",
+        "fritid"
+      ],
+      "id": "2024-12-03_ko_237",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Digital arbetsplats får ny finansieringsmodell från 2025",
+      "summary": "Kommunstyrelsen beslutade att avskriva 25,7 miljoner kronors ackumulerad skuld och byta finansieringsmodell för IT-drift.",
+      "detail": "Den så kallade Digital arbetsplats-enheten hade sedan 2018 drivit ett särskilt kostnadsställe för datorinköp som ackumulerat ett underskott på 25,7 miljoner kronor. Denna skuld skulle enligt ursprunglig plan ha återbetalats år 2026, men kunde inte fullfölja det på grund av pandemin, låg utbytestakt och utebliven prisanpassning.\n\nKommundirektören bestämde att denna historiska skuld inte skulle tas igen retroaktivt. I stället introduceras från 2025 en ny finansieringsmodell baserad på intäktsfinansiering genom internprissättning inom Förvaltningsportföljen.\n\nDet markerade beloppet för Digital arbetsplats ackumulerade resultat avmarkeras från eget kapital i årsbokslutet 2024.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 238",
+      "quote": "Till följd av olika orsaker (bl.a. pandemin, få utbytta datorer, ökad volym/efterfrågan och utebliven prisanpassning) kunde underskotten inte återbetalas enligt plan. Vid bokslutet 2023 kvarstod ett ackumulerat underskott om 25,7mnkr.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "IT",
+        "ekonomi",
+        "drift"
+      ],
+      "id": "2024-12-03_ko_238",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Region Örebro Innovation AB får nya finansieringsavtal",
+      "summary": "Kommunstyrelsen godkände nya avtalsstrukturer för Region Örebro Innovation AB för att möjliggöra finansiering från Örebro Universitet.",
+      "detail": "Region Örebro Innovation AB ägs gemensamt av Region Örebro län, Örebro kommun och Örebro Universitet. Universitetet kan enligt sitt regelverk inte ge bidrag till delägda bolag, varför en omstrukturering behövdes.\n\nNya avtalsstrukturer införs där ägarna istället köper tjänster från bolaget enligt separata uppdragsavtal. Ändringar gjordes i bolagsordningar och ägardirektiv för både Region Örebro Innovation AB och Inkubera i Örebro AB.\n\nMarkus Allard (ÖrP) yrkade avslag men förlorade. Ärendet ska vidare till Kommunfullmäktige för slutgiltigt godkännande.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 240",
+      "quote": "Universitetet önskar att finansieringsmodellen ändras så att Region Örebro län, Örebro kommun och Örebro Universitet Holding AB istället köper tjänster från Bolaget enligt separata uppdragsavtal med Bolaget.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "innovation",
+        "bolagsstyrning",
+        "avtal"
+      ],
+      "id": "2024-12-03_ko_240",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Likviditet omfördelad mellan pensioner och kassor",
+      "summary": "Kommunstyrelsen fördelade kapital mellan pensionsportföljen och likviditetsförvaltning för att säkra kassabehållningen 2025.",
+      "detail": "I enlighet med Placeringspolicyn genomfördes årlig överföring mellan pensionsportföljen och kort/långfristig likviditetsförvaltning. Årets pensionsutbetalningar beräknades till 233 miljoner kronor, vilka överfördes från pensionsportföljen till långfristig likviditet.\n\nDen kortfristiga likviditetsportföljen skulle uppgå till 222 miljoner kronor vid årets slut, men det budgeterade kassaflödet för 2025 är negativt (-349 miljoner kronor). Därför tillfördes 128 miljoner från långfristig till kortfristig portfölj för att skapa en buffert på 350 miljoner kronor vid ingången av 2025.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 239",
+      "quote": "Årets pensionsutbetalningar beräknas till 233 mnkr. Den kortfristiga likviditetsportföljen förväntas uppgå till 222 mnkr vid årets slut, medan det budgeterat kassaflödet för 2025 är -349 mnkr.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "ekonomi",
+        "likviditet",
+        "pensioner"
+      ],
+      "id": "2024-12-03_ko_239",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Fastigheten Ånsta 20:274 såld för 14,3 miljoner kronor",
+      "summary": "Kommunstyrelsen godkände försäljning av mark till AMEXCI AB för cirka 14,3 miljoner kronor.",
+      "detail": "AMEXCI AB hade uppfört en byggnad för sin egen verksamhet innehållande kontor och verksamhetslokaler på fastigheten. Försäljningspriset uppgick till cirka 14,3 miljoner kronor, vilket överskrider 10 miljoner-gränsen och därför kräver beslut av Kommunstyrelsen.\n\nMarkus Allard (ÖrP) yrkade först för återremiss med motiveringen att tvisten rörande vattenmängder på fastigheten under byggnationstiden ännu inte lösts, och i andra hand för avslag. Båda yrkandena avslogs.\n\nMarkplanerings- och exploateringsnämnden ordförande fick i uppdrag att underteckna köpekontraktet.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Ånsta 20:274",
+      "paragraph_ref": "§ 249",
+      "quote": "AMEXCI AB har uppfört en byggnad för sin egen verksamhet som inrymmer kontor och verksamhetslokaler. Pris för markförsäljningen uppgår till ca 14,3 miljoner kronor.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "fastigheter",
+        "försäljning",
+        "exploatering"
+      ],
+      "id": "2024-12-03_ko_249",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Nya friköpspriser för småhustomträtter från 2026",
+      "summary": "Kommunstyrelsen beslutade att byta beräkningsmodell för friköpspriser - från 2009-värde till aktuellt marktaxeringsvärde och sänka procentsatsen från 73 till 70 procent.",
+      "detail": "Fastighetsenheten föreslog en uppdatering av räknemodellen för friköpspriser på tomträtter med typkod 220 (småhus). Nuvarande modell från 2009 skulle bytas till gällande marktaxeringsvärde från och med 2026-01-01.\n\nÄndringen innebär två delar: övergång till aktuella taxeringsvärden (uppdateras vart tredje år) och sänkning av multiplikatorn från 73 procent till 70 procent.\n\nÖvergangsregler gäller: gamla priset kan användas om köpekontrakt undertecknats senast 2025-12-31. Ärendet ska vidare till Kommunfullmäktige. Markus Allard (ÖrP) yrkade avslag.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 250",
+      "quote": "Från och med 2026-01-01 baseras friköpspriset för en småhustomträtt (typkod 220) på följande uträkning: (Aktuellt marktaxeringsvärde vid årets början) x 0,70 = friköpspris",
+      "quote_page": "s. 18-19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "exploatering",
+        "tomträtter",
+        "prissättning"
+      ],
+      "id": "2024-12-03_ko_250",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Vattenskyddsområde Gäddesta ansökt till Länsstyrelsen",
+      "summary": "Kommunstyrelsen ansökte om inrättande av vattenskyddsområde Gäddesta för att skydda grundvattenmagasinen för Bista och Jägarbacken vattentäkter.",
+      "detail": "Dricksvattenförsörjningen för Örebro tätort baseras på råvatten från Svartån som behandlas på Skråmsta vattenverk och infiltreras i tre vattentäktsområden: Bista, Jägarbacken och Eker.\n\nTeknik- och serviceförvaltningen föreslår utökning av skyddsområdet genom inrättande av vattenskyddsområde Gäddesta med tillhörande skyddsföreskrifter för att säkerställa skyddet av grundvattenmagasinen.\n\nSusanne Lindholm Henningsson (KD) och Helena Ståhl (SD) lämnade särskilda yttranden. SD betonade vikten av kompensation till berörda jordbruk och behovet av kontinuerlig översyn längs Svartån. KD påtalade behovet av bättre dialog med berörda parter.",
+      "category": "miljo",
+      "contested": false,
+      "location": "Gäddesta",
+      "paragraph_ref": "§ 251",
+      "quote": "För att säkerställa skyddet av grundvattenmagasinet för Bista och Jägarbackens vattentäkter föreslår Teknik- och serviceförvaltningen en utökning av skyddsområdet genom inrättande av vattenskyddsområde Gäddesta med tillhörande skyddsföreskrifter.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "vatten",
+        "miljö",
+        "skydd",
+        "Svartån"
+      ],
+      "id": "2024-12-03_ko_251",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Vattenskyddsområde Eker reviderat och ansökt",
+      "summary": "Kommunstyrelsen ansökte om revidering av det befintliga vattenskyddsområdet Eker med uppdaterade skyddsföreskrifter.",
+      "detail": "Vattenskyddsområde Eker fastställdes av Länsstyrelsen 1997. Teknik- och serviceförvaltningen genomförde en översyn av områdets utsträckning och föreskrifternas innehål baserat på riskanalys och vattenkvalitetsanalys.\n\nDet reviderade förslaget lämnas till Länsstyrelsen för godkännande. Susanne Lindholm Henningsson (KD) och Helena Ståhl (SD) lämnade särskilda yttranden med samma poänger som för Gäddesta - vikten av kompensation till berörda och bättre kommunikation.",
+      "category": "miljo",
+      "contested": false,
+      "location": "Eker",
+      "paragraph_ref": "§ 252",
+      "quote": "För att säkerställa skyddet av grundvattenmagasinet för Ekers vattentäkt har Örebro kommun gjort en översyn av det befintliga vattenskyddsområdets utsträckning och skyddsföreskrifternas innehål.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "vatten",
+        "miljö",
+        "skydd"
+      ],
+      "id": "2024-12-03_ko_252",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Sociala hyreskontrakt flyttas från Kommunstyrelsen till Socialnämnden",
+      "summary": "Kommunstyrelsen godkände revidering av nämndreglemente för att flytta ansvaret för sociala hyreskontrakt till Socialnämnden.",
+      "detail": "Vid organisationsförändringen 2023 överfördes ansvaret för sociala hyreskontrakt från Kommunstyrelsen till Socialnämnden, men detta skapade organisatoriska luckor. Framlagt förslag innebär att ansvaret för att teckna avtal med fastighetsägare för sociala hyreskontrakt och tillhörande hyresadministration nu fullt läggs på Socialnämnden.\n\nKommunstyrelsen behåller övergripande och strategiskt ansvar för kommunens lokalförsörjning. Förändringen träder i kraft 1 januari 2025 efter Kommunfullmäktiges godkännande.\n\nMarkus Allard (ÖrP) yrkade avslag men förlorade.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 253",
+      "quote": "Framlagt förslag innebär att ansvaret för att teckna avtal med fastighetsägare för ändamålet sociala hyreskontrakt samt tillhörande hyresadministration tas bort från Kommunstyrelsens övergripande uppgifter och att ansvaret läggs på Socialnämnden.",
+      "quote_page": "s. 23",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "organisering",
+        "bostäder",
+        "socialtjänst"
+      ],
+      "id": "2024-12-03_ko_253",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Kommunstyrelsens delegationsordning justerad",
+      "summary": "Kommunstyrelsen antog ändringar i delegationsordningen kopplat till sociala hyreskontrakt och direktorstitelförändringar.",
+      "detail": "Ändringar i delegationsordningen följer revideringen av nämndreglementet. Delar som berör sociala hyreskontrakt tas bort under punkt 6, och justeringar görs även under punkterna 5, 7 för att spegla nya direktorstitlar och delegationsansvar.\n\nÄndringarna gällande sociala hyreskontrakt är beroende av att Kommunfullmäktige godkänner nämndreglementets revidering. Beslutet träder i kraft 1 januari 2025.\n\nMarkus Allard (ÖrP) yrkade avslag men förlorade.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 254",
+      "quote": "Reglemente för Kommunstyrelsens föreslås revideras så att ansvaret för att teckna avtal med fastighetsägare för ändamålet sociala hyreskontrakt samt tillhörande hyresadministration tas bort från Kommunstyrelsens övergripande uppgifter.",
+      "quote_page": "s. 24",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "delegering",
+        "organisation",
+        "reglementen"
+      ],
+      "id": "2024-12-03_ko_254",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Kommunikationspolicy helt omarbetad och antagen",
+      "summary": "Kommunstyrelsen antog ny kommunikationspolicy som ersätter den från 2003.",
+      "detail": "Informations- och kommunikationspolicyn från september 2003 omarbetades för att ligga i linje med utveckling i omvärlden, medielandskapet, forskning och organisationens erfarenheter. Den nya policyn beskriver kommunikationens roll, kännetecken och principer i organisationen.\n\nI stort är innehållet detsamma men mer summerat och renodlat. Del av tidigare innehål överfördes till strategier och riktlinjer. Policyn gäller från och med att Kommunstyrelsen beslutat.\n\nMarkus Allard (ÖrP) yrkade avslag på beslutet men förlorade.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 247",
+      "quote": "Nu har en omarbetning gjorts och förslaget till ny kommunikationspolicy säkerställer bättre att den ligger i linje med utvecklingen i omvärlden, t.ex. forskning och erfarenheter hos andra organisationer.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD",
+          "V"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "kommunikation",
+        "policy",
+        "styrdokument"
+      ],
+      "id": "2024-12-03_ko_247",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Driftsstöd till Örebro Läns Flygplats 17,9 miljoner för 2025",
+      "summary": "Kommunstyrelsen beviljade 17,9 miljoner kronor i driftsbidrag till Örebro Läns Flygplats för att täcka rörelseförluster under 2025.",
+      "detail": "Örebro Läns Flygplats AB är ett bolag där Örebro Rådhus AB och Region Örebro Län äger var sitt 44,95 procent. Flygplatsen hade 80 592 passagerare 2023. Totalt driftsbidrag från alla ägare blir 38 miljoner kronor, där Örebro kommun och Region Örebro Län var står för 17,9 miljoner kronor vardera.\n\nStödet ges enligt EU:s allmänna gruppundantagsförordning (GBER) som tillåter stöd till flygplatser under 200 000 passagerare per år för täckning av rörelseförluster.\n\nMartha Wicklund (V) yrkade avslag men förlorade.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 267",
+      "quote": "ÖLF erhåller driftbidrag på sammanlagt 38 018 200 kr för 2025, varav Örebro kommuns och Region Örebro läns andel är 17 897 200 kr vardera.",
+      "quote_page": "s. 34",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "SD"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "flygplats",
+        "bidrag",
+        "ekonomi"
+      ],
+      "id": "2024-12-03_ko_267",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Ledamotsinitiativ om äldrevård avslaget",
+      "summary": "Helena Ståhl (SD) ledamotsinitiativ om stöd till äldraskadade genom genomlysning och grupptalan avslogs.",
+      "detail": "Helena Ståhl (SD) lämnande in ledamotsinitiativ på oktobermötet för att Kommunledningsförvaltningen skulle genomföra en genomlysning för att informera äldre som utsatts för bedrägeri och aggressiv telefonförsäljning om deras rättigheter, samt erbjuda stöd och möjlighet till grupptalan för att få tillbaka pengar.\n\nKommunledningen argumenterade att en uppsökande verksamhet och juridisk processledning ligger utanför det kommunala ansvarsområdet och faller under statliga myndigheters som Polisen och Konsumentverket. Kommunens roll är begränsad till att erbjuda information genom konsumentvägledning.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall men förlorade.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 258",
+      "quote": "Att bedriva en uppsökande verksamhet för att identifiera äldre som blivit utsatta för bedrägerier och att driva grupptalan för deras räkning ligger utanför det kommunala ansvarsområdet.",
+      "quote_page": "s. 28",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "äldreomsorg",
+        "konsumentskydd",
+        "initiativ"
+      ],
+      "id": "2024-12-03_ko_258",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    },
+    {
+      "headline": "Motion om israelbojkott avslogs",
+      "summary": "Kommunstyrelsen avslог Vänsterpartiet motion om att införa kommunal bojkott av israeliska varor och tjänster.",
+      "detail": "Martha Wicklund (V) et al. inlämnade motion om två åtgärder: att kartlägga vilka länder kommunen köper från, och att inte köpa israeliska varor/tjänster tills vidare.\n\nKommunledningen förespeglade avslag på motionen. Helena Ståhl (SD) yrkade bifall endast till första delen (kartläggningen).\n\nBoth Martha Wicklund (V) och Helena Ståhl (SD) reserverade sig mot beslutet att avslå motionen. Ärendet ska vidare till Kommunfullmäktige.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 259",
+      "quote": "Vänsterpartiet har inkommit med en motion om att införa en kommunal bojkott av israeliska varor och tjänster.",
+      "quote_page": "s. 29",
+      "voting": {
+        "for": [
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [],
+        "abstained": [
+          "S",
+          "SD",
+          "V",
+          "ÖrP"
+        ],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "politik",
+        "välgörenhet",
+        "motion"
+      ],
+      "id": "2024-12-03_ko_259",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-12-03"
+    }
+  ],
+  "decisions_count": 16,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf",
+  "headline": "Budget, vatten och organisationsförändringar beslutade",
+  "motions_of_interest": [
+    {
+      "title": "Motion från Bjarne Bäckström (SD) om motorgård i centrala Örebro",
+      "party": "SD",
+      "status": "Remitterad till Kultur- och fritidsnämnden"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om förbjudna böcker",
+      "party": "MP",
+      "status": "Remitterad till Kultur- och fritidsnämnden"
+    },
+    {
+      "title": "Ledamotsinitiativ från Helena Ståhl (SD) om stöd till äldraskadade",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Motion från Martha Wicklund (V) et al. om bojkott av israeliska varor",
+      "party": "V",
+      "status": "Avslagen av Kommunstyrelsen, går vidare till Fullmäktige"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_235.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_236.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_237.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_238.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_240.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_239.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_249.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_250.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_251.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_252.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_253.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_254.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_247.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_267.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_258.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_259.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2024-12-03_Kommunstyrelsen"
+  }
+}

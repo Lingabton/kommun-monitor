@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_251",
+  "headline": "Vattenskyddsområde Gäddesta ansökt till Länsstyrelsen",
+  "summary": "Kommunstyrelsen ansökte om inrättande av vattenskyddsområde Gäddesta för att skydda grundvattenmagasinen för Bista och Jägarbacken vattentäkter.",
+  "detail": "Dricksvattenförsörjningen för Örebro tätort baseras på råvatten från Svartån som behandlas på Skråmsta vattenverk och infiltreras i tre vattentäktsområden: Bista, Jägarbacken och Eker.\n\nTeknik- och serviceförvaltningen föreslår utökning av skyddsområdet genom inrättande av vattenskyddsområde Gäddesta med tillhörande skyddsföreskrifter för att säkerställa skyddet av grundvattenmagasinen.\n\nSusanne Lindholm Henningsson (KD) och Helena Ståhl (SD) lämnade särskilda yttranden. SD betonade vikten av kompensation till berörda jordbruk och behovet av kontinuerlig översyn längs Svartån. KD påtalade behovet av bättre dialog med berörda parter.",
+  "category": "miljo",
+  "contested": false,
+  "location": "Gäddesta",
+  "paragraph_ref": "§ 251",
+  "tags": [
+    "vatten",
+    "miljö",
+    "skydd",
+    "Svartån"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "För att säkerställa skyddet av grundvattenmagasinet för Bista och Jägarbackens vattentäkter föreslår Teknik- och serviceförvaltningen en utökning av skyddsområdet genom inrättande av vattenskyddsområde Gäddesta med tillhörande skyddsföreskrifter.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_251.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_251/"
+  }
+}

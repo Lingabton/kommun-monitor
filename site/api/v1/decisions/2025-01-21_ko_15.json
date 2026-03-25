@@ -1,0 +1,48 @@
+{
+  "id": "2025-01-21_ko_15",
+  "headline": "Motionen om ställplatser för husbilar avslogs",
+  "summary": "Motion från Susanne Lindholm Henningsson (KD) om utredning och iordningställande av ställplatser för husbilar i nära anslutning till Örebro city avslogs.",
+  "detail": "Motionen inlämnades 22 november 2023 och föreslår att lämpliga platser för husbilar i nära anslutning till Örebro city utredas och därefter iordningställas.\n\nMarkplanerings- och exploateringsnämnden bedömde att motionen bör avslås med motiveringen att detta för närvarande inte är en prioriterad fråga. Miljö- och stadsbyggnadsförvaltningen genomförde tidigare utredning (2023-11-15) om ställplatser.\n\nFem ledamöter reserverade sig för bifallsyrkanden: Susanne Lindholm Henningsson (KD), Helena Ståhl (SD), Martha Wicklund (V), Markus Allard (ÖrP) och Karolina Wallström (L). Ärendet går vidare till Kommunfullmäktige.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro city",
+  "paragraph_ref": "§ 15",
+  "tags": [
+    "husbilar",
+    "ställplatser",
+    "turism",
+    "Örebrocity"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [
+      "L",
+      "KD",
+      "V",
+      "ÖrP",
+      "SD"
+    ],
+    "abstained": [
+      "C",
+      "MP"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "Motionen behandlar möjligheten för Örebro kommun att utöka antalet ställplatser för husbilar och innehåller följande förslag: Lämpliga platser för husbilar i nära anslutning till Örebro city ska utredas.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_15.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_15/"
+  }
+}

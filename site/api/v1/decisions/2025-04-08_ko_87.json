@@ -1,0 +1,45 @@
+{
+  "id": "2025-04-08_ko_87",
+  "headline": "Motion: Läxfri skola och förstärkning avslås delvis",
+  "summary": "Martha Wicklund (V) motion om läxfri skola och utökat förebyggande arbete avslås delvis. Avgiftsfrihet anses tillgodosedd.",
+  "detail": "Vänsterpartiet föreslog fyra åtgärder: införa läxfri skola i alla kommunala grundskolor, säkerställa avgiftsfri skola inklusive utrustning och mat/fika, utöka det sociala förebyggande arbetet med särskild anslagspott för skolorna, och organisera modersmålsundervisningen för berörda elever.\n\nGrundskolenämnden föreslog: avslag på läxfrihet, att avgiftsfrihet redan är tillgodosedd, avslag på särskild förebyggandepott, och avslag på modersmålsundervisningsförslaget. Kommunstyrelsen följde nämndens förslag.\n\nMartha Wicklund reserverade sig mot beslutet.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 87",
+  "tags": [
+    "skola",
+    "läxfrihet",
+    "avgiftsfrihet",
+    "förebyggande"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "SD",
+      "KD"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Förskole- och grundskoleförvaltningen delar motionärens intention om vikten av ett förebyggande arbete för att skapa trygghet och studiero.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_87.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_87/"
+  }
+}

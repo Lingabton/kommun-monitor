@@ -1,0 +1,41 @@
+{
+  "id": "2023-04-18_ko_137",
+  "headline": "Törsjö logistikplan återremitterad för vidare utredning",
+  "summary": "Detaljplan för Törsjö logistikområde återremitterades till Kommunstyrelsen för att utreda alternativ lokalisering, miljökonsekvenser och kompensation till närboende.",
+  "detail": "Planarbetet initierades 2016 för att möjliggöra byggnation av en kombiterminal och omlokalisering av företag från CV-området och Holmens verksamhetsområde. Syftet var att skapa plats för järnvägsanknuten lager- och logistikverksamhet.\n\nAtt Jämtvall (L), Helena Ståhl (SD), Bo Ammer (SD) yrkade på återremiss för att utreda: om det finns andra områden för kombiterminal, konsekvenser för närboende, möjligheter att kompensera fastighetsägare, miljöpåverkan av ytterligare industrimark, och behov av ytterligare samrådsrund.\n\nMarkus Allard (ÖrP), Linn Josefsson (V), Martha Wicklund (V), Lea Strandberg (MP) och Fredrik Persson (MP) höll ursprungligen egna yrkanden men drog tillbaka dessa för att stödja Jämtvalls återremissyrkande.\n\nSusanne Lindholm (KD) stödde planen men lämnade särskilt yttrande om oro för jordbruksmarkanvändning och påverkan på enskilda fastighetsägare.\n\nBeslutet fattades enligt minoritetsåterremissregler i kommunallagen.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Törsjö",
+  "paragraph_ref": "§ 137",
+  "tags": [
+    "detaljplan",
+    "logistik",
+    "kombiterminal",
+    "jordbruksmark",
+    "miljö",
+    "Törsjö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Återremiss"
+  },
+  "quote": "Ärendet återremitteras till Kommunstyrelsen i enlighet med Patriks Jämtvalls (L) m.fl. yrkande. Beslutet fattas med stöd av Kommunallagens (2017:725) regler för minoritetsåterremiss.",
+  "quote_page": "s. 23-24",
+  "meeting": {
+    "id": "2023-04-18_Kommunfullmäktige",
+    "date": "2023-04-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-18_ko_137.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-18_ko_137/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2023-11-22_ko_393",
+  "headline": "Överenskommelse civil samhälle 2024-2027 godkänd",
+  "summary": "Kommunfullmäktige godkände ny överenskommelse om samverkan mellan det civila samhället och kommunen för perioden 2024-2027.",
+  "detail": "Överenskommelsen mellan kommunen och det civila samhället förnyades för perioden 2024-2027. Den tidigare gällde 2020-2023 och har evaluerats med utgångspunkt i inkomna synpunkter.\n\nSamverkansrådet får mandat att besluta om uteslutning av ansluten aktör om det kan påvisas att aktören aktivt motarbetar syftet med överenskommelsen.\n\nUnder perioden 2024-2027 ska en översyn av stödstrukturen genomföras, med fokus på Samverkansrådet och C-nätverket, för att säkerställa behovsanpassad struktur. Örebro Piratparti (ÖrP) reserverade sig mot beslutet.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 393",
+  "tags": [
+    "civilsamhälle",
+    "samverkan",
+    "gräsrötter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "SD",
+      "MP",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Under överenskommelseperioden 2024-2027 ska en översyn av stödstrukturen genomföras, med fokus på Samverkansrådet och C-nätverket.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2023-11-22_Kommunfullmäktige",
+    "date": "2023-11-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-22_ko_393.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-22_ko_393/"
+  }
+}

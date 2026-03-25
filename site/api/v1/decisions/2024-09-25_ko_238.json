@@ -1,0 +1,47 @@
+{
+  "id": "2024-09-25_ko_238",
+  "headline": "Motionen om självförsvarsutbildning avslaget",
+  "summary": "Carola Sunesson (SD):s motion om att etablera självförsvarsutbildning för utsatta personer avslås.",
+  "detail": "Carola Sunesson föreslår att Örebro kommun ska etablera en självförsvarsutbildning och erbjuda denna till extra utsatta personer, företagare och andra. Motionen föreslår att kommunen ska undersöka möjligheterna till finansiering genom statligt eller EU-stöd.\n\nKommunledningen bedömer att motionen ska avslås då det inte finns motsvarande utbildning inom kommunens verksamhet och ledningen har valt att fokusera på andra åtgärder för trygghet och mot brottslighet.\n\nMotionen avslogs med majoritetens röster (S, M, V, C, KD, L, MP). SD och ÖrP reserverade sig för bifall till motionen. Ärendet bordlades flera gånger innan slutgiltigt avslag.",
+  "category": "trygghet",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 238",
+  "tags": [
+    "trygghet",
+    "brottslighet",
+    "självförsvar",
+    "SD-motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "V",
+      "C",
+      "KD",
+      "L",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att motionen ska avslås då det inte finns någon motsvarande utbildning inom kommunens verksamhet idag och kommunledningen har valt att fokusera på andra typer av åtgärder för trygghet och mot brottslighet.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_238.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_238/"
+  }
+}

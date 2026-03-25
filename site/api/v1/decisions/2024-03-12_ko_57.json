@@ -1,0 +1,35 @@
+{
+  "id": "2024-03-12_ko_57",
+  "headline": "Revisioning av kommungemensam arkiveringsplan antagen",
+  "summary": "Kommunstyrelsen antog revidering av den kommungemensamma arkiveringsplanen med nya och reviderade handlingstyper.",
+  "detail": "Som arkivmyndighet i Örebro kommun fattar kommunstyrelsen beslut om handlingar för alla nämnder och kommunala bolag avseende bevarande och gallring. Revideringen sker kontinuerligt för att följa lagkrav och uppdaterade behov.\n\nDen reviderade arkiveringsplanen redovisar nya och reviderade handlingstyper. Komplett plan med beslut om bevarande och gallringsfrister finns tillgänglig på intranät och kommunens webbplats.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 57",
+  "tags": [
+    "arkivering",
+    "dokumenthantering",
+    "regelverk"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "I den kommungemensamma arkiveringsplanen redovisas handlingar, oavsett media, för alla Örebro kommuns olika verksamheter och de av arkivmyndigheten antagna beslut.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-03-12_Kommunstyrelsen",
+    "date": "2024-03-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-12_ko_57.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-12_ko_57/"
+  }
+}

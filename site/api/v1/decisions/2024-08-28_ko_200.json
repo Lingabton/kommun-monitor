@@ -1,0 +1,47 @@
+{
+  "id": "2024-08-28_ko_200",
+  "headline": "Gratis frukost i skolor - motion avslagen",
+  "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om avgiftsfri frukost i grund- och gymnasieskolan.",
+  "detail": "Vänsterpartiet motionerade för att kommunen ska införa gratis frukost till elever i grundskolor och gymnasieskolor. Motionen hade fyra yrkanden kopplade till skolfrukost.\n\nKommunledningen avslog motionen med motivering att motsvarande motsättningar redan finns i olika grad i skolorna. Kommunstyrelsen behandlade ärendet den 3 juni 2024.\n\nKommunfullmäktige beslutade att avslå motionen. Flera partier reserverade sig, inklusive V, MP, KD och SD som ville bifalla motionen.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 200",
+  "tags": [
+    "skola",
+    "frukost",
+    "elever",
+    "kostnad"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "MP",
+      "KD",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "Motion från Vänsterpartiet, 2023-03-29",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_200.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_200/"
+  }
+}

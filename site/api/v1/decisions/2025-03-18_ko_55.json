@@ -1,0 +1,46 @@
+{
+  "id": "2025-03-18_ko_55",
+  "headline": "Markförsäljning till Circle K Sverige för drivmedelsstation cirka 11,5 miljoner",
+  "summary": "Kommunstyrelsen godkände ett reservationsavtal för försäljning av mark till Circle K Sverige AB för uppförande av en drivmedelsstation. Försäljningspriset är cirka 11,5 miljoner kronor.",
+  "detail": "Circle K Sverige AB avser att uppföra och driva en drivmedelsstation på fastigheter del av Mosås 8:3 samt del av Ånsta 20:134. Marken direktanvisades till aktören eftersom Örebro kommun tidigare förvärvat aktörens fastighet Sidensvansen 4.\n\nPriset för markförsäljningen är beräknat till cirka 11 500 000 kronor. Enligt reglemente krävdes Kommunstyrelsens beslut eftersom köpeskillingen överstiger 10 miljoner kronor.\n\nMarkplanerings- och exploateringsnämnden behandlade ärendet 14 mars 2025 och föreslog godkännande. Kommunstyrelsen gav Markplanerings- och exploateringsnämndens ordförande i uppdrag att underteckna reservationsavtalet och senare överlåtelseavtalet, samt att godkänna justeringar av situationsplan och byggnadsutformning.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Mosås, Ånsta",
+  "paragraph_ref": "§ 55",
+  "tags": [
+    "markförsäljning",
+    "Circle K",
+    "drivmedelsstation",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "OrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Priset för markförsäljningen avseende tomten inom fastigheterna del av Mosås 8:3 samt del av Ånsta 20:134 är beräknat till cirka 11 500 000 kronor.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_55.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_55/"
+  }
+}

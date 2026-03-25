@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-27_ko_332",
+  "headline": "Busskort för grundskolelever - motion avslogs",
+  "summary": "Liberalernas motion om att ge alla grundskolelever busskort avslogs. Kommunen menar att åtgärden inte ryms i nuvarande budget och kräver vidare utredning.",
+  "detail": "Karolina Wallström från Liberalerna motionerade för att alla grundskolelever i årskurs F-9 med längre än 3 km till vald skola ska erbjudas busskort. Motionen ville även utreda nuvarande kostnader och användning.\n\nKommunfullmäktige avslogs motionen. Bedömningen var att motionens intentioner är kloka och av intresse för att skapa likvärdiga möjligheter för alla elever utifrån det fria skolvalet. Genomförande kräver dock vidare beräkningar och ryms inte inom nuvarande budget.\n\nLiberalerna, Vänsterpartiet, Miljöpartiet och Örebro för Förändring reserverade sig mot beslutet. Motionen hade bordlats flera gånger sedan 2019.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 332",
+  "tags": [
+    "skolskjutsar",
+    "busskort",
+    "grundskola",
+    "skolfritt",
+    "utbildning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "SD"
+    ],
+    "against": [
+      "L",
+      "V",
+      "ÖrP",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslagen"
+  },
+  "quote": "Bedömningen är att motionens intentioner är kloka och av intresse för att skapa likvärdiga möjligheter för alla elever utifrån det fria skolvalet. Genomförande av förslaget kräver dock vidare beräkningar och ryms inte inom nu lagda budget.",
+  "quote_page": "s. 27-28",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_332.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_332/"
+  }
+}

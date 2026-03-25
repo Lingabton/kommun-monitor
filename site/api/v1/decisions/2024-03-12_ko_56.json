@@ -1,0 +1,35 @@
+{
+  "id": "2024-03-12_ko_56",
+  "headline": "Attestförteckning för 2024 uppdaterad med nya ansvarskoder",
+  "summary": "Kommunstyrelsen fastställde attestanter för 2024 enligt ny ekonomimodell med nya ansvarskoder som träder in från april.",
+  "detail": "Från april 2024 inför kommunen ny ekonomimodell där sifferkod REN (redovisningsnivå) ersätts med ny sifferkod benämnd Ansvar. Attestfotreckningens behandlas därför i mars för att vara klar inför övergången.\n\nKommunstyrelsen utser attestanter för kommunstyrelsens verksamheter, Stadsrevisionen och Valnämnden från april 2024. Beslut om ändringar under löpande verksamhetsår delegeras till kommundirektören.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 56",
+  "tags": [
+    "ekonomi",
+    "attestation",
+    "intern kontroll"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Ny ekonomimodell från april 2024, där sifferkod REN (förkortning av begrepp REdovisningsNivå) som attestbehörighet knyts till, ersättes med ny sifferkod benämnd Ansvar.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2024-03-12_Kommunstyrelsen",
+    "date": "2024-03-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-12_ko_56.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-12_ko_56/"
+  }
+}

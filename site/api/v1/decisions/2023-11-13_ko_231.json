@@ -1,0 +1,45 @@
+{
+  "id": "2023-11-13_ko_231",
+  "headline": "Risk- och sårbarhetsanalys 2024-2027 antagen för krisberedskap",
+  "summary": "Kommunstyrelsen antar Risk- och sårbarhetsanalys för Örebro kommun 2024-2027 enligt lag. Analysen kartlägger hot, risker och sårbarheter samt åtgärder för krisberedskap.",
+  "detail": "Enligt Lag (2006:544) om kommuners och regioners åtgärder inför extraordinära händelser måste alla svenska kommuner upprätta en risk- och sårbarhetsanalys varje ny mandatperiod.\n\nSyftet är att kartlägga hot, risker och sårbarheter inom kommunen och öka medvetenheten bland tjänstepersoner. Analysen utgör grund för kommunens krisberedskapsarbete genom förebyggande åtgärder, planering, utbildningar och övningar.\n\nAnalysen ska även användas som underlag för planering inom samhällsviktiga verksamheter, kommunal samhällsplanering och olycksförebyggande arbete.\n\nÖrebro kommun arbetar med samtliga typhändelser som omnämns i analysen.\n\nÖrebro för Polen reserverar sig.",
+  "category": "trygghet",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 231",
+  "tags": [
+    "krisberedskap",
+    "säkerhet",
+    "risker",
+    "analys"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med risk- och sårbarhetsanalysen är att kartlägga hot, risker och sårbarheter inom kommunen, samt att öka medvetenheten och stärka kunskapen kring dessa inom Örebro kommuns geografiska område.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_231.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_231/"
+  }
+}

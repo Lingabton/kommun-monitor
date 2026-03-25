@@ -1,5 +1,5 @@
 """
-Kommun Monitor — Static Site Generator
+Beslutskollen — Static Site Generator
 =======================================
 Reads site/data.json and generates:
 - Individual HTML pages per decision (SEO, OG tags, canonical URLs)
@@ -74,7 +74,7 @@ def decision_page_html(decision, meeting, base_url, all_data):
     d = decision
     m = meeting
     cat_name, cat_emoji, cat_color = CATS.get(d.get("category",""), ("Övrigt","📋","#94a3b8"))
-    title = f"{d['headline']} — Kommun Monitor"
+    title = f"{d['headline']} — Beslutskollen"
     desc = d.get("summary", "")[:160]
     canonical = f"{base_url}/beslut/{d['id']}/"
     proto_url = m.get("source_url", "")
@@ -103,7 +103,7 @@ def decision_page_html(decision, meeting, base_url, all_data):
         if related:
             items = ""
             for rd, rm in related[:5]:
-                items += f'<a href="{base_url}/beslut/{rd["id"]}/" style="display:block;padding:8px 0;border-bottom:1px solid #e0f2fe;color:#0c4a6e;text-decoration:none;font-size:14px"><span style="color:#7dd3fc">{fmt_date(rm["date"])}</span> · {rm["meeting_type"]} · {escape(rd["headline"])}</a>'
+                items += f'<a href="{base_url}/beslut/{rd["id"]}/" style="display:block;padding:8px 0;border-bottom:1px solid #e0f2fe;color:#0c4a6e;text-decoration:none;font-size:14px"><span style="color:#7dd3fc">{fmt_date(rm["date"])}</span> · {rm.get("meeting_type", rm.get("organ", ""))} · {escape(rd["headline"])}</a>'
             related_html = f'<div style="margin:20px 0;padding:14px 18px;background:#f0f9ff;border-radius:8px;border:1px solid #bae6fd"><div style="font-size:12px;font-weight:700;color:#0369a1;margin-bottom:8px">🔗 RELATERADE BESLUT</div>{items}</div>'
 
     badges_html = ""
@@ -128,12 +128,12 @@ def decision_page_html(decision, meeting, base_url, all_data):
 <meta property="og:url" content="{canonical}">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="sv_SE">
-<meta property="og:site_name" content="Kommun Monitor">
+<meta property="og:site_name" content="Beslutskollen">
 <meta property="article:published_time" content="{m['date']}T00:00:00+01:00">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{escape(d['headline'])}">
 <meta name="twitter:description" content="{escape(desc)}">
-<link rel="alternate" type="application/rss+xml" title="Kommun Monitor RSS" href="{base_url}/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="Beslutskollen RSS" href="{base_url}/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
 <style>
@@ -150,7 +150,7 @@ article p{{font-size:16px;line-height:1.8;color:#374151;margin-bottom:14px}}
 <body>
 <header>
 <div class="wrap" style="display:flex;align-items:center;justify-content:space-between">
-<a href="{base_url}/">🏛️ Kommun Monitor</a>
+<a href="{base_url}/">📋 Beslutskollen</a>
 <a href="{base_url}/">← Alla beslut</a>
 </div>
 </header>
@@ -158,7 +158,7 @@ article p{{font-size:16px;line-height:1.8;color:#374151;margin-bottom:14px}}
 <main class="wrap" style="padding-top:32px;padding-bottom:60px">
 <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap">
 <span style="background:{cat_color};color:#fff;font-size:12px;font-weight:600;padding:3px 10px;border-radius:6px">{cat_emoji} {cat_name}</span>
-<span style="font-size:13px;color:#94a3b8">{m['meeting_type']} · {fmt_date(m['date'])}</span>
+<span style="font-size:13px;color:#94a3b8">{m.get('meeting_type', m.get('organ', ''))} · {fmt_date(m['date'])}</span>
 {f'<span style="font-size:13px;color:#94a3b8">· {d["paragraph_ref"]}</span>' if d.get("paragraph_ref") else ""}
 {f'<span style="font-size:13px;color:#94a3b8">· 📍 {escape(d["location"])}</span>' if d.get("location") else ""}
 </div>
@@ -194,7 +194,7 @@ article p{{font-size:16px;line-height:1.8;color:#374151;margin-bottom:14px}}
 </main>
 
 <footer style="border-top:1px solid #e2e8f0;padding:20px;text-align:center;font-size:11px;color:#94a3b8">
-<p>Kommun Monitor sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid originalprotokollet.</p>
+<p>Beslutskollen sammanfattar offentliga protokoll med AI. Kan innehålla fel — kontrollera alltid originalprotokollet.</p>
 <p style="margin-top:4px">Källa: <a href="https://www.orebro.se/kommun--politik/politik--beslut.html" target="_blank" style="color:#64748b">orebro.se</a> · <a href="{base_url}/feed.xml" style="color:#64748b">RSS</a></p>
 </footer>
 
@@ -237,7 +237,7 @@ def generate_rss(decisions_with_meetings, base_url):
     return f'''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Kommun Monitor — Örebro</title>
+<title>Beslutskollen — Örebro</title>
 <link>{base_url}/</link>
 <description>AI-sammanfattningar av beslut från Örebro kommun</description>
 <language>sv</language>
@@ -258,7 +258,7 @@ Sitemap: {base_url}/sitemap.xml
 
 def generate_404(base_url):
     return f'''<!DOCTYPE html><html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Sidan hittades inte — Kommun Monitor</title>
+<title>Sidan hittades inte — Beslutskollen</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
 <style>body{{font-family:'DM Sans',sans-serif;background:#f8fafc;display:flex;align-items:center;justify-content:center;min-height:100vh;text-align:center;color:#64748b}}</style>
 </head><body><div><div style="font-size:64px;margin-bottom:16px">🏛️</div><h1 style="font-size:24px;color:#1e293b;margin-bottom:8px">Sidan hittades inte</h1>

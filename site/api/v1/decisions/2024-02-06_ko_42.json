@@ -1,0 +1,47 @@
+{
+  "id": "2024-02-06_ko_42",
+  "headline": "600 tkr extra till teckenspråkiga fritidsgården Fritte",
+  "summary": "Kultur- och fritidsnämnden får grönt ljus att öka bidraget till fritidsgården Fritte med 600 000 kronor för att säkerställa två heltidsanställda och minst tre personal per kväll samt sommarverksamhet.",
+  "detail": "Miljöpartiet de gröna lämnade in en motion genom Lea Strandberg (MP) med fyra yrkanden för att stärka fritidsgården Fritte, som är en teckenspråkig mötesplats för ungdomar.\n\nKommunledningen (S, M, C) instämde i att Fritte behöver förstärkt finansiering. Kultur- och fritidsnämnden avser att öka verksamhetsbidraget med 600 tkr för att säkerställa god kvalité, möta ökad efterfrågan och ge bättre arbetsmiljö.\n\nDe extra pengarna möjliggör två heltidsanställda och minst tre personal per kväll plus viss sommarverksamhet. Motionen bedömdes tillgodosedd. Vänsterpartiet (V), Örebroppartiet (OrP) och Sverigedemokraterna (SD) yrkade bifall till motionen, men röstades ner. Alla tre reserverade sig.\n\nÄrendet ska till Kommunfullmäktige för slutgiltigt beslut.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Fritidsgården Fritte, Örebro",
+  "paragraph_ref": "§ 42",
+  "tags": [
+    "fritidsgård",
+    "ungdomar",
+    "teckenspråk",
+    "kultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "För att säkerställa god kvalité på verksamheten, möta den ökade efterfrågan och samtidigt säkerställa en god arbetsmiljö avser Kultur- och fritidsnämnden att öka verksamhetsbidraget med 600 tkr.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_42.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_42/"
+  }
+}

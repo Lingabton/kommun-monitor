@@ -1,0 +1,44 @@
+{
+  "id": "2023-08-29_ko_164",
+  "headline": "Lokalbehovsanalys Kommunstyrelsen 2025-2035 antagen",
+  "summary": "Kommunstyrelsen antog lokalbehovsanalys för nästa tio år. NOD-projektet anses lösa kortvariga lokalbehov.",
+  "detail": "Lokalbehovsanalysen är underlag för den kommunövergripande lokalförsörjningsplanen. Analysen kartlägger befintliga och kommande behov av verksamhetslokaler baserat på befolkningsprognos och verksamheternas platsbehov.\n\nFörvaltningens lokalbehov är nära förknippad med implementeringen av det nya arbetssättet i NOD-projektet (Ny Organisation ochDigtialisering) samt distansarbete. I det korta perspektivet (cirka 2 år) bedöms NOD redan tillgodose lokalbehoven.\n\nKarolina Wallström (L) lämnade protokollsanteckning med anmärkning om att sparkrav och minskat tjänstemannabehov ska beaktas.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 164",
+  "tags": [
+    "lokaler",
+    "NOD-projekt",
+    "fastigheter",
+    "långsiktig planering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Lokalbehovsanalysen grundas på analyser av befolkningsprognosen för tio år framåt i kombination med en analys av platsbehov och kapacitet för berörda verksamheter.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_164.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_164/"
+  }
+}

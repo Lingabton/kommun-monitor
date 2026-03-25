@@ -1,0 +1,45 @@
+{
+  "id": "2023-04-11_ko_79",
+  "headline": "Riktlinje för arbete med nationella minoriteter och minoritetsspråk antagen",
+  "summary": "Kommunstyrelsen beslutar att anta riktlinje för arbetet med nationella minoriteter och minoritetsspråk enligt lagkrav.",
+  "detail": "Lagen om nationella minoriteter och minoritetsspråk har stärkts och det är numera obligatoriskt att alla kommuner ska ha riktlinjer för detta arbete. Riktlinjen tar upp Örebro kommuns skyldigheter gällande nationella minoriteter och minoritetsspråk enligt lagar, konventioner och kommuns egen styrning.\n\nArbetet med nationella minoriteter och minoritetsspråk måste integreras i ordinarie verksamhet. En del nämnder och verksamheter behöver arbeta systematiskt för att integrera arbetet och ha en tydlig plan för fortsatt arbete. Riktlinjen anger de krav som ställs på kommunens verksamheter för att leva upp till sitt lagliga ansvar.\n\nKommundirektören får i uppdrag att skapa förutsättningar för implementering av riktlinjen. Beslutet fattades enhälligt.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 79",
+  "tags": [
+    "minoriteter",
+    "minoritetsspråk",
+    "riktlinje",
+    "lagkrav"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "För att arbetet med nationella minoriteter och minoritetsspråk ska ge resultat krävs att arbetet integreras i ordinarie verksamhet. Kommunens nämnder, förvaltningar och verksamheter ska ha kännedom om vad kommunens skyldigheter innefattar.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_79.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_79/"
+  }
+}

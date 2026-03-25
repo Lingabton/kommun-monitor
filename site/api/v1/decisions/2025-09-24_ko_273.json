@@ -1,0 +1,42 @@
+{
+  "id": "2025-09-24_ko_273",
+  "headline": "Motion om väg för lantbruksmaskiner avslås",
+  "summary": "Kommunfullmäktige avslår motion från Daniel Spiik (SD) om att säkerställa 4,5 meter breda vägar för lantbruksmaskiner.",
+  "detail": "Daniel Spiik (SD) föreslog två åtgärder: att inga passager på kommunens vägar (utom villagator) görs smalare än 4,5 meter, och att passager som är smalare än detta åtgärdas successivt. Kommunledningen bedömde att bredare vägpassager tenderar att generera högre hastigheter vilket leder till en mer otrygg och osäker trafikmiljö. För framkomligheten för breda lantbruksmaskiner och långa transporter har vägnät valts med hänsyn till kortast möjlig väg och så lite som möjligt genom centrala Örebro. I balansen mellan att tillgodose transportbehovet och att upprätthålla säker, hållbar och trivsam miljö föreslogs motionen avslås.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 273",
+  "tags": [
+    "vägar",
+    "infrastruktur",
+    "lantbruk"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Bredare vägpassager tenderar att generera högre hastigheter vilket leder till en mer otrygg och osäker trafikmiljö.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_273.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_273/"
+  }
+}

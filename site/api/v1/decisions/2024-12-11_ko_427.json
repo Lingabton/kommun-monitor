@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-11_ko_427",
+  "headline": "Motion om kapell i Wadköping avslaget",
+  "summary": "Kommunfullmäktige avslår KD:s motion om att undersöka möjligheten att flytta kapell till Wadköping, då tidigare beslut fortsätter att gälla.",
+  "detail": "KD motionerade för att utreda möjligheter och kostnader för att flytta kapell till Wadköping för bröllop, högtidsdagar, konserter och event.\n\nFrågan har flera gånger lyfts under 20 år. 2000 gjordes en detaljplaneändring i syfte att få ett kapell i Wadköping, men det genomfördes aldrig. En förfrågan 2018 avslogs med motiveringen att byggnaden inte passar in i Wadköpings karaktär och att den fria ytan är viktig för events och aktiviteter.\n\nKommunledningen upprepar denna bedömning. Platsen värnas för verksamheten med lekladan och den öppna ytan är viktig för arrangemang som midsommar, marknader och pedagogisk verksamhet.\n\nKD och MP reserverade sig.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Wadköping",
+  "paragraph_ref": "§ 427",
+  "tags": [
+    "Wadköping",
+    "kapell",
+    "kulturverksamhet",
+    "event"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "ÖrP"
+    ],
+    "against": [
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att tidigare beslut och ställningstagande gäller, dvs att det inte är lämpligt att uppföra ett kapell på den aktuella platsen.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_427.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_427/"
+  }
+}

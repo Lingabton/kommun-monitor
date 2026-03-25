@@ -1,0 +1,46 @@
+{
+  "id": "2025-11-11_ko_231",
+  "headline": "Motion om att riva fontänen på Järntorget avslås",
+  "summary": "Sverigedemokraterna och ÖrP ville riva fontänen och återupprätta parkering på Järntorget. Kommun bedömer att problemen kräver innehållsmässiga, inte parkeringsmässiga lösningar.",
+  "detail": "Helena Ståhl (SD) och Markus Allard (ÖrP) väckade motion om att riva fontänen på Järntorget och återupprätta parkeringsplatserna. Motionärerna hävdade att detta skulle förbättra näringslivet i området.\n\nMarkplanerings- och exploateringsnämnden bedömer att fontänens driftproblem skapade utmaningar, men att när fontänen fungerat har den varit väldigt uppskattad särskilt av barnfamiljer. Förvaltningens analys visar att problemen med trygghet och aktivitet på torget i första hand inte beror på frånvaron av parkering utan på bristen på innehål, aktiviteter och sammanhang i omgivningen.\n\nEn återgång till bilparkering skulle inte lösa dessa långsiktiga utmaningar utan riskera att försvaga möjligheten att utveckla torget till attraktiv mötesplats. Ärendet går vidare till Kommunfullmäktige.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Järntorget, Örebro",
+  "paragraph_ref": "§ 231",
+  "tags": [
+    "järntorget",
+    "parkering",
+    "stadsutveckling",
+    "mötesplats"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Förvaltningens analys visar att problemen kring trygghet och aktivitet på torget i första hand inte beror på frånvaron av parkering, utan snarare på bristen på innehål, aktiviteter och sammanhang.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_231.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_231/"
+  }
+}

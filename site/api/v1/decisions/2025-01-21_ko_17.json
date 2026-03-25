@@ -1,0 +1,47 @@
+{
+  "id": "2025-01-21_ko_17",
+  "headline": "Motion om Garphytteklint naturreservat besvarad",
+  "summary": "Motion från Lea Strandberg (MP) om långsiktigt skydd för Garphytteklint ansågs besvarad.",
+  "detail": "Motion inlämnades 14 februari 2024 med förslag om att Örebro kommun långsiktigt skyddar Garphytteklint och dess artrikedom.\n\nMiljö- och stadsbyggnadsförvaltningen delar motionärens åsikt att Garphytteklint och dess höga naturvärden bör få långsiktigt skydd. Pågår uppdrag för att undersöka möjligheter till naturreservatsbildning. Parallellt undersöker kommunen möjligheten att ingå naturvårdsavtal som alternativ lösning.\n\nMartha Wicklund (V) reserverade sig för bifallsyrkande, vilket indikerar att hon önskat att reservatsbeslut redan hade fattats. Ärendet går vidare till Kommunfullmäktige.",
+  "category": "miljo",
+  "contested": false,
+  "location": "Garphytteklint",
+  "paragraph_ref": "§ 17",
+  "tags": [
+    "Garphytteklint",
+    "naturreservat",
+    "miljö",
+    "naturvärden"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP",
+      "SD"
+    ],
+    "result": "Besvarad"
+  },
+  "quote": "Miljö- och stadsbyggnadsförvaltningen delar motionärens åsikt att Garphytteklint och dess höga naturvärden bör åtnjuta ett långsiktigt skydd.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_17.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_17/"
+  }
+}

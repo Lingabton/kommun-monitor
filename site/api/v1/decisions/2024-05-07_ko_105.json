@@ -1,0 +1,45 @@
+{
+  "id": "2024-05-07_ko_105",
+  "headline": "Åtgärdsprogram mot buller 2024-2028 antaget",
+  "summary": "Kommunstyrelsen antog åtgärdsprogram för att begränsa bullerexponeringen bland invånare. Två partier reserverade sig mot beslutet.",
+  "detail": "Programmet är utformat enligt förordningen om omgivningsbuller SFS 2004:675 som kräver att alla kommuner med över 100 000 invånare upprättar åtgärdsprogram vart femte år. Överordnat syfte är att förbättra ljudmiljön och begränsa bullerexponeringen för invånare i Örebro kommun.\n\nProgrammet berörde flera olika bullerkällor och åtgärder under perioden 2024-2028. Teknik- och serviceförvaltningen ansvarar för framtagandet.\n\nMarkus Allard (ÖrP) yrkade avslag på programmet i sin helhet. Karolina Wallström (L) yrkade avslag och ville omforma programmet i enlighet med Liberalernas tidigare förslag och åsikter. Beslutet följde Teknik- och servicenämndens rekommendation.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 105",
+  "tags": [
+    "buller",
+    "miljö",
+    "infrastruktur",
+    "trafikbuller"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "L"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Det övergripande syftet med detta åtgärdsprogram är att förbättra ljudmiljön och begränsa bullerexponeringen för invånarna i Örebro kommun.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_105.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_105/"
+  }
+}

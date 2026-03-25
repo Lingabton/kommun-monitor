@@ -1,0 +1,43 @@
+{
+  "id": "2026-01-20_ko_15",
+  "headline": "Jämställdhetspris förblir endast för kommun - initiative avslaget",
+  "summary": "Kommunstyrelsen avslår motion om att öppna jämställdhetspriset för privatpersoner och civil samhälle.",
+  "detail": "Susanne Lindholm Henningsson (KD) inkom med ledamotsinitiativ om att ändra reglerna för Örebro kommuns årliga jämställdhetspris.\n\nInitiativet yrkade på att priset ska kunna sökas av privatpersoner och organisationer inom civil samhälle, inte bara kommunala verksamheter och bolag.\n\nArgumenten för: skulle kunna öka nomineringarna, lyfta jämställdhetsfrågan i samhället och uppmärksamma goda förebilder.\n\nArgumenten mot enligt kommunledningen: priset är en viktig signal för att uppmärksamma kommunens egna medarbetares jämställdhetsarbete och skapar motivation internt. Kostnader för administration och granskning skulle öka vid öppning för externa sökande.\n\nMartha Wicklund (V) och Susanne Lindholm Henningsson (KD) yrkade bifall till initiativet. Markus Allard (ÖrP) yrkade att avskaffa priset helt, men detta yrkande fick inte ställas.\n\nKommunledningens förslag om att anse initiativet besvarat antogs.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 15",
+  "tags": [
+    "jämställdhetspris",
+    "jämställdhet",
+    "civilt samhälle",
+    "ledamotsinitiativ"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Jämställdhetspriset ger en viktig signal för att visa vikten av det arbete som Örebro kommuns medarbetare gör för att utveckla metoder och arbetssätt som stärker jämställdheten.",
+  "quote_page": "s. 16-17",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_15.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_15/"
+  }
+}

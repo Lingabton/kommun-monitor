@@ -1,0 +1,47 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_184",
+  "headline": "Rapport ej verkställda LSS/SoL-beslut avslagna, ingen åtgärdsplan",
+  "summary": "Rapport över ej verkställda beslut om välfärd visar allvarliga resursbrister. Förslag om åtgärdsplan från V och SD avslogs.",
+  "detail": "För kvartal 4 2024 rapporterade Socialnämnden 47 ej verkställda beslut, varav 35 fortsatt ej verkställda vid kvartalets slut.\n\nFunktionsstödsnämnden rapporterade totalt 117 beslut (ned från 149 föregående kvartal). Vid kvartalets slut var 64 beslut fortsatt ej verkställda inom tre månader (ned från 98).\n\nVård- och omsorgsnämnden rapporterade 54 beslut, en ökning om 12 sedan föregående kvartal. Vid utgången av kvartalet var 23 beslut fortsatt ej verkställda.\n\nVänsterpartiet förslöag att Kommunstyrelsesförvaltningen få i uppdrag att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid. Sverigedemokraterna föreslog skarpt krav om att säkerställa att IVO inte riskar att lämna in särskild avgift, samt återrapportering om vilka förutsättningar som saknas.\n\nBåda tilläggsförslagen avslogs. Rapporterna läggs till handlingarna.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 184",
+  "tags": [
+    "välfärd",
+    "LSS",
+    "SoL",
+    "äldreomsorg",
+    "funktionsstöd",
+    "resursbrister"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "SD",
+      "ÖrP",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslag på tilläggsförslag"
+  },
+  "quote": "Socialnämndens statistikrapport till Kommunfullmäktige över ej verkställda SoL-beslut rapporterade kvartal 4, 2024 läggs till handlingarna.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_184.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_184/"
+  }
+}

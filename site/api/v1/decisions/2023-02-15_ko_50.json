@@ -1,0 +1,47 @@
+{
+  "id": "2023-02-15_ko_50",
+  "headline": "Motion om medborgarvittnen avslås",
+  "summary": "Kommunfullmäktige avslår motion från Niclas Persson (MP) om att införa medborgarvittnen i Örebro. Flera partier reserverar sig.",
+  "detail": "Motionen föreslår att Örebro kommun ska införa medborgarvittnen för att öka transparensen i polisens arbete. Kommunstyrelsen bedömer att medborgarvittnen är en komplicerad och kostsam verksamhet, och att det finns mer effektiva insatser för att skapa tillit till polisen.\n\nKommunstyrelsen hänvisar till att organisationen i Göteborg, där medborgarvittnen används, har identifierat stora brister, och att en större utredning behövs.\n\nMotionen avslås. Sverigedemokraterna reserverar sig för bifall och framhåller att medborgarvittnen skapar insyn och transparens i polisens viktiga arbete. Även Miljöpartiet, Vänsterpartiet och andra partier reserverar sig mot avslagsbeslutet.\n\nAvslagsbeslutet visar att det inte finns majoritet för denna typ av medborgarkontroll av polisen.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 50",
+  "tags": [
+    "medborgarvittnen",
+    "polisen",
+    "trygghet",
+    "opposition"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "ÖrP"
+    ],
+    "against": [
+      "MP",
+      "SD",
+      "V",
+      "L"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Medborgarvittnen är en komplicerad och kostsam verksamhet och det finns andra, mer effektiva insatser som kan skapa större tillit till polisen.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2023-02-15_Kommunfullmäktige",
+    "date": "2023-02-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-15_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-15_ko_50.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-15_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-15_ko_50/"
+  }
+}

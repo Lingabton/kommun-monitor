@@ -1,0 +1,44 @@
+{
+  "id": "2025-01-29_ko_16",
+  "headline": "41 ej verkställda socialtjänstbeslut - långtidsväntande klienter",
+  "summary": "Rapport visar att 41 beslut om socialtjänst inte verkställts inom tre månader under Q2 2024. Vanligaste orsaken är platsbrist eller att individen tackat nej till insats.",
+  "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden rapporterar kvartalsvis om ej verkställda beslut enligt SoL och LSS. För Q2 2024 ökade Socialnämndens ej verkställda beslut från 25 (Q1) till 41 (Q2).\n\nFunktionsstödsnämnden rapporterade 97 ej verkställda beslut (av totalt 157), en minskning från 108 i Q1. Vård- och omsorgsnämnden hade 10 ej verkställda beslut av totalt 15.\n\nKommunfullmäktige beslutar att rapporterna läggs till handlingarna. Två tilläggsyrkanden från V och SD avslogs - ett om att framtida rapporter ska inkludera orsaker till väntan, och ett om skarpt krav på nämnder för att undvika IVO-anmälan. Reservationer från V, SD och ÖrP.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 16",
+  "tags": [
+    "socialtjänst",
+    "LSS",
+    "köer",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Vanligaste orsaken för ej verkställda beslut under kvartal 2 är att det saknas plats eller att individen har tackat nej till insatsen.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_16.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_16/"
+  }
+}

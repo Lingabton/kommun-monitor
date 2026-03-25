@@ -1,0 +1,45 @@
+{
+  "id": "2026-01-20_ko_3",
+  "headline": "38,6 miljoner till Örebro Läns Flygplats 2026",
+  "summary": "Kommunstyrelsen beviljar 38,6 miljoner kronor i driftsbidrag till Örebro Läns Flygplats AB för år 2026. Beslutet strider mot miljökritik från Vänsterpartiet.",
+  "detail": "Örebro Läns Flygplats AB får totalt 38,6 miljoner kronor i driftsbidrag för 2026, varav Örebro kommun och Region Örebro Län tillsammans bidrar med 36,3 miljoner kronor (18,17 miljoner vardera). Kumla och Karlskoga kommuner bidrar med 1,14 miljoner var.\n\nFlygplatsen hade 73 201 passagerare under 2024. EU-kommissionen tillåter stöd till små flygplatser (under 200 000 passagerare årligen) enligt GBER-förordningen (General Block Exemption Regulation). Kommunen bedömer att alla villkor är uppfyllda för att åberopa denna laglig grund.\n\nMarkus Allard (ÖrP) yrkade på återremiss för att komplettera med underlag om hur pengarna ska användas. Martha Wicklund (V) yrkade avslag och begärde utredning om förstatligande eller försäljning/avveckling av flygplatsen.\n\nBeslut fattades enligt kommunledningsförvaltningens förslag.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro Läns Flygplats",
+  "paragraph_ref": "§ 3",
+  "tags": [
+    "flygplats",
+    "miljö",
+    "klimat",
+    "driftsbidrag",
+    "38,6 miljoner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "ÖLF erhåller driftbidrag på sammanlagt 38 634 800 kr för 2026, varav Örebro kommuns och Region Örebro läns andel är 18 174 300 kr vardera.",
+  "quote_page": "s. 4-5",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_3.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_3/"
+  }
+}

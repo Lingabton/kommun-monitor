@@ -1,0 +1,38 @@
+{
+  "id": "2023-03-14_ko_58",
+  "headline": "Motion om att slopa solcellsavgifter avslagen",
+  "summary": "Motion från ÖrP om att slopa avgifter för solceller avsloges. SD yrkade det skulle anses besvarad med uppdrag om effektivisering.",
+  "detail": "Markus Allard (ÖrP) och Peter Springare (ÖrP) motionerade för att sloppa avgifter för lov och anmälan av solcellsmontage. Bedömningen var att kommunens rådgivning och servicecenter som hjälper hitta vägar för att undvika bygglov skapar större incitament än borttagande av avgiften.\n\nMarkus Allard yrkade bifall. Helena Ståhl (SD) yrkade att motionen skulle anses besvarad under förutsättning att Bygglovsenheten fick uppdrag att effektivisera processer för att minska kostnaderna för bygglov.\n\nOrdföranden ansåg att Helena Ståhls yrkande väckte ett nytt ärende och borde anmälas som egen motion. Kommunledningsförvaltningens förslag (avslag) antogs. Reservationer lämnades av ÖrP och SD.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 58",
+  "tags": [
+    "solceller",
+    "bygglovsavgift",
+    "miljö",
+    "effektivisering"
+  ],
+  "voting": {
+    "for": [],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen innehåller förslag om att avgifterna som Örebro kommun debiterar i samband med lov och/eller anmälan av montering av solceller sätts till 0 kronor, alltså slopas.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_58.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_58/"
+  }
+}

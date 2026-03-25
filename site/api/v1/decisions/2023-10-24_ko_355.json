@@ -1,0 +1,43 @@
+{
+  "id": "2023-10-24_ko_355",
+  "headline": "Reviderat investeringsprogram 2023 på 1304 mnkr godkänt",
+  "summary": "Kommunfullmäktige godkänner reviderat investeringsprogram för 2023 med total investering på 1304 mnkr, varav 744 mnkr skattefinansierat och 560 mnkr taxefinansierat.",
+  "detail": "Det reviderade investeringsprogrammet för 2023 godkänns med en total investering på 1304 mnkr. Av detta är 744 mnkr skattefinansierat och 560 mnkr taxefinansierat. De beräknade driftkostnadskonsekvenserna från den kommunövergripande lokalförsörjningsplanen uppgår till 95,1 mnkr, en ökning med 5,9 mnkr från juni 2023.\n\nMarkplanerings- och exploateringsnämnden ges rätt att nyttja realisationsvinster från försäljning av bostadsrätter och fastigheter för att öka investeringsbudgeten för markinköp. Nämnden får även möjlighet att använda markåtkomstbidrag för utvidgning av naturreservat.\n\nVänsterpartiet ville ha andra justeringar enligt sitt eget förslag, som blev motförslag. Örebropartiet reserverade sig helt mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 355",
+  "tags": [
+    "investering",
+    "infrastruktur",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "L",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Efter revidering uppgår kommunens totala investeringsbudget för 2023 till 1 304 mnkr, varav 744 mnkr avser skattefinansierade investeringar och 560 mnkr taxefinansierade investeringar.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2023-10-24_Kommunfullmäktige",
+    "date": "2023-10-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-24_ko_355.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-24_ko_355/"
+  }
+}

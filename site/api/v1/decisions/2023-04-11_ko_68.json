@@ -1,0 +1,41 @@
+{
+  "id": "2023-04-11_ko_68",
+  "headline": "Årsinvesteringar på 371 miljoner kronor överförda från 2022",
+  "summary": "Kommunstyrelsen fastställer intraprenadernas resultat (61,3 mkr) och digital arbetsplats resultat (-17,7 mkr). Investeringsanslag på 371,5 miljoner kronor överförs från 2022.",
+  "detail": "Ärendet behandlar överförda driftresultat för intraprenader och investeringsanslag från föregående år. Intraprenadernas ackumulerade resultat fastställs till 61 346 tkr och digital arbetsplats till -17 723 tkr.\n\nFör pågående investeringsobjekt överförs 371 454 tkr från 2022 till 2023. Överfört anslag påverkar inte det finansiella målet om självfinansieringsgrad då överförda anslag exkluderas från denna beräkning.\n\nMartha Wicklund (V) yrka avslag på beslutspunkt 3 om investeringsanslag. Helena Ståhl (SD) yrka avslag enligt Sverigedemokraternas budgetförslag. Markus Allard (ÖrP) ville att ärendet återremitterades enligt Örebropartiets program.\n\nOrdförande Johansson ställde förslagen mot varandra och beslutet antogs enligt kommunledningsförvaltningens förslag. Beslutspunkt 3 ska till Kommunfullmäktige för slutgiltigt beslut.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 68",
+  "tags": [
+    "investeringar",
+    "intraprenader",
+    "överföring"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Investeringsanslag på sammanlagt 371 454 tkr överförs från 2022 till 2023 i enlighet med kommunstyrelseförvaltningens förslag.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_68.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_68/"
+  }
+}

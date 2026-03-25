@@ -1,0 +1,43 @@
+{
+  "id": "2024-08-28_ko_204",
+  "headline": "Örebro Parkering AB - motionen besvarad",
+  "summary": "Motion om avveckling av parkeringsbolaget anses besvarad; utredning och diskussioner pågår.",
+  "detail": "Sverigedemokraterna motionerade 2021 för utredning av avyttring eller likvidering av Örebro Parkering AB med största möjliga varsamhet för skattemedlen.\n\nDiskussionerna om parkeringsbolagets framtid har pågått en tid. Omvärldsbevakning genomförs - Uppsala och Göteborg har besökts för att se framgångsrika modeller.\n\nKommunledningen bedömde att flera spår finns i diskussionerna men att utredningen inte är avslutad. Motionen anses därför besvarad snarare än bifallen.\n\nKommunfullmäktige beslutade enligt detta. SD, L och OrP reserverade sig för att bifalla motionen.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 204",
+  "tags": [
+    "Parkering",
+    "AB",
+    "utredning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "L",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Flera olika spår finns med i diskussionerna kring Örebro Parkering AB. Den utredningen och de diskussionerna är i dagsläget inte avslutade.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_204.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_204/"
+  }
+}

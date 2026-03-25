@@ -1,0 +1,43 @@
+{
+  "id": "2025-03-18_ko_53",
+  "headline": "Nya riktlinjer för avgifter i förskola och fritidshem från april",
+  "summary": "Kommunstyrelsen antog nya riktlinjer för tillämpning av avgiftstaxa i förskola, fritidshem och omsorg på obekväm tid, gällande från 1 april 2025. Beslutet innebär förändringar i beräkning av avgifter för vårdnadshavare som gått isär, vilket kan öka kostnaderna för hushåll med låga inkomster.",
+  "detail": "Grundskole- och Förskolenämnden föreslog nya riktlinjer för avgiftsberäkning i barnomsorgen för att anpassa dem till nya organisationsstrukturer efter nämndreformen 2021. De nya riktlinjerna innebär en ändring av hur omsorgsavgifter beräknas för vårdnadshavare med delad faktura.\n\nVänsterpartiet, representerat av Cristian Rehn Janowicz, yrkade på att behålla det tidigare sättet att beräkna omsorgsavgifter för de med delad faktura, för att undvika kostnadsökningar särskilt för ensamstående hushåll och hushåll med låga inkomster. Partiet påpekade att cirka 2000 vårdnadshavare i Örebro kommun skulle påverkas och att omsorgsavgiften i vissa fall kunde dubbleras.\n\nOrdenliga Åhrlin ställde förslagen mot varandra och kommunstyrelsen beslutade enligt Grundskole- och Förskolenämndens ursprungliga förslag. Vänsterpartiet reserverade sig mot beslutet. De nya riktlinjerna gäller från 1 april 2025 och beslutspunkt 4 om nya avgiftsnivåer ska vidare till kommunfullmäktige för godkännande.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 53",
+  "tags": [
+    "barnomsorgsavgifter",
+    "förskoleavgifter",
+    "låga inkomster",
+    "deltid"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Det innebär att det kommer uppstå en kostnadsökning för omsorgsavgifter för vårdnadshavare med lägst inkomster. Omsorgsavgiften kan i vissa fall dubbleras.",
+  "quote_page": "s. 23",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_53.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_53/"
+  }
+}

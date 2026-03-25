@@ -1,0 +1,43 @@
+{
+  "id": "2024-12-11_ko_419",
+  "headline": "Vattenskyddsområde Gäddesta – ansökan till Länsstyrelsen",
+  "summary": "Kommunfullmäktige godkänner ansökan om inrättande av vattenskyddsområde för Gäddesta med skyddsföreskrifter för att säkerställa skyddet av grundvattenmagasinet för Bista och Jägarbacken.",
+  "detail": "Dricksvattenförsörjningen för Örebro tätort och flera kransorter baseras på råvatten från Svartån. Råvattnet behandlas i Skråmsta vattenverk och infiltreras sedan i tre vattentäktsområden.\n\nTeknik- och serviceförvaltningen föreslår utökning av skyddsområdet genom inrättande av vattenskyddsområde Gäddesta med tillhörande skyddsföreskrifter för att säkerställa grundvattenmagasinets skydd.\n\nBeslutet gick genom enhälligt med bifallsyrkanden från M, MP och SD. Två särskilda yttranden lämnades: Susanne Lindholm Henningsson (KD) och Helena Ståhl (SD) påpekade vikten av bättre dialog med berörda parter före beslutsfattandet.\n\nKD kritiserar också att kommunen inte hade omfattande dialog med berörda parter och framhöver vikten av att involvera medborgare i beslut som påverkar vardagen för enskilda och näringsverksamhet.",
+  "category": "miljö",
+  "contested": false,
+  "location": "Gäddesta, Svartån",
+  "paragraph_ref": "§ 419",
+  "tags": [
+    "vattenskydd",
+    "miljö",
+    "Gäddesta",
+    "Svartån",
+    "Skråmsta vattenverk"
+  ],
+  "voting": {
+    "for": [
+      "M",
+      "S",
+      "MP",
+      "SD",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Till Länsstyrelsen inlämna ansökan om inrättande av vattenskyddsområde för Gäddesta med skyddsföreskrifter enligt bifogat förslag och enligt bifogat tekniskt underlag och karta.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_419.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_419/"
+  }
+}

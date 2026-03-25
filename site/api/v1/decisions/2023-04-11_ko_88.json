@@ -1,0 +1,43 @@
+{
+  "id": "2023-04-11_ko_88",
+  "headline": "Motion om Örebrobostäder avslås - avkastningskrav kan inte tas bort",
+  "summary": "Kommunstyrelsen avslår motion från Vänsterpartiet om att Örebrobostäder ska avskaffa avkastningskrav och sätta rimliga hyror.",
+  "detail": "Martha Wicklund, Cecilia Lönn Elgstrand och Linn Josefsson (alla V) inkom med motion 2020 om att Örebrobostäder AB ska avskaffa avkastningskravet, sätta rimliga hyror för att undvika rabattsystem och använda slopad avkastning för renovering.\n\nKommunledningsförvaltningen bedömde att det enligt Lag (2010:879) om allmännyttiga kommunala bostadsaktiebolag inte är möjligt att avskaffa avkastningskravet. Vidare konstaterades att Örebrobostäder redan har snitthyra lägre än alla regionhuvudstäder och motsvarande bolag med över 10 000 bostäder. Den introducerade rabattstegen möjliggör för fler att kunna bo i både nyproducerade och renoverade lägenheter.\n\nMartha Wicklund (V) yrka bifall. Motionen avslogs. Martha Wicklund reserverade sig för sitt bifallsyrkande. Ärendet skickas till Kommunfullmäktige.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 88",
+  "tags": [
+    "Örebrobostäder",
+    "avkastningskrav",
+    "hyror"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att det enligt Lag (2010:879) om allmännyttiga kommunala bostadsaktiebolag inte är möjligt att avskaffa avkastningskravet samt att Örebrobostäder AB idag har en snitthyra som ligger lägre än alla Regionhuvudstäder-, och bostadsbolag med fler än 10 000 bostäder.",
+  "quote_page": "s. 28",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_88.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_88/"
+  }
+}

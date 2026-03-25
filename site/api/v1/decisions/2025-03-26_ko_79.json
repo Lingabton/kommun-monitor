@@ -1,0 +1,38 @@
+{
+  "id": "2025-03-26_ko_79",
+  "headline": "Motion om småhusbebyggelse ansågs besvarad",
+  "summary": "SD:s motion om att kommunen ska prioritera småhusbebyggelse vid markövertagande ansågs besvarad. Kommunen arbetar redan med detta enligt beslutet.",
+  "detail": "Helena Ståhl (SD) m.fl. motionerade för att Örebro kommun ska ha ett prioriterat syfte för planering av småhus när kommunen förvärvar mark i områden lämpade för bostadsbyggande. Kommunstyrelsen bedömde att motionen redan var tillgodosedd då kommunen arbetar med att prioritera att tillgången på bostäder överensstämmer med efterfrågan.\n\nMotionen hade stöd från KD, SD och ÖrP som yrkade på bifall, medan V:s Linn Josefsson yrkade på avslag. Efter proposition fann fullmäktige att motionen var besvarad enligt styrelsens förslag.\n\nReservationer lämnades av SD (8 ledamöter), ÖrP (5 ledamöter) och KD (3 ledamöter) som ville se ett mer explicit bifallande, samt V (6 ledamöter) som ville avslå helt.",
+  "category": "bygg",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 79",
+  "tags": [
+    "småhusbebyggelse",
+    "mark",
+    "bostäder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Ansågs besvarad"
+  },
+  "quote": "Motionen innehåller ett förslag om att kommun ska ha ett prioriterat syfte för planering av småhus, när kommunen förvärvar mark i områden och orter där förutsättningar finns för bostadsbyggande.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-03-26_Kommunfullmäktige",
+    "date": "2025-03-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-26_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-26_ko_79.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-26_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-26_ko_79/"
+  }
+}

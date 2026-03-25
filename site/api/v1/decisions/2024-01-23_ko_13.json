@@ -1,0 +1,34 @@
+{
+  "id": "2024-01-23_ko_13",
+  "headline": "Serviceverksamhet upphörande - ärendet bordlagt",
+  "summary": "KD motion om att kommunen ska utreda och upphöra som utförare av service bordlades utan slutgöring.",
+  "detail": "Sandra Fröjdenstam (KD) föreslog 2023-01-24 att kommunen gör en konsekvensutredning avseende upphörande av serviceverksamhet, med särskild hänsyn till landsbygdsperspektivet.\n\nKommunledningen bedömde båda attsatserna som besvarade, men ärendet bordlades på fullmäktige flera gånger (24 oktober, 22 november, 12 december 2023) och bordlades igen 2024-01-23 utan slutgörande beslut.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 13",
+  "tags": [
+    "serviceverksamhet",
+    "landsbygd"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Borderläggning"
+  },
+  "quote": "Motionens första att-sats är besvarad. Motionens andra att-sats är besvarad.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_13.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_13/"
+  }
+}

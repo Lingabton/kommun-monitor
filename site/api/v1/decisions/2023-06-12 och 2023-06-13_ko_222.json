@@ -1,0 +1,40 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_222",
+  "headline": "Investeringsprogram 2023 reviderat till 1 319 mnkr",
+  "summary": "Reviderat investeringsprogram för 2023 beslutades med totala investeringsutgifter på 1 319 mnkr. Flera partier reserverade sig mot beslutet.",
+  "detail": "Kommunfullmäktige beslutade om reviderat investeringsprogram för 2023. Efter revidering uppgick kommunens investeringsbudget till totala investeringsutgifter på 1 319 mnkr för år 2023, varav 744 mnkr avser skattefinansierade investeringar och 575 mnkr taxefinansierade investeringar.\n\nÅrets revideringar avser både utökning och minskning av investeringsbudget samt ombudgetering av redan beslutade medel mellan investeringsområden.\n\nMarkus Allard (ÖrP), Bo Ammer (SD), Anna Andersson (KD) och Karolina Wallström (L) yrkade avslag på förslaget till förmån för respektive partis eget budgetförslag för Örebro kommun 2023. Dessa avslogs.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 222",
+  "tags": [
+    "investering",
+    "budget 2023",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Det reviderade investeringsprogrammet beslutas i enlighet med förslaget, innebärande att kommunens totala investeringsutgifter 2023 uppgår till 1 319 mnkr.",
+  "quote_page": "s. 13-14",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_222.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_222/"
+  }
+}

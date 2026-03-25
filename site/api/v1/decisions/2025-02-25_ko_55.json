@@ -1,0 +1,36 @@
+{
+  "id": "2025-02-25_ko_55",
+  "headline": "Motion om mäns våld mot kvinnor bordlades",
+  "summary": "Kommunfullmäktige bordlade Vänsterpartiets motion om krafttag mot mäns våld mot kvinnor. Motion innehåller förslag om utbildning, myndighetssamverkan och haverikommission.",
+  "detail": "Martha Wicklund (V) m.fl. inlämnade gruppmotion om krafttag mot mäns våld mot kvinnor. Motionen föreslår grundläggande utbildning för kommunens anställda och politiker om strukturer kring våld, kunskapshöjning för arbetsgivare, ökad myndighetssamverkan mellan polis, vård och socialtjänst, samt att kommunen ska framföra krav till regeringen om haverikommissioner varje gång en kvinna mördas.\n\nKommunstyrelsen föreslog att tre av fyra att-satser anses tillgodosedda och att den fjärde att-satsen avslås. Martha Wicklund (V) yrkade för sitt eget yrkande. Helena Ståhl (SD) reserverade sig mot beslutsunkterna 3 och 4.\n\nOrdföranden fann att Kommunfullmäktige beslutade att bordlägga ärendet.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 55",
+  "tags": [
+    "våld mot kvinnor",
+    "trygghet",
+    "jämställdhet",
+    "utbildning"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Bordlades"
+  },
+  "quote": "Motionen föreslår att en grundläggande utbildning ska ges till Örebro kommuns samtliga anställda och politiker om strukturer kring mäns våld mot kvinnor.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_55.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_55/"
+  }
+}

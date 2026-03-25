@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-21_ko_4",
+  "headline": "Oslo-Stockholm 255 AB styrdokument reviderade",
+  "summary": "Kommunstyrelsen godkände revideringar av bolagsordning, ägardirektiv och aktieägaravtal för Oslo-Stockholm 255 AB, ett gemensamt projekt mellan flera kommuner och regioner.",
+  "detail": "Oslo-Stockholm 255 AB ägs till lika delar av Örebro Rådhus AB, Region Örebro läns förvaltning AB, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland. Styrdokumenten uppdaterades efter revisorernas synpunkter och praktisk tillämpning.\n\nÖrebro Rådhus AB får i uppdrag att ingå nytt aktieägaravtal med de andra aktieägarna. Föreslagna ändringar i bolagsordning och ägardirektiv godkänns. Ärendet ska till Kommunfullmäktige för slutligt beslut.\n\nHelena Ståhl (SD) reserverade sig specifikt mot förskjutningen av beslut om verksamhetsmål och budget från bolagsstämman till styrelsen, som hon ser som en maktkcentalisering. Hon menar att bolagsstämman behövs som kontrollfunktion för stora projekt med kostnadsrisker.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 4",
+  "tags": [
+    "Oslo-Stockholm255",
+    "bolagsstyrning",
+    "styrdokument",
+    "tvåkommunssamarbete"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den här typen av projekt har en förmåga att dra i väg ekonomiskt, därav är bolagsstämman en bra kontrollfunktion för att just hantera verksamhetsmål och budget för varje år.",
+  "quote_page": "Yrkande Ståhl (SD)",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_4.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_4/"
+  }
+}

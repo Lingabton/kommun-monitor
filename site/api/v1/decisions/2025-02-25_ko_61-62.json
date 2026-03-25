@@ -1,0 +1,37 @@
+{
+  "id": "2025-02-25_ko_61-62",
+  "headline": "Motioner om ställplatser husbilar och småhusbebyggelse bordlade",
+  "summary": "Kommunfullmäktige bordlade två motioner: Kristdemokraternas förslag om ställplatser för husbilar och Sverigedemokraternas krav på markförvärv för småhusbebyggelse.",
+  "detail": "Susanne Lindholm Henningsson (KD) inlämnade motion om att kommunen ska utreda lämpliga platser för husbilar nära Örebro city och iordningställa dessa. Markplanerings- och exploateringsnämnden behandlade ärendet den 14 november 2024 och Kommunstyrelsen den 21 januari 2025. Kommunstyrelsen föreslog avslag då detta inte är en prioriterad fråga. Ärendet bordlades den 29 januari 2025 och bordlades åter den 25 februari 2025.\n\nHelena Ståhl (SD) m.fl. inlämnade motion om att kommunen ska ha prioriterat syfte för planering av småhus när mark förvärvas. Markplanerings- och exploateringsnämnden behandlade ärendet den 10 december 2024 och Kommunstyrelsen den 21 januari 2025. Kommunstyrelsen föreslog att motionen är besvarad. Ärendet bordlades den 29 januari 2025 och bordlades åter den 25 februari 2025.",
+  "category": "bygg",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 61-62",
+  "tags": [
+    "bostäder",
+    "husbilar",
+    "småhus",
+    "markförvärv",
+    "exploatering"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Bordlades"
+  },
+  "quote": "Motionen behandlar möjligheten för Örebro kommun att utöka antalet ställplatser för husbilar och innehåller följande förslag: Lämpliga platser för husbilar i nära anslutning till Örebro city ska utredas.",
+  "quote_page": "s. 26-27",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_61-62.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_61-62/"
+  }
+}

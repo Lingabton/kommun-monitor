@@ -1,0 +1,46 @@
+{
+  "id": "2025-03-18_ko_52",
+  "headline": "Reviderade riktlinjer för intern kontroll antogs",
+  "summary": "Kommunstyrelsen antog nya reviderade riktlinjer för intern kontroll i Örebro kommun, uppdaterade från tidigare version från 2014 för att anpassa sig till nuvarande lagar och organisation.",
+  "detail": "De tidigare riktlinjerna för intern kontroll fastställdes 2014 och behövde uppdateras för att anpassa sig till nuvarande lagar och organisationsstruktur. De nya riktlinjerna syftar till att fånga fler risker och uppnå en bättre balans mellan nytta och arbetstid.\n\nKontrollområdena förblir Verksamhet, Ekonomi och Personal. En viktig del av revisionen är att förtroendevalda ska vara delaktiga i att välja kontrollmoment och utforma internkontrollplanen. En ny handbok för uppföljning av intern kontroll togs fram parallellt med de reviderade riktlinjerna.\n\nFörslaget stämdes av med årsprocessledare och motsvarande funktioner inom kommunens förvaltningar innan presentationen för Kommunstyrelsen.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 52",
+  "tags": [
+    "intern kontroll",
+    "riktlinjer",
+    "styrning",
+    "övervakning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "OrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Det finns ett behov av att revidera riktlinjerna för att anpassa dem till nuvarande lagar och organisation. Det nya förslaget syftar till att fånga fler risker och uppnå en bättre balans mellan nytta och arbetstid.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_52.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_52/"
+  }
+}

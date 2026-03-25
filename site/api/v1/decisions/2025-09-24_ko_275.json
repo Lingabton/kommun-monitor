@@ -1,0 +1,47 @@
+{
+  "id": "2025-09-24_ko_275",
+  "headline": "Motion om försörjningsstöd och heltidskrav avslås",
+  "summary": "Kommunfullmäktige avslår motion från Sverigedemokraterna om att kravställa heltidssysselsättning för försörjningsstöd.",
+  "detail": "Helena Ståhl m.fl. (SD) föreslog att krav på heltidssysselsättning införs för att uppbära försörjningsstöd, inom särskilda satsningar på trygghet, civil beredskap och renhållning. Gymnasie- och arbetsmarknadsförvaltningen bedömde att en sådan kravställan inte är möjlig då försörjningstagare ofta har ohälsa och sociala hinder. Förvaltningen framhöll att det bedrivs parallellt arbete tillsammans med region och andra samhällsfunktioner. Alltför snäv kravställan kan få negativa konsekvenser för samhället. Motionen röstades ned med 52 ja-röster för avslag mot 7 nej-röster för bifall, med 5 som abstinerade.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 275",
+  "tags": [
+    "försörjningsstöd",
+    "sysselsättning",
+    "socialt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "Det kan medföra konsekvenser för samhället om kravställan blir för snäv genom att utgå från att samtliga försörjningstagare ska kunna genomföra en heltidsaktivitet.",
+  "quote_page": "s. 28",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_275.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_275/"
+  }
+}

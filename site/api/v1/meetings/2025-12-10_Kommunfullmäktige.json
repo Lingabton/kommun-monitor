@@ -1,0 +1,378 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2025-12-10",
+  "decisions": [
+    {
+      "headline": "Nämndreglementen revideras för nya socialtjänstlagen",
+      "summary": "Kommunfullmäktige beslutar att anta reviderade nämndreglementen för mandatperioden 2023-2026 med ikraftträdande 1 januari 2026. Budget- och skuldrådgivningen flyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden.",
+      "detail": "Den nya socialtjänstlagen innebär nya befogenheter och skyldigheter för socialnämnderna. Reglementet har reviderats för att återspegla lagändringen, men innehåller inga sakliga förändringar enligt förvaltningen.\n\nEn central organisatorisk förändring är att Budget- och skuldrådgivningen förflyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden. Detta motiveras av möjligheten till förbättrat förebyggande arbete genom tidig identifiering av riskfaktorer, ökad tillgänglighet, bättre helhetsperspektiv, kompetensutveckling och effektivare resursanvändning.\n\nSusanne Lindholm Henningsson (KD) lämnar ett särskilt yttrande där hon värnar den ideella organisationen EKSAM, som bedriver budget- och skuldrådgivning genom ett IOP-avtal sedan 2019. Hon uttrycker oro för verksamhetens framtid med tanke på att samarbete med civila samhället inte prioriteras högt av nämndens majoritet.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 388",
+      "quote": "I och med ny socialtjänstlag förtydligas kommunens ansvar att enligt socialtjänstlagen arbeta lätt tillgängligt och förebyggande.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "socialtjänstlag",
+        "nämndreglemente",
+        "budget- och skuldrådgivning"
+      ],
+      "id": "2025-12-10_ko_388",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Motion om farligt gods-transporter avslås",
+      "summary": "Kommunfullmäktige avslår motion från SD om att Örebro kommun ska vara pådrivande i diskussioner med Trafikverket om minimering av farligt gods-transporter.",
+      "detail": "Habib Brini och Bo Ammer från SD lämnade motionen där de föreslår att Örebro kommun ska arbeta för att minimera transporter av farligt gods genom kommunen och verka för att en framtida järnväg blir verklighet.\n\nMotionen avslogs med motiveringen att andra åtgärder har högre prioritet i dagsläget. Markplanerings- och exploateringsnämnden behandlade ärendet 23 maj 2025 och Kommunstyrelsen 26 augusti 2025.\n\nMotionen bordlades flera gånger innan slutlig behandling: 27 augusti, 24 september, 22 oktober och 18 november 2025. SD, ÖrP, L och KD reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 390",
+      "quote": "Motionen avslås eftersom andra åtgärder i dagsläget har en högre prioritet.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "SD",
+          "ÖrP",
+          "L",
+          "KD"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "farligt gods",
+        "transporter",
+        "järnväg",
+        "miljö"
+      ],
+      "id": "2025-12-10_ko_390",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Motion om motorgård för ungdomar avslås",
+      "summary": "Kommunfullmäktige avslår Bjarne Bäckströms (SD) motion om att starta en motorgård i närheten av centrala Örebro för ungdomar.",
+      "detail": "Bjarne Bäckström föreslog att Örebro kommun i egen regi eller i samarbete startar upp en motorgård för ungdomar nära centrum.\n\nKultur- och fritidsnämnden behandlade ärendet 16 juni 2025. Kommunstyrelsen behandlade det 26 augusti 2025. Ärendet bordlades på fyra fullmäktigenammanträden innan slutlig behandling.\n\nSD, ÖrP reserverade sig mot avslaget.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Centrala Örebro",
+      "paragraph_ref": "§ 391",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "motorgård",
+        "ungdomar",
+        "kultur",
+        "fritid"
+      ],
+      "id": "2025-12-10_ko_391",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Motion om kulturarvsvecka avslås",
+      "summary": "Kommunfullmäktige avslår motion från SD om att inrätta en årlig kulturarvsvecka.",
+      "detail": "Carola Sunesson och Bo Ammer från SD föreslog att Örebro kommun inrättar en årligt återkommande kulturarvsvecka kopplad till Kultur- och fritidsförvaltningen inom befintliga ramar.\n\nKultur- och fritidsnämnden behandlade ärendet 16 juni 2025. Kommunstyrelsen behandlade det 26 augusti 2025.\n\nMotionen bordlades före slutlig behandling. SD reserverade sig mot avslaget.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 392",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "kulturarv",
+        "kulturarvsvecka",
+        "kultur",
+        "fritid"
+      ],
+      "id": "2025-12-10_ko_392",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Motion om byggnadsvårdspris anses tillgodosedd",
+      "summary": "Kommunfullmäktige anser Carola Sunessons (SD) motion om att utveckla byggnadspriset med en renodlad del för byggnadsvård tillgodosedd.",
+      "detail": "Carola Sunesson föreslog att Örebro kommun undersöker hur ett pris för byggnadsvård kan ges utrymme och inrymmas i eller komplettera nuvarande byggnadspris.\n\nBedömningen är att motionen är tillgodosedd då ett byggnadsvårdspris för 2025 kommer delas ut samt att en utvärdering kommer göras för att se om priset ska permanentas.\n\nBygg- och miljönämnden behandlade ärendet 12 juni 2025. Kommunstyrelsen behandlade det 26 augusti 2025.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 393",
+      "quote": "Motionen är tillgodosedd.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "byggnadsvård",
+        "byggnadspris",
+        "arkitektur"
+      ],
+      "id": "2025-12-10_ko_393",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Motion om medborgarinflytande på arkitektur avslås",
+      "summary": "Kommunfullmäktige avslår motion från Carola Sunesson och Habib Brini (SD) om medborgarinflytande på arkitekturinriktning.",
+      "detail": "Motionen yrkar på tre punkter: att en medborgarundersökning genomförs om arkitekturinriktning, att arkitekturpolicyn omformuleras utifrån resultatet, och att kommunen undersöker hur betydande medborgarinflytande på arkitektur kan införas.\n\nBedömningen är att existerande styrdokument och befintliga former för medborgarinflytande inför ny- och ombyggnation är tillräckliga.\n\nBygg- och miljönämnden behandlade ärendet 12 juni 2025. ÖrP reserverar sig för att vilja bifalla beslutspunkt tre om medborgarinflytande. KD vill även se tredje beslutspunkten besvarad.",
+      "category": "bygg",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 394",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "arkitektur",
+        "medborgarinflytande",
+        "gestaltning"
+      ],
+      "id": "2025-12-10_ko_394",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Motion om cirkulationsbibliotek avslås efter votering",
+      "summary": "Kommunfullmäktige avslår motion från Johanna Reimfelt och Mats-Olof Liljegren (L) om att utveckla ett cirkulationsbibliotek med klassuppsättningar.",
+      "detail": "Motionen föreslår att Örebro kommun utvecklar ett cirkulationsbibliotek där biblioteket köper klassuppsättningar och tillhandahåller böcker till grundskolorna.\n\nBedömningen är att denna typ av verksamhet inte är en fråga för folkbiblioteket utan snarare för grundskolan. Det bedöms inte finnas behov eller förutsättningar att bygga upp ett centralt cirkulationsbibliotek. Dock är det viktigt att skapa förutsättningar för samarbete mellan skolbibliotek och folkbibliotek.\n\nÄrendet bordlades flera gånger före behandling. En votering genomfördes med resultatet 39 ja-röster (för avslag) och 22 nej-röster. L, MP, KD, ÖrP och SD reserverade sig.",
+      "category": "skola",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 395",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V"
+        ],
+        "against": [
+          "L",
+          "KD",
+          "ÖrP",
+          "SD",
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Avslag"
+      },
+      "tags": [
+        "bibliotek",
+        "skola",
+        "läsning",
+        "ungdomar"
+      ],
+      "id": "2025-12-10_ko_395",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Carina Börjesson (M) blir förste vice ordförande",
+      "summary": "Kommunfullmäktige väljer Carina Börjesson (M) till ny förste vice ordförande i Kommunfullmäktige och ordförande i valberedningen.",
+      "detail": "Moderaterna föreslog Carina Börjesson att ersätta Daniel Granqvist (M) som förste vice ordförande och valberedningsordförande för återstoden av mandatperioden.\n\nEn sluten omröstning genomfördes. Carina Börjesson erhöll 51 röster, Peter Springare (ÖrP) erhöll 6 röster och 7 röster var blanka. Totalt 64 giltiga röstsedlar.\n\nBefattningen gäller från 17 december 2025 till 14 oktober 2026.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 396",
+      "quote": "Med 51 röster för Carina Börjesson (M), 6 röster för Peter Springare (ÖrP) och 7 blanka röster finner ordförande att Kommunfullmäktige beslutar att utse Carina Börjesson (M) till förste vice ordförande.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "M"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "val",
+        "vice ordförande",
+        "valberedning",
+        "Moderaterna"
+      ],
+      "id": "2025-12-10_ko_396",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Motioner om toaletter, värmestuga och flera andra bordläggs",
+      "summary": "Kommunfullmäktige bordlägger 13 motioner och interpellationer för senare behandling.",
+      "detail": "Ordförande Jan Zetterqvist (S) föreslår att kvarstående motioner och interpellationer bordläggs. Helena Ståhl (SD) vill att de avgörs omedelbar. Votering genomfördes med resultatet 51 ja-röster för bordläggning och 12 nej-röster.\n\nBordlagda ärenden inkluderar:\n- Motion från Karolina Wallström (L) m.fl. om offentliga toaletter\n- Motion från Martha Wicklund (V) om återbruk i alla led\n- Motion från Helena Ståhl (SD) m.fl. om kärnkraft (SMR) i översiktsplanen\n- Motion från Karolina Wallström och Johanna Reimfelt (L) om färdtjänsten\n- Motion från Helena Ståhl (SD) om raster för bön\n- Motion från Martha Wicklund (V) m.fl. om säkerhet för förtroendevalda\n- Motion från Helena Ståhl (SD) m.fl. om Järntorget och fontänen\n- Motion från Carola Sunesson och Bo Ammer (SD) om styrdokument\n- Motion från Carola Sunesson och Habib Brini (SD) om kulturarvsfond\n- Motion från Carola Sunesson (SD) om kontrollsystem för föreningsbidrag\n- Motion från Carola Sunesson (SD) m.fl. om hederskultur i förskola och skola\n- Motion från Helena Ståhl och Bjarne Bäckström (SD) om Kilsmo skola\n- Motion från Lea Strandberg (MP) om Meetings+ och flera interpellationer",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 397-417",
+      "quote": "Ärendet bordläggs.",
+      "quote_page": "s. 23-39",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "KD",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bordläggning"
+      },
+      "tags": [
+        "bordläggning",
+        "motioner",
+        "interpellationer"
+      ],
+      "id": "2025-12-10_ko_397-417",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    },
+    {
+      "headline": "Rapport över ej verkställda biståndsbeslut antas",
+      "summary": "Kommunfullmäktige noterar rapporten över ej verkställda SoL- och LSS-beslut för kvartal 2, 2025.",
+      "detail": "Rapporten visar att Socialnämndens ej verkställda beslut inom tre månader ökade från 19 till 26. Funktionsstödsnämndens ökade från 55 till 59. Vård- och omsorgsnämndens var 26.\n\nMartha Wicklund (V) ville tilföra ett uppdrag till Kommunledningsförvaltningen om att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid. Detta avslogs.\n\nKarolina Wallström (L) lämnade ett särskilt yttrande. Reservation från V, ÖrP och KD.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 389",
+      "quote": "Socialnämndens statistikrapport till Kommunfullmäktige över ej verkställda SoL-beslut rapporterade kvartal 2, 2025 läggs till handlingarna.",
+      "quote_page": "s. 9-10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "KD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "bistånd",
+        "socialtjänstlag",
+        "verkställning"
+      ],
+      "id": "2025-12-10_ko_389",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-12-10"
+    }
+  ],
+  "decisions_count": 10,
+  "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf",
+  "headline": "Nämndreglementen revideras, många motioner bordläggs",
+  "motions_of_interest": [
+    {
+      "title": "Värmestuga för hemlösa i Örebro",
+      "party": "L",
+      "status": "Remitterad till Kommunstyrelsen"
+    },
+    {
+      "title": "Kompensation till drabbade företag",
+      "party": "KD",
+      "status": "Remitterad till Kommunstyrelsen"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_388.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_390.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_391.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_392.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_393.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_394.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_395.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_396.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_397-417.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_389.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2025-12-10_Kommunfullmäktige"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2024-09-17_ko_152",
+  "headline": "Kommunen förvärvar 41 hektar mark i Ekeby-Almby för 31,5 miljoner",
+  "summary": "Kommunstyrelsen godkänner köp av fastigheterna Almby 13:454, 13:384 och 13:372 för framtida exploatering av bostäder och bevarande av naturvärden.",
+  "detail": "Miljö- och stadsbyggnadsförvaltningen föreslog att Örebro kommun förvärvar tre fastigheter om cirka 41 hektar i Ekeby-Almby-området för en köpeskilling om 31 500 000 kronor. Köpet syftar till en sammanhållen framtida exploatering med bostäder, bevarade höga naturvärden och allmänna platser.\n\nBeslutet fattas av Kommunstyrelsen men måste sedan beslutas av Kommunfullmäktige eftersom köpeskillingen överstiger 25 miljoner kronor. Medel för förvärvet tas från Mark- och exploateringsnämndens budget.\n\nSusanne Lindholm Henningsson (KD) och Martha Wicklund (V) lämnjade särskilda yttranden. Henningsson noterade att medborgare i området förväntar sig ökad infrastruktur som cykelvägar, snöröjning och vägar när kommunen börjar bebygga marken.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Ekeby-Almby, Örebro",
+  "paragraph_ref": "§ 152",
+  "tags": [
+    "fastighetsköp",
+    "exploatering",
+    "bostäder",
+    "Ekeby-Almby"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Förvärvets syfte är en framtida sammanhållen exploatering av bostäder, bevara höga naturvärden och kunna ge möjlighet till allmänna platser i Ekeby-Almby.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-09-17_Kommunstyrelsen",
+    "date": "2024-09-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-17_ko_152.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-17_ko_152/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2023-05-23_ko_103",
+  "headline": "Namnrättigheter för Eyrafältets arenor förhandlade med Behrn",
+  "summary": "Tilläggsavtal godkändes för Behrn Fastigheter ABs namnrättigheter till Eyrafältets arenor. Avtalet förlängs till 2028 med årlig ersättning på 3 miljoner kronor.",
+  "detail": "Avtalet mellan Örebro kommun och Behrn Fastigheter AB förlängdes för namnrättigheterna till arenorna på Eyrafältet. Parterna kom överens om förlängd avtalsperiod till 31 december 2028. Behrn ska erlägga årlig ersättning om 1,5 miljoner kronor enligt avtal Ks 846-04 och 1,5 miljoner kronor enligt avtal Ks 551/2008, totalt 3 miljoner kronor årligen.\n\nErsättningen ska utges 1 mars årligen och indexeras enligt konsumentprisindex med januari 2024 som basmånad. Avtalet upphör utan föregående uppsägning vid avtalstidens utgång, men båda parter kan säga upp det med 12 månaders uppsägningstid, dock tidigast 31 december 2026.\n\nMarkus Allard (ÖrP) yrkade avslag och kritiserade att priset var alldeles för lågt och att processen var skum. Martha Wicklund (V) yrkade på återremiss för att få in fler intressenter och högre intäkter. Karolina Wallström (L) och Susanne Lindholm (KD) bifoll förslaget men ville lämna särskilda yttranden angående prissättning och beredningsprocess.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Eyrafältet",
+  "paragraph_ref": "§ 103",
+  "tags": [
+    "Eyrafältet",
+    "namnrättigheter",
+    "Behrn",
+    "arenor",
+    "intäkter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Behrn ska till Kommunen årligen utge 1 500 000 kronor för namnrättigheterna enligt avtal Ks 846-04 och 1 500 000 kronor för namnrättigheterna enligt avtal Ks 551/2008.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2023-05-23_Kommunstyrelsen",
+    "date": "2023-05-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-23_ko_103.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-23_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-23_ko_103/"
+  }
+}

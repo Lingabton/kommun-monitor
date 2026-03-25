@@ -1,0 +1,45 @@
+{
+  "id": "2024-09-17_ko_149",
+  "headline": "Nya riktlinjer för god ekonomisk hushållning antagna",
+  "summary": "Kommunstyrelsen antar nya riktlinjer för ekonomisk styrning och inrättar en resultatreserv från 2024. Vänsterpartiet reserverade sig mot beslutet.",
+  "detail": "Kommunallagen kräver att kommuner har riktlinjer för god ekonomisk hushållning. Kommunstyrelsen beslutar att anta nya riktlinjer med principer för verksamhets- och ekonomistyrning som gäller från 1 november 2024. Samtidigt inrättas en resultatreserv i Örebro kommun från räkenskapsår 2024.\n\nDe tidigare riktlinjerna från 2020 och 2021 upphävs. Riktlinjerna reglerar hur kommunen hanterar resultatreserver och resultatutjämningsreserver samt hur långsiktig ekonomisk styrning ska utövas för att nå kommunens mål.\n\nMartha Wicklund (V) motsatte sig beslutet och yrkade på en ny riktlinje enligt Vänsterpartiets principer. Wicklund reserverade sig skriftligt mot beslutet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 149",
+  "tags": [
+    "ekonomi",
+    "riktlinjer",
+    "resultatreserv"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Riktlinjen beskriver hanteringen av kommunens resultatreserv och resultatutjämningsreserv. Riktlinjen visar även hur verksamhets- och ekonomistyrningen ska utövas och bidra till att nå kommunens övergripande målsättningar.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2024-09-17_Kommunstyrelsen",
+    "date": "2024-09-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-17_ko_149.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-17_ko_149/"
+  }
+}

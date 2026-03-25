@@ -1,0 +1,43 @@
+{
+  "id": "2023-08-29_ko_169",
+  "headline": "Ej verkställda LSS- och SoL-beslut rapporterade",
+  "summary": "Kvartal 1 2023 rapporter om overkställda socialtjänst- och LSS-beslut presenterade. Vänsterpartiet ville ha åtgärdsförslag.",
+  "detail": "Socialnämnden, Funktionsstödsnämnden och Vård- och omsorgsnämnden rapporterade över beslut som ej verkställts enligt SoL (Socialtjänstlagen) och LSS (Lag om stöd och service för vissa funktionshindrade) under kvartal 1 2023.\n\nSyftet med rapporteringen är att kommunen ska ha kännedom och kunna planera resurser för att verkställa insatser inom skälig tid.\n\nMartha Wicklund (V) yrkade bifall med tillägget att Kommunledningsförvaltningen ska ta fram förslag om hur kommunen ska verkställa gynnande beslut inom rimlig tid. John Johansson (S) yrkade avslag på tilläggsyrkandet. Helena Ståhl (SD) och Markus Allard (ÖrP) stödde Vänsterpartiet. Tilläggsyrkandet avslogs.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 169",
+  "tags": [
+    "socialtjänst",
+    "LSS",
+    "verkställning",
+    "vård",
+    "omsorg"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med rapporteringen är att kommunen ska ha kännedom om dessa ärenden samt kunna planera sina resurser för att kunna verkställa insatser inom skälig tid.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_169.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_169/"
+  }
+}

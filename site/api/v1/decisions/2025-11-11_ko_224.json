@@ -1,0 +1,36 @@
+{
+  "id": "2025-11-11_ko_224",
+  "headline": "Överföring av pensionsmedel och likviditet fastställs",
+  "summary": "Kommunstyrelsen fastställer storleken på kort- och långfristig likviditetsportfölj för 2026. 234 miljoner kronor överförs från pensionsportföljen och 510 miljoner från långfristig portfölj.",
+  "detail": "Kommunens kapitalförvaltning är indelad i tre portföljer: pensionsportfölj, kort- och långfristig likviditetsportfölj. Enligt placeringspolicyn fattar Kommunstyrelsen beslut om överföringar mellan dessa.\n\nÅrets pensionsutbetalningar beräknas till 234 miljoner kronor som överförs från pensionsportföljen till långfristig likviditet. Den kortfristiga portföljen förväntas uppgå till 58 miljoner kronor vid årets slut, men med ett budgeterat negativt kassaflöde på -567 miljoner kronor för 2026 behöver 510 miljoner överföras från långfristig till kortfristig portfölj.\n\nKommunstyrelsen fastställer därför den kortfristiga likviditetsportföljen till 568 miljoner kronor vid ingången av år 2026 för att skapa buffert för oförutsedda händelser.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 224",
+  "tags": [
+    "pensioner",
+    "likviditet",
+    "portfölj",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Storleken på den kortfristiga likviditetsportföljen fastställs till 568 miljoner kronor vid ingången av år 2026. Kapital tillförs från långfristig likviditetsportfölj.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_224.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_224/"
+  }
+}

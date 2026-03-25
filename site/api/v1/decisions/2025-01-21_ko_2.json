@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-21_ko_2",
+  "headline": "1650 tkr tillförs Överförmyndarkansliet för förstärkning",
+  "summary": "Kommunstyrelsen beviljad förstärkning av Överförmyndarkansliet med 1,65 miljoner kronor för två nya handläggartjänster och utbildningsinsatser under 2025.",
+  "detail": "Efter omfattande utvecklingsarbete 2023-2024 identifierades behov av permanent förstärkning av Överförmyndarkansliet. De två tidsbegränsade överförmyndarhandläggartjänster som anställdes för utveckling och kvalitetssäkring blir permanenta.\n\nTilldelningen på 1650 tkr fördelar sig på lönekostnader för två handläggare och 150 tkr för utbildningsinsatser (75 tkr för intern utbildning, 75 tkr för utbildning av ställföreträdare). Behovet för åren 2026 och framåt tas in i ordinarie budgetprocess.\n\nMarkus Allard (ÖrP) yrkar avslag men minoriteten överröstas. Beslutet understryker prioritet på stöd till barn utan föräldrar eller där föräldrarna är omyndigförklarade.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 2",
+  "tags": [
+    "överförmyndarkansliet",
+    "personella resurser",
+    "kvalitet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Efter en genomförd utvärdering av insatsen har ett behov identifierats att permanent tillföra dessa personella resurser till Överförmyndarkansliet för att säkerställa en långsiktig stabilitet och hög kvalitet i verksamheten.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_2.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_2/"
+  }
+}

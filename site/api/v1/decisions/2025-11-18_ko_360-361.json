@@ -1,0 +1,35 @@
+{
+  "id": "2025-11-18_ko_360-361",
+  "headline": "Interpellationer om ekonomi och beredskap debatterades",
+  "summary": "David Larsson (SD) och Martha Wicklund (V) ställde interpellationer till John Johansson (S) om vad pengarna används till och beredskapen.",
+  "detail": "David Larsson (SD) interpellerade John Johansson (S) om vad man får för pengarna i kommunens verksamheter. Debatt fördes med flera talare.\n\nMartha Wicklund (V) interpellerade John Johansson (S) om hur Örebro kommun arbetar med beredskapen. Flera politiker från olika partier deltog i debatten.\n\nBåda ärendena avslutades efter debatt.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 360-361",
+  "tags": [
+    "interpellation",
+    "ekonomi",
+    "beredskap"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Färdigbehandlad"
+  },
+  "quote": "David Larsson (SD), John Johansson (S), Lena Lindén (SD), Pell-Uno Larsson (S), Christina Håkansson (KD), Jessica Ekerbring (S), Sunil Jayasooriya (S), Bo Ammer (SD), Karolina Wallström (L), Patrik Jämtvall (L) och Anna Hedström (S) yttrar sig i interpellationsdebatten.",
+  "quote_page": "s. 23",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_360-361.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_360-361/"
+  }
+}

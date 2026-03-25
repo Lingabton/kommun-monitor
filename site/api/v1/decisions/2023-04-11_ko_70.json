@@ -1,0 +1,43 @@
+{
+  "id": "2023-04-11_ko_70",
+  "headline": "Årsredovisning 2022: kommun har god ekonomisk hushållning",
+  "summary": "Örebro kommun redovisar resultat på 297 miljoner kronor och investeringar på 811 miljoner kronor. Alla fyra finansiella mål uppnås men endast 12 av 33 verksamhetsmål.",
+  "detail": "Kommunkoncernen gör ett resultat på 504 miljoner kronor efter att ha räknat in Rådhuskoncernens resultat. Kommunens resultat är 297 miljoner kronor, 12 miljoner lägre än budgeterat. Investeringarna uppgår till 811 miljoner kronor, vilket är 455 miljoner mindre än budgeterat.\n\nAlla fyra finansiella mål och balanskravet uppnås. Dock uppnås endast 12 av 33 kommunfullmäktigemål. Av 51 inriktningar har 39 genomförts medan 12 inte har genomförts.\n\nTrots att alla finansiella mål är uppfyllda och kommunen har stabil ekonomi, bedöms inte målen av betydelse för god ekonomisk hushållning uppfyllas fullt ut. Bedömningen är dock att kommunen som helhet har god ekonomisk hushållning.\n\nMartha Wicklund (V) yrka avslag på beslutspunkt 2 (reservering på 19 mkr). Susanne Lindholm (KD) yrka bifall men med tillägget att målen ses över. Beslutet fattades enligt kommunledningsförvaltningens förslag. Beslutspunkterna 1-3 ska till Kommunfullmäktige.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 70",
+  "tags": [
+    "årsredovisning2022",
+    "ekonomi",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunens resultat uppgår till 297 miljoner kronor. Det är 12 miljoner kronor lägre än budgeterat. En gynnsam skatteintäktsutveckling samt extra tillskott av generella statsbidrag har påverkat det ekonomiska resultatet positivt.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_70.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_70/"
+  }
+}

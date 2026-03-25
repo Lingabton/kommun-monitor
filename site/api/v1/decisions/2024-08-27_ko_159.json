@@ -1,0 +1,42 @@
+{
+  "id": "2024-08-27_ko_159",
+  "headline": "Motion om kameraövervakning avslås",
+  "summary": "Motion från SD om kameraövervakning vid samtliga kommunala verksamheter avslås.",
+  "detail": "Helena Ståhl (SD), Carola Sunesson (SD) och Christer Johansson (SD) föreslog att kommun lägger upp plan för och ansöker om tillstånd för kameraövervakning i alla kommunala verksamheter.\n\nKommunledningsförvaltningen bedömer att man inte kan motivera övervakning av samtliga kommunala verksamheter.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall till motionen.\n\nReservationer från SD och ÖrP.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 159",
+  "tags": [
+    "kameraövervakning",
+    "säkerhet",
+    "integritet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Kommunen kan inte motivera övervakning av samtliga kommunala verksamheter.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2024-08-27_Kommunstyrelsen",
+    "date": "2024-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-27_ko_159.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-27_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-27_ko_159/"
+  }
+}

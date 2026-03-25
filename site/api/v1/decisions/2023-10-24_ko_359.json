@@ -1,0 +1,34 @@
+{
+  "id": "2023-10-24_ko_359",
+  "headline": "Sammanträdestider för 2024 fastställda",
+  "summary": "Kommunfullmäktige fastställer tider för ordinarie sammanträden under 2024 samt reserverar tid för eventuella extra sammanträden.",
+  "detail": "Ordinarie sammanträden med Kommunfullmäktige under 2024 hålls på följande dagar klocka 09.00-ca 17.00: tisdag 23 januari, onsdag 14 februari, onsdag 20 mars, onsdag 24 april, tisdag 14 maj, måndag-tisdag 10-11 juni, onsdag 25 september, onsdag 23 oktober, onsdag 20 november och onsdag 11 december.\n\nTid för eventuella extra sammanträden reserveras till onsdag 6 mars och onsdag 28 augusti, klocka 09.00-ca 17.00. Planeringen har tagit hänsyn till ekonomiprocesserna, styrmodellen, delårsrapporter, årsredovisning och budget.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Sessionssalen, Rådhuset",
+  "paragraph_ref": "§ 359",
+  "tags": [
+    "möten",
+    "administrativ"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommunstyrelsen och Kommunfullmäktige behandlar i regel ärenden samma månad. Detta för att minska ordinarie tid för ärenden mellan Kommunstyrelsen och Kommunfullmäktige samtidigt som att det ska finnas förutsättningar för att hantera ärendena på ett korrekt och rättssäkert sätt.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2023-10-24_Kommunfullmäktige",
+    "date": "2023-10-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-24_ko_359.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-24_ko_359/"
+  }
+}

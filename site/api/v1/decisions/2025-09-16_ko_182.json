@@ -1,0 +1,44 @@
+{
+  "id": "2025-09-16_ko_182",
+  "headline": "Avveckling av förvaltarenheten omstridd – Vänster och ÖrP mot",
+  "summary": "Kommunstyrelsen beslutar att avveckla den kommunala förvaltarenheten och köpa tjänsterna externt istället. Vänsterpartiet och Örebro för Principen reserverar sig mot beslutet.",
+  "detail": "Förvaltarenheten inrättades 2020 för att hantera de svåraste ärendena hos Överförmyndarnämnden, där kommunen tidigare hade stora svårigheter att rekrytera ställföreträdare. Enheten består idag av två anställda och en chef på 25 procent och hanterar totalt 40 ärenden.\n\nEn utredning har genomförts med frågeställningen om kommunen ska behålla förvaltarenheten eller köpa tjänsten externt. Överförmyndarkansliet rekommenderar avveckling och extern inköp, men utredningen visar att kostnaderna blir ungefär desamma.\n\nVänsterpartiet (Martha Wicklund) och Örebro för Principen (Markus Allard) lämnade båda avslagsyrkanden. Vänsterpartiet argumenterar att enheten ännu inte fått tillräcklig tid att etablera sig (3-4 år) och förespråkar istället expansion med en årsarbetare för att säkra stabilitet för de 40 utsatta människor som är huvudmän. De varnar för att extern utförare riskerar höga kostnader och sämre trygghet.\n\nBeslutet innebär att det årliga tillskottet på cirka 800 000 kronor (uppräknat årligen) går till Överförmyndarnämndens budget för att täcka kostnader för extern professionell ställföreträdare.",
+  "category": "politik",
+  "contested": true,
+  "location": "Överförmyndarnämnden",
+  "paragraph_ref": "§ 182",
+  "tags": [
+    "förvaltarenhet",
+    "överförmyndarnämnden",
+    "ställföreträdare",
+    "sociala tjänster",
+    "kostnad"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Uppbyggnaden av förvaltarenheten har inte fått den tid som krävs och därför ifrågasätter vi nyttan i att i detta läge lägga ner en verksamhet som kommunen lagt en hel del resurser på att bygga upp.",
+  "quote_page": "s. 12-13 (yrkande)",
+  "meeting": {
+    "id": "2025-09-16_Kommunstyrelsen",
+    "date": "2025-09-16",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-16_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-16_ko_182.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-16_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-16_ko_182/"
+  }
+}

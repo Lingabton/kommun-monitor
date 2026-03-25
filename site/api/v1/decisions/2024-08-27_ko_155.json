@@ -1,0 +1,39 @@
+{
+  "id": "2024-08-27_ko_155",
+  "headline": "Motion om skadegörelse i skolor avslås",
+  "summary": "Kommunstyrelsen avslår motion från SD om att debitera vårdnadshavare vid uppsåtlig skadegörelse i skolorna.",
+  "detail": "Helena Ståhl (SD), Bo Ammer (SD) och Carola Sunesson (SD) föreslog att rektorer som huvudregel ska debitera elevers vårdnadshavare vid uppsåtlig skadegörelse och att elever i lämpliga åldrar får möjlighet att arbeta av skulder.\n\nGrundskolenämnden föreslår avslag eftersom kommunen redan har möjlighet att kräva ersättning och det finns tillräckligt med underlag.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkar bifall till motionen.\n\nReservationer från SD och ÖrP.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 155",
+  "tags": [
+    "skadegörelse",
+    "skolor",
+    "ersättning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Det finns tillräckligt med underlag redan nu för att kommunen ska kunna begära ersättning.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-08-27_Kommunstyrelsen",
+    "date": "2024-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-27_ko_155.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-27_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-27_ko_155/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2023-05-23_ko_118-119",
+  "headline": "Motion om fyrverkeritillstånd avslogs, en tillgodosedd",
+  "summary": "Motion från SD om att alltid kräva fyrverkeritillstånd avslogs. Motionen från L om att begränsa skjuttider tillgodoseddes.",
+  "detail": "Helena Ståhl (SD) och Bo Ammer (SD) inlämnade motion om att ändra lokala allmänna ordningsföreskrifter för att alltid kräva tillstånd från Polismyndigheten för fyrverkerier. Kommunledningsförvaltningen bedömde att det enligt gällande lagstiftning och praxis inte är möjligt att begränsa användningen av pyrotekniska varor mer än redan gjorts i lokala ordningsföreskrifter. Motionen avslogs.\n\nKarolina Wallström (L) hade inlämnat en motion från 2017 om att begränsa fyrverkeritider och se över § 9 i ordningsföreskrifterna. Kommunledningsförvaltningen konstaterade att denna motion var tillgodosedd, då Tekniska förvaltningen redan genomfört en översyn. Kommunfullmäktige antog reviderade allmänna lokala ordningsföreskrifter 12 december 2022 där skjuttiden begränsades och § 9 sågs över.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 118-119",
+  "tags": [
+    "fyrverkerier",
+    "ordningsföreskrifter",
+    "trygghet",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslag och Tillgodosedd"
+  },
+  "quote": "Motionen avslås. / Motionen är tillgodosedd.",
+  "quote_page": "s. 22-24",
+  "meeting": {
+    "id": "2023-05-23_Kommunstyrelsen",
+    "date": "2023-05-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-23_ko_118-119.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-23_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-23_ko_118-119/"
+  }
+}

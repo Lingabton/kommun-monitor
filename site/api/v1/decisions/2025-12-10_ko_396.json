@@ -1,48 +1,40 @@
 {
   "id": "2025-12-10_ko_396",
-  "headline": "Carina Börjesson (M) vald till förste vice ordförande",
-  "summary": "Kommunfullmäktige utsåg Carina Börjesson (M) till förste vice ordförande i Fullmäktige och ordförande i Fullmäktiges valberedning för perioden 17 december 2025 – 14 oktober 2026.",
-  "detail": "Val genomfördes genom sluten omröstning efter att Moderaterna föreslog Carina Börjesson (M) som ersättare för Daniel Granqvist (M). Markus Allard (ÖrP) yrk alternatively Peter Springare (ÖrP).\n\nRösträknarna (Emelie Jaxell och Tuomo Jänkälä) konstaterade att 64 giltiga valsedlar lämnades in. Börjesson fick 51 röster, Springare 6 röster och 7 var blanka.\n\nBörjesson tillträder posten från 17 december 2025.",
+  "headline": "Carina Börjesson (M) blir förste vice ordförande",
+  "summary": "Kommunfullmäktige väljer Carina Börjesson (M) till ny förste vice ordförande i Kommunfullmäktige och ordförande i valberedningen.",
+  "detail": "Moderaterna föreslog Carina Börjesson att ersätta Daniel Granqvist (M) som förste vice ordförande och valberedningsordförande för återstoden av mandatperioden.\n\nEn sluten omröstning genomfördes. Carina Börjesson erhöll 51 röster, Peter Springare (ÖrP) erhöll 6 röster och 7 röster var blanka. Totalt 64 giltiga röstsedlar.\n\nBefattningen gäller från 17 december 2025 till 14 oktober 2026.",
   "category": "politik",
-  "contested": false,
+  "contested": true,
   "location": null,
   "paragraph_ref": "§ 396",
   "tags": [
     "val",
     "vice ordförande",
     "valberedning",
-    "mandatperiod",
-    "Carina Börjesson",
     "Moderaterna"
   ],
   "voting": {
     "for": [
-      "M",
-      "S",
-      "C",
-      "V",
-      "L",
-      "KD",
-      "MP"
+      "M"
     ],
-    "against": [],
-    "abstained": [
+    "against": [
       "ÖrP"
     ],
-    "result": "Carina Börjesson vald (51 röster, sluten omröstning)"
+    "abstained": [],
+    "result": "Bifall"
   },
   "quote": "Med 51 röster för Carina Börjesson (M), 6 röster för Peter Springare (ÖrP) och 7 blanka röster finner ordförande att Kommunfullmäktige beslutar att utse Carina Börjesson (M) till förste vice ordförande.",
-  "quote_page": "s. 21",
+  "quote_page": "s. 22",
   "meeting": {
-    "id": "2025-12-10_ko",
+    "id": "2025-12-10_Kommunfullmäktige",
     "date": "2025-12-10",
-    "type": "Kommunfullmäktige",
-    "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_396.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_396/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_396.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_396/"
   }
 }

@@ -1,44 +1,46 @@
 {
   "id": "2025-10-14_ko_198",
-  "headline": "Lokalförsörjningsplan 2027-2037: 37 lokalprojekt prioriterade",
-  "summary": "Kommunstyrelsen antog den kommunövergripande lokalförsörjningsplanen för 2027–2037 med 37 prioriterade lokalprojekt, varav 15 är pågående och 13 beräknas färdigställas under 2026.",
-  "detail": "Lokalförsörjningsplanen utgör underlag till investeringsprocessen och åskådliggör framtida lokalbehov. Planen synliggör prioriterade lokalprojekt som kommunen avser att arbeta med inom prognosperioden 2027-2037.\n\nAv de 37 projekten är 15 redan pågående. Enligt planen kommer 13 projekt att vara färdigställda under 2026. En fullständig projektlista tillhör den kommunövergripande lokalförsörjningsplanen.",
+  "headline": "Kommunövergripande lokalförsörjningsplan 2027-2037 antagen",
+  "summary": "Kommunstyrelsen antog lokalförsörjningsplanen för perioden 2027-2037 som handlingsplan för framtida lokalbehov. Planen prioriterar 37 lokalprojekt varav 15 är pågående.",
+  "detail": "Planen synliggör prioriterade lokalprojekt som kommunen avser att arbeta med inom prognosperioden. Av de 37 projekten är 15 redan pågående och 13 är beräknade att vara färdigställda under 2026.\n\nPlanen utgör underlag till investeringsprocessen och visar hur kommunen planerar att möta framtida lokalbehov de kommande tio åren.",
   "category": "bygg",
   "contested": false,
-  "location": "Örebro",
+  "location": null,
   "paragraph_ref": "§ 198",
   "tags": [
     "lokalförsörjning",
-    "infrastruktur",
-    "investeringsplan",
-    "byggen"
+    "investeringar",
+    "fastigheter",
+    "planering"
   ],
   "voting": {
     "for": [
       "S",
       "M",
       "C",
-      "L",
       "KD",
+      "L",
       "V",
-      "SD"
+      "SD",
+      "MP",
+      "ÖrP"
     ],
     "against": [],
     "abstained": [],
-    "result": "Enhalligt"
+    "result": "Enhälligt"
   },
-  "quote": "Kommunstyrelsen antar den kommunövergripande lokalförsörjningsplanen 2027–2037.",
+  "quote": "Under prognosperioden prioriteras 37 lokalprojekt varav 15 är pågående. 13 projekt är beräknade att vara färdigställda under 2026.",
   "quote_page": "s. 8",
   "meeting": {
-    "id": "2025-10-14_ko",
+    "id": "2025-10-14_Kommunstyrelsen",
     "date": "2025-10-14",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_198.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_198/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_198.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_198/"
   }
 }

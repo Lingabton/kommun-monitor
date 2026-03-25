@@ -1,0 +1,47 @@
+{
+  "id": "2024-05-14_ko_127",
+  "headline": "Åtgärdsprogram mot buller för 2024–2028 antaget",
+  "summary": "Kommunfullmäktige antar åtgärdsprogrammet mot buller för Örebro kommun 2024–2028, vilket syftar till att förbättra ljudmiljön och begränsa bullerexponeringen för invånarna.",
+  "detail": "Programmet är utformat för att svara mot förordningen om omgivningsbuller SFS 2004:675, som kräver att alla kommuner med mer än 100 000 invånare tar fram åtgärdsprogram vart femte år. Teknik- och serviceförvaltningen har ansvaret för framtagandet.\n\nÅtgärdsprogrammet har varit ute på samråd från 1 december 2023 till 31 januari 2024. Vissa korrigeringar gjordes efter samrådstiden. Teknik- och servicenämnden behandlade ärendet 15 mars 2024 och Kommunstyrelsen 7 maj 2024.\n\nI Kommunfullmäktige förespråkade Kemal Hoso (S), Bo Ammer (SD) och Eva Eriksson (S) bifall. Patrik Jämtvall (L) och Markus Allard (ÖrP) yrkade avslag. Liberalerna och Örebropartiet reserverade sig mot beslutet.\n\nProgrammet omfattar åtgärder under perioden 2024–2028 för att reducera bullernivåer från trafik, järnväg och industri.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 127",
+  "tags": [
+    "buller",
+    "miljö",
+    "infrastruktur",
+    "ljudmiljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "SD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "L",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Det övergripande syftet med detta åtgärdsprogram är att förbättra ljudmiljön och begränsa bullerexponeringen för invånarna i Örebro kommun.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-05-14_Kommunfullmäktige",
+    "date": "2024-05-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-14_ko_127.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-14_ko_127/"
+  }
+}

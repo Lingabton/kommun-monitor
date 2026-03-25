@@ -1,0 +1,45 @@
+{
+  "id": "2026-02-10_ko_35",
+  "headline": "Fem nya motioner remitteras till nämnder och beredning",
+  "summary": "Kommunfullmäktige har remitterat fem motioner. En om mittokrati beredas internt, fyra skickas till nämnder.",
+  "detail": "REMITTERADE MOTIONER:\n\n1. Marcus Willén Ode (MP) - Övernattningsstugor → Kultur- och fritidsnämnden\n2. Marcus Willén Ode (MP) - Biosfärsområde Hjälmaren → Markplanerings- och exploateringsnämnden\n3. Martha Wicklund (V) m.fl - Humanare socialtjänst → Gymnasie- och arbetsmarknadsnämnden\n4. Helena Ståhl (SD) m.fl - Avveckla Trainstation och vidareutveckla Komtek Örebro → Kultur- och fritidsnämnden\n\nBEREDS INTERNT:\n5. Susanne Lindholm Henningsson (KD) - Minska mittokrati och krångel → Kommunstyrelsen bereds själv",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 35",
+  "tags": [
+    "motioner",
+    "remittering",
+    "nämnder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Motion från Marcus Willén Ode (MP) om övernattningsstugor remitteras till Kultur- och fritidsnämnden.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2026-02-10_Kommunstyrelsen",
+    "date": "2026-02-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-10_ko_35.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_35/"
+  }
+}

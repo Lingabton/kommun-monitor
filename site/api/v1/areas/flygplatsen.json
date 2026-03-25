@@ -3,26 +3,107 @@
   "name": "Flygplatsen",
   "decisions": [
     {
+      "id": "2026-01-20_ko_3",
+      "headline": "38,6 miljoner till Örebro Läns Flygplats 2026",
+      "summary": "Kommunstyrelsen beviljar 38,6 miljoner kronor i driftsbidrag till Örebro Läns Flygplats AB för år 2026. Beslutet strider mot miljökritik från Vänsterpartiet.",
+      "date": "2026-01-20",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
+    },
+    {
       "id": "2025-10-14_ko_202",
-      "headline": "Nya revisorer valda för kommunens bolag",
-      "summary": "Kommunstyrelsen gav stämmoombudet instruktioner att välja nya revisorer för flera kommunäggda bolag efter att Gustav Tönnies slutat på Ernst & Young AB.",
+      "headline": "Revisor utbytt i sju kommunala bolag",
+      "summary": "Kommunstyrelsen gav instruktion till stämmoombud att byta revisor i flera kommunala bolag efter att Gustav Tönnies slutade på Ernst & Young AB. Per Modin och Joakim Holmquist utsågs till nya revisorer.",
       "date": "2025-10-14",
       "meeting_type": "Kommunstyrelsen",
       "category": "ovrigt",
       "contested": false
     },
     {
-      "id": "2024-04-09_ko_77",
-      "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
-      "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
+      "id": "2025-04-23_ko_110",
+      "headline": "Årsredovisning Örebro Rådhus AB godkänd, 32,6 mnkr resultat",
+      "summary": "Kommunfullmäktige godkände årsredovisningen för Örebro Rådhus AB och dess dotterbolag med ett resultat på 32,6 miljoner kronor efter skatt.",
+      "date": "2025-04-23",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "budget",
+      "contested": false
+    },
+    {
+      "id": "2024-12-03_ko_267",
+      "headline": "Driftsstöd till Örebro Läns Flygplats 17,9 miljoner för 2025",
+      "summary": "Kommunstyrelsen beviljade 17,9 miljoner kronor i driftsbidrag till Örebro Läns Flygplats för att täcka rörelseförluster under 2025.",
+      "date": "2024-12-03",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2024-04-24_ko_90",
+      "headline": "Utökat ägande i Kumbro Vind för att leverera el till flygplatsen",
+      "summary": "Kommunfullmäktige godkänner att Örebro läns flygplats och fastighetsbolaget Futurum blir aktieägare i Kumbro Vind. Detta möjliggör att flygplatsen upphandlar sitt elbehov från kommunens vindkraftbolag.",
+      "date": "2024-04-24",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2024-04-09_ko_74",
+      "headline": "Örebro Rådhuskoncernen: 137 miljoner resultat, inga utdelningar",
+      "summary": "Årsredovisningen för Örebro Rådhus AB och dotterbolag godkänns. Koncernen gjorde 137 miljoner kronor resultat. Ingen utdelning föreslås från moderbolaget till kommunen.",
       "date": "2024-04-09",
       "meeting_type": "Kommunstyrelsen",
-      "category": "ovrigt",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2024-04-09_ko_77",
+      "headline": "Utökat ägande i Kumbro Vind AB för elförsörjning",
+      "summary": "Kommunstyrelsen godkänner att Örebro läns flygplats och Futurum blir aktieägare i Kumbro Vind AB för att möjliggöra elkraftleverans. Bolagsordning och aktieägaravtal uppdateras.",
+      "date": "2024-04-09",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2023-12-05_ko_243",
+      "headline": "Flygplats får 37 miljoner i driftbidrag 2024",
+      "summary": "Kommunstyrelsen beviljade Örebro Läns Flygplats AB totalt 37,3 miljoner kronor i driftbidrag för 2024, varav Örebro kommuns andel är 17,6 miljoner. Vänsterpartiet reserverade sig.",
+      "date": "2023-12-05",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2023-04-18_ko_134",
+      "headline": "Årsredovisningar för Rådhuskoncernen och dotterbolag godkända",
+      "summary": "Årsredovisningar för Örebro Rådhus AB och dotterbolag 2022 godkändes. Rådhuskoncernen gjorde 255 miljoner resultat efter skatt, moderbolaget 71,7 miljoner med 33 miljoner föreslaget utdelat.",
+      "date": "2023-04-18",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2023-04-11_ko_74",
+      "headline": "Flygplatsens driftbidrag på 37 miljoner kronor godkänd för 2023",
+      "summary": "Driftsbidrag på totalt 37,3 miljoner kronor beviljas Örebro Läns Flygplats, varav Örebro kommuns andel är 17,6 miljoner kronor.",
+      "date": "2023-04-11",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2023-02-15_ko_52",
+      "headline": "Motion om Örebro Airport avslås",
+      "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om att utreda förstatligande eller försäljning av flygplatsen.",
+      "date": "2023-02-15",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
       "contested": true
     }
   ],
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/flygplatsen.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/flygplatsen/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/flygplatsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/flygplatsen/"
   }
 }

@@ -1,0 +1,250 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2023-01-24",
+  "decisions": [
+    {
+      "headline": "Utökning av VA-verksamhetsområden godkänd trots reservationer",
+      "summary": "Kommunfullmäktige beslutat utöka verksamhetsområdena för dricks-, spill- och dagvatten. Örebropartiet, Sverigedemokraterna och Liberalerna ville se kompensation för tidigare drabbade medborgare.",
+      "detail": "Kommunfullmäktige beslutade att utöka verksamhetsområdena för vatten och avlopp enligt föreslagna kartor och fastighetsförteckning. Ärendet väckte debatt om kommunens hantering av invånare som redan installerat egna lösningar innan VA dras ut.\n\nÖrebropartiet krävde att ärendet återremitterades för att utreda retroaktiv kompensation till medborgare som tvingats \"betala dubbelt\" – först för privata anläggningar, sedan för tvångsanslutning till kommunalt nätverk.\n\nSverigedemokraterna förespråkade att kommunen bör visa hänsyn till befintliga miljögodkända privata lösningar och vara generös med dispenser för att inte tvinga på onödiga kostnader.\n\nVoteringen visade 48 ja-röster mot 17 nej-röster för att avgöra ärendet omedelbar. Beslutet fattades enbart enligt Kommunstyrelsens ursprungliga förslag, utan kompensationsutredning.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 11",
+      "quote": "Vissa har fått vänta länge på en lösning, andra har skaffat egna anläggningar för att kort därefter överraskas av att kommunen ska dra ut sitt kommunala VA till fastigheten – varmed man blivit tvungen att betala.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "MP",
+          "KD",
+          "L"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "VA-utbyggnad",
+        "infrastruktur",
+        "kompensation",
+        "medborgare"
+      ],
+      "id": "2023-01-24_ko_11",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-01-24"
+    },
+    {
+      "headline": "Motion om positiv särbehandling avslogs",
+      "summary": "Kommunfullmäktige avslog Sverigedemokraternas motion om att förbjuda all positiv särbehandling i kommunens verksamheter.",
+      "detail": "Helena Ståhl (SD) motionerade för att Örebro kommun inte ska tillämpa positiv särbehandling i rekrytering och verksamheter. Kommunstyrelsen bedömde att positiv särbehandling är lagstadgat och kan i vissa fall vara nödvändigt för att stärka jämställdheten på en arbetsplats.\n\nKommunens rekrytering utgår redan från kompetensbaserade processer, varför positiv särbehandling sällan används. Motionen avslog enhälligt med reservation från Sverigedemokraterna och Örebropartiet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 13",
+      "quote": "Positiv särbehandling är dock lagstadgat, och kan i vissa fall vara nödvändigt för att stärka jämställdheten på en arbetsplats.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "MP",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "diskriminering",
+        "jämställdhet",
+        "rekrytering",
+        "personalpolicy"
+      ],
+      "id": "2023-01-24_ko_13",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-01-24"
+    },
+    {
+      "headline": "Kulturarvsprojekt Örebrokällan avslogs som för stort och dyrt",
+      "summary": "Motion från Miljöpartiet om att digitalisera Örebrokällan genom skolorna avslog. Kommunen bedömde projektet för omfattande och kostsamt när stora delar av Stadsarkivet ännu inte digitaliserats.",
+      "detail": "Marcus Willén Ode (MP) föreslog att initiera kulturarvsprojektet Örebrokällan, uppdra åt Stadsarkiv och skolförvaltningen att utarbeta projektplan och avsätta medel.\n\nKommunstyrelsen bedömde att det är intressant långsiktigt, men alltför omfattande och dyrt i nuläget. Motion avslogs med 45 ja-röster mot 19 nej-röster. Flera partier reserverade sig för att projektet bör genomföras.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro stadsarkiv",
+      "paragraph_ref": "§ 14",
+      "quote": "Då stora delar av Stadsarkivet ännu inte har digitaliserats är det ett för stort och dyrt projekt att påbörja i detta läge.",
+      "quote_page": "s. 14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "ÖrP",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "L",
+          "MP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "kulturarv",
+        "digitalisering",
+        "utbildning",
+        "stadsarkiv"
+      ],
+      "id": "2023-01-24_ko_14",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-01-24"
+    },
+    {
+      "headline": "Välfärdsrapport: 148 beslut ej verkställda inom tidsfristen",
+      "summary": "Kommunfullmäktige mottog rapport om att Programnämnd social välfärd inte verkställt 148 biståndsbeslut enligt SoL och LSS inom tre månader Q2 2022.",
+      "detail": "För andra kvartalet 2022 rapporterades totalt 249 beslut av Programnämnd social välfärd, varav 148 inte verkställts inom laglig tid och 101 verkställda.\n\nVänsterpartiet föreslog att kommunstyrelseförvaltningen ska ta fram förslag på hur man kan verkställa gynnande beslut inom rimlig tid. Martha Wicklund (V) påpekade att vissa individer väntat över 2000 dagar på insatser inom personlig assistans, daglig verksamhet och bostad med särskild service.\n\nMarthas förslag och Sverigedemokraternas tilläggsyrkande om krav på resultatrapportering avslogs båda. Rapporten lades bara till handlingarna utan åtgärdsplaner.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 12",
+      "quote": "Vid upprepade tillfällen ser vi allvarliga resursbrister gällande personlig assistans, daglig verksamhet och bostad med särskild service.",
+      "quote_page": "s. 27",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "välfärd",
+        "SoL",
+        "LSS",
+        "resurser",
+        "servicegaranti"
+      ],
+      "id": "2023-01-24_ko_12",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-01-24"
+    },
+    {
+      "headline": "Lokalproducerad mat: motionens första punkt avslogs",
+      "summary": "Motion från Sverigedemokraterna om att lokalproducerat ska vara normen i livsmedelsupphandling avslogs partiellt.",
+      "detail": "Helena Ståhl och Daniel Spiik (SD) förordade att lokalproducerat ska vara normen i Örebro kommuns livsmedelsupphandlingar. Kommunen kan inte kontrollera detta enligt lagen om offentlig upphandling (LOU).\n\nKommunen avslog första delen men ansåg att vegetabiliska och animaliska krav var tillgodosedda genom nytt avtal med Örebro Trädgårdshall AB och högsta marknadskrav för djurskydd och hållbart fiske.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 15",
+      "quote": "Örebro kommun måste följa lagen om offentlig upphandling (LOU), och det finns därmed inte möjlighet att kontrollera eller styra upphandlingar mot lokala producenter.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "SD",
+          "ÖrP",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "upphandling",
+        "livsmedel",
+        "miljö",
+        "lokalt",
+        "LOU"
+      ],
+      "id": "2023-01-24_ko_15",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-01-24"
+    }
+  ],
+  "decisions_count": 5,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-24_Kommunfullmäktige.pdf",
+  "headline": "VA-utbyggnad och välfärdsärenden debatterades intensivt",
+  "motions_of_interest": [
+    {
+      "title": "Om inför pratbänkar (Anna Andersson, KD)",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Om energiförsörjningsplan (Lea Strandberg, Fredrik Persson, MP)",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Om att Örebro kommun bör upphöra som utförare av service (Sandra Fröjdenstam, KD)",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Om att återuppliva Rådhusets julkalender (Bo Ammer, Helena Ståhl, SD)",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Om när flextrafiken ska återinföras (Johanna Reimfelt, L)",
+      "party": "L",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Om att ingen form av positiv särbehandling ska förekomma (Helena Ståhl, SD)",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Om att göra kulturarvet Örebrokällan tillgängligt (Marcus Willén Ode, MP)",
+      "party": "MP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Om ställ krav på kommunala bolag (Martha Wicklund m.fl., V)",
+      "party": "V",
+      "status": "Bordlägg"
+    },
+    {
+      "title": "Om att förändra ägarstrukturen av Örebro Airport (Martha Wicklund m.fl., V)",
+      "party": "V",
+      "status": "Bordlägg"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-24_Kommunfullmäktige.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_11.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_13.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_14.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_12.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_15.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2023-01-24_Kommunfullmäktige"
+  }
+}

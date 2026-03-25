@@ -1,0 +1,43 @@
+{
+  "id": "2024-09-25_ko_236",
+  "headline": "Köp av mark i Ekeby-Almby för 31,5 miljoner kronor",
+  "summary": "Kommunfullmäktige godkänner förvärv av tre fastigheter (Almby 13:454, 13:384 och 13:372) totalt cirka 41 hektar för framtida bostadsexploatering, naturvård och allmänna platser.",
+  "detail": "Miljö- och stadsbyggnadsförvaltningen föreslår att Örebro kommun förvärvar fastigheterna för 31 500 000 kronor. Förvärvets syfte är en framtida sammanhållen exploatering av bostäder, bevara höga naturvärden och kunna ge möjlighet till allmänna platser i området.\n\nKommunfullmäktige beslutar att godkänna köpehandlingarna och förvärvet. Markplanerings- och exploateringsnämndens ordförande får i uppdrag att underteckna kontrakten. Medel tas från nämndens budget för förvärv.\n\nBesluten fattades enhälligt med stöd från S, M, C, L och KD. V och ÖrP lämnade särskilda yttranden om behov av infrastrukturinvesteringar och planering för området.\n\nKristdemokraterna påpekar i sitt yttrande att medborgare i området hittills sköpt vägar, idrottsplats och skola själva, och att kommunens köp kommer att öka förväntningarna på infrastruktur som trafiksäkra cykelvägar och plogning.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Ekeby-Almby, Örebro",
+  "paragraph_ref": "§ 236",
+  "tags": [
+    "markköp",
+    "bostäder",
+    "exploatering",
+    "Ekeby-Almby",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Förvärvets syfte är en framtida sammanhållen exploatering av bostäder, bevara höga naturvärden och kunna ge möjlighet till allmänna platser i Ekeby-Almby.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_236.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_236/"
+  }
+}

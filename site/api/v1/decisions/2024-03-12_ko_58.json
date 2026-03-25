@@ -1,0 +1,39 @@
+{
+  "id": "2024-03-12_ko_58",
+  "headline": "Motion om självförsvarsutbildning avslås",
+  "summary": "Kommunstyrelsen avslogs motionen från Carola Sunesson (SD) om att etablera självförsvarsutbildning för utsatta personer och grupper.",
+  "detail": "Motionen från Carola Sunesson (SD) föreslog att Örebro kommun skulle etablera en självförsvarsutbildning och erbjuda denna till extra utsatta personer och grupper, företagare och verksamheter. Förslaget inkluderade att utreda befintliga utbildningar och finansieringsmöjligheter, samt att samverka mellan kommun, utbildningsanordnare, polis och vaktbolag.\n\nKommunledningsförvaltningen bedömde att motionen skulle avslås med motiveringen att det inte finns motsvarande utbildning inom kommunens verksamhet idag, och att kommunledningen har valt att fokusera på andra typer av åtgärder för trygghet och mot brottslighet.\n\nSD (Helena Ståhl, Bo Ammer) och OrP (Markus Allard) yrkat bifall. SD reserverade sig helt, OrP reserverade sig på motionens första att-sats.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 58",
+  "tags": [
+    "självförsvar",
+    "säkerhet",
+    "trygghet",
+    "motion"
+  ],
+  "voting": {
+    "for": [],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Det inte finns någon motsvarande utbildning inom kommunens verksamhet idag och kommunledningen har valt att fokusera på andra typer av åtgärder för trygghet och mot brottslighet.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-03-12_Kommunstyrelsen",
+    "date": "2024-03-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-12_ko_58.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-12_ko_58/"
+  }
+}

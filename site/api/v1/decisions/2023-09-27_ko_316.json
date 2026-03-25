@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-27_ko_316",
+  "headline": "Dans för hälsa - motionen anses redan uppfylld",
+  "summary": "Liberalernas motion om att permanenta Dans för hälsa i skolorna anses redan tillgodosedd då verksamheten finansieras via elevhälsosatsningen och en permanent hemvist utreds.",
+  "detail": "Gunilla Werme från Liberalerna motionerade för att permanenta Dans för hälsa som en del av skolors och kommunens hälsofrämjande arbete för att förebygga psykisk ohälsa hos barn och ungdomar.\n\nKommunfullmäktige beslöt att motionen anses tillgodosedd. Bedömningen var att motionens intentioner redan uppfylls. Verksamheten är placerad under Förvaltningen för utbildning, försörjning och arbete och finansieras genom elevhälsosatsningen som Programnämnd barn och utbildning avsatt medel för.\n\nUnder läsåret 2021-2022 gjordes en utvärdering av verksamheten. Som följd av detta ska frågan om verksamhetens hemvist fortsätta utredas för att finna en långsiktigt hållbar lösning.\n\nFlera partier reserverade sig och ville att motionen skulle biföllas direkt istället för att bara anses tillgodosedd. Liberalerna, Kristdemokraterna, Vänsterpartiet och Miljöpartiet protesterade.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 316",
+  "tags": [
+    "Dans för hälsa",
+    "psykisk hälsa",
+    "ungdomar",
+    "skola",
+    "hälsofrämjande"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Motionens intentioner redan uppfylls då beslut fattats om att verksamheten under läsåret ht-22 – vt-23 kommer vara placerad under Förvaltningen för utbildning, försörjning och arbete och finansieras genom den elevhälsosatsning som Programnämnd barn och utbildning avsatt medel för.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_316.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_316/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2024-04-24_ko_91",
+  "headline": "Årsredovisning 2023: kommunens resultat 570 miljoner kronor",
+  "summary": "Kommunfullmäktige godkänner årsredovisningen för 2023. Kommunkoncernen gör ett resultat på 659 miljoner kronor, bättre än budgeterat tack vare börsutveckling och skatteintäkter. Investeringarna blev lägre än planerat.",
+  "detail": "Örebro kommuns resultat uppgår till 570 miljoner kronor, vilket är 286 miljoner kronor högre än budgeterat. Den positiva utvecklingen på börsen har påverkat kapitalförvaltningen positivt, och skatteintäkterna utvecklades bättre än väntat. Investeringarna uppgick till 821 miljoner kronor, vilket är 483 miljoner lägre än budgeterat.\n\nKommunkoncernens investeringar var 2 650 miljoner kronor. Balanskravet uppnåddes, liksom tre av fyra finansiella mål. Av 19 verksamhetsmål uppnåddes 8 stycken. Trots osäkert världsläge bedöms kommunen ha stabil ekonomi och god ekonomisk hushållning.\n\nAv resultat reserveras 20 miljoner kronor för resultatutjämningsreserv. Markering för intraprenader minskas med 14,2 miljoner kronor. Ansvarsfrihet beviljades för 2023 års verksamhet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 91",
+  "tags": [
+    "årsredovisning",
+    "budget",
+    "ekonomi",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun, trots det osäkra världsläget och ekonomiska läget, har en stabil ekonomi.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-04-24_Kommunfullmäktige",
+    "date": "2024-04-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-24_ko_91.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-24_ko_91/"
+  }
+}

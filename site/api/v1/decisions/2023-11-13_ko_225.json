@@ -1,0 +1,44 @@
+{
+  "id": "2023-11-13_ko_225",
+  "headline": "Kommunen röstar för likvidation av Åbackehuset-föreningen",
+  "summary": "Kommunstyrelsen ger uppdrag till stämmoombud att rösta för att Riksbyggens Kooperativa Hyresrättsförening Åbackehuset träder i likvidation. Kommunen bedömer att den inte behöver lokaler i fastigheten framöver.",
+  "detail": "Kommunen är medlem i den kooperativa hyresrättsföreningen som äger fastigheten Örebro Verkmästaren 17. Kommunen har ingen förhyrning eller andrahandsuthyrning inom fastigheten och bedömer inget framtida behov.\n\nStyrelsens kallelse till extra föreningsstämma föreslår likvidation. Vid likvidation säljs fastigheten på offentlig auktion eller på annat lämpligt sätt. Eventuellt överskud efter likvidation fördelas lika mellan kommunen och Riksbyggen enligt stadgarna.\n\nKommunledningsförvaltningen bedömer det lämpligt att föreningen träder i likvidation.\n\nÖrebro för Polen reserverar sig mot beslutet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro Verkmästaren 17",
+  "paragraph_ref": "§ 225",
+  "tags": [
+    "Åbackehuset",
+    "likvidation",
+    "fastigheter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kommunen är medlem i den kooperativa hyresrättsföreningen 'Riksbyggens Kooperativa Hyresrättsförening Åbackehuset', som äger fastigheten Örebro Verkmästaren 17. Kommunen har i nuläget ingen förhyrning eller andrahandsuthyrning inom fastigheten.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_225.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_225/"
+  }
+}

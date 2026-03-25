@@ -1,48 +1,45 @@
 {
   "id": "2025-10-14_ko_199",
-  "headline": "Budget 2026 fastställd: nya taxor och avgifter från 1 januari",
-  "summary": "Kommunstyrelsen fastställde övergripande strategier och budget 2026 med plan för 2027–2029 inklusive nya taxor för avfall, vatten-avlopp, alkoholtillstånd och parkeringsavgifter.",
-  "detail": "Beslutet omfattar tolv beslutspunkter:\n\n1. Tilläggsbudget \"Gemensamt ansvar för framtidens Örebro\" fastställd\n2. Reviderade driftbudgetramar för 2026 med plan för 2027–2029\n3. Driftkostnadskonsekvenser från lokalförsörjningsplan beslutat\n4. Reviderad investeringsplan för 2026 med plan för 2027–2029 fastställd\n5. Avgifter för koncerninterna lån och borgen fastställd för 2026\n6. Taxa för avfall från 1 januari 2026\n7. Föreskrifter för avfall från 1 januari 2026\n8. Taxa för vatten och avlopp från 1 januari 2026\n9. Reviderad taxa enligt alkohollagen från 1 januari 2026\n10. Revidering av markupplåtelseavgift från 1 januari 2026\n11. Förlängd giltighetstid för generella dispenser från 6 månader till 1 år\n12. Ny avgift för generella dispenser på 1 500 kr per tillstånd från 1 januari 2026\n\nFlera partier lade egna budgetförslag (L, SD, V, KD) men majoritetens förslag (S, M, C och delar av opposition) vann. Många reservationer lämnades.",
-  "category": "regler",
+  "headline": "Budget 2026 fastställd med nya taxor och avgifter från 1 januari",
+  "summary": "Kommunstyrelsen fastställde tilläggsbudget för 2026 med reviderade driftbudgetramar, nya taxor för avfall, vatten-avlopp, alkohol och markanvändning. Nya avgifter för transportdispenser introducerats.",
+  "detail": "Beslutet omfattar 12 beslutspunkter och inkluderar:\n\n- Taxa för avfall från 1 januari 2026\n- Taxa för vatten och avlopp från 1 januari 2026\n- Reviderad taxa enligt alkohollagen från 1 januari 2026\n- Revidering av markupplåtelseavgift från 1 januari 2026\n- Förlängd giltighetstid för generella dispenser från 6 månader till 1 år\n- Ny avgift på 1500 kr per utfärdat dispenstillstånd\n\nKommunledningens förslag omfattar också reviderade driftbudgetramar och investeringsplan för 2026-2029. Alla oppositionspartier (L, SD, V, KD) reserverade sig med egna budgetförslag.",
+  "category": "budget",
   "contested": true,
   "location": null,
   "paragraph_ref": "§ 199",
   "tags": [
     "budget",
+    "2026",
     "taxor",
     "avgifter",
-    "vatten",
     "avfall",
-    "alkohol",
-    "parkering"
+    "vatten",
+    "alkohol"
   ],
   "voting": {
     "for": [
       "S",
       "M",
-      "C"
+      "C",
+      "MP",
+      "ÖrP"
     ],
     "against": [],
-    "abstained": [
-      "L",
-      "SD",
-      "V",
-      "KD"
-    ],
+    "abstained": [],
     "result": "Bifall"
   },
-  "quote": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 \"Gemensamt ansvar för framtidens Örebro\" fastställs enligt förslaget.",
+  "quote": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 'Gemensamt ansvar för framtidens Örebro' fastställs enligt förslaget.",
   "quote_page": "s. 9-11",
   "meeting": {
-    "id": "2025-10-14_ko",
+    "id": "2025-10-14_Kommunstyrelsen",
     "date": "2025-10-14",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.4fd25cec19a0a2d3d49c33/1761560235366/2025-10-14%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_199.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_199/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_199.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_199/"
   }
 }

@@ -1,0 +1,39 @@
+{
+  "id": "2024-06-10 och 2024-06-11_ko_157",
+  "headline": "Naturreservat Löreskogen bildades för skogsskydd",
+  "summary": "Kommunfullmäktige beslutade att bilda naturreservatet Löreskogen vid Glanshammar för att bevara ett skogsområde med höga naturvärden och gamla träd.",
+  "detail": "Örebro kommun förvärvade 2012 ett skogsområde öster om Glanshammar med målet att bilda naturreservat. Området har mycket höga naturvärden kopplat till kalkbarrskog och artrikedomen beror på långvarig kontinuitet som skogbeväxt område samt förekomsten av gamla träd och död ved.\n\nSkogsstyrelsen hade utpekat området som nyckelbiotop. Den tidigare markägaren inkom 2011 med en avverkningsanmälan, vilket ledde till diskussioner om skyddsform. Kommunen bedömde att ett kommunalt naturreservat var lämpligt och sökte markåtkomstbidrag från Naturvårdsverket vilket beviljades.\n\nNaturreservatet är avsett att användas för rekreation för tätorten Glanshammar. En tillhörande skötselplan för naturreservatet antogs samtidigt.\n\nEnhälligt beslut för antagande av både reservatsbeslut och skötselplan.",
+  "category": "miljö",
+  "contested": false,
+  "location": "Löreskogen, Glanshammar",
+  "paragraph_ref": "§ 157",
+  "tags": [
+    "naturreservat",
+    "miljö",
+    "Glanshammar",
+    "Löreskogen"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Förslag till beslut om bildande av naturreservatet Löreskogen i Örebro kommun antas. Förslag till skötselplan för naturreservatet Löreskogen i Örebro kommun antas.",
+  "quote_page": "s. 12-13",
+  "meeting": {
+    "id": "2024-06-10_Kommunfullmäktige",
+    "date": "2024-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-06-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-06-10 och 2024-06-11_ko_157.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-06-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-06-10 och 2024-06-11_ko_157/"
+  }
+}

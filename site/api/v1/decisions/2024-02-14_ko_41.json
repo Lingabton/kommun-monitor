@@ -1,0 +1,35 @@
+{
+  "id": "2024-02-14_ko_41",
+  "headline": "Motion om Rådhusets julkalender bordläggs för fortsatt behandling",
+  "summary": "Kommunfullmäktige beslutade att bordlägga motion från SD om att återuppliva Rådhusets julkalender i egen regi.",
+  "detail": "Sverigedemokraterna lämnade motion om att utreda möjligheterna för och återuppliva Rådhusets julkalender, antingen genom att ta över varumärket eller utveckla eget projekt med liknande koncept.\n\nKommunledningen föreslog att motionen skulle avslås. Ärendet hade redan bordlagts vid tidigare möten den 27 september, 24 oktober, 22 november, 12 december 2023 och 23 januari 2024.\n\nKommunfullmäktige beslutade denna gång att bordlägga ärendet för fortsatt behandling.",
+  "category": "kultur",
+  "contested": false,
+  "location": "Rådhuset",
+  "paragraph_ref": "§ 41",
+  "tags": [
+    "julkalender",
+    "kultur",
+    "Rådhuset"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_41.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_41/"
+  }
+}

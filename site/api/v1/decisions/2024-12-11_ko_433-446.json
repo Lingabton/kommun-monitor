@@ -1,0 +1,46 @@
+{
+  "id": "2024-12-11_ko_433-446",
+  "headline": "Bordläggningar: elfte motioner skjutet på framtiden",
+  "summary": "Elfte motioner bordlades till kommande sammanträde, inklusive äldreomsorg, effektivisering, lönefrågor och kulturinstitutioner.",
+  "detail": "Följande motioner bordlades: Äldreomsorgsteam med fokus missbruk (§433), Effektivisering av kommunala processer (§434), Höjning av lägstalöner (§435), Mensskydd gymnasie/högstadiet (§436,437), Kapell i Wadköping redan behandlat, Kilsmo-verksamhet (§438), Mentorsmammor (§439), Hundrastgårdar (§440), Örebro läns museum (§441,442), Tak-över-huvudet-garanti (§443), Skogsbruk (§444), Våld mot kvinnor (§445), Bojkott israeliska varor (§446).\n\nOrdförande Jan Zetterqvist yrkat bordläggning av resterande ärenden. Votering genomfördes med resultat 46 ja (bordläggning), 11 nej, 8 frånvarande. Detta indikerar att majoriteten ville avsluta mötet medan opposition ville fortsätta.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 433-446",
+  "tags": [
+    "motioner",
+    "bordläggning",
+    "flexa motioner",
+    "senare behandling"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bordläggning"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) finner att det finns två förslag, det vill säga ordförandens eget yrkande om att ärendena bordläggs respektive Helena Ståhls (SD) yrkande om att sammanträdet ska fortsätta.",
+  "quote_page": "s. 32",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_433-446.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_433-446/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-03_ko_239",
+  "headline": "Likviditet omfördelad mellan pensioner och kassor",
+  "summary": "Kommunstyrelsen fördelade kapital mellan pensionsportföljen och likviditetsförvaltning för att säkra kassabehållningen 2025.",
+  "detail": "I enlighet med Placeringspolicyn genomfördes årlig överföring mellan pensionsportföljen och kort/långfristig likviditetsförvaltning. Årets pensionsutbetalningar beräknades till 233 miljoner kronor, vilka överfördes från pensionsportföljen till långfristig likviditet.\n\nDen kortfristiga likviditetsportföljen skulle uppgå till 222 miljoner kronor vid årets slut, men det budgeterade kassaflödet för 2025 är negativt (-349 miljoner kronor). Därför tillfördes 128 miljoner från långfristig till kortfristig portfölj för att skapa en buffert på 350 miljoner kronor vid ingången av 2025.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 239",
+  "tags": [
+    "ekonomi",
+    "likviditet",
+    "pensioner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Årets pensionsutbetalningar beräknas till 233 mnkr. Den kortfristiga likviditetsportföljen förväntas uppgå till 222 mnkr vid årets slut, medan det budgeterat kassaflödet för 2025 är -349 mnkr.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_239.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_239/"
+  }
+}

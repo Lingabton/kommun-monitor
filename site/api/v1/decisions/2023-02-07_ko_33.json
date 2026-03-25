@@ -1,0 +1,44 @@
+{
+  "id": "2023-02-07_ko_33",
+  "headline": "Motion om kommunal second hand ansågs tillgodosedd",
+  "summary": "Kommunstyrelsen ansåg motionen från ÖrP om kommunal second hand redan tillgodosedd genom befintlig verksamhet.",
+  "detail": "Markus Allard (ÖrP) och Peter Springare (ÖrP) lämnade motion 28 september 2022 (KF § 167) med förslag att införa en kommunal second hand.\n\nKommunledningsförvaltningen bedömde att motionen redan är tillgodosedd genom:\n- Överskottscentralen som är en intern kommunal secondhandbutik som återbrukar, renoverar och säljer kontorsmöbler och andra inventarier\n- Planerat införande av byggretur för cirkulärt användande av byggmaterial\n\nMarkus Allard yrkade bifall till motionen. Majoriteten beslutade att motionen är redan tillgodosedd enligt förslaget. Ärendet gick vidare till Kommunfullmäktige.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 33",
+  "tags": [
+    "second hand",
+    "miljö",
+    "återbruk",
+    "cirkulär ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall (tillgodosedd)"
+  },
+  "quote": "Verksamheten som bedrivs på Överskottscentralen är en intern kommunal secondhandbutik som återbrukar, renoverar och säljer kontorsmöbler",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_33.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_33/"
+  }
+}

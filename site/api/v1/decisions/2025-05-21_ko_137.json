@@ -1,0 +1,46 @@
+{
+  "id": "2025-05-21_ko_137",
+  "headline": "OPF-KR 25 pensionsregler för förtroendevalda antagen",
+  "summary": "Kommunfullmäktige antog nya pensionsregler (OPF-KR 25) som ersätter tidigare OPF-KL 18. Reglerna gäller förtroendevalda och kräver lokalt antagande för att äga giltighet.",
+  "detail": "Sveriges Kommuner och Regioner antog nya pensionsregler den 18 oktober 2024. Örebro kommun behöver anta dem lokalt för att de ska gälla.\n\nKommunstyrelsen behandlade ärendet den 13 maj 2025 och beslutade för egen del att anta de reviderade tillämpningsanvisningarna för OPF-KR25 och PBF.\n\nÖrebropartiet reserverade sig mot beslutet och yrkade avslag. Kommunfullmäktige beslutade enligt Kommunstyrelsens förslag med majoritet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 137",
+  "tags": [
+    "pensioner",
+    "förtroendevalda",
+    "regler"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Anta OPF-KR 25 som ersätter OPF-KL 18.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2025-05-21_Kommunfullmäktige",
+    "date": "2025-05-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-21_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-21_ko_137.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-21_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-21_ko_137/"
+  }
+}

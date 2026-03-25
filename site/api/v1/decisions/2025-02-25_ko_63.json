@@ -1,0 +1,36 @@
+{
+  "id": "2025-02-25_ko_63",
+  "headline": "Motion om att skydda Garphytteklint bordlades",
+  "summary": "Kommunfullmäktige bordlade Miljöpartiets motion om att långsiktigt skydda Garphytteklint och dess artrikedom.",
+  "detail": "Lea Strandberg (MP) inlämnade motion om att Örebro kommun långsiktigt ska skydda Garphytteklint och dess höga naturvärden. Kommunstyrelsen bedömde motionen som besvarad då Miljö- och stadsbyggnadsförvaltningen delar motionärens åsikt att området bör få långsiktigt skydd. Ett uppdrag pågår för att undersöka möjligheten till naturreservatsbildning, och alternativt naturvårdsavtal utreds.\n\nMartha Wicklund (V) reserverade sig för att vilja bifalla motionen. Ärendet bordlades den 25 februari 2025.",
+  "category": "miljö",
+  "contested": true,
+  "location": "Garphytteklint",
+  "paragraph_ref": "§ 63",
+  "tags": [
+    "naturskydd",
+    "Garphytteklint",
+    "miljö",
+    "naturreservat"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Bordlades"
+  },
+  "quote": "Miljö- och stadsbyggnadsförvaltningen delar motionärens åsikt att Garphytteklint och dess höga naturvärden bör åtnjuta ett långsiktigt skydd.",
+  "quote_page": "s. 28",
+  "meeting": {
+    "id": "2025-02-25_Kommunfullmäktige",
+    "date": "2025-02-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-02-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-25_ko_63.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-25_ko_63/"
+  }
+}

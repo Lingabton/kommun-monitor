@@ -1,0 +1,43 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_185",
+  "headline": "Motion om redovisning av hela lönekostnaden avslagna",
+  "summary": "Motion från Helena Ståhl (SD) om att redovisa arbetsgivaravgifter i lönebesked avslogs. Kommunen bedömer att den inte bör föregripa regeringens utredning.",
+  "detail": "Helena Ståhl (SD) motionerade om att hela lönekostnaden inklusive arbetsgivaravgift redovisas i lönebeskeden till anställda inom Örebro kommun.\n\nKommunstyrelsen bedömde att motionen ska avslås eftersom Örebro kommun inte bör föregripa den utredning i frågan som påbörjats av regeringen. Det kan finnas lärdomar att dra från eventuella juridiska aspekter och praktiskt genomförande.\n\nBedömningen är också att det finns ett värde i att lönespecifikationerna enkelt och tydligt visar vilken lön som faktiskt betalas ut. Motionen bordlades på Kommunfullmäktiges sammanträden den 26 mars, 23 april och 21 maj 2025 innan slutgöring.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 185",
+  "tags": [
+    "löner",
+    "arbetsgivaravgift",
+    "motion",
+    "anställda"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 25",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_185.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_185/"
+  }
+}

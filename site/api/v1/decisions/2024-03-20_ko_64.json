@@ -1,0 +1,46 @@
+{
+  "id": "2024-03-20_ko_64",
+  "headline": "Rådhusets julkalender-motion avslås trots KD-stöd",
+  "summary": "Sverigedemokraterna motion om att återuppliva Rådhusets julkalender avslogs. KD och SD reserverade sig för motionen.",
+  "detail": "Bo Ammer och Helena Ståhl (SD) lämnade in motion om att utreda möjligheter att återuppliva eller återstarta Rådhusets julkalender genom kommunal drift, antingen via varumärkeövertagande eller eget projekt.\n\nKommunledningen avslog motionen. Beslutet röstades enhälligt genom att majoriteten (S, M, C, V, MP, L) röstade för avslag. SD och KD reserverade sig för motionen.\n\nÄrendet bordlades flera gånger innan behandlingen avslutades.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro Rådhus",
+  "paragraph_ref": "§ 64",
+  "tags": [
+    "julkalender",
+    "kultur",
+    "tradition",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "MP",
+      "L"
+    ],
+    "against": [
+      "SD",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-03-20_Kommunfullmäktige",
+    "date": "2024-03-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-20_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_64.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-20_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-20_ko_64/"
+  }
+}

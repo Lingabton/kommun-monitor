@@ -1,0 +1,39 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_227",
+  "headline": "Budget 2024 antagen med 21,35 procent skattesats",
+  "summary": "Kommunfullmäktige antog budget för 2024 enligt förslag från S, M och C. Skattesatsen fastställdes till 21,35 per skattekrona, samma som 2023.",
+  "detail": "Budgetbeslutet omfattade flera punkter: övergripande strategier och budget 2024 med plan för 2025–2027 antogs enligt förslaget 'Gemensamt ansvar för framtidens Örebro'. Skattesatsen för allmän kommunalskatt år 2024 fastställdes till 21,35 per skattekrona.\n\nFinansiella mål och verksamhetsmål för god ekonomisk hushållning för 2024 fastställdes enligt förslaget i budgethandlingen. Driftbudgetramar för 2024 med plan för 2025–2027 fastställdes enligt förslaget. Investeringsprogrammet för 2024 med plan för 2025–2027 fastställdes.\n\nNämnderna fick i uppdrag att arbeta med effektiviseringar motsvarande 51 mnkr för 2024. Kommunstyrelsen fick i uppdrag att ta fram ett riktat effektiviseringsuppdrag om 50 mnkr för 2024 samt för effektiviseringar för år 2025 och 2026.\n\nBudgetdebatten var omstridd med alternativa förslag från V, SD, L, ÖrP, KD och MP. Efter propositionsordning där förslagen ställdes mot varandra avslogs alla motförslag och S/M/C-förslaget antogs.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 227",
+  "tags": [
+    "budget 2024",
+    "skattesats",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Övergripande strategier och budget 2024 med plan för 2025–2027 fastställs enligt förslaget 'Gemensamt ansvar för framtidens Örebro'.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_227.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_227/"
+  }
+}

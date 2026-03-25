@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-19_ko_197",
+  "headline": "Tre nya motioner remitterade för beredning",
+  "summary": "Tre nya motioner från Kommunfullmäktige remitteras för beredning: om skadegörelse i skolor, Mamma till Mamma, och skolskjuts.",
+  "detail": "Kommunfullmäktige har överlämnat tre motioner till Kommunstyrelsen för beredning:\n\n1. Motion från Helena Ståhl (SD) m.fl. om hantering av skadegörelse i skolor - remitteras till Grundskolenämnden.\n\n2. Motion från Paula Säker (KD) om Mamma till Mamma - bereds av Kommunstyrelsen.\n\n3. Motion från Susanne Lindholm (KD) om skolskjuts med barnen i fokus - bereds av Kommunstyrelsen.",
+  "category": "skola",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 197",
+  "tags": [
+    "motioner",
+    "skola",
+    "skolskjuts",
+    "skadegörelse"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommunfullmäktige har den 30 augusti överlämnat följande motioner till Kommunstyrelsen för beredning.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_197.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_197/"
+  }
+}

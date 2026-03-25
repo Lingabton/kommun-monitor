@@ -1,0 +1,381 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2023-11-13",
+  "decisions": [
+    {
+      "headline": "Örebrobostäders försäljningsrätt utökad från 52,5 till 157,5 miljoner kronor",
+      "summary": "Kommunstyrelsen godkänner ändringar i bolagsordningen för Örebrobostäder AB och ÖBO Holding AB. Gränsen för när fastighetsförsäljningar måste godkännas av kommunfullmäktige höjs från 1 000 till 3 000 prisbasbelopp.",
+      "detail": "Örebrobostäder har cirka 23 000 bostäder, varav cirka 15 000 behöver renoveras de kommande 20 åren. Årligt investeringsbehov beräknas till cirka 1 000 miljoner kronor, men bolagets ekonomi tål endast cirka 750 miljoner kronor per år.\n\nInflation och höjda marknadsräntor har försämrat ekonomin väsentligt. Hyreshöjningar kompenserar endast cirka hälften av kostnadsökningarna. För att säkra stabil ekonomi föreslås tre åtgärder: effektivisering, lägre resultat- och utdelningskrav, samt försäljning av fastigheter.\n\nGränsen för underställningsplikt till kommunfullmäktige höjs från 52,5 miljoner kronor (1 000 prisbasbelopp) till cirka 157,5 miljoner kronor (3 000 prisbasbelopp). Ändringar görs även i dotterbolaget ÖBO Holding AB för att möjliggöra paketisering av fastigheter i aktiebolag.\n\nÄrendet går vidare till Kommunfullmäktige för slutgiltigt beslut.\n\nVänster och Örebro för Polen reserverar sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 224",
+      "quote": "En höjning av gränsen för underställningsplikt från 1 000 till 3 000 prisbasbelopp föreslås och är motiverad utifrån Örebrobostäders storlek och marknadsvärden i fastighetsbeståndet.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Örebrobostäder",
+        "fastighetsförsäljning",
+        "ekonomi",
+        "investeringar"
+      ],
+      "id": "2023-11-13_ko_224",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Kommunen röstar för likvidation av Åbackehuset-föreningen",
+      "summary": "Kommunstyrelsen ger uppdrag till stämmoombud att rösta för att Riksbyggens Kooperativa Hyresrättsförening Åbackehuset träder i likvidation. Kommunen bedömer att den inte behöver lokaler i fastigheten framöver.",
+      "detail": "Kommunen är medlem i den kooperativa hyresrättsföreningen som äger fastigheten Örebro Verkmästaren 17. Kommunen har ingen förhyrning eller andrahandsuthyrning inom fastigheten och bedömer inget framtida behov.\n\nStyrelsens kallelse till extra föreningsstämma föreslår likvidation. Vid likvidation säljs fastigheten på offentlig auktion eller på annat lämpligt sätt. Eventuellt överskud efter likvidation fördelas lika mellan kommunen och Riksbyggen enligt stadgarna.\n\nKommunledningsförvaltningen bedömer det lämpligt att föreningen träder i likvidation.\n\nÖrebro för Polen reserverar sig mot beslutet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Örebro Verkmästaren 17",
+      "paragraph_ref": "§ 225",
+      "quote": "Kommunen är medlem i den kooperativa hyresrättsföreningen 'Riksbyggens Kooperativa Hyresrättsförening Åbackehuset', som äger fastigheten Örebro Verkmästaren 17. Kommunen har i nuläget ingen förhyrning eller andrahandsuthyrning inom fastigheten.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Åbackehuset",
+        "likvidation",
+        "fastigheter"
+      ],
+      "id": "2023-11-13_ko_225",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Vattentjänstplan för 2024 antas efter oenighet om fastighetsägarkommunikation",
+      "summary": "Kommunstyrelsen antar Vattentjänstplan (2024) med beskrivning av VA-planering, utbyggnadsplan och skyfallsplan. Plan presenterar 9 områden för verksamhetsområdebeslut 2024-2035 och 15 områden efter 2035.",
+      "detail": "Vattentjänstplanen innehåller kommunens långsiktiga planering av vattentjänsterna samt strategisk miljökonsekvensbeskrivning. Planen identifierar områden där kommunen ska ansvara för vattentjänsterna enligt Lag (2006:412) om allmänna vattentjänster.\n\nI utbyggnadsplanen lyfts 9 områden för verksamhetsområdebeslut inom 2024-2035, 15 områden efter 2035, och 3 områden bedöms kunna ta eget ansvar.\n\nSusanne Lindholm Henningsson (KD) yrkar på tillägg om formaliserad och löpande kommunikation med fastighetsägare, dispens för nyligen installerade anläggningar, och dialog innan bygglov stoppas. John Johansson (S) avslogar tillägget.\n\nÖrebro för Polen reserverar sig. Kristdemokraterna reserverar sig skriftligt.\n\nÄrendet går vidare till Kommunfullmäktige.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 226",
+      "quote": "I utbyggnadsplanen beskrivs kommunens långsiktiga planering av utbyggnaden av de kommunala vattentjänsterna. I detta kapitel presenteras de områden där kommunen ska ansvara för vattentjänsterna där risk för människors hälsa och miljö förekommer.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "vatten",
+        "avlopp",
+        "VA-planering",
+        "infrastruktur",
+        "miljö"
+      ],
+      "id": "2023-11-13_ko_226",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Förpackningsavfallstaxa för flerfamiljshus godkänd från årsskiftet",
+      "summary": "Kommunstyrelsen antar Förpackningsavfallstaxa för fastighetsnära insamling av förpackningar i flerfamiljshus, gällande från 1 januari 2024.",
+      "detail": "Teknik- och servicenämnden har beslutat att Örebro kommun ska ha ett auktorisationssystem för hämtning av förpackningar (FNI) i flerfamiljshus från 1 januari 2024.\n\nTaxan reglerar den maximala kostnad som auktoriserade privata entreprenörer får ta betalt för att hämta förpackningar fastighetsnära i flerfamiljshus. Taxan beslutas enligt samma process som avfallstaxan, dvs genom Kommunfullmäktige. En fristående taxa underlättar framtida justeringar.\n\nÖrebro för Polen avslogar förslaget. Vänster yrkar på tillägg om utvärdering av totalkostnaden för förpackningsåtervinningen. John Johansson (S) avslogar Vänsters tillägg.\n\nÄrendet går vidare till Kommunfullmäktige.\n\nBåda partierna reserverar sig.",
+      "category": "miljo",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 227",
+      "quote": "Örebro kommun behöver sätta en taxa för hur mycket en tömning av ett kärl med förpackningsmaterial får kosta ut mot fastighetsägare. Taxan reglerar vad de auktoriserade privata entreprenörerna maximalt får ta betalt.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "avfallshantering",
+        "förpackningar",
+        "taxa",
+        "miljö"
+      ],
+      "id": "2023-11-13_ko_227",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Nya avfallsföreskrifter för kommunen gäller från årsskiftet",
+      "summary": "Kommunstyrelsen godkänner nya Föreskrifter om avfallshantering i Örebro kommun 2024, gällande från 1 januari 2024.",
+      "detail": "Avfallsverksamheten presenterar reviderade avfallsföreskrifter för Örebro kommun. Förslaget visar ändringar inför samråd och tillägg efter offentlig utställning.\n\nFöreskrifterna fastställs med stöd av miljöbalken (1998:808) och avfallsförordningen (2020:614).\n\nÖrebro för Polen avslogar förslaget och reserverar sig.\n\nÄrendet går vidare till Kommunfullmäktige.",
+      "category": "regler",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 228",
+      "quote": "Avfallsverksamheten lämnar förslag till reviderade avfallsföreskrifter för Örebro kommun att börja gälla 1 januari 2024.",
+      "quote_page": "s. 9",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "avfallshantering",
+        "föreskrifter",
+        "miljö"
+      ],
+      "id": "2023-11-13_ko_228",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Seniorpuls-satsningen avbryts – kostnadskrävande utan förväntad effekt",
+      "summary": "Kommunstyrelsen godkänner slutrapport för Seniorpuls-satsningen och beslutar att insatsen inte implementeras. Rapporten visar att endast 25 seniorer fullföljde programmet och att målgruppen inte nåddes.",
+      "detail": "Den sociala investeringen Seniorpuls startade våren 2020 med 1,998 miljoner kronor i anslag för tre år. Frivillig och hälsofrämjande enheten genomförde insatsen i samverkan med RFSISU Örebro län.\n\nSyftet var att bidra till ökad jämlikhet i hälsa genom att främja ett hälsosamt åldrande för seniorer 65+ i ordinärt boende i Varberga och Oxhagen. Planen var 11 grupper med 14 deltagare vardera.\n\nResultat: Endast 25 seniorer fullföljde insatsen. Deltagarantalet var drygt 30 procent av förväntad kapacitet. Målgruppen med låg utgångshälsa nåddes inte – deltagare hade redan god hälsa vid start. Avhopp var omfattande.\n\nRapporten drar tre slutsatser: (1) Observerade resultat ger inte rättvis bild då deltagare inte matchade målgrupp; (2) Seniorpuls verkar ha bibehållit redan god hälsa, inte uppnått ökad jämlikhet; (3) Befintliga Seniorträffar är mer kostnadseffektiva.\n\nVänster och Kristdemokraterna får lämna särskilda yttranden till protokollet.",
+      "category": "budget",
+      "contested": false,
+      "location": "Varberga, Oxhagen",
+      "paragraph_ref": "§ 230",
+      "quote": "Det förekommer en viss spridning på individnivå men det är onekligen svårt att uppnå den förflyttning som förväntas efter deltagande i Seniorpuls givet dessa utgångslägen.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "äldre",
+        "seniorpuls",
+        "hälsa",
+        "sociala investeringar"
+      ],
+      "id": "2023-11-13_ko_230",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Risk- och sårbarhetsanalys 2024-2027 antagen för krisberedskap",
+      "summary": "Kommunstyrelsen antar Risk- och sårbarhetsanalys för Örebro kommun 2024-2027 enligt lag. Analysen kartlägger hot, risker och sårbarheter samt åtgärder för krisberedskap.",
+      "detail": "Enligt Lag (2006:544) om kommuners och regioners åtgärder inför extraordinära händelser måste alla svenska kommuner upprätta en risk- och sårbarhetsanalys varje ny mandatperiod.\n\nSyftet är att kartlägga hot, risker och sårbarheter inom kommunen och öka medvetenheten bland tjänstepersoner. Analysen utgör grund för kommunens krisberedskapsarbete genom förebyggande åtgärder, planering, utbildningar och övningar.\n\nAnalysen ska även användas som underlag för planering inom samhällsviktiga verksamheter, kommunal samhällsplanering och olycksförebyggande arbete.\n\nÖrebro kommun arbetar med samtliga typhändelser som omnämns i analysen.\n\nÖrebro för Polen reserverar sig.",
+      "category": "trygghet",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 231",
+      "quote": "Syftet med risk- och sårbarhetsanalysen är att kartlägga hot, risker och sårbarheter inom kommunen, samt att öka medvetenheten och stärka kunskapen kring dessa inom Örebro kommuns geografiska område.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "krisberedskap",
+        "säkerhet",
+        "risker",
+        "analys"
+      ],
+      "id": "2023-11-13_ko_231",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Överenskommelse med civilsamhället 2024-2027 godkänd med nya villkor",
+      "summary": "Kommunstyrelsen godkänner ny överenskommelse om samverkan mellan det civila samhället och Örebro kommun för 2024-2027. Samverkansrådet får mandat att utesluta aktörer som motarbetar samverkan.",
+      "detail": "Sedan 2010 finns överenskomst om samverkan mellan Örebro kommuns civila samhälle och kommunen. Tidigare överenskommelse gällde 2020-2023. Den har utvärderats och en arbetsgrupp tog fram förslag för perioden 2024-2027.\n\nKommunstyrelsen godkänner överenskommelsen och beslutar:\n1. Samverkansrådet ges mandat att besluta om eventuell uteslutning av ansluten aktör om det kan påvisas att aktören aktivt motarbetar överenskommelsens syfte och samverkan.\n2. Under perioden 2024-2027 ska en översyn av stödstrukturen genomföras, med fokus på Samverkansrådet och C-nätverket, för att säkra en behovsanpassad struktur.\n\nArendet går vidare till Kommunfullmäktige.\n\nLiberalerna lämnar protokollsanteckning om önskemål om utredning av samverkansavtal med icke-registrerade föreningar.\n\nÖrebro för Polen reserverar sig.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 232",
+      "quote": "Samverkansrådet ges mandat att besluta om eventuell uteslutning av ansluten aktör i det fall det kan påvisas att en aktör aktivt motarbetar syftet med överenskommelsen och samverkan mellan det civila samhället och kommunen.",
+      "quote_page": "s. 14-15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "civilsamhälle",
+        "samverkan",
+        "överenskommelse"
+      ],
+      "id": "2023-11-13_ko_232",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Osäkra fordringar från 2022 avskrivna för 1,4 miljoner kronor",
+      "summary": "Kommunstyrelsen skriver av fakturor till totalt 1 423 955 kronor från 2022 enligt god redovisningssed, då fordringar inte längre kan anses säkra.",
+      "detail": "Enligt god redovisningssed ska osäkra fordringar inte tas upp som tillgångar i bokslut. Erfarenheterna visar att möjligheterna att få in betalningar på fakturor efter sedvanliga kravåtgärder är mycket små.\n\nFakturor med förfallodatum längre än ett år från balansdatum anses osäkra. Dessa måste föras bort ur bokföringen för att kommunens räkenskaper ska vara rättvisande.\n\nAvskrivningarna omfattar:\n- Finansförvaltningen: 98 597 kronor\n- Kommunledningsförvaltningen: 48 407 kronor\n- Lokalförsörjningsavdelningen: 1 276 951 kronor\n\nTotalt: 1 423 955 kronor\n\nFordringarna kvarstår juridiskt på den enskilde och åtgärder för inbetalning fortsätter.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 233",
+      "quote": "Nämnderna skall inför varje bokslut fatta beslut om avskrivning på dessa osäkra fordringar. Fordran kvarstår dock på den enskilde och åtgärder för att få in betalningen skall fullföljas.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "bokslut",
+        "fordringar",
+        "ekonomi"
+      ],
+      "id": "2023-11-13_ko_233",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    },
+    {
+      "headline": "Ej verkställda välfärdsbeslut Q2 2023: Vänster vill ha åtgärdsplan",
+      "summary": "Kommunstyrelsen lägger till handlingarna rapporter från Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden över ej verkställda SoL- och LSS-beslut för andra kvartalet 2023.",
+      "detail": "Socialnämnden, Funktionsstödsnämnden och Vård- och omsorgsnämnden ska lämna in statistikrapporter varje kvartal över ej verkställda beslut enligt SoL och LSS. Syftet är att kommunen ska ha kännedom om ärendena och kunna planera resurser för att verkställa insatser inom skälig tid.\n\nMartha Wicklund (V) yrkar tillägg om att förvaltningen ska få i uppdrag att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid. Helena Ståhl (SD) och Markus Allard (ÖrP) stöder Wicklunds yrkande.\n\nJohn Johansson (S) avslogar Wicklunds tillägg.\n\nVänster och Örebro för Polen reserverar sig.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 234",
+      "quote": "Syftet med rapporteringen är att kommunen ska ha kännedom om dessa ärenden samt kunna planera sina resurser för att kunna verkställa insatser inom skälig tid",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "välfärd",
+        "SoL",
+        "LSS",
+        "resursplanering"
+      ],
+      "id": "2023-11-13_ko_234",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2023-11-13"
+    }
+  ],
+  "decisions_count": 10,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf",
+  "headline": "Örebrobostäder får större frihet att sälja fastigheter",
+  "motions_of_interest": [
+    {
+      "title": "Motion från Lea Strandberg (MP) om att ge barnen en bra start i livet",
+      "party": "MP",
+      "status": "Remitterad till Förskolenämnden"
+    },
+    {
+      "title": "Motion från Lea Strandberg (MP) om barns lika rätt",
+      "party": "MP",
+      "status": "Bereds av Kommunstyrelsen"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_224.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_225.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_226.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_227.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_228.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_230.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_231.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_232.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_233.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_234.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2023-11-13_Kommunstyrelsen"
+  }
+}

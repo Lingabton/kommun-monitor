@@ -1,0 +1,39 @@
+{
+  "id": "2023-05-31_ko_180",
+  "headline": "Arbetsmiljörapport 2022 bordlagd",
+  "summary": "Årlig uppföljning av systematiskt arbetsmiljöarbete 2022 bordlades. Rapporterande visar utmaningar kring lokaler, frånvaro och chefernas förutsättningar.",
+  "detail": "Rapporten visade gemensamma utmaningar för flera nämnder: lokaler, höga sjukfrånvaro, hög arbetsbelastning, pandemins effekter, svaga chefsförutsättningar, förändringsarbete och brist på skyddsombud.\n\nKommunen bedömdes behöva fortsatt arbete med resursplanering för hållbar bemanning, chefers arbetsbelastning och förutsättningar samt rekrytering och stöd för skyddsombud.\n\nMartha Wicklund (V) reserverade sig mot behandlingen på Kommunstyrelsen. Fullmäktige bordlade ärendet.",
+  "category": "trygghet",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 180",
+  "tags": [
+    "arbetsmiljö",
+    "bemanning",
+    "chefer",
+    "frånvaro",
+    "lokaler"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Aterremiss"
+  },
+  "quote": "Arbetsmiljöutmaningar som är gemensamt för flera nämnder är lokaler, hög frånvaro, hög arbetsbelastning, pandemin, chefers förutsättningar, förändringsarbete och brist på skyddsombud.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2023-05-31_Kommunfullmäktige",
+    "date": "2023-05-31",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-31_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-31_ko_180.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-31_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-31_ko_180/"
+  }
+}

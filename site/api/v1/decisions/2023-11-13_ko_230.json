@@ -1,0 +1,46 @@
+{
+  "id": "2023-11-13_ko_230",
+  "headline": "Seniorpuls-satsningen avbryts – kostnadskrävande utan förväntad effekt",
+  "summary": "Kommunstyrelsen godkänner slutrapport för Seniorpuls-satsningen och beslutar att insatsen inte implementeras. Rapporten visar att endast 25 seniorer fullföljde programmet och att målgruppen inte nåddes.",
+  "detail": "Den sociala investeringen Seniorpuls startade våren 2020 med 1,998 miljoner kronor i anslag för tre år. Frivillig och hälsofrämjande enheten genomförde insatsen i samverkan med RFSISU Örebro län.\n\nSyftet var att bidra till ökad jämlikhet i hälsa genom att främja ett hälsosamt åldrande för seniorer 65+ i ordinärt boende i Varberga och Oxhagen. Planen var 11 grupper med 14 deltagare vardera.\n\nResultat: Endast 25 seniorer fullföljde insatsen. Deltagarantalet var drygt 30 procent av förväntad kapacitet. Målgruppen med låg utgångshälsa nåddes inte – deltagare hade redan god hälsa vid start. Avhopp var omfattande.\n\nRapporten drar tre slutsatser: (1) Observerade resultat ger inte rättvis bild då deltagare inte matchade målgrupp; (2) Seniorpuls verkar ha bibehållit redan god hälsa, inte uppnått ökad jämlikhet; (3) Befintliga Seniorträffar är mer kostnadseffektiva.\n\nVänster och Kristdemokraterna får lämna särskilda yttranden till protokollet.",
+  "category": "budget",
+  "contested": false,
+  "location": "Varberga, Oxhagen",
+  "paragraph_ref": "§ 230",
+  "tags": [
+    "äldre",
+    "seniorpuls",
+    "hälsa",
+    "sociala investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Det förekommer en viss spridning på individnivå men det är onekligen svårt att uppnå den förflyttning som förväntas efter deltagande i Seniorpuls givet dessa utgångslägen.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_230.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_230/"
+  }
+}

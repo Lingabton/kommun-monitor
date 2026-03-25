@@ -1,0 +1,44 @@
+{
+  "id": "2024-11-12_ko_214",
+  "headline": "Örebroporten förvärvar Gustavsvik Resorts AB",
+  "summary": "Kommunstyrelsen godkänner att Örebroporten Fastigheter AB förvärvar aktier i Gustavsvik Resorts AB från Gustavsviks Intressenter AB. Ägarförändringen leder också till nya styrelser i både Gustavsvik Resorts AB och Gustavsviks Utvecklingsbolag AB.",
+  "detail": "Gustavsviks Intressenter AB (GIAB) har ägt 55 procent av Gustavsvik Resorts AB (GRAB) sedan 2011. Efter långt uttryckt önskemål från GIAB att sälja sina aktier har parterna ingått aktieöverlåtelseavtal. Örebroporten Fastigheter AB förvärvar aktierna enligt avtalet. Ärendet påverkar även styrelseutsättningar i både GRAB och utvecklingsbolaget GUAB.\n\nLiberalerna och Vänstern motsatte sig beslutspunkterna om nya styrelseledamöter. Liberalerna ville dels sälja GRAB till privat aktör inom tre år, dels behålla den som dotterbolag med egen styrelse. Markus Allard (ÖrP) krävde återremiss för värderingsfråga.\n\nKommunstyrelsen beslutade enligt förvaltningens förslag. Koncerninterna låneramen för Örebroporten fastställdes till 4 100 miljoner kronor för 2024–2028.",
+  "category": "budget",
+  "contested": true,
+  "location": "Gustavsvik",
+  "paragraph_ref": "§ 214",
+  "tags": [
+    "Gustavsvik",
+    "Örebroporten",
+    "bolagsägande",
+    "nöjespark"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Liberalerna ser inget annat, mot bakgrund av styrelsens ansvar, än att bifalla styrelsens köp. För Liberalerna riskerar detta beslut en osund konkurrens med näringslivet inom nöjesbranschen genom vårt stora och starka kommunalt bolagsägande.",
+  "quote_page": "Särskilt yttrande",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_214.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_214/"
+  }
+}

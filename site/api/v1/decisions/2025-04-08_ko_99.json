@@ -1,0 +1,44 @@
+{
+  "id": "2025-04-08_ko_99",
+  "headline": "HBT-monument i Vivalla remitteras till presidium",
+  "summary": "Helena Ståhl (SD) ledamotsinitiativ om att upprätta ett HBT-monument i Vivalla remitteras till Kommunstyrelsens presidium.",
+  "detail": "Helena Ståhl (SD) väckte ledamotsinitiativ om att upprätta ett HBT-monument i Vivalla. Kommunstyrelsen beslutade att remittera initiativet till presidium för vidare beredning.",
+  "category": "kultur",
+  "contested": false,
+  "location": "Vivalla",
+  "paragraph_ref": "§ 99",
+  "tags": [
+    "HBT",
+    "monument",
+    "Vivalla",
+    "kultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "SD",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Helena Ståhl (SD) har inkommit med en ledamotsinitiativ till Kommunstyrelsens sammanträde om att upprätta ett HBT-monument i Vivalla.",
+  "quote_page": "s. 34",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_99.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_99/"
+  }
+}

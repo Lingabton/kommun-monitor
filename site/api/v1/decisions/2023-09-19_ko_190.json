@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-19_ko_190",
+  "headline": "Renfanan 1: 80 hyresrätter för cirka 8,8 miljoner",
+  "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 80 hyresrätter på Renfanan 1 i Tamarinden.",
+  "detail": "Magnolia Projekt 562 AB avser att bygga cirka 80 lägenheter på fastigheten Renfanan 1 i området Tamarinden, Sörbyängen, som hyresrätter. Markförsäljningen är beräknad till cirka 8,8 miljoner kronor.\n\nReservationsavtalet godkändes tidigare vid programberedning 2021-12-08. Köpeskillingen ligger nära gränsen och riskerar att överstiga 10 mkr vid kommande indexreglering av markpriset, varför beslutet förts till kommunstyrelsen.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Renfanan 1, Tamarinden, Sörbyängen",
+  "paragraph_ref": "§ 190",
+  "tags": [
+    "Renfanan 1",
+    "Tamarinden",
+    "bostäder",
+    "Magnolia Projekt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Magnolia Projekt 562 AB avser att bygga ca 80 lägenheter på fastigheten Renfanan 1 i området Tamarinden, Sörbyängen.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_190.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_190/"
+  }
+}

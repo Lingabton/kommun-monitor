@@ -1,0 +1,45 @@
+{
+  "id": "2025-04-08_ko_71",
+  "headline": "Årsredovisning 2024: Överskud på 645 miljoner kronor",
+  "summary": "Kommunkoncernen redovisar ett resultat på 645 miljoner kronor och investeringar på 2 735 miljoner kronor. Ekonomin bedöms som stabil.",
+  "detail": "Örebro kommun har sammanställt årsredovisningen för 2024. Kommunkoncernen gör ett resultat på 645 miljoner kronor, varav kommunens andel är 530 miljoner kronor – 203 miljoner högre än budgeterat. Den positiva utvecklingen förklaras av börsresultat och bättre än förväntat statsbidrag.\n\nKommunkoncernens investeringar uppgår till 2 735 miljoner kronor. Kommunens investeringar i verksamhet uppgår till 948 miljoner kronor, vilket är 529 miljoner lägre än budgeterat.\n\nKommunen uppnår balanskravet och tre av fyra finansiella mål. Av 19 verksamhetsmål uppnås 13. Av 48 uppdrag i ÖSB 2024 är 28 genomförda och 20 påbörjade. Bedömningen är att Örebro kommun fortsatt har god ekonomisk hushållning trots det osäkra världs- och ekonomiska läget.\n\nResultatet kommer att föras till Kommunfullmäktige den 23 april för beslut.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 71",
+  "tags": [
+    "årsredovisning",
+    "ekonomi",
+    "investeringar",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "SD",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun, trots det osäkra världs- och ekonomiska läget, alltjämt har en stabil ekonomi. Kommunen uppfyller även det långsiktiga målet för god ekonomisk hushållning.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_71.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_71/"
+  }
+}

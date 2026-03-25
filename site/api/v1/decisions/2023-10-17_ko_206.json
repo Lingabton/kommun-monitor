@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-17_ko_206",
+  "headline": "Delårsrapport: kommun har bra ekonomi men mål uppfylls inte",
+  "summary": "Delårsrapport med prognos 2 för 2023 visar att Örebro kommuns helårsresultat beräknas bli 362 miljoner kronor, 78 miljoner högre än budgeterat, men flera verksamhetsmål uppfylls inte.",
+  "detail": "Delårsrapporten efter årets första åtta månader visar ett utfall på 509 miljoner kronor. Helårsprognosen för 2023 visar ett resultat på 362 miljoner kronor, vilket är 78 miljoner kronor högre än budgeterat.\n\nAv avvikelsen går -19 miljoner till verksamhetens resultat och 97 miljoner till finansverksamheten. Den löpande verksamheten i nämnderna prognostiserar dock en samlad negativ budgetavvikelse på 206 miljoner kronor.\n\nInvesteringsprognoser ligger på 1 078 miljoner kronor, 241 miljoner lägre än budget. Skattefinansierade investeringar beräknas till 636 miljoner (108 miljoner under budget) och taxefinansierade till 442 miljoner (133 miljoner under budget).\n\nAv sex verksamhetsmål uppfylls fem, men målet om alla elevers kunskapsmål i skolan beräknas inte uppfyllas. Av fyra finansiella mål uppfylls två. Årets resultat efter balanskravsjusteringar är positivt, vilket visar att kommunen uppfyller kravet på ekonomi i balans.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 206",
+  "tags": [
+    "ekonomi",
+    "budget",
+    "investeringar",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [
+      "L",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Prognosen för de verksamhetsmässiga målen av betydelse för god ekonomisk hushållning är att fem av sex mål uppfylls.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_206.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_206/"
+  }
+}

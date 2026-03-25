@@ -1,0 +1,41 @@
+{
+  "id": "2025-03-26_ko_77",
+  "headline": "Motion om krafttag mot mäns våld mot kvinnor delvis avslagen",
+  "summary": "Vänsterpartiet yrkade på grundläggande utbildning för anställda och politiker om våld mot kvinnor, ökad myndighetssamverkan och haverikommission vid mord. Tre av fyra yrkanden godkändes, men kravet på haverikommission avslogs.",
+  "detail": "Vänsterpartiet inlämnade en gruppmotion med fyra yrkanden för att bekämpa mäns våld mot kvinnor. Motion från Martha Wicklund (V) m.fl. krävde: (1) grundläggande utbildning för alla anställda och politiker om strukturer kring våld mot kvinnor, (2) kunskapshöjning för arbetsgivare för att fånga upp våldsutsatthet, (3) ökad myndighetssamverkan mellan polis, vård och socialtjänst, samt (4) haverikommission vid varje kvinnomord.\n\nKommunstyrelsen föreslogs godkänna de tre första yrkandena som redan tillgodosedda, men avslå kravet på haverikommission. Vänsterpartiet och Miljöpartiet yrkade på full bifallelse, medan S, M, C, L och ÖrP stödde styrelsen.\n\nKommunfullmäktige beslutade enhälligt att godkänna de tre första yrkandena men avslå det fjärde. Sex ledamöter från V och MP reserverade sig för full bifallelse, vilket visar politisk splittring i frågan.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 77",
+  "tags": [
+    "våld mot kvinnor",
+    "utbildning",
+    "socialtjänst"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Delvis bifall"
+  },
+  "quote": "Motionen föreslår att en grundläggande utbildning ska ges till Örebro kommuns samtliga anställda och politiker om strukturer kring mäns våld mot kvinnor samt samhällets ansvar",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2025-03-26_Kommunfullmäktige",
+    "date": "2025-03-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-26_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-26_ko_77.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-26_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-26_ko_77/"
+  }
+}

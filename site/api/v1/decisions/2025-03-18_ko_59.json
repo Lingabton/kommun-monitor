@@ -1,0 +1,44 @@
+{
+  "id": "2025-03-18_ko_59",
+  "headline": "Motion om klassdelningstal för bättre resultaten avslogs",
+  "summary": "Kommunstyrelsen avslog Liberalernas motion om nya delningstal för skolklasser (max 20, 25 och 30 elever beroende på årskurs).",
+  "detail": "Mats-Olof Liljegren (L) motionerade för att Kommunfullmäktige skulle ge förvaltningen uppgift att utreda införande av nya delningstal för skolklasser: max 20 elever från förskoleklass, max 25 från årskurs 4 och max 30 från årskurs 7.\n\nGrundskolenämnden föreslog avslag och argued att förvaltningen redan har en funktionell och bra process som ger möjlighet att vara flexibel och anpassa skolans organisation efter elevers behov, lokala förutsättningar och säkerställandet av tillgång till behöriga lärare – en avgörande faktor för god undervisning – samtidigt som budgeten hålls i balans.\n\nKarolina Wallström (L), David Larsson (SD) och Cristian Rehn Janowicz (V) yrkal bifall till motionen och reserverade sig mot beslutet.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 59",
+  "tags": [
+    "klassdelning",
+    "skolklasser",
+    "elever",
+    "utbildning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "V",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Förskole- och grundskoleförvaltningen föreslår att motionen avslås eftersom bedömningen är att förvaltningen idag har en funktionell och bra process som ger förvaltningen och rektorer möjlighet att vara flexibla och anpassa skolans organisation och resurser efter elevers behov.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_59.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_59/"
+  }
+}

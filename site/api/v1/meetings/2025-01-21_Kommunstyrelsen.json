@@ -1,0 +1,534 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2025-01-21",
+  "decisions": [
+    {
+      "headline": "Kommunstyrelsens verksamhetsplan med budget 2025 fastställd",
+      "summary": "Kommunstyrelsen antog verksamhetsplan och budget för 2025 med effektiviseringskrav på 1,5 procent. Fem oppositionspartier reserverade sig för egna budgetförslag.",
+      "detail": "Kommunledningsförvaltningen presenterade verksamhetsplan med budget för 2025 för fastställelse. Budgeten innehåller riktade effektiviseringskrav som ska omhändertas genom åtgärder under rubriken \"Ekonomi i balans\". Kommundirektören får besluta om ombudgering inom och mellan verksamhetsområdena.\n\nMotion väcktes från Markus Allard (ÖrP), Martha Wicklund (V), Susanne Lindholm Henningsson (KD), Karolina Wallström (L) och Helena Ståhl (SD) för egna budgetförslag. Ordförande ställde samtliga förslag mot varandra och fann bifall för regeringsmajoritetens förslag (S, M, C).\n\nFem ledamöter reserverade sig, vilket visar stark politisk oenighet om budgetprioriteringar inför 2025. Liberalerna framförde kritik mot centrala sparåtgärder och krävde fokus på personalstyrkan i frontlinjetjänster.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 1",
+      "quote": "Liberalerna yrkar i kommunstyrelsen avslag till föreslagen plan med budget för 2025. Till förmån för Liberalernas Budget för 2025.",
+      "quote_page": "Yrkande Wallström (L)",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "ÖrP",
+          "V",
+          "KD",
+          "L",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget2025",
+        "ekonomi",
+        "effektivisering",
+        "oppositionskritik"
+      ],
+      "id": "2025-01-21_ko_1",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "1650 tkr tillförs Överförmyndarkansliet för förstärkning",
+      "summary": "Kommunstyrelsen beviljad förstärkning av Överförmyndarkansliet med 1,65 miljoner kronor för två nya handläggartjänster och utbildningsinsatser under 2025.",
+      "detail": "Efter omfattande utvecklingsarbete 2023-2024 identifierades behov av permanent förstärkning av Överförmyndarkansliet. De två tidsbegränsade överförmyndarhandläggartjänster som anställdes för utveckling och kvalitetssäkring blir permanenta.\n\nTilldelningen på 1650 tkr fördelar sig på lönekostnader för två handläggare och 150 tkr för utbildningsinsatser (75 tkr för intern utbildning, 75 tkr för utbildning av ställföreträdare). Behovet för åren 2026 och framåt tas in i ordinarie budgetprocess.\n\nMarkus Allard (ÖrP) yrkar avslag men minoriteten överröstas. Beslutet understryker prioritet på stöd till barn utan föräldrar eller där föräldrarna är omyndigförklarade.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 2",
+      "quote": "Efter en genomförd utvärdering av insatsen har ett behov identifierats att permanent tillföra dessa personella resurser till Överförmyndarkansliet för att säkerställa en långsiktig stabilitet och hög kvalitet i verksamheten.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V",
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "överförmyndarkansliet",
+        "personella resurser",
+        "kvalitet"
+      ],
+      "id": "2025-01-21_ko_2",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Vätternvattenprojektet: 536,6 mnkr borgensförbindelse besluten",
+      "summary": "Kommunstyrelsen antog tilläggsavtal för Vätternvatten AB och garanterar lånefinansiering på 536,6 miljoner kronor för Fas 1 av vattenledningsprojektet.",
+      "detail": "Vätternvatten AB har uppdaterat kostnadsbedömningen för Fas 1 av vattenledningsprojektet. Utgifterna ökat från tidigare budgeterad 335 mnkr till ca 650 mnkr, en ökning på 315 mnkr (motsvarar 8,6 procent av anläggningskostnaden). För att ta höjd för osäkerhet höjs budgeten till totalt 700 mnkr.\n\nÖkningarna förklaras av förändrad tidplan, ökat kostnadsindex, nya kunskaper om befintliga förhållanden, metodval, markåtkomst, fastighetskostnader och vald reservvattenlösning.\n\nÖrebro kommun ingår borgen för Vätternvatten AB:s låneförpliktelser upp till 536,6 miljoner kronor. Ramen för kommunkoncernens samlade externa låneskuld höjs till 23 700 miljoner kronor för perioden 2025-2028. Ärendet ska till Kommunfullmäktige. Helena Ståhl (SD) deltog inte i beslutspunkt 3.",
+      "category": "infrastruktur",
+      "contested": false,
+      "location": "Vätternvägen",
+      "paragraph_ref": "§ 3",
+      "quote": "Den uppdaterade budgeten innebär att aktieägaravtalet behöver uppdateras genom ett tilläggsavtal samt att nya borgensbeslut fattas av respektive kommun för att finansiera Fas 1.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Vätternvatten",
+        "vattenledning",
+        "borgensförbindelse",
+        "infrastruktur",
+        "536miljonerkronor"
+      ],
+      "id": "2025-01-21_ko_3",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Oslo-Stockholm 255 AB styrdokument reviderade",
+      "summary": "Kommunstyrelsen godkände revideringar av bolagsordning, ägardirektiv och aktieägaravtal för Oslo-Stockholm 255 AB, ett gemensamt projekt mellan flera kommuner och regioner.",
+      "detail": "Oslo-Stockholm 255 AB ägs till lika delar av Örebro Rådhus AB, Region Örebro läns förvaltning AB, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland. Styrdokumenten uppdaterades efter revisorernas synpunkter och praktisk tillämpning.\n\nÖrebro Rådhus AB får i uppdrag att ingå nytt aktieägaravtal med de andra aktieägarna. Föreslagna ändringar i bolagsordning och ägardirektiv godkänns. Ärendet ska till Kommunfullmäktige för slutligt beslut.\n\nHelena Ståhl (SD) reserverade sig specifikt mot förskjutningen av beslut om verksamhetsmål och budget från bolagsstämman till styrelsen, som hon ser som en maktkcentalisering. Hon menar att bolagsstämman behövs som kontrollfunktion för stora projekt med kostnadsrisker.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 4",
+      "quote": "Den här typen av projekt har en förmåga att dra i väg ekonomiskt, därav är bolagsstämman en bra kontrollfunktion för att just hantera verksamhetsmål och budget för varje år.",
+      "quote_page": "Yrkande Ståhl (SD)",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Oslo-Stockholm255",
+        "bolagsstyrning",
+        "styrdokument",
+        "tvåkommunssamarbete"
+      ],
+      "id": "2025-01-21_ko_4",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Landsbygdsdelegationens verksamhetsplan 2025 antagen",
+      "summary": "Verksamhetsplan för Landsbygdsdelegationen antagen. Delegationen fortsätter arbeta för hållbar utveckling och tillväxt på Örebro kommuns landsbygd.",
+      "detail": "Landsbygdsdelegationen är en delegation under Kommunstyrelsen som följer upp och samordnar landsbygdsfrågor i Örebro kommun. Delegationen arbetar långsiktigt och strategiskt för hållbar utveckling och tillväxt på kommunens landsbygd.\n\nMarkus Allard (ÖrP) yrka att delegationen inte ska ha någon verksamhet, medan Susanne Lindholm Henningsson (KD) yrka på att delegationen antingen ges större mandat med egen budget och tydligare resultatstyrning, eller läggs ned och målen bevakas genom ordinarie målstyrning i nämnderna. Båda reserverade sig.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 9",
+      "quote": "Landsbygdsdelegationen är en delegation utgående från Kommunstyrelsen som följer upp och samordnar landsbygdsfrågor i Örebro kommun.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP",
+          "KD"
+        ],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "landsbygd",
+        "delegation",
+        "tillväxt"
+      ],
+      "id": "2025-01-21_ko_9",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Jämställdhetsdelegationens verksamhetsplan 2025 antagen",
+      "summary": "Jämställdhetsdelegationens verksamhetsplan för 2025 antagen. ÖrP och SD reserverade sig för nedläggning av delegationen.",
+      "detail": "Jämställdhetsdelegationen under Kommunstyrelsen samordnar jämställdhetsfrågor i Örebro kommun. Delegationen tar fram årlig verksamhetsplan för fastställelse.\n\nMarkus Allard (ÖrP) yrka att delegationen inte ska ha någon verksamhet. Helena Ståhl (SD) yrka på att verksamhetsplanen avslås och delegationen avvecklas, med argumentation att det är slöseri med skattepengar och att jämställdhet bör genomsyra hela organisationen istället för att ha en särskild delegation.\n\nBåda reserverade sig mot beslutet. Övriga partier stödde jämställdhetsarbetet och delegationen.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 10",
+      "quote": "Jämställdhetsdelegationen är en delegation under Kommunstyrelsen och samordnar jämställdhetsfrågorna i Örebro kommun.",
+      "quote_page": "s. 11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "jämställdhet",
+        "delegation",
+        "kvinnor"
+      ],
+      "id": "2025-01-21_ko_10",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Örebro undertecknar CEMR-deklarationens nio nya jämställdhetsartiklar",
+      "summary": "Kommunstyrelsen beslöt att Örebro kommun undertecknar nio nya artiklar (31-39) till CEMR-deklarationen om jämställdhet, uppdaterad december 2022.",
+      "detail": "CEMR-deklarationen antogs ursprungligen 2006 och Örebro skrev under 2008. Deklarationen uppdaterades december 2022 med nio nya artiklar om sakområden tidigare inte tillräckligt täckta: jämställdhet som drivkraft för hållbar utveckling, könsbaserat våld inklusive cybervåld, hot mot förtroendevalda, multipel diskriminering, flexibla arbetsplatser, digital teknik, sexuell och reproduktiv hälsa, klimatåtgärder och krishantering.\n\nSverige kommuner och regioner rekommenderar alla kommuner att skriva under. Kommunstyrelsens ordförande John Johansson (S) ges i uppdrag att underteckna för Örebro kommuns räkning.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) reserverade sig för avslag, varvid SD menar att fokus på \"toxisk maskulinitet\" motsäger värdegrund om likvärdighet oavsett kön.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 11",
+      "quote": "Befintliga undertecknare av deklarationen bjuds in att ställa sig bakom dessa tillägg och ta med dessa nya åtaganden i sitt arbete med att genomföra CEMR-deklarationen för jämställdhet.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "CEMRdeklarationen",
+        "jämställdhet",
+        "jämställdhetsintegrering"
+      ],
+      "id": "2025-01-21_ko_11",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Försäljning fastighet Palmbohult 2:33 för 13,5 mnkr godkänd",
+      "summary": "Reservationsavtal för försäljning av markfastigheten Palmbohult 2:33 till Castellum Mitt AB för ca 13,5 miljoner kronor godkänd.",
+      "detail": "Castellum Mitt AB avser att uppföra en lager-, logistik- och tillverkningsbyggnad för hyresgäster på fastigheten. Priset beräknas till ca 13,5 miljoner kronor. Då köpeskillingen överstiger 10 miljoner kronor krävs beslut av Kommunstyrelsen enligt gällande reglemente.\n\nMarkplanerings- och exploateringsnämnden hanterade ärendet den 10 december 2024. Markus Allard (ÖrP) yrka först på återremiss med motiveringen att fördjupat utvärderingsunderlag behövs, därefter på avslag. Ordföranden förklarade att ärendet avgörs omedelbar.\n\nNämndens ordförande får i uppdrag att underteckna reservationsavtal och senare överlåtelseavtal, samt godkänna justeringar i situationsplan och byggnadskonstruktion.",
+      "category": "bygg",
+      "contested": false,
+      "location": "Palmbohult 2:33",
+      "paragraph_ref": "§ 12",
+      "quote": "Castellum Mitt AB avser att uppföra en lager-, logistik- och tillverkningsbyggnad för hyresgäster.",
+      "quote_page": "s. 15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "fastighetsförsäljning",
+        "Castellum",
+        "logistik",
+        "Palmbohult"
+      ],
+      "id": "2025-01-21_ko_12",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Försäljning av del av fastighet Attersta 7:8 till Stena Metall AB",
+      "summary": "Reservationsavtal för försäljning av markfastighet Attersta 7:8 till Stena Metall AB för 15 miljoner kronor godkänd.",
+      "detail": "Stena Metall AB avser att uppföra återvinningsstation och kontor för egen verksamhet. Företaget tilldelades markanvisning 2021 när Örebro kommun förvärvade Stena Metalls tidigare fastighet Virkeshandlaren 4 på Aspholmen. Detaljplaneläggning för industri- och verksamhetsmark påbörjades samtidigt.\n\nFöre detta reservationsavtal löper ut 31 december 2024. Köpeskillingen är 15 miljoner kronor. Ärendet krävde Kommunstyrelsens beslut då beloppet överstiger 10 miljoner kronor.\n\nMarkplanerings- och exploateringsnämndens ordförande får i uppdrag att underteckna reservationsavtal och senare överlåtelseavtal, samt godkänna ändringar i situationsplan och byggnader.",
+      "category": "bygg",
+      "contested": false,
+      "location": "Attersta 7:8",
+      "paragraph_ref": "§ 13",
+      "quote": "Stena Metall AB avser att uppföra en återvinningsstation samt kontor för egen verksamhet på fastigheten.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Attersta",
+        "Stena Metall",
+        "återvinning",
+        "industrifastighet"
+      ],
+      "id": "2025-01-21_ko_13",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Motionen om ställplatser för husbilar avslogs",
+      "summary": "Motion från Susanne Lindholm Henningsson (KD) om utredning och iordningställande av ställplatser för husbilar i nära anslutning till Örebro city avslogs.",
+      "detail": "Motionen inlämnades 22 november 2023 och föreslår att lämpliga platser för husbilar i nära anslutning till Örebro city utredas och därefter iordningställas.\n\nMarkplanerings- och exploateringsnämnden bedömde att motionen bör avslås med motiveringen att detta för närvarande inte är en prioriterad fråga. Miljö- och stadsbyggnadsförvaltningen genomförde tidigare utredning (2023-11-15) om ställplatser.\n\nFem ledamöter reserverade sig för bifallsyrkanden: Susanne Lindholm Henningsson (KD), Helena Ståhl (SD), Martha Wicklund (V), Markus Allard (ÖrP) och Karolina Wallström (L). Ärendet går vidare till Kommunfullmäktige.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": "Örebro city",
+      "paragraph_ref": "§ 15",
+      "quote": "Motionen behandlar möjligheten för Örebro kommun att utöka antalet ställplatser för husbilar och innehåller följande förslag: Lämpliga platser för husbilar i nära anslutning till Örebro city ska utredas.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M"
+        ],
+        "against": [
+          "L",
+          "KD",
+          "V",
+          "ÖrP",
+          "SD"
+        ],
+        "abstained": [
+          "C",
+          "MP"
+        ],
+        "result": "Avslag"
+      },
+      "tags": [
+        "husbilar",
+        "ställplatser",
+        "turism",
+        "Örebrocity"
+      ],
+      "id": "2025-01-21_ko_15",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Motion om småhusbebyggelse anses tillgodosedd",
+      "summary": "Motion från Helena Ståhl (SD) m.fl. om prioritering av småhusbebyggelse vid kommunal markförvärv anses tillgodosedd.",
+      "detail": "Motion inlämnades 12 december 2023 med förslag att Örebro kommun ska ha prioriterat syfte för småhusplanering när kommunen förvärvar mark i områden med förutsättningar för bostadsbyggande.\n\nMarkplanerings- och exploateringsnämnden bedömde att motionen redan är tillgodosedd. Örebro kommun arbetar redan med att prioritera att tillgången på bostäder ska överensstämma med efterfrågan.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) reserverade sig för bifallsyrkanden, vilket indikerar att de ansåg att målet inte är tillräckligt implementerat. Ärendet går vidare till Kommunfullmäktige.",
+      "category": "bygg",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 16",
+      "quote": "Motionen innehåller ett förslag om att kommun ska ha ett prioriterat syfte för planering av småhus, när kommunen förvärvar mark i områden och orter där förutsättningar finns för bostadsbyggande.",
+      "quote_page": "s. 21",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "ÖrP",
+          "SD"
+        ],
+        "result": "Tillgodosedd"
+      },
+      "tags": [
+        "småhusbebyggelse",
+        "bostäder",
+        "markanvändning"
+      ],
+      "id": "2025-01-21_ko_16",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Motion om Garphytteklint naturreservat besvarad",
+      "summary": "Motion från Lea Strandberg (MP) om långsiktigt skydd för Garphytteklint ansågs besvarad.",
+      "detail": "Motion inlämnades 14 februari 2024 med förslag om att Örebro kommun långsiktigt skyddar Garphytteklint och dess artrikedom.\n\nMiljö- och stadsbyggnadsförvaltningen delar motionärens åsikt att Garphytteklint och dess höga naturvärden bör få långsiktigt skydd. Pågår uppdrag för att undersöka möjligheter till naturreservatsbildning. Parallellt undersöker kommunen möjligheten att ingå naturvårdsavtal som alternativ lösning.\n\nMartha Wicklund (V) reserverade sig för bifallsyrkande, vilket indikerar att hon önskat att reservatsbeslut redan hade fattats. Ärendet går vidare till Kommunfullmäktige.",
+      "category": "miljo",
+      "contested": false,
+      "location": "Garphytteklint",
+      "paragraph_ref": "§ 17",
+      "quote": "Miljö- och stadsbyggnadsförvaltningen delar motionärens åsikt att Garphytteklint och dess höga naturvärden bör åtnjuta ett långsiktigt skydd.",
+      "quote_page": "s. 22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP",
+          "SD"
+        ],
+        "result": "Besvarad"
+      },
+      "tags": [
+        "Garphytteklint",
+        "naturreservat",
+        "miljö",
+        "naturvärden"
+      ],
+      "id": "2025-01-21_ko_17",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    },
+    {
+      "headline": "Ej verkställda SoL- och LSS-beslut rapporterade",
+      "summary": "Rapport om ej verkställda socialtjänst- och LSS-beslut för kvartal 2 2024 lagd till handlingarna. Socialnämnden rapporterade ökande antal overkställda beslut.",
+      "detail": "Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden är skyldiga att rapportera kvartalsvis till Inspektionen för vård och omsorg (IVO) och Stadsrevisionen om biståndsbeslut inte verkställts inom tre månader.\n\nFunktionsstödsnämnden minskade från 180 (kv 1) till 157 rapporterade beslut. Vid kvartalets slut var 97 overkställda (jämfört med 108 i kv 1). Vård- och omsorgsnämnden hade 15 rapporterade beslut, minskat med 3. Socialnämnden ökade från 25 till 41 overkställda beslut. Huvudorsak: saknas plats eller individ tackat nej.\n\nHelena Ståhl (SD) och Martha Wicklund (V) yrka på att framtida rapporter från Social- och Vård- och omsorgsnämnden ska inkludera anledningar till väntan (som Funktionsstödsnämnden redan gör) och att skarpt krav ställs för att undvika IVO-avgifter. Yrkandena avslogs. Ärendet går vidare till Kommunfullmäktige.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 14",
+      "quote": "För Socialnämnden har det skett en ökning med ej verkställda beslut sedan kvartal 1 2024. Kvartal 1 rapporterades 25 ej verkställda beslut och för kvartal 2 rapporteras 41 ej verkställda beslut.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "V",
+          "ÖrP",
+          "SD",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "SoL",
+        "LSS",
+        "välfärd",
+        "verkställning",
+        "socialtjänst"
+      ],
+      "id": "2025-01-21_ko_14",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-01-21"
+    }
+  ],
+  "decisions_count": 13,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf",
+  "headline": "Budget 2025 antagen trots omfattande kritik från oppositions",
+  "motions_of_interest": [
+    {
+      "title": "Ställplatser för husbilar i Örebro city",
+      "party": "KD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Markförvärv för småhusbebyggelse",
+      "party": "SD",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Skydd av Garphytteklint som naturreservat",
+      "party": "MP",
+      "status": "Besvarad"
+    },
+    {
+      "title": "Kvalitetssäkrat kontrollsystem för föreningsbidrag",
+      "party": "SD",
+      "status": "Remitterad till Kultur- och fritidsnämnden"
+    },
+    {
+      "title": "Meetings+ öppnas upp för allmän tillgång",
+      "party": "MP",
+      "status": "Bereds av Kommunstyrelsen"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_1.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_2.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_3.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_4.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_9.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_10.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_11.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_12.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_13.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_15.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_16.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_17.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_14.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2025-01-21_Kommunstyrelsen"
+  }
+}

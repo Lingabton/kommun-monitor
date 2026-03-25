@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-19_ko_194",
+  "headline": "Motion om SMR-reaktor i Örebro avslogs",
+  "summary": "Motion från Carola Sunesson (SD) m.fl. om att undersöka förutsättningarna för SMR-reaktor i kommunen avslogs.",
+  "detail": "Carola Sunesson m.fl. (SD) motionerade 2022-11-23 om att Örebro kommun ska undersöka förutsättningarna för en framtida etablering av SMR-reaktor (Small Modular Reactors) i kommunen.\n\nBedömningen är att det finns alltför många osäkerhetsfaktorer för att Örebro kommun ska lägga pengar och resurser på att undersöka detta. Frågan behöver först stabiliseras på nationell nivå innan det kan vara aktuellt för kommunen.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på bifall till motionen medan Martha Wicklund (V) yrkade på avslag. Kommunstyrelsen beslutade enligt avslaget.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 194",
+  "tags": [
+    "SMR-reaktor",
+    "energi",
+    "miljö",
+    "kärnkraft"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Det finns alltför många osäkerhetsfaktorer för att Örebro kommun ska lägga pengar och resurser på att undersöka förutsättningarna för en framtida etablering av SMR-reaktor i kommunen.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_194.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_194/"
+  }
+}

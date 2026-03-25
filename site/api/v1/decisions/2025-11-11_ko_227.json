@@ -1,0 +1,46 @@
+{
+  "id": "2025-11-11_ko_227",
+  "headline": "Örebro stödjer regional handlingsplan för civilsamhälle",
+  "summary": "Kommun svarar positivt på remiss om ny regional handlingsplan för civilsamhälle och social ekonomi 2026-2030. ÖrP och en C-ledamot reserverar sig.",
+  "detail": "Region Örebro län remitterade en ny regional handlingsplan för civilsamhälle och social ekonomi 2026-2030 som del av Regional utvecklingsstrategi 2022-2030 (RUS). Handlingsplanen syftar till ökat och stärkt deltagande av civilsamhälle och social ekonomi i länets utveckling.\n\nPlanen har fyra insatsområden med prioriterade aktiviteter och involverar civilsamhällets organisationer, offentlig sektor och näringslivet.\n\nKommunstyrelsen godkände det framlagda yttrandet. Markus Allard (ÖrP) yrkade på avslag. Anna Ekström (C) anmälde jäv och deltog inte i beredningen. Ärendet justerades omedelbar.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 227",
+  "tags": [
+    "civilsamhälle",
+    "regional samverkan",
+    "social ekonomi",
+    "örebro län"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Förslag till yttrande antas och överlämnas till Region Örebro län.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_227.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_227/"
+  }
+}

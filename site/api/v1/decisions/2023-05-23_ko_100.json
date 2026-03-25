@@ -1,0 +1,46 @@
+{
+  "id": "2023-05-23_ko_100",
+  "headline": "Ombudgetering IT-objekt mellan nämnder",
+  "summary": "Kommunstyrelsen omfördelade 43,5 miljoner kronor mellan nämnder för IT-objekt inom ramfördelningen för den nya nämndstrukturen 2023.",
+  "detail": "Ärendet behandlade ombudgetering av medel mellan nämnder på grund av kostnadsökningar och oförutsedda kostnader för budgetåret 2023. Ombudgeteringen rörde flytt av nämndernas budget för IT-objekt till Kommunstyrelsen.\n\nMarkus Allard (ÖrP) kritiserade bristen på detaljerad information och yrkade på återremiss för att få fullständig redogörelse över vad de 43,5 miljonerna faktiskt avsåg. Han yrkade i andra hand på avslag.\n\nOrdförande John Johansson (S) ställde återremissyrkandet under proposition och fann att Kommunstyrelsen skulle avgöra ärendet omedelbar. Efter proposition beslutade Kommunstyrelsen enligt Kommunledningsförvaltningens ursprungliga förslag.\n\nMarkus Allard reserverade sig skriftligt mot beslutet till förmån för sitt eget yrkande.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 100",
+  "tags": [
+    "budget",
+    "IT",
+    "ombudgetering",
+    "förvaltning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Ombudgetering mellan nämnder sker enligt Kommunledningsförvaltningens förslag.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2023-05-23_Kommunstyrelsen",
+    "date": "2023-05-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-23_ko_100.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-23_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-23_ko_100/"
+  }
+}

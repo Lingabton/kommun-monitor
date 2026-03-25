@@ -1,0 +1,44 @@
+{
+  "id": "2023-11-13_ko_227",
+  "headline": "Förpackningsavfallstaxa för flerfamiljshus godkänd från årsskiftet",
+  "summary": "Kommunstyrelsen antar Förpackningsavfallstaxa för fastighetsnära insamling av förpackningar i flerfamiljshus, gällande från 1 januari 2024.",
+  "detail": "Teknik- och servicenämnden har beslutat att Örebro kommun ska ha ett auktorisationssystem för hämtning av förpackningar (FNI) i flerfamiljshus från 1 januari 2024.\n\nTaxan reglerar den maximala kostnad som auktoriserade privata entreprenörer får ta betalt för att hämta förpackningar fastighetsnära i flerfamiljshus. Taxan beslutas enligt samma process som avfallstaxan, dvs genom Kommunfullmäktige. En fristående taxa underlättar framtida justeringar.\n\nÖrebro för Polen avslogar förslaget. Vänster yrkar på tillägg om utvärdering av totalkostnaden för förpackningsåtervinningen. John Johansson (S) avslogar Vänsters tillägg.\n\nÄrendet går vidare till Kommunfullmäktige.\n\nBåda partierna reserverar sig.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 227",
+  "tags": [
+    "avfallshantering",
+    "förpackningar",
+    "taxa",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun behöver sätta en taxa för hur mycket en tömning av ett kärl med förpackningsmaterial får kosta ut mot fastighetsägare. Taxan reglerar vad de auktoriserade privata entreprenörerna maximalt får ta betalt.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_227.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_227/"
+  }
+}

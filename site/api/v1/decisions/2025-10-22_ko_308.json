@@ -1,0 +1,43 @@
+{
+  "id": "2025-10-22_ko_308",
+  "headline": "Sammanträdestider Kommunfullmäktige 2026 fastställda",
+  "summary": "Kommunfullmäktige fastställde sammanträdestider för 2026 med elva ordinarie möten genomförda på tisdagar och onsdagar mellan januari och december.",
+  "detail": "Ordinarie sammanträden med Kommunfullmäktige ska under år 2026 hållas:\n- Tisdag 27 januari\n- Onsdag 25 februari\n- Onsdag 25 mars\n- Onsdag 29 april\n- Tisdag 19 maj\n- Måndag 8 juni (preliminärt) – tisdag 9 juni\n- Onsdag 23 september\n- Onsdag 21 oktober\n- Tisdag 17 november\n- Onsdag 9 december\n\nTid för eventuella extra sammanträden reserveras till onsdag 18 mars och onsdag 26 augusti, klockan 09.00–17.00.\n\nOrP föreslog att budgetdebatten 2027 genomförs på en dag (stryka 8 juni), men detta avslogs. L och KD föreslog att nämnderna inte får planera sammanträden samma vecka som kommunfullmäktige sammanträdar, men detta avslogs också.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 308",
+  "tags": [
+    "procedur",
+    "möten",
+    "organisering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "ÖrP",
+      "L",
+      "KD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Ordinarie beslutssammanträden med Kommunstyrelsen ska under år 2026 hållas enligt en särskild propositionsordning för att minska ordinarie tid för ärenden mellan Kommunstyrelsen och Kommunfullmäktige.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-10-22_Kommunfullmäktige",
+    "date": "2025-10-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_308.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-22_ko_308/"
+  }
+}

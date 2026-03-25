@@ -1,0 +1,44 @@
+{
+  "id": "2024-08-28_ko_206",
+  "headline": "Skolskjuts - motion tillgodosedd",
+  "summary": "Motion om skolskjuts i mån av plats anses tillgodosedd; förvaltningen utreder redan frågan.",
+  "detail": "Susanne Lindholm Henningsson (KD) motionerade för att utreda möjlighet för elever utan rätt till skolskjuts att åka med i mån av plats.\n\nFörskole- och grundskoleförvaltningen utreder redan frågan om skolskjuts i mån av plats. Motionens syfte bedöms därför vara uppfyllt.\n\nKommunfullmäktige beslutade att motionen anses tillgodosedd. KD reserverade sig för att vilja bifalla motionen i sin helhet.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 206",
+  "tags": [
+    "skolskjuts",
+    "skola",
+    "barn"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "L",
+      "ÖrP",
+      "V",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Förskole- och grundskoleförvaltningen redan utreder frågan om skolskjuts i mån av plats.",
+  "quote_page": "s. 27",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_206.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_206/"
+  }
+}

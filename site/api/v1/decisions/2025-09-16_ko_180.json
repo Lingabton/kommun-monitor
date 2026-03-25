@@ -1,0 +1,46 @@
+{
+  "id": "2025-09-16_ko_180",
+  "headline": "Inbetalning av 32,9 mnkr till Kommuninvest under 2025-2028",
+  "summary": "Kommunstyrelsen beslutar att Örebro kommun ska inbetala maximalt 32,9 miljoner kronor till Kommuninvest Ekonomisk förening under åren 2025-2028 enligt medlemsförutsättningarna.",
+  "detail": "Örebro kommun är medlem i Kommuninvest Ekonomisk förening och måste bidra med obligatorisk medlemsinsats för att behålla sitt medlemskap. Föreningen är en finansiell samarbetspartner och långivare för kommunen.\n\nVolkstymnan beslutar vart fjärde år om nivån för medlemmarnas obligatoriska insatskapital. Enligt Kapitaliseringsplanen från 2024 ska insatskapitalet ökas till 1400 kronor per invånare till år 2028. Efter ändrade beräkningsmodeller från Standard & Poor's sänktes dock målnivån för 2025 till 1200 kronor per invånare.\n\nÖrebro kommun behöver inbetala totalt cirka 32,9 miljoner kronor under perioden 2025-2028, vilket ökar insatskapitalet från 171,7 miljoner kronor till 204,6 miljoner kronor. Hösten 2025 ska 3,7 miljoner kronor inbetalas först.\n\nBeslutet fattas enhälligt och ska vidare till Kommunfullmäktige för formell behandling. Ekonomidirektör Johanna Larsson bemyndigas att vidta nödvändiga åtgärder.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 180",
+  "tags": [
+    "Kommuninvest",
+    "insatskapital",
+    "medlemskap",
+    "finansiering",
+    "långivare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommuninvest är en viktigt finansiell samarbetspartner och långivare för kommunen och kommunens bolag, och fortsatt medlemskap förutsätter att kommunen bidrar till Kommuninvests kapitalisering genom inbetalning av insatskapital.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2025-09-16_Kommunstyrelsen",
+    "date": "2025-09-16",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-16_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-16_ko_180.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-16_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-16_ko_180/"
+  }
+}

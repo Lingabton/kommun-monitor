@@ -1,46 +1,40 @@
 {
   "id": "2024-04-09_ko_77",
-  "headline": "Kumbro Vind får nya aktieägare – ÖLF och Futurum",
-  "summary": "Kommunstyrelsen godkände att Örebro läns Flygplats AB (ÖLF) och Futurum Fastigheter blir aktieägare i Kumbro Vind AB för att möjliggöra elförsörjning från vindkraften och säkerställa gemensam kontroll över strategiska beslut.",
-  "detail": "Kumbro Vind AB ägs till 100% av Kumbro Utveckling AB (80% Örebro kommun via Örebro Rådhus, 20% Kumla kommun). ÖLF ägs av Region Örebro läns förvaltning (44,95%), Örebro Rådhus AB (44,95%), Kumla kommun (5,05%) och Karlskoga kommun (5,05%).\n\nKumbro Vind och ÖLF bedömer att det vore fördelaktigt att ÖLF fortsättningsvis upphandlar elkraft från Kumbro Vind. Kumbro Vind har tillräcklig produktionskapacitet.\n\nFör att möjliggöra detta föreslogs ändringar i Kumbro Vinds bolagsordning för att säkerställa att ÖLF – tillsammans med Örebro kommun, Kumla kommun och Futurum – får avgörande inflytande över Kumbro Vinds strategiska mål.\n\nBeslutet förutsatte godkännande från Kumla kommun, Region Örebro län och Karlskoga kommun.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag. Vänsterpartiet yrkade på att starta utredning om att sälja/lägga ner ÖLF, vilket avslogs.",
-  "category": "ovrigt",
+  "headline": "Utökat ägande i Kumbro Vind AB för elförsörjning",
+  "summary": "Kommunstyrelsen godkänner att Örebro läns flygplats och Futurum blir aktieägare i Kumbro Vind AB för att möjliggöra elkraftleverans. Bolagsordning och aktieägaravtal uppdateras.",
+  "detail": "Kumbro Vind AB ägs till 100 % av Kumbro Utveckling AB, som ägs till 80 % av Örebro Rådhus AB och 20 % av Kumla kommun.\n\nKumbro Vind och Örebro läns flygplats (ÖLF) bedömer att det vore fördelaktigt om ÖLF upphandlar elkraft från Kumbro Vind. Kumbro Vind har tillräcklig produktionskapacitet genom befintliga vindkraftsanläggningar.\n\nFör att möjliggöra detta föreslås ändringar i Kumbro Vinds bolagsordning för att säkerställa att ÖLF tillsammans med Örebro kommun, Kumla kommun och Futurum får avgörande inflytande över strategiska mål och viktiga beslut.\n\nBåde ÖLF och Futurum blir aktieägare i Kumbro Vind. Mindre aktiepost överlåts från Kumbro Utveckling till respektive bolag. Följdändringar görs i aktieägaravtal mellan ägarna i Kumbro Utveckling.\n\nBeslut förutsätter godkännande från Kumla kommun, Region Örebro län och Karlskoga kommun. Karolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag. Vänsterpartiet yrkade på utredning om flygplatsen.",
+  "category": "infrastruktur",
   "contested": true,
-  "location": null,
+  "location": "Örebro läns flygplats",
   "paragraph_ref": "§ 77",
   "tags": [
-    "Kumbrovind",
-    "vindkraft",
-    "elförsörjning",
-    "aktieägare",
-    "flygplats"
+    "Kumbro Vind",
+    "elkraft",
+    "flygplats",
+    "bolag",
+    "energi"
   ],
   "voting": {
     "for": [
       "S",
-      "M",
-      "C"
+      "M"
     ],
-    "against": [
-      "L",
-      "ÖrP"
-    ],
-    "abstained": [
-      "V"
-    ],
+    "against": [],
+    "abstained": [],
     "result": "Bifall"
   },
-  "quote": "Kumbro Vind och ÖLF bedömer att det vore fördelaktigt att ÖLF fortsättningsvis upphandlar sin elkraft av Kumbro Vind.",
-  "quote_page": "s. 14",
+  "quote": "För att möjliggöra att ÖLF upphandlar elkraft från Kumbro Vind föreslås att vissa ändringar görs i Kumbro Vinds bolagsordning.",
+  "quote_page": "s. 15",
   "meeting": {
-    "id": "2024-04-09_ko",
+    "id": "2024-04-09_Kommunstyrelsen",
     "date": "2024-04-09",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_77.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_77/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_77.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_77/"
   }
 }

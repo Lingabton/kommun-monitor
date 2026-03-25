@@ -1,0 +1,36 @@
+{
+  "id": "2024-02-14_ko_48",
+  "headline": "Motion om Open Art med barn avslogs, kostnadskritik från ÖrP",
+  "summary": "Kommunfullmäktige bordlade ÖrP:s motion om att omvandla Open Art till Children's Open Art för att spara pengar.",
+  "detail": "ÖrP lämnade motion om att göra om Open Art till barnens Open Art för att spara kostnader samtidigt som barns skapandekraft lyfts.\n\nKommunledningen menade att detta skulle förändra konceptet i grunden. Open Art har en unik position som Skandinaviens största biennal för samtidskonst i det offentliga rummet tack vare vissa verkshöjdskrav. Kommunledningen föreslår istället nya samarbetsformer och gemensam finansiering med näringslivet, samtidigt som anslagen dras ner.\n\nÄrendet bordlades för fortsatt behandling.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 48",
+  "tags": [
+    "Open Art",
+    "kultur",
+    "barn",
+    "budget"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Tack vare denna verkshöjd har OpenArt en unik position som Skandinaviens största biennal för samtidskonst i det offentliga rummet.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_48.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_48/"
+  }
+}

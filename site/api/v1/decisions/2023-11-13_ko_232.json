@@ -1,0 +1,44 @@
+{
+  "id": "2023-11-13_ko_232",
+  "headline": "Överenskommelse med civilsamhället 2024-2027 godkänd med nya villkor",
+  "summary": "Kommunstyrelsen godkänner ny överenskommelse om samverkan mellan det civila samhället och Örebro kommun för 2024-2027. Samverkansrådet får mandat att utesluta aktörer som motarbetar samverkan.",
+  "detail": "Sedan 2010 finns överenskomst om samverkan mellan Örebro kommuns civila samhälle och kommunen. Tidigare överenskommelse gällde 2020-2023. Den har utvärderats och en arbetsgrupp tog fram förslag för perioden 2024-2027.\n\nKommunstyrelsen godkänner överenskommelsen och beslutar:\n1. Samverkansrådet ges mandat att besluta om eventuell uteslutning av ansluten aktör om det kan påvisas att aktören aktivt motarbetar överenskommelsens syfte och samverkan.\n2. Under perioden 2024-2027 ska en översyn av stödstrukturen genomföras, med fokus på Samverkansrådet och C-nätverket, för att säkra en behovsanpassad struktur.\n\nArendet går vidare till Kommunfullmäktige.\n\nLiberalerna lämnar protokollsanteckning om önskemål om utredning av samverkansavtal med icke-registrerade föreningar.\n\nÖrebro för Polen reserverar sig.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 232",
+  "tags": [
+    "civilsamhälle",
+    "samverkan",
+    "överenskommelse"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Samverkansrådet ges mandat att besluta om eventuell uteslutning av ansluten aktör i det fall det kan påvisas att en aktör aktivt motarbetar syftet med överenskommelsen och samverkan mellan det civila samhället och kommunen.",
+  "quote_page": "s. 14-15",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_232.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_232/"
+  }
+}

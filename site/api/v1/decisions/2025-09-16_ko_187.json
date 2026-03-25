@@ -1,0 +1,45 @@
+{
+  "id": "2025-09-16_ko_187",
+  "headline": "Motioner remitterad – nyckeltal för chefsledning och barnörygget",
+  "summary": "Två motioner remitteras för vidare beredning: Vänsterpartiet förespråkar nyckeltal för anställda per chef, SD kräver åtgärder mot pedofiler och sexuella förövare.",
+  "detail": "Motion från Martha Wicklund (V) m.fl. om att upprätta nyckeltal för antal anställda per chef remitteras till Kommunstyrelsen för egen beredning.\n\nMotion från Helena Ståhl (SD) m.fl. om att skydda barnen mot pedofiler och sexuella förövare remitteras till Grundskolenämnden för beredning.\n\nBådaremitteringarna godkänns enhälligt.",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 187",
+  "tags": [
+    "motioner",
+    "arbetsledarkvot",
+    "barnsäkerhet",
+    "skola"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Motion från Martha Wicklund (V) m.fl. om att upprätta nyckeltal för antal anställda per chef bereds av Kommunstyrelsen.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2025-09-16_Kommunstyrelsen",
+    "date": "2025-09-16",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-16_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-16_ko_187.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-16_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-16_ko_187/"
+  }
+}

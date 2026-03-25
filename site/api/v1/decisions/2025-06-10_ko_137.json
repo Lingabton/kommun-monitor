@@ -1,0 +1,44 @@
+{
+  "id": "2025-06-10_ko_137",
+  "headline": "Svar på remiss: Regeringens vandelsregler avges utan klara ställningstaganden",
+  "summary": "Kommunstyrelsen antog svar på remiss från Justitiedepartementet om skärpta vandelsregler för uppehållstillstånd utan att tydligt avvisa förslagen.",
+  "detail": "Kommunstyrelsen skulle svara på Justitiedepartementets remiss om betänkande \"Skärpta och tydligare krav på vandel för uppehållstillstånd\" (SOU 2025:33). Utredningen föreslår att Migrationsverket får tillgång till information från kommuner.\n\nKommunledningsförvaltningens förslag antogs, där Kommunstyrelsen accepterade att lämna ett yttrande utan att tydligt avvisa förslagen. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade avslag på förslaget. Cristian Rehn Janowicz (V) yrka att yttrandet tydligt avstyrka lagändringen. Dessa yrkanden avslogs.\n\nWallström (L) och Henningsson (KD) deltog inte i beslutet.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 137",
+  "tags": [
+    "remiss",
+    "vandel",
+    "uppehållstillstånd",
+    "migrationsverket",
+    "rättssäkerhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Justitiedepartementet har inbjudit Örebro kommun att lämna yttrande över betänkande Skärpta och tydligare krav på vandel för uppehållstillstånd.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_137.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_137/"
+  }
+}

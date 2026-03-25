@@ -1,0 +1,44 @@
+{
+  "id": "2025-05-21_ko_144",
+  "headline": "Motion om enprocentsregeln för konst avslåsed delvis",
+  "summary": "Kommunfullmäktige beslutade att motionens förslag om samverkan vid konstplacering redan är tillgodosett, men avslogs förslaget om att fem procent av medlen ska användas till samverkansarbete.",
+  "detail": "Martha Wicklund (V) m.fl. motionerade om att utveckla enprocentsregeln för offentlig konst. Motionens två förslag var: 1) att samverkan vid placering och ämne för konstverk ska vara regel, 2) att fem procent av medlen ska användas till samverkansarbete.\n\nKommunledningen bedömde att samverkan redan är ett stående inslag vid framtagandet av konstverk. Att alltid ställa krav på samverkan i en förutbestämd utsträckning kan begränsa konstnärlig frihet och avskräcka vissa konstnärer.\n\nKommunfullmäktige beslutade att motionens första yrkande anses tillgodosett men avslogs det andra yrkandet. Vänsterpartiet och ÖrebroPartiet reserverade sig mot detta.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 144",
+  "tags": [
+    "enprocentsregeln",
+    "offentlig konst",
+    "kultur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall delvis"
+  },
+  "quote": "Samverkan gällande placering och ämne för konstverk som finansieras med enprocentsregeln är idag redan ett stående och grundläggande inslag vid framtagandet.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-05-21_Kommunfullmäktige",
+    "date": "2025-05-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-21_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-21_ko_144.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-21_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-21_ko_144/"
+  }
+}

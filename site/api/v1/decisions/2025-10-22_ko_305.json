@@ -1,0 +1,47 @@
+{
+  "id": "2025-10-22_ko_305",
+  "headline": "Delårsrapport prognos 2 2025 godkänd",
+  "summary": "Kommunfullmäktige godkände delårsrapporten som visar ett prognostiserat resultat på 257 mnkr för helåret 2025, vilket är 210 mnkr lägre än budget.",
+  "detail": "Delårsrapporten för Örebro kommun till och med 31 augusti 2025 visar att kommunen inte bedöms uppnå alla verksamhetsmål och finansiella mål av betydelse för god ekonomisk hushållning. Sju av åtta verksamhetsmål beräknas uppfyllas, men målet om att invånare utanför arbetsmarknaden ska snabbare komma i egen försörjning uppfylls inte.\n\nDe finansiella målen uppfylls för två av fyra mål. Resultat efter åtta månader visar ett utfall på 531 mnkr, medan helårsprognosen är 257 mnkr mot en budget på 467 mnkr. Investeringsprognosen uppgår till 1 134 mnkr, vilket är 243 mnkr lägre än budgeterat.\n\nKommunfullmäktige beslutar att nämnderna som prognostiserar negativ budgetavvikelse ska vidta konkretiserade åtgärder för en långsiktigt hållbar ekonomi, redovisade senast vid årsredovisningen 2025.\n\nV, L och ÖrP reserverar sig mot beslut. KD, MP deltar inte helt.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 305",
+  "tags": [
+    "ekonomi",
+    "budget",
+    "prognos",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Prognosen visar att Örebro kommun inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-10-22_Kommunfullmäktige",
+    "date": "2025-10-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_305.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-22_ko_305/"
+  }
+}

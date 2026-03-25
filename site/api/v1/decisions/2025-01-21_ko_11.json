@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-21_ko_11",
+  "headline": "Örebro undertecknar CEMR-deklarationens nio nya jämställdhetsartiklar",
+  "summary": "Kommunstyrelsen beslöt att Örebro kommun undertecknar nio nya artiklar (31-39) till CEMR-deklarationen om jämställdhet, uppdaterad december 2022.",
+  "detail": "CEMR-deklarationen antogs ursprungligen 2006 och Örebro skrev under 2008. Deklarationen uppdaterades december 2022 med nio nya artiklar om sakområden tidigare inte tillräckligt täckta: jämställdhet som drivkraft för hållbar utveckling, könsbaserat våld inklusive cybervåld, hot mot förtroendevalda, multipel diskriminering, flexibla arbetsplatser, digital teknik, sexuell och reproduktiv hälsa, klimatåtgärder och krishantering.\n\nSverige kommuner och regioner rekommenderar alla kommuner att skriva under. Kommunstyrelsens ordförande John Johansson (S) ges i uppdrag att underteckna för Örebro kommuns räkning.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) reserverade sig för avslag, varvid SD menar att fokus på \"toxisk maskulinitet\" motsäger värdegrund om likvärdighet oavsett kön.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 11",
+  "tags": [
+    "CEMRdeklarationen",
+    "jämställdhet",
+    "jämställdhetsintegrering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Befintliga undertecknare av deklarationen bjuds in att ställa sig bakom dessa tillägg och ta med dessa nya åtaganden i sitt arbete med att genomföra CEMR-deklarationen för jämställdhet.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_11.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_11/"
+  }
+}

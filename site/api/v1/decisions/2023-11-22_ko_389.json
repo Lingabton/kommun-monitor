@@ -1,0 +1,46 @@
+{
+  "id": "2023-11-22_ko_389",
+  "headline": "Örebrobostäder höjer försäljningsgräns för fastigheter",
+  "summary": "Gränsen för när fastighetsförsäljningar ska underställas kommunfullmäktige höjs från 1 000 till 3 000 prisbasbelopp (från ca 52,5 mnkr till ca 157,5 mnkr). Detta möjliggör försäljning av delar av Örebrobostäders fastighetsbestånd för att lösa ekonomiska utmaningar.",
+  "detail": "Örebrobostäder har cirka 23 000 bostäder, varav cirka 15 000 är i behov av renovering och underhåll de kommande 20 åren. Det årliga investeringsbehovet beräknas till cirka 1 000 mnkr, men bolagets ekonomi tål endast cirka 750 mnkr per år.\n\nSamtidigt har försämrade marknadsförutsättningar – höga inflationstakt och höjda marknadsräntor – påverkat bolagets ekonomi negativt. Hyreshöjningen kompenserar endast för hälften av kostnaderna.\n\nKommunfullmäktige godkände ändringar i bolagsordningen för både Örebrobostäder AB och dotterbolaget ÖBO Holding AB. Detta möjliggör effektivare fastighetsförsäljningar genom paketering i aktiebolag.\n\nVänsterpartiet (V) och Örebro Piratparti (ÖrP) reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 389",
+  "tags": [
+    "Örebrobostäder",
+    "fastighetsförsäljning",
+    "ekonomi",
+    "bostäder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "SD"
+    ],
+    "against": [
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Försäljning av fastigheter kan komma att ske genom att fastigheterna paketeras i aktiebolag som överlåts till köparen.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2023-11-22_Kommunfullmäktige",
+    "date": "2023-11-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-22_ko_389.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-22_ko_389/"
+  }
+}

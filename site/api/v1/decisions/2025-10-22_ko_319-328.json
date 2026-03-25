@@ -1,0 +1,47 @@
+{
+  "id": "2025-10-22_ko_319-328",
+  "headline": "Motioner om kulturarv, bibliotek och toaletter bordlagda",
+  "summary": "Flera motioner om kulturarvsvecka, cirkulationsbibliotek, SMR-områden och offentliga toaletter bordlades utan slutgöring.",
+  "detail": "§319: Motion från Habib Brini och Bo Ammer (SD) om transporter av farligt gods genom Örebro – Förslag om avslag då andra åtgärder har högre prioritet. Bordlad.\n\n§320: Motion från Bjarne Bäckström (SD) om motorgård för ungdomar – Förslag om avslag. Bordlad.\n\n§321: Motion från Carola Sunesson och Bo Ammer (SD) om årlig kulturarvsvecka – Förslag om avslag. Bordlad.\n\n§322: Motion från Carola Sunesson (SD) om byggnadsvårdspris – Bedömningen att motionen är tillgodosedd då byggnadsvårdspris för 2025 delas ut och utvärdering görs. Bordlad.\n\n§323: Motion från Carola Sunesson och Habib Brini (SD) om medborgarinflytande på arkitektur – Förslag om avslag. Bordlad.\n\n§324: Motion från Johanna Reimfelt och Mats-Olof Liljegren (L) om cirkulationsbibliotek – Förslag om avslag. Bordlad.\n\n§325: Motion från Karolina Wallström m.fl. (L) om offentliga toaletter – Motionen anses besvarad då utredning pågår. Bordlad.\n\n§326: Motion från Martha Wicklund m.fl. (V) om återbruk i alla led – Motionens tre attsatser anses besvarade. Bordlad.\n\n§327: Motion från Helena Ståhl m.fl. (SD) om SMR-områden i översiktsplanen – Förslag om avslag. Bordlad.\n\n§328: Motion från Karolina Wallström och Johanna Reimfelt (L) om färdtjänsten – Motionen bedöms besvarad då utredning genomförs hösten 2025. Bordlad.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 319-328",
+  "tags": [
+    "motioner",
+    "kulturarv",
+    "bibliotek",
+    "infrastruktur",
+    "miljö",
+    "småföretagare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "L",
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bordläggnig"
+  },
+  "quote": "Motionen bordlades på Kommunfullmäktiges sammanträde den 27 augusti och den 24 september 2025.",
+  "quote_page": "s. 30-39",
+  "meeting": {
+    "id": "2025-10-22_Kommunfullmäktige",
+    "date": "2025-10-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_319-328.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-22_ko_319-328/"
+  }
+}

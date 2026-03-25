@@ -1,0 +1,47 @@
+{
+  "id": "2024-06-10 och 2024-06-11_ko_160",
+  "headline": "Klimatstrategi för Örebro kommun antagen",
+  "summary": "Kommunfullmäktige antog en reviderad klimatstrategi för Örebro kommun som ersätter 2016 års klimatstrategi. Strategin fokuserar på konkreta åtgärder för att nå klimamnålen.",
+  "detail": "En ny klimatstrategi togs fram efter omfattande samverkan med resurser från hela kommunkoncernen, näringsliv, föreningar och andra aktörer. Strategin ersätter tidigare klimatstrategi från 2016 och ger övergripande styrning för kommunens klimatarbete.\n\nStrategi för miljöanpassat byggande från 2016 avslutas då dess huvudsakliga mål gällande Miljöbyggnad silver nu är omhändertaget i den nya klimatstrategin.\n\nFlera oppositionspartier yrka ändringar: Liberalerna föreslog 14 ändringar gällande bland annat användandet av ordet nettonollresultat istället för klimatneutral, transportfokus och livsmedelsproduktion. Kristdemokraterna yrka ändringar kring prioritering av svensk produktion före ekologiskt, samt justering av procentandel för ekologiska och svenskproducerade livsmedel.\n\nSverigedemokraterna och Örebropartiet yrka avslag på att klimatstrategin antas, men ville bibehålla avtalet om att tidigare klimatstrategi avslutas. Ordföranden fann att Kommunfullmäktige skulle besluta enligt Kommunstyrelsens förslag. Ändringsyrkandena från oppositionen avslogs.\n\nVänsterpartiet fick lämna ett särskilt yttrande till protokollet. Nio partier eller partigrupper reserverade sig: Sverigedemokraterna, Örebropartiet, Liberalerna och Kristdemokraterna.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 160",
+  "tags": [
+    "klimat",
+    "miljö",
+    "strategi",
+    "hållbarhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [
+      "L",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Klimatstrategi för Örebro kommun antas. Tidigare gällande Klimatstrategi för Örebro kommun avslutas.",
+  "quote_page": "s. 23-24",
+  "meeting": {
+    "id": "2024-06-10_Kommunfullmäktige",
+    "date": "2024-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-06-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-06-10 och 2024-06-11_ko_160.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-06-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-06-10 och 2024-06-11_ko_160/"
+  }
+}

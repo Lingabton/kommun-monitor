@@ -1,0 +1,40 @@
+{
+  "id": "2023-10-17_ko_217",
+  "headline": "Motion om kommundelning: Östernärke egen kommun avslås",
+  "summary": "Kommunstyrelsen avslår motion från tre SDare om att utreda framtida kommundelning där Östernärke bildar egen kommun.",
+  "detail": "Daniel Spiik, Habib Brini och Bjarne Bäckström (alla SD) motionerade om att utreda för- och nackdelar med en kommundelning, med utgångspunkten att klyftan mellan stad och land vuxit sig djupare i Örebro kommun.\n\nKommunledningen bedömer att det inte är aktuellt med en sådan kommundelning. Argumentationen är att det blir allt svårare för mindre kommuner att bära sina egna kostnader för skola, äldreomsorg och infrastruktur. Kommunledningen anser att Sverige bör invänta en eventuell framtida statlig diskussion om kommunernas storlek innan ändringar genomförs.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på bifall till motionen men förlorade.",
+  "category": "politik",
+  "contested": true,
+  "location": "Östernärke",
+  "paragraph_ref": "§ 217",
+  "tags": [
+    "motion",
+    "kommundelning",
+    "Östernärke",
+    "regionalpolitik"
+  ],
+  "voting": {
+    "for": [],
+    "against": [
+      "S",
+      "M",
+      "C"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Det blir allt svårare för mindre kommuner att bära sina egna kostnader för både skola, äldreomsorg och infrastruktur.",
+  "quote_page": "s. 28",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_217.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_217/"
+  }
+}

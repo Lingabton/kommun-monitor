@@ -1,0 +1,46 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_217",
+  "headline": "Visselblåsarfunktion med anonymitetsgaranti införs",
+  "summary": "Kommunfullmäktige beslutade att redovisad visselblåsarfunktion med anonymitetsgaranti ska nyttjas även av kommunens bolag.",
+  "detail": "Örebro kommun inrättade 2014 en visselblåsarfunktion. Syftet är att medarbetare och förtroendevalda utan att vända sig till media ska kunna anmäla allvarliga oegentligheter och känna sig trygga att anmälningarna hanteras korrekt.\n\nI februari 2020 kom PWC, på uppdrag av revisorerna, med rapport avseende visselblåsarfunktionen. Rapporten konstaterade att funktionen är relativt okänd, att oro finns för anonymiteten och att förtroende saknas då anmälningar utreds internt.\n\nKommunledningsförvaltningen fick i uppdrag att utreda externt alternativ och jämföra detta med intern rapporteringskanal. Utredningen visade att det finns skäl att garantera visselblåsarens anonymitet.\n\nKommundirektören fick i uppdrag att utforma en visselblåsarfunktion som garanterar anonymitet samt besluta om tillämpningsanvisningar, rutiner och informationsinsatser.\n\nKommunfullmäktige beslutade att funktionen även ska nyttjas av kommunens bolag.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 217",
+  "tags": [
+    "visselblåsare",
+    "etik",
+    "anonymitet",
+    "organisationskulturell"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Redovisad Visselblåsarfunktion ska även nyttjas av kommunens bolag.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_217.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_217/"
+  }
+}

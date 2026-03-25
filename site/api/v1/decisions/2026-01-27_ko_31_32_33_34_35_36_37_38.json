@@ -1,0 +1,48 @@
+{
+  "id": "2026-01-27_ko_31_32_33_34_35_36_37_38",
+  "headline": "Många motioner och interpellationer bordlades massivt",
+  "summary": "Ordförande bordlade stora mängder motioner och interpellationer, många från SD, flera tillhörande övriga partier.",
+  "detail": "En omfattande bordläggning genomfördes under mötet. Ordförande Jan Zetterqvist (S) yrkade på och fick bifall till bordläggning av ett flertal ärenden i slutfasen av mötet.\n\nMotioner som bordlades gällde bland annat: färdtjänst (L), förtroendevaldas säkerhet (V), styrdokument (SD), kulturarvsfond (SD), föreningsbidrag (SD), hederskultur i förskola och skola (SD), Meetings Plus-åtkomst (MP) och seniorer i skolan (KD).\n\nInterpellationer som bordlades gällde bland annat saknade barn, framkomlighet och krisberedskap, utsatta områden, hedersrelaterad problematik och national samordnare.\n\nEnligt protokollet yrkade Bo Ammer (SD) på att sammanträdet skulle fortsätta och att ärendena skulle avgöras samma dag, men detta möttes av ordförandens yrkande på bordläggning, som fick majoritetsstöd.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 31, 32, 33, 34, 35, 36, 37, 38",
+  "tags": [
+    "bordläggning",
+    "motioner",
+    "interpellationer",
+    "politisk konflikt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "L",
+      "V",
+      "ÖrP",
+      "MP"
+    ],
+    "result": "Bordläggning"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) yrkar att resterande motioner på dagordningen bordläggs.",
+  "quote_page": "s. 25",
+  "meeting": {
+    "id": "2026-01-27_Kommunfullmäktige",
+    "date": "2026-01-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-27_ko_31_32_33_34_35_36_37_38.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_31_32_33_34_35_36_37_38/"
+  }
+}

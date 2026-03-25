@@ -1,0 +1,47 @@
+{
+  "id": "2024-12-11_ko_432",
+  "headline": "Språktest vård- och omsorgspersonal – motionen avslaget",
+  "summary": "Kommunfullmäktige avslår SD:s motion om språktest vid nyanställningar inom vård och omsorg.",
+  "detail": "David Larsson och Helena Ståhl (SD) motionerade för att införa språktest för att säkerställa adekvat svenska hos vård- och omsorgspersonal.\n\nKommunledningen anser att kommunen istället arbetar för att stärka språkkunskaperna hos befintliga medarbetare och för att framtida medarbetare ska ha tillräcklig språkkompetens.\n\nFokus ligger på kompetensförsörjning genom att \"fånga in\" intresserade personer för att sedan kompetensutveckla genom utbildningsinsatser, inklusive språkförstärkning.\n\nRöstningen resulterade i 48 ja (avslagsyrkande), 11 nej (bifallsyrkande), 6 frånvarande. SD och ÖrP reserverade sig.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 432",
+  "tags": [
+    "vård och omsorg",
+    "språkkompetens",
+    "nyanställning",
+    "integration"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Förslaget är att motionen ska avslås då kommunen istället valt att arbeta för att stärka språkkunskaperna hos befintliga medarbetare.",
+  "quote_page": "s. 30",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_432.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_432/"
+  }
+}

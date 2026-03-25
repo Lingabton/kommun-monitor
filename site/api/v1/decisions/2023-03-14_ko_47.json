@@ -1,0 +1,39 @@
+{
+  "id": "2023-03-14_ko_47",
+  "headline": "GIS-integration och krisberedskap i lokalförsörjningen får 1,8 miljoner",
+  "summary": "Kommunstyrelsen avsatte 1,8 miljoner kronor för att integrera GIS-system i kommunens lokalförsörjning för att förbättra överblicken över lokalbeståndet.",
+  "detail": "Stora flyktingströmmar, ökade säkerhetskrav och krisberedskap ställer höga krav på Lokalförsörjningsavdelningen. Arbetet med att integrera GIS planeras i flera etapper från 2022-2023. Ny budget behövdes för att fortsätta arbetet.\n\nMarkus Allard (ÖrP) yrkade avslag. Ordföranden ställde förslagen mot varandra och Kommunledningsförvaltningens förslag antogs. Kostnaden finansierades genom Kommunstyrelsens medel för oförutsedda behov.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 47",
+  "tags": [
+    "GIS-integration",
+    "krisberedskap",
+    "lokalförsörjning",
+    "1,8 miljoner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Arbetet med att integrera GIS i lokalförsörjningen planeras att genomföras i flera etapper som sträcker sig från 2022–2023. För att fortgå med arbetet krävs nytt beslut i Kommunstyrelsen för fortsatt tillgång till tidigare beviljade medel.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_47.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_47/"
+  }
+}

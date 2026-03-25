@@ -1,0 +1,36 @@
+{
+  "id": "2024-02-14_ko_50",
+  "headline": "Motion om Törsjöterminal och jordbruksmark bordläggs",
+  "summary": "Kommunfullmäktige bordlade V:s motion om att bevara jordbruksmarken i Törsjö genom att inte bygga Törsjöterminal.",
+  "detail": "Vänsterpartiet lämnade motion med tre yrkanden: att inte bygga Törsjöterminal, att utreda expandering av terminal i annan kommun, och att kartlägga extra skyddsvärd jordbruksmark.\n\nKommunledningen avslogs motionen. En detaljplan för terminalen i Törsjö hade redan antagits av Kommunfullmäktige i maj 2023. Kommunledningen menade att det saknas syfte att utreda terminal i annan kommun och att kartläggning av skyddsvärd jordbruksmark inte är angelägen kommunal verksamhet.\n\nV, L och SD reserverade sig för bifall.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Törsjö",
+  "paragraph_ref": "§ 50",
+  "tags": [
+    "Törsjö",
+    "terminal",
+    "jordbruksmark",
+    "miljö"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Utifrån den utredning som kommunen låtit göra har kommunledningen övervägt olika möjligheter vilket resulterat i att Kommunfullmäktige antagit detaljplanen för terminalen i Törsjö i maj 2023 och inget nytt har framkommit efter det.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_50.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_50/"
+  }
+}

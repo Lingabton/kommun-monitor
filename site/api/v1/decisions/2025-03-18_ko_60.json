@@ -1,0 +1,40 @@
+{
+  "id": "2025-03-18_ko_60",
+  "headline": "Motion om enprocentsregeln för konst delvis tillgodosedd",
+  "summary": "Kommunstyrelsen beslutade att Västerpartiet motions första yrkande om samverkan kring konstverks placering anses tillgodosett, men avslog kravet på att fem procent av medlen ska användas till samverkansarbete.",
+  "detail": "Martha Wicklund (V) och flera övriga Västerpartiet-ledamöter motionerade för två åtgärder gällande enprocentsregeln (där en procent av byggkostnaderna används för konst): (1) att samverkan kring placering och ämne för konstverk ska vara regel, och (2) att fem procent av enprocent-medlen ska användas till samverkansarbete.\n\nKultur- och fritidsnämnden bedömde att det första yrkandet redan är tillgodosett eftersom samverkan redan är ett stående och grundläggande inslag. För det andra yrkandet föreslog nämnden avslag med motiveringen att en förskriven samverkansandel på fem procent kan begränsa konstnärlig frihet och avskräcka vissa konstnärer från att söka uppdrag, vilket minskar mångfalden av sökande och konstnärligt uttryck.\n\nCristian Rehn Janowicz (V) yrkal fullt bifall till motionen medan David Larsson (SD), Karolina Wallström (L) och Markus Allard (ÖrP) yrkal avslag.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 60",
+  "tags": [
+    "konst",
+    "enprocentsregeln",
+    "kultur",
+    "samverkan"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Delvis bifall"
+  },
+  "quote": "Att alltid ställa krav på samverkan i en förutbestämd utsträckning kan begränsa den konstnärliga friheten och avskräcka vissa konstnärer från att söka uppdrag, vilket minskar mångfalden av sökande och uttryck.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_60.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_60/"
+  }
+}

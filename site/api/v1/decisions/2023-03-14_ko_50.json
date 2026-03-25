@@ -1,0 +1,40 @@
+{
+  "id": "2023-03-14_ko_50",
+  "headline": "Trafikplats Norra Marieberg: 34 procent kostnadsökning godkänd",
+  "summary": "Kommunstyrelsen godkände 34 procent kostnadsökning för trafikplatsprojektet från 109 till 149 miljoner kronor trots kritik från opposition om bristande underlag.",
+  "detail": "Trafikplatsen över E20 är planerad för Norra Marieberg och Palmbohult. Ursprunglig budget 2021 var 109 miljoner kronor. På grund av världshändelser, material- och energikostnadsstegringar beräknades kostnaden öka till cirka 149 miljoner kronor, en ökning på 34 procent.\n\nHittills nedlagda kostnaderna var cirka 6 miljoner kronor. Byggstart planerades till hösten 2023, och upphandling skulle ske i april. Kostnaden skulle finansieras genom intäkter från tomtförsäljningar i planområdena.\n\nMartha Wicklund (V) yrkade återremiss för mer utförlig kalkyl och möjligheter att sänka kostnaderna, samt att kommunen skulle ta fram plan för att stärka gång- och cykeltrafik och placering av busshållsplatser.\n\nMarkus Allard (ÖrP) yrkade i första hand återremiss för fullständiga uppgifter och kalkyler, i andra hand avslag. Han påpekade att oppositionens tidigare varningar om att kalkylerna inte skulle hålla hade visat sig riktiga.\n\nOrdföranden avvisade båda yrkandena om återremiss. Markplanerings- och exploateringsnämndens förslag antogs. Ärendet skulle vidare till Kommunfullmäktige. Reservationer lämnades av V och ÖrP.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Norra Marieberg, Örebro",
+  "paragraph_ref": "§ 50",
+  "tags": [
+    "trafikplats Norra Marieberg",
+    "E20",
+    "149 miljoner",
+    "kostnadsökning",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Beroende av rådande världsläge med ökade material och energikostnader beräknas den tidigare beslutade budgeten överskridas med ca 34 %. Den nya beräknade kostnaden förväntas bli 149 miljoner kronor.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_50.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_50/"
+  }
+}

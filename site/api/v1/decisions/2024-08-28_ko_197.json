@@ -1,0 +1,47 @@
+{
+  "id": "2024-08-28_ko_197",
+  "headline": "Energiförsörjningsplan - delvis tillgodosedd",
+  "summary": "Tre av fyra delar av Miljöpartiets energimotionsförslag anses tillgodosedda genom befintliga mål och planerad energistrategi.",
+  "detail": "Lea Strandberg och Fredrik Persson (MP) motionerade för en ny energiförsörjningsplan. Motionen innehöll fyra förslag: kommunen ska tillverka all el själv och göra den förnybar, samt att privatpersoner ska kunna producera egen energi.\n\nKommunledningen bedömde att motionens första, andra och tredje förslag är tillgodosedda genom mål i Örebro strategiska bårkontakt (ÖSB) och Vårt hållbara Örebro samt genom den energistrategi som tas fram. Det fjärde förslaget anses besvarat.\n\nKommunfullmäktige beslutade enligt detta förslag. Flera partier reserverade sig, bland annat L, OrP och V som ville att motionen bifölls helt.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 197",
+  "tags": [
+    "energi",
+    "miljö",
+    "förnybar",
+    "strategi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "ÖrP",
+      "V",
+      "MP",
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Motionens första, andra och tredje förslag är tillgodosedda då dessa tillgodoses av mål i ÖSB och Vårt hållbara Örebro samt av den energistrategi för Örebro som ska tas fram.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_197.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_197/"
+  }
+}

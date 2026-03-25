@@ -1,0 +1,43 @@
+{
+  "id": "2024-12-11_ko_420",
+  "headline": "Vattenskyddsområde Eker – revidering av befintligt område",
+  "summary": "Kommunfullmäktige godkänner ansökan om revidering av befintligt vattenskyddsområde Eker med nya skyddsföreskrifter för att säkerställa grundvattenmagasinets skydd.",
+  "detail": "Vattenskyddsområde för Eker fastställdes av Länsstyrelsen 1997. Örebro kommun har genomfört en översyn av det befintliga vattenskyddsområdets utsträckning och skyddsföreskrifternas innehål.\n\nTeknik- och serviceförvaltningen föreslår ett reviderat vattenskyddsområde och nya skyddsföreskrifter baserat på riskanalys och åtgärdsförslag.\n\nBeslutet gick genom med bifallsyrkanden från M och MP. Helena Ståhl (SD) och Susanne Lindholm Henningsson (KD) lämnade särskilda yttranden om vikten av att kompensera berörda jordbruk och bättre kommunikation med berörda parter.",
+  "category": "miljö",
+  "contested": false,
+  "location": "Eker, Svartån",
+  "paragraph_ref": "§ 420",
+  "tags": [
+    "vattenskydd",
+    "miljö",
+    "Eker",
+    "Svartån",
+    "jordbruk"
+  ],
+  "voting": {
+    "for": [
+      "M",
+      "S",
+      "MP",
+      "SD",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Till Länsstyrelsen inlämna ansökan om inrättande av vattenskyddsområde för Eker med skyddsföreskrifter enligt bifogat förslag och enligt bifogat tekniskt underlag och karta.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_420.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_420/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2025-08-26_ko_160",
+  "headline": "Motioner från SD avslagna: nivåfri asfalt i trafikåtgärder",
+  "summary": "Kommunstyrelsen avslår Daniel Spiiks motion om att endast använda nivåfri asfalt med målade linjer vid trafikseparerande åtgärder. Kantsten bedöms viktiga för trafiksäkerhet.",
+  "detail": "Daniel Spiik (SD) föreslog att Örebro kommun vid anläggning av hastighetsdämpande åtgärder endast anlägger nivåfri asfalt med målade linjer, och successivt ersätter kantsten och stolpar med detta material.\n\nTeknik- och servicenämnden rekommenderade avslag med motiveringen att kantsten är viktiga för att skapa en trygg trafikmiljö vid nivåskillnader mellan trafikslag. Målningar är inte tillräckligt synliga året runt.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall, men majoriteteten röstade för avslag. Ärendet ska vidare till Kommunfullmäktige.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 160",
+  "tags": [
+    "trafiksäkerhet",
+    "infrastruktur",
+    "SD-motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Det är viktigt med kantsten för att skapa en trygg trafikmiljö där kommunen vill separera olika trafikslag med nivåskillnad. En målning är inte heller synlig året om.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_160.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_160/"
+  }
+}

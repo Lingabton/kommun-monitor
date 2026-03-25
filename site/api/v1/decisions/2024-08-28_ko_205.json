@@ -1,0 +1,35 @@
+{
+  "id": "2024-08-28_ko_205",
+  "headline": "Näringsliv - motion om främjande bordlagd",
+  "summary": "Motion från SD om näringslivsprogram och företagarvänlighet bordlades utan slutgiltigt beslut.",
+  "detail": "Sverigedemokraterna motionerade för att främja näringslivet genom: tydligt näringslivsfrämjande uppdrag, utökad strategi med mål, förkortad handläggning för företagärenden, och att konkurrensnackdelar för kommunala bolag byggs bort.\n\nKommunledningen hade nyligen tagit fram ett reviderat näringslivsprogram under parlamentarisk arbetsgrupp med samtliga partier. Programmet sträcker sig till 2030 med fokusområden och mål.\n\nEn del av Sverigedemokraternas förslag fanns redan i näringslivsprogrammet. Kommunledningen bedömde därför att motionen var besvarad.\n\nKommunfullmäktige bordlade ärendet utan slutgiltigt beslut.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 205",
+  "tags": [
+    "näringsliv",
+    "företag",
+    "strategi"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "En del av Sverigedemokraternas förslag finns med i någon form i näringslivsprogrammet, om än inte samtliga.",
+  "quote_page": "s. 25",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_205.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_205/"
+  }
+}

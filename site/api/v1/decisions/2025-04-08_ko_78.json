@@ -1,0 +1,46 @@
+{
+  "id": "2025-04-08_ko_78",
+  "headline": "Nobelbanan: Första samråd om miljökonsekvenserklaring",
+  "summary": "Kommunen avger yttrande på samråd om Nobelbanans lokaliseringsutredning. Sverigedemokraterna yrkar på miljöskyddsfokus för Latorpsplatån.",
+  "detail": "Oslo-Stockholm 2.55 AB driver projektet Nobelbanans lokaliseringsutredning. Kommunen har ett samråde under perioden 3-31 mars 2025 avseende betydande miljöpåverkan.\n\nKommunen delar bedömningen att den nya järnvägen innebär betydande miljöpåverkan. I samrådssvaret framförs kompletterande upplysningar och önskemål om fortsatt samverkan baserad på kommunens lokalkännedom.\n\nSverigedemokraterna yrkade på att första punkten i yttrandet skulle ändras till: \"Ur naturvårdssynpunkt är det fördelaktigt att korsa Latorpsplatån (riksintresse) på ett så skonsamt sätt som möjligt\". Yrkandet avslogs.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Latorpsplatån, Örebro och Värmlands län",
+  "paragraph_ref": "§ 78",
+  "tags": [
+    "Nobelbanan",
+    "järnväg",
+    "miljö",
+    "samråd",
+    "Latorpsplatån"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kommunen har inga invändningar mot beskrivningen av Nobelbanans ändamål och delar bedömningen att den nya järnvägen innebär betydande miljöpåverkan.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_78.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_78/"
+  }
+}

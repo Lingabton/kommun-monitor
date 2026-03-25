@@ -1,0 +1,45 @@
+{
+  "id": "2024-05-07_ko_103",
+  "headline": "IOP Vinternatt-partnerskap omstritt, omförhandling avslogs",
+  "summary": "Sverigedemokraterna och Örebro för Förändring ville omförhandla partnerskapet IOP Vinternatt då styrgruppen sänkt ambitionsnivån för EU/EES-medborgares vinterövernattningar.",
+  "detail": "IOP Vinternatt är ett idéburet-offentligt partnerskap mellan Örebro kommun och Örebro Stadsmission för att skydda utsatta EU/EES-medborgare framför allt under vintermånaderna. Överenskommelsen gäller 2022-2024.\n\nUnder säsongen 23/24 har verksamheten förändrats inom befintligt IOP. Styrgruppens plan innebär att man inte erbjuder någon härbarge då lämplig lokal inte hittats - en ambitionssänkning som Sverigedemokraterna menar är för långt från den ursprungliga överenskommelsen.\n\nHelena Ståhl (SD) yrkade på omförhandling. Markus Allard (ÖrP) stödde yrkandet. Martha Wicklund (V) fick lämna särskilt yttrande. Ordförande avslogs omförhandlingskravet.",
+  "category": "socialt",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 103",
+  "tags": [
+    "EU-migranter",
+    "vinterövernattning",
+    "partnerskap",
+    "civilsamhälle"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Styrgruppen väljer nu att sänka nivån och inte erbjuda någon form av härbärge, då ingen lämplig lokal hittats. Att göra en ambitionssänkning utifrån förutsättningarna behöver inte i sig vara fel. Men detta är ett så pass stort steg utanför den överenskommelse som är gjord.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_103.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_103/"
+  }
+}

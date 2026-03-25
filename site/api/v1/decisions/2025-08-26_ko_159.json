@@ -1,0 +1,43 @@
+{
+  "id": "2025-08-26_ko_159",
+  "headline": "Ej verkställda LSS/SoL-beslut: Vänsterpartiet yrkar åtgärder",
+  "summary": "Rapport över ej verkställda beslut enligt LSS och SoL visar problem med långvariga köer. Vänsterpartiet yrkar uppdrag om lösning på verkställningsproblem.",
+  "detail": "Rapporteringen visar att Socialnämndens ej verkställda beslut inom tre månader var 19 av totalt 62 rapporterade för Q1 2025 (minskat från 35 av 47 föregående kvartal).\n\nFunktionsstödsnämndens rapporterade beslut var 89 (ned från 117), men 55 var ej verkställda (ned från 64). Vård- och omsorgsnämndens rapporterade beslut var 52 med 15 ej verkställda.\n\nMartha Wicklund (V) yrka bifall till underlaget med tillägg att förvaltningen får uppdrag att ta fram förslag på hur gynnande beslut kan verkställas inom rimlig tid. Markus Allard (ÖrP) yrka samma tillägg. John Johansson (S) yrkade avslag på tillägget.\n\nKommunstyrelsen beslutade enligt huvudförslaget men avslogs Vänsterpartiets tilläggsyrkande. Karolina Wallström (L) fick lämna särskilt yttrande om allvarliga resursbrister inom öppenvård för barn, stödboendeplatser och bostad med särskild service.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 159",
+  "tags": [
+    "LSS",
+    "SoL",
+    "äldreomsorg",
+    "funktionsstöd",
+    "resursbrister"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "För det första kvartalet 2025 ökade Socialnämndens totala antal rapporterade beslut till 62 stycken. Vid kvartalets slut var 19 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_159.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_159/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-11_ko_233",
+  "headline": "Motion om avgångsvederlag avslås efter rättslig prövning",
+  "summary": "SD väckade motion om att begränsa avgångsvederlag och ekonomiska fallskärmar. Kommun bedömer att rättsordning och befintliga rutiner redan hanterar frågan.",
+  "detail": "Helena Ståhl (SD) och Habib Brini (SD) väckade motion om att begränsa användningen av avgångsvederlag och ekonomiska fallskärmar inom kommunen. De menade att nuvarande praxis kring överenskommelser om anställningsavslut riskerar att undergräva tillämpningen av lagen om anställningsskydd (LAS).\n\nMotionärerna föreslog att styrdokument ändras, att beslut om ekonomisk kompensation alltid fattas politiskt och att sådana beslut aldrig delegeras till enskilda politiker.\n\nKommunledningsförvaltningen bedömer att motionens intentioner redan hanteras genom gällande rättsordning, befintliga rutiner och varje nämnds och kommunstyrelsens ansvar för sina delegationsordningar. Därmed ses inget behov av särskilda åtgärder.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 233",
+  "tags": [
+    "avgångsvederlag",
+    "anställning",
+    "rättssäkerhet",
+    "delegation"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen avslås. Ärendet ska vidare till kommunfullmäktige för beslut.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_233.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_233/"
+  }
+}

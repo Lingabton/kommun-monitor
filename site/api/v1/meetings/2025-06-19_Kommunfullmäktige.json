@@ -1,0 +1,15 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2025-06-19",
+  "decisions": [],
+  "decisions_count": 0,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-19_Kommunfullmäktige.pdf",
+  "headline": "Kommunfullmäktige godkänner entlediganden och ny nämndbeslutningar",
+  "motions_of_interest": [],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-19_Kommunfullmäktige.json",
+    "decisions": [],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2025-06-19_Kommunfullmäktige"
+  }
+}

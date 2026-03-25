@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_237",
+  "headline": "Tilläggsanslag 2025 på 19 miljoner godkänt med reservationer",
+  "summary": "Kommunstyrelsen beviljade 19 miljoner kronor i tilläggsanslag för 2025, bland annat för Kultur- och fritidsnämnden. V, SD och ÖrP reserverade sig.",
+  "detail": "Tilläggsanslaget på 19 054 tkr för 2025 omfattade förstärkning till Kultur- och fritidsnämnden samt kompensation för färdigställda objekt i investeringsprogrammet. Ombudgetering gjordes även för organisationsförändringar.\n\nFinansiering skedde ur Kommunstyrelsens utrymme för oförutsett, generella kostnadsökningar och beslutade konsekvenser av investeringsprogram.\n\nHelena Ståhl (SD) yrkade för undantag gällande indexuppräkning av Länsmusiken och Örebrokompaniet, men avslogs. Martha Wicklund (V) och Markus Allard (ÖrP) yrkade fullt avslag.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 237",
+  "tags": [
+    "budget",
+    "kultur",
+    "fritid"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag avser bland annat kompensation till nämnderna för en förstärkning till Kultur- och fritidsnämnden samt kompensation för färdigställda objekt i investeringsprogrammet.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_237.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_237/"
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2025-10-14",
+  "decisions": [
+    {
+      "headline": "Tilläggsanslag 12,5 miljarder kronor för oförutsedda kostnader",
+      "summary": "Kommunstyrelsen beviljade tilläggsanslag på totalt 12 495 tkr för kostnadsökningar under 2025, finansierat ur oförutsedda behov och lokalförsörjningskonsekvenser. SD reserverade sig mot ett anslag på 200 tkr för klimatkommunikation.",
+      "detail": "Kommunledningsförvaltningen föreslog tilläggsanslag för tillfälliga satsningar och färdigställda lokalförsörjningsobjekt. Helena Ståhl (SD) yrkade att 200 tkr för kommunikationsinsatser kopplade till klimatstrategin skulle tas bort, vilket resulterade i att hon och David Larsson reserverade sig mot beslutet.\n\nFinansieringen sker ur två källor: KS utrymme för oförutsedda behov samt KS utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.\n\nBeslutet visar att majoriteten (S, M, C, KD, L, MP, OrP) prioriterar de föreslagna investeringarna framför SD:s sparförslag om klimatinsatser.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 194",
+      "quote": "Tilläggsanslag beviljas med totalt 12 495 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur KS utrymme för oförutsedda behov samt från KS utrymme för beslutade konsekvenser av investeringar och lokalförsörjning.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "oförutsedda kostnader",
+        "investeringar",
+        "lokalförsörjning"
+      ],
+      "id": "2025-10-14_ko_194",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Delårsrapport visar negativ avvikelse på 210 miljoner kronor",
+      "summary": "Kommunstyrelsen godkände delårsrapport för 2025 som visar att Örebro kommun inte uppnår finansiella mål. Resultatet prognostiseras till 257 mnkr mot budgeterat 467 mnkr. Nämnder ska vidta åtgärder för att säkra långsiktigt hållbar ekonomi.",
+      "detail": "Efter årets första åtta månader visar resultatet 531 mnkr, men helårsprognosen pekar på 257 mnkr - en negativ budgetavvikelse på 210 mnkr. Av denna utgör verksamhetens resultat 78 mnkr och finansverksamheten 132 mnkr av avvikelsen.\n\nPrognosen visar att endast 2 av 4 finansiella mål beräknas uppnås. Målet om 1,7 procents resultat av skatteintäkter och 116 procent självfinansieringsgrad för skattefinansierade investeringar kommer inte uppfyllas.\n\nKommunstyrelsens beslut förpliktar nämnder med negativ budgetavvikelse att konkretisera åtgärder senast vid årsredovisningen för 2025. Martha Wicklund (V) reserverade sig för hennes yrkande om att ge nämnderna uppdrag att räkna på realistiska budgetar. Karolina Wallström (L) reserverade sig för sitt avslagsyrkande.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 196",
+      "quote": "Prognosen visar att Örebro kommun inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året. Årets prognos på helår visar ett resultat på 257 mnkr. Det budgeterade resultatet är 467 mnkr, vilket innebär en negativ budgetavvikelse på 210 mnkr.",
+      "quote_page": "s. 4-5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [
+          "KD",
+          "V"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "ekonomi",
+        "delårsrapport",
+        "negativ avvikelse"
+      ],
+      "id": "2025-10-14_ko_196",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Investeringsprogram 2025 revideras till 1 359 miljarder kronor",
+      "summary": "Kommunstyrelsens godkände reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr, omfattande 780,6 mnkr skattefinansierade och 578,6 mnkr taxefinansierade investeringar. Driftkostnadskonsekvenser beräknas till 56,2 mnkr.",
+      "detail": "Revideringen innebär både utökning och minskning av investeringsbudget samt ombudgetering mellan projekt och nämnder. De skattefinansierade investeringarna uppgår till 780,6 mnkr och de taxefinansierade till 578,6 mnkr.\n\nDen kommunövergripande lokalförsörjningsplanen för 2025 har reviderats med driftkostnadskonsekvenser på 56,2 mnkr, vilket är en ökning med 1,2 mnkr jämfört med beslutet om ÖSB 2025 i juni.\n\nKarolina Wallström (L) och Helena Ståhl (SD) yrkade avslag till förmån för sina egna budgetförslag. Både L och SD reserverade sig mot beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 197",
+      "quote": "Efter revidering uppgår kommunens investeringsbudget till 1 359,2 mnkr för år 2025, varav 780,6 mnkr avser skattefinansierade investeringar och 578,6 mnkr taxefinansierade investeringar.",
+      "quote_page": "s. 6",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "investeringar",
+        "lokalförsörjning",
+        "driftskostnader"
+      ],
+      "id": "2025-10-14_ko_197",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Kommunövergripande lokalförsörjningsplan 2027-2037 antagen",
+      "summary": "Kommunstyrelsen antog lokalförsörjningsplanen för perioden 2027-2037 som handlingsplan för framtida lokalbehov. Planen prioriterar 37 lokalprojekt varav 15 är pågående.",
+      "detail": "Planen synliggör prioriterade lokalprojekt som kommunen avser att arbeta med inom prognosperioden. Av de 37 projekten är 15 redan pågående och 13 är beräknade att vara färdigställda under 2026.\n\nPlanen utgör underlag till investeringsprocessen och visar hur kommunen planerar att möta framtida lokalbehov de kommande tio åren.",
+      "category": "bygg",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 198",
+      "quote": "Under prognosperioden prioriteras 37 lokalprojekt varav 15 är pågående. 13 projekt är beräknade att vara färdigställda under 2026.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "lokalförsörjning",
+        "investeringar",
+        "fastigheter",
+        "planering"
+      ],
+      "id": "2025-10-14_ko_198",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Budget 2026 fastställd med nya taxor och avgifter från 1 januari",
+      "summary": "Kommunstyrelsen fastställde tilläggsbudget för 2026 med reviderade driftbudgetramar, nya taxor för avfall, vatten-avlopp, alkohol och markanvändning. Nya avgifter för transportdispenser introducerats.",
+      "detail": "Beslutet omfattar 12 beslutspunkter och inkluderar:\n\n- Taxa för avfall från 1 januari 2026\n- Taxa för vatten och avlopp från 1 januari 2026\n- Reviderad taxa enligt alkohollagen från 1 januari 2026\n- Revidering av markupplåtelseavgift från 1 januari 2026\n- Förlängd giltighetstid för generella dispenser från 6 månader till 1 år\n- Ny avgift på 1500 kr per utfärdat dispenstillstånd\n\nKommunledningens förslag omfattar också reviderade driftbudgetramar och investeringsplan för 2026-2029. Alla oppositionspartier (L, SD, V, KD) reserverade sig med egna budgetförslag.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 199",
+      "quote": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 'Gemensamt ansvar för framtidens Örebro' fastställs enligt förslaget.",
+      "quote_page": "s. 9-11",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "2026",
+        "taxor",
+        "avgifter",
+        "avfall",
+        "vatten",
+        "alkohol"
+      ],
+      "id": "2025-10-14_ko_199",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Medlemskap i Stockholm Business Alliance 2026-2030 förnyat",
+      "summary": "Kommunstyrelsen beslöt att förlänga medlemskapet i Stockholm Business Alliance för perioden 2026-2030. SBA är ett samarbete mellan 55 kommuner i Stockholm Mälardalen för näringslivsutveckling.",
+      "detail": "SBA fokuserar på att främja nya investeringar, tillväxt i befintliga företag och utveckling av företagsklimatet genom mätningar som Nöjd Kundindex. Örebro kommun deltar aktivt med flera förvaltningar.\n\nVerksamheten finansieras genom medlemsavgifter baserade på 4 kr per invånare och ett fast bidrag från Stockholms stad. Avgiften för 2026-2030 är oförändrad från föregående period.\n\nSamarbetet stärker möjligheterna till nya etableringar, internationell exponering och regionalt investeringsarbete. Helena Ståhl (SD), David Larsson (SD) och Martha Wicklund (V) reserverade sig mot beslutet.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 200",
+      "quote": "SBA är ett samarbete mellan 55 kommuner i storregionen Stockholm Mälardalen som syftar till näringslivsutveckling och förbättrad kommunservice för företag.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "näringslivsutveckling",
+        "SBA",
+        "samarbete",
+        "medlemskap"
+      ],
+      "id": "2025-10-14_ko_200",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Finansverksamhet - delegationsordning och firmatecknare reviderad",
+      "summary": "Kommunstyrelsen beslöt om revidering av delegationsordning och firmatecknare inom finansverksamheten. Beslut omfattar ny namngivning av ansvariga tjänstemän för låneprogram, placeringar, borgensåtaganden och banktjänster.",
+      "detail": "Revisionen var nödvändig efter personförändringar inom finansförvaltningen. Nya firmatecknare utsågs för:\n\n- Låneprogram, lån och finansiella derivatinstrument\n- Borgensåtaganden och bankgarantier\n- Banktjänster och bankkonton\n- Skattedeklarationer\n- Donationsstiftelser\n\nDelegationen omfattar också beslut om lån inom fastställd låneram, finansiella derivatinstrument för ränterisk och valutarisk, och placeringar av likvida och pensionsmedel.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 201",
+      "quote": "Firmatecknare för Örebro kommun i avtal om låneprogram, lån, finansiella derivatinstrument, placeringar i värdepapper, kapitalförvaltning och likviditet är en av finanschef Mats Rodenfelt, ekonomidirektör Johanna Larsson och budgetchef Andreas Legnerot i förening med en av redovisningschef Karin Sundelius och finanscontroller Gustav Eriksson.",
+      "quote_page": "s. 13-14",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "finansverksamhet",
+        "delegationsordning",
+        "firmatecknare",
+        "lån"
+      ],
+      "id": "2025-10-14_ko_201",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Revisor utbytt i sju kommunala bolag",
+      "summary": "Kommunstyrelsen gav instruktion till stämmoombud att byta revisor i flera kommunala bolag efter att Gustav Tönnies slutade på Ernst & Young AB. Per Modin och Joakim Holmquist utsågs till nya revisorer.",
+      "detail": "Gustav Tönnies måste entledigas från revisionsuppdrag i:\n- Kumbro Utveckling AB\n- Kumbro Stadsnät AB\n- Kumbro Vind AB\n- Stadsnät i Kumla AB\n- Vätternvatten AB\n- Oslo-Stockholm 255 AB\n- Örebro läns Flygplats AB\n\nPer Modin utsågs till ny revisor i Kumbro Utveckling AB, Kumbro Stadsnät AB, Stadsnät i Kumla AB och Vätternvatten AB, samt revisorssuppleant i Oslo-Stockholm 255 AB och Örebro läns Flygplats AB.\n\nJoakim Holmquist utsågs till ny revisor i Oslo-Stockholm 255 AB och Örebro läns Flygplats AB.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 202",
+      "quote": "Gustav Tönnies har slutat på Ernst & Young AB och behöver därför entledigas från sina uppdrag som revisor i Kumbro Utveckling AB, Kumbro Stadsnät AB, Kumbro Vind AB, Stadsnät i Kumla AB, Vätternvatten AB, Oslo-Stockholm 255 AB och Örebro läns Flygplats AB.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "revision",
+        "bolag",
+        "revisor"
+      ],
+      "id": "2025-10-14_ko_202",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Smart Säker Stad-samarbete formaliserat mellan kommunen och bolag",
+      "summary": "Kommunstyrelsen godkände samverkansavtal för projektet Smart Säker Stad som syftar till att förbättra säkerhet, resiliens och kommunikationslösningar i staden genom digitalisering.",
+      "detail": "Projektet inleddes 2023 mellan Kumbro Stadsnät AB, Örebrobostäder AB och Kumla Bostäder AB. Nu går projektet in i nästa fas där övriga organisationer involveras.\n\nSamverkansavtalet formaliserar samarbetet mellan Örebro kommun, Kumbro Stadsnät AB, Örebrobostäder AB, Futurum Fastigheter i Örebro AB och Örebroporten Fastigheter AB.\n\nAvtalet fungerar som ramverk för samverkan och parterna kan precisera åtaganden ytterligare när initiativ och delprojekt inleds.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 203",
+      "quote": "Projektet Smart Säker Stad inleddes 2023 och syftar till att vara en del av arbetet med att forma den smarta säkra staden, genom förbättrad säkerhet, resiliens och säkra kostnadseffektiva kommunikationslösningar genom digitalisering.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "digitalisering",
+        "säkerhet",
+        "samverkan",
+        "smart stad"
+      ],
+      "id": "2025-10-14_ko_203",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Partistöd 2024 godkänt - utbetaling till nio partier",
+      "summary": "Kommunstyrelsen godkände redovisning av lokalt partistöd för 2024 från alla nio representerade partier. Partistöd för 2026 ska utbetalas enligt tidigare gällande regler.",
+      "detail": "Alla nio partier som var representerade i Kommunfullmäktige under 2024 (S, M, C, L, KD, V, SD, MP, OrP) har inkommit med redovisning inom sex månader efter periodens utgång.\n\nPartistödet består av grundstöd på 40 000 kronor per parti och år, samt mandatstöd på 2 x prisbasbeloppet per mandat och år.\n\nRedovisningarna läggs till handlingarna och partistöd för år 2026 utbetalas enligt beslutade riktlinjer.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 204",
+      "quote": "Av reglerna för partistöd framgår att partierna årligen ska lämna en skriftlig redovisning som visar att partistödet har använts för att stärka partiets ställning i den kommunala demokratin.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "partistöd",
+        "demokrati",
+        "partier"
+      ],
+      "id": "2025-10-14_ko_204",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Kommunjuristerna befullmäktigade att företräda kommunen i rättsliga ärenden",
+      "summary": "Kommunstyrelsen reviderade rättegångsfullmakten för kommunens jurister efter personförändringar. Sex kommunjurister kan nu företräda Örebro kommun vid domstolar och övriga myndigheter.",
+      "detail": "Fullmakten reviderades eftersom Pernilla Wikström Pehrson och Hanne Nielsen slutat samt Håkan Lindblom anställts. Innehållsmässigt förblir fullmakten oförändrad.\n\nFollande jurister är befullmäktigade: Per Undén, Rickard Samuelsson, Gustav Grek, Åsa Lindborg, Johanna Wilking och Håkan Lindblom.\n\nFullmakten gäller vid domstolar, övriga myndigheter, inför skiljemän och möjliggör kommunens talan i mål, ärenden, förlikning, konkurs och ackord.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 205",
+      "quote": "Kommunstyrelsen befullmäktigar härmed kommunjuristerna Per Undén, Rickard Samuelsson, Gustav Grek, Åsa Lindborg, Johanna Wilking och Håkan Lindblom eller den envar av dem i sitt ställe förordnar, att vid domstolar och övriga myndigheter i Sverige även som inför skiljemän, å kommunens och Kommunstyrelsens vägnar anhängiggöra, utföra och bevaka kommunens talan i alla förekommande mål och ärenden.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "rättegång",
+        "jurister",
+        "fullmakt"
+      ],
+      "id": "2025-10-14_ko_205",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Bus Rapid Transit etapp 2 godkänd - fokus på pendlarparkeringar",
+      "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med nya utgångspunkter om kommunikation med näringsidkare och pendlarparkering. Investeringen syftar till snabbare buskörning och ökat resande.",
+      "detail": "Projektet etapp 1 färdigställs 2025 med positiva effekter: resandet har ökat 18 procent 2023-2025, punktligheten förbättrats och restiden minskat med cirka 8 minuter mellan Resecentrum och Brickebacken.\n\nEtapp 2 ska bygga ut BRT enligt samma principer. Målet är öka resandet med 40 procent tre år efter färdigställandet och minska restiden med 30 procent från ändhållplats till Resecentrum. Projektet förväntas bidra till minskade luftföroreningar, förbättrad integration och attraktivare stadsmiljö.\n\nKommunstyrelsen lade till två villkor på initiativ av KD, S och V:\n- Särskild hänsyn till näringsidkare med god förväg kommunikation av förändringar\n- Pendlarparkeringar i anslutning till stråket ska beaktas\n\nV yrkat att genomförandeplanen ska inkludera översyn av taxor - detta avslogs.\n\nL och SD reserverade sig mot beslutet.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro stad",
+      "paragraph_ref": "§ 206",
+      "quote": "Målet för det fullständiga BRT-systemet är att öka resandet med 40 % tre år efter färdigställandet av etapp 2 och att minska restiden med 30 % från ändhållplats till resecentrum. Utöver förbättrade restider och ökat resande förväntas projektet bidra till minskade luftföroreningar, förbättrad integration och en mer attraktiv stadsmiljö.",
+      "quote_page": "s. 20-22",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "V",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "BRT",
+        "kollektivtrafik",
+        "buss",
+        "infrastruktur",
+        "pendlarparkering",
+        "näringslivskommunikation"
+      ],
+      "id": "2025-10-14_ko_206",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    },
+    {
+      "headline": "Sammanträdestider för 2026 fastställda - motton om nämndmöten",
+      "summary": "Kommunstyrelsen fastställde sammanträdestider för 2026. Karolina Wallström (L) yrkat på att nämnderna inte ska lägga möten samma vecka som fullmäktige - förslaget avslogs.",
+      "detail": "Ordförande beslutat följande:\n\n- 11 ordinarie KS-sammanträden 2026 på tisdagar kl 14.15\n- Beredningssammanträden tisdagar kl 09.00-12.00\n- 11 ordinarie fullmäktigesammanträden på tisdagar/onsdagar kl 09.00-17.00\n- Rekommendationer för nämndernas sammanträdestider\n- Utskottsammanträden planerade\n\nKarolina Wallström (L) yrkat att förvaltningen inte ska planera in driftnämndsmöten under samma vecka som fullmäktige möten, argumenterande att fritidspolitiker tvingas ta ledigt två dagar samma vecka. Susanne Lindholm Henningsson (KD) och Helena Ståhl (SD) stödde yrkandet, men majoritet avslogs det.\n\nL, KD och Wallström reserverade sig mot beslutet.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 211",
+      "quote": "Ordinarie beslutssammanträden med Kommunstyrelsen ska under år 2026 hållas klockan 14.15 tisdag 20 januari, tisdag 10 februari, tisdag 17 mars, tisdag 14 april, tisdag 12 maj, måndag 1 juni, tisdag 25 augusti, tisdag 15 september, tisdag 13 oktober, tisdag 10 november och tisdag 1 december.",
+      "quote_page": "s. 24-25",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "sammanträden",
+        "möten",
+        "demokrati",
+        "schemaläggning"
+      ],
+      "id": "2025-10-14_ko_211",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2025-10-14"
+    }
+  ],
+  "decisions_count": 13,
+  "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf",
+  "headline": "Budget 2026, BRT etapp 2, taxor och investeringar beslutas",
+  "motions_of_interest": [
+    {
+      "title": "Återbruk i alla led - utveckling och utbildning i kommunen",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Små modulära reaktorer (SMR) i översiktsplanen",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Förbättring av färdtjänsten genom att säga upp avtalet med region Örebro",
+      "party": "L",
+      "status": "Besvarad"
+    },
+    {
+      "title": "Egenskapade raster för bön på arbetstid ska upphöra",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Policy för trygghet av förtroendevalda i hot- och våldssituationer",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Tydlig policy för stöttning av förtroendevalda i hot och våldssituationer",
+      "party": "V",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Publicera trädinventering",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Flaggan i topp",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Återinför tre-timmarsbiljett på bussen",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Arbeta för att behålla övertaliga lärare",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Förbättra och förenkla för idrotten",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Krisen väntar inte på kommunen",
+      "party": "KD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Säkerställ att föreningsbidragen gynnar örebroarna",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Ställ krav på invandrare",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Krafttag för säkerhet och trygghet i skolan",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Svensk husmanskost ska vara standard i skolan och äldreomsorgen",
+      "party": "SD",
+      "status": "Remitterad"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_194.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_196.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_197.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_198.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_199.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_200.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_201.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_202.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_203.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_204.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_205.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_206.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_211.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2025-10-14_Kommunstyrelsen"
+  }
+}

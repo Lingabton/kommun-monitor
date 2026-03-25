@@ -1,0 +1,44 @@
+{
+  "id": "2024-03-20_ko_63",
+  "headline": "Systematiska arbetsmiljöarbetet visar utmaningar - återkoppling avslås",
+  "summary": "Årlig uppföljning av arbetsmiljöarbetet 2023 visar lokalbrist, höga arbetsbelastning och hot/våld som utmaningar. Vänsterpartiet nekades återkoppling om åtgärder.",
+  "detail": "Rapporten över det systematiska arbetsmiljöarbetet (SAM) för 2023 identifierade särskilda utmaningar: lokaler, nya regelverk för dygn- och veckovila, hög arbetsbelastning, hot och våld, och social arbetsmiljö.\n\nKommunen prioriterar resursplanering för hållbar bemanning och stärkt organisatorisk och social arbetsmiljö (OSA). Fokus ligger på positiv hälsa och minskat våld.\n\nVänsterpartiet (Martha Wicklund) yrkade bifall till förslaget med tillägget att Kommunstyrelsen skulle få återkoppling senast i maj om arbetet med åtgärder. Detta tilläggsyrkande avslogs. Alla V-ledamöter reserverade sig.",
+  "category": "trygghet",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 63",
+  "tags": [
+    "arbetsmiljö",
+    "personalsäkerhet",
+    "hot och våld",
+    "rapport"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "V"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Arbetsmiljöutmaningar som sticker ut är lokaler, nya regler för dygn- och veckovila, hög arbetsbelastning, hot och våld och den sociala arbetsmiljön.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-03-20_Kommunfullmäktige",
+    "date": "2024-03-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-20_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_63.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-20_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-20_ko_63/"
+  }
+}

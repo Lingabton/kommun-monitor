@@ -1,0 +1,45 @@
+{
+  "id": "2024-09-17_ko_163",
+  "headline": "Motion om parlamentarisk arbetsgrupp för delade turer avslås",
+  "summary": "Kommunstyrelsen avslår Vänsterpartiets motion om att tillsätta parlamentarisk arbetsgrupp för att ta bort delade turer inom äldreomsorgen.",
+  "detail": "Vänsterpartiet motionerade för att tillsätta en parlamentarisk arbetsgrupp som skulle komma med förslag på hur kommunen tar bort ofrivilliga delade turer inom äldreomsorgen. Motionen avslås.\n\nKommunledningen bedömer att det finns oklarheter kring mandatet för en sådan arbetsgrupp och föredrar att ett konstruktivt arbete fortsätter inom befintliga nämnder. Samtidigt konstaterar majoriteten att det är en viktig fråga att på längre sikt arbeta bort ofrivilliga delade turer.\n\nArbete pågår redan med att se över bemanning, schemaläggning och NOD-organisation för att minska vikariekostnader, övertid och få bort ofrivilliga delade turer. Kortsiktigt finns dock inte förutsättningar att säkerställa grundbemanningen utan ökade kostnader.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 163",
+  "tags": [
+    "äldreomsorg",
+    "arbetsmiljö",
+    "delade turer"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Att arbeta bort de ofrivilliga delade turerna kräver en långsiktig plan som bygger på ett helhetsgrepp om hur kommunen arbetar med bemanning.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2024-09-17_Kommunstyrelsen",
+    "date": "2024-09-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-17_ko_163.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-17_ko_163/"
+  }
+}

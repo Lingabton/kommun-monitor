@@ -1,0 +1,47 @@
+{
+  "id": "2025-04-23_ko_109",
+  "headline": "Årsredovisning 2024 godkänd, 645 mnkr resultat",
+  "summary": "Kommunfullmäktige godkände årsredovisningen för 2024 med ett kommunkoncernresultat på 645 miljoner kronor. Balanskravet och de flesta finansiella mål uppnåddes.",
+  "detail": "Kommunkoncernen gör ett resultat på 645 miljoner kronor, varav kommunens egen resultat uppgår till 530 miljoner kronor - 203 miljoner kronor högre än budgeterat. Positiv börsutveckling 2024 påverkade kapitalförvaltningen positivt, liksom bättre än budgeterade statsbidrag. Kommunens investeringar uppgick till 948 miljoner kronor, vilket är 529 miljoner lägre än budgeterat.\n\nAv 19 verksamhetsmål uppnåddes 13. Sex av åtta mål av betydelse för god ekonomisk hushållning uppnåddes. Kommunfullmäktige konstaterade att Örebro kommun uppfyller målen för god ekonomisk hushållning och har stabil ekonomi trots osäkert världsläge.\n\nJusteringar gjordes för intraprenadernas ackumulerade resultat från 36,7 miljoner kronor till 38,5 miljoner kronor för året 2024. Beslut fattades också om att reservera 203 miljoner kronor inom eget kapital för resultatreserven.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 109",
+  "tags": [
+    "ekonomi",
+    "budget",
+    "årsredovisning",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den sammantagna bedömningen baserad på Kommunfullmäktiges verksamhetsmål och finansiella mål är att Örebro kommun uppfyller målen av betydelse för god ekonomisk hushållning.",
+  "quote_page": "s. 15-16",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_109.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_109/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2025-08-26_ko_167",
+  "headline": "Byggnadsvårdspris 2025 tillgodosedning av SD-motion",
+  "summary": "Motion från Carola Sunesson (SD) om byggnadsvårdspris anses tillgodosedd då pris för 2025 kommer delas ut med planerad utvärdering.",
+  "detail": "Carola Sunesson (SD) föreslog att Örebro kommun utreder hur ett pris för byggnadsvård kan ges utrymme inom eller komplettera nuvarande byggnadspris.\n\nBygg- och miljönämnden bedömde motionen som tillgodosedd eftersom byggnadsvårdspris för 2025 kommer delas ut och en utvärdering planeras för att se om priset ska permanentas.\n\nHelena Ståhl (SD) yrkade bifall, men kommunstyrelsen beslutade enligt nämndens förslag. Ärendet ska vidare till Kommunfullmäktige.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 167",
+  "tags": [
+    "byggnadsarv",
+    "kultur",
+    "pris"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Bedömningen är att motionen bör anses vara tillgodosedd då ett byggnadsvårdspris för 2025 kommer delas ut samt att en utvärdering kommer göras för att se om priset ska permanentas.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_167.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_167/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-27_ko_313",
+  "headline": "Region Örebro Innovation AB - ändringar i ägardirektiv godkända",
+  "summary": "Kommunfullmäktige godkände ändringar i aktieägaravtalet för Region Örebro Innovation AB. Örebro Universitet ska framgent betala driftsbidrag direkt istället för via sitt holdingbolag.",
+  "detail": "Region Örebro Innovation AB ägs av Region Örebro läns förvaltnings AB, Örebro Rådhus AB och Örebro Universitet Holding AB. Bolagets verksamhet finansieras genom årliga driftsbidrag från Region Örebro län, Örebro kommun och Örebro Universitet Holding AB.\n\nÖrebro Universitet Holding AB informerade om att driftsbidrag framgent ska betalas av Örebro Universitet direkt istället för via holdingbolaget. Därför behövde aktieägaravtalet ändras. Även texten om finansiering i ägardirektivet för Inkubera skulle förtydligas.\n\nKommunfullmäktige gav Örebro Rådhus AB i uppdrag att ingå ett tilläggsavtal enligt framtaget förslag. Ändringarna får inga negativa konsekvenser för andra ägare eller bolaget.\n\nÖrebro för Förändring reserverade sig mot beslutet, med Markus Allard som talesperson, och yrkade istället på att kommunen skulle avyttra bolaget.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 313",
+  "tags": [
+    "Region Örebro Innovation AB",
+    "ägardirektiv",
+    "Örebro Universitet",
+    "innovation"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Örebro Universitet Holding AB har informerat om att driftsbidrag ska betalas av Örebro Universitet i stället för av Örebro Universitet Holding AB och att den aktuella punkten i aktieägaravtalet därför behöver ändras.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_313.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_313/"
+  }
+}

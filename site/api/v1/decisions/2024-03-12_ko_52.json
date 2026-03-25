@@ -1,0 +1,47 @@
+{
+  "id": "2024-03-12_ko_52",
+  "headline": "Kommundirektören får uppdrag att arbeta med arbetsmiljöprioriteras",
+  "summary": "Kommunstyrelsen gav kommundirektören i uppdrag att arbeta med prioriterade arbetsmiljöområden som identifierats utifrån årlig uppföljning.",
+  "detail": "Den årliga uppföljningen av det systematiska arbetsmiljöarbetet 2023 identifierade flera utmaningar som sticker ut eller är gemensamma för flera nämnder: lokaler, nya regler för dygn- och veckovila, hög arbetsbelastning, hot och våld samt den sociala arbetsmiljön.\n\nKommunstyrelsen beslutade att kommundirektören får i uppdrag att arbeta med dessa prioriterade områden. Speciell fokus ska ligga på resursplanering för en mer hållbar bemanningssituation, stärkande av den organisatoriska och sociala arbetsmiljön (OSA), samt arbete för att minska hot och våldsrisker.\n\nVänsterpartiet föresloga ett tilläggsyrkande om återkoppling på arbetet senast i maj, vilket avslogs. Martha Wicklund (V) reserverade sig mot beslutet.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 52",
+  "tags": [
+    "arbetsmiljö",
+    "bemanning",
+    "välfärd",
+    "organisatorisk miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Arbetsmiljöutmaningar som sticker ut eller är gemensamt för flera nämnder är lokaler, nya regler för dygn- och veckovila, hög arbetsbelastning, hot och våld och den sociala arbetsmiljön.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2024-03-12_Kommunstyrelsen",
+    "date": "2024-03-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-12_ko_52.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-12_ko_52/"
+  }
+}

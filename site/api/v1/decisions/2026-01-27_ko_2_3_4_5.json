@@ -1,0 +1,48 @@
+{
+  "id": "2026-01-27_ko_2_3_4_5",
+  "headline": "Flera SD-motioner bordlades på ordförandens initiativ",
+  "summary": "Ordförande bordlade flertalet motioner från Sverigedemokraterna, inklusive kärnkraft, arbetsmiljö, Järntorget och Kilsmo skola.",
+  "detail": "Ordförande Jan Zetterqvist (S) yrkade på och fick bifall till bordläggning av flera motioner från Helena Ståhl (SD) och andra SD-ledamöter. Dessa motioner gällde:\n\n1. SMR (små modulära reaktorer) i översiktsplanen - föreslogs avslås då det inte är tydligt på nationell nivå hur detta ska hanteras.\n\n2. Egenskapade raster för bön på arbetstid - kommunstyrelsen föreslog att alla tre delförslag skulle avslås, med argumentet att kommun följer lagstiftning och att nuvarande chefskontroll är tillräcklig.\n\n3. Rivning av fontänen på Järntorget - förvaltningen ansåg att problemen på torget beror på brist på innehål och aktiviteter, inte på frånvaron av parkering.\n\n4. Återöppnande av Kilsmo skola - skolan avvecklades 2020 med 14 av 15 röster. SD var ensamt mot. Argumenten var lågt elevantal och höga kostnader per elev.\n\nAlla fyra ärenden bordlades enligt ordförandens yrkande.",
+  "category": "politik",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 2, 3, 4, 5",
+  "tags": [
+    "Sverigedemokraterna",
+    "bordläggning",
+    "kärnkraft",
+    "Järntorget",
+    "Kilsmo skola"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bordläggning"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) yrkar att alla motioner från Helena Ståhl (SD) på dagens dagordningen bordläggs.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2026-01-27_Kommunfullmäktige",
+    "date": "2026-01-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-27_ko_2_3_4_5.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_2_3_4_5/"
+  }
+}

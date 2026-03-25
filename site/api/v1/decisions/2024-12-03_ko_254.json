@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_254",
+  "headline": "Kommunstyrelsens delegationsordning justerad",
+  "summary": "Kommunstyrelsen antog ändringar i delegationsordningen kopplat till sociala hyreskontrakt och direktorstitelförändringar.",
+  "detail": "Ändringar i delegationsordningen följer revideringen av nämndreglementet. Delar som berör sociala hyreskontrakt tas bort under punkt 6, och justeringar görs även under punkterna 5, 7 för att spegla nya direktorstitlar och delegationsansvar.\n\nÄndringarna gällande sociala hyreskontrakt är beroende av att Kommunfullmäktige godkänner nämndreglementets revidering. Beslutet träder i kraft 1 januari 2025.\n\nMarkus Allard (ÖrP) yrkade avslag men förlorade.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 254",
+  "tags": [
+    "delegering",
+    "organisation",
+    "reglementen"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Reglemente för Kommunstyrelsens föreslås revideras så att ansvaret för att teckna avtal med fastighetsägare för ändamålet sociala hyreskontrakt samt tillhörande hyresadministration tas bort från Kommunstyrelsens övergripande uppgifter.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_254.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_254/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2024-10-23_ko_275",
+  "headline": "Informationshanteringspolicy bordlades",
+  "summary": "Ärendet om antagande av informationshanteringspolicy för Örebro kommun bordlades utan beslut.",
+  "detail": "En samlad policy för informationshantering förväntades förtydliga krav på informationshantering för informationsägare och medarbetare. Policyn skulle gälla Örebro kommun och majoritetsägda bolag. ÖrP reserverade sig mot beslutet till förmån för eget avslagsyrkande. Ärendet bordlades utan att slutligt beslut fattades.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 275",
+  "tags": [
+    "informationshantering",
+    "policy"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Bordlägning"
+  },
+  "quote": "En samlad policy för informationshantering förväntas förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-10-23_Kommunfullmäktige",
+    "date": "2024-10-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-23_ko_275.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-23_ko_275/"
+  }
+}

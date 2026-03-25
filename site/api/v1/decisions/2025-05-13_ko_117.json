@@ -1,0 +1,44 @@
+{
+  "id": "2025-05-13_ko_117",
+  "headline": "Motion om kulturarv i skolor avslaget",
+  "summary": "Motion från SD om att stärka undervisningen i kulturarv och lokalhistoria i skolor avslås som stridande mot lärarnas professionella frihet.",
+  "detail": "Helena Ståhl, Carola Sunesson och Habib Brini (SD) föreslog att varje skolklass minst en gång per termin ska genomföra besök på lokalhistoriskt viktiga platser och att sakkunniga från föreningar, länsstyrelsen eller länsmuseet bjuds in till klasserna.\n\nKommunledningsförvaltningen menade att detta strider mot lärarnas ansvar och professionella frihet att utforma undervisningen enligt nationella läroplan och kursplaner. Förslaget bedömdes som alltför styrande för undervisningen.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen men avslogs. Ståhl, Larsson (SD) och Allard reserverade sig.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 117",
+  "tags": [
+    "skola",
+    "kulturarv",
+    "lokalhistoria",
+    "undervisning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionens förslag innebär en mer styrd inriktning av undervisningen, vilket inte fullt ut överensstämmer med lärarnas ansvar och professionella frihet.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_117.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_117/"
+  }
+}

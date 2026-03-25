@@ -1,0 +1,47 @@
+{
+  "id": "2023-05-31_ko_179",
+  "headline": "Placeringspolicy för kapitalförvaltning omstridd",
+  "summary": "Kommunfullmäktige antog reviderad placeringspolicy med omfördelning av 4,2 mdkr till pensionsportföljen. V, MP, KD och ÖrP motsatte sig etiska krav.",
+  "detail": "Revisionen av placeringspolicyn från 2017 föreslogs för att bättre matcha avsatta medel med åtaganden. Pensionsportföljen behövde förstärkas med 4,2 miljarder kronor för att motsvara 120% av pensionsskulden.\n\nOlika partier föreslog olika etiska kriterier för placeringar. Vänsterpartiet, Miljöpartiet och KD ville stärkare restriktioner mot placeringar i fossila bränslen, vapen och tobak/alkohol. ÖrP förespråkade mer pragmatisk tillämpning med fokus på risk och avkastning.\n\nKommunfullmäktige beslutade enligt Kommunstyrelsens förslag att anta policyn. Fem V-ledamöter, två MP-ledamöter, tre KD-ledamöter och fyra ÖrP-ledamöter reserverade sig.\n\nOmfördelningen ska genomföras senast 2023-06-30. Avkastningsmål sattes till 2,25% för pensionsportföljen och 1,50% för långfristig likviditetsportfölj.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 179",
+  "tags": [
+    "placeringar",
+    "kapitalförvaltning",
+    "pensioner",
+    "etik",
+    "fossila bränslen"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "MP",
+      "KD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Målet för pensionsportföljen ändras till att kapitalet över tid ska motsvara 120% av åtagandet för att skapa en buffert för att möta eventuella förändringar.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2023-05-31_Kommunfullmäktige",
+    "date": "2023-05-31",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-31_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-31_ko_179.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-31_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-31_ko_179/"
+  }
+}

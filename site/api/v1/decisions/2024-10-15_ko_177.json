@@ -1,0 +1,47 @@
+{
+  "id": "2024-10-15_ko_177",
+  "headline": "Lokalisering Nobelbanan: 10,7 milj kr avsatt för utredning",
+  "summary": "Kommunstyrelsen beviljade 10,7 miljoner kronor (Örebros andel) för utredning av järnvägsförbindelsen Örebro-Kristinehamn.",
+  "detail": "Kommunstyrelsen beviljade budgetanslag för Örebro kommuns andel av lokaliseringsutredningen för Nobelbanan (Örebro-Kristinehamn), en av fyra delsträckor i Oslo-Stockholm-förbindelsen. Bolaget Oslo-Stockholm 255 AB ägs gemensamt av Örebro kommun, Region Örebro län, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland (vardera 16,67%).\n\nEU-medel för 50 % finansiering avslogs i juni 2024. Bolagets ägare beslöt därför att finansiera hela utredningen själva. Total kostnad: 64,4 mnkr, varav Örebro: 10,7 mnkr fördelat på 2,5 mnkr 2024, 5,9 mnkr 2025 och 2,3 mnkr 2026. Utredningen beräknas slutföras mars 2026.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro-Kristinehamn",
+  "paragraph_ref": "§ 177",
+  "tags": [
+    "järnväg",
+    "infrastruktur",
+    "Oslo-Stockholm",
+    "Nobelbanan",
+    "investering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Bolagets totala kostnad för utredningen beräknas till 64,4 mnkr, varav Örebro kommuns finansiering motsvarar 16,67%, dvs totalt 10,7 mnkr.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2024-10-15_Kommunstyrelsen",
+    "date": "2024-10-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-15_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_177.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-15_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-15_ko_177/"
+  }
+}

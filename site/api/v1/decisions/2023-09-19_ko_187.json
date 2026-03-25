@@ -1,0 +1,47 @@
+{
+  "id": "2023-09-19_ko_187",
+  "headline": "14 miljoner för hantering överskottsmassor Pappersbruket",
+  "summary": "14 miljoner kronor omfördelas för sortering och omhändertagande av överskottsmassor på Pappersbruket 41. Ytterligare 600 000 kr avsätts för förstudie av masshanteringsplatser.",
+  "detail": "På Pappersbruket 41 finns cirka 17 000 kubikmeter överskottsmassor som måste sorteras, krossas och siktas för att kunna återanvändas. Massorna behöver även tas om hand för att tillgängliggöra marken för bostäder. Överskottsmassorna har legat flera år och riskerar att betraktas som olaglig deponi.\n\nKostnader för sortering, krossning, siktning och omhändertagande uppskattas till 12-14 mkr. När Pappersbruket 41 detaljplaneläggs för annat än industriändamål måste Teknik- och serviceförvaltningens mellanlagringsverksamhet flyttas. En massbalansprognosutredning visar miljömässiga och ekonomiska vinster i ökad återanvändning. För nästa steg avsätts 600 000 kr för utredning av masshanteringsplatser.\n\nLiberalernas Karolina Wallström föreslog alternativ finansiering men Kommunstyrelsen följde Miljö- och stadsbyggnadsförvaltningens förslag. Markus Allard (ÖrP) yrkade på återremiss men detta avslogs.",
+  "category": "miljo",
+  "contested": true,
+  "location": "Pappersbruket 41",
+  "paragraph_ref": "§ 187",
+  "tags": [
+    "Pappersbruket",
+    "miljö",
+    "masshantering",
+    "överskottsmassor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "SD",
+      "MP",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Överskottsmassorna har legat flera år och behöver hanteras, annars riskerar de att betraktas som olaglig deponi.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_187.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_187/"
+  }
+}

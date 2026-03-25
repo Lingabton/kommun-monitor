@@ -1,0 +1,44 @@
+{
+  "id": "2026-02-10_ko_28",
+  "headline": "Allvarligt: 145 sociala beslut ej verkställda inom rimlig tid",
+  "summary": "Rapport visar att många beslut enligt socialtjänstlagen (SoL) och LSS inte verkställs inom tre månader. Funktionsstödsnämnden har 80 overkställda beslut, Vård- och omsorgnämnden 51.",
+  "detail": "SOCIALNÄMNDEN: 14 beslut fortsatt ej verkställda inom tre månader (ner från 26 föregående kvartal). Totalt 53 rapporterade beslut i Q3 2025.\n\nVÅRD- OCH OMSORGNÄMNDEN: 51 beslut ej verkställda inom tre månader. Ökning till 101 totala rapporterade beslut från 55 förra kvartalet - en ökning om 46 ärenden.\n\nFUNKTIONSSTÖDSNÄMNDEN: Värst situation med 80 overkställda beslut (upp från 59). Totalt 105 rapporterade beslut.\n\nKRÄVS UTREDNING: Martha Wicklund (V) och Markus Allard (ÖrP) kräver att kommunledningsförvaltningen utreder orsakerna och tar fram handlingsplan. John Johansson (S) stöder befintliga åtgärder. Yrkandet avslås.\n\nKAROLINA WALLSTRÖM (L) lämnar särskilt yttrande om bristen.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 28",
+  "tags": [
+    "socialtjänst",
+    "LSS",
+    "verkställning",
+    "välfärd",
+    "bemanning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Vid kvartalets slut var 51 beslut fortsatt ej verkställda inom tre månader [vård- och omsorgnämnden], 80 beslut ej verkställda [funktionsstödsnämnden].",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2026-02-10_Kommunstyrelsen",
+    "date": "2026-02-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-02-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-02-10_ko_28.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-02-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-02-10_ko_28/"
+  }
+}

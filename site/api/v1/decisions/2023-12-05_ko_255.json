@@ -1,0 +1,43 @@
+{
+  "id": "2023-12-05_ko_255",
+  "headline": "Kulturpolitiska och idrottspolitiska program blir permanenta",
+  "summary": "Kommunstyrelsen beslutade att göra de kulturpolitiska och idrottspolitiska programmen permanenta med utvärdering vid varje mandatperiod.",
+  "detail": "De kulturpolitiska och idrottspolitiska programmen är styrdokument som uttrycker värdegrund och önskvärd utveckling av kultur- och idrottslivet i Örebro. Programmen antogs av Kommunfullmäktige 2018 med giltighetstid 2018–2022.\n\nFörvaltningen bedömde att de strategiska ställningstagandena i programmen fortfarande är aktuella och väl samordnade med andra mål. Kommunstyrelsen beslutade därför att ändra giltighetstiden från begränsad tid till permanent, med utvärdering inför varje mandatperiod. Beslutet sendes till Kommunfullmäktige. Kristdemokraterna och Liberalerna reserverade sig med önskemål om revidering av idrottsprogrammet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 255",
+  "tags": [
+    "kulturpolitik",
+    "idrottspolitik",
+    "styrdokument",
+    "program"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "L"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kulturpolitiskt program (Km 396/2016) ska gälla till och med att behov av revidering uppstår och ställningstaganden inte längre ses aktuella.",
+  "quote_page": "s. 26",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_255.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_255/"
+  }
+}

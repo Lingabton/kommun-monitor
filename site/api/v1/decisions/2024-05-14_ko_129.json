@@ -1,0 +1,47 @@
+{
+  "id": "2024-05-14_ko_129",
+  "headline": "Motion om Vätternvatten-folkomröstning avslagen",
+  "summary": "Kommunfullmäktige avslår Örebropartiets motion om att genomföra folkomröstning angående Väternnvattenprojektet. Kommunledningen motsätter sig omröstning.",
+  "detail": "Markus Allard och Peter Springare från Örebropartiet lämnade in motionen 11 augusti 2022. De menade att Väternnvatten är en så avgörande fråga för kommunen att en folkomröstning bör genomföras.\n\nKommunledningen (S, M, C) är enig om att Väternnvatten är en mycket viktig fråga för vattenförsörjningen för flera kommuner. Projektet är enligt ledningen ett av landets viktigaste dricksvattenprojekt. Kommunledningens slutsats är att nuvarande vattenförsörjning är sårbar och att Väternnvatten är lösningen. De motsätter sig folkomröstning.\n\nVoteringen resulterade i 51 ja-röster (avslag på motionen) mot 12 nej-röster (bifall till motionen). Förutom Örebropartiet röstade även Sverigedemokraterna för folkomröstning. Ärendet bordlades flera gånger innan slutlig behandling.\n\nReservationer lämnades av Örebropartiet (5 ledamöter) och Sverigedemokraterna (7 ledamöter).",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 129",
+  "tags": [
+    "Väternnvatten",
+    "vattenförsörjning",
+    "infrastruktur",
+    "folkomröstning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Socialdemokraterna, Moderaterna och Centerpartiet (Kommunledningen) är eniga med Örebropartiet om att Vätternvatten är en mycket avgörande fråga för örebroarna.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2024-05-14_Kommunfullmäktige",
+    "date": "2024-05-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-14_ko_129.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-14_ko_129/"
+  }
+}

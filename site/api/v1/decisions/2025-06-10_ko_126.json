@@ -1,0 +1,45 @@
+{
+  "id": "2025-06-10_ko_126",
+  "headline": "Delårsrapport 1 fastställd - positiv avvikelse 16,2 mnkr",
+  "summary": "Kommunstyrelsen fastställde delårsrapporten för första halvåret 2025. Kommunledningsförvaltningen redovisar positiv avvikelse om 16,2 mnkr och bedömer att strategiska mål är på rätt väg.",
+  "detail": "Kommunledningsförvaltningen presenterade delårsrapport för första hälften av 2025 där kommunstyrelsens verksamhet bedömdes vara i fas med strategiska mål och uppdrag. Rapporten visade på en positiv budgetavvikelse om 16,2 mnkr.\n\nMarkus Allard (ÖrP) yrkade avslag på rapporten, men detta avslogs. Wallström (L), Henningsson (KD) och Rehn Janowicz (V) deltog inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 126",
+  "tags": [
+    "budget",
+    "kommunstyrelsen",
+    "prognos",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "V",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunstyrelsens egen verksamhet bedöms vara i fas med de strategiska mål och uppdrag som finns.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_126.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_126/"
+  }
+}

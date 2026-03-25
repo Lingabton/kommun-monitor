@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-11_ko_225",
+  "headline": "Reviderad konstpolicy antas trots kritik från högern",
+  "summary": "Kultur- och fritidsnämndens förslag till reviderad konstpolicy antas. SD och ÖrP reserverar sig och yrkade på att enprocentsregeln ska upphöra helt.",
+  "detail": "Konstpolicyn för Örebro kommun antogs 2022 och nu föreslås en revidering av hur medel från enprocentsregeln (én procent av byggkostnader avsatt för konstnärlig utsmyckning) ska användas.\n\nDen nya policyn föreslår flexibel fördelning av enprocentsmedel mellan prioriterade projekt som standardförfarande. Sedan Lokalplaneringsenheten (LPE) antog nya riktlinjer under 2022 har det uppdagats skillnader i formuleringar mellan LPE:s riktlinjer och konstpolicyn gällande undantag från enprocentsregeln. Revidering föreslår liknade formuleringar i båda dokumenten.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade på att enprocentsregeln ska avvecklas helt, men detta avslogs. SD och ÖrP reserverar sig mot beslutet. Ärendet går vidare till Kommunfullmäktige för slutgiltigt beslut.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 225",
+  "tags": [
+    "konstpolicy",
+    "enprocentsregeln",
+    "kultur",
+    "styrdokument"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Förslag till reviderad konstpolicy antas. Ärendet ska vidare till Kommunfullmäktige för beslut.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_225.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_225/"
+  }
+}

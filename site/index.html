@@ -340,7 +340,8 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
     <h1>Vad beslutade dina <em>politiker?</em></h1>
     <p class="sub">Vi läser Örebro kommuns protokoll och sammanfattar varje beslut, så du slipper hundratals sidor PDF.</p>
     <div class="stats" id="hs"></div>
-    <div style="margin-top:16px">
+    <div style="font-size:11px;opacity:.4;margin-top:8px" id="hero-updated"></div>
+    <div style="margin-top:12px">
       <a href="#beslut" style="display:inline-block;padding:10px 22px;background:#fff;color:var(--navy);border-radius:8px;font-size:14px;font-weight:600">Se senaste besluten ↓</a>
     </div>
   </div>
@@ -576,6 +577,9 @@ async function init() {
 function renderStats() {
   const contested = A.filter(d => isContested(d)).length;
   const e = document.getElementById("hs");
+  const ds = D.meetings.map(m => m.date).sort();
+  const latest = ds[ds.length - 1];
+  document.getElementById("hero-updated").textContent = "Senast uppdaterad: " + fmt(latest) + " · Data sedan " + ds[0].slice(0,4);
   const items = [
     { n: A.length, l: "beslut", c: "#60a5fa" },
     { n: contested, l: "omstridda", c: "#f87171" },

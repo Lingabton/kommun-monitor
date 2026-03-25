@@ -1,0 +1,45 @@
+{
+  "id": "2026-01-27_ko_13",
+  "headline": "Region Stockholm blir delägare i Oslo-Stockholm 255 AB",
+  "summary": "Kommunfullmäktige godkände att Region Stockholm blir delägare i infrastrukturbolaget Oslo-Stockholm 255 AB genom en nyemission.",
+  "detail": "Oslo-Stockholm 255 AB ägs av Örebro Rådhus AB, Region Örebro läns förvaltning AB, Karlstads kommun, Region Värmland, Västerås kommun och Region Västmanland. Region Stockholm har uttryckt önskan att bli delägare.\n\nBolagets aktiekapital ökas med 8 800 kronor genom nyemission av 88 aktier. Region Stockholm tecknar 84 aktier, medan Region Örebro läns förvaltning AB, Region Värmland, Karlstads kommun och Örebro Rådhus AB var tecknar en aktie. Aktierna tecknas till kvotvärdet 100 kronor per aktie plus överkurs 800 kronor per aktie.\n\nKommunfullmäktige gav Örebro Rådhus AB i uppdrag att ingå nytt aktieägaravtal. Kommunens stämmoombud fick mandat att rösta för godkännande av reviderad bolagsordning och ägardirektiv vid bolagsstämman.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 13",
+  "tags": [
+    "Oslo-Stockholm AB",
+    "aktieägarskifte",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Aktieägaravtal, bolagsordning och ägardirektiv har reviderats i samråd mellan nuvarande ägare och Region Stockholm. Dessa dokument behöver godkännas av respektive ägares fullmäktige.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2026-01-27_Kommunfullmäktige",
+    "date": "2026-01-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-27_ko_13.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_13/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-01-20_ko_14",
+  "headline": "Åsa Lindahl ny signalskyddschef för kommunen",
+  "summary": "Kommunstyrelsen utser Åsa Lindahl till ny signalskyddschef. Eva Barrera Glader entledigs från posten men förordnas som biträdande.",
+  "detail": "Kommunstyrelsen entledigar Eva Barrera Glader från sin tjänst som signalskyddschef och utser Åsa Lindahl till nya signalskyddschefen för Örebro kommun.\n\nSignalskydd handlar om att skydda känslig information vid kommunicering med externa aktörer. Det är ett växande område inom säkerhetsskyddet och är tätt kopplat till kommunens arbete med civilt försvar.\n\nVolontär Barrera Glader förordnas som biträdande signalskyddschef.\n\nSignalskyddschefen rapporterar tillsammans med säkerhetsskyddschefen direkt till kommundirektören i säkerhetsfrågor.\n\nMarkus Allard (ÖrP) yrkade avslag men beslutet gick igenom.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 14",
+  "tags": [
+    "signalskydd",
+    "säkerhet",
+    "information",
+    "civilt försvar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "För att säkerställa att kommunens signalskydd fungerar och upprätthålls i enlighet med gällande bestämmelser, ska kommunen därför förordna en signalskyddschef.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_14.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_14/"
+  }
+}

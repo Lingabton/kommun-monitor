@@ -1,8 +1,8 @@
 {
   "id": "2025-02-11_ko_31",
-  "headline": "Tilläggsanslag på 17 MSEK för lokalförsörjning och ombudgetering godkända",
-  "summary": "Kommunstyrelsen beviljades tilläggsanslag på 17 044 tkr för kostnadsökningar bland annat för färdigställda lokalförsörjningsobjekt. Ombudgetering genomfördes för att hantera organisationsförändringar.",
-  "detail": "Tilläggsanslagen finansierades från Kommunstyrelsens utrymme och från medeilen för beslutade konsekvenser av investeringar och lokalförsörjning. Ombudgetering mellan nämnder genomfördes för att hantera organisationsförändringar.\n\nMarkus Allard (ÖrP) yrkade avslag med hänvisning till ÖrP:s alternativa budgetförslag, men röstades ned.",
+  "headline": "Tilläggsanslag 17 miljoner kronor för lokalförsörjning",
+  "summary": "Kommunstyrelsen beslutar att ge tilläggsanslag på totalt 17 miljoner kronor för kostnadsökningar och lokalförsörjningsobjekt.",
+  "detail": "Ärendet omfattar tilläggsanslag och ombudgetering för kostnadsökningar och oförutsedda kostnader under budgetåret 2025. Tilläggsansklagen avser bland annat kompensation till nämnder för färdigställda lokalförsörjningsobjekt. Ombudgetering sker på grund av organisationsförändringar.\n\nTotalt beviljas 17 044 tkr i tilläggsanslag. Finansieringen sker ur Kommunstyrelsens utrymme samt från anslagen för beslutade konsekvenser av investeringar och lokalförsörjning.\n\nÖrebropartiet motsatte sig beslutet och hänvisade till sitt eget budgetförslag. Övriga partier godkände den förvaltningssamordnade propositionen.",
   "category": "budget",
   "contested": true,
   "location": null,
@@ -10,8 +10,7 @@
   "tags": [
     "budget",
     "lokalförsörjning",
-    "tilläggsanslag",
-    "ombudgetering"
+    "anslag"
   ],
   "voting": {
     "for": [
@@ -19,28 +18,28 @@
       "M",
       "C",
       "L",
+      "KD",
       "V",
-      "SD",
-      "KD"
+      "MP"
     ],
-    "against": [
+    "against": [],
+    "abstained": [
       "ÖrP"
     ],
-    "abstained": [],
     "result": "Bifall"
   },
   "quote": "Tilläggsanslag beviljas med totalt 17 044 tkr enligt Kommunledningsförvaltningens förslag.",
   "quote_page": "s. 6",
   "meeting": {
-    "id": "2025-02-11_ko",
+    "id": "2025-02-11_Kommunstyrelsen",
     "date": "2025-02-11",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7293c3c419540ac12cf22a6/1741256837411/2025-02-11%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-02-11_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_31.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_31/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-02-11_ko_31.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-02-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-02-11_ko_31/"
   }
 }

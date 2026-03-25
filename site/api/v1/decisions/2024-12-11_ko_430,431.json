@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-11_ko_430,431",
+  "headline": "Solceller – motioner delvis tillgodosedda och avslagna",
+  "summary": "Två motioner om solcellsanläggningar hanterades: en delvis tillgodosedd, en helt avslaget.",
+  "detail": "Motion från V (§430) om solcllar innehöll tre förslag: att Kumbro utveckling ska ta fram solcellsparker, att bolagen kartlägger och investerar i solceller, och att erbjuda privatpersoner möjlighet att abonnera.\n\nDe två första förslagen ansågs tillgodosedda då berörda bolag redan fått uppdrag/möjlighet att uppföra solcellsanläggningar. Det tredje förslaget (abonnemang) avslogs då kommunen arbetar på andra sätt för klimatsmart el.\n\nMotion från Sara Bronner/MP (§431) om Kumbro Utveckling AB:s hyra av ytor för solceller avslogs helt.\n\nV och MP reserverade sig mot båda besluten.",
+  "category": "miljö",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 430,431",
+  "tags": [
+    "solceller",
+    "förnybar energi",
+    "Kumbro utveckling",
+    "klimat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "V",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Bifall/Avslag blandat"
+  },
+  "quote": "Bedömningen är att de två första förslagen är tillgodosedda då de berörda bolagen har fått i uppdrag och/eller givits möjlighet att uppföra solcellsanläggningar och arbete pågår.",
+  "quote_page": "s. 27-28",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_430,431.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_430,431/"
+  }
+}

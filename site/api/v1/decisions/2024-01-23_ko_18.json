@@ -1,0 +1,36 @@
+{
+  "id": "2024-01-23_ko_18",
+  "headline": "Flexibelt boende äldreomsorg-studenter - V motion bordlad",
+  "summary": "Vänsterpartiet motion om flexibel boendeform för äldre, studenter och ensamkommande barn bordlades.",
+  "detail": "Vänsterpartiet föreslog motion där man pekar på bostadsbristen i Sverige och föreslår utreda flexibel boendeform där äldre med omsorgsbehov, studenter och ensamkommande flyktingbarn kan dela boendemiljö. Motion föreslår även att kommunen planlägg för sådant boende.\n\nKommunledningen avslår motionen. Ärendet bordlades tidigare (24 oktober, 22 november, 12 december 2023) och bordlades igen utan slutgöring.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 18",
+  "tags": [
+    "boende",
+    "äldreomsorg",
+    "studenter",
+    "migration"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Borderläggning"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_18.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_18/"
+  }
+}

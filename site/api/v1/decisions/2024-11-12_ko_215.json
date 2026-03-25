@@ -1,0 +1,44 @@
+{
+  "id": "2024-11-12_ko_215",
+  "headline": "Ny arbetsmiljöpolicy antagen för Örebro kommun",
+  "summary": "Kommunstyrelsen antar ny arbetsmiljöpolicy som ersätter den från 2015. Policyn ska beskriva den arbetsmiljö kommunen strävar efter och vägleda medarbetare, chefer och politiker.",
+  "detail": "Den nya arbetsmiljöpolicyn ersätter den tidigare från 2015 och syftar till att beskriva vilken arbetsmiljö arbetsgivaren vill erbjuda. Policyn betonar trygghet, välmående och hållbarhet.\n\nMärtha Wicklund (V) och Markus Allard (ÖrP) yrkade på återremiss för ändringar enligt Vänsterpartiet samt ville lägga till att kommunen ska ha uppföljande samtal med medarbetare som slutar. Dessa yrkanden avslogs.\n\nKommunstyrelsen godkände policyn utan tilläggen.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 215",
+  "tags": [
+    "arbetsmiljö",
+    "policy",
+    "personalfrågor"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med policyn är att beskriva vilken arbetsmiljö arbetsgivaren vill erbjuda sina medarbetare. Allt för att våra medarbetare ska vilja komma till jobbet varje dag.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_215.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_215/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2023-05-23_ko_117",
+  "headline": "Ej verkställda sociala beslut rapporteras, ingen åtgärdsplan antagen",
+  "summary": "Rapport över ej verkställda SoL- och LSS-beslut för Q4 2022 godkändes. Martha Wicklund (V) ville åtgärdsprogram men röstades ned.",
+  "detail": "Socialnämnden rapporterade 11 ej verkställda beslut, varav 9 var fortsatt ej verkställda efter tre månader. Funktionsstödsnämnden rapporterade 200 beslut varav 143 var ej verkställda efter tre månader. Vård- och omsorgsnämnden rapporterade 49 beslut varav 5 var ej verkställda efter tre månader.\n\nMartha Wicklund (V) yrkade på att Kommunledningsförvaltningen skulle få uppdrag att ta fram förslag på hur gynnande beslut kan verkställas inom rimlig tid. Markus Allard (ÖrP) bifoll yrkandet men John Johansson (S) yrkade avslag. Kommunstyrelsen avslogs tilläggsyrkandet.\n\nRapporterna lades till handlingarna enligt förslaget.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 117",
+  "tags": [
+    "socialt stöd",
+    "LSS",
+    "Sol",
+    "beslutverkställande"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Vid kvartalets slut var 143 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 20-21",
+  "meeting": {
+    "id": "2023-05-23_Kommunstyrelsen",
+    "date": "2023-05-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-23_ko_117.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-23_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-23_ko_117/"
+  }
+}

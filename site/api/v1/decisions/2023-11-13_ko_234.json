@@ -1,0 +1,44 @@
+{
+  "id": "2023-11-13_ko_234",
+  "headline": "Ej verkställda välfärdsbeslut Q2 2023: Vänster vill ha åtgärdsplan",
+  "summary": "Kommunstyrelsen lägger till handlingarna rapporter från Socialnämnden, Vård- och omsorgsnämnden och Funktionsstödsnämnden över ej verkställda SoL- och LSS-beslut för andra kvartalet 2023.",
+  "detail": "Socialnämnden, Funktionsstödsnämnden och Vård- och omsorgsnämnden ska lämna in statistikrapporter varje kvartal över ej verkställda beslut enligt SoL och LSS. Syftet är att kommunen ska ha kännedom om ärendena och kunna planera resurser för att verkställa insatser inom skälig tid.\n\nMartha Wicklund (V) yrkar tillägg om att förvaltningen ska få i uppdrag att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid. Helena Ståhl (SD) och Markus Allard (ÖrP) stöder Wicklunds yrkande.\n\nJohn Johansson (S) avslogar Wicklunds tillägg.\n\nVänster och Örebro för Polen reserverar sig.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 234",
+  "tags": [
+    "välfärd",
+    "SoL",
+    "LSS",
+    "resursplanering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med rapporteringen är att kommunen ska ha kännedom om dessa ärenden samt kunna planera sina resurser för att kunna verkställa insatser inom skälig tid",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_234.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_234/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2023-11-22_ko_390",
+  "headline": "Vattentjänstplan 2024 antagen trots invändningar",
+  "summary": "Kommunfullmäktige antog vattentjänstplanen för 2024 som innehåller utbyggnadsplan, skyfallsplan och miljökonsekvensbeskrivning för VA-anläggningar. Planen identifierar 9 områden för utbyggnad innan 2035.",
+  "detail": "Vattentjänstplanen är ett omfattande styrande dokument för kommunens vattentjänster. Den innehåller en utbyggnadsplan för långsiktig VA-expansion, en skyfallsplan för hantering av extrema väderförhållanden och en strategisk miljökonsekvensbeskrivning.\n\nPlanen identifierar 9 områden där kommunen ska besluta om verksamhetsområde 2024-2035, samt 15 områden där kommunen anses ha ansvar enligt lag men först efter 2035. Tre områden anses kunna ta eget ansvar för vattentjänsterna.\n\nKristendemokraterna (KD) ville ha tillägg om formaliserad kommunikation med mark- och fastighetsägare, dispens för nya anläggningar och obligatorisk dialog innan stopp för bygglov. Detta avslogs. Örebro Piratparti (ÖrP) ville helt avslå planen.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 390",
+  "tags": [
+    "vattentjänster",
+    "VA",
+    "infrastruktur",
+    "miljö",
+    "planering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "I utbyggnadsplanen lyfts 9 områden där kommunen planerar att besluta om verksamhetsområde inom tidsperioden år 2024-2035.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-11-22_Kommunfullmäktige",
+    "date": "2023-11-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-22_ko_390.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-22_ko_390/"
+  }
+}

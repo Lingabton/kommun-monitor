@@ -1,0 +1,46 @@
+{
+  "id": "2023-04-11_ko_77",
+  "headline": "Detaljplan för Törsjö logistikområde antagen med reservationer",
+  "summary": "Detaljplan för Törsjö 13:2 godkänns för järnvägsanknuten logistik, kombiterminal och omlokalisering av företag från CV-området och Holmens verksamhetsområde.",
+  "detail": "Detaljplanarbetet initierades 2016 av Törsjö logistik AB och utökades senare med mark från Törsjö Fastighetsutveckling AB. Planen möjliggör byggnation av kombiterminal och omlokalisering av företag från CV-området och Holmens verksamhetsområde för att dessa kan omvandlas till bostäder och kontor.\n\nLogistikbranschen bedöms ha goda förutsättningar att attrahera fler företag till regionen. Detaljplanen medger järnvägsanknuten lager- och logistikverksamhet med kombiterminal, kontor och järnvägsrelaterade verksamheter samt tekniska anläggningar.\n\nYngve Alkman (L) och Helena Ståhl (SD) yrka avslag. Martha Wicklund (V) yrka först på återremiss för att pröva alternativ lokalisering ur regionalt perspektiv, i andra hand avslag. Markus Allard (ÖrP) yrka på kompensation till närliggande fastighetsägare, i andra hand avslag.\n\nOrdförande Johansson avslöade återremissyrkandena och fattade beslut enligt Bygg- och miljönämndens förslag. Susanne Lindholm (KD) fick lämna ett särskilt yttrande. Beslutet ska till Kommunfullmäktige.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Törsjö, Örebro",
+  "paragraph_ref": "§ 77",
+  "tags": [
+    "detaljplan",
+    "Törsjö",
+    "logistik",
+    "kombiterminal"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "KD"
+    ],
+    "against": [
+      "L",
+      "SD"
+    ],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med detaljplanen är att möjliggöra byggnation av en kombiterminal samt möjliggöra omlokalisering av företag i CV-området samt Holmens verksamhetsområde.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_77.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_77/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_236",
+  "headline": "Tilläggsanslag 2024 på 8,9 miljoner kronor beviljat",
+  "summary": "Kommunstyrelsen beviljade 8,9 miljoner kronor i tilläggsanslag för 2024 för löneöversyn och investeringar. SD och ÖrP reserverade sig.",
+  "detail": "Ärendet omfattade tilläggsanslag för kostnadsökningar och oförutsedda utgifter under 2024. Medlen användes bland annat för kompensation till nämnderna gällande löneöversynen för Vårdförbundet och färdigställda objekt i investeringsprogrammet.\n\nTilläggsanslaget på totalt 8 914 tkr finansierades ur Kommunstyrelsens utrymme för generella kostnadsökningar och beslutade konsekvenser av investeringsprogram.\n\nHelena Ståhl (SD) yrkade för undantag för konstutsmyckningen vid Karlslunds ridanläggning, men förslaget avslogs. Både SD och ÖrP reserverade sig.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 236",
+  "tags": [
+    "budget",
+    "löner",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag avser bland annat kompensation till nämnderna för återstående del av löneöversyn för Vårdförbundet samt kompensation för färdigställda objekt i investeringsprogrammet.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_236.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_236/"
+  }
+}

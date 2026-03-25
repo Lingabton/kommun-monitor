@@ -1,0 +1,44 @@
+{
+  "id": "2025-05-13_ko_116",
+  "headline": "Svar på motion om föräldrautbildning för hedersförtryck avslaget",
+  "summary": "Motion från SD om kravställande föräldrautbildning kopplad till hedersförtryck avslås som oförenlig med lagstiftningen.",
+  "detail": "Carola Sunesson m.fl. (SD) föreslog att kommunen ska ta fram kravställande föräldrautbildning fokuserad på föräldraansvar och barnrätt enligt svenska regler. De föreslog även att sådan utbildning kunde bli obligatorisk för vårdnadshavare vars barn utsatts för hedersförtryck, hedersvåld eller annat våld, och att annat kommunalt stöd kunde nekas om utbildningen inte genomfördes.\n\nKommunledningsförvaltningen bedömde att förslagen inte är förenliga med lagstiftningen. Helena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall till motionen, men avslogs. Ståhl, Larsson (SD) och Allard reserverade sig.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 116",
+  "tags": [
+    "hedersförtryck",
+    "barn",
+    "utbildning",
+    "familjepolitik"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att motionen bör avslås eftersom förslagen inte är förenliga med lagstiftningen på området.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_116.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_116/"
+  }
+}

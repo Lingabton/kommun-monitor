@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-03_ko_235",
+  "headline": "Planeringsförutsättningar 2026 godkända trots motstånd",
+  "summary": "Kommunstyrelsen godkände planeringsförutsättningar för budget 2026-2029. Markus Allard (ÖrP) reserverade sig.",
+  "detail": "Ärendet behandlade planeringsförutsättningar för budgetperioden 2026-2029 med utgångspunkt i en omvärldsanalys och identifiering av centrala trender. Dokumentet innehöll preliminär resultatbudget och investeringsprogram. Kommunledningsförvaltningen föreslog att planeringsförutsättningarna togs till handlingarna som underlag för fortsatt beredning.\n\nMarkus Allard (ÖrP) yrkade avslag, men förlorade omröstningen. Tre ledamöter (L och KD) deltog inte i beslutet.\n\nBeslutet är en del av arbetsgången inför den stora budgetprocessen för kommande år och klar prioritering mot långsiktiga utmaningar.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 235",
+  "tags": [
+    "budget",
+    "planering",
+    "strategi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Genom en omvärldsanalys med spaning mot 2035 har kommunen identifierat ett antal huvudsakliga trender som kommer att vara centrala för kommunens framtida planering och beslut.",
+  "quote_page": "s. 2",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_235.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_235/"
+  }
+}

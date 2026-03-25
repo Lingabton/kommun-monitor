@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-17_ko_5",
+  "headline": "Jämställdhetsdelegation inrättad trots kritik",
+  "summary": "Kommunstyrelsen inrättar jämställdhetsdelegation med arbetsordning. V önskar bredare uppdrag, vilket avslås.",
+  "detail": "Kommunstyrelsen beslutar inrätta en jämställdhetsdelegation och anta arbetsordning för denna, samt utse ledamöter enligt bilaga.\n\nMartha Wicklund (V) yrkar bifall med tillägget att arbetsordningen kompletteras med att \"jämställdhetsdelegationen granskar, följer upp, driver på och stimulerar Örebro kommuns arbete för jämställda och icke-diskriminerande arbetsvillkor med fokus på diskrimineringsgrunden kön.\" John Johansson (S) yrkar avslag på V:s tilläggsyrkande, som avslås.\n\nMarkus Allard (ÖrP) yrkade helt avslag på inrättandet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 5",
+  "tags": [
+    "jämställdhet",
+    "delegation",
+    "arbetsordning",
+    "diskriminering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Inrätta en jämställdhetsdelegation och anta arbetsordning för jämställdhetsdelegationen.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_5.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_5/"
+  }
+}

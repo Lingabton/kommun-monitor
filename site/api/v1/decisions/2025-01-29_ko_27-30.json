@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-29_ko_27-30",
+  "headline": "Sex motioner om bostäder, skogsbruk och väld bordlades",
+  "summary": "Motioner om tak-över-huvudet-garanti, husbilar, småhusmark, Garphytteklint, väld mot kvinnor och israelisk bojkott bordlades.",
+  "detail": "Följande motioner bordlades på ordförandens initiativ för behandling vid senare sammanträde:\n\n- Johanna Reimfelt (L) om \"tak över huvudet\"-garanti för hemlösa\n- Susanne Lindholm Henningsson (KD) om ställplatser för husbilar\n- Helena Ståhl (SD) m.fl. om markförvärv för småhusbebyggelse  \n- Lea Strandberg (MP) om att skydda Garphytteklint\n- Martha Wicklund (V) m.fl. om krafttag mot mäns våld mot kvinnor\n- Martha Wicklund (V) m.fl. om kommunal bojkott av israeliska varor\n\nOrdföranden yrkade på att resterande ärenden skulle bordläggas för att spara tid. Votering om bordläggning: 50 ja, 12 nej, 3 frånvarande.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Örebro",
+  "paragraph_ref": "§ 27-30",
+  "tags": [
+    "bostäder",
+    "miljö",
+    "väld"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Ordförande Jan Zetterqvist (S) yrkar på att resterande ärenden på dagordningen bordläggs.",
+  "quote_page": "s. 29",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_27-30.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_27-30/"
+  }
+}

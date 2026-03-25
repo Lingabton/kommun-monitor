@@ -1,0 +1,46 @@
+{
+  "id": "2023-11-22_ko_392",
+  "headline": "Avfallsföreskrifter för 2024 fastställda",
+  "summary": "Kommunfullmäktige fastställde nya avfallsföreskrifter för Örebro kommun med start 1 januari 2024.",
+  "detail": "Avfallsverksamheten föreslog reviderade avfallsföreskrifter för att träda i kraft 1 januari 2024. Föreskrifterna är fastställda med stöd av miljöbalken och avfallsförordningen.\n\nBeslutet är tekniskt nödvändigt för att säkerställa aktuell avfallshantering i kommunen. Örebro Piratparti (ÖrP) reserverade sig mot beslutet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 392",
+  "tags": [
+    "avfallshantering",
+    "regler",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "SD",
+      "MP",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunfullmäktige fastställer, med stöd av 15 kap. (38, 39 och 41 §§) miljöbalken (1998:808) och 9 kap. (1–2 §§) avfallsförordningen (2020:614), föreliggande förslag till nya avfallsföreskrifter 2024.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-11-22_Kommunfullmäktige",
+    "date": "2023-11-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-22_ko_392.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-22_ko_392/"
+  }
+}

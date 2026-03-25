@@ -1,0 +1,47 @@
+{
+  "id": "2023-01-17_ko_9",
+  "headline": "Många väntar på biståndsbeslut enligt SoL och LSS",
+  "summary": "Rapport över ej verkställda biståndsbeslut visar problem med långa väntider. Bo Ammer (SD) kräver skarpa åtgärder.",
+  "detail": "Programnämnd social välfärd rapporterar att under kvartal 2 2022 uppgick totala antalet rapporterade beslut till 249, varav 148 var ej verkställda och 101 verkställda.\n\nEnligt lagkrav måste beslut om bistånd enligt Social-tjänstlagen (SoL) och Lag om stöd och service till vissa funktionshindrade (LSS) verkställas inom tre månader. Rapporten är obligatorisk för Inspektionen för vård och omsorg (IVO).\n\nMartha Wicklund (V) yrkar att Kommunstyrelseförvaltningen får i uppdrag att ta fram förslag på hur kommunen kan verkställa gynnande beslut inom rimlig tid.\n\nBo Ammer (SD) och Markus Allard (ÖrP) yrkade bifall med tillägget att framtida rapporter ska inkludera orsak till vänttider och att skarpa krav ställs på nämnder för att undvika IVO:s vitesföreläggande. Båda tilläggen avslogs.",
+  "category": "social välfärd",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 9",
+  "tags": [
+    "bistånd",
+    "SoL",
+    "LSS",
+    "väntider",
+    "vård och omsorg"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "148 rapporterades som ej verkställda och 101 som verkställda.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_9.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_9/"
+  }
+}

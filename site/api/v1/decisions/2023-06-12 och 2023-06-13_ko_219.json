@@ -1,0 +1,47 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_219",
+  "headline": "Markanvisning till Epiroc godkänd – 75 milj kronor",
+  "summary": "Kommunfullmäktige godkände markanvisning för test- och kompetenscenter mellan Munkatorp och E18. Området är cirka 30 hektar och värderas till cirka 75 miljoner kronor.",
+  "detail": "Förvaltningen har sedan februari 2021 arbetat med lokaliseringsutredning för etablering av ett test- och kompetenscenter i Örebro. Flera möjliga platser utreddes och kommunen föreslår markanvisning på del av fastigheten Kränglan 3:1, öster om Munkatorp längs E18/20, med Epiroc Rock Drills AB avseende ett markområde om cirka 30 hektar.\n\nMarkanvisningen är en del av ett framtida exploateringsobjekt som väntas ge ett positivt ekonomiskt resultat. På grund av den beräknade storleken på framtida köpeskilling (75 000 000 kronor) skulle ärendet vidare till Kommunfullmäktige för beslut.\n\nMarkplanerings- och exploateringsnämnden behandlade ärendet den 25 maj 2023 och Kommunstyrelsen den 5 juni 2023. Kommunfullmäktige godkände markanvisningen enhälligt.",
+  "category": "infrastruktur",
+  "contested": false,
+  "location": "Kränglan 3:1, Munkatorp",
+  "paragraph_ref": "§ 219",
+  "tags": [
+    "Epiroc",
+    "markanvisning",
+    "E18",
+    "Munkatorp",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Föreliggande markanvisning (reservationsavtal) mellan Örebro kommun och Epiroc Rock Drills AB godkänns.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_219.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_219/"
+  }
+}

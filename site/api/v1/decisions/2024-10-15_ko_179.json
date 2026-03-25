@@ -1,0 +1,44 @@
+{
+  "id": "2024-10-15_ko_179",
+  "headline": "Trafikstrategi antagen – väcker motstånd från fyra partier",
+  "summary": "Kommunstyrelsen antog ny trafikstrategi för ersättning av trafikprogram från 2014. SD, L, KD och ÖrP motsatte sig beslut.",
+  "detail": "Markplanerings- och exploateringsnämndens förslag till ny trafikstrategi antogs. Strategin ersätter trafikprogram från 2008 och parkeringsriktlinjer samt handlingsplan för cyklande. Den är framtagen under tre års tid med fokus på hållbar stadstrafik, minskade bilresor i Örebro tätort och bättre integration av gång, cykel och kollektivtrafik.\n\nSverigedemokraterna motsatte sig helt och yrkade på ny strategi med övergripande mål om att kommunen ska vara \"tillgänglig, framkomlig och lättnavigerad för alla mobilitetslösningar\". De argumenterade att strategin är fientlig mot personbilen.\n\nLiberalerna yrkade total avslag, menade strategin driver på omotiverad förtätning, fokuserar för mycket på snabb stadstrafik och begränsar valfrihet. Kristdemokraterna yrkade att ta bort meningen om att \"parkeringens verkliga kostnader synliggörs och betalas av användaren\" då detta riskerar höjda avgifter utan motsvarande erbjudanden.",
+  "category": "regler",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 179",
+  "tags": [
+    "trafikstrategi",
+    "mobilitet",
+    "parkering",
+    "stadstrafik"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD",
+      "KD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den föreslagna strategin begränsar i för hög grad denna valfrihet genom att för ensidigt prioritera vissa trafikslag framför andra.",
+  "quote_page": "Sverigedemokraternas yrkande",
+  "meeting": {
+    "id": "2024-10-15_Kommunstyrelsen",
+    "date": "2024-10-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-15_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-15_ko_179.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-15_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-15_ko_179/"
+  }
+}

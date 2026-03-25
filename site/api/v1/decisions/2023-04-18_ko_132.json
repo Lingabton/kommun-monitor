@@ -1,0 +1,44 @@
+{
+  "id": "2023-04-18_ko_132",
+  "headline": "Investeringsanslag 371 miljoner överförda från 2022 till 2023",
+  "summary": "Kommunfullmäktige beslutade att överföra investeringsanslag på sammanlagt 371 454 tkr från 2022 till 2023 för pågående investeringsobjekt.",
+  "detail": "Ärendet handlade om överförda driftresultat för intraprenader samt överförda investeringsanslag från 2022. Intraprenadernas resultat överfördes till kommande år, dock maximalt sju procent av årsbudgeten.\n\nKommunstyrelsen förslag bifölls. Både Sverigedemokraterna och Örebropartiet reserverade sig mot beslutet. Martha Wicklund (V) fick lämna särskilt yttrande om vikten av realistiska budgetar och att digitaliseringsinvesteringar måste få tid att ge effekt.\n\nHelena Ståhl (SD), Bjarne Bäckström (SD), Michael Larsson (SD), David Larsson (SD), Bo Ammer (SD), Habib Brini (SD) och Carola Sunesson (SD) reserverade sig till förmån för avslagsyrkande. Markus Allard (ÖrP), Peter Springare (ÖrP), Robert Stenberg (ÖrP), Tuomo Jänkälä och Glenn Roswall (ÖrP) reserverade sig för återremissyrkande.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 132",
+  "tags": [
+    "investeringar",
+    "budget",
+    "driftresultat",
+    "intraprenader"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Investeringsanslag på sammanlagt 371 454 tkr överförs från 2022 till 2023 i enlighet med kommunstyrelseförvaltningens förslag.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2023-04-18_Kommunfullmäktige",
+    "date": "2023-04-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-18_ko_132.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-18_ko_132/"
+  }
+}

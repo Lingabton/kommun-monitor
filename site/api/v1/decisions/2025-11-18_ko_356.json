@@ -1,0 +1,42 @@
+{
+  "id": "2025-11-18_ko_356",
+  "headline": "Motion om beredskapsplan för kulturarvet anses besvarad",
+  "summary": "Carola Sunesson och Habib Brini (SD) motion om beredskapsplan för kulturarvet bedömdes redan besvarad.",
+  "detail": "Motionen innehöll förslag om att ta fram beredskapsplan för Örebro kommuns kulturarv. Kommunledningsförvaltningen bedömde att beredskapsplaneringen redan pågår genom nyligen tillsatt Råd för skydd av kulturarvet på nationell nivå. På lokal nivå samordnas arbetet av Länsstyrelsen tillsammans med berörda institutioner som Örebro kommun.",
+  "category": "kultur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 356",
+  "tags": [
+    "kulturarv",
+    "beredskapsplan",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "L"
+    ],
+    "against": [
+      "SD",
+      "OrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Bedömningen är att beredskapsplaneringen för kulturarvet är pågående i form av Rådet för skydd av kulturarvet som nyligen tillsatts på nationell nivå.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_356.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_356/"
+  }
+}

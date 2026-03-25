@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-18_ko_357",
+  "headline": "Motion om föräldrautbildning vid hedersförtryck avslogs på omröstning",
+  "summary": "Kommunfullmäktige röstade ned Sverigedemokraternas motion om kravställande föräldrautbildning för vårdnadshavare som utsat barn för hedersförtryck.",
+  "detail": "Helena Ståhl och Carola Sunesson (SD) motionerade om kravställande föräldrautbildning fokuserad på föräldraansvar och barnrätt enligt svenska regler. De föreslog även att sådan utbildning kunde göras obligatorisk vid hedersförtryck eller hedersförtryck. Kommunledningsförvaltningen bedömde förslagen inte förenliga med lagstiftningen.\n\nOrdföranden avvisade motionens yrkande med hänvisning till Kommunallagen. SD och OrP protesterade. Vid votering röstade 50 mot 13 för att avvisa yrkandet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 357",
+  "tags": [
+    "hedersförtryck",
+    "föräldrautbildning",
+    "motion",
+    "lagstiftning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "OrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att motionen bör avslås eftersom förslagen inte är förenliga med lagstiftningen på området.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-11-18_Kommunfullmäktige",
+    "date": "2025-11-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-11-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-18_ko_357.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-18_ko_357/"
+  }
+}

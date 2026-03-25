@@ -1,0 +1,43 @@
+{
+  "id": "2023-02-07_ko_34",
+  "headline": "Motion om bemötandeproblematik avslogs",
+  "summary": "Kommunstyrelsen avslogs SD:s motion om omfattande utredning av bemötandeproblem inom kommunen.",
+  "detail": "Helena Ståhl (SD), Bo Ammer (SD), Daniel Spiik (SD) och David Larsson (SD) lämnade motion 15 juni 2022 (KF § 139) med förslag om att genomföra omfattande utredning avseende:\n- Om bemötandeproblematik existerar inom kommunen\n- Vilka grupper som uppfattar sig felbehandlade\n- Inom vilka verksamheter bemötandeproblematiken finns\n\nKommunledningsförvaltningen bedömde att kommunen redan har omfattande arbete för att stärka och säkerställa mänskliga rättigheter inom samtliga förvaltningar, inklusive HBTQI-personers rättigheter, barns rättigheter, kvinnors rättigheter, nationella minoriteters rättigheter och rättigheter för personer med funktionsnedsättningar. Ett proaktivt och generellt arbetssätt bedöms viktigt tillsammans med riktade insatser.\n\nBo Ammer (SD) och Markus Allard (ÖrP) yrkade bifall till motionen. Majoriteten beslutade enligt förvaltningens förslag att avslå. Ärendet gick vidare till Kommunfullmäktige.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 34",
+  "tags": [
+    "bemötande",
+    "mänskliga rättigheter",
+    "HBTQI"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Kommunen är skyldiga att säkerställa människors rättigheter respekteras och efterlevs inom samtliga verksamheter.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_34.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_34/"
+  }
+}

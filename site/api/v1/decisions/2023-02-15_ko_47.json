@@ -1,0 +1,46 @@
+{
+  "id": "2023-02-15_ko_47",
+  "headline": "Örebroporten säljer aktier i Marieberg Utvecklings AB",
+  "summary": "Kommunfullmäktige godkänner försäljning av Örebro kommuns aktier i MUAB till övriga delägare. Försäljningen genererar en realisationsvinst på cirka 8,8 miljoner kronor.",
+  "detail": "Örebroporten Förvaltning AB äger 50 procent av Marieberg Utvecklings AB (MUAB), som innehar fastigheten Örebro Rävgräva 1:52 i Mariebergs handelsområde. MUAB bildades för att möjliggöra Ikeas expansionsplaner, men Ikea har reviderat sina framtidsplaner.\n\nKommunfullmäktige beslutar att godkänna aktieöverlåtelseavtalet där aktierna säljs till Husherren Lokaler AB och Lindin Förvaltning AB. Köpeskillingen är preliminärt beräknad till 22,3 miljoner kronor, vilket genererar en realisationsvinst på 8,8 miljoner kronor för Örebroporten Förvaltning AB.\n\nFörsäljningen beslutas med 60 ja-röster och 5 nej-röster. Endast ÖrP röstar mot. Martha Wicklund (V) får lämna särskilt yttrande där hon kritiserar att kommunen agerar som ett vanligt företag och spekulerar med skattemedel.\n\nBeslut innebär att kommunen reducerar sitt bolagsägande och fokuserar på sitt kärnuppdrag. Realisationsvinsterna kan användas för välfärdsändamål.",
+  "category": "budget",
+  "contested": true,
+  "location": "Marieberg",
+  "paragraph_ref": "§ 47",
+  "tags": [
+    "Örebroporten",
+    "Marieberg",
+    "bolagsförsäljning",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "En kommuns grunduppdrag är inte att, till vilket pris som helst, ingå i invecklade och ibland kostsamma bolagsbildningar med syfte att underlätta för näringslivet.",
+  "quote_page": "Särskilt yttrande Martha Wicklund",
+  "meeting": {
+    "id": "2023-02-15_Kommunfullmäktige",
+    "date": "2023-02-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-15_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-15_ko_47.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-15_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-15_ko_47/"
+  }
+}

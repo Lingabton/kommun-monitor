@@ -1,0 +1,47 @@
+{
+  "id": "2024-06-10 och 2024-06-11_ko_159",
+  "headline": "Budget 2025 antagen: 21,35 procent kommunalskatt fastställd",
+  "summary": "Kommunfullmäktige antog budgeten för 2025 och fastställde skattesatsen till 21,35 procent, samma nivå som 2024. Budgeten innehåller effektiviseringskrav på 82 mnkr.",
+  "detail": "Övergripande strategier och budget 2025 med plan för 2026–2028 antogs efter omfattande debatt. Budgeten har arbetats fram av S-M-C-alliansen under rubriken \"Gemensamt ansvar för framtidens Örebro\".\n\nSkattesatsen för allmän kommunalskatt fastställdes till 21,35 per skattekrona, identisk med 2024. Driftbudgetramar för 2025 fastställdes och investeringsprogrammet för 2025 godkändes.\n\nBudgeten innehåller ett riktat effektiviseringskrav på 82 mnkr för 2025. Utvecklingsmedel för digitalisering fördelades från nämnder till Kommunledningsförvaltningen. Externa låneramar fastställdes till 23,5 miljarder kronor för koncernen och 21,5 miljarder kronor för kommunen för perioden 2025–2028.\n\nFlera oppositionspartier presenterade egna budgetförslag: Liberalerna, Sverigedemokraterna, Vänsterpartiet, Kristdemokraterna och Miljöpartiet. Ordföranden använde en propositionsordning där Miljöpartiets förslag ställdes mot Kristdemokraternas, vinnaren mot Liberalernas, därefter mot Örebropartiets, sedan Vänsterpartiets, och slutligen mot Sverigedemokraternas förslag, innan det slutliga förslagets ställdes mot majoritetsförslaget. Kommunfullmäktige beslutade enligt Kommunstyrelsens förslag.\n\nSju partier eller partigrupper reserverade sig mot beslutet: Örebropartiet, Liberalerna, Sverigedemokraterna, Vänsterpartiet, Kristdemokraterna och Miljöpartiet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 159",
+  "tags": [
+    "budget",
+    "skatt",
+    "ekonomi",
+    "2025"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "L",
+      "SD",
+      "V",
+      "KD",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Skattesatsen för allmän kommunalskatt år 2025 fastställs till 21,35 per skattekrona. Kommunstyrelsen får i uppdrag att ta fram ett riktat effektiviseringsuppdrag om 82 mnkr för 2025.",
+  "quote_page": "s. 15-20",
+  "meeting": {
+    "id": "2024-06-10_Kommunfullmäktige",
+    "date": "2024-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-06-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-06-10 och 2024-06-11_ko_159.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-06-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-06-10 och 2024-06-11_ko_159/"
+  }
+}

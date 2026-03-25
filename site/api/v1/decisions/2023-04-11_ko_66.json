@@ -1,0 +1,43 @@
+{
+  "id": "2023-04-11_ko_66",
+  "headline": "Tilläggsanslag och ombudgeteringar för 2023 beviljade",
+  "summary": "Kommunstyrelsen beviljar tilläggsanslag för löneöversyn, indexuppräkningar och väghållaransvar. Finansiering från generella kostnadsökningar (224 040 tkr), oförutsedda kostnader (1 960 tkr) och investeringskompensation (3 723 tkr).",
+  "detail": "Ärendet omfattar ersättning till nämnder för årlig löneöversyn och indexuppräkningar. Teknik- och servicenämnden får tilläggsanslag för nytt väghållaransvar. Kultur- och fritidsnämnden kompenseras för hyresökning gällande ÖSK. Totala anslag uppgår till cirka 229,7 miljoner kronor.\n\nKommunledningsförvaltningen förespråkade förslaget medan flera oppositionspartier presenterade egna budgetalternativ. KD yrka avslag på ombudgeteringen, SD presenterade ett alternativt belopp (220 939 + 1 460 + 3 192 tkr) och ÖrP ville att ärendet återremitterades eller avslogs helt.\n\nOrdförande John Johansson (S) beslöt att ärendet skulle avgöras samma dag och ställde förslagen mot varandra. Kommunstyrelsen antog kommunledningsförvaltningens förslag.\n\nReservationer lämnades av Susanne Lindholm (KD), Helena Ståhl (SD), Bo Ammer (SD) och Markus Allard (ÖrP). Martha Wicklund (V) deltog inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 66",
+  "tags": [
+    "budget2023",
+    "löneöversyn",
+    "väghållaransvar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Tilläggsanslag beviljas enligt Kommunledningsförvaltningens förslag. Finansiering sker ur Kommunstyrelsen utrymme för generella kostnadsökningar med 224 040 tkr, från Kommunstyrelsen utrymme för oförutsedda kostnader med 1 960 tkr samt från Kommunstyrelsens utrymme för investeringskompensation med 3 723 tkr.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2023-04-11_Kommunstyrelsen",
+    "date": "2023-04-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-04-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-04-11_ko_66.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-04-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-04-11_ko_66/"
+  }
+}

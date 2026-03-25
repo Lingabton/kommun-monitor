@@ -1,0 +1,45 @@
+{
+  "id": "2024-02-06_ko_32",
+  "headline": "Firmatecknare och delegation i finansverksamheten fastslagna",
+  "summary": "Kommunstyrelsen fastställde vilka tjänstemän som ska kunna underteckna finansiella avtal, låneprogram, derivatinstrument och banktjänster för kommunen.",
+  "detail": "Kommunstyrelsen beslutade om delegation av finansiella beslut till tjänstemän vid kommunledningsförvaltningen inom ramen för koncerngemensamma finanspolicy och kommunens placeringspolicy.\n\nFirmatecknare för olika typer av finansiella åtaganden fastställdes: finanschef Mats Rodenfelt, ekonomidirektör Johanna Larsson och budgetchef Karin Sundelius (med flera kollegor) i olika konstellationer för låneprogram, borgensåtaganden, banktjänster, skattedeklarationer och placeringar.\n\nDelegationen gäller från 1 mars 2024. Anmälan av delegationsbeslut ska ske varje månad till kommunstyrelsen.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 32",
+  "tags": [
+    "finanser",
+    "delegation",
+    "firmatecknare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Firmatecknare för Örebro kommun i avtal om låneprogram, lån, finansiella derivatinstrument, placeringar i värdepapper, kapitalförvaltning och likviditet samt andra därtill hörande handlingar är en av finanschef Mats Rodenfelt, ekonomidirektör Johanna Larsson och budgetchef Karin Sundelius i förening med en av redovisningschef Susan Clefjord, finansstrateg Johan Björnholm och finansekonom Gustav Eriksson.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-02-06_Kommunstyrelsen",
+    "date": "2024-02-06",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_32.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-06_ko_32/"
+  }
+}

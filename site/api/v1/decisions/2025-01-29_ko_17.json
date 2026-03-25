@@ -1,0 +1,45 @@
+{
+  "id": "2025-01-29_ko_17",
+  "headline": "Motion om äldreomsorgsteam för missbruk avslås",
+  "summary": "Vänsterpartiet yrkar på äldreomsorgsteam med fokus på missbruk, men motionen avslås. 43 ja-röster, 21 nej-röster.",
+  "detail": "Martha Wicklund (V) och övriga vänsterpartister har föreslagit ett resursteam inom äldreomsorgen med särskild inriktning mot missbruk. Kommunledningen avslår motionen med motivering att frågan nyligen utreddes och att pågående arbete redan fokuserar på boendelösningar för äldre missbrukande individer samt kompetensutveckling för personal inom vård och omsorg.\n\nKommunfullmäktige avslår motionen med 43 ja-röster och 21 nej-röster. Reservationer från V, ÖrP, C, L, KD och MP. Motionen har varit bordlagd sedan oktober 2024 och behandlades nu för slutgiltigt beslut.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 17",
+  "tags": [
+    "äldreomsorg",
+    "missbruk",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "KD",
+      "SD"
+    ],
+    "against": [
+      "V",
+      "L",
+      "ÖrP",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att motionen föreslås avslås. Frågan om missbrukande äldre har relativt nyligen utretts och det pågår arbete för att skapa en boendelösning för äldre missbrukande individer.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_17.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_17/"
+  }
+}

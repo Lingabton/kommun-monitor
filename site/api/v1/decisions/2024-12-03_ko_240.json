@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_240",
+  "headline": "Region Örebro Innovation AB får nya finansieringsavtal",
+  "summary": "Kommunstyrelsen godkände nya avtalsstrukturer för Region Örebro Innovation AB för att möjliggöra finansiering från Örebro Universitet.",
+  "detail": "Region Örebro Innovation AB ägs gemensamt av Region Örebro län, Örebro kommun och Örebro Universitet. Universitetet kan enligt sitt regelverk inte ge bidrag till delägda bolag, varför en omstrukturering behövdes.\n\nNya avtalsstrukturer införs där ägarna istället köper tjänster från bolaget enligt separata uppdragsavtal. Ändringar gjordes i bolagsordningar och ägardirektiv för både Region Örebro Innovation AB och Inkubera i Örebro AB.\n\nMarkus Allard (ÖrP) yrkade avslag men förlorade. Ärendet ska vidare till Kommunfullmäktige för slutgiltigt godkännande.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 240",
+  "tags": [
+    "innovation",
+    "bolagsstyrning",
+    "avtal"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Universitetet önskar att finansieringsmodellen ändras så att Region Örebro län, Örebro kommun och Örebro Universitet Holding AB istället köper tjänster från Bolaget enligt separata uppdragsavtal med Bolaget.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_240.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_240/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2025-10-14_ko_205",
+  "headline": "Kommunjuristerna befullmäktigade att företräda kommunen i rättsliga ärenden",
+  "summary": "Kommunstyrelsen reviderade rättegångsfullmakten för kommunens jurister efter personförändringar. Sex kommunjurister kan nu företräda Örebro kommun vid domstolar och övriga myndigheter.",
+  "detail": "Fullmakten reviderades eftersom Pernilla Wikström Pehrson och Hanne Nielsen slutat samt Håkan Lindblom anställts. Innehållsmässigt förblir fullmakten oförändrad.\n\nFollande jurister är befullmäktigade: Per Undén, Rickard Samuelsson, Gustav Grek, Åsa Lindborg, Johanna Wilking och Håkan Lindblom.\n\nFullmakten gäller vid domstolar, övriga myndigheter, inför skiljemän och möjliggör kommunens talan i mål, ärenden, förlikning, konkurs och ackord.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 205",
+  "tags": [
+    "rättegång",
+    "jurister",
+    "fullmakt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommunstyrelsen befullmäktigar härmed kommunjuristerna Per Undén, Rickard Samuelsson, Gustav Grek, Åsa Lindborg, Johanna Wilking och Håkan Lindblom eller den envar av dem i sitt ställe förordnar, att vid domstolar och övriga myndigheter i Sverige även som inför skiljemän, å kommunens och Kommunstyrelsens vägnar anhängiggöra, utföra och bevaka kommunens talan i alla förekommande mål och ärenden.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2025-10-14_Kommunstyrelsen",
+    "date": "2025-10-14",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-10-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-14_ko_205.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-14_ko_205/"
+  }
+}

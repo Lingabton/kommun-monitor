@@ -1,0 +1,45 @@
+{
+  "id": "2025-04-08_ko_80",
+  "headline": "Motionshantering kritiseras: Många äldre motioner olösta",
+  "summary": "Kommunstyrelsen föreslår att lista över obesvarade motioner läggs till handlingarna. Helena Ståhl (SD) kritiserar motionshanteringen skarpare.",
+  "detail": "Kommunledningsförvaltningen redovisar motioner som inte är slutligt färdigberedda enligt Kommunallagen 5 kap. 35 §. Enligt lagen ska motioner beredas så att fullmäktige kan fatta beslut inom ett år.\n\nKommunstyrelsens förslag var att anmälan läggs till handlingarna, vilket är den formella hanteringen för tidsöverstigande motioner.\n\nHelena Ståhl (SD) yrkade på avslag och att redovisade motioner skyndsamt ska fortsatt beredas. Hon kritiserade skarp att motionshanteringen är under all kritik och att många motioner är äldre än ett år. Ståhl menade att detta inte är ett informationsärende utan ett beslutsärende med demokratiska implikationer för oppositionen.\n\nKommunstyrelsen följde sitt ursprungliga förslag, men Ståhl reserverade sig skriftligt.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 80",
+  "tags": [
+    "motioner",
+    "demokrati",
+    "handläggning",
+    "opposition"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Motionshanteringen i Örebro kommun har blivit bättre, men är fortfarande under all kritik. Målet hos samtliga partier ska vara att inga motioner är äldre än ett år när de beslutas om i Kommunfullmäktige.",
+  "quote_page": "s. 15-16",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_80.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_80/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_250",
+  "headline": "Nya friköpspriser för småhustomträtter från 2026",
+  "summary": "Kommunstyrelsen beslutade att byta beräkningsmodell för friköpspriser - från 2009-värde till aktuellt marktaxeringsvärde och sänka procentsatsen från 73 till 70 procent.",
+  "detail": "Fastighetsenheten föreslog en uppdatering av räknemodellen för friköpspriser på tomträtter med typkod 220 (småhus). Nuvarande modell från 2009 skulle bytas till gällande marktaxeringsvärde från och med 2026-01-01.\n\nÄndringen innebär två delar: övergång till aktuella taxeringsvärden (uppdateras vart tredje år) och sänkning av multiplikatorn från 73 procent till 70 procent.\n\nÖvergangsregler gäller: gamla priset kan användas om köpekontrakt undertecknats senast 2025-12-31. Ärendet ska vidare till Kommunfullmäktige. Markus Allard (ÖrP) yrkade avslag.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 250",
+  "tags": [
+    "exploatering",
+    "tomträtter",
+    "prissättning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Från och med 2026-01-01 baseras friköpspriset för en småhustomträtt (typkod 220) på följande uträkning: (Aktuellt marktaxeringsvärde vid årets början) x 0,70 = friköpspris",
+  "quote_page": "s. 18-19",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_250.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_250/"
+  }
+}

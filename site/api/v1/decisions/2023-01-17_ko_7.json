@@ -1,0 +1,44 @@
+{
+  "id": "2023-01-17_ko_7",
+  "headline": "Delegationsordning reviderad för kommunstyrelsens utskott",
+  "summary": "Kommunstyrelsen reviderar delegationsordningen för nyinrättade personalutskott, hållbarhetsutskott och trygghetsutskott.",
+  "detail": "Kommunstyrelsen hade på sammanträde 6 december inrättat ett personalutskott, hållbarhetsutskott och trygghetsutskott. Delegationsordningen revideras nu för att inkludera delegation för dessa utskott.\n\nMartha Wicklund (V) yrkade bifall med ändringen att beslut om lönestrategin bör fattas av Kommunstyrelsen i stället för att delegeras. V:s ändringsyrkande avslås.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 7",
+  "tags": [
+    "delegationsordning",
+    "utskott",
+    "lönestrategi",
+    "styrning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Revidera Kommunstyrelsen delegationsordning enligt förslag.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_7.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_7/"
+  }
+}

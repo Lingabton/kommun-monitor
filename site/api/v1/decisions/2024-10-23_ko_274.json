@@ -1,0 +1,40 @@
+{
+  "id": "2024-10-23_ko_274",
+  "headline": "Trafikstrategi för Örebro antas - ersätter gammalt trafikprogram",
+  "summary": "Kommunfullmäktige antar ny trafikstrategi för Örebro kommun och avslutar det gamla trafikprogrammet från 2014. Strategin ersätter tidigare styrdokument med nya mål och prioriterade insatsområden.",
+  "detail": "Miljö- och stadsbyggnadsförvaltningen har tagit fram förslag till ny trafikstrategi för att ersätta trafikprogrammet från 2014 och konkretisera mål i översiktsplanen (2018) och program för hållbar utveckling (2020). Ett brett arbete har bedrivits sedan 2021 och förslaget remitterades mellan 15 december 2023 och 15 mars 2024. Strategin innehåller mål, övergripande strategisk inriktning och prioriterade insatsområden.\n\nKommunstyrelsen beslöt även att avsluta parkeringsriktlinjer och handlingsplan för ökat cyklande.\n\nMarina motioner lämnades: SD ville se ny strategi med fokus på tillgänglighet och framkomlighet för all mobilitet. KD ville ta bort meningen om parkeringens verkliga kostnader. MP ville ändra \"bör\" till \"ska\" för uppföljning vartannat år. L ville avslå hela strategin. ÖrP ville avslå strategin.\n\nVänsterpartiet får lämna särskilt yttrande som betonar vikten av minskat bilåkande för klimatet och folkhälsan, men kritiserar att trösklarna för gång, cykel och buss måste sänkas. De menar att försämring av busslinjerna och höjning av biljettpriser motsäger strategins intention om \"nudging\".\n\nMultipla reservationer från SD, L, KD, ÖrP och MP.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 274",
+  "tags": [
+    "trafikstrategi",
+    "infrastruktur",
+    "parkering",
+    "cykling",
+    "buss"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Ett brett arbete för att ta fram en ny trafikstrategi har bedrivits sedan 2021. Ett förslag sändes på remiss under perioden den 15 december 2023 till den 15 mars 2024.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2024-10-23_Kommunfullmäktige",
+    "date": "2024-10-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-23_ko_274.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-23_ko_274/"
+  }
+}

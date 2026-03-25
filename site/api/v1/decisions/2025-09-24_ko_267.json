@@ -1,0 +1,45 @@
+{
+  "id": "2025-09-24_ko_267",
+  "headline": "Kommuninvest får 32,9 miljoner kronor under 2025-2028",
+  "summary": "Örebro kommun ska inbetala insatskapital till Kommuninvest enligt kapitaliseringsplan. Beloppen stiger från dagens 171,7 mnkr till 204,6 mnkr för att medlemskapet ska fortsätta.",
+  "detail": "Kommuninvest är en viktig finansiell samarbetspartner för Örebro kommun och dess bolag. Enligt Kommuninvests stadgar beslutas insatsnivån vart fjärde år. Vid årsstämman 2024 fastställdes kapitaliseringsplanen. Efter ändrade beräkningsmodeller från Standard & Poor's och uppdaterade befolkningstal sänktes insatsen till 1 200 kronor per invånare för 2025. Totalt behöver kommunen betala in cirka 32,9 mnkr under perioden 2025-2028. Insatskapitalet ökar från 171,7 mnkr till 204,6 mnkr. Kommunstyrelsen bemyndigas att vidta de åtgärder som krävs för inbetalningen. Beslutet fattades enhälligt.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 267",
+  "tags": [
+    "Kommuninvest",
+    "ekonomi",
+    "kapitaltillskott"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommuninvest är en viktigt finansiell samarbetspartner och långivare för kommunen och kommunens bolag, och fortsatt medlemskap förutsätter att kommunen bidrar till Kommuninvests kapitalisering genom inbetalning av insatskapital.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_267.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_267/"
+  }
+}

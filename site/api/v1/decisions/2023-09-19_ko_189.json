@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-19_ko_189",
+  "headline": "Pepparmyntan 1: 60 hyresrätter för cirka 13 miljoner",
+  "summary": "Reservationsavtal förlängs för Örebrobostäders bygge av cirka 60 hyresrätter på Pepparmyntan 1 i Tamarinden.",
+  "detail": "Örebrobostäder avser att bygga cirka 60 lägenheter på fastigheten Pepparmyntan 1 i området Tamarinden, Sörbyängen, som hyresrätter. Markförsäljningen är beräknad till cirka 13 miljoner kronor.\n\nReservationsavtalet godkändes tidigare vid programberedning 2022-06-22. På grund av ändrad delegationsordning behöver förlängningen nu beslutas av kommunstyrelsen då markplanerings- och exploateringsnämnden inte längre har delegation för reservationsavtal och överlåtelser över 10 mkr.\n\nOrdförande i nämnden får uppdrag att underteckna avtalen och godkänna justeringar.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Pepparmyntan 1, Tamarinden, Sörbyängen",
+  "paragraph_ref": "§ 189",
+  "tags": [
+    "Pepparmyntan 1",
+    "Tamarinden",
+    "bostäder",
+    "Örebrobostäder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Örebrobostäder avser att bygga ca 60 lägenheter på fastigheten Pepparmyntan 1 i området Tamarinden, Sörbyängen.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_189.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_189/"
+  }
+}

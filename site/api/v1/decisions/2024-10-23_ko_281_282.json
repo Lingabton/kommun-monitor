@@ -1,0 +1,36 @@
+{
+  "id": "2024-10-23_ko_281_282",
+  "headline": "Pilotprojekt öppnar skolmatsalar för äldre hösten 2024",
+  "summary": "Två motioner från KD respektive V om möjlighet för äldre att äta i skolmatsalar anses tillgodosedda genom pilotprojekt som startar hösten 2024 på fyra skolor.",
+  "detail": "Kristdemokraternas motion från Susanne Lindholm Henningsson och Vänsterpartiets motion från Martha Wicklund m.fl. behandlades båda med samma resultat. Kommunledningen lanserar pilotprojekt hösten 2024 på fyra kommunala skolor: Tullängsgymnasiet, Odenskolan, Vintrosaskolan och Västra Engelbrektsskolan. Projektet ska ge äldre möjlighet att köpa och äta mat på dessa skolor. Särskilt perspektiv på landsbygden tas med. Om resultatet från piloten faller väl ut är kommunen positiv till att utvidga till fler skolor.\n\nMotionerna motiverades av att äldre ska få tillgång till näringsrik mat av god kvalitet, vilket är förutsättning för långt och gott liv, samt motverka ofrivillig ensamhet hos äldre.\n\nBåda motionerna bordlades utan slutligt beslut.",
+  "category": "skola",
+  "contested": true,
+  "location": "Tullängsgymnasiet, Odenskolan, Vintrosaskolan, Västra Engelbrektsskolan",
+  "paragraph_ref": "§ 281, 282",
+  "tags": [
+    "äldreomsorgen",
+    "skola",
+    "matsalar",
+    "pilotprojekt"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Bordlägning"
+  },
+  "quote": "Kommunledningen ämnar lansera ett pilotprojekt med start hösten 2024, där fyra av Örebros kommunala skolor...ska öppna upp skolmatsalarna för äldre.",
+  "quote_page": "s. 23-24",
+  "meeting": {
+    "id": "2024-10-23_Kommunfullmäktige",
+    "date": "2024-10-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-23_ko_281_282.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-23_ko_281_282/"
+  }
+}

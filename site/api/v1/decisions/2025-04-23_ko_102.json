@@ -1,0 +1,46 @@
+{
+  "id": "2025-04-23_ko_102",
+  "headline": "Motion om konsultkostnadsnedskärning avslogs trots reservationer",
+  "summary": "Kommunfullmäktige avslogs Martha Wicklunds (V) motion om att halvera kostnaderna för köp av konsulttjänster.",
+  "detail": "Vänsterpartiet genom Martha Wicklund och flera partikollegor föreslog att Kommunfullmäktige skulle ge kommundirektören uppdrag att halvera kostnaderna för konsulttjänster.\n\nKommunledningsförvaltningen bedömde att motionen skulle avslås. Argumentationen var att kommunen arbetade systematiskt och strategiskt med kompetensförsörjning, och att när konsulttjänster avropas är det nödvändigt utifrån verksamhetens behov av kompetens.\n\nCommunisternas förslag avslogs. Vänsterpartiet och Sverigedemokraterna reserverade sig starkt mot beslutet. SD-ledamöterna David Larsson, Habib Brini, Bjarne Bäckström, Carola Sunesson, Daniel Spiik och övriga SD-medlemmar reserverade sig, liksom V:s Martha Wicklund och flera andra vänstersidekamrater.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 102",
+  "tags": [
+    "konsulter",
+    "kostnader",
+    "budget",
+    "effektivitet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "MP"
+    ],
+    "against": [
+      "V",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Kommunen ska bemanna med kompetens utifrån verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning, vilket bedöms bidra till att minimera kommunens behov av att avropa konsulttjänster.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_102.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_102/"
+  }
+}

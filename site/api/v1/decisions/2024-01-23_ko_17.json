@@ -1,0 +1,36 @@
+{
+  "id": "2024-01-23_ko_17",
+  "headline": "Barns OpenArt - Örebropartiet motion bordlad",
+  "summary": "Motion om att låta barn ställa ut på OpenArt-utställningen för att sänka kostnader bordlades.",
+  "detail": "Markus Allard (Örebropartiet) föreslog att OpenArt ska omvandlas till barnens OpenArt för att spara pengar och skapa familjeupplevelse med barns utställda verk.\n\nKommunledningen (S, M, C) håller med om att barns skapandekraft är viktig, men menar att det skulle förändra utställningens grundkoncept. OpenArt har unik position som Skandinaviens största biennal för samtidskonst i offentligt rum tack vare höga verkskvalitetskrav. Enligt överenskommelse ska OpenArt finnas kvar, nya samarbetsformer och gemensam finansiering med näringslivet utredas, men anslag dras ner i budgeten.\n\nÄrendet bordlades tidigare och bordlades igen 2024-01-23.",
+  "category": "kultur",
+  "contested": false,
+  "location": "Örebro",
+  "paragraph_ref": "§ 17",
+  "tags": [
+    "OpenArt",
+    "konst",
+    "kultur",
+    "barn"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Borderläggning"
+  },
+  "quote": "Att låta barn ställa ut är dock att i grunden förändra hela konceptet kring utställningen då syftet är att hålla en viss verkshöjd på konsten.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_17.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_17/"
+  }
+}

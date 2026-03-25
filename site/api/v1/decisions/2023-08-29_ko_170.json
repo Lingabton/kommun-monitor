@@ -1,0 +1,43 @@
+{
+  "id": "2023-08-29_ko_170",
+  "headline": "Motion om enprocentsregeln för konst avslogs",
+  "summary": "Kommunstyrelsen avslog motion från ÖrP om att slopa enprocentsregeln för offentlig konst. SD och ÖrP reserverade sig.",
+  "detail": "Markus Allard och Peter Springare (ÖrP) motionerade om att slopa enprocentsregeln för kommunkoncernen. Enprocentsregeln är en ekonomisk princip från 1930-talet som innebär att en procent av budgeten för ny-, om- och tillbyggnad avsätts för konstnärlig gestaltning. Örebro kommun tillämpat regeln sedan 1968.\n\nKommunledningsförvaltningen bedömde att enprocentsregeln är ett viktigt verktyg för att garantera medborgarna tillgång till konst och att nutida konst är viktig för framtida kulturarv. Kommunfullmäktige hade 23 november 2022 beslutat om ny Konstpolicy och gav Kulturnämnden uppdrag att föreslå revidering av hur medlen ska användas för ökad flexibilitet.\n\nMarkus Allard (ÖrP) och Helena Ståhl (SD) yrkade bifall till motionen. Beslutet var omstritt med reservationer från båda partierna.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 170",
+  "tags": [
+    "konst",
+    "enprocentsregeln",
+    "kultur",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Enprocentsregeln är ett viktigt verktyg för att kommunen ska kunna garantera att medborgarna har möjlighet att ta del av konst, samt att den nutida konsten är en viktig faktor för vårt framtida kulturarv.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_170.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_170/"
+  }
+}

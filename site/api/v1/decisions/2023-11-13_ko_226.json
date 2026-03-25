@@ -1,0 +1,45 @@
+{
+  "id": "2023-11-13_ko_226",
+  "headline": "Vattentjänstplan för 2024 antas efter oenighet om fastighetsägarkommunikation",
+  "summary": "Kommunstyrelsen antar Vattentjänstplan (2024) med beskrivning av VA-planering, utbyggnadsplan och skyfallsplan. Plan presenterar 9 områden för verksamhetsområdebeslut 2024-2035 och 15 områden efter 2035.",
+  "detail": "Vattentjänstplanen innehåller kommunens långsiktiga planering av vattentjänsterna samt strategisk miljökonsekvensbeskrivning. Planen identifierar områden där kommunen ska ansvara för vattentjänsterna enligt Lag (2006:412) om allmänna vattentjänster.\n\nI utbyggnadsplanen lyfts 9 områden för verksamhetsområdebeslut inom 2024-2035, 15 områden efter 2035, och 3 områden bedöms kunna ta eget ansvar.\n\nSusanne Lindholm Henningsson (KD) yrkar på tillägg om formaliserad och löpande kommunikation med fastighetsägare, dispens för nyligen installerade anläggningar, och dialog innan bygglov stoppas. John Johansson (S) avslogar tillägget.\n\nÖrebro för Polen reserverar sig. Kristdemokraterna reserverar sig skriftligt.\n\nÄrendet går vidare till Kommunfullmäktige.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 226",
+  "tags": [
+    "vatten",
+    "avlopp",
+    "VA-planering",
+    "infrastruktur",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "I utbyggnadsplanen beskrivs kommunens långsiktiga planering av utbyggnaden av de kommunala vattentjänsterna. I detta kapitel presenteras de områden där kommunen ska ansvara för vattentjänsterna där risk för människors hälsa och miljö förekommer.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2023-11-13_Kommunstyrelsen",
+    "date": "2023-11-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-11-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-11-13_ko_226.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-11-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-11-13_ko_226/"
+  }
+}

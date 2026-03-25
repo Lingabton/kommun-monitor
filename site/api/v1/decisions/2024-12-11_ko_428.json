@@ -1,0 +1,44 @@
+{
+  "id": "2024-12-11_ko_428",
+  "headline": "Aktivitetspengen för funktionshindrade – motionen avslogs",
+  "summary": "Kommunfullmäktige avslår SD:s motion om att återinföra aktivitetspengen för individer med funktionsnedsättning.",
+  "detail": "SD motionerade för att återinföra aktivitetspengen för daglig verksamhet, som togs bort 2020 som del av ekonomi-i-balans arbete.\n\nAktivitetspengen var en budgeterad post i verksamheten som inte gick direkt till brukare utan gavs genom verksamheten. Verksamheterna genomför fortfarande trivselaktiviteter.\n\nSen 2018 gjordes en satsning från Programnämnd Social välfärd till Funktionsstödsnämnden för att organisera kultur- och fritidsaktiviteter som komplement till att aktivitetspengen togs bort.\n\nKommunledningen anser att återinförandet inte är en prioritet givet det ekonomiska läget. SD och ÖrP reserverade sig.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 428",
+  "tags": [
+    "funktionshinder",
+    "aktivitetspeng",
+    "daglig verksamhet",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Givet att satsningen från 2018, samt att trivselaktiviteter fortfarande genomförs är återinförandet av aktivitetspengen inte en prioritet givet det ekonomiska läget.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_428.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_428/"
+  }
+}

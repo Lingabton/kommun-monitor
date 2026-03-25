@@ -1,0 +1,46 @@
+{
+  "id": "2023-02-15_ko_51",
+  "headline": "Motion om kommunala bolags avtalkrav avslås",
+  "summary": "Kommunfullmäktige avslår Vänsterpartiets motion om att ställa krav på kollektivavtal för de kommunala bolagens leverantörer.",
+  "detail": "Vänsterpartiet föreslår att Örebro kommun via ägardirektiven säkerställer att företag och underleverantörer som de kommunala bolagen ingår avtal med följer rådande lagar och regler, samt har kollektivavtal eller motsvarande. De föreslår också att utred Oslomodellen för kommunala bolag.\n\nKommunstyrelsen bedömer att bolagen redan agerar inom ramarna för ÖSBn (Örebro Stadsbygge), Program för hållbar utveckling, upphandlings- och inköpspolicy samt LOU. Det finns redan möjlighet att ställa krav på kollektivavtal enligt LOU. Att ställa krav på andelen anställda hos leverantörer riskerar att diskvalificera mindre entreprenörer och strida mot LOU.\n\nMotionen avslås med 44 ja-röster, 18 nej-röster och 3 frånvarande. Vänsterpartiet och ÖrP reserverar sig för motionens första del om att ställa krav på att företag följer lagar och regler. Sverigedemokraterna reserverar sig för motionens första del.\n\nBeslut visar skillnad i syn på hur kommunen ska styra bolagen.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 51",
+  "tags": [
+    "kommunala bolag",
+    "kollektivavtal",
+    "upphandling",
+    "arbetarrätt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bolagen agerar inom ramarna för ÖSBn, Program för hållbar utveckling, Upphandlings- och inköpspolicy samt LOU, vilket ska innebära att upphandlingarna går rättssäkert till.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2023-02-15_Kommunfullmäktige",
+    "date": "2023-02-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-15_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-15_ko_51.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-15_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-15_ko_51/"
+  }
+}

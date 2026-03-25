@@ -1,0 +1,42 @@
+{
+  "id": "2025-01-29_ko_21",
+  "headline": "Miljöpartiets motion om gratis mensskydd blir besvarad",
+  "summary": "Miljöpartiet yrkar på gratis mensskydd på skolor och arbetsplatser. Motion anses besvarad då utredning genomförts men saknar finansiering.",
+  "detail": "Miljöpartiet motionerade om att kostnadsfria mensskydd ska finnas på kommunens skolor och egna arbetsplatser. Motion hade tre yrkanden: utreda kostnader för mensskydd i skola, utreda kostnader för arbetsplatser, och se över övriga förvaltningar.\n\nKommunledningen anser första yrkandet besvarad då gymnasieskolor redan har behållare och högstadieskolor distribuerar via elevhälsan. Andra och tredje yrkandet anses besvarat då utredningen genomförts, men saknar finansiering för implementering på övriga arbetsplatser och förvaltningar.\n\nMotion anses besvarad men reservationer från V och MP som yrkar bifall för faktisk implementering.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 21",
+  "tags": [
+    "menstruation",
+    "arbetsplatser",
+    "jämlikhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kostnaderna för införandet av gratis mensskydd på kommunens egna arbetsplatser och övriga skolor är utredda.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_21.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_21/"
+  }
+}

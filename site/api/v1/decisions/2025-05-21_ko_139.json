@@ -1,0 +1,44 @@
+{
+  "id": "2025-05-21_ko_139",
+  "headline": "Nya riktlinjer för styrdokument antagna från 1 juni",
+  "summary": "Kommunfullmäktige antog nya riktlinjer för styrdokument som ersätter 2014 års version. Riktlinjerna reglerar kraven vid utformande och användande av styrdokument i kommunen.",
+  "detail": "Nuvarande Riktlinjer för styrdokument beslutades 2014 och var inaktuell. Revideringen reglerar kraven vid utformandet och användandet av styrdokument i Örebro kommun och fastställer en struktur som ska vara ett verktyg vid framtagande av styrdokument.\n\nRevideringen innebär förslag till förändring av vilka styrdokument som används på olika beslutsnivåer. Beslutet gäller från och med den 1 juni 2025.\n\nFlera motioner och återremissyrkanden lämnades in. Centerpartiet yrkade på återremiss, och ÖrebroPartiet och Sverigedemokraterna yrkade på avslag. Miljöpartiet yrkade på att klimat- och hållbarhetsarbete tydligt ska ingå i framtida dokument. Vänsterpartiet fick lämna ett särskilt yttrande.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 139",
+  "tags": [
+    "styrdokument",
+    "organisation",
+    "regler"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "SD",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Förslag till Riktlinje för styrdokument antas. Beslutet gäller från och med den 1 juni 2025.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-05-21_Kommunfullmäktige",
+    "date": "2025-05-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-21_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-21_ko_139.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-21_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-21_ko_139/"
+  }
+}

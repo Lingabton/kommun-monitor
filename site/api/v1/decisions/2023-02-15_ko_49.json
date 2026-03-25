@@ -1,0 +1,46 @@
+{
+  "id": "2023-02-15_ko_49",
+  "headline": "Arvodesriktlinje Vätternvatten AB revideras med retroaktiv giltighet",
+  "summary": "Kommunfullmäktige godkänner reviderad arvodesriktlinje för Vätternvatten AB med retroaktiv arvode för lekmannarevisor från 2021.",
+  "detail": "Vätternvatten ABs bolagsstämma beslutade 2021-01-14 om en arvodesriktlinje, men lekmannarevisorerna fanns inte inkluderade. Det var ett förbiseende, då tanken var att revisorerna skulle få arvode.\n\nKommunfullmäktige beslutar att instruera stämmoombudet att rösta för den reviderade riktlinjen, som ger lekmannarevisorerna arvode retroaktivt från 2021-01-14. I riktlinjen tydliggörs också att grundbeloppet är kopplat till riksdagsledamöternas arvode, att övriga ersättningar följer Örebro kommuns beslutade beloppsnivåer, och att beloppen justeras årligen.\n\nBeslut fattas enhälligt, med endast ÖrP som reserverar sig mot beslutet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 49",
+  "tags": [
+    "Vätternvatten",
+    "arvode",
+    "bolagsstyrning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Lekmannarevisorerna ska erhålla arvode för sitt uppdrag från och med Bolagsstämmans beslut den 14 januari 2021.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-02-15_Kommunfullmäktige",
+    "date": "2023-02-15",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-15_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-15_ko_49.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-15_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-15_ko_49/"
+  }
+}

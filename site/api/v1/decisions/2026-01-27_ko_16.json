@@ -1,0 +1,43 @@
+{
+  "id": "2026-01-27_ko_16",
+  "headline": "Återbruk och cirkulär ekonomi - motionen ansågs besvarad",
+  "summary": "Motion från Vänsterpartiet om att utveckla återbruk i kommunen ansågs besvarad efter diskussion om cirkulär ekonomi.",
+  "detail": "Martha Wicklund (V) med flera motionerade för:\n1. Utveckling och främjande av verksamheter som arbetar med återbruk\n2. Utbildning av nyckelpersoner i cirkulärt byggande och återbruk\n3. Att hållbarhetsutskottet utreder cirkulär ekonomi\n\nKommunstyrelsen föreslog att alla tre förslag skulle anses besvarade, då intentionerna redan hanteras inom befintliga strukturer för hållbar utveckling.\n\nUnder fullmäktiges behandling yrkade flera ledamöter från V och MP på att motionen skulle bifallas fullt ut. Ordföranden fann att majoritet stödde kommunstyrelsens förslag om att motionen var besvarad. Dock reserverade sig 8 ledamöter från V och MP mot beslutet.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 16",
+  "tags": [
+    "återbruk",
+    "miljö",
+    "cirkulär ekonomi",
+    "hållbarhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L"
+    ],
+    "result": "Bifall till kommunstyrelsens förslag"
+  },
+  "quote": "Motionens intentioner är i linje med kommunens arbete för hållbar utveckling, men förslagen bedöms vara hanterade inom ramen för det arbete som redan bedrivs eller som kan utvecklas i befintliga strukturer.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2026-01-27_Kommunfullmäktige",
+    "date": "2026-01-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-27_ko_16.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-27_ko_16/"
+  }
+}

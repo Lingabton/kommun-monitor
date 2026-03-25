@@ -1,0 +1,42 @@
+{
+  "id": "2024-08-28_ko_203",
+  "headline": "Daglig verksamhet extern/företagsansluten - tillgodosedd",
+  "summary": "Motion om daglig verksamhet på extern plats för LSS-användare anses tillgodosedd; nya grupper startas.",
+  "detail": "Susanne Lindholm Henningsson (KD) motionerade för att Örebro kommun på målmedvetet och strukturellt sätt ska förlägga daglig verksamhet på extern eller företagsansluten plats för LSS-användare.\n\nKommunen arbetar redan för att alla deltagare som kan och vill får lämplig placering på extern plats eller i företagsansluten grupp. Nya företagsanslutna grupper har startats sedan motionen anmäldes, och fler planeras under 2024.\n\nKommunfullmäktige beslutade att motionen anses tillgodosedd. KD reserverade sig för att vilja bifalla motionen i sin helhet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 203",
+  "tags": [
+    "LSS",
+    "daglig verksamhet",
+    "funktionsstöd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "L",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunen arbetar för att alla deltagare som kan och vill ska få en lämplig placering på extern plats eller i företagsansluten grupp.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_203.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_203/"
+  }
+}

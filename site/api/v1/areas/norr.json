@@ -1,0 +1,73 @@
+{
+  "id": "norr",
+  "name": "Norr",
+  "decisions": [
+    {
+      "id": "2025-06-18 och 2025-06-19_ko_176",
+      "headline": "Reservationsavtal med Epiroc för Ånsta 20:209 godkänt",
+      "summary": "Kommunfullmäktige godkänte reservationsavtal med Epiroc Rock Drills AB för distributionscenter på fastigheten Ånsta 20:209, beräknad köpeskilling omkring 40 miljoner kronor.",
+      "date": "2025-06-18",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2025-06-10_ko_141_142_143",
+      "headline": "Markområden till Peab och Epiroc för bostäder och industri",
+      "summary": "Kommunstyrelsen godkände tre reservationsavtal för markområden: Peab Bostad AB för Hovsta-fastigheter (15 mnkr), Epiroc för test-/kompetenscenter (75 mnkr) och distributionscenter (40 mnkr).",
+      "date": "2025-06-10",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2025-03-18_ko_55",
+      "headline": "Markförsäljning till Circle K Sverige för drivmedelsstation cirka 11,5 miljoner",
+      "summary": "Kommunstyrelsen godkände ett reservationsavtal för försäljning av mark till Circle K Sverige AB för uppförande av en drivmedelsstation. Försäljningspriset är cirka 11,5 miljoner kronor.",
+      "date": "2025-03-18",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2024-12-03_ko_249",
+      "headline": "Fastigheten Ånsta 20:274 såld för 14,3 miljoner kronor",
+      "summary": "Kommunstyrelsen godkände försäljning av mark till AMEXCI AB för cirka 14,3 miljoner kronor.",
+      "date": "2024-12-03",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2024-11-12_ko_220",
+      "headline": "Försäljning av fastigheter – 26 miljoner till Örebroporten",
+      "summary": "Kommunstyrelsen godkänner försäljning av del av Tankbilen 3 och Ånsta 20:134 till Örebroporten Fastigheter AB för 26 miljoner kronor.",
+      "date": "2024-11-12",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2024-01-23_ko_8",
+      "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+      "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+      "date": "2024-01-23",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2023-08-29_ko_171",
+      "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+      "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+      "date": "2023-08-29",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "infrastruktur",
+      "contested": true
+    }
+  ],
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/norr.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/norr/"
+  }
+}

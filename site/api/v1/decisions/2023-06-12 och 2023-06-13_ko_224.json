@@ -1,0 +1,47 @@
+{
+  "id": "2023-06-12 och 2023-06-13_ko_224",
+  "headline": "Riktlinjer för exploatering antagna trots motsättningar",
+  "summary": "Nya riktlinjer för exploatering antogs med nya zonpriser för mark. SD och ÖrP ville ha högre andel anbudsförfarande och takbelopp på tomträttsavgälder.",
+  "detail": "Styrdokumentet 'Riktlinjer för exploatering inkluderat riktlinjer för markanvisning och riktlinjer för exploateringsavtal' är en sammanfogning av tidigare styrdokument inom verksamheten samt nya avsnitt.\n\nRiktlinjerna innehåller uppdaterade zonpriser för mark. Markplanerings- och exploateringsnämnden fick i uppdrag att besluta om förändringar av zonpriserna enligt punkten 3.1.1 i riktlinjer för exploatering samt ändringar i Zonpriskartan.\n\nDe uppdaterade zonpriserna och zonindelningen gäller för försäljningar och nya markanvisningar som påbörjas efter beslut. För redan påbörjade markanvisningar gäller nuvarande prissättning med indexering. Den reviderade zonindelningen gäller för samtliga tomträtter från 2024-01-01.\n\nSD och ÖrP ville sätta takbelopp på avgifterna och öka anbudsförfarandet för att gynna näringslivet. Dessa yrkanden avslogs.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 224",
+  "tags": [
+    "exploatering",
+    "zonpriser",
+    "markanvisning",
+    "mark",
+    "regler"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Riktlinjer för exploatering antas. Markplanerings- och exploateringsnämnden får i uppdrag att besluta om förändringar av zonpriserna.",
+  "quote_page": "s. 17-18",
+  "meeting": {
+    "id": "2023-06-12_Kommunfullmäktige",
+    "date": "2023-06-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-12 och 2023-06-13_ko_224.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-12 och 2023-06-13_ko_224/"
+  }
+}

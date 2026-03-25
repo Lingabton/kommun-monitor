@@ -1,0 +1,44 @@
+{
+  "id": "2025-09-24_ko_265",
+  "headline": "Rapport: Ej verkställda beslut enligt LSS och SoL Q1 2025",
+  "summary": "Socialnämnden rapporterar färre ej verkställda beslut än förra året (19 mot 35), medan Funktionsstödsnämnden rapporterar 55 beslut ej verkställda. Vänsterpartiet reserverar sig för önskan om handlingsplan.",
+  "detail": "Socialnämnden rapporterar 62 totala beslut Q1 2025 (vs 47 Q4 2024) med 19 fortsatt ej verkställda inom tre månader (vs 35 Q4 2024). Funktionsstödsnämnden rapporterar 89 beslut (vs 117 Q4 2024) med 55 fortsatt ej verkställda (vs 64 Q4 2024). Vård- och omsorgsnämnden rapporterar 52 beslut med 15 fortsatt ej verkställda. Vänsterpartiet framhöll att resursbrister fortsätter särskilt för öppenvård för barn och unga, stödboendeplatser och bostad med särskild service, vilka är lagstadgade kommunala skyldigheter. Vänsterpartiet yrkade bifall till rapporten med tillägg om att Kommunstyrelseförvaltningen får uppdrag att ta fram förslag på hur gynnande beslut kan verkställas inom rimlig tid.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 265",
+  "tags": [
+    "socialtjänst",
+    "LSS",
+    "SoL",
+    "resursbrister",
+    "verkställning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "För det första kvartalet 2025 ökade Socialnämndens totala antal rapporterade beslut till 62 stycken... Vid kvartalets slut var 19 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-09-24_Kommunfullmäktige",
+    "date": "2025-09-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-09-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-09-24_ko_265.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-09-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-09-24_ko_265/"
+  }
+}

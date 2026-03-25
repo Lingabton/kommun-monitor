@@ -1,0 +1,34 @@
+{
+  "id": "2024-10-23_ko_277",
+  "headline": "Sammanträdestider för Kommunfullmäktige 2025 fastställda",
+  "summary": "Kommunfullmäktige fastställer ordinarie sammanträdestider för 2025 - tio ordinarie möten mellan januari och december på angivna dagar och tider.",
+  "detail": "Ordinarie sammanträden hålls: 29 januari, 25 februari, 26 mars, 23 april, 21 maj, 18-19 juni (tvådagars), 24 september, 22 oktober, 18 november och 10 december. Samtliga starts 09:00 cirka 17:00. Extra sammanträden kan hållas 12 mars och 27 augusti samma tid. Planering tar hänsyn till ekonomiprocesserna och styrmodellen, där Kommunstyrelsen och Kommunfullmäktige i regel behandlar ärenden samma månad.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Sessionssalen, Rådhuset",
+  "paragraph_ref": "§ 277",
+  "tags": [
+    "kommunfullmäktige",
+    "sammanträdestider"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Kommunstyrelsen och Kommunfullmäktige behandlar i regel ärenden samma månad. Detta för att minska ordinarie tid för ärenden mellan Kommunstyrelsen och Kommunfullmäktige.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-10-23_Kommunfullmäktige",
+    "date": "2024-10-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-23_ko_277.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-23_ko_277/"
+  }
+}

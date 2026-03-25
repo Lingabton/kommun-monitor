@@ -1,0 +1,35 @@
+{
+  "id": "2023-03-14_ko_55",
+  "headline": "Rättegångsfullmakt för kommunens jurister 2023-2026 bifallen",
+  "summary": "Kommunstyrelsen befullmäktigade kommunens jurister att företräda Örebro kommun i rättsliga sammanhang, inklusive ny jurist Hanne Nielsen.",
+  "detail": "Befullmäktigning avseende kommunjuristerna för att företräda kommunen vid domstolar, myndigheter och inför skiljemän. Förändringen gällde att ny jurist Hanne Nielsen lades till befullmäktningen. Innehållsmässigt föreslogs fullmakten gälla oförändrad.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 55",
+  "tags": [
+    "rättegångsfullmakt",
+    "jurister",
+    "kommun"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Enligt Kommunstyrelsens beslut den 23 augusti 2004 § 144 har kommunens jurister inom Kommunstyrelseförvaltningen fullmakt att företräda Örebro kommun i olika rättsliga sammanhang.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_55.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_55/"
+  }
+}

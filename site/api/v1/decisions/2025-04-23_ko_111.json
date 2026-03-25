@@ -1,0 +1,46 @@
+{
+  "id": "2025-04-23_ko_111",
+  "headline": "Örebro läns trädgårdsaktiebolag årsredovisning godkänd",
+  "summary": "Årsredovisningen för Örebro läns trädgårdsaktiebolag 2024 godkändes med ett resultat på 100 025 kronor.",
+  "detail": "Bolaget, som ägs av Örebro kommun till 74 procent, har till uppgift att förvärva, äga och underhålla konstverk i Stadsparken, Skytteparken och Stora Holmen. Under 2024 invigdes ett nytt konstverk, Fågelhamn, i Skytteparken. Arbete pågick också med att återställa ett konstverk till dess tidigare placering i Stadsparken.\n\nBolagets resultat för 2024 uppgick till 100 025 kronor (90 003 kronor 2023). Bolaget innehar anläggningstillgångar i form av konstverk och installationer till ett värde av cirka 2,6 miljoner kronor och har inga anställda.\n\nÖrebropartiet reserverade sig och förespråkade en avveckling av bolaget, men detta avslogs.",
+  "category": "kultur",
+  "contested": false,
+  "location": "Stadsparken, Skytteparken, Stora Holmen",
+  "paragraph_ref": "§ 111",
+  "tags": [
+    "konst",
+    "kultur",
+    "bolag",
+    "ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Bolagets resultat för 2024 uppgår till 100 025 kr. Under året invigdes ett nytt konstverk, Fågelhamn, i Skytteparken.",
+  "quote_page": "s. 20-21",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_111.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_111/"
+  }
+}

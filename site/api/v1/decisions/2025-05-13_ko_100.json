@@ -1,0 +1,43 @@
+{
+  "id": "2025-05-13_ko_100",
+  "headline": "Pia Norstedt tillsätts som näringslivsdirektör",
+  "summary": "Pia Norstedt tillsätts som ny näringslivsdirektör för Örebro kommun från och med 1 september 2025. Markus Allard (ÖrP) reserverade sig mot beslutet.",
+  "detail": "Nuvarande näringslivsdirektör går i pension efter drygt sju år i tjänsten. En rekryteringsprocess leddes av kommundirektören med deltagande från kommunstyrelsens presidium och fackliga representanter. Processen resulterade i förslaget om Pia Norstedt som ny chef för näringslivssektorn.\n\nMarkus Allard från Örebro Piratpartiet yrkade avslag på ärendet, men blev omröstad. Han reserverade sig mot beslutet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 100",
+  "tags": [
+    "näringsliv",
+    "tillsättning",
+    "ledning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "L",
+      "C",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Pia Norstedt tillsätts som näringslivsdirektör för Örebro kommun från och med den 1 september 2025.",
+  "quote_page": "s. 3",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_100.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_100/"
+  }
+}

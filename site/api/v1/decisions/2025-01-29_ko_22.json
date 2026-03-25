@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-29_ko_22",
+  "headline": "Kilsmo-motion om nya verksamheter i tom skola avslås",
+  "summary": "Motion om att använda tomma lokaler i Kilskolans villa för verksamheter för hemmasittare och seniorer avslås. 35 ja, 29 nej.",
+  "detail": "Susanne Lindholm Henningsson (KD) motionerade baserat på medborgarförslag om att utreda möjlighet att skapa verksamhet för barn, unga, hemmasittare med skolfrånvaro och daglediga seniorer i Kilsmo. Delar av villan står tom sedan 2020 - hemrum, kapprum, förråd, grupprum och verkstad.\n\nKommunledningen ser positivt på att motverka urholkandet av Kilsmo och att tomma lokaler nyttjas. Dock motsätter man sig \"hemmasittare\" med problematisk skolfrånvaro som målgrupp. Dessutom är villan hyrd av förskolan Sotterngården och sekretessregler gör det komplicerat att hyra ut förskolelokaler.\n\nKommunfullmäktige avslår motionen. Votering: 35 ja, 29 nej. Många partier reserverar sig (KD, SD, V, L, ÖrP, MP) för bifall.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Kilsmo",
+  "paragraph_ref": "§ 22",
+  "tags": [
+    "Kilsmo",
+    "möjliggörande",
+    "lokaler"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "SD",
+      "V",
+      "L",
+      "ÖrP",
+      "MP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Nu har dock delar av lokalen stått tom sedan 2020. Skolan, eller villan, brukas inte fullt ut.",
+  "quote_page": "s. 24",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_22.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_22/"
+  }
+}

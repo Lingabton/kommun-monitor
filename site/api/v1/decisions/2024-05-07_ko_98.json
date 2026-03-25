@@ -1,0 +1,44 @@
+{
+  "id": "2024-05-07_ko_98",
+  "headline": "Behovsanalys Kommunstyrelsen 2026-2036 antagen",
+  "summary": "Lokalbehovsanalysen för Kommunstyrelsens verksamhet antogs för tiårsperioden 2026-2036.",
+  "detail": "Varje nämnd ska anta behovsanalys som underlag för den kommunövergripande lokalförsörjningsplanen som besluts årligen i Kommunstyrelsen.\n\nBehovsanalysen för Kommunstyrelsen har inte samma tydliga koppling till befolkningsutvecklingen som andra nämnder då samma samband inte finns mellan befolkningstillväxt och storlek på Kommunledningsförvaltningen.\n\nMarkus Allard (ÖrP) yrkade avslag på ärendet i sin helhet. Beslutet följde Kommunledningsförvaltningens förslag.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 98",
+  "tags": [
+    "lokalförsörjning",
+    "fastigheter",
+    "planering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Behovsanalysen för Kommunstyrelsens verksamhet har inte samma tydlig koppling till befolkningsutvecklingen som för många av de andra nämnderna.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_98.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_98/"
+  }
+}

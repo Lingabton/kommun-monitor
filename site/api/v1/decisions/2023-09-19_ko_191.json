@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-19_ko_191",
+  "headline": "Lakritsroten 1: 100 hyresrätter för cirka 13 miljoner",
+  "summary": "Reservationsavtal förlängs för Magnolia Projekt 562 ABs bygge av cirka 100 hyresrätter på Lakritsroten 1 i Tamarinden.",
+  "detail": "Magnolia Projekt 562 AB avser att bygga cirka 100 lägenheter på fastigheten Lakritsroten 1 i området Tamarinden, Sörbyängen, som hyresrätter. Markförsäljningen är beräknad till cirka 13 miljoner kronor.\n\nReservationsavtalet godkändes tidigare vid programberedning 2021-12-08 med delegation för reservationsavtal upp till 15 mkr. På grund av ändrad delegationsordning behöver förlängningen nu beslutas av kommunstyrelsen då nämnden inte längre har delegation för avtal över 10 mkr.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Lakritsroten 1, Tamarinden, Sörbyängen",
+  "paragraph_ref": "§ 191",
+  "tags": [
+    "Lakritsroten 1",
+    "Tamarinden",
+    "bostäder",
+    "Magnolia Projekt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Magnolia Projekt 562 AB avser att bygga ca 100 lägenheter på fastigheten Lakritsroten 1 i området Tamarinden, Sörbyängen.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_191.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_191/"
+  }
+}

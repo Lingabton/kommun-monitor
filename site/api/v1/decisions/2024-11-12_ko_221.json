@@ -1,0 +1,44 @@
+{
+  "id": "2024-11-12_ko_221",
+  "headline": "Örebro Södra – avsiktsförklaring med Trafikverket och Region",
+  "summary": "Nytt partnerskap kring utveckling av järnvägsstationen Örebro Södra ingås med Trafikverket och Region Örebro län.",
+  "detail": "En ny avsiktsförklaring ersätter den från 2018. Målbilden är att stationen fortsatt blir ett viktigt nav för resandeutbyte. Parterna ska verka för överenskommelse om ansvar och kostnader för utveckling.\n\nKarolina Wallström (L) och Markus Allard (ÖrP) yrkade avslag på ärendet. Kommunstyrelsen beslutade enligt förslaget.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro Södra",
+  "paragraph_ref": "§ 221",
+  "tags": [
+    "Örebro Södra",
+    "Trafikverket",
+    "järnväg",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den övergripande målbilden för Örebro Södra är att stationen fortsatt ska vara ett viktigt nav för resandeutbyte i Örebro.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_221.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_221/"
+  }
+}

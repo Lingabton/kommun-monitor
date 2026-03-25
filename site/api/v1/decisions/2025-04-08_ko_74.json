@@ -1,0 +1,44 @@
+{
+  "id": "2025-04-08_ko_74",
+  "headline": "Kulturkvarteret: Saknas 18 miljoner i hyreskompensation",
+  "summary": "Utvärdering av Kulturkvarteret intraprenad visar negativ avvikelse på 17,6 miljoner för 2022-2024. Felaktig hyreskompensation om cirka 18 miljoner konstateras.",
+  "detail": "En utvärdering av Kulturkvarteret intraprenad för perioden 2021-2024 har genomförts. Utvärderingen rekommenderade en budgetförstärkning om 6,4 miljoner kronor per år för att bättre återspegla behov och ambitionsnivå.\n\nSammantaget har Kulturkvarteret haft en negativ avvikelse om 17,6 miljoner kronor för åren 2022, 2023 och 2024. Efter fördjupad utredning konstaterades att Kulturkvarteret inte fått rätt hyreskompensation – för åren 2022-2024 saknas cirka 18 miljoner kronor i kompensation.\n\nMed dessa förutsättningar föreslås inte de ekonomiska förslagen från utvärderingen genomföras. Istället föreslås att felaktig hyreskompensation justeras i kommande ombudgeteringsärende. Kulturkvarterets framtida organisationsform utredas vidare under 2025. Det finns inga direkta skäl att ingå en ny överenskommelse som intraprenad.",
+  "category": "budget",
+  "contested": false,
+  "location": "Kulturkvarteret",
+  "paragraph_ref": "§ 74",
+  "tags": [
+    "Kulturkvarteret",
+    "intraprenad",
+    "ekonomi",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "SD",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Sammantaget för åren 2022, 2023 och 2024 innebär det att det saknas ca 18 mnkr i kompensation.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-04-08_Kommunstyrelsen",
+    "date": "2025-04-08",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-08_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-08_ko_74.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-08_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-08_ko_74/"
+  }
+}

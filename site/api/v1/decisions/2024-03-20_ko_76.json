@@ -1,0 +1,40 @@
+{
+  "id": "2024-03-20_ko_76",
+  "headline": "Motion om hemlöshet och civilsamhälle avslås",
+  "summary": "Kommunfullmäktige avslog motion från Johanna Reimfelt (L) om utökat stöd till civilsamhället för hemlöshetsproblematiken.",
+  "detail": "Johanna Reimfelt (L) föreslog att kommunen skulle utreda och utöka stödet till civilsamhället för att möjliggöra utökad dagtidsverksamhet för hemlösa. Kommunledningen hävdade att Örebro kommun redan arbetar aktivt med hemlöshetsfrågorna.\n\nKommunen har antagit en strategi mot hemlöshet 2022 och tillsatt en samordnare från början av 2023. Arbetet sker både inom kommunal regi och genom samverkan med civilsamhället. Motionen avslogs. Reservationer lämnades av L, SD, V, ÖrP och KD för motionen.",
+  "category": "politik",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 76",
+  "tags": [
+    "hemlöshet",
+    "civilsamhälle",
+    "socialpolitik",
+    "motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Örebro kommun redan arbetar med hemlöshetsproblematiken på olika sätt och har antagit en strategi mot hemlöshet med tillsatt samordnare.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-03-20_Kommunfullmäktige",
+    "date": "2024-03-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-20_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_76.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-20_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-20_ko_76/"
+  }
+}

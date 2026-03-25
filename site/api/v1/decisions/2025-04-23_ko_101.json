@@ -1,0 +1,43 @@
+{
+  "id": "2025-04-23_ko_101",
+  "headline": "Motion om lönekostnad för anställda bordlades utan avslut",
+  "summary": "Kommunfullmäktige bordlade Sverigedemokraternas motion om att visa hela lönekostnaden inklusive arbetsgivaravgift i lönebeskeden.",
+  "detail": "Helena Ståhl från Sverigedemokraterna motionerade för att Örebro kommun ska redovisa hela lönekostnaden inklusive arbetsgivaravgift i lönespecifikationerna till anställda.\n\nKommunledningen rekommenderade avslag med motiveringen att kommunen inte bör föregå en pågående utredning från regeringen i denna fråga. Det kan finnas lärdomar att dra från eventuella juridiska aspekter och praktiska genomförande. Kommunen bedömde också att det finns värde i att lönespecifikationerna enkelt och tydligt visar den utbetalda lönen.\n\nSD-ledamöterna David Larsson och Markus Allard från ÖrP reserverade sig för bifallande av motionen. Ärendet bordlades utan att slutgiltigt beslut fattades.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 101",
+  "tags": [
+    "lön",
+    "lönespecifikation",
+    "transparens",
+    "personal"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Bedömningen är att motionen ska avslås eftersom Örebro kommun inte bör föregripa den utredning i frågan som påbörjats av regeringen.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_101.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_101/"
+  }
+}

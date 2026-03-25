@@ -1,0 +1,40 @@
+{
+  "id": "2025-03-18_ko_61",
+  "headline": "Motion om välfärdsbrottslighet ansågs tillgodosedd",
+  "summary": "Kommunstyrelsen bedömde att Västerpartiet motion om att bekämpa oseriösa välfärdsaktörer var tillgodosedd genom redan etablerad policy och ny samordnartjänst.",
+  "detail": "Martha Wicklund (V) motionerade för att tillsätta en särskild tjänst för att granska privata aktörer inom välfärden för att minimera fusk och oseriösa aktörer. Kommunledningen bedömde att motionen redan var tillgodosedd.\n\nKommunledningen påpekade att det redan finns etablerade riktlinjer för hur kommunen avtalar och följer upp avtal med privata utförare enligt lagen om offentlig upphandling (LoU) och lagen om valfrihet (LoV). Dessa utförare regleras genom hälso- och sjukvårdslagen, socialtjänstlagen och lagen om stöd och service.\n\nArbetat mot välfärdsbrottslighet ingår i kommunledningens lanserade arbete på området. Vidare har en samordnare för att hålla samman arbetet mot välfärdsbrottslighet anställts på Säkerhetsavdelningen. Kommunledningen är överens om att utveckla kontrollsystemen så att dåligt skötande aktörer snabbare kan stängas av.\n\nCristian Rehn Janowicz (V) yrkal fullt bifall till motionen.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 61",
+  "tags": [
+    "välfärdsbrottslighet",
+    "fusk",
+    "kontroll",
+    "privata utförare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Arbetet mot fusk och oseriösa aktörer ingår i kommunledningens lanserade arbete mot välfärdsbrottslighet. Vidare är kommunledningen överens om att utveckla kontrollsystemen så att den aktör som missköter sig snabbare ska kunna stängas av.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_61.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_61/"
+  }
+}

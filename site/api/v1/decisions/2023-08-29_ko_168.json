@@ -1,0 +1,44 @@
+{
+  "id": "2023-08-29_ko_168",
+  "headline": "Riktlinjer bostadsförsörjning får uppdragsdirektiv",
+  "summary": "Kommunstyrelsen initierade arbetet med nya riktlinjer för kommunens bostadsförsörjning enligt lag.",
+  "detail": "Enligt lagen om kommunernas bostadsförsörjningsansvar ska varje kommun anta riktlinjer för bostadsförsörjningen under varje mandatperiod. Syftet är att skapa förutsättningar för att alla får leva i goda bostäder och för att främja ändamålsenliga åtgärder.\n\nMarkplanerings- och exploateringsnämnden föreslögt att uppdraget initieras enligt uppdragsdirektivet från 2023-04-28. Miljö- och stadsbyggnadsförvaltningen ansvarar för att ta fram förslaget.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 168",
+  "tags": [
+    "bostadsförsörjning",
+    "riktlinjer",
+    "lagkrav",
+    "exploatering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Uppdragets inriktning, berednings- och beslutssteg godkänns och uppdraget initieras i enlighet med uppdragsdirektivet.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_168.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_168/"
+  }
+}

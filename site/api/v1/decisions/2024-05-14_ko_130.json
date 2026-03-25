@@ -1,0 +1,48 @@
+{
+  "id": "2024-05-14_ko_130",
+  "headline": "Motion om Open Art med barn avslagen",
+  "summary": "Kommunfullmäktige avslår Örebropartiets förslag att göra Open Art till en utställning för barnens konstverk för att spara pengar.",
+  "detail": "Markus Allard från Örebropartiet förespråkade att Open Art skulle förvandlas till ett barnens Open Art-arrangemang där barn ställer ut sina verk. Motionären menade att detta skulle sänka kostnaderna avsevärt.\n\nKommunledningen (S, M, C) anerkänner att barns skapandekraft är viktig, men motsätter sig förslaget då det skulle förändra konceptet grundläggande. Open Art har en unik position som Skandinaviens största biennal för samtidskonst i det offentliga rummet, vilket bygger på en viss verkshöjd på konsten.\n\nEnligt överenskommelsen mellan kommunledningen ska Open Art finnas kvar med nya samarbetsformer och gemensam finansiering tillsammans med näringslivet. Budgeten dras ner på anslagen för arrangör.\n\nVoteringen gav 58 ja-röster (avslag) mot 5 nej-röster (bifall). Endast Örebropartiet röstade för motionen. Ärendet bordlades tidigare innan slutlig behandling.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 130",
+  "tags": [
+    "Open Art",
+    "kultur",
+    "konst",
+    "barnkonst",
+    "budget"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Tack vare denna verkshöjd har OpenArt en unik position som Skandinaviens största biennal för samtidskonst i det offentliga rummet.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-05-14_Kommunfullmäktige",
+    "date": "2024-05-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-14_ko_130.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-14_ko_130/"
+  }
+}

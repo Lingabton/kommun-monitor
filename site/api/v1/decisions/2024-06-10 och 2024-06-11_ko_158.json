@@ -1,0 +1,43 @@
+{
+  "id": "2024-06-10 och 2024-06-11_ko_158",
+  "headline": "Kulturreservat Kilsbergstorpet Hyttebacken bildades",
+  "summary": "Kommunfullmäktige antog ett kulturreservat på fastigheten Hyttebacken i Kilsbergen för att skydda höga natur- och kulturvärden. Fastigheten skänktes till kommunen 2015.",
+  "detail": "Fastigheten Bocksboda 1:8 (Hyttebacken) i Kilsbergen donerades 2015 av den siste brukaren Evert Eriksson. Fastigheten beskrivs som särskilt värdefull kulturmiljö i kommunens kulturmiljöinventering och är ett väl bevarat gårdshemman från 1700-talet.\n\nOmrådet är delvis utpekat som Natura 2000-område av Länsstyrelsen och har artrika slåtterängarna. Kommunen åtog sig att bilda reservat för att långsiktigt skydda och förvalta natur- och kulturvärdena.\n\nReservatet sträcker sig över gränsen mellan Örebro och Nora kommuner. Nora kommun arbetar på att fatta motsvarande beslut, men Örebro kommun ska sköta reservatet enligt särskild överenskommelse.\n\nTill beslutet hörde också en skötselplan och vård- och underhållsplan för byggnaderna. Örebropartiet yrka alternativt att Everts arv skulle förvaltas i stiftelseform för underhållning av Hyttebacken, eller i andra hand avslag. Kommunfullmäktige beslutade enligt majoriteten.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Kilsbergen, Hyttebacken, gräns mot Nora",
+  "paragraph_ref": "§ 158",
+  "tags": [
+    "kulturreservat",
+    "Hyttebacken",
+    "Kilsbergen",
+    "Evert Eriksson"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "C",
+      "V",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Förslag till beslut om bildande av kulturreservatet Kilsbergstorpet Hyttebacken i Örebro kommun antas.",
+  "quote_page": "s. 13-14",
+  "meeting": {
+    "id": "2024-06-10_Kommunfullmäktige",
+    "date": "2024-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-06-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-06-10 och 2024-06-11_ko_158.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-06-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-06-10 och 2024-06-11_ko_158/"
+  }
+}

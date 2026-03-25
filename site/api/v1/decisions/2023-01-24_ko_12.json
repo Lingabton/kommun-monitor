@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-24_ko_12",
+  "headline": "Välfärdsrapport: 148 beslut ej verkställda inom tidsfristen",
+  "summary": "Kommunfullmäktige mottog rapport om att Programnämnd social välfärd inte verkställt 148 biståndsbeslut enligt SoL och LSS inom tre månader Q2 2022.",
+  "detail": "För andra kvartalet 2022 rapporterades totalt 249 beslut av Programnämnd social välfärd, varav 148 inte verkställts inom laglig tid och 101 verkställda.\n\nVänsterpartiet föreslog att kommunstyrelseförvaltningen ska ta fram förslag på hur man kan verkställa gynnande beslut inom rimlig tid. Martha Wicklund (V) påpekade att vissa individer väntat över 2000 dagar på insatser inom personlig assistans, daglig verksamhet och bostad med särskild service.\n\nMarthas förslag och Sverigedemokraternas tilläggsyrkande om krav på resultatrapportering avslogs båda. Rapporten lades bara till handlingarna utan åtgärdsplaner.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 12",
+  "tags": [
+    "välfärd",
+    "SoL",
+    "LSS",
+    "resurser",
+    "servicegaranti"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Vid upprepade tillfällen ser vi allvarliga resursbrister gällande personlig assistans, daglig verksamhet och bostad med särskild service.",
+  "quote_page": "s. 27",
+  "meeting": {
+    "id": "2023-01-24_Kommunfullmäktige",
+    "date": "2023-01-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_12.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-24_ko_12/"
+  }
+}

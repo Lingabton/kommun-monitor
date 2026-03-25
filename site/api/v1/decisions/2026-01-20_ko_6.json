@@ -1,0 +1,43 @@
+{
+  "id": "2026-01-20_ko_6",
+  "headline": "Jämställdhetsdelegationen försvars mot nedläggningsyrkande",
+  "summary": "Kommunstyrelsen antar Jämställdhetsdelegationens verksamhetsplan. Sverigedemokraterna och Schwefelpartiet yrkade på avveckling.",
+  "detail": "Kommunstyrelsen antar Kommunstyrelsens jämställdhetsdelegations verksamhetsplan för 2026.\n\nHelena Ståhl (SD) yrkade att avslå planen och avveckla Jämställdhetsdelegationen helt. Markus Allard (ÖrP) stödde detta yrkande.\n\nOrdförande John Johansson (S) ställde proposition och fann att kommunstyrelsen beslutar enligt delegationens eget förslag.\n\nDelegationen samordnar jämställdhetsfrågorna i Örebro kommun och tar fram förslag på verksamhetsplan varje år.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 6",
+  "tags": [
+    "jämställdhet",
+    "delegation",
+    "kvinnor",
+    "män"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Jämställdhetsdelegationen är en delegation under Kommunstyrelsen och samordnar jämställdhetsfrågorna i Örebro kommun.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2026-01-20_Kommunstyrelsen",
+    "date": "2026-01-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2026-01-20_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2026-01-20_ko_6.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2026-01-20_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2026-01-20_ko_6/"
+  }
+}

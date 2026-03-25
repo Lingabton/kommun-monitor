@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_258",
+  "headline": "Ledamotsinitiativ om äldrevård avslaget",
+  "summary": "Helena Ståhl (SD) ledamotsinitiativ om stöd till äldraskadade genom genomlysning och grupptalan avslogs.",
+  "detail": "Helena Ståhl (SD) lämnande in ledamotsinitiativ på oktobermötet för att Kommunledningsförvaltningen skulle genomföra en genomlysning för att informera äldre som utsatts för bedrägeri och aggressiv telefonförsäljning om deras rättigheter, samt erbjuda stöd och möjlighet till grupptalan för att få tillbaka pengar.\n\nKommunledningen argumenterade att en uppsökande verksamhet och juridisk processledning ligger utanför det kommunala ansvarsområdet och faller under statliga myndigheters som Polisen och Konsumentverket. Kommunens roll är begränsad till att erbjuda information genom konsumentvägledning.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall men förlorade.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 258",
+  "tags": [
+    "äldreomsorg",
+    "konsumentskydd",
+    "initiativ"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Att bedriva en uppsökande verksamhet för att identifiera äldre som blivit utsatta för bedrägerier och att driva grupptalan för deras räkning ligger utanför det kommunala ansvarsområdet.",
+  "quote_page": "s. 28",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_258.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_258/"
+  }
+}

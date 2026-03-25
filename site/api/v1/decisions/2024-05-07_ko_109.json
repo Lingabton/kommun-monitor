@@ -1,0 +1,43 @@
+{
+  "id": "2024-05-07_ko_109",
+  "headline": "Ej verkställda LSS/SoL-beslut: Många väntar utan åtgärder",
+  "summary": "Rapporten visar allvarliga problem med ej verkställda beslut för funktionshindrade. Vänster-, Moderata-, Liberala och Sverigedemokraterna ville skärpa kraven, men Socialdemokraterna avslog tilläggsyrkandena.",
+  "detail": "Funktonsstödsnämndens rapport visar 210 rapporterade ej verkställda beslut i Q4 2023, varav 142 var fortsatt ej verkställda inom tre månader.\n\nDetta innebär att många personer med funktionsnedsättningar väntar på tvåande boendelösningar utan att kommunen verkställer lagliga beslut. Karolina Wallström (L) yrkade på åtgärdsplan för fler gruppbostäder och dialog med privata aktörer. Martha Wicklund (V) ville ge kommundirektören uppdrag att ta fram förslag för rimlig verkställingstid. Helena Ståhl (SD) krävde tydligare rapportering om vänttider och skarpa krav för att undvika att IVO lämnar in ansökan om särskild avgift.\n\nOrdförande avslogs alla tre tilläggsyrkandena.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 109",
+  "tags": [
+    "LSS",
+    "funktionshinder",
+    "gruppbostäder",
+    "väntköer"
+  ],
+  "voting": {
+    "for": [
+      "S"
+    ],
+    "against": [
+      "L",
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag på tilläggsyrkanden"
+  },
+  "quote": "För det fjärde kvartalet 2023 ökade nämndens totala antal rapporterade beslut till 210 stycken. Vid kvartalets slut var 142 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_109.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_109/"
+  }
+}

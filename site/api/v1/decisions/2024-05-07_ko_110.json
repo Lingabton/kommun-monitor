@@ -1,0 +1,45 @@
+{
+  "id": "2024-05-07_ko_110",
+  "headline": "Energiförsörjningsplan-motion: Motionen tillgodosedd",
+  "summary": "Motion från Miljöpartiet om energiförsörjningsplan tillgodosedd genom ÖSB-mål och kommande energistrategi.",
+  "detail": "Miljöpartisterna Lea Strandberg och Fredrik Persson motionerade för en ny energiförsörjningsplan med krav på: att kommunen blir oberoende genom att tillverka all egen el, enbart förnybar energi och åtgärder för privatpersoners energitillverkning.\n\nKommunledningsförvaltningen bedömde att första, andra och tredje förslaget redan tillgodoses genom mål i ÖSB och Vårt hållbara Örebro samt den kommande energistrategin. Fjärde förslaget ansågs besvarat genom att övervägas i energistrategin.\n\nVänsterpartiet (Martha Wicklund) stödde motionen. Sverigedemokraterna (Helena Ståhl) ville bifalla första och fjärde men avslå andra och tredje. Örebro för Förändring (Markus Allard) yrkade avslag.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 110",
+  "tags": [
+    "energi",
+    "förnybar energi",
+    "miljöstrategi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "V",
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Tillgodosedd"
+  },
+  "quote": "Bedömningen är att motionens första, andra och tredje förslag är tillgodosedda då dessa tillgodoses av mål i ÖSB och Vårt hållbara Örebro samt av den energistrategi för Örebro som ska tas fram.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_110.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_110/"
+  }
+}

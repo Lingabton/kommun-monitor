@@ -1,0 +1,47 @@
+{
+  "id": "2024-09-25_ko_239",
+  "headline": "Motion om återvandringsstöd avslaget",
+  "summary": "Motion från Carola Sunesson (SD) om att informera om statligt stöd för frivillig återvandring avslås.",
+  "detail": "Carola Sunesson föreslår att kommunen ska uppdra åt Kommunstyrelsen att utforma regelbundna informationsinsatser om möjligheterna till stöd för frivillig återvandring till relevanta målgrupper.\n\nKommunledningen bedömer att eftersom det inte ingår i befintlig lagstiftning och en statlig utredning pågår gällande ansvarsfördelning, bör man invänta den statliga utredningens slutsatser innan kommunen tar på sig ett uppdrag som ligger på Migrationsverkets ansvar.\n\nMotionen avslogs med majoritetens röster. SD och ÖrP reserverade sig för bifall. Ärendet bordlades flera gånger före slutgiltigt avslag.",
+  "category": "politik",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 239",
+  "tags": [
+    "återvandring",
+    "migration",
+    "information",
+    "SD-motion"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "V",
+      "C",
+      "KD",
+      "L",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Kommunledningsförvaltningen menar att eftersom det inte ingår i befintlig lagstiftning och då det pågår en statlig utredning gällande ansvarsfördelning bör man invänta den statliga utredningens slutsatser innan kommunen tar på sig ett uppdrag som ligger på Migrationsverkets ansvar.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_239.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_239/"
+  }
+}

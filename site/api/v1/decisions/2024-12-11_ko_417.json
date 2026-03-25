@@ -1,0 +1,46 @@
+{
+  "id": "2024-12-11_ko_417",
+  "headline": "Tilläggsavtal Region Örebro Innovation AB godkänt",
+  "summary": "Kommunfullmäktige godkänner tilläggsavtal och ändringar i aktieägaravtal för Region Örebro Innovation AB för att kunna övergå från driftsbidrag till uppdragsavtal.",
+  "detail": "Region Örebro Innovation AB ägs av Region Örebro läns förvaltnings AB, Örebro Rådhus AB och Örebro Universitet Holding AB. Bolagets verksamhet finansieras genom årliga driftsbidrag.\n\nUniversitetet önskar ändra finansieringsmodellen eftersom det är förhindrat att utge bidrag till delägda bolag. Istället föreslås köp av tjänster enligt uppdragsavtal.\n\nKommunfullmäktige godkänner föreslagen bolagsordning och ägardirektiv för Region Örebro Innovation AB och Inkubera i Örebro AB. Örebro Rådhus AB får i uppdrag att ingå tilläggsavtal och Kommunstyrelsen får i uppdrag att ingå uppdragsavtal.\n\nÖrP reserverade sig mot beslutet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 417",
+  "tags": [
+    "Region Örebro Innovation AB",
+    "aktieägaravtal",
+    "finansiering",
+    "uppdragsavtal"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Örebro Rådhus AB får i uppdrag att ingå tilläggsavtal till aktieägaravtal avseende ägandet i Region Örebro Innovation AB enligt förslag.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_417.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_417/"
+  }
+}

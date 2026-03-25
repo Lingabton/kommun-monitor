@@ -1,0 +1,44 @@
+{
+  "id": "2025-08-26_ko_163_164",
+  "headline": "SD-motion avslagna: långtidsarbetslösa vid snöröjning och försörjningskrav",
+  "summary": "Två motioner från SD avslagna: förslagom att engagera långtidsarbetslösa vid snöröjning samt att kravställa försörjningsstödet för heltidssysselsättning.",
+  "detail": "Helena Ståhl och Habib Brini (SD) föreslog att långtidsarbetslösa med försörjningsstöd mobiliseras för snöröjning som arbetskraftsreserv.\n\nGymnasie- och arbetsmarknadsnämnden rekommenderade avslag med motiveringen att denna målgrupp majoritärt står långt från arbetsmarknaden och behöver omfattande individuell anpassning. Snöröjning kräver utbildning, samordning och säkerhetshänsyn som blir kostnadseffektiv jämfört med temporära behov.\n\nI en andra motion föreslog SD att krav på heltidssysselsättning införs för försörjningsstöd. Nämnden bedömde att detta inte är genomförbart då målgruppen till stor del har ohälsa och sociala skäl, och påminde om möjligheter till parallellt arbete med region och andra samhällsfunktioner.\n\nBåda motionerna avslogs efter yrkanden från Helena Ståhl (SD) och Markus Allard (ÖrP). Ärendena ska vidare till Kommunfullmäktige.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 163, 164",
+  "tags": [
+    "försörjningsstöd",
+    "arbetslöshet",
+    "arbetsmarknad",
+    "SD-motioner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Att likställa den aktuella målgruppen av försörjningsstödstagare som en arbetskraftsreserv upplever förvaltningen som missvisade då denna målgrupp i majoritet utgörs av personer som står långt i från arbetsmarknaden.",
+  "quote_page": "s. 11-13",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_163_164.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_163_164/"
+  }
+}

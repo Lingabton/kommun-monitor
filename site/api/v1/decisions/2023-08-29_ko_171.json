@@ -1,0 +1,44 @@
+{
+  "id": "2023-08-29_ko_171",
+  "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+  "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+  "detail": "Martha Wicklund och fyra andra ledamöter från Vänsterpartiet motionerade 2021 om pendlarparkering på flera platser: Lanna, Odensbacken, Björkhaga och Garphyttan samt Hovsta/Lillån och Almbro/Norra Bro/Brickebacken.\n\nMotionen efterfrågar även laddmöjligheter för elfordon och bättre information om befintliga pendleparkeringar.\n\nKommunledningsförvaltningen rapporterade att pilotprojekt redan påbörjats i Björkhaga, att områdena Hovsta/Lillån omprioriterats till Bettorp (som samlar trafikanter från större område), och att Brickebacken pekats ut för fördjupad utredning. Kommunen möjliggör laddplatser vid ny- och ombyggnation av mobilitetshubbarna och synliggör dessa på hemsidan.\n\nMartha Wicklund yrkade bifall till motionen men togs ned mot majoritet.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Björkhaga, Bettorp, Brickebacken",
+  "paragraph_ref": "§ 171",
+  "tags": [
+    "pendlarparkering",
+    "mobilitet",
+    "elfordon",
+    "infrastruktur",
+    "Björkhaga"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att ett pilotprojekt redan påbörjats i Björkhaga och en fördjupad utredning har gjorts för att peka ut prioriterade platser att fortsätta med.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2023-08-29_Kommunstyrelsen",
+    "date": "2023-08-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-08-29_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-08-29_ko_171.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-08-29_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-08-29_ko_171/"
+  }
+}

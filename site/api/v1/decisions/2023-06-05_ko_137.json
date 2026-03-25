@@ -1,0 +1,46 @@
+{
+  "id": "2023-06-05_ko_137",
+  "headline": "Svar på remiss: statligt huvudmannaskap för personlig assistans",
+  "summary": "Kommunstyrelsen antar yttrande om överföring av personlig assistans från kommunalt till statligt huvudmannaskap från 2026. KD lämnar särskilt yttrande om systemets förbättringar.",
+  "detail": "Socialdepartementet har remitterat slutbetänkandet SOU 2023:9 om att staten ska ta över huvudmannaskapet för personlig assistans från kommunerna.\n\nUtredningen föreslår att staten från 1 januari 2026 ska ha samlat ansvar för beslut och finansiering av personlig assistans. Kommunerna ska inte längre betala sjuklönekostnader för personliga assistenter eller medfinansiera assistansersättningen (första 20 timmar per vecka). De kommunala besluten ska löpande överföras till Försäkringskassan senast 31 december 2026.\n\nAnna Andersson (KD) betonar i sitt särskilda yttrande att det delade ansvaret mellan stat och kommun skapat osäkerhet och olika bedömningar. Hon menar att ett statligt huvudmannaskap säkrar rätten till assistans oavsett var i landet man bor.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 137",
+  "tags": [
+    "personlig assistans",
+    "statligt huvudmannaskap",
+    "försäkringskassan",
+    "kommunal ekonomi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Med staten som ansvarig säkras rätten till assistans oavsett var i landet man bor. Kristdemokraterna Örebro välkomnar därför ett statligt huvudmannaskap för assistansen.",
+  "quote_page": "Yttrande, 2023-06-05",
+  "meeting": {
+    "id": "2023-06-05_Kommunstyrelsen",
+    "date": "2023-06-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-06-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-06-05_ko_137.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-06-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-06-05_ko_137/"
+  }
+}

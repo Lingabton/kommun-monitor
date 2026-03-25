@@ -1,0 +1,44 @@
+{
+  "id": "2023-02-07_ko_22",
+  "headline": "Kommunstyrelsens årsberättelse 2022 fastställd",
+  "summary": "Årsberättelsen för Kommunstyrelsen 2022 fastställdes. Verksamheten visade positiv budgetavvikelse på 1,1 mnkr.",
+  "detail": "Rapporten visar att Kommunstyrelsens verksamhet bedrivits enligt reglemente, egna styrregler och givna uppdrag trots omvärldens påverkan.\n\nDen sammanställda budgetavvikelsen för Kommunstyrelsen var positiv på 1,1 mnkr. Kommunledning och kommunstyrelseförvaltning visade positiv avvikelse, främst från överskott från tidigare år för de politiska kanslierna. NOD-projektet (ombyggnad av administrativa lokaler) påverkade negativt då det saknade budget.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 22",
+  "tags": [
+    "årsberättelse",
+    "ekonomi",
+    "2022"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Verksamheten under Kommunstyrelsen trots omvärldens påverkan, i allt väsentligt bedrivits utifrån givet reglemente",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_22.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_22/"
+  }
+}

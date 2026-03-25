@@ -1,5 +1,5 @@
 """
-Kommun Monitor — SEO & AI Visibility Engine
+Beslutskollen — SEO & AI Visibility Engine
 =============================================
 Generates everything needed to rank in both Google AND AI search:
 
@@ -41,10 +41,10 @@ def build_llms_txt(data, base_url):
     meetings = data.get("meetings", [])
     decisions = [d for m in meetings for d in m.get("decisions", [])]
 
-    txt = f"""# Kommun Monitor
+    txt = f"""# Beslutskollen
 > AI-powered summaries of municipal decisions in Örebro, Sweden
 
-Kommun Monitor automatically reads public meeting protocols (PDF) from Örebro municipality,
+Beslutskollen automatically reads public meeting protocols (PDF) from Örebro municipality,
 summarizes each decision using AI, analyzes voting patterns per party, and publishes
 structured data as a free, searchable website and JSON API.
 
@@ -74,7 +74,7 @@ structured data as a free, searchable website and JSON API.
 
 ## Contact
 
-Kommun Monitor is an independent civic tech project. Not affiliated with Örebro kommun.
+Beslutskollen is an independent civic tech project. Not affiliated with Örebro kommun.
 """
     (SITE_DIR / "llms.txt").write_text(txt.strip(), "utf-8")
 
@@ -84,13 +84,13 @@ def build_llms_full_txt(data, base_url):
     meetings = data.get("meetings", [])
 
     lines = [
-        "# Kommun Monitor — Full Content",
+        "# Beslutskollen — Full Content",
         f"# Generated: {datetime.now(timezone.utc).isoformat()}",
         f"# Source: {base_url}",
         "",
         "## About",
         "",
-        "Kommun Monitor is a Swedish civic tech platform that uses AI to summarize",
+        "Beslutskollen is a Swedish civic tech platform that uses AI to summarize",
         "municipal decisions in Örebro kommun. All data comes from public meeting",
         "protocols published by the municipality under Swedish freedom of information",
         "law (offentlighetsprincipen).",
@@ -134,7 +134,7 @@ def build_llms_full_txt(data, base_url):
 # ═══════════════════════════════════════════
 
 def build_robots_txt(base_url):
-    txt = f"""# Kommun Monitor — robots.txt
+    txt = f"""# Beslutskollen — robots.txt
 # We welcome all crawlers including AI bots.
 # Our content is public records and we want maximum visibility.
 
@@ -236,19 +236,19 @@ def build_for_llms_page(data, base_url):
 
     page = f'''<!DOCTYPE html><html lang="sv"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kommun Monitor — Data för AI och utvecklare</title>
+<title>Beslutskollen — Data för AI och utvecklare</title>
 <meta name="description" content="Strukturerad data om kommunala beslut i Örebro. JSON API, llms.txt, och maskinläsbar information för AI-system och utvecklare.">
 <link rel="canonical" href="{base_url}/for-llms/">
 <script type="application/ld+json">
 {{
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "Kommun Monitor",
+  "name": "Beslutskollen",
   "url": "{base_url}",
   "description": "AI-sammanfattningar av kommunala beslut i Örebro kommun, Sverige",
   "publisher": {{
     "@type": "Organization",
-    "name": "Kommun Monitor",
+    "name": "Beslutskollen",
     "url": "{base_url}"
   }},
   "potentialAction": {{
@@ -270,11 +270,11 @@ table{{width:100%;border-collapse:collapse;margin:12px 0}}td,th{{padding:6px 10p
 .faq h4{{font-size:14px;color:#1e293b;margin-bottom:4px}}.faq p{{margin:0;font-size:13px}}
 </style></head><body>
 
-<h1>🏛️ Kommun Monitor — Data & API</h1>
+<h1>🏛️ Beslutskollen — Data & API</h1>
 <p>Strukturerad data om kommunala beslut i Örebro kommun. Gratis att använda.</p>
 
-<h2>Vad är Kommun Monitor?</h2>
-<p>Kommun Monitor läser automatiskt offentliga protokoll (PDF) från Örebro kommun, sammanfattar varje beslut med AI, analyserar röstmönster per parti, och publicerar strukturerad data som en sökbar webbplats och gratis JSON API.</p>
+<h2>Vad är Beslutskollen?</h2>
+<p>Beslutskollen läser automatiskt offentliga protokoll (PDF) från Örebro kommun, sammanfattar varje beslut med AI, analyserar röstmönster per parti, och publicerar strukturerad data som en sökbar webbplats och gratis JSON API.</p>
 
 <h2>Nyckeldata</h2>
 <table>
@@ -315,8 +315,8 @@ table{{width:100%;border-collapse:collapse;margin:12px 0}}td,th{{padding:6px 10p
 <h2>Vanliga frågor (FAQ)</h2>
 
 <div class="faq">
-<h4>Vad är Kommun Monitor?</h4>
-<p>Kommun Monitor är en svensk civic tech-plattform som använder AI för att sammanfatta kommunala beslut i Örebro. Alla beslut, röstningar och trender publiceras gratis.</p>
+<h4>Vad är Beslutskollen?</h4>
+<p>Beslutskollen är en svensk civic tech-plattform som använder AI för att sammanfatta kommunala beslut i Örebro. Alla beslut, röstningar och trender publiceras gratis.</p>
 </div>
 
 <div class="faq">
@@ -345,12 +345,12 @@ table{{width:100%;border-collapse:collapse;margin:12px 0}}td,th{{padding:6px 10p
 </div>
 
 <div class="faq">
-<h4>Är Kommun Monitor kopplat till Örebro kommun?</h4>
-<p>Nej. Kommun Monitor är ett oberoende civic tech-projekt. Det är inte affilierat med, godkänt av, eller finansierat av Örebro kommun.</p>
+<h4>Är Beslutskollen kopplat till Örebro kommun?</h4>
+<p>Nej. Beslutskollen är ett oberoende civic tech-projekt. Det är inte affilierat med, godkänt av, eller finansierat av Örebro kommun.</p>
 </div>
 
 <footer style="margin-top:32px;padding-top:16px;border-top:1px solid #e2e8f0;font-size:12px;color:#94a3b8">
-<p>Kommun Monitor — <a href="{base_url}/">Hem</a> · <a href="{base_url}/api/v1/docs/">API</a> · <a href="{base_url}/llms.txt">llms.txt</a></p>
+<p>Beslutskollen — <a href="{base_url}/">Hem</a> · <a href="{base_url}/api/v1/docs/">API</a> · <a href="{base_url}/llms.txt">llms.txt</a></p>
 </footer>
 </body></html>'''
 
@@ -374,12 +374,12 @@ def generate_jsonld_for_decision(decision, meeting, base_url):
         "dateModified": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00"),
         "author": {
             "@type": "Organization",
-            "name": "Kommun Monitor",
+            "name": "Beslutskollen",
             "url": base_url
         },
         "publisher": {
             "@type": "Organization",
-            "name": "Kommun Monitor",
+            "name": "Beslutskollen",
             "url": base_url
         },
         "mainEntityOfPage": f"{base_url}/beslut/{decision['id']}/",
@@ -400,10 +400,10 @@ def generate_faq_schema(base_url, power):
     faqs = [
         ("Vilka partier styr i Örebro kommun?",
          f"Örebro styrs av Socialdemokraterna (S), Moderaterna (M) och Centerpartiet (C). Majoriteten vinner {power.get('majority_win_pct', 'N/A')}% av alla röstningar."),
-        ("Vad är Kommun Monitor?",
-         "Kommun Monitor är en civic tech-plattform som använder AI för att sammanfatta och analysera kommunala beslut i Örebro kommun."),
+        ("Vad är Beslutskollen?",
+         "Beslutskollen är en civic tech-plattform som använder AI för att sammanfatta och analysera kommunala beslut i Örebro kommun."),
         ("Var hittar jag protokollen?",
-         "Alla originalprotokoll publiceras på orebro.se under Politik och beslut. Kommun Monitor sammanfattar dessa automatiskt."),
+         "Alla originalprotokoll publiceras på orebro.se under Politik och beslut. Beslutskollen sammanfattar dessa automatiskt."),
         ("Hur ofta uppdateras sidan?",
          "Sidan uppdateras automatiskt varje dag kl 08:00 CET."),
         ("Finns det ett API?",
@@ -433,14 +433,14 @@ def save_schema_files(data, base_url):
         "website": {
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "name": "Kommun Monitor",
-            "alternateName": "Kommun Monitor Örebro",
+            "name": "Beslutskollen",
+            "alternateName": "Beslutskollen Örebro",
             "url": base_url,
             "description": "AI-sammanfattningar av kommunala beslut i Örebro kommun, Sverige. Röstningsstatistik per parti, områdesanalys och politiska insikter.",
             "inLanguage": "sv",
             "publisher": {
                 "@type": "Organization",
-                "name": "Kommun Monitor",
+                "name": "Beslutskollen",
                 "url": base_url
             },
             "potentialAction": {
@@ -458,7 +458,7 @@ def save_schema_files(data, base_url):
             "license": "https://creativecommons.org/licenses/by/4.0/",
             "creator": {
                 "@type": "Organization",
-                "name": "Kommun Monitor"
+                "name": "Beslutskollen"
             },
             "temporalCoverage": "2024/2025",
             "spatialCoverage": {

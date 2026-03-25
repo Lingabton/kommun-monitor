@@ -1,0 +1,44 @@
+{
+  "id": "2023-12-12_ko_420",
+  "headline": "Låneramen för kommunkoncernen fastställs till 22,5 miljarder kronor",
+  "summary": "Kommunfullmäktige fastställde ramen för extern låneskuld för perioden 2024–2026 till 22,5 miljarder kronor och avgifter för koncerninterna lån. SD och ÖrP motsatte sig beslutet.",
+  "detail": "Enligt den koncerngemensamma finanspolicyn ska Kommunfullmäktige årligen fastställa en ram för externa lån till kommunkoncernen. Ramen inrymmer internbankens lån, kommunens egna lån och beslutad borgen till de kommunägda bolagen.\n\nKommunfullmäktige beslutade att fastställa ramen till 22,5 miljarder kronor för perioden 2024–2026 och att avgifter för koncerninterna lån och borgen fastställs enligt bifogad bilaga 2.\n\nBo Ammer (SD) yrkade på återremiss med hänvisning till Sverigedemokraternas tidigare budgetförslag, och Markus Allard (ÖrP) yrkade på återremiss enligt Örebropartiets senast lagda budget. Båda återremissyrkandena avslogs. Karolina Wallström (L) fick lämna ett särskilt yttrande till protokollet.\n\nSD-ledamöterna reserverade sig mot beslutspunkt 1, och ÖrP-ledamöterna reserverade sig skriftligt mot hela beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 420",
+  "tags": [
+    "låneram",
+    "ekonomi",
+    "kommunkoncern"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Ramen för kommunkoncernens samlade externa låneskuld fastställs till 22,5 miljarder kronor för perioden 2024–2026.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2023-12-12_Kommunfullmäktige",
+    "date": "2023-12-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-12_ko_420.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-12_ko_420/"
+  }
+}

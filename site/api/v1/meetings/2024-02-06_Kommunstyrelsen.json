@@ -1,0 +1,357 @@
+{
+  "organ": "Kommunstyrelsen",
+  "date": "2024-02-06",
+  "decisions": [
+    {
+      "headline": "Tilläggsanslag 6,2 miljoner kronor beviljat för 2024",
+      "summary": "Kommunstyrelsen beviljade tilläggsanslag på totalt 6 248 tkr för kostnadsökningar och oförutsedda behov under 2024. Finansiering sker ur olika kassor för investeringskompensation och generella kostnadsökningar.",
+      "detail": "Ärendet innefattar både tilläggsanslag och ombudgetering för budgetåret 2024. Tilläggsanslaget kompenserar bland annat beslut som fattades i Kommunstyrelsen i januari. Ombudgetering berör flytt av medel mellan nämnder med grund i ramfördelningen till ny nämndstruktur för 2023.\n\nFinansiering sker ur Kommunstyrelsens utrymme för investeringskompensation, generella kostnadsökningar samt oförutsedda behov. Vänsterpartiet yrkat avslag på förslaget men minoriteten ställdes mot majoriteten.\n\nMarta Wicklund (V) reserverade sig mot beslutet. Markus Allard (ÖrP) deltog inte på grund av jäv.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 30",
+      "quote": "Tilläggsanslag beviljas med totalt 6 248 tkr enligt Kommunledningsförvaltningens förslag. Finansiering sker ur Kommunstyrelsens utrymme för investeringskompensation, Kommunstyrelsens utrymme för generella kostnadsökningar samt ur Kommunstyrelsens utrymme för oförutsedda behov.",
+      "quote_page": "s. 5",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [
+          "V"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "kostnadsökningar",
+        "finansiering"
+      ],
+      "id": "2024-02-06_ko_30",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "Investeringsanslag 416,9 miljoner kronor överförda från 2023",
+      "summary": "Kommunstyrelsen beslutade att överföra investeringsanslag från 2023 till 2024 på totalt 416 884 tkr. Ärendet ska vidare till Kommunfullmäktige för slutgiltigt beslut.",
+      "detail": "För pågående investeringsobjekt föreslogs överföring av totalt 416 884 tkr, varav 240 714 tkr för skattefinansierade investeringar och 176 170 tkr för taxefinansierade investeringar.\n\nIntraprenadernas ackumulerade resultat fastställdes till 21 453 tkr och Digital arbetsplats ackumulerade resultat till -25 689 tkr.\n\nMarkus Allard (ÖrP), Helena Ståhl (SD) och Karolina Wallström (L) yrkade alla avslag på överföringen till förmån för respektive budgetförslag, men majoriteten röstade genom. Alla tre oppositionsrepresentanter samt Boammer (SD) reserverade sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 31",
+      "quote": "Investeringsanslag på sammanlagt 416 884 tkr överförs från 2023 till 2024 i enlighet med kommunstyrelseförvaltningens förslag. Balans- och kassaflödesbudgeten för 2024 revideras och fastställs utifrån överfört investeringsanslag.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "budget",
+        "överföring"
+      ],
+      "id": "2024-02-06_ko_31",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "Nya intraprenader-riktlinjer antagna utan Liberalernas ändringsförslag",
+      "summary": "Kommunstyrelsen antog nya riktlinjer för intraprenader som ersätter tidigare styrdokument. Liberalerna, KD och SD yrkade ändringar för att förmuntra fler intraprenader, men förslaget röstades igenom utan ändringar.",
+      "detail": "Kommunledningsförvaltningen sammanförde två tidigare styrdokument (Regelverk för resultatenheter och Intraprenad 2.0) till ett nytt ramverk för intraprenader. De nya riktlinjerna innehåller inte genomgripande förändringar utan fokuserar på att rensa bort det som gäller alla verksamheter och förtydliga det som är specifikt för intraprenader.\n\nKarolina Wallström (L) yrkade på åtta ändringsförslag för att göra riktlinjerna mer tillitsbaserade och uppmuntrande till nya intraprenader, bland annat högre procentsatser för resultattransfer och större flexibilitet. Susanne Lindholm Henningsson (KD) yrkade på en mer positiv formulering. Helena Ståhl (SD) och Markus Allard (ÖrP) stödde Wallströms ändringsförslag.\n\nOrdinarie Anders Åhrlin (M) utseende kommunledningsförvaltningens förslag till huvudförslag och röstade igenom det. Wallström (L), Ståhl (SD), Bo Ammer (SD) och Allard (ÖrP) reserverade sig.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 36",
+      "quote": "Det övergripande syftet med intraprenader är att enheten ska ges möjlighet att, använda ekonomiskt överskott och annat eget agerande i drift och organisation, genomföra åtgärder som utvecklar verksamheten.",
+      "quote_page": "s. 14-15",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "intraprenader",
+        "styrdokument",
+        "organisering"
+      ],
+      "id": "2024-02-06_ko_36",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "600 tkr extra till teckenspråkiga fritidsgården Fritte",
+      "summary": "Kultur- och fritidsnämnden får grönt ljus att öka bidraget till fritidsgården Fritte med 600 000 kronor för att säkerställa två heltidsanställda och minst tre personal per kväll samt sommarverksamhet.",
+      "detail": "Miljöpartiet de gröna lämnade in en motion genom Lea Strandberg (MP) med fyra yrkanden för att stärka fritidsgården Fritte, som är en teckenspråkig mötesplats för ungdomar.\n\nKommunledningen (S, M, C) instämde i att Fritte behöver förstärkt finansiering. Kultur- och fritidsnämnden avser att öka verksamhetsbidraget med 600 tkr för att säkerställa god kvalité, möta ökad efterfrågan och ge bättre arbetsmiljö.\n\nDe extra pengarna möjliggör två heltidsanställda och minst tre personal per kväll plus viss sommarverksamhet. Motionen bedömdes tillgodosedd. Vänsterpartiet (V), Örebroppartiet (OrP) och Sverigedemokraterna (SD) yrkade bifall till motionen, men röstades ner. Alla tre reserverade sig.\n\nÄrendet ska till Kommunfullmäktige för slutgiltigt beslut.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Fritidsgården Fritte, Örebro",
+      "paragraph_ref": "§ 42",
+      "quote": "För att säkerställa god kvalité på verksamheten, möta den ökade efterfrågan och samtidigt säkerställa en god arbetsmiljö avser Kultur- och fritidsnämnden att öka verksamhetsbidraget med 600 tkr.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "fritidsgård",
+        "ungdomar",
+        "teckenspråk",
+        "kultur"
+      ],
+      "id": "2024-02-06_ko_42",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "Informationshanteringspolicy remitterad till nämnder och bolag",
+      "summary": "En samlad policy för informationshantering remitteras för remissbehandling. Den sammanför tre befintliga policyer om informationssäkerhet, dataskydd och arkivhantering.",
+      "detail": "Kommunledningsförvaltningen sammanförde tre befintliga policyer (informationssäkerhetspolicy, dataskyddspolicy, arkiv- och dokumenthanteringspolicy) till en samlad informationshanteringspolicy.\n\nSyftet är att förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering, skapa enhetligt arbetssätt och möjliggöra uppföljning.\n\nPolicyn gäller Örebro kommun och majoritetsägda bolag och ska antas av Kommunfullmäktige. Innan dess skickas den på remiss till samtliga nämnder och majoritetsägda bolag. Svar ska inkomma senast 31 maj 2024.\n\nMarkus Allard (ÖrP) yrkade avslag men röstades ner och reserverade sig.",
+      "category": "regler",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 37",
+      "quote": "En samlad policy för informationshantering förväntas förtydliga och underlätta för informationsägare och medarbetare att uppfylla kraven på informationshantering samt skapa förutsättningar för ett enhetligt arbetssätt och uppföljning av informationshanteringen.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "informationssäkerhet",
+        "policy",
+        "dataskydd"
+      ],
+      "id": "2024-02-06_ko_37",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "Örebroporten får möjlighet att bilda dotterbolag för fastighetsförsäljning",
+      "summary": "Kommunstyrelsen gav sitt tillråde till att Örebroporten Fastigheter AB kan bilda ett eller flera dotterbolag för försäljning av fastigheter. Ärendet går till Kommunfullmäktige för beslut.",
+      "detail": "Örebroporten Fastigheter AB avser att överlåta fastigheter genom att paketeras i ett eller flera nybildade aktiebolag som överlåts till köpare. En bolagsordning för de fastighetsägande bolagen tagits fram.\n\nEnligt Örebroportens bolagspolicy ska fastighetförsäljningar med värde över 500 prisbasbelopp underställas Kommunfullmäktige i separat ärende.\n\nKommunledningen föreslår att Kommunfullmäktige godkänner bildandet av dotterbolag, godkänner bolagsordning, uppdrar till Örebroporten att besluta om firmanamn, samt utser styrelseledamöter (Jeanette Berggren som ledamot, Susanne Odelberg-Johnson som suppleant) och revisor (Lars Bjurström).\n\nMarkus Allard (ÖrP) och Martha Wicklund (V) yrkade avslag men röstades ner och reserverade sig.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 35",
+      "quote": "Örebroporten Fastigheter AB (Örebroporten) har för avsikt att överlåta en eller flera fastigheter genom att dessa paketeras i ett eller flera nybildade aktiebolag som överlåts till köparen.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Örebroporten",
+        "fastigheter",
+        "bolag"
+      ],
+      "id": "2024-02-06_ko_35",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "Tidsplan för budget 2026 antagen utan oktober-skjutning",
+      "summary": "Kommunstyrelsen antog tidsplan för Övergripande strategier och budget 2026. Sverigedemokraterna yrkade på att flytta beslutet till oktober 2024 men röstades ner.",
+      "detail": "Tidsplanen anger hållpunkter för leveranser i planeringsprocessen inför 2026 års budget. Slutgiltigt beslut om budget 2026 med plan 2027-2029 sker i juni 2025.\n\nForslaget bygger på samma grund som förra årets budget med ett beslut i juni 2025, men med en förändring för att öka kvalitén. En ny rutins föreslogs för att samla driftbehov från nämnder för att skapa helhetsbild av förändrade lokalbehov och investeringar.\n\nHelena Ståhl (SD) yrkade att flytta beslutet om budget 2025 till oktober 2024 och att tidsplanen anpassas därefter. Markus Allard (ÖrP) stödde detta. Men majoriteten genomförde kommunledningsförvaltningens förslag.\n\nHelena Ståhl, Bo Ammer (SD) och Markus Allard (ÖrP) reserverade sig.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 29",
+      "quote": "Tidplanen anger hållpunkter för leveranser i planeringsprocessen inför 2026 års budget. Beslut om Övergripande strategier med budget för 2026 med plan för 2027–2029 sker i juni 2025.",
+      "quote_page": "s. 4",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "SD",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "tidsplan",
+        "2026"
+      ],
+      "id": "2024-02-06_ko_29",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "Firmatecknare och delegation i finansverksamheten fastslagna",
+      "summary": "Kommunstyrelsen fastställde vilka tjänstemän som ska kunna underteckna finansiella avtal, låneprogram, derivatinstrument och banktjänster för kommunen.",
+      "detail": "Kommunstyrelsen beslutade om delegation av finansiella beslut till tjänstemän vid kommunledningsförvaltningen inom ramen för koncerngemensamma finanspolicy och kommunens placeringspolicy.\n\nFirmatecknare för olika typer av finansiella åtaganden fastställdes: finanschef Mats Rodenfelt, ekonomidirektör Johanna Larsson och budgetchef Karin Sundelius (med flera kollegor) i olika konstellationer för låneprogram, borgensåtaganden, banktjänster, skattedeklarationer och placeringar.\n\nDelegationen gäller från 1 mars 2024. Anmälan av delegationsbeslut ska ske varje månad till kommunstyrelsen.",
+      "category": "regler",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 32",
+      "quote": "Firmatecknare för Örebro kommun i avtal om låneprogram, lån, finansiella derivatinstrument, placeringar i värdepapper, kapitalförvaltning och likviditet samt andra därtill hörande handlingar är en av finanschef Mats Rodenfelt, ekonomidirektör Johanna Larsson och budgetchef Karin Sundelius i förening med en av redovisningschef Susan Clefjord, finansstrateg Johan Björnholm och finansekonom Gustav Eriksson.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD",
+          "V",
+          "SD",
+          "ÖrP",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "finanser",
+        "delegation",
+        "firmatecknare"
+      ],
+      "id": "2024-02-06_ko_32",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    },
+    {
+      "headline": "Preliminärt bokslut 2023 godkänt med reservationen från V",
+      "summary": "Kommunstyrelsen godkände bokslutskommunikén för 2023 som preliminär rapport av årets ekonomiska utfall. Vänsterpartiet lämnade särskilt yttrande.",
+      "detail": "Bokslutskommunikén är en preliminär rapport som visar årets ekonomiska utfall. Den fullständiga årsredovisningen presenteras senare i mars i Kommunstyrelsen och i april i Kommunfullmäktige.\n\nMartha Wicklund (V) fick lämna ett särskilt yttrande till protokollet.\n\nKarolina Wallström (L), Susanne Lindholm (KD) och Martha Wicklund (V) deltog inte i beslutet.",
+      "category": "budget",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 28",
+      "quote": "Bokslutskommunikén är en preliminär rapport av årets ekonomiska utfall. Årsredovisningen som är en uppföljning av kommunens övergripande strategier med budget för 2023 (ÖSB) är under produktion.",
+      "quote_page": "s. 3",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "SD",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [
+          "L",
+          "KD",
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "bokslut",
+        "ekonomi",
+        "2023"
+      ],
+      "id": "2024-02-06_ko_28",
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2024-02-06"
+    }
+  ],
+  "decisions_count": 9,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-06_Kommunstyrelsen.pdf",
+  "headline": "Budget, intraprenader och fritidsgård Fritte debatteras",
+  "motions_of_interest": [
+    {
+      "title": "Motion från Lea Strandberg (MP) om fritidsgård utifrån ungdomarnas behov - fokus på Fritte och teckenspråkiga ungdomar",
+      "party": "MP",
+      "status": "Tillgodosedd (600 tkr extra till Fritte godkänt)"
+    },
+    {
+      "title": "Motion från Susanne Lindholm Henningsson (KD) om hundrastgårdar",
+      "party": "KD",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-06_Kommunstyrelsen.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_30.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_31.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_36.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_42.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_37.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_35.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_29.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_32.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-06_ko_28.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2024-02-06_Kommunstyrelsen"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2025-03-18_ko_56",
+  "headline": "Motion om suicidprevention avslogs – inväntar nationell strategi",
+  "summary": "Kommunstyrelsen avslog motionen från Liberalerna om upprättande av handlingsplan för suicidprevention. Kommunen väljer att invänta en kommande nationell strategi innan egna riktlinjer utformas.",
+  "detail": "Johanna Reimfelt och Karolina Wallström (L) motionerade för att Örebro kommun skulle upprätta en handlingsplan för suicidprevention inklusive förebyggande arbete. Socialdemokraterna, Moderaterna och Centerpartiet (kommunledningen) ansåg att en handlingsplan potentiellt kunde göra arbetet för smalt och begränsat.\n\nKommunledningen argumenterade att suicidprevention redan är ett kommunövergripande arbete som är väl integrerat i samtliga verksamheter. Vidare pekades på att Folkhälsomyndigheten tillsammans med Socialstyrelsen arbetar med att ta fram ett underlag till en kommande nationell strategi för psykisk hälsa och suicidprevention. Kommunledningen valde därför att invänta denna nationella strategi i stället för att bygga upp riktlinjer på en grund som senare skulle förändras.\n\nI dag genomför kommunen tre utbildningsinsatser: \"Första hjälpen till psykisk hälsa\", \"Suicidnära samtal\" och elevhälsans utbildning av skolsköterskor. Karolina Wallström (L), Cristian Rehn Janowicz (V) och David Larsson (SD) reserverade sig för bifallsyrkande till motionen.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 56",
+  "tags": [
+    "suicidprevention",
+    "mental hälsa",
+    "psykisk ohälsa",
+    "motioner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "V",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Det finns en risk att arbetet blir för smalt med en handlingsplan eller riktlinjer för hur verksamheten ska utformas. Vidare har sedan sommaren 2020 Folkhälsomyndigheten tillsammans med Socialstyrelsen och 24 andra myndigheter arbetat med att ta fram ett underlag till en kommande nationell strategi.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_56.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_56/"
+  }
+}

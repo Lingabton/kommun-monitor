@@ -1,0 +1,37 @@
+{
+  "id": "2025-11-11_ko_235",
+  "headline": "Fem nya motioner remitteras till nämnder och styrelse",
+  "summary": "Kommunfullmäktige remitterade fem motioner. Två går till Kommunstyrelsen för beredning, två till nämnder och en till Teknik- och servicenämnden.",
+  "detail": "Följande motioner remitterades från Kommunfullmäktige den 22 oktober 2025:\n\n1. Motion från Lea Strandberg (MP) om missvisande räkning av koldioxidutsläpp - bereds av Kommunstyrelsen\n\n2. Motion från Christina Håkansson (KD) om att utöka antalet gästlägenheter för anhörigstöd - remitteras till Vård- och omsorgsnämnden\n\n3. Motion från Karolina Wallström (L) om ett framtida och levande city i Örebro - remitteras till Teknik- och servicenämnden\n\n4. Motion från Helena Ståhl (SD) och Carola Sunesson (SD) om att aldrig glömma Pela och Fadime - bereds av Kommunstyrelsen\n\n5. Motion från Martha Wicklund (V) m.fl. om ett grönare Örebro - remitteras till Markplanerings- och exploateringsnämnden",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 235",
+  "tags": [
+    "motioner",
+    "remittering",
+    "nämndberedning",
+    "miljö",
+    "anhörigstöd"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Motion från Lea Strandberg (MP) om missvisande räkning av koldioxidutsläpp bereds av Kommunstyrelsen.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_235.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_235/"
+  }
+}

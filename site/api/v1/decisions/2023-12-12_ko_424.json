@@ -1,0 +1,45 @@
+{
+  "id": "2023-12-12_ko_424",
+  "headline": "Motion om miljöbidrag för hållbar utveckling avslogs",
+  "summary": "Kommunfullmäktige avslog motion från MP om inrättning av årligt miljöbidrag för lokala initiativ för hållbar utveckling.",
+  "detail": "Sara Bronner och Niclas Persson (MP) föreslog inrättande av ett årligt miljöbidrag med en fond på cirka 200 000 kr som successivt skulle ökas. Syftet var att uppmuntra och stödja aktörer som genomför åtgärder för miljömässigt hållbar utveckling.\n\nKommunfullmäktige beslutade att avslå motionen. Bedömningen var att det genom nuvarande föreningsbidrag redan finns möjlighet för föreningar att ansöka om bidrag för åtgärder som bidrar till minskad klimatpåverkan.\n\nLea Strandberg (MP) och Jaber Fawaz (V) yrkade på bifall till motionen, men detta avslogs. MP och V-ledamöterna reserverade sig mot beslutet.",
+  "category": "miljo",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 424",
+  "tags": [
+    "miljöbidrag",
+    "hållbarhet",
+    "motion",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "MP",
+      "V"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen innehåller ett förslag om att inrätta ett årligt miljöbidrag för att uppmuntra och stödja aktörer som vill genomföra åtgärder för en miljömässigt hållbar utveckling.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2023-12-12_Kommunfullmäktige",
+    "date": "2023-12-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-12_ko_424.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-12_ko_424/"
+  }
+}

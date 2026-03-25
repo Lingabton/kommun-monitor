@@ -1,0 +1,47 @@
+{
+  "id": "2023-01-24_ko_13",
+  "headline": "Motion om positiv särbehandling avslogs",
+  "summary": "Kommunfullmäktige avslog Sverigedemokraternas motion om att förbjuda all positiv särbehandling i kommunens verksamheter.",
+  "detail": "Helena Ståhl (SD) motionerade för att Örebro kommun inte ska tillämpa positiv särbehandling i rekrytering och verksamheter. Kommunstyrelsen bedömde att positiv särbehandling är lagstadgat och kan i vissa fall vara nödvändigt för att stärka jämställdheten på en arbetsplats.\n\nKommunens rekrytering utgår redan från kompetensbaserade processer, varför positiv särbehandling sällan används. Motionen avslog enhälligt med reservation från Sverigedemokraterna och Örebropartiet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 13",
+  "tags": [
+    "diskriminering",
+    "jämställdhet",
+    "rekrytering",
+    "personalpolicy"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "MP",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Positiv särbehandling är dock lagstadgat, och kan i vissa fall vara nödvändigt för att stärka jämställdheten på en arbetsplats.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2023-01-24_Kommunfullmäktige",
+    "date": "2023-01-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-24_ko_13.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-24_ko_13/"
+  }
+}

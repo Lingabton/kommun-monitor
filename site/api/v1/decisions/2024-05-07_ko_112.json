@@ -1,0 +1,45 @@
+{
+  "id": "2024-05-07_ko_112",
+  "headline": "Återvandringsstödsmotionen avslogs - statlig uppgift",
+  "summary": "Motion om kommunalt informationsarbete för återvandringsstöd avslogs då ansvar ligger på Migrationsverket.",
+  "detail": "Carola Sunesson (SD) motionerade för att kommunen upprättar regelbundna informationsinsatser till målgrupper om stöd för frivillig återvandring.\n\nKommunledningsförvaltningen menade att eftersom detta inte ingår i befintlig lagstiftning och en statlig utredning pågår om ansvarsfördelning, bör man invänta utredningen innan kommunen tar på sig uppgift som ligger på Migrationsverkets ansvar.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) yrkade bifall. Martha Wicklund (V) stödde avslaget.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 112",
+  "tags": [
+    "återvandring",
+    "migration",
+    "information"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "V",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Eftersom det inte ingår i befintlig lagstiftning och då det pågår en statlig utredning gällande ansvarsfördelning bör man invänta den statliga utredningens slutsatser innan kommunen tar på sig ett uppdrag som ligger på Migrationsverkets ansvar.",
+  "quote_page": "s. 22",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_112.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_112/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2024-08-28_ko_211",
+  "headline": "Kameraövervakning - motion bordlades",
+  "summary": "Motion om plan för kameraövervakning vid alla kommunala verksamheter bordlades.",
+  "detail": "Helena Ståhl, Carola Sunesson och Christer Johansson (SD) motionerade för att kommunen lägger upp plan för kameraövervakning och ansöker om tillstånd för övervakning i alla kommunala verksamheter.\n\nKommunledningen föreslog att motionen skulle avslås med motiveringen att kommunen inte kan motivera övervakning av samtliga verksamheter.\n\nKommunfullmäktige bordlade ärendet utan att anta avslagesförslaget.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 211",
+  "tags": [
+    "övervakning",
+    "kamera",
+    "säkerhet"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Bedömningen är att kommunen inte kan motivera övervakning av samtliga kommunala verksamheter",
+  "quote_page": "s. 33",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_211.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_211/"
+  }
+}

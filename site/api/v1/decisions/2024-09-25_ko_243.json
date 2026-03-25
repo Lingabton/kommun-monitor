@@ -1,0 +1,47 @@
+{
+  "id": "2024-09-25_ko_243",
+  "headline": "Motion om kameraövervakning avslaget",
+  "summary": "Helena Ståhl (SD) m.fl.:s motion om kameraövervakning vid samtliga kommunala verksamheter avslås.",
+  "detail": "Helena Ståhl (SD), Carola Sunesson (SD) och Christer Johansson (SD) föreslår att kommunen lägger upp en plan för kameraövervakning och ansöker om tillstånd för övervakning i alla kommunala verksamheter.\n\nKommunstyrelsen bedömer att kommunen inte kan motivera övervakning av samtliga kommunala verksamheter och föreslår därför att motionen avslås.\n\nMotionen avslogs med majoritetens röster (S, M, V, C, KD, L, MP). SD och ÖrP reserverade sig för bifall.",
+  "category": "trygghet",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 243",
+  "tags": [
+    "säkerhet",
+    "integritet",
+    "övervakning",
+    "kommunala verksamheter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "V",
+      "C",
+      "KD",
+      "L",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att kommunen inte kan motivera övervakning av samtliga kommunala verksamheter och förslaget är därför att motionen avslås.",
+  "quote_page": "s. 23",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_243.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_243/"
+  }
+}

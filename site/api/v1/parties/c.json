@@ -4,106 +4,379 @@
   "color": "#009933",
   "position": "Majoritet",
   "ideology": "Centerism, grön liberalism",
-  "votes_for": 39,
-  "votes_against": 1,
-  "votes_abstained": 0,
-  "total_votes": 40,
+  "votes_for": 479,
+  "votes_against": 6,
+  "votes_abstained": 6,
+  "total_votes": 491,
   "contested_votes": [
     {
       "id": "2025-08-27_ko_221",
       "headline": "Motion om mindre barngrupper i förskolan avslogs",
       "date": "2025-08-27"
+    },
+    {
+      "id": "2025-08-27_ko_223",
+      "headline": "Motion om mer pengar till välfärdspersonal avslogs",
+      "date": "2025-08-27"
+    },
+    {
+      "id": "2025-08-27_ko_225",
+      "headline": "Motioner om läxfri skola och modersmålsundervisning avslogs",
+      "date": "2025-08-27"
+    },
+    {
+      "id": "2023-10-17_ko_215",
+      "headline": "Pratbänkar för att motverka ensamhet avslagnas",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_217",
+      "headline": "Motion om kommundelning: Östernärke egen kommun avslås",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-08-29_ko_180",
+      "headline": "Ledamotsinitiativ om anmälningsplikt avslaget",
+      "date": "2023-08-29"
     }
   ],
   "key_issues": {
-    "regler": 8,
-    "ovrigt": 5,
-    "kultur": 2,
-    "politik": 5,
-    "budget": 11,
-    "bygg": 1,
-    "infrastruktur": 3,
-    "skola": 3,
-    "miljo": 1,
-    "trygghet": 1
+    "trygghet": 23,
+    "näringsliv": 1,
+    "ovrigt": 65,
+    "budget": 123,
+    "kultur": 33,
+    "infrastruktur": 34,
+    "skola": 30,
+    "politik": 58,
+    "miljo": 21,
+    "regler": 66,
+    "bygg": 23,
+    "miljö": 4,
+    "ekonomi": 1,
+    "omsorg": 1,
+    "socialt": 1,
+    "social välfärd": 1
   },
   "motions_filed": [],
   "agreement_with": {
-    "V": 17,
-    "M": 40,
-    "L": 23,
-    "KD": 23,
-    "S": 40,
-    "SD": 7,
-    "MP": 11,
-    "ÖrP": 3
+    "MP": 198,
+    "L": 329,
+    "V": 231,
+    "M": 480,
+    "S": 484,
+    "KD": 362,
+    "SD": 135,
+    "ÖrP": 81
   },
   "disagreement_with": {
-    "ÖrP": 14,
-    "L": 3,
-    "KD": 4,
-    "SD": 6,
-    "MP": 2,
-    "V": 3
+    "ÖrP": 98,
+    "V": 49,
+    "SD": 95,
+    "KD": 20,
+    "L": 31,
+    "MP": 17
   },
+  "meetings_attended": 47,
+  "total_present_sum": 183,
+  "attendance_records": [
+    {
+      "date": "2025-03-26",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2025-03-18",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2025-02-25",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2025-02-11",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2025-01-29",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2025-01-21",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-12-11",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-12-03",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-11-20",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2024-11-12",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-10-23",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-10-15",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-09-25",
+      "organ": "Kommunfullmäktige",
+      "present": 8
+    },
+    {
+      "date": "2024-09-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-08-28",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-08-27",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-06-10",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2024-05-14",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2024-05-07",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-04-24",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2024-04-09",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-03-20",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2024-03-12",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-02-14",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2024-02-06",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-01-23",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-12-12",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-12-05",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-11-22",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2023-11-13",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-10-24",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-10-17",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-09-27",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-09-19",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-08-29",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-06-12",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-06-05",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-05-31",
+      "organ": "Kommunfullmäktige",
+      "present": 7
+    },
+    {
+      "date": "2023-05-23",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-04-18",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-04-11",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-03-22",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-03-14",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-02-15",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-02-07",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-01-24",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-01-17",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    }
+  ],
   "for_pct": 98,
-  "against_pct": 2,
-  "abstained_pct": 0,
+  "against_pct": 1,
+  "abstained_pct": 1,
   "activity_score": 100,
+  "attendance_pct": 100,
+  "avg_present": 3.9,
+  "total_meetings_with_attendance": 47,
   "top_categories": [
     [
       "budget",
-      11
+      123
     ],
     [
       "regler",
-      8
+      66
     ],
     [
       "ovrigt",
-      5
+      65
     ],
     [
       "politik",
-      5
+      58
     ],
     [
       "infrastruktur",
-      3
+      34
     ]
   ],
   "top_allies": [
     [
-      "M",
-      40
-    ],
-    [
       "S",
-      40
+      484
     ],
     [
-      "L",
-      23
+      "M",
+      480
+    ],
+    [
+      "KD",
+      362
     ]
   ],
   "top_opponents": [
     [
       "ÖrP",
-      14
+      98
     ],
     [
       "SD",
-      6
+      95
     ],
     [
-      "KD",
-      4
+      "V",
+      49
     ]
   ],
   "abbr": "C",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/c.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/c/",
-    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/parties/c.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/parti/c/",
+    "all_parties": "https://lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "2025-01-29_ko_24",
+  "headline": "Hundrastgårdar-motion avslås, andra frågor lösta",
+  "summary": "KD yrkar på utredning av fler hundrastgårdar i Örebro, men motion avslås. Flera partier reserverar sig.",
+  "detail": "Susanne Lindholm Henningsson (KD) motionerade om att undersöka möjligheten att skapa fler hundrastgårdar på lämpliga platser i Örebro kommun. Kommunledningen avslår motionen med motiveringen att detta inte är en prioriterad fråga.\n\nReservationer från KD, V, ÖrP och SD. SD reserverar sig för att motionen bör anses besvarad istället för avslågen.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 24",
+  "tags": [
+    "hundar",
+    "rekreation"
+  ],
+  "voting": {
+    "for": [
+      "S"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "V",
+      "ÖrP",
+      "SD"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att motionen bör avslås eftersom detta för närvarande inte är en prioriterad fråga.",
+  "quote_page": "s. 27",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_24.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_24/"
+  }
+}

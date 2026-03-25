@@ -1,0 +1,42 @@
+{
+  "id": "2024-01-23_ko_8",
+  "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+  "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+  "detail": "Vänsterpartiet lämnade motion 2021-11-17 med förslag om pendlarparkering på flera platser (Lanna, Odensbacken, Björkhaga, Garphyttan) samt möjligheter för elfordonsladding.\n\nKommunledningen bedömer att motionens krav är tillgodosedda genom pågående arbete. Pilotprojekt har redan påbörjats i Björkhaga. De tidigare prioriterade områdena Hovsta och Lillån har omprioriterats till Bettorp, som samlar trafikanter från större område. Brickebacken är utpekat för fördjupande utredning.\n\nKommunen möjliggör laddplatser vid nybyggnation och ombyggnation av mobilitetshubbarna. Privata aktörer kan etablera laddningsplatser på kommunal mark. Nya och upprustade mobilitetshubbarna kommer synliggöras på kommunens hemsida.\n\nMotionen från V ställdes mot Kommunstyrelsens förslag. Vänsterpartiet och Miljöpartiet reserverade sig för bifallsyrkande till själva motionen, men ordföranden fann att fullmäktige beslutat enligt Kommunstyrelsens förslag.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Björkhaga, Bettorp, Brickebacken, Lanna, Odensbacken, Garphyttan",
+  "paragraph_ref": "§ 8",
+  "tags": [
+    "pendlarparkering",
+    "mobilitet",
+    "elfordon",
+    "Björkhaga",
+    "Bettorp"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Pilotprojekt redan påbörjats i Björkhaga och en fördjupad utredning har gjorts för att peka ut prioriterade platser. De tidigare utpekade områdena i Hovsta och Lillån har omprioriterats till förmån för Bettorp.",
+  "quote_page": null,
+  "meeting": {
+    "id": "2024-01-23_Kommunfullmäktige",
+    "date": "2024-01-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-01-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-01-23_ko_8.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-01-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-01-23_ko_8/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2025-08-26_ko_168",
+  "headline": "Arkitektur-medborgarinflytande motion avslagna",
+  "summary": "Motion från Carola Sunesson och Habib Brini (SD) om medborgarundersökning och arkitekturinflytande avslagna. Befintliga styrdokument anses tillräckliga.",
+  "detail": "Carola Sunesson och Habib Brini (SD) föreslog tre åtgärder: medborgarundersökning om arkitekturinriktning, omformulering av arkitekturpolicy, och utredning av modell för medborgarinflytande på arkitektur.\n\nBygg- och miljönämnden bedömde att befintliga styrdokument och former för medborgarinflytande redan är tillräckliga.\n\nHelena Ståhl (SD) yrkade bifall till motionen. Markus Allard (ÖrP) yrkade bifall till den tredje delen. Kommunstyrelsen avslogs motionen helhet. Ärendet ska vidare till Kommunfullmäktige.",
+  "category": "regler",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 168",
+  "tags": [
+    "arkitektur",
+    "medborgarinflytande",
+    "stadsplanering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Bedömningen är att de existerande styrdokument som antagits och de former som finns för medborgarinflytande inför ny- och ombyggnation är tillräckliga.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_168.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_168/"
+  }
+}

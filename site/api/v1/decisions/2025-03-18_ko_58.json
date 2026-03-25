@@ -1,0 +1,43 @@
+{
+  "id": "2025-03-18_ko_58",
+  "headline": "Motion om halvering av konsultkostnader avslogs",
+  "summary": "Kommunstyrelsen avslog Västerpartiet motioner om att halvera kostnaderna för köp av konsulttjänster.",
+  "detail": "Martha Wicklund (V) och fyra övriga Västerpartiet-ledamöter motionerade för att ge kommundirektören i uppdrag att halvera kostnaderna för köp av konsulttjänster. Kommunledningen föreslog avslag.\n\nMotiveringen var att kommunen bemanning bör baseras på kompetens efter verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning för att minimera behovet av konsulttjänster. När kommunen avropar konsulttjänster bedöms detta vara nödvändigt utifrån verksamhetens behov av specifik kompetens.\n\nCristian Rehn Janowicz (V) och David Larsson (SD) yrkal bifall till motionen.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 58",
+  "tags": [
+    "konsulter",
+    "kostnader",
+    "budget",
+    "effektivitet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "V",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Kommunen ska bemanna med kompetens utifrån verksamhetens behov och arbetar systematiskt och strategiskt med kompetensförsörjning, vilket bedöms bidra till att minimera kommunens behov av att avropa konsulttjänster.",
+  "quote_page": "s. 13",
+  "meeting": {
+    "id": "2025-03-18_Kommunstyrelsen",
+    "date": "2025-03-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-03-18_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-03-18_ko_58.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-03-18_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-03-18_ko_58/"
+  }
+}

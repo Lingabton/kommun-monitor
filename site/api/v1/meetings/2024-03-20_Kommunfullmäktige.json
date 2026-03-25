@@ -1,0 +1,292 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2024-03-20",
+  "decisions": [
+    {
+      "headline": "BRT-folkomröstning avslås efter votering",
+      "summary": "Kommunfullmäktige avslog motion från Örebropartiet om folkomröstning kring BRT etapp 2 och 3. Kommunledningen fortsätter arbetet med BRT enligt budgetöverenskommelsen.",
+      "detail": "Örebropartiet (Markus Allard, Peter Springare) genomförde motion från 2021 om att låta örebroarna folkomrösta om Buss Rapid Transit-projektet och pausera det i väntan på omröstningsresultat. Kommunledningen (S, M, C) motsatte sig och hävdade att BRT är nödvändigt för att lösa trafiksituationen när staden växer. Voteringen genomfördes med klart stöd för avslag: 42 ja-röster för avslag mot 16 nej-röster för motion. SD, ÖrP och L röstade för motionen, medan S, M, C, V och MP röstade för avslag.\n\nReservationer lämnades av SD (7 ledamöter), ÖrP (5 ledamöter) och L (4 ledamöter) för motionen. Frågan hade bordlagts flera gånger sedan januari 2024.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 66",
+      "quote": "Kommunledningens inställning är att fortsätta arbetet med BRT etapp 2 och 3 tillsammans med Region Örebro län med örebroarnas bästa för ögonen.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP",
+          "L"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "BRT",
+        "folkomröstning",
+        "infrastruktur",
+        "Örebro"
+      ],
+      "id": "2024-03-20_ko_66",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-03-20"
+    },
+    {
+      "headline": "Fritidsgård Fritte får 600 000 kr extra för teckenspråkiga ungdomar",
+      "summary": "Kultur- och fritidsnämnden ökar verksamhetsbidraget till fritidsgården Fritte med 600 000 kronor för att säkra öppettider och bemanning.",
+      "detail": "Miljöpartiet (Lea Strandberg) lade fram motion med fyra yrkanden om förstärkning av fritidsgården Fritte. Kommunledningen (S, M, C) tillgodosåg motionen genom att öka verksamhetsbidraget med 600 000 kronor.\n\nDetta gör det möjligt för Fritte att anställa två heltidsanställda och ha minst tre personals närvaro per kväll. Verksamheten kan också genomföra sommaraktiviteter. Fritte är en teckenspråkig fritidsgård som drivs av föreningen Kulturhuset Scenit.\n\nMotionen bedömdes tillgodosedd. Reservationer lämnades av V, ÖrP och SD för motionen (fullt bifall).",
+      "category": "kultur",
+      "contested": false,
+      "location": "Örebro",
+      "paragraph_ref": "§ 73",
+      "quote": "Det betyder också att man kan genomföra viss sommarverksamhet. Detta sammantaget med övriga åtgärder ger förutsättningar för Fritte att även fortsättningsvis vara en populär och viktig mötesplats för teckenspråkiga ungdomar.",
+      "quote_page": "s. 17",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "MP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "fritidsgård",
+        "ungdomar",
+        "teckenspråk",
+        "kultur",
+        "investeringar"
+      ],
+      "id": "2024-03-20_ko_73",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-03-20"
+    },
+    {
+      "headline": "Äldreboenden får hjärtstartare - motion tillgodosedd",
+      "summary": "Motion om hjärtstartare på kommunens äldreboenden tillgodosedd. Vård- och omsorgsnämnden beslutade att utrusta samtliga vård- och omsorgsboenden med utrustning.",
+      "detail": "David Larsson (SD) lade fram motion 2021 om att införa hjärtstartare på Örebro kommuns vård- och omsorgsboenden. Motionen krävde upprättandet av en tids- och genomförandeplan samt utredning av finansieringsalternativ.\n\nMotionen bedömdes tillgodosedd då Vård- och omsorgsnämnden den 31 augusti 2023 redan beslutade att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare. Beslutet stärker tryggheten för äldre på dessa boendeformer.",
+      "category": "trygghet",
+      "contested": false,
+      "location": "Örebro kommun äldreboenden",
+      "paragraph_ref": "§ 75",
+      "quote": "Vård- och omsorgsnämnden den 31 augusti 2023 beslutade att utrusta samtliga vård- och omsorgsboenden i kommunal regi med hjärtstartare.",
+      "quote_page": "s. 19",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "äldreboenden",
+        "hjärtstartare",
+        "trygghet",
+        "hälsa"
+      ],
+      "id": "2024-03-20_ko_75",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-03-20"
+    },
+    {
+      "headline": "Motion om hemlöshet och civilsamhälle avslås",
+      "summary": "Kommunfullmäktige avslog motion från Johanna Reimfelt (L) om utökat stöd till civilsamhället för hemlöshetsproblematiken.",
+      "detail": "Johanna Reimfelt (L) föreslog att kommunen skulle utreda och utöka stödet till civilsamhället för att möjliggöra utökad dagtidsverksamhet för hemlösa. Kommunledningen hävdade att Örebro kommun redan arbetar aktivt med hemlöshetsfrågorna.\n\nKommunen har antagit en strategi mot hemlöshet 2022 och tillsatt en samordnare från början av 2023. Arbetet sker både inom kommunal regi och genom samverkan med civilsamhället. Motionen avslogs. Reservationer lämnades av L, SD, V, ÖrP och KD för motionen.",
+      "category": "politik",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 76",
+      "quote": "Örebro kommun redan arbetar med hemlöshetsproblematiken på olika sätt och har antagit en strategi mot hemlöshet med tillsatt samordnare.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "hemlöshet",
+        "civilsamhälle",
+        "socialpolitik",
+        "motion"
+      ],
+      "id": "2024-03-20_ko_76",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-03-20"
+    },
+    {
+      "headline": "Systematiska arbetsmiljöarbetet visar utmaningar - återkoppling avslås",
+      "summary": "Årlig uppföljning av arbetsmiljöarbetet 2023 visar lokalbrist, höga arbetsbelastning och hot/våld som utmaningar. Vänsterpartiet nekades återkoppling om åtgärder.",
+      "detail": "Rapporten över det systematiska arbetsmiljöarbetet (SAM) för 2023 identifierade särskilda utmaningar: lokaler, nya regelverk för dygn- och veckovila, hög arbetsbelastning, hot och våld, och social arbetsmiljö.\n\nKommunen prioriterar resursplanering för hållbar bemanning och stärkt organisatorisk och social arbetsmiljö (OSA). Fokus ligger på positiv hälsa och minskat våld.\n\nVänsterpartiet (Martha Wicklund) yrkade bifall till förslaget med tillägget att Kommunstyrelsen skulle få återkoppling senast i maj om arbetet med åtgärder. Detta tilläggsyrkande avslogs. Alla V-ledamöter reserverade sig.",
+      "category": "trygghet",
+      "contested": true,
+      "location": "Örebro kommun",
+      "paragraph_ref": "§ 63",
+      "quote": "Arbetsmiljöutmaningar som sticker ut är lokaler, nya regler för dygn- och veckovila, hög arbetsbelastning, hot och våld och den sociala arbetsmiljön.",
+      "quote_page": "s. 7",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "L",
+          "KD"
+        ],
+        "against": [
+          "V"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "arbetsmiljö",
+        "personalsäkerhet",
+        "hot och våld",
+        "rapport"
+      ],
+      "id": "2024-03-20_ko_63",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-03-20"
+    },
+    {
+      "headline": "Rådhusets julkalender-motion avslås trots KD-stöd",
+      "summary": "Sverigedemokraterna motion om att återuppliva Rådhusets julkalender avslogs. KD och SD reserverade sig för motionen.",
+      "detail": "Bo Ammer och Helena Ståhl (SD) lämnade in motion om att utreda möjligheter att återuppliva eller återstarta Rådhusets julkalender genom kommunal drift, antingen via varumärkeövertagande eller eget projekt.\n\nKommunledningen avslog motionen. Beslutet röstades enhälligt genom att majoriteten (S, M, C, V, MP, L) röstade för avslag. SD och KD reserverade sig för motionen.\n\nÄrendet bordlades flera gånger innan behandlingen avslutades.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro Rådhus",
+      "paragraph_ref": "§ 64",
+      "quote": "Motionen avslås.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "V",
+          "MP",
+          "L"
+        ],
+        "against": [
+          "SD",
+          "KD"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "julkalender",
+        "kultur",
+        "tradition",
+        "motion"
+      ],
+      "id": "2024-03-20_ko_64",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2024-03-20"
+    }
+  ],
+  "decisions_count": 6,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-20_Kommunfullmäktige.pdf",
+  "headline": "BRT-motion avslås, fritidsgård Fritte får förstärkning",
+  "motions_of_interest": [
+    {
+      "title": "Folkomröstning kring BRT etapp 2 och 3",
+      "party": "ÖrP",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Folkomröstning om Vätternvatten-projektet",
+      "party": "ÖrP",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Fritidsgård utifrån ungdomarnas behov",
+      "party": "MP",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Hjärtstartare på äldreboenden",
+      "party": "SD",
+      "status": "Tillgodosedd"
+    },
+    {
+      "title": "Återuppliva Rådhusets julkalender",
+      "party": "SD",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Open Art för barn",
+      "party": "ÖrP",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Flexibel boendeform för äldre, studenter och flyktingbarn",
+      "party": "V",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Bevara jordbruksmarken i Törsjö",
+      "party": "V",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Självförsvarsutbildning och personlig säkerhet",
+      "party": "SD",
+      "status": "Bordlagd"
+    },
+    {
+      "title": "Utökat stöd till civilsamhället för hemlöshet",
+      "party": "L",
+      "status": "Avslagen"
+    },
+    {
+      "title": "Redovisa hela lönekostnaden för anställda",
+      "party": "SD",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Handlingsplan för suicidprevention",
+      "party": "L",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Välfärd i kommunal regi",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Stänga förskolan Igelkotten",
+      "party": "ÖrP",
+      "status": "Remitterad"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-20_Kommunfullmäktige.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_66.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_73.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_75.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_76.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_63.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_64.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2024-03-20_Kommunfullmäktige"
+  }
+}

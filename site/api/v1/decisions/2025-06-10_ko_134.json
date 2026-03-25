@@ -1,0 +1,41 @@
+{
+  "id": "2025-06-10_ko_134",
+  "headline": "Seniorluncher vid skolor fortsätter till mars 2026, fler skolor kan delta",
+  "summary": "Pilotprojektet med seniorluncher vid skolrestauranger förlängs till 31 mars 2026 och möjlighet öppnas för fler grundskolor och gymnasieskolor att delta.",
+  "detail": "Kommunstyrelsen följde upp pilotprojektet \"Seniorluncher vid skolrestauranger\" som startade 2024 och pågick till slutet av vårterminen 2025 på fem skolor. Uppföljningen visade positiva resultat: såväl seniorer, elever och personal uppskattat initiativet. Seniorerna har deltagit i sociala sammanhang och flera blivit återkommande gäster.\n\nProjektet förlängs till 31 mars 2026 och öppnas för fler grundskolor och gymnasieskolor. Susanne Lindholm Henningsson (KD) yrka på att förvaltningen tillsammans med näringslivsavdelningen ordnar dialogmöten, att information sprids aktivt via pensionärsråd och pensionärsorganisationer, samt att skolor på landsbygden särskilt uppmuntras. Detta avslogs.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 134",
+  "tags": [
+    "seniorluncher",
+    "skolor",
+    "sociala aktiviteter",
+    "pilotprojekt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Uppföljningen visar bland annat att såväl seniorer, elever och personal har uppskattat seniorluncher vid skolrestauranger.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_134.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_134/"
+  }
+}

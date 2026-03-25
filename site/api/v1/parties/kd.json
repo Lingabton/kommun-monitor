@@ -4,136 +4,776 @@
   "color": "#231977",
   "position": "Opposition",
   "ideology": "Kristdemokrati",
-  "votes_for": 24,
-  "votes_against": 3,
-  "votes_abstained": 3,
-  "total_votes": 30,
+  "votes_for": 367,
+  "votes_against": 26,
+  "votes_abstained": 47,
+  "total_votes": 440,
   "contested_votes": [
     {
-      "id": "2025-12-10_ko_390_391",
-      "headline": "Motioner om farligt gods och motorgård avslagna",
+      "id": "2025-12-10_ko_390",
+      "headline": "Motion om farligt gods-transporter avslås",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-12-10_ko_394_395",
-      "headline": "Medborgarinflytande på arkitektur och bibliotekssamarbete avslaget",
+      "id": "2025-12-10_ko_395",
+      "headline": "Motion om cirkulationsbibliotek avslås efter votering",
       "date": "2025-12-10"
     },
     {
-      "id": "2025-12-10_ko_389",
-      "headline": "Ej verkställda biståndbeslut – tilläggsyrkande avslaget",
-      "date": "2025-12-10"
+      "id": "2025-10-22_ko_307",
+      "headline": "Tilläggsbudget 2026 och taxor beslutade",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-10-22_ko_308",
+      "headline": "Sammanträdestider Kommunfullmäktige 2026 fastställda",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "2025-09-24_ko_269",
+      "headline": "Motion om fossil reklam avslås",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "2025-09-24_ko_271",
+      "headline": "Närkeslätt-motion avslås efter omröstning",
+      "date": "2025-09-24"
+    },
+    {
+      "id": "2025-06-18 och 2025-06-19_ko_172",
+      "headline": "Övergripande strategier och budget 2026 fastställd",
+      "date": "2025-06-18"
+    },
+    {
+      "id": "2025-06-18 och 2025-06-19_ko_185",
+      "headline": "Motion om redovisning av hela lönekostnaden avslagna",
+      "date": "2025-06-18"
+    },
+    {
+      "id": "2025-06-18 och 2025-06-19_ko_184",
+      "headline": "Rapport ej verkställda LSS/SoL-beslut avslagna, ingen åtgärdsplan",
+      "date": "2025-06-18"
+    },
+    {
+      "id": "2025-05-21_ko_142",
+      "headline": "Motion om suicidprevention avslåsed – arbete redan pågår",
+      "date": "2025-05-21"
+    },
+    {
+      "id": "2025-04-23_ko_108",
+      "headline": "Motion om minskade klassdelningar i grundskolan avslogs",
+      "date": "2025-04-23"
+    },
+    {
+      "id": "2025-03-26_ko_78",
+      "headline": "Motion om ställplatser för husbilar avslogs",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "2025-03-26_ko_80",
+      "headline": "Motion om att skydda Garphytteklint delvis godkänd efter votering",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "2025-01-21_ko_1",
+      "headline": "Kommunstyrelsens verksamhetsplan med budget 2025 fastställd",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_9",
+      "headline": "Landsbygdsdelegationens verksamhetsplan 2025 antagen",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2025-01-21_ko_15",
+      "headline": "Motionen om ställplatser för husbilar avslogs",
+      "date": "2025-01-21"
+    },
+    {
+      "id": "2024-05-07_ko_102",
+      "headline": "Hemlöshetskartläggning presenterad, förebyggande arbete omstritt",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "2024-03-20_ko_64",
+      "headline": "Rådhusets julkalender-motion avslås trots KD-stöd",
+      "date": "2024-03-20"
+    },
+    {
+      "id": "2024-03-12_ko_60",
+      "headline": "Motion om hemlöshetsstöd till civilsamhället avslås",
+      "date": "2024-03-12"
+    },
+    {
+      "id": "2023-10-17_ko_203",
+      "headline": "Omstridd Hjälmarsamarbetet-förening efter kritik från flera partier",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_204",
+      "headline": "700 000 kronor till Stadsmissionen Porten under två år",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_208",
+      "headline": "Tilläggsanslag oktober 2023: 34,2 miljoner kronor",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-10-17_ko_209",
+      "headline": "Reviderad budget 2024 antagen: 21,35 procents kommunalskatt",
+      "date": "2023-10-17"
+    },
+    {
+      "id": "2023-09-19_ko_195",
+      "headline": "Motion om mobil fritidsgård anses besvarad",
+      "date": "2023-09-19"
+    },
+    {
+      "id": "2023-09-19_ko_196",
+      "headline": "Motion om Rådhusets julkalender avslogs",
+      "date": "2023-09-19"
+    },
+    {
+      "id": "2023-08-29_ko_180",
+      "headline": "Ledamotsinitiativ om anmälningsplikt avslaget",
+      "date": "2023-08-29"
     }
   ],
   "key_issues": {
-    "regler": 5,
-    "ovrigt": 4,
-    "kultur": 1,
-    "politik": 3,
-    "budget": 9,
-    "bygg": 1,
-    "infrastruktur": 3,
-    "skola": 1
+    "trygghet": 19,
+    "ovrigt": 54,
+    "budget": 89,
+    "kultur": 24,
+    "infrastruktur": 30,
+    "skola": 17,
+    "politik": 48,
+    "miljo": 21,
+    "regler": 61,
+    "bygg": 20,
+    "miljö": 6,
+    "ekonomi": 1,
+    "omsorg": 1,
+    "socialt": 1,
+    "social välfärd": 1
   },
   "motions_filed": [
     {
-      "title": "Utred kompensation till drabbade företag",
+      "title": "Susanne Lindholm Henningsson (KD) om effektivisera utskott och delegation",
       "status": "Remitterad",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "Susanne Lindholm Henningsson (KD) om seniorer som volontärer i skolan",
+      "status": "Bordlad",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "Susanne Lindholm Henningsson (KD) - Minska mittokrati och krångel",
+      "status": "Bereds",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "Motion från Susanne Lindholm Henningsson (KD) om minskad mittokrati",
+      "status": "Remitterad",
+      "date": "2026-01-27"
+    },
+    {
+      "title": "Öppna jämställdhetspriset för privatpersoner och civil samhälle",
+      "status": "Avslagen - initiativet ansees besvarat",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Lägga ned Landsbygdsdelegationen",
+      "status": "Avslagen - verksamhetsplan antagen",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Utreda ersättning till drabbade företag",
+      "status": "Bereds av Kommunstyrelsen",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Kompensation till drabbade företag",
+      "status": "Remitterad till Kommunstyrelsen",
       "date": "2025-12-10"
     },
     {
-      "title": "Förbättra och förenkla för idrotten (KD)",
-      "status": "Remitterad till Kultur- och fritidsnämnden",
+      "title": "Satsning på gymnastiken för jämställdhet och rättvisa i idrotten",
+      "status": "Remitterad",
+      "date": "2025-11-18"
+    },
+    {
+      "title": "Utöka gästlägenheter för anhörigstöd",
+      "status": "Remitterad till Vård- och omsorgsnämnden",
+      "date": "2025-11-11"
+    },
+    {
+      "title": "Motion från Christina Håkansson (KD) om att utöka antalet gästlägenheter för anhörigstöd",
+      "status": "Anmäld till kommande behandling",
+      "date": "2025-10-22"
+    },
+    {
+      "title": "Förbättra och förenkla för idrotten",
+      "status": "Remitterad",
       "date": "2025-10-14"
     },
     {
-      "title": "Krisen väntar inte på kommunen (KD)",
+      "title": "Krisen väntar inte på kommunen",
+      "status": "Remitterad",
+      "date": "2025-10-14"
+    },
+    {
+      "title": "Förbättra och förenkla för idrotten",
+      "status": "Remitterad",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Krisen väntar inte på kommunen",
+      "status": "Remitterad",
+      "date": "2025-09-24"
+    },
+    {
+      "title": "Återinförande av lägre parkeringsavgift (Susanne Lindholm Henningsson, KD)",
+      "status": "Remitterad",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Återinföra lägre parkeringsavgift",
+      "status": "Remitterad",
+      "date": "2025-06-18"
+    },
+    {
+      "title": "Susanne Lindholm Henningsson (KD) - Seniorer som volontärer i skolan",
+      "status": "Remitterad till Grundskolenämnden",
+      "date": "2025-06-10"
+    },
+    {
+      "title": "Motion om seniorer som volontärer i skolan (Susanne Lindholm Henningsson, KD)",
+      "status": "Anmäld",
+      "date": "2025-05-21"
+    },
+    {
+      "title": "Näringslivssäkra de kommunala besluten",
+      "status": "Remitterad för beredning i Kommunstyrelsen",
+      "date": "2025-05-13"
+    },
+    {
+      "title": "Motion från Susanne Lindholm Henningsson (KD) om använd socialt företagande som arbetsmarknadsinsats",
+      "status": "Remitterad till Gymnasie- och arbetsmarknadsnämnden",
+      "date": "2025-03-18"
+    },
+    {
+      "title": "Om använd socialt företagande som arbetsmarknadsinsats",
+      "status": "Anmäld",
+      "date": "2025-02-25"
+    },
+    {
+      "title": "Ställplatser för husbilar i Örebro city",
+      "status": "Avslagen",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "Kapell i Wadköping",
+      "status": "Avslaget",
+      "date": "2024-12-11"
+    },
+    {
+      "title": "Kapell i Wadköping (Susanne Lindholm Henningsson, KD)",
+      "status": "Bordlad - avslagen föreslås",
+      "date": "2024-10-23"
+    },
+    {
+      "title": "Verksamhet i Kilsmo för ungdomar och seniorer (KD 2023) – Avslagen",
+      "status": "Avslagen",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Mentor-mamor för familjer (KD 2023) – Avslagen",
+      "status": "Avslagen",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Fler hundrastgårdar (KD 2024) – Avslagen",
+      "status": "Avslagen",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Örebro kommun som del av Örebro läns museum (KD 2023) – Avslagen",
+      "status": "Avslagen",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Kapell i Wadköping",
+      "status": "Avslagen",
+      "date": "2024-09-17"
+    },
+    {
+      "title": "Seniorluncher i skolmatsalar",
+      "status": "Tillgodosedd",
+      "date": "2024-09-17"
+    },
+    {
+      "title": "Skolskjuts med barnen i fokus",
+      "status": "Anses tillgodosedd",
+      "date": "2024-08-27"
+    },
+    {
+      "title": "Daglig verksamhet på extern och företagsansluten plats för LSS-brukare",
+      "status": "Bordlagd",
+      "date": "2024-06-10"
+    },
+    {
+      "title": "Kapell i Wadköping",
       "status": "Bereds av Kommunstyrelsen",
-      "date": "2025-10-14"
+      "date": "2024-05-07"
     },
     {
-      "title": "Öppna för seniorer att äta lunch i skolmatsalar",
-      "status": "Remitterad - Bereds av Kommunstyrelsen",
+      "title": "Susanne Lindholm Henningsson (KD) - kapell i Wadköping",
+      "status": "Remitterad",
+      "date": "2024-04-24"
+    },
+    {
+      "title": "Susanne Lindholm Henningsson (KD) - Öppna för seniorer att äta lunch i skolmatsalar",
+      "status": "Remitterad till Kommunstyrelsen",
       "date": "2024-04-09"
+    },
+    {
+      "title": "Motion från Susanne Lindholm Henningsson (KD) om hundrastgårdar",
+      "status": "Remitterad till Markplanerings- och exploateringsnämnden",
+      "date": "2024-02-06"
+    },
+    {
+      "title": "Pratbänkar i Örebro",
+      "status": "Bordlat",
+      "date": "2024-01-23"
+    },
+    {
+      "title": "Upphöra som utförare av service",
+      "status": "Bordlat",
+      "date": "2024-01-23"
+    },
+    {
+      "title": "Hundrastgårdar",
+      "status": "Nyligen inlämnad - Remitterad till Kommunstyrelsen",
+      "date": "2024-01-23"
+    },
+    {
+      "title": "Pratbänkar i Örebro mot ensamhet",
+      "status": "Bordlad",
+      "date": "2023-12-12"
+    },
+    {
+      "title": "Kommunen upphör som utförare av service",
+      "status": "Bordlad",
+      "date": "2023-12-12"
+    },
+    {
+      "title": "Ställplatser för husbilar",
+      "status": "Remitterad",
+      "date": "2023-12-05"
+    },
+    {
+      "title": "Örebro kommun aktiv del i Örebro Läns Museum",
+      "status": "Bereds",
+      "date": "2023-12-05"
+    },
+    {
+      "title": "Motion från Anna Andersson (KD) om pratbänkar i Örebro (2023)",
+      "status": "Bordlad – avslag föreslaget men uppskjutet",
+      "date": "2023-11-22"
+    },
+    {
+      "title": "Motion från Sandra Fröjdenstam (KD) om att kommunen upphör som tjänsteproducent (2023)",
+      "status": "Bordlad – anses besvarad",
+      "date": "2023-11-22"
+    },
+    {
+      "title": "Införa pratbänkar i Örebro",
+      "status": "Bordlagd",
+      "date": "2023-10-24"
+    },
+    {
+      "title": "Örebro kommun bör upphöra som utförare av service",
+      "status": "Bordlagd",
+      "date": "2023-10-24"
+    },
+    {
+      "title": "Anna Andersson (KD) - Pratbänkar i Örebro för att motverka ensamhet",
+      "status": "Avslagen",
+      "date": "2023-10-17"
+    },
+    {
+      "title": "Sandra Fröjdenstam (KD) - Örebro kommun ska upphöra som utförare av service",
+      "status": "Besvarad (båda att-satser)",
+      "date": "2023-10-17"
+    },
+    {
+      "title": "Mamma till Mamma",
+      "status": "Bereds av Kommunstyrelsen",
+      "date": "2023-09-19"
+    },
+    {
+      "title": "Skolskjuts med barnen i fokus",
+      "status": "Bereds av Kommunstyrelsen",
+      "date": "2023-09-19"
+    },
+    {
+      "title": "Motion från Susanne Lindholm (KD) om daglig verksamhet på extern eller företagsansluten plats",
+      "status": "Remitterad",
+      "date": "2023-05-31"
+    },
+    {
+      "title": "Om våga tänk nytt om Kilsmo skola",
+      "status": "Remitterad till Grundskolenämnden",
+      "date": "2023-04-11"
+    },
+    {
+      "title": "Våga tänk nytt om Kilsmo skola",
+      "status": "Remitterad",
+      "date": "2023-03-22"
+    },
+    {
+      "title": "Anna Andersson (KD) om att införa pratbänkar",
+      "status": "Remitterad till Kommunstyrelsen för beredning",
+      "date": "2023-02-07"
+    },
+    {
+      "title": "Sandra Fröjdenstam (KD) om att Örebro kommun bör upphöra som utförare av service",
+      "status": "Remitterad till Vård- och omsorgsnämnden",
+      "date": "2023-02-07"
+    },
+    {
+      "title": "Om inför pratbänkar (Anna Andersson, KD)",
+      "status": "Remitterad",
+      "date": "2023-01-24"
+    },
+    {
+      "title": "Om att Örebro kommun bör upphöra som utförare av service (Sandra Fröjdenstam, KD)",
+      "status": "Remitterad",
+      "date": "2023-01-24"
     }
   ],
   "agreement_with": {
-    "V": 17,
-    "M": 23,
-    "C": 23,
-    "L": 21,
-    "S": 23,
-    "SD": 10,
-    "ÖrP": 6,
-    "MP": 11
+    "MP": 190,
+    "C": 362,
+    "L": 320,
+    "V": 224,
+    "M": 367,
+    "S": 367,
+    "SD": 148,
+    "ÖrP": 92
   },
   "disagreement_with": {
-    "C": 4,
-    "S": 4,
-    "M": 4,
-    "V": 1,
-    "ÖrP": 8,
-    "SD": 1,
-    "L": 1
+    "ÖrP": 75,
+    "V": 38,
+    "SD": 65,
+    "M": 23,
+    "S": 24,
+    "C": 20,
+    "L": 17,
+    "MP": 15
   },
-  "for_pct": 80,
-  "against_pct": 10,
-  "abstained_pct": 10,
+  "meetings_attended": 47,
+  "total_present_sum": 138,
+  "attendance_records": [
+    {
+      "date": "2025-03-26",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2025-03-18",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2025-02-25",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2025-02-11",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2025-01-29",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2025-01-21",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-12-11",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2024-12-03",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-11-20",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2024-11-12",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-10-23",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2024-10-15",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-09-25",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2024-09-17",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2024-08-28",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-08-27",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-06-10",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2024-05-14",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-05-07",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-04-24",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-04-09",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-03-20",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2024-03-12",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-02-14",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2024-02-06",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2024-01-23",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-12-12",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2023-12-05",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-11-22",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-11-13",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-10-24",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-10-17",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-09-27",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-09-19",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-08-29",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-06-12",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2023-06-05",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-05-31",
+      "organ": "Kommunfullmäktige",
+      "present": 4
+    },
+    {
+      "date": "2023-05-23",
+      "organ": "Kommunstyrelsen",
+      "present": 2
+    },
+    {
+      "date": "2023-04-18",
+      "organ": "Kommunfullmäktige",
+      "present": 6
+    },
+    {
+      "date": "2023-04-11",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-03-22",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2023-03-14",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-02-15",
+      "organ": "Kommunfullmäktige",
+      "present": 5
+    },
+    {
+      "date": "2023-02-07",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    },
+    {
+      "date": "2023-01-24",
+      "organ": "Kommunfullmäktige",
+      "present": 3
+    },
+    {
+      "date": "2023-01-17",
+      "organ": "Kommunstyrelsen",
+      "present": 1
+    }
+  ],
+  "for_pct": 83,
+  "against_pct": 6,
+  "abstained_pct": 11,
   "activity_score": 100,
+  "attendance_pct": 100,
+  "avg_present": 2.9,
+  "total_meetings_with_attendance": 47,
   "top_categories": [
     [
       "budget",
-      9
+      89
     ],
     [
       "regler",
-      5
+      61
     ],
     [
       "ovrigt",
-      4
+      54
     ],
     [
       "politik",
-      3
+      48
     ],
     [
       "infrastruktur",
-      3
+      30
     ]
   ],
   "top_allies": [
     [
       "M",
-      23
-    ],
-    [
-      "C",
-      23
+      367
     ],
     [
       "S",
-      23
+      367
+    ],
+    [
+      "C",
+      362
     ]
   ],
   "top_opponents": [
     [
       "ÖrP",
-      8
+      75
     ],
     [
-      "C",
-      4
+      "SD",
+      65
     ],
     [
-      "S",
-      4
+      "V",
+      38
     ]
   ],
   "abbr": "KD",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/parties/kd.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/parti/kd/",
-    "all_parties": "https://Lingabton.github.io/kommun-monitor/api/v1/parties.json"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/parties/kd.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/parti/kd/",
+    "all_parties": "https://lingabton.github.io/kommun-monitor/api/v1/parties.json"
   }
 }

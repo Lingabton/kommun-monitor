@@ -1,0 +1,45 @@
+{
+  "id": "2025-06-10_ko_127",
+  "headline": "Kommun prognostiserar 83 mnkr resultat - 330 mnkr underskott i nämnder",
+  "summary": "Delårsrapporten för hela kommunen visar resultat -153,5 mnkr efter fyra månader och helårsprognos 83 mnkr, men nämnder prognostiserar samlad negativ avvikelse på -330 mnkr. Två av fyra finansiella mål beräknas uppnås.",
+  "detail": "Kommunledningsförvaltningen presenterade delårsrapport för Örebro kommun där resultat efter första fyra månader visar utfall på -153,5 mnkr. Helårsprognos för 2025 visar resultat 83 mnkr mot budgeterat 467 mnkr, vilket utgör budgetavvikelse på -384 mnkr.\n\nPrognosen för kommunens nämnders löpande verksamhet prognostiserar samlad negativ budgetavvikelse på -330 mnkr. Investeringsbudgeten prognostiseras uppgå till 1 193 mnkr (336 mnkr under budget). Endast två av fyra finansiella mål beräknas uppnås.\n\nSusanne Lindholm Henningsson (KD) yrka på att nämnder som inte konkretiserat åtgärder ska återkomma till Kommunstyrelsen. Detta tilläggsyrkande bifölls och införlivades i beslutet. Markus Allard (ÖrP) yrkade avslag.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 127",
+  "tags": [
+    "budget",
+    "ekonomi",
+    "nämnder",
+    "underskott",
+    "sparåtgärder"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "L",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Prognosen för kommunens investeringar uppgår till 1 193 mnkr vilket är 336 mnkr lägre än budget.",
+  "quote_page": "s. 4",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_127.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_127/"
+  }
+}

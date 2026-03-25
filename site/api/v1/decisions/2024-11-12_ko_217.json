@@ -1,0 +1,35 @@
+{
+  "id": "2024-11-12_ko_217",
+  "headline": "Arkivhantering – nya riktlinjer på remiss till nämnder och bolag",
+  "summary": "Kommunstyrelsen skickar förslag till nya riktlinjer för styrning av arkivhantering på remiss. Remissvaren ska inkomma senast 31 mars 2025.",
+  "detail": "Nya riktlinjer för arkivhantering ska förtydliga lagstiftningen för en god arkivhantering hos kommunens myndigheter och bolag. Riktlinjerna gäller Kommunstyrelsen, övriga nämnder, Stadsrevisionen, aktiebolag, handelsbolag och samägda bolag där kommunen utövar bestämmande inflytande.\n\nRiktlinjerna sänds på remiss till samtliga nämnder och majoritetsägda bolag.",
+  "category": "regler",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 217",
+  "tags": [
+    "arkiv",
+    "riktlinjer",
+    "lagstiftning"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Riktlinjer kring styrning arkivhanteringen är i linje med fullmäktiges uppgift att fatta beslut om övergripande styrdokument, beslut som gäller något av större vikt eller av principiell betydelse för kommunen.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2024-11-12_Kommunstyrelsen",
+    "date": "2024-11-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-11-12_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-11-12_ko_217.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-11-12_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-11-12_ko_217/"
+  }
+}

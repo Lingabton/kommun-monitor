@@ -1,0 +1,44 @@
+{
+  "id": "2025-12-10_ko_392",
+  "headline": "Motion om kulturarvsvecka avslås",
+  "summary": "Kommunfullmäktige avslår motion från SD om att inrätta en årlig kulturarvsvecka.",
+  "detail": "Carola Sunesson och Bo Ammer från SD föreslog att Örebro kommun inrättar en årligt återkommande kulturarvsvecka kopplad till Kultur- och fritidsförvaltningen inom befintliga ramar.\n\nKultur- och fritidsnämnden behandlade ärendet 16 juni 2025. Kommunstyrelsen behandlade det 26 augusti 2025.\n\nMotionen bordlades före slutlig behandling. SD reserverade sig mot avslaget.",
+  "category": "kultur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 392",
+  "tags": [
+    "kulturarv",
+    "kulturarvsvecka",
+    "kultur",
+    "fritid"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "L",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Avslag"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2025-12-10_Kommunfullmäktige",
+    "date": "2025-12-10",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_392.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_392/"
+  }
+}

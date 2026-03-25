@@ -1,0 +1,48 @@
+{
+  "id": "2025-01-21_ko_12",
+  "headline": "Försäljning fastighet Palmbohult 2:33 för 13,5 mnkr godkänd",
+  "summary": "Reservationsavtal för försäljning av markfastigheten Palmbohult 2:33 till Castellum Mitt AB för ca 13,5 miljoner kronor godkänd.",
+  "detail": "Castellum Mitt AB avser att uppföra en lager-, logistik- och tillverkningsbyggnad för hyresgäster på fastigheten. Priset beräknas till ca 13,5 miljoner kronor. Då köpeskillingen överstiger 10 miljoner kronor krävs beslut av Kommunstyrelsen enligt gällande reglemente.\n\nMarkplanerings- och exploateringsnämnden hanterade ärendet den 10 december 2024. Markus Allard (ÖrP) yrka först på återremiss med motiveringen att fördjupat utvärderingsunderlag behövs, därefter på avslag. Ordföranden förklarade att ärendet avgörs omedelbar.\n\nNämndens ordförande får i uppdrag att underteckna reservationsavtal och senare överlåtelseavtal, samt godkänna justeringar i situationsplan och byggnadskonstruktion.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Palmbohult 2:33",
+  "paragraph_ref": "§ 12",
+  "tags": [
+    "fastighetsförsäljning",
+    "Castellum",
+    "logistik",
+    "Palmbohult"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Castellum Mitt AB avser att uppföra en lager-, logistik- och tillverkningsbyggnad för hyresgäster.",
+  "quote_page": "s. 15",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_12.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_12/"
+  }
+}

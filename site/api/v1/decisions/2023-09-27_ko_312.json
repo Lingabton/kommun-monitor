@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-27_ko_312",
+  "headline": "Valdistriktsindelning för EU-valet 2024 antagen",
+  "summary": "Fullmäktige antog ny valdistriktsindelning inför EU-valet 2024. Antalet valdistrikt utökas eftersom Örebro kommun växer.",
+  "detail": "Inför varje val ska Kommunfullmäktige enligt vallagen senast i oktober månad innan ett valår besluta om valdistrikt. En kommun är uppdelad i valkretsar och valdistrikt där distrikten är den minsta enheten närmast väljaren.\n\nI och med att Örebro kommun växer behöves antalet valdistrikt utökas inför valet till Europaparlamentet 2024. Valnämnden behandlade ärendet och föreslog den nya indelningen.\n\nKommunfullmäktige antog valdistriktsindelningen enhälligt. Beslutet möjliggör väl fungerande val när antalet väljare ökat.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 312",
+  "tags": [
+    "val",
+    "EU-val 2024",
+    "valdistriktsindelning",
+    "väljare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "I och med att Örebro kommun växer behöver även antalet valdistrikt utökas inför valet till Europaparlamentet 2024.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2023-09-27_Kommunfullmäktige",
+    "date": "2023-09-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-27_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-27_ko_312.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-27_ko_312/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2025-04-23_ko_100",
+  "headline": "Motion om suicidpreventionsplan bordlades utan slutgiltigt beslut",
+  "summary": "Kommunfullmäktige bordlade svaret på Liberalernas motion om att uppretta en handlingsplan för suicidprevention.",
+  "detail": "Johanna Reimfelt och Karolina Wallström från Liberalerna motionerade för att Örebro kommun skulle upprätta en handlingsplan för suicidprevention inkluderande förebyggande arbete.\n\nKommunledningen (S, M, C) svarade att det är viktigt med aktivt arbete mot psykisk ohälsa för att förhindra suicid. De bedömde dock att en handlingsplan eller specifika riktlinjer riskerar att bli för smala. Enligt kommunen arbetar man redan idag med bredt psykisk hälsoarbete och suicidprevention genom tre utbildningsinsatser: \"Första hjälpen till psykisk hälsa\", \"Suicidnära samtal\" och elevhälsans utbildningar för skolsköterskor.\n\nKommunledningen väntade på en kommande nationell strategi för psykisk hälsa och suicidprevention från Folkhälsomyndigheten, Socialstyrelsen och andra myndigheter innan man fastställde lokala riktlinjer.\n\nMobiliteten reserverade sig för bifallande av motionen, liksom SD och V-ledamöter. Ärendet bordlades utan slutgiltigt beslut.",
+  "category": "trygghet",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 100",
+  "tags": [
+    "psykisk hälsa",
+    "suicid",
+    "prevention",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "V",
+      "SD"
+    ],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Idag arbetar Örebro kommun utifrån att psykisk ohälsa och det suicidpreventiva arbetet hör ihop, då detta ger arbetet en bredd än om man separerar och arbetar med områdena var för sig.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_100.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_100/"
+  }
+}

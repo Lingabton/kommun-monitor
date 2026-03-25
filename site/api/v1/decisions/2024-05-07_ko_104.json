@@ -1,0 +1,44 @@
+{
+  "id": "2024-05-07_ko_104",
+  "headline": "Näringslivsprogram antaget från juni 2024",
+  "summary": "Kommunstyrelsen antog det reviderade näringslivsprogrammet som ska gälla från 1 juni 2024. Programmet är framtaget i bred parlamentarisk samverkan med samtliga partier representerade.",
+  "detail": "Näringslivsprogrammet reviderats för första gången sedan 2015 i samverkan mellan kommunen och näringslivet. Programmet leds av en arbetsgrupp med parlamentarisk representation. Syfte är att sätta riktningen för kommunens nämnder, förvaltningar och bolag gällande näringslivets förutsättningar för tillväxt och hållbar utveckling.\n\nOmfattar riktlinjer för hur företag ska kunna startas, drivas, utvecklas och etableras i Örebro kommun för att skapa arbetstillfällen och förbättrad service till medborgare.\n\nMarkus Allard (ÖrP) yrkade avslag på programmet. Susanne Lindholm Henningsson (KD) lyfte särskilt tacksamt fram det goda parlamentariska samarbete som skett under framtagandet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 104",
+  "tags": [
+    "näringslivsprogram",
+    "näringsliv",
+    "tillväxt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "C",
+      "L",
+      "KD",
+      "M",
+      "V"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med Näringslivsprogrammet är att sätta riktningen och den önskvärda utvecklingen för alla kommunens nämnder, förvaltningar och bolag inom koncernen vad gäller näringslivets förutsättningar för fortsatt tillväxt och hållbar utveckling.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2024-05-07_Kommunstyrelsen",
+    "date": "2024-05-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-07_ko_104.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-07_ko_104/"
+  }
+}

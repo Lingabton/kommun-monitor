@@ -1,0 +1,47 @@
+{
+  "id": "2024-05-14_ko_123",
+  "headline": "Näringslivsprogram för Örebro kommun antaget",
+  "summary": "Kommunfullmäktige antar det reviderade näringslivsprogrammet som ska gälla från 1 juni 2024. Programmet syftar till att sätta riktningen för kommunens nämnder, förvaltningar och bolag gällande näringslivets förutsättningar för tillväxt.",
+  "detail": "Näringslivsprogrammet togs fram 2015 och har reviderats genom en parlamentariskt representativ arbetsgrupp där alla riksdagspartier och ytterligare partier deltog aktivt. Syftet är att möjliggöra för företag att startas, drivas, utvecklas och etableras i kommunen, vilket främjar hållbar samhällsutveckling och skapande av arbetstillfällen.\n\nKommunledningen (S, M, C) drev processen med bred partibeteckning. Endast Örebropartiet, representerat genom Markus Allard, motsatte sig beslutet genom ett avslagsyrkande.\n\nVoteringen resulterade i 59 ja-röster mot 5 nej-röster. De fem nej-röstande var alla från Örebropartiet (Markus Allard, Peter Springare, Anna Lundberg, Tuomo Jänkälä och Glenn Roswall). Övriga partier stöttade programmet.\n\nProgrammet ska gälla från och med 1 juni 2024 och utgör vägledning för kommunkoncernens arbete med näringslivsutveckling.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 123",
+  "tags": [
+    "näringslivsprogram",
+    "tillväxt",
+    "företagare",
+    "strategi"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med Näringslivsprogrammet är att sätta riktningen och den önskvärda utvecklingen för alla kommunens nämnder, förvaltningar och bolag inom koncernen vad gäller näringslivets förutsättningar för fortsatt tillväxt och hållbar utveckling.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-05-14_Kommunfullmäktige",
+    "date": "2024-05-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-14_ko_123.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-14_ko_123/"
+  }
+}

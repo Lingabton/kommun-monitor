@@ -1,0 +1,45 @@
+{
+  "id": "2023-12-12_ko_423",
+  "headline": "VA-verksamhetsområden utökade för ny bebyggelse",
+  "summary": "Kommunfullmäktige beslutade att utöka verksamhetsområdena för dricks-, spill- och dagvatten för nya och planerade exploateringsområden.",
+  "detail": "Örebro kommun måste återkommande se över och vid behov förändra och utöka verksamhetsområdena för vatten och avlopp (VA) enligt gällande lagstiftning. Detta behövs för nya och planerade exploateringsområden och för befintliga bebyggelseområden där det finns behov av kommunal VA-försörjning.\n\nKommunfullmäktige beslutade att utöka verksamhetsområdena för dricksvatten, spillvatten och dagvatten i enlighet med förslag i bifogade kartor och fastighetsförteckning. Ett beslut om utökat verksamhetsområde är nödvändigt för att VA-utbyggnaden ska kunna genomföras.\n\nMarkus Allard (ÖrP) yrkade på återremiss men avslogs. ÖrP-ledamöterna reserverade sig mot beslutet.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 423",
+  "tags": [
+    "vatten",
+    "avlopp",
+    "infrastruktur",
+    "exploatering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Verksamhetsområdena för dricksvatten, spillvatten och dagvatten utökas i enlighet med förslag i bifogade kartor och fastighetsförteckning.",
+  "quote_page": "s. 11",
+  "meeting": {
+    "id": "2023-12-12_Kommunfullmäktige",
+    "date": "2023-12-12",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-12_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-12_ko_423.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-12_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-12_ko_423/"
+  }
+}

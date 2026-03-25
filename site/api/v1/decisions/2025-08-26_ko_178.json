@@ -1,0 +1,45 @@
+{
+  "id": "2025-08-26_ko_178",
+  "headline": "Minnesmärke över tragedin på Campus Risbergska initierat",
+  "summary": "Martha Wicklund (V) initiativ om minnesmärke över tragedi på Campus Risbergska remitteras till presidium för vidare beredning.",
+  "detail": "Martha Wicklund (V) har inlämnat ett ledamotsinitiativ om att uprätta ett minnesmärke över tragedin som inträffade på Campus Risbergska.\n\nKommunstyrelsen beslutade att remittera initiativet till Kommunstyrelsens presidium för vidare beredning.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Campus Risbergska",
+  "paragraph_ref": "§ 178",
+  "tags": [
+    "minnesmärke",
+    "tragedie",
+    "Campus Risbergska"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "OrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Ledamotsinitiativet remitteras till Kommunstyrelsens presidium.",
+  "quote_page": "s. 26",
+  "meeting": {
+    "id": "2025-08-26_Kommunstyrelsen",
+    "date": "2025-08-26",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-26_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-26_ko_178.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-26_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-26_ko_178/"
+  }
+}

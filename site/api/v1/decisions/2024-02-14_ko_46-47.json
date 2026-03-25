@@ -1,0 +1,36 @@
+{
+  "id": "2024-02-14_ko_46-47",
+  "headline": "Motion om BRT-folkomröstning och Vätternvatten bordläggs",
+  "summary": "Kommunfullmäktige bordlade två motioner från ÖrP om folkomröstningar angående BRT och Vätternvatten.",
+  "detail": "ÖrP lämnade två motioner daterade från 2021 respektive 2022 om att låta örebroarna folkomrösta om Buss Rapid Transit (BRT) och om Vätternvatten.\n\nKommunledningen (S, M, C) menade att de är överens om att trafiksituationen behöver lösningar och att Vätternvatten är en avgörande fråga för vattenförsörjningen för flera kommuner. Kommunledningen motsatte sig folkomröstningar och ville fortsätta arbetet med BRT etapp 2 och 3 med Region Örebro län.\n\nBåda ärendena bordlades för fortsatt behandling snarare än att förklaras färdigbehandlade.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 46-47",
+  "tags": [
+    "BRT",
+    "Vätternvatten",
+    "folkomröstning",
+    "infrastruktur"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Projekt av denna dignitet föregås av en grundlig undersökning där olika alternativ prövats.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2024-02-14_Kommunfullmäktige",
+    "date": "2024-02-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-02-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-02-14_ko_46-47.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-02-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-02-14_ko_46-47/"
+  }
+}

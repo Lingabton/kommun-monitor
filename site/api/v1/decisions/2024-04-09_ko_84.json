@@ -1,8 +1,8 @@
 {
   "id": "2024-04-09_ko_84",
-  "headline": "Delegation för Kronofogdens delgivning läggs till i delegationsordning",
-  "summary": "Kommunstyrelsen lade till en delegation för mottagande av delgivningar från Kronofogden i Kommunstyrelsens delegationsordning. Motsvarande delegation skulle även läggas till i nämndernas delegationsordningar.",
-  "detail": "Det uppmärksammades att en delegation för att ta emot delgivningar från Kronofogden saknades för nämnderna och styrelsen i Örebro kommun. Detta behövde läggas till för att säkerställa korrekt hantering av juridiska delgivningar.",
+  "headline": "Tillägg i delegationsordning för mottagande av Kronofogdendelgivning",
+  "summary": "Kommunstyrelsen antar tillägg i delegationsordningen för att möjliggöra mottagande av delgivningar från Kronofogden.",
+  "detail": "Det uppmärksammades att en delegation för mottagande av delgivningar från Kronofogden saknades för nämnderna och styrelsen i Örebro kommun. Motsvarande delegation ska även läggas till i nämndernas delegationsordningar.",
   "category": "regler",
   "contested": false,
   "location": null,
@@ -10,7 +10,7 @@
   "tags": [
     "delegationsordning",
     "kronofogden",
-    "juridik"
+    "regler"
   ],
   "voting": {
     "for": [
@@ -19,25 +19,26 @@
       "C",
       "L",
       "KD",
+      "V",
       "ÖrP",
-      "V"
+      "MP"
     ],
     "against": [],
     "abstained": [],
-    "result": "Enhalligt"
+    "result": "Enhälligt"
   },
-  "quote": "Det har uppmärksammats att en delegation för att ta emot delgivningar från Kronofogden saknas för nämnderna och styrelsen i Örebro kommun.",
-  "quote_page": "s. 19",
+  "quote": null,
+  "quote_page": null,
   "meeting": {
-    "id": "2024-04-09_ko",
+    "id": "2024-04-09_Kommunstyrelsen",
     "date": "2024-04-09",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_84.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_84/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_84.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_84/"
   }
 }

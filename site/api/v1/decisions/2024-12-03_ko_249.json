@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_249",
+  "headline": "Fastigheten Ånsta 20:274 såld för 14,3 miljoner kronor",
+  "summary": "Kommunstyrelsen godkände försäljning av mark till AMEXCI AB för cirka 14,3 miljoner kronor.",
+  "detail": "AMEXCI AB hade uppfört en byggnad för sin egen verksamhet innehållande kontor och verksamhetslokaler på fastigheten. Försäljningspriset uppgick till cirka 14,3 miljoner kronor, vilket överskrider 10 miljoner-gränsen och därför kräver beslut av Kommunstyrelsen.\n\nMarkus Allard (ÖrP) yrkade först för återremiss med motiveringen att tvisten rörande vattenmängder på fastigheten under byggnationstiden ännu inte lösts, och i andra hand för avslag. Båda yrkandena avslogs.\n\nMarkplanerings- och exploateringsnämnden ordförande fick i uppdrag att underteckna köpekontraktet.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Ånsta 20:274",
+  "paragraph_ref": "§ 249",
+  "tags": [
+    "fastigheter",
+    "försäljning",
+    "exploatering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "AMEXCI AB har uppfört en byggnad för sin egen verksamhet som inrymmer kontor och verksamhetslokaler. Pris för markförsäljningen uppgår till ca 14,3 miljoner kronor.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_249.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_249/"
+  }
+}

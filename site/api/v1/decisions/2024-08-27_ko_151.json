@@ -1,0 +1,42 @@
+{
+  "id": "2024-08-27_ko_151",
+  "headline": "Utvecklingspris ersätter Kvalitetspris med 100 tkr",
+  "summary": "Kommunstyrelsen inrättar ett nytt Utvecklingspris för att stimulera nytänkande och utveckling, vilket ersätter det tidigare Kvalitetspriset.",
+  "detail": "Kommunledningskontoret föreslår att det tidigare Kvalitetspriset (från 2012) upphävs och ersätts med ett Utvecklingspris som på ett tydligare sätt stimulerar nytänkande, gränsöverskridande samverkan och hållbar utveckling.\n\nPriset föreslås vara ett diplom, en film om det vinnande arbetet samt en penningsumma på totalt 100 tkr att använda till fortsatt utvecklingsarbete. Priset kan sökas av kommunalt finansierade verksamheter.\n\nMarkus Allard (ÖrP) yrkar bifall till upphävandet men avslag på inrättandet av det nya priset. Kommunstyrelsen beslutar enligt förvaltningens förslag.\n\nReservation: Markus Allard (ÖrP) reserverar sig mot beslutspunkterna 2-4.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 151",
+  "tags": [
+    "utvecklingspris",
+    "kvalitetspris",
+    "medarbetare"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Ett Utvecklingspris i linje med dagens styrning och behov inrättas. Prissumman uppgår till 100 tkr.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2024-08-27_Kommunstyrelsen",
+    "date": "2024-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-27_ko_151.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-27_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-27_ko_151/"
+  }
+}

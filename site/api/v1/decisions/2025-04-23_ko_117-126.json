@@ -1,0 +1,47 @@
+{
+  "id": "2025-04-23_ko_117-126",
+  "headline": "Flera motioner om välfärd, förskola och skola bordlagda",
+  "summary": "Många motioner avslogs eller bordlades angående välfärd, förskolegrupper, och skolresurser utan slutgiltiga beslut.",
+  "detail": "Kommunfullmäktige bordlade flera motioner utan att fatta slutgiltiga beslut under mötet. Bland dessa var Martha Wicklunds motion om mindre barngrupper i förskolan (med förslag om max 6-12 barn för 1-3 åringar och max 4 barn per pedagog), som kommunledningen rekommenderade avslag för.\n\nMotion från Örebropartiet om att stänga förskolan Igelkotten bordlades. Kommunledningen hade bedömt motionen som tillgodosedd, men ärendet skjöts upp.\n\nMartha Wicklunds motion om välfärd i kommunal regi (avslutande LoV och avslutande av vinstdrivna entreprenader) bordlades. Kommunledningen ville behålla LoV enligt överenskommelse mellan S, M och C.\n\nMotioner om att förstärka skolan (läxfri skola, avgiftsfri mat/utrustning, socialt förebyggande arbete) bordlades likaså.\n\nOrdföranden fann att resterande ärenden skulle bordläggas efter votering (49 ja-röster, 16 nej-röster). SD och flera oppositionspartier ville fortsätta med ärendena samma dag.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 117-126",
+  "tags": [
+    "välfärd",
+    "förskola",
+    "skola",
+    "barngrupper",
+    "resurser"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "SD",
+      "V",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Aterremiss"
+  },
+  "quote": "Ordförande Jan Zetterqvist finner att Kommunfullmäktige, med resultatet 49 ja-röster och 16 nej-röster, beslutar att resterande ärenden bordläggs.",
+  "quote_page": "s. 27",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_117-126.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_117-126/"
+  }
+}

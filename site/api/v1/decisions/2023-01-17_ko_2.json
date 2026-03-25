@@ -1,0 +1,45 @@
+{
+  "id": "2023-01-17_ko_2",
+  "headline": "Riktlinjer för uppsiktsplikt mellan kommunstyrelse och nämnder",
+  "summary": "Kommunstyrelsen antar riktlinjer för hur den ska utöva sin uppsiktsplikt över nämnder och bolag. ÖrP kritiserar att uppdraget begränsas till få individer.",
+  "detail": "Kommunstyrelsen antar riktlinjer för kommunstyrelsens uppsiktsplikt över övriga nämnders verksamhet, kommunala företag, stiftelser och kommunalförbund.\n\nRiktlinjerna syftar till att tydliggöra kommunstyrelsens ansvar och underlätta planering av uppsikt. En central del är att nämndpresidierna ska besöka kommunstyrelsen (eller utskott) en gång i mars och oktober för dialog kring uppdraget enligt reglementet.\n\nMarkus Allard (ÖrP) yrkar på återremiss, argumenterande att ansvaret sägs vara hela kommunstyrelsens medan man delegerar faktisk uppsikt till få individer. Han menar att antingen måste uppsiktsplikten begränsas lagligt eller så måste riktlinjerna förtydligas så samtliga ledamöter får fullständig insyn i verksamheter och bolag. Yrkandet avslås.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 2",
+  "tags": [
+    "uppsiktsplikt",
+    "styrning",
+    "nämnder",
+    "bolag",
+    "delegering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Riktlinjerna syftar till att tydliggöra hur kommunstyrelsen ska fullgöra sitt ansvar, underlätta vid planering av uppsikt samt klargöra förväntningarna på styrelsen, nämnder och bolag.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_2.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_2/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2025-05-21_ko_143",
+  "headline": "Motion om lönespecifikation bordlägges för senare behandling",
+  "summary": "Kommunfullmäktige bordlade Helena Ståhls (SD) motion om att redovisa hela lönekostnaden inklusive arbetsgivaravgift i lönespecifikationer.",
+  "detail": "Helena Ståhl (SD) motionerade om att hela lönekostnaden inklusive arbetsgivaravgift ska redovisas i lönebeskeden till anställda inom Örebro kommun.\n\nKommunledningen bedömde att motionen ska avslås eftersom kommunen inte bör föregripa en utredning som påbörjats av regeringen. Bedömningen är också att lönespecifikationerna enkelt och tydligt bör visa vilken lön som betalats ut.\n\nDavid Larsson (SD) och Markus Allard (ÖrP) reserverade sig för bifallsyrkande till motionen.\n\nÄrendet bordlades för senare behandling.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 143",
+  "tags": [
+    "lön",
+    "arbetsgivaravgift",
+    "lönespecifikation"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Borderläggning"
+  },
+  "quote": "Motionen innehåller ett förslag om att hela lönekostnaden inklusive arbetsgivaravgift redovisas i lönebeskeden till anställda inom Örebro kommun.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-05-21_Kommunfullmäktige",
+    "date": "2025-05-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-21_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-21_ko_143.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-21_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-21_ko_143/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2024-08-28_ko_208-209",
+  "headline": "Maxtak förskolan - två motioner avslagna",
+  "summary": "Motioner om maxtak för barngruppsstorlek i förskolan avslagna; kommunen vill behålla rektorernas handlingsfrihet.",
+  "detail": "Miljöpartiet (Lea Strandberg, Fredrik Persson) och Liberalerna (Mats-Olof Liljegren) motionerade båda för att införa maxtak för barngrupper i förskolan: 6-12 barn för ålder 1-3 år, 9-15 barn för ålder 4-5 år.\n\nFörskole- och grundskoleförvaltningen avslog båda motionerna med motiveringen att maxtak skulle medföra svårigheter med kompetensförsörjning, höjda personal- och lokalkostnader. Förvaltningen vill behålla rektorernas handlingsutrymme att anpassa organisation efter barnens behov.\n\nKommunfullmäktige beslutade att avslå båda motionerna. Flera partier reserverade sig: V, MP, KD, SD, L och OrP ville bifalla motionerna.",
+  "category": "skola",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 208-209",
+  "tags": [
+    "förskola",
+    "barn",
+    "maxtak",
+    "barngrupp"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "MP",
+      "KD",
+      "SD",
+      "L",
+      "ÖrP"
+    ],
+    "result": "Avslag"
+  },
+  "quote": "bedömningen är att ett införande av maxtak för barngrupper skulle medföra svårigheter kopplat till framför allt kompetensförsörjning och ökade personal- och lokalkostnader",
+  "quote_page": "s. 29-31",
+  "meeting": {
+    "id": "2024-08-28_Kommunfullmäktige",
+    "date": "2024-08-28",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-28_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-28_ko_208-209.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-28_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-28_ko_208-209/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2023-02-07_ko_24",
+  "headline": "Aktieöverlåtelse av Marieberg Utvecklings AB genomförd",
+  "summary": "Kommunstyrelsen godkände försäljningen av Örebroportens aktier i Marieberg Utvecklings AB. Försäljningen beräknas ge realisationsvinst på 8,8 mnkr.",
+  "detail": "Örebroporten Förvaltning AB, som ägs 100% av Örebroporten Fastigheter AB, ägde 50% av aktierna i Marieberg Utvecklings AB (MUAB). Övriga ägare var Lindin Förvaltning AB (25%) och Husherren Lokaler AB (25%).\n\nUrsaltet för delägandet var att möjliggöra Ikeas expansionsplaner i området. Ikea reviderade senare sina framtidsplaner. Eftersom det primära syftet - lagakraftvunnen detaljplan för handel - inte uppnåddes, föresågs avveckling av engagemanget.\n\nköpeskillingen preliminärt beräknades till 22,3 mnkr, vilket skulle ge realisationsvinst på 8,8 mnkr för Örebroporten Förvaltning AB som därefter distribueras till Örebroporten Fastigheter AB.\n\nMarkus Allard (ÖrP) yrkade avslag, Martha Wicklund (V) lämnade särskilt yttrande. Majoriteten beslutade enligt förvaltningens förslag. Ärendet gick vidare till Kommunfullmäktige.",
+  "category": "budget",
+  "contested": true,
+  "location": "Marieberg, Örebro",
+  "paragraph_ref": "§ 24",
+  "tags": [
+    "försäljning",
+    "Örebroporten",
+    "Marieberg",
+    "fastigheter"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med delägandet i MUAB var att möjliggöra Ikeas expansionsplaner. Ikea har därefter reviderat sina framtidsplaner",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_24.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_24/"
+  }
+}

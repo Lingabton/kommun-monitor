@@ -1,0 +1,49 @@
+{
+  "id": "2024-05-14_ko_128",
+  "headline": "Rapport ej verkställda SoL/LSS-beslut väcker debatt",
+  "summary": "Kommunfullmäktige behandlar rapport om 142 overkställda LSS-beslut vid Funktionsstödsnämnden. Vänstern, Liberalerna och Sverigedemokraterna kritiserar och lägger fram förslag på åtgärder.",
+  "detail": "Rapporter från Vård- och omsorgsnämnden, Socialnämnden och Funktionsstödsnämnden visar statistik över ej verkställda SoL- och LSS-beslut för kvartal 4 2023.\n\nFunktionsstödsnämnden hade 142 beslut som var ej verkställda inom tre månader vid kvartalets slut (jämfört med 152 i kvartal 3). Socialnämnden rapporterade 10 overkställda beslut och Vård- och omsorgsnämnden 9 beslut.\n\nVänsterpartiet, representerat genom Jaber Fawaz, yrkade på att Kommunledningsförvaltningen får i uppdrag att ta fram förslag på hur kommunen ska verkställa gynnande beslut inom rimlig tid. Liberalerna förespråkade åtgärdsplan för fler gruppbostadsplatser och dialog med privata aktörer. Sverigedemokraterna krävde tydligare rapportering av orsaker till förseningar och skarpare krav på nämnder.\n\nVoteringen resulterade i 39 ja-röster (avslag på Vänsterns förslag) mot 25 nej-röster. Reservationer lämnades av V, L, SD och ÖrP.",
+  "category": "omsorg",
+  "contested": true,
+  "location": "Örebro kommun",
+  "paragraph_ref": "§ 128",
+  "tags": [
+    "LSS",
+    "SoL",
+    "funktionsstöd",
+    "äldreomsorg",
+    "välfärd",
+    "verkställning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD"
+    ],
+    "against": [
+      "V",
+      "L",
+      "SD",
+      "ÖrP",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Vid kvartalets slut var 142 beslut fortsatt ej verkställda inom tre månader.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2024-05-14_Kommunfullmäktige",
+    "date": "2024-05-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-05-14_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-05-14_ko_128.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-05-14_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-05-14_ko_128/"
+  }
+}

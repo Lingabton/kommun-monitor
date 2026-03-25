@@ -1,0 +1,42 @@
+{
+  "id": "2023-12-05_ko_259",
+  "headline": "Daniel Skipper tillsatt som digital- och IT-direktör",
+  "summary": "Kommunstyrelsen tillsatte Daniel Skipper som ny informationsförsörjning- och digitaliseringsdirektör i Örebro kommun.",
+  "detail": "Den tidigare informationsförsörjnings- och digitaliseringsdirektören avslutade sin anställning i november 2023. En rekryteringsprocess inleddes i september och leddes av kommundirektör Peter Larsson.\n\nKommunstyrelsen beslutade att tillsätta Daniel Skipper som informationsförsörjning- och digitaliseringsdirektör. Tillsättningen sker under förutsättning att erforderlig säkerhetsprövning är genomförd och godkänd. Datum för tillträde ska avtalas i dialog med kommundirektören. Markus Allard (Örebropartiet) yrkade avslag. Helena Ståhl (SD) fick lämna ett särskilt yttrande till protokollet.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 259",
+  "tags": [
+    "personalärende",
+    "IT-direktör",
+    "digitaliseringsmål"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Daniel Skipper tillsätts som informationsförsörjning- och digitaliseringsdirektör.",
+  "quote_page": "s. 29-30",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_259.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_259/"
+  }
+}

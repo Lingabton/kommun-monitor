@@ -1,0 +1,45 @@
+{
+  "id": "2025-04-23_ko_107",
+  "headline": "Fem interpellationer anmälda för kommande sammanträde",
+  "summary": "Fem interpellationer anmäldes för behandling på kommande Kommunfullmäktige-sammanträde från SD och V.",
+  "detail": "Följande interpellationer anmäldes för behandling på kommande sammanträde:\n\n1. Helena Ståhl (SD) till Christopher Hedbom Rydaeus (M): hur säkerställs effektiv svenskinlärning (Ks 953/2025)\n2. David Larsson (SD) till John Johansson (S): att politiker ska veta vad de beslutar om (Ks 954/2025)\n3. Lena Lindén (SD) till Jessica Ekerbring (S): tomma hyror kostar mest (Ks 955/2025)\n4. Sunil Jayasooriya (V) till John Johansson (S): bättre sent än aldrig - personal och julgåva (Ks 956/2025)\n5. Sunil Jayasooriya (V) till Mattias Ottosson (S): hur hälsosamma är hälsoscheman (Ks 957/2025)",
+  "category": "politik",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 107",
+  "tags": [
+    "interpellationer",
+    "politik",
+    "debatt"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L",
+      "V",
+      "MP",
+      "SD",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Interpellationerna får ställas.",
+  "quote_page": "s. 12",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_107.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_107/"
+  }
+}

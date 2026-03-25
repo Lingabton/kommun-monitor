@@ -1,0 +1,46 @@
+{
+  "id": "2024-09-25_ko_240",
+  "headline": "Motion om näringslivsfrämjande anses besvarad",
+  "summary": "Sverigedemokraternas motion om att främja näringslivet genom tydligare uppdrag och minskad byråkrati anses besvarad genom reviderat näringslivsprogram.",
+  "detail": "SD föreslår flera åtgärder för att främja näringslivet: tydligt näringslivsfrämjande uppdrag med extern rådgivare, utökad strategi med följupmätning, förkortat handläggningstider för företagaräenden, och lika villkor för företag gentemot kommunala bolag.\n\nÖrebro kommun har nyligen tagit fram ett reviderat näringslivsprogram till 2030 i ett parlamentariskt representativt arbete där alla partier bjudits in. Programmet sätter riktningen för kommunens nämnder, förvaltningar och bolag gällande näringslivets förutsättningar för tillväxt.\n\nKommunstyrelsen föreslår att motionen anses besvarad då en del av förslagen finns med i näringslivsprogrammet. Beslut fattades enhälligt.",
+  "category": "ekonomi",
+  "contested": false,
+  "location": "Örebro",
+  "paragraph_ref": "§ 240",
+  "tags": [
+    "näringslivsprogram",
+    "företagande",
+    "ekonomi",
+    "utveckling"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V",
+      "MP",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Syftet med Näringslivsprogrammet är att sätta riktningen och den önskvärda utvecklingen för alla kommunens nämnder, förvaltningar och bolag inom koncernen vad gäller näringslivets förutsättningar för fortsatt tillväxt och hållbar utveckling.",
+  "quote_page": "s. 19",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_240.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_240/"
+  }
+}

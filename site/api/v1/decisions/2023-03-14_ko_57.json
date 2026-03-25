@@ -1,0 +1,39 @@
+{
+  "id": "2023-03-14_ko_57",
+  "headline": "Motion om bilfri zon på Stortorget avslagen",
+  "summary": "Motion från Miljöpartiet de gröna om att göra nedre delen av Stortorget till bilfri zon avsloges.",
+  "detail": "Maria Sääf (MP) m.fl. motionerade för att omvandla parkeringen på nedre delen av Stortorget till en bilfri zon för att minska trafik, utsläpp och buller. Bedömningen var att detaljplanen för Hållstugan redan skulle reducera parkeringen på Stortorgets nedre del, men de kvarvarande platserna ansågs värdefulla för lokal handel. Motionen avsloges.",
+  "category": "ovrigt",
+  "contested": false,
+  "location": "Stortorget, Örebro",
+  "paragraph_ref": "§ 57",
+  "tags": [
+    "Stortorget",
+    "bilfri zon",
+    "miljö",
+    "parkering"
+  ],
+  "voting": {
+    "for": [],
+    "against": [
+      "S",
+      "M"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen innehåller ett förslag om att göra om parkeringen på nedre delen av Stortorget till en bilfri zon för att på så sätt minska trafiken och därmed utsläpp och buller från bilar.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-03-14_Kommunstyrelsen",
+    "date": "2023-03-14",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-14_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-14_ko_57.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-14_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-03-14_ko_57/"
+  }
+}

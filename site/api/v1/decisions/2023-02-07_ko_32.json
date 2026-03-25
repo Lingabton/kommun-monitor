@@ -1,0 +1,43 @@
+{
+  "id": "2023-02-07_ko_32",
+  "headline": "Motion om registerutdrag vid alla anställningar avslogs",
+  "summary": "Kommunstyrelsen avslogs Örebropartiets och SD:s motion om registerutdrag för alla anställningar inom kommunkoncernen.",
+  "detail": "Markus Allard (ÖrP) och Peter Springare (ÖrP) lämnade motion 28 september 2022 (KF § 167) med förslag att utdrag ur brotts- och misstankeregistren ska göras i samband med alla anställningar inom hela kommunkoncernen.\n\nKommunledningsförvaltningen bedömde att striktare lagstiftning för registerutdrag väntas, varför motionen föresågs avslogs.\n\nMarkus Allard (ÖrP) och Bo Ammer (SD) yrkade bifall till motionen. Majoriteten beslutade enligt förvaltningens förslag att avslå. Ärendet gick vidare till Kommunfullmäktige.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 32",
+  "tags": [
+    "ansöllning",
+    "registerutdrag",
+    "säkerhet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Bedömningen är att en striktare lagstiftning för när det kommer vara tillåtet att begära utdrag ur belastningsregistret väntas.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_32.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_32/"
+  }
+}

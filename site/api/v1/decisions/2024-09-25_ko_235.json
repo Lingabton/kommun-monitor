@@ -1,0 +1,46 @@
+{
+  "id": "2024-09-25_ko_235",
+  "headline": "Nya riktlinjer för god ekonomisk hushållning antas",
+  "summary": "Kommunfullmäktige antar reviderade riktlinjer för ekonomisk hushållning och beslutar om resultatreserv från 2024.",
+  "detail": "Nya riktlinjer för god ekonomisk hushållning med principer för verksamhets- och ekonomistyrning antas. Riktlinjerna definierar lokal tillämpning av när resultatreserven kan användas och beskriver hur kommunens ekonomistyrning ska utövas för att nå övergripande målsättningar.\n\nKommunfullmäktige beslutar att:\n1. Inrätta en resultatreserv i Örebro kommun från och med räkenskapsår 2024\n2. Anta nya riktlinjer för god ekonomisk hushållning\n3. Upphäva tidigare riktlinjer från 2020 och 2021\n4. Besluten gäller från 1 november 2024\n\nVänsterpartiet reserverade sig mot beslutet, motsatt av Martha Wicklund (V) m.fl., till förmån för egna principer för ekonomisk hushållning. Beslut fattades enligt majoritetens förslag (S, M, C, L, KD, SD, MP).",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 235",
+  "tags": [
+    "ekonomi",
+    "riktlinjer",
+    "resultatreserv",
+    "styrning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Riktlinjen beskriver hanteringen av kommunens resultatreserv och resultatutjämningsreserv. Riktlinjen visar även hur verksamhets- och ekonomistyrningen ska utövas och bidra till att nå kommunens övergripande målsättningar för verksamhet och ekonomi.",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2024-09-25_Kommunfullmäktige",
+    "date": "2024-09-25",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-09-25_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-09-25_ko_235.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-09-25_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-09-25_ko_235/"
+  }
+}

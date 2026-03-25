@@ -1,0 +1,46 @@
+{
+  "id": "2023-09-19_ko_186",
+  "headline": "Region Örebro Innovation AB aktieägaravtal ändringar",
+  "summary": "Örebro Rådhus AB får uppdrag att ingå tilläggsavtal till aktieägaravtal för Region Örebro Innovation AB.",
+  "detail": "Region Örebro Innovation AB ägs av Region Örebro läns förvaltnings AB, Örebro Rådhus AB och Örebro Universitet Holding AB. Bolagets verksamhet finansieras genom årligt driftsbidrag från dessa ägare.\n\nÖrebro Universitet Holding AB har informerat att driftsbidrag ska betalas av Örebro Universitet i stället för av Örebro Universitet Holding AB. Den aktuella punkten i aktieägaravtalet behöver därför ändras. Vidare bör texten om finansiering i ägardirektivet för Inkubera förtydligas. Ändringarna får inga negativa konsekvenser för övriga ägare eller bolaget.\n\nMarkus Allard (ÖrP) yrkade på avyttring av bolaget men förslaget avslog detta. Ärendet ska vidare till Kommunfullmäktige.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 186",
+  "tags": [
+    "Region Örebro Innovation AB",
+    "aktieägaravtal",
+    "bolagsstyrning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Ändringarna får inga negativa konsekvenser för de andra ägarna eller Bolaget.",
+  "quote_page": "s. 5",
+  "meeting": {
+    "id": "2023-09-19_Kommunstyrelsen",
+    "date": "2023-09-19",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-09-19_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-09-19_ko_186.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-09-19_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-09-19_ko_186/"
+  }
+}

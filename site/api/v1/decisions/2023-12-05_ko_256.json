@@ -1,0 +1,43 @@
+{
+  "id": "2023-12-05_ko_256",
+  "headline": "Planeringsstrategi för översiktsplan 2023–2026 antagen",
+  "summary": "Kommunstyrelsen antog en planeringsstrategi för uppdatering av Örebro kommuns översiktsplan för åren 2023–2026. Beslut sendes till Kommunfullmäktige.",
+  "detail": "Enligt plan- och bygglagen måste kommunen kontinuerligt utvärdera sin översiktsplan. Miljö- och stadsbyggnadsförvaltningen genomförde en sådan bedömning och identifierade flera områden som behöver revideras eller tillkomma för att översiktsplanen ska uppfylla sitt syfte.\n\nKommunstyrelsen antog planeringstrategin för 2023–2026, som visar vägen för hur kommunen ska arbeta med dessa revisioner. Strategin skickas vidare till Kommunfullmäktige för beslut. Markus Allard (Örebropartiet) yrkade på återremiss eller avslag men fann inte gehör.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 256",
+  "tags": [
+    "översiktsplan",
+    "planeringsstrategi",
+    "2023-2026",
+    "stadsplanering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Planeringsstrategi för Örebro kommuns översiktsplan för åren 2023–2026 antas.",
+  "quote_page": "s. 27",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_256.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_256/"
+  }
+}

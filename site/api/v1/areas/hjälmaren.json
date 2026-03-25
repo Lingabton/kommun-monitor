@@ -3,17 +3,53 @@
   "name": "Hjälmaren",
   "decisions": [
     {
+      "id": "2026-02-10_ko_35",
+      "headline": "Fem nya motioner remitteras till nämnder och beredning",
+      "summary": "Kommunfullmäktige har remitterat fem motioner. En om mittokrati beredas internt, fyra skickas till nämnder.",
+      "date": "2026-02-10",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "politik",
+      "contested": false
+    },
+    {
       "id": "2024-04-09_ko_83",
-      "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
-      "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
+      "headline": "Övertagande av ägarskap för sju styrdokument",
+      "summary": "Kommunstyrelsen tar över ägarskapet för sju styrdokument från den nedlagda Programnämnden samhällsbyggnad, bland annat parkeringsriktlinjer, cykelparkering och arkitekturstrategi.",
       "date": "2024-04-09",
       "meeting_type": "Kommunstyrelsen",
       "category": "regler",
       "contested": false
+    },
+    {
+      "id": "2023-10-24_ko_357",
+      "headline": "Förening för Hjälmarens utveckling bildas tillsammans med andra kommuner",
+      "summary": "Kommunfullmäktige beslutar att bilda föreningen Hjälmarsamarbetet tillsammans med närliggande kommuner, regioner och länsstyrelser för samordnad utveckling av Hjälmaren.",
+      "date": "2023-10-24",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "ovrigt",
+      "contested": true
+    },
+    {
+      "id": "2023-10-17_ko_203",
+      "headline": "Omstridd Hjälmarsamarbetet-förening efter kritik från flera partier",
+      "summary": "Kommunstyrelsen beslutar att bilda föreningen Hjälmarsamarbetet tillsammans med andra kommuner och regioner, trots att fyra partier ville ha ärende återremitterat för att få svar på frågor om ansvarsfördelning.",
+      "date": "2023-10-17",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "miljo",
+      "contested": true
+    },
+    {
+      "id": "2023-02-07_ko_28",
+      "headline": "Gemensam Hjälmaren-strategi antagen",
+      "summary": "Kommunstyrelsen antog en gemensam strategi för utveckling av Hjälmaren tillsammans med andra kommuner och aktörer.",
+      "date": "2023-02-07",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "miljo",
+      "contested": false
     }
   ],
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/hjälmaren.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/hjälmaren/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/hjälmaren.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/hjälmaren/"
   }
 }

@@ -1,0 +1,45 @@
+{
+  "id": "2023-01-17_ko_4",
+  "headline": "Rotelansvariga utses för fyra huvudsakliga områden",
+  "summary": "Kommunstyrelsen inrättar fyra rotelansvariga för Samhälle och arbetsmarknad, Samhällsbyggnad, Skola och Social välfärd.",
+  "detail": "Kommunstyrelsen inrättar rotlar som en del av att stärka möjligheten att fullgöra sitt uppdrag. Rotlarna delas in i fyra områden: Samhälle och arbetsmarknad, Samhällsbyggnad, Skola och Social välfärd.\n\nRotelansvariga utses för mandatperioden 2023-2026: Maria Haglund (M) för Samhälle och arbetsmarknad, Kemal Hoso (S) för Samhällsbyggnad, Jimmy Nordengren (C) för Skola, och Jessica Ekerbring (S) för Social välfärd.\n\nRotelansvariga ska beredda ärenden kring ledning och styrning, dialoger med nämndpresidier, samordna insatser och föredra ärenden.\n\nMarkus Allard (ÖrP) yrkade avslag, kritiserande otydligheten i rotlars funktion. V, KD och SD lämnade särskilda yttranden. KD varnade för risk för \"tandlös\" styrning genom att rotelansvar inte innebär beslutsmandat.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 4",
+  "tags": [
+    "rotelansvariga",
+    "styrning",
+    "mandatperiod",
+    "samordning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Ett rotelansvar innebär inte ett beslutsmandat, utan är en samlande och samordnande funktion.",
+  "quote_page": "s. 9",
+  "meeting": {
+    "id": "2023-01-17_Kommunstyrelsen",
+    "date": "2023-01-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-01-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-01-17_ko_4.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-01-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-01-17_ko_4/"
+  }
+}

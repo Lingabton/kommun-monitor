@@ -1,0 +1,46 @@
+{
+  "id": "2024-03-20_ko_66",
+  "headline": "BRT-folkomröstning avslås efter votering",
+  "summary": "Kommunfullmäktige avslog motion från Örebropartiet om folkomröstning kring BRT etapp 2 och 3. Kommunledningen fortsätter arbetet med BRT enligt budgetöverenskommelsen.",
+  "detail": "Örebropartiet (Markus Allard, Peter Springare) genomförde motion från 2021 om att låta örebroarna folkomrösta om Buss Rapid Transit-projektet och pausera det i väntan på omröstningsresultat. Kommunledningen (S, M, C) motsatte sig och hävdade att BRT är nödvändigt för att lösa trafiksituationen när staden växer. Voteringen genomfördes med klart stöd för avslag: 42 ja-röster för avslag mot 16 nej-röster för motion. SD, ÖrP och L röstade för motionen, medan S, M, C, V och MP röstade för avslag.\n\nReservationer lämnades av SD (7 ledamöter), ÖrP (5 ledamöter) och L (4 ledamöter) för motionen. Frågan hade bordlagts flera gånger sedan januari 2024.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro",
+  "paragraph_ref": "§ 66",
+  "tags": [
+    "BRT",
+    "folkomröstning",
+    "infrastruktur",
+    "Örebro"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "ÖrP",
+      "L"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Kommunledningens inställning är att fortsätta arbetet med BRT etapp 2 och 3 tillsammans med Region Örebro län med örebroarnas bästa för ögonen.",
+  "quote_page": "s. 10",
+  "meeting": {
+    "id": "2024-03-20_Kommunfullmäktige",
+    "date": "2024-03-20",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-03-20_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-03-20_ko_66.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-03-20_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-03-20_ko_66/"
+  }
+}

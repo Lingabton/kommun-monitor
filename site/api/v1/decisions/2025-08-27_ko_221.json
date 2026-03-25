@@ -1,8 +1,8 @@
 {
   "id": "2025-08-27_ko_221",
   "headline": "Motion om mindre barngrupper i förskolan avslogs",
-  "summary": "Vänsterpartiet krävde maxtak på barngrupper enligt Skolverkets riktlinjer (6–12 barn för 1–3 år, 9–15 för 4–5 år) och max 4 barn per pedagog. Majoriteten avslogs motionen trots kraftig opposition från V, SD, MP och KD.",
-  "detail": "Vänsterpartiet argumenterade att förskolans arbetsmiljö är ohållbar med för stora barngrupper, höga ljudnivåer och överbelastad personal. Motionen krävde både ett maxtak per avdelning enligt Skolverkets allmänna råd och maximalt 4 barn per pedagog.\n\nKommunstyrelsen föreslog avslag. Vid votering fick motionen endast 14 ja-röster (SD, V, MP, KD-del) mot 8 nej-röster, medan 42 ledamöter avstod från röstning. Detta var en ovanligt svag röstning för en stor motion.\n\nV, SD, MP och flera KD-ledamöter reserverade sig mot beslutet. L ville stödja endast första förslaget. ÖrP ville stödja med omformulering av begreppet \"avdelning\" till \"barngrupp\".\n\nBeslutet återspeglar att majoriteten inte anser sig kunna finansiera eller implementera minskade barngrupper, trots att detta är en återkommande fråga från välfärdssektorn.",
+  "summary": "Vänsterpartiet ville införa maxtak för barngruppstorlek enligt Skolverkets rekommendationer. Fullmäktige avslogs motionen trots röster från SD, V, MP och KD.",
+  "detail": "Martha Wicklund (V) och flera kolleger motionerade för att införa maxtak per avdelning i förskolan: 6-12 barn för ålder 1-3 år respektive 9-15 barn för ålder 4-5 år, samt maxtak på 4 barn per pedagog.\n\nMotionen behandlades av Förskolenämnden 10 februari 2025 och Kommunstyrelsen 8 april 2025. Kommunfullmäktige bordlade ärendet tre gånger innan det avgjordes 27 augusti.\n\nI omröstningen röstade 14 ja, 8 nej och 42 avstod. Fullmäktige beslutade att avslå motionen. SD, V, MP, KD och vissa liberaler reserverade sig mot beslutet.\n\nKommunstyrelsen bedömde att motionen redan avslogs baserat på andra prioriteringar och påpekade att förskolans arbetsmiljö är en komplex fråga som hanteras löpande.",
   "category": "skola",
   "contested": true,
   "location": null,
@@ -10,37 +10,37 @@
   "tags": [
     "förskola",
     "barngrupper",
-    "arbetsmiljö",
-    "välfärd"
+    "arbetsmiljö"
   ],
   "voting": {
-    "for": [
-      "V",
-      "SD",
-      "MP",
-      "KD"
-    ],
+    "for": [],
     "against": [
       "S",
       "M",
       "C",
       "L"
     ],
-    "abstained": [],
-    "result": "Avslaget 14-8 (votering)"
+    "abstained": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "result": "Avslaget"
   },
-  "quote": "Förskolans arbetsmiljö kan sammanfattas med för stora barngrupper, höga ljudnivåer, att knappt hinna med att gå på toaletten eller egen planeringstid för pedagogiskt arbete.",
+  "quote": "Den konstanta otillräckligheten som personalen inom förskolan upplever är varken hållbar eller något som kommunen borde acceptera.",
   "quote_page": "s. 8",
   "meeting": {
-    "id": "2025-08-27_ko",
+    "id": "2025-08-27_Kommunfullmäktige",
     "date": "2025-08-27",
-    "type": "Kommunfullmäktige",
-    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-27_Kommunfullmäktige.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_221.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_221/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_221.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_221/"
   }
 }

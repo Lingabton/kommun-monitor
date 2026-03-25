@@ -1,0 +1,47 @@
+{
+  "id": "2025-04-23_ko_110",
+  "headline": "Årsredovisning Örebro Rådhus AB godkänd, 32,6 mnkr resultat",
+  "summary": "Kommunfullmäktige godkände årsredovisningen för Örebro Rådhus AB och dess dotterbolag med ett resultat på 32,6 miljoner kronor efter skatt.",
+  "detail": "Örebro Rådhus AB ägs till 100 procent av Örebro kommun och äger samtliga aktier i ÖrebroBostäder AB, Örebroporten Fastigheter AB, Futurum Fastigheter i Örebro AB, Örebrokompaniet AB och Örebro Parkering AB. Bolaget äger också ägarandelar i flera andra bolag som Länsmusiken, Vätternvatten och Örebro Läns Flygplats.\n\nResultatet för Örebro Rådhus AB var 32,6 miljoner kronor efter skatt, medan hela Örebro Rådhuskoncernen redovisade 157 miljoner kronor efter skatt (137 miljoner 2023). Ingen utdelning från Örebro Rådhus föreslogs till kommunen.\n\nKommunstyrelsens presidium instruerade kommunens stämmoombud att vid årsstämmorna rösta för resultaträkningars godkännande, disponering av vinster/förluster, beviljande av ansvarsfrihet för styrelseledamöter och direktörer, samt arvoden enligt kommunens bestämmelser.",
+  "category": "budget",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 110",
+  "tags": [
+    "Örebro Rådhus",
+    "bolag",
+    "ekonomi",
+    "resultat"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "L"
+    ],
+    "against": [
+      "ÖrP"
+    ],
+    "abstained": [
+      "V",
+      "MP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Resultatet för Örebro Rådhus AB är 32,6 mnkr efter skatt. Ingen utdelning från Örebro Rådhus föreslås till Örebro kommun.",
+  "quote_page": "s. 18",
+  "meeting": {
+    "id": "2025-04-23_Kommunfullmäktige",
+    "date": "2025-04-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-04-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-04-23_ko_110.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-04-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-04-23_ko_110/"
+  }
+}

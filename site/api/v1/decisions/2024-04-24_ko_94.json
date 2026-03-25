@@ -1,0 +1,42 @@
+{
+  "id": "2024-04-24_ko_94",
+  "headline": "Redovisning av gamla motioner kritiserades för dålig handläggning",
+  "summary": "Kommunfullmäktige lägger anmälan om obesvarade motioner till handlingarna. SD och V kritiserade motionshanteringen där vissa motioner är upp till åtta år gamla.",
+  "detail": "Enligt kommunallagen ska motioner beredas så att fullmäktige kan fatta beslut inom ett år. Redovisningen visar att denna tidsfrist ofta överskrids. Sverigedemokraterna yrkade på att motioner skulle fortsatt beredas skyndsamt istället för att bara läggas till handlingarna, och påpekade att flera motioner är så gamla att de kan gå i lågstadiet.\n\nVänsterpartiet yrkade på att redovisningen skulle innehålla tydlig deadline för när ärendet senast ska tas upp i kommunfullmäktige. Liberalerna tillbakadrog sin motion om suicidprevention (Ks 1511/2019).\n\nOrdfördanden Jan Zetterqvist ställde Sverigedemokraternas och Vänsterpartiets förslag mot huvudförslaget och fann att kommunfullmäktige beslutar enligt huvudförslaget - att lägga anmälan till handlingarna.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 94",
+  "tags": [
+    "motioner",
+    "handläggning",
+    "demokrati",
+    "procedur"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Vi har nu motioner som är gamla nog att gå i lågstadiet (8 år). Målet måste vara att inga motioner ska vara äldre än ett år innan de hanteras i kommunfullmäktige.",
+  "quote_page": "Helena Ståhl (SD), yrkande",
+  "meeting": {
+    "id": "2024-04-24_Kommunfullmäktige",
+    "date": "2024-04-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-24_ko_94.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-24_ko_94/"
+  }
+}

@@ -3,17 +3,152 @@
   "name": "Centrum",
   "decisions": [
     {
-      "id": "2025-12-10_ko_397-417",
-      "headline": "Många motioner och interpellationer bordlagda för senare behandling",
-      "summary": "Ordförande Jan Zetterqvist (S) drev igenom bordläggning av flertalet motioner och interpellationer, vilket möttes av SD:s opposition. Bland bordlagda ärenden fanns offentliga toaletter, återbruk, kärnkraft (SMR), färdtjänst, arbetsplatsraster och flera andra.",
-      "date": "2025-12-10",
+      "id": "2026-01-27_ko_2_3_4_5",
+      "headline": "Flera SD-motioner bordlades på ordförandens initiativ",
+      "summary": "Ordförande bordlade flertalet motioner från Sverigedemokraterna, inklusive kärnkraft, arbetsmiljö, Järntorget och Kilsmo skola.",
+      "date": "2026-01-27",
       "meeting_type": "Kommunfullmäktige",
       "category": "politik",
       "contested": true
+    },
+    {
+      "id": "2025-12-10_ko_397-417",
+      "headline": "Motioner om toaletter, värmestuga och flera andra bordläggs",
+      "summary": "Kommunfullmäktige bordlägger 13 motioner och interpellationer för senare behandling.",
+      "date": "2025-12-10",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "ovrigt",
+      "contested": true
+    },
+    {
+      "id": "2025-11-18_ko_363-375",
+      "headline": "Många motioner om kulturarv och infrastruktur bordlagda",
+      "summary": "Elva motioner bordlades på sammanträdet, inklusive förslag om kulturarvsvecka, motorgård, cirkulationsbibliotek och fontänen på Järntorget.",
+      "date": "2025-11-18",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "ovrigt",
+      "contested": false
+    },
+    {
+      "id": "2025-11-11_ko_231",
+      "headline": "Motion om att riva fontänen på Järntorget avslås",
+      "summary": "Sverigedemokraterna och ÖrP ville riva fontänen och återupprätta parkering på Järntorget. Kommun bedömer att problemen kräver innehållsmässiga, inte parkeringsmässiga lösningar.",
+      "date": "2025-11-11",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2025-11-11_ko_235",
+      "headline": "Fem nya motioner remitteras till nämnder och styrelse",
+      "summary": "Kommunfullmäktige remitterade fem motioner. Två går till Kommunstyrelsen för beredning, två till nämnder och en till Teknik- och servicenämnden.",
+      "date": "2025-11-11",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "ovrigt",
+      "contested": false
+    },
+    {
+      "id": "2025-10-22_ko_310",
+      "headline": "Samarbetsavtal Bus Rapid Transit etapp 2 godkänt",
+      "summary": "Kommunfullmäktige godkände samarbetsavtal med Region Örebro län för fortsatt utbyggnad av Bus Rapid Transit etapp 2, med fokus på pendlarparkeringar och näringsidkarommunikation.",
+      "date": "2025-10-22",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2025-03-26_ko_78",
+      "headline": "Motion om ställplatser för husbilar avslogs",
+      "summary": "Motion från KD om att utreda och inrymma ställplatser för husbilar nära Örebro centrum avslogs. Flera partier ville bibehålla detta för framtida utredning.",
+      "date": "2025-03-26",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2025-02-25_ko_61-62",
+      "headline": "Motioner om ställplatser husbilar och småhusbebyggelse bordlade",
+      "summary": "Kommunfullmäktige bordlade två motioner: Kristdemokraternas förslag om ställplatser för husbilar och Sverigedemokraternas krav på markförvärv för småhusbebyggelse.",
+      "date": "2025-02-25",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2025-01-21_ko_15",
+      "headline": "Motionen om ställplatser för husbilar avslogs",
+      "summary": "Motion från Susanne Lindholm Henningsson (KD) om utredning och iordningställande av ställplatser för husbilar i nära anslutning till Örebro city avslogs.",
+      "date": "2025-01-21",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "ovrigt",
+      "contested": true
+    },
+    {
+      "id": "2024-10-23_ko_277",
+      "headline": "Sammanträdestider för Kommunfullmäktige 2025 fastställda",
+      "summary": "Kommunfullmäktige fastställer ordinarie sammanträdestider för 2025 - tio ordinarie möten mellan januari och december på angivna dagar och tider.",
+      "date": "2024-10-23",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "ovrigt",
+      "contested": false
+    },
+    {
+      "id": "2024-03-20_ko_64",
+      "headline": "Rådhusets julkalender-motion avslås trots KD-stöd",
+      "summary": "Sverigedemokraterna motion om att återuppliva Rådhusets julkalender avslogs. KD och SD reserverade sig för motionen.",
+      "date": "2024-03-20",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "kultur",
+      "contested": true
+    },
+    {
+      "id": "2024-02-14_ko_41",
+      "headline": "Motion om Rådhusets julkalender bordläggs för fortsatt behandling",
+      "summary": "Kommunfullmäktige beslutade att bordlägga motion från SD om att återuppliva Rådhusets julkalender i egen regi.",
+      "date": "2024-02-14",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "kultur",
+      "contested": false
+    },
+    {
+      "id": "2024-01-23_ko_11",
+      "headline": "Rådhusets julkalender - ärendet bordlagt igen",
+      "summary": "SD motion om att återuppliva Rådhusets julkalender bordlades utan slutgörande beslut.",
+      "date": "2024-01-23",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "kultur",
+      "contested": false
+    },
+    {
+      "id": "2023-10-24_ko_359",
+      "headline": "Sammanträdestider för 2024 fastställda",
+      "summary": "Kommunfullmäktige fastställer tider för ordinarie sammanträden under 2024 samt reserverar tid för eventuella extra sammanträden.",
+      "date": "2023-10-24",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "ovrigt",
+      "contested": false
+    },
+    {
+      "id": "2023-09-19_ko_196",
+      "headline": "Motion om Rådhusets julkalender avslogs",
+      "summary": "Motion från Sverigedemokraterna om att återuppliva Rådhusets julkalender avslogs.",
+      "date": "2023-09-19",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "kultur",
+      "contested": true
+    },
+    {
+      "id": "2023-03-14_ko_57",
+      "headline": "Motion om bilfri zon på Stortorget avslagen",
+      "summary": "Motion från Miljöpartiet de gröna om att göra nedre delen av Stortorget till bilfri zon avsloges.",
+      "date": "2023-03-14",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "ovrigt",
+      "contested": false
     }
   ],
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/centrum.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/centrum/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/centrum.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/centrum/"
   }
 }

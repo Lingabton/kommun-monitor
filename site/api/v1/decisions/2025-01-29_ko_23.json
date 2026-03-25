@@ -1,0 +1,43 @@
+{
+  "id": "2025-01-29_ko_23",
+  "headline": "Mentorsmammor-motion för nyfödigar och familjer avslås",
+  "summary": "KD yrkar på mentorsmammor-modell för praktisk hjälp och rådgivning till familjer, motion avslås.",
+  "detail": "Paula Säker (KD) motionerade om att utreda en mentorsmammor-modell för att erbjuda praktisk hjälp, rådgivning och öppen dialog. Tanken är att mentorsmammorna tillsammans med familjecentraler, mödrahälsovård och BVC ska motverka hot och desinformation mot socialtjänsten.\n\nKommunledningen avslår motionen. Trots detta reserverar sig KD-medlemmar Paula Säker, Susanne Lindholm Henningsson och andra för att vilja tillgodose förslaget. Även V reserverar sig.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 23",
+  "tags": [
+    "familjer",
+    "föräldrastöd",
+    "välfärd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [
+      "KD",
+      "V"
+    ],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen innehåller förslag om att mentorsmammorna ska, tillsammans med familjecentralerna, mödrahälsovården och BVC motverka hot och desinformation mot socialtjänsten.",
+  "quote_page": "s. 26",
+  "meeting": {
+    "id": "2025-01-29_Kommunfullmäktige",
+    "date": "2025-01-29",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-29_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-29_ko_23.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-29_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-29_ko_23/"
+  }
+}

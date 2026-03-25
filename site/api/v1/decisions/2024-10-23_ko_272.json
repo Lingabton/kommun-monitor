@@ -1,0 +1,44 @@
+{
+  "id": "2024-10-23_ko_272",
+  "headline": "Delårsrapport 2 och prognos 2024 godkänd",
+  "summary": "Kommunfullmäktige godkänner delårsrapport med prognos för 2024. Kommunen prognostiserar ett resultat på 346 milj kr för helåret, vilket är 19 milj kr högre än budgeterat.",
+  "detail": "Delårsrapporten visar resultat efter årets första åtta månader på 558 mnkr. Av prognosen för helåret framgår att verksamhetens resultat visar -87 mnkr avvikelse medan finansverksamheten visar +183 mnkr. Inom nämnderna och kommungemensamma verksamheter prognostiseras en negativ budgetavvikelse på -259 mnkr. Kommunens investeringsprognos uppgår till 1 219 mnkr, vilket är 258 mnkr lägre än budget. För investeringarna inom skattefinansierad verksamhet är prognosen 723 mnkr (135 mnkr under budget) och för taxefinansierad 496 mnkr (123 mnkr under budget). Årets resultat efter balanskravsjusteringar är positivt med 80 mnkr, vilket visar att kommunen beräknas uppfylla kravet på ekonomi i balans. Endast 7 av 8 verksamhetsmål beräknas uppfyllas - målet om att alla elever ska nå kunskapsmålen i skolan beräknas inte uppfyllas.\n\nKommunfullmäktige beslutar att samtliga nämnder som prognostiserar negativ budgetavvikelse för 2024 ska vidta åtgärder för att säkra långsiktigt hållbar ekonomi, med redovisning till Kommunstyrelsen i samband med årsberättelsen.\n\nÖrebropartiet reserverade sig mot beslutet. Vänsterpartiet, Liberalerna, Kristdemokraterna deltog inte i beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 272",
+  "tags": [
+    "ekonomi",
+    "budget",
+    "prognos",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "L",
+      "KD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Den sammantagna bedömningen avseende Kommunfullmäktiges verksamhetsmål och finansiella mål är att Örebro kommun enligt prognos inte kommer att uppfylla målen av betydelse för god ekonomisk hushållning för året.",
+  "quote_page": "s. 7",
+  "meeting": {
+    "id": "2024-10-23_Kommunfullmäktige",
+    "date": "2024-10-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-10-23_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-10-23_ko_272.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-10-23_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-10-23_ko_272/"
+  }
+}

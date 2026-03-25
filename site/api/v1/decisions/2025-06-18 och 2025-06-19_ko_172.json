@@ -1,0 +1,48 @@
+{
+  "id": "2025-06-18 och 2025-06-19_ko_172",
+  "headline": "Övergripande strategier och budget 2026 fastställd",
+  "summary": "Kommunfullmäktige fastställde budget 2026 enligt S-M-C förslag med skattesatsen 21,35 per skattekrona. Investeringsbudgeten uppgår till cirka 1,4 miljarder kronor med investeringsprojektet Södra infarten klassificerat som större investering.",
+  "detail": "Kommunfullmäktige behandlade den övergripande budgeten för 2026 med plan för 2027-2029, framtagen av Socialdemokraterna, Moderaterna och Centerpartiet. Budgeten fastställs enligt förslaget \"Gemensamt ansvar för framtidens Örebro\".\n\nSkattesatsen för allmän kommunalskatt år 2026 fastställs till 21,35 per skattekrona, samma nivå som 2025. Finansiella mål och verksamhetsmål för god ekonomisk hushållning för 2026 fastställs enligt budgethandlingen.\n\nDriftbudgetramar för 2026 fastställs enligt förslaget. Lokalförsörjningsplan och investeringsplan för 2026 med plan för 2027-2029 fastställs. Igångsättningsbeslut beviljas för investerings- och lokalprojekt med start 2026.\n\nInvesteringsprojektet Södra infarten kategoriseras som större investering och undantas från det finansiella målet för investering 2026-2029. Kommunstyrelsen får uppdrag att ta fram effektiviseringsuppdrag om 82 miljoner kronor för 2026.\n\nRamen för kommunkoncernens samlade externa låneskuld fastställs till 23,8 miljarder kronor för 2026-2029. Ramen för Örebro kommuns låneskuld fastställs till 22,0 miljarder kronor för samma period.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 172",
+  "tags": [
+    "budget",
+    "investeringar",
+    "Södra infarten",
+    "lånerammer",
+    "skattesats"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C"
+    ],
+    "against": [
+      "L",
+      "SD",
+      "V",
+      "ÖrP",
+      "KD",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Övergripande strategier och budget 2026 med plan för 2027–2029 fastställs enligt förslaget \"Gemensamt ansvar för framtidens Örebro\".",
+  "quote_page": "s. 8",
+  "meeting": {
+    "id": "2025-06-18_Kommunfullmäktige",
+    "date": "2025-06-18",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-18_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-18 och 2025-06-19_ko_172.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-18_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-18 och 2025-06-19_ko_172/"
+  }
+}

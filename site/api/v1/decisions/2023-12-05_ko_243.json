@@ -1,0 +1,42 @@
+{
+  "id": "2023-12-05_ko_243",
+  "headline": "Flygplats får 37 miljoner i driftbidrag 2024",
+  "summary": "Kommunstyrelsen beviljade Örebro Läns Flygplats AB totalt 37,3 miljoner kronor i driftbidrag för 2024, varav Örebro kommuns andel är 17,6 miljoner. Vänsterpartiet reserverade sig.",
+  "detail": "Örebro Läns Flygplats AB är ett delägt bolag där Örebro Rådhus AB och Region Örebro Län äger 44,95 procent vardera, medan Kumla och Karlskoga kommuner äger 5,05 procent vardera. Flygplatsen hade endast 67 018 passagerare 2022.\n\nKommunstyrelsen beslutade att bevilja totalt 37 335 600 kronor för att täcka flygplatsens rörelseförluster 2024. Örebro kommun och Region Örebro Län bidrar vardera med 17 590 400 kronor. Stödet ges med stöd av EU:s gruppundantagsförordning (GBER) för flygplatser under 200 000 passagerare per år.\n\nMartha Wicklund (V) yrkade på avslag och att kommunen skulle utreda möjlighet för förstatligande eller försäljning/avveckling av flygplatsen. Ordföranden ställde förslagen mot varandra och fann att Kommunstyrelsen beslutade enligt förvaltningens förslag. Vänsterpartiet reserverade sig skriftligt.",
+  "category": "budget",
+  "contested": true,
+  "location": "Örebro Läns Flygplats",
+  "paragraph_ref": "§ 243",
+  "tags": [
+    "flygplats",
+    "driftbidrag",
+    "miljoner",
+    "EU-stöd"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Bevilja 37 335 600 SEK till Örebro Läns Flygplats AB för täckning av förluster under år 2024.",
+  "quote_page": "s. 6-7",
+  "meeting": {
+    "id": "2023-12-05_Kommunstyrelsen",
+    "date": "2023-12-05",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-12-05_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-12-05_ko_243.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-12-05_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-12-05_ko_243/"
+  }
+}

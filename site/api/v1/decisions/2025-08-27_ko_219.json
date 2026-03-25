@@ -1,8 +1,8 @@
 {
   "id": "2025-08-27_ko_219",
-  "headline": "Fossilreklam-motion bordlagd efter trefaldig bordläggning",
-  "summary": "Miljöpartiet ville förbjuda fossil reklam på allmän plats och definiera begreppet. Kommunstyrelsen föreslog avslag. Ärendet bordlades för tredje gången.",
-  "detail": "Lea Strandberg (MP) föreslog:\n\n1. Definiera vad Örebro kommun menar med \"fossil reklam\"\n2. Utvidga riktlinjer för reklamtyper som inte tillåts, inkludera fossil reklam\n\nKommunstyrelsen svarade att det är för svårt att definiera fossil reklam utan att bli mycket snäv definition, och att kommunen redan har restriktiv reklamhållning.\n\nÄrendet bordlades första gången 23 april, andra gången 21 maj, tredje gången 18-19 juni, och nu igen 27 augusti.\n\nMartha Wicklund (V) reserverade sig för bifall till motionen.\n\nEffekt: ingen definition av fossil reklam, ingen utvidgad restriktion.",
+  "headline": "Fossil reklammotion bordlades återigen",
+  "summary": "Miljöpartiets motion om att förbjuda fossil reklam på allmän plats bordlades för tredje gången utan att avgöras.",
+  "detail": "Lea Strandberg (MP) motionerade för två åtgärder: att definiera vad som är fossil reklam och att utvidga kommunens riktlinjer för förbjudna reklamtyper.\n\nMotionen anmäldes till fullmäktige 14 februari 2024 och remitterades till Markplanerings- och exploateringsnämnden som behandlade det 14 mars 2025.\n\nKommunstyrelsen bedömde att det är svårt att definiera fossil reklam och att förbjuda all sådan reklam skulle skapa svårdefinierad bedömningsgrund. Kommunen ansåg sig redan ha restriktivt förhållningssätt till reklam.\n\nFullmäktige bordlade ärendet på möten 23 april, 21 maj och 18-19 juni 2025. Den 27 augusti 2025 bordlades ärendet ännu en gång utan att avgöras. Martha Wicklund (V) reserverade sig för bifallande.",
   "category": "miljo",
   "contested": true,
   "location": null,
@@ -11,30 +11,26 @@
     "miljö",
     "reklam",
     "fossil",
-    "policy"
+    "klimat"
   ],
   "voting": {
-    "for": [
-      "S",
-      "M",
-      "C"
-    ],
+    "for": [],
     "against": [],
     "abstained": [],
-    "result": "Bordlagt"
+    "result": "Bordlad"
   },
-  "quote": "Bedömningen är att det är svårt att definiera vad som är fossil reklam och inte, såvida det inte begränsas.",
+  "quote": "Bedömningen är fortsatt att det är svårt att definiera vad som är att klassa som fossil reklam och inte, såvida det inte begränsas.",
   "quote_page": "s. 6",
   "meeting": {
-    "id": "2025-08-27_ko",
+    "id": "2025-08-27_Kommunfullmäktige",
     "date": "2025-08-27",
-    "type": "Kommunfullmäktige",
-    "source_url": "https://www.orebro.se/download/18.38b3aa6b199139e3232133f/1756993065253/2025-08-27%20Kommunfullm%C3%A4ktige.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-08-27_Kommunfullmäktige.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_219.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_219/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-08-27_ko_219.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-08-27_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-08-27_ko_219/"
   }
 }

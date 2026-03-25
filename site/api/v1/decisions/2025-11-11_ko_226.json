@@ -1,0 +1,47 @@
+{
+  "id": "2025-11-11_ko_226",
+  "headline": "Örebro tillstyrker förbättrat informationsutbyte mellan myndigheter",
+  "summary": "Kommunen svarar positivt på remiss om utökat informationsutbyte mellan myndigheter för att bekämpa välfärdsbrott. SD och ÖrP motsätter sig, V ifrågasätter integritetsaspekter.",
+  "detail": "Justitiedepartementet remitterade slutbetänkandet 'Ökat informationsutbyte mellan myndigheter – några anslutande frågor' (SOU 2025:45). Utredningen föreslår att myndigheter ska kunna lämna ut icke-sekretessbelagda uppgifter på eget initiativ för att förbättra samverkan mot välfärdsbrott.\n\nÖrebro kommun tillstyrker förslagen och bedömer att utökat informationsutbyte kan stärka arbetet mot välfärdsbrott, förbättra samverkan mellan förskolor, skolor, socialtjänst och polis. Kommunen framhåller att detta möjliggör tidiga insatser för barn i risk och förbättrar informationsflödet mellan skola och socialtjänst.\n\nMarkus Allard (ÖrP) yrkade på avslag, Helena Ståhl (SD) på annat yttrande. Kommunstyrelsen godkände det framlagda yttrandet. Martha Wicklund (V) får lämna särskilt yttrande som betonar integritetsfrågorna och risken för missbruk i auktoritära sammanhang.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 226",
+  "tags": [
+    "informationssäkerhet",
+    "myndighetssamverkan",
+    "välfärdsbrott",
+    "integritet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [
+      "SD",
+      "ÖrP"
+    ],
+    "abstained": [
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Örebro kommun är positiv till utredningens förslag om förbättrade möjligheter till informationsutbyte mellan myndigheter. Se fördelar i att dela information för att stärka arbetet mot brott.",
+  "quote_page": "s. 1 (yttrande)",
+  "meeting": {
+    "id": "2025-11-11_Kommunstyrelsen",
+    "date": "2025-11-11",
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-11-11_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-11-11_ko_226.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-11-11_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-11-11_ko_226/"
+  }
+}

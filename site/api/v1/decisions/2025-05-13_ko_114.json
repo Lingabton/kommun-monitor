@@ -1,0 +1,45 @@
+{
+  "id": "2025-05-13_ko_114",
+  "headline": "Taxa för alkohollagen reviderad med nya gårdsförsäljningsregler",
+  "summary": "Kommunstyrelsen antar reviderad taxa för prövning och tillsyn enligt alkohollagen från 2025-06-01.",
+  "detail": "Den som vill bedriva gårdsförsäljning av alkoholdrycker föreslås debiteras samma prövningsavgift som restauranger: 10 000 kronor för nytt tillstånd, 3 000 kronor för redan befintliga serverings- eller provsmakningstillstånd. Den årliga tillsynsavgiften föreslås vara 3 600 kronor per år.\n\nFörvaltningen bedömer att 5-10 företag i Örebro kommer att ansöka om tillstånd för gårdsförsäljning. Intäksökningen och merarbetet bedöms vara litet. Taxan för servering och detaljhandel med folköl höjdes enligt index från 1 140 till 1 200 kronor per timme.\n\nMarkus Allard (ÖrP) yrkade avslag men blev omröstad. Han reserverade sig mot beslutet.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 114",
+  "tags": [
+    "alkohol",
+    "taxa",
+    "näringsliv",
+    "gårdsförsäljning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "SD",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "Anta reviderad Taxa för prövning och tillsyn enligt alkohollagen. Beslutet gäller från och med den 1 juni 2025.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2025-05-13_Kommunstyrelsen",
+    "date": "2025-05-13",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-05-13_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-05-13_ko_114.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-05-13_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-05-13_ko_114/"
+  }
+}

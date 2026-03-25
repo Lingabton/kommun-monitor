@@ -1,0 +1,46 @@
+{
+  "id": "2025-01-21_ko_16",
+  "headline": "Motion om småhusbebyggelse anses tillgodosedd",
+  "summary": "Motion från Helena Ståhl (SD) m.fl. om prioritering av småhusbebyggelse vid kommunal markförvärv anses tillgodosedd.",
+  "detail": "Motion inlämnades 12 december 2023 med förslag att Örebro kommun ska ha prioriterat syfte för småhusplanering när kommunen förvärvar mark i områden med förutsättningar för bostadsbyggande.\n\nMarkplanerings- och exploateringsnämnden bedömde att motionen redan är tillgodosedd. Örebro kommun arbetar redan med att prioritera att tillgången på bostäder ska överensstämma med efterfrågan.\n\nHelena Ståhl (SD) och Markus Allard (ÖrP) reserverade sig för bifallsyrkanden, vilket indikerar att de ansåg att målet inte är tillräckligt implementerat. Ärendet går vidare till Kommunfullmäktige.",
+  "category": "bygg",
+  "contested": false,
+  "location": null,
+  "paragraph_ref": "§ 16",
+  "tags": [
+    "småhusbebyggelse",
+    "bostäder",
+    "markanvändning"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP",
+      "SD"
+    ],
+    "result": "Tillgodosedd"
+  },
+  "quote": "Motionen innehåller ett förslag om att kommun ska ha ett prioriterat syfte för planering av småhus, när kommunen förvärvar mark i områden och orter där förutsättningar finns för bostadsbyggande.",
+  "quote_page": "s. 21",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_16.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_16/"
+  }
+}

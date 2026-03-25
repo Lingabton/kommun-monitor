@@ -1,0 +1,46 @@
+{
+  "id": "2023-10-24_ko_357",
+  "headline": "Förening för Hjälmarens utveckling bildas tillsammans med andra kommuner",
+  "summary": "Kommunfullmäktige beslutar att bilda föreningen Hjälmarsamarbetet tillsammans med närliggande kommuner, regioner och länsstyrelser för samordnad utveckling av Hjälmaren.",
+  "detail": "Örebro kommun har sedan 2021 drivit projektet 'Hjälmarens framtida utveckling'. En gemensam utvecklingsstrategi har tagits fram med andra kommuner, regioner, länsstyrelser och destinationsbolag.\n\nFörvaltningsdirektör för Miljö- och stadsbyggnadsförvaltningen får i uppdrag att vidta de rättshandlingar som krävs för bildandet av föreningen Hjälmarsamarbetet under 2024, enligt de framtagna stadgarna.\n\nFöreningen ska bildas tillsammans med en eller flera av Arboga kommun, Eskilstuna kommun, Katrineholms kommun, Vingåkers kommun, Region Örebro län, Länsstyrelsen Västmanlands län, Länsstyrelsen Södermanlands län, Länsstyrelsen Örebro län, Destination Eskilstuna AB, Plus Katrineholm AB och Örebrokompaniet AB.\n\nVänsterpartiet ville att ärendet återremitterades för att få svar på frågor om vattenkvalitet, kompetensfördeling med andra föreningar och samverkan. Örebropartiet reserverade sig helt mot beslutet.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": "Hjälmaren",
+  "paragraph_ref": "§ 357",
+  "tags": [
+    "Hjälmaren",
+    "miljö",
+    "samarbete",
+    "kommuner"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "MP",
+      "SD"
+    ],
+    "against": [],
+    "abstained": [
+      "V",
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "En samordningsfunktion är nödvändig för att utvecklingen av Hjälmaren ska kunna ske samordnat. Ett förslag till bildande av en gemensam ideell förening har nu tagits fram.",
+  "quote_page": "s. 17-18",
+  "meeting": {
+    "id": "2023-10-24_Kommunfullmäktige",
+    "date": "2023-10-24",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-24_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-24_ko_357.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-24_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-24_ko_357/"
+  }
+}

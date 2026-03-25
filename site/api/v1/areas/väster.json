@@ -1,0 +1,55 @@
+{
+  "id": "väster",
+  "name": "Väster",
+  "decisions": [
+    {
+      "id": "2025-03-18_ko_55",
+      "headline": "Markförsäljning till Circle K Sverige för drivmedelsstation cirka 11,5 miljoner",
+      "summary": "Kommunstyrelsen godkände ett reservationsavtal för försäljning av mark till Circle K Sverige AB för uppförande av en drivmedelsstation. Försäljningspriset är cirka 11,5 miljoner kronor.",
+      "date": "2025-03-18",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": false
+    },
+    {
+      "id": "2023-03-22_ko_89",
+      "headline": "Trafikplats Norra Marieberg: Kostnadsökning från 109 till 149 miljoner godkänd",
+      "summary": "Kommunfullmäktige godkände en kostnadsökning på cirka 34 procent för trafikplatsen över E20 vid Norra Marieberg. Den nya kostnaden förväntas bli 149 miljoner kronor jämfört med tidigare budgeterad 109 miljoner.",
+      "date": "2023-03-22",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2023-03-14_ko_50",
+      "headline": "Trafikplats Norra Marieberg: 34 procent kostnadsökning godkänd",
+      "summary": "Kommunstyrelsen godkände 34 procent kostnadsökning för trafikplatsprojektet från 109 till 149 miljoner kronor trots kritik från opposition om bristande underlag.",
+      "date": "2023-03-14",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2023-02-15_ko_47",
+      "headline": "Örebroporten säljer aktier i Marieberg Utvecklings AB",
+      "summary": "Kommunfullmäktige godkänner försäljning av Örebro kommuns aktier i MUAB till övriga delägare. Försäljningen genererar en realisationsvinst på cirka 8,8 miljoner kronor.",
+      "date": "2023-02-15",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "budget",
+      "contested": true
+    },
+    {
+      "id": "2023-02-07_ko_24",
+      "headline": "Aktieöverlåtelse av Marieberg Utvecklings AB genomförd",
+      "summary": "Kommunstyrelsen godkände försäljningen av Örebroportens aktier i Marieberg Utvecklings AB. Försäljningen beräknas ge realisationsvinst på 8,8 mnkr.",
+      "date": "2023-02-07",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
+    }
+  ],
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/väster.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/väster/"
+  }
+}

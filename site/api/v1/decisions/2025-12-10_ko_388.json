@@ -1,46 +1,45 @@
 {
   "id": "2025-12-10_ko_388",
-  "headline": "Nämndreglementen revideras enligt ny socialtjänstlag",
-  "summary": "Kommunfullmäktige antog reviderade nämndreglementen för mandatperioden 2023-2026 med anledning av ny socialtjänstlag. En viktig organisatorisk förändring är att Budget- och skuldrådgivningen flyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden för förbättrat förebyggande arbete.",
-  "detail": "Den nya socialtjänstlagen (2024) förtydligar kommunens ansvar för tillgängligt och förebyggande arbete och introducerar nya befogenheter för socialnämnderna. Detta krävde revidering av reglementen för Vård- och omsorgsnämnden, Funktionsstödsnämnden, Socialnämnden, Gymnasie- och arbetsmarknadsnämnden och Kommunstyrelsen.\n\nEn central organisatorisk förändring är överflyttningen av Budget- och skuldrådgivningen från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden. Kommunledningsförvaltningen motiverar detta med fem konkreta fördelar: förbättrat förebyggande arbete genom tidig identifiering av riskfaktorer, ökad tillgänglighet för personer i behov av stöd, bättre helhetsperspektiv då båda verksamheterna arbetar med privatpersoners ekonomi, kompetensutveckling och effektivare resursanvändning.\n\nRevisionen trädde i kraft 1 januari 2026. Kristdemokraterna (Susanne Lindholm Henningsson) lämnade ett särskilt yttrande med fokus på att värna den ideella organisationen EKSAM, som genom ett IOP-samarbete sedan 2019 erbjuder budget- och skuldråd till cirka 700 medborgare årligen. KD uttryckte oro för EKSAM:s framtid under den nya organisationen, då samarbete med civila samhället inte står högst i prioritet för nämndens majoritet (M, S, C).",
+  "headline": "Nämndreglementen revideras för nya socialtjänstlagen",
+  "summary": "Kommunfullmäktige beslutar att anta reviderade nämndreglementen för mandatperioden 2023-2026 med ikraftträdande 1 januari 2026. Budget- och skuldrådgivningen flyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden.",
+  "detail": "Den nya socialtjänstlagen innebär nya befogenheter och skyldigheter för socialnämnderna. Reglementet har reviderats för att återspegla lagändringen, men innehåller inga sakliga förändringar enligt förvaltningen.\n\nEn central organisatorisk förändring är att Budget- och skuldrådgivningen förflyttas från Socialnämnden till Gymnasie- och arbetsmarknadsnämnden. Detta motiveras av möjligheten till förbättrat förebyggande arbete genom tidig identifiering av riskfaktorer, ökad tillgänglighet, bättre helhetsperspektiv, kompetensutveckling och effektivare resursanvändning.\n\nSusanne Lindholm Henningsson (KD) lämnar ett särskilt yttrande där hon värnar den ideella organisationen EKSAM, som bedriver budget- och skuldrådgivning genom ett IOP-avtal sedan 2019. Hon uttrycker oro för verksamhetens framtid med tanke på att samarbete med civila samhället inte prioriteras högt av nämndens majoritet.",
   "category": "regler",
   "contested": false,
   "location": null,
   "paragraph_ref": "§ 388",
   "tags": [
-    "nämndreglementen",
-    "socialtjänstlagen",
-    "budget- och skuldrådgivning",
-    "organisationsförändring",
-    "EKSAM",
-    "idéburet offentligt partnerskap"
+    "socialtjänstlag",
+    "nämndreglemente",
+    "budget- och skuldrådgivning"
   ],
   "voting": {
     "for": [
       "S",
       "M",
       "C",
+      "L",
       "KD",
       "V",
-      "L",
-      "SD"
+      "SD",
+      "ÖrP",
+      "MP"
     ],
     "against": [],
     "abstained": [],
     "result": "Enhälligt"
   },
-  "quote": "Organisationsförändringen kräver ändringar i båda nämndernas reglementen. Fördelarna med en sådan organisatorisk flytt bedöms vara: Förbättrat förebyggande arbete genom tidig identifiering av riskfaktorer.",
+  "quote": "I och med ny socialtjänstlag förtydligas kommunens ansvar att enligt socialtjänstlagen arbeta lätt tillgängligt och förebyggande.",
   "quote_page": "s. 7",
   "meeting": {
-    "id": "2025-12-10_ko",
+    "id": "2025-12-10_Kommunfullmäktige",
     "date": "2025-12-10",
-    "type": "Kommunfullmäktige",
-    "source_url": "https://www.orebro.se/download/18.6888ebfe19b2bdfbd24618/1766065782586/2025-12-10%20Kommunfullm%C3%A4ktige.pdf"
+    "type": "",
+    "source_url": "/Users/gabriellinton/Desktop/kommun-monitor/data/pdfs/2025-12-10_Kommunfullmäktige.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_388.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_388/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-12-10_ko_388.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-12-10_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-12-10_ko_388/"
   }
 }

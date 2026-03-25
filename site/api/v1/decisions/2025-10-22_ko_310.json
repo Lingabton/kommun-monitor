@@ -1,0 +1,49 @@
+{
+  "id": "2025-10-22_ko_310",
+  "headline": "Samarbetsavtal Bus Rapid Transit etapp 2 godkänt",
+  "summary": "Kommunfullmäktige godkände samarbetsavtal med Region Örebro län för fortsatt utbyggnad av Bus Rapid Transit etapp 2, med fokus på pendlarparkeringar och näringsidkarommunikation.",
+  "detail": "Kommunfullmäktige godkände samarbetsavtal avseende Bus Rapid Transit (BRT) etapp 2 i Örebro för fortsatt införandet av BRT tillsammans med Region Örebro län. Genomförandeplanen för etapp 2 godkändes även.\n\nEtapp 1 av Citylinjen färdigställs under 2025 och visar positiva resultat: resandet har ökat och prognos visar 18% resandeökning för 2025 jämfört med 2023. Bussarnas punktlighet har förbättrats och restiden mellan Örebro Resecentrum och Brickebacken har minskat med cirka 30% (8 minuter enligt tidtabell).\n\nMålet för det fullständiga BRT-systemet är att öka resandet med 40% tre år efter färdigställande av etapp 2 och att minska restiden med 30% från ändhållplats till resecentrum. Beslutet förväntas bidra till minskade luftföroreningar, förbättrad integration och en mer attraktiv stadsmiljö.\n\nKommunfullmäktige beslutar även att i BRT:s fortsatta arbete särskilt beakta och i god förväg kommunicera förändringar till berörda näringsidkare och invånare. Frågan om pendlarparkeringar i anslutning till stråket ska beaktas.\n\nSD, L och ÖrP reserverar sig. V reserverar sig mot att avslå sitt tilläggsyrkande om prissänkningar.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Örebro stad",
+  "paragraph_ref": "§ 310",
+  "tags": [
+    "kollektivtrafik",
+    "BRT",
+    "infrastruktur",
+    "miljö",
+    "stadsutveckling",
+    "Örebro stad"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "V",
+      "MP"
+    ],
+    "against": [
+      "SD",
+      "L",
+      "ÖrP"
+    ],
+    "abstained": [],
+    "result": "Bifall"
+  },
+  "quote": "En utvärdering av delsträckorna inom etapp 1 visar att resandemålen är på väg att uppnås. Resandet har ökat i det färdigbyggda stråket och prognos visar en resandeökning på 18% för 2025 jämfört med 2023.",
+  "quote_page": "s. 20",
+  "meeting": {
+    "id": "2025-10-22_Kommunfullmäktige",
+    "date": "2025-10-22",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_310.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-10-22_ko_310/"
+  }
+}

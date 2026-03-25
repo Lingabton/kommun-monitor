@@ -1,0 +1,118 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2023-03-22",
+  "decisions": [
+    {
+      "headline": "Trafikplats Norra Marieberg: Kostnadsökning från 109 till 149 miljoner godkänd",
+      "summary": "Kommunfullmäktige godkände en kostnadsökning på cirka 34 procent för trafikplatsen över E20 vid Norra Marieberg. Den nya kostnaden förväntas bli 149 miljoner kronor jämfört med tidigare budgeterad 109 miljoner.",
+      "detail": "Örebro kommun beställde 2021 utbyggnad av trafikplatsen över E20 för att möjliggöra god tillgänglighet till de nya verksamhetsområdena Norra Marieberg och Palmbohult. Den ursprungliga budgeten var 109 miljoner kronor enligt medfinansieringsavtal med Trafikverket från december 2021.\n\nBeroende på världsläget med ökade material- och energikostnader beräknas kostnaden överskridas med cirka 34 procent, vilket innebär en ny total kostnad på 149 miljoner kronor. Hittills nedlagda kostnader för projektering är cirka 6 miljoner kronor. Byggstart är planerad till hösten 2023, och upphandling behöver genomföras i april.\n\nKostnaden finansieras genom intäkter från tomtförsäljningar i planområdena. Kommunfullmäktige beslutade att godkänna kostnadsökningen utan att ett nytt medfinansieringsavtal krävs.\n\nVänsterpartiet och Örebro för Pluralism reserverade sig mot beslutet. Vänsterpartiet yrkade på återremiss för att få en mer utförlig kalkyl över kostnadsutvecklingen och möjligheterna att sänka dem, samt en plan för att stärka gång-, cykel- och kollektivtrafik till området.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Norra Marieberg",
+      "paragraph_ref": "§ 89",
+      "quote": "En kostnadsökning om ca 34 % i projektet godkänns och det föreligger inte något behov av ett nytt medfinansieringsavtal.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L"
+        ],
+        "against": [],
+        "abstained": [
+          "V",
+          "ÖrP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "Norra Marieberg",
+        "E20",
+        "trafikplats",
+        "infrastruktur",
+        "kostnadsökning"
+      ],
+      "id": "2023-03-22_ko_89",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-03-22"
+    },
+    {
+      "headline": "Motion om neutral klädpolicy för kommunens anställda avslås",
+      "summary": "Kommunfullmäktige avslog Sverigedemokraternas motion om att införa en neutral klädpolicy för att minska religiösa, kulturella och politiska konflikter.",
+      "detail": "Helena Ståhl och David Larsson (SD) inkom med motion om att ge Kommunstyrelsen i uppdrag att utreda hur EU-domstolens beslut skapar möjlighet för Örebro kommun att införa en neutral klädpolicy vars syfte var att minska religiösa, kulturella och politiska konflikter i mötet mellan invånare och kommunens verksamhet.\n\nMotionen bedömdes kunna innebära indirekt diskriminering enligt diskrimineringslagen. Kommunstyrelsen föreslog att motionen skulle avslås, vilket Kommunfullmäktige beslutade.\n\nSverigedemokraterna och Örebro för Pluralism reserverade sig mot beslutet och yrkade på bifall till motionen. Majoriteten av övriga partier (S, M, C, KD, V, L, MP) röstade för avslag.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 90",
+      "quote": "Bedömningen är att en klädpolicy enligt motionärernas intentioner kan innebära indirekt diskriminering enligt 1 kap. 4 § 2 pt. diskrimineringslagen.",
+      "quote_page": "s. 13",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "V",
+          "L",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Avslaget"
+      },
+      "tags": [
+        "klädpolicy",
+        "diskriminering",
+        "religion",
+        "arbetsrätt"
+      ],
+      "id": "2023-03-22_ko_90",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2023-03-22"
+    }
+  ],
+  "decisions_count": 2,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-03-22_Kommunfullmäktige.pdf",
+  "headline": "Trafikplats Marieberg godkänd trots 40 miljoner kronor dyrare",
+  "motions_of_interest": [
+    {
+      "title": "Krafttag mot mäns våld mot kvinnor",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Gratis frukost i grundskolan och gymnasiet",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Bevara jordbruksmarken i Törsjö",
+      "party": "V",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Hållbart skogsbruk",
+      "party": "MP",
+      "status": "Remitterad"
+    },
+    {
+      "title": "Våga tänk nytt om Kilsmo skola",
+      "party": "KD",
+      "status": "Remitterad"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-03-22_Kommunfullmäktige.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-22_ko_89.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-03-22_ko_90.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2023-03-22_Kommunfullmäktige"
+  }
+}

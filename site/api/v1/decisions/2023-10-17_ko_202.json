@@ -1,0 +1,35 @@
+{
+  "id": "2023-10-17_ko_202",
+  "headline": "Fastighet Kranbilen 1 säljs till NeH Svenska AB",
+  "summary": "Kommunstyrelsen godkänner reservationsavtal för försäljning av fastigheten Kranbilen 1 till Nasta Gård AB för cirka 12,3 miljoner kronor. Bolaget planerar att bygga kontor och lager för egen verksamhet.",
+  "detail": "NeH Svenska AB (Nasta Gård AB) har tilldelats en förstudie enligt Örebromodellen för fastigheten Kranbilen 1. Under förstudien har projektets utformning tagits fram och godkänts av kommunen.\n\nReservationsavtalet från 2021 har löpt ut och aktören vill förlänga det. Det nya reservationsavtalet löper till och med den 31 maj 2024 och omfattar cirka 22 298 kvadratmeter.\n\nKöpeskillingen uppgår till cirka 12,3 miljoner kronor, där planavgift och gatukostnad är inkluderade. Kommunen kommer att överlåta fastigheten under förutsättning att bygglov erhålls och byggnadsarbeten påbörjas under reservationstiden.\n\nMarkplanerings- och exploateringsnämndens ordförande får i uppdrag att godkänna och underteckna alla erforderliga handlingar för transaktionen.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Kranbilen 1",
+  "paragraph_ref": "§ 202",
+  "tags": [
+    "fastighetsköp",
+    "Kranbilen",
+    "investeringar"
+  ],
+  "voting": {
+    "for": [],
+    "against": [],
+    "abstained": [],
+    "result": "Enhälligt"
+  },
+  "quote": "Köpeskillingen uppgår till ca 12,3 miljoner kronor, i köpeskillingen ingår planavgift och gatukostnad.",
+  "quote_page": "s. 2",
+  "meeting": {
+    "id": "2023-10-17_Kommunstyrelsen",
+    "date": "2023-10-17",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-10-17_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-10-17_ko_202.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-10-17_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-10-17_ko_202/"
+  }
+}

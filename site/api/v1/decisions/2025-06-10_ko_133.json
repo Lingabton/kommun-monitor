@@ -1,0 +1,45 @@
+{
+  "id": "2025-06-10_ko_133",
+  "headline": "NOD-projektrapport: Administrativ lokalisering slutförd med kostnadsöverslitningar",
+  "summary": "Slutrapport för NOD-projektet (administrativa lokaler) läggs till handlingarna. Projektet är genomfört men väckte kritik för kostnadskontroll och arbetsmiljökonsekvenser.",
+  "detail": "Kommunstyrelsen avslutade formellt NOD-projektet som initierades 2019 för att samla administrativa lokaler i moderna noder. Inflyttningen till Åbylunden 1 är genomförd och inga andra delar är aktiva.\n\nCristian Rehn Janowicz (V) lämnade särskilt yttrande kritiserande projektet för rusande kostnader, dålig styrning, bristfällig planering och bristande budgetkontroll. V påtalade att konsekvensanalyser för medarbetare inte genomförts ordentligt, att arbetsmiljöpåverkan inte utvärderats, och att coronapandemins effekter på öppna kontorslandskap inte beaktades tillräckligt.",
+  "category": "infrastruktur",
+  "contested": true,
+  "location": "Åbylunden",
+  "paragraph_ref": "§ 133",
+  "tags": [
+    "NOD-projekt",
+    "lokaler",
+    "administrativa",
+    "arbetsmiljö",
+    "Åbylunden"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD"
+    ],
+    "against": [],
+    "abstained": [
+      "V"
+    ],
+    "result": "Enhälligt"
+  },
+  "quote": "Nod-projektet initierades 2019 för att samla administrativa lokaler i ett fåtal moderna noder.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2025-06-10_Kommunstyrelsen",
+    "date": "2025-06-10",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-06-10_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-06-10_ko_133.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-06-10_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-06-10_ko_133/"
+  }
+}

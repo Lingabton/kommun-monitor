@@ -1,18 +1,17 @@
 {
   "id": "2024-04-09_ko_83",
-  "headline": "Nya styrdokument övertas från tidigare Programnämnd samhällsbyggnad",
-  "summary": "Kommunstyrelsen tog över ägarskapet för sju styrdokument från den tidigare Programnämnden samhällsbyggnad, inklusive parkeringsriktlinjer, cykelparkeringsstrategi och uteserveringskvalitetskrav. Tretton inaktuella dokument avslutades.",
-  "detail": "Efter organisationsomvandlingen i januari 2023 fanns styrdokument som var antagna av nämnder som upphört. Respektive nämnd behövde överta ägandeskapet för relevant styrdokument.\n\nKommunstyrelsen tog över ägarskapet för:\n- Parkeringsriktlinjer för Örebro kommun (Sam 113/2013)\n- Cykelparkering – Riktlinjer för Örebro kommun (Sam 10/2016)\n- Strategi för arkitektur och byggande i Örebro kommun (Sam 195/2016)\n- Strategi för utveckling av kulturreservatet Karlslund (Sam 429/2019)\n- Riktlinjer för friyta i förskola och skola (Sam 264/2019)\n- Strategi för utveckling av Hjälmaren som rekreationsområde (Sam 1143/2020)\n- Uteserveringar i Örebro – Kvalitetskrav och riktlinjer (Sam 1072/2017)\n\nAvslutade dokument var bland annat gångstrategi, handlingsplan för parkering, dagvattenstrategi och kollektivtrafikprogram.",
+  "headline": "Övertagande av ägarskap för sju styrdokument",
+  "summary": "Kommunstyrelsen tar över ägarskapet för sju styrdokument från den nedlagda Programnämnden samhällsbyggnad, bland annat parkeringsriktlinjer, cykelparkering och arkitekturstrategi.",
+  "detail": "Sedan den nya organisationen trädde i kraft i januari 2023 fanns styrdokument som \"ägs\" av nämnder som upphört. Detta skapade behov av hantering av styrdokument från den tidigare Programnämnden samhällsbyggnad.\n\nKommunstyrelsen tar över ägarskapet för: Parkeringsriktlinjer, Cykelparkering – Riktlinjer, Strategi för arkitektur och byggande, Strategi för utveckling av kulturreservatet Karlslund, Riktlinjer för friyta i förskola och skola, Strategi för utveckling av Hjälmaren som rekreationsområde, samt Uteserveringar i Örebro – Kvalitetskrav och riktlinjer.\n\nKommunstyrelsen avslutar tolv inaktuella styrdokument, bland annat Gångstrategi, Dagvattenstrategi, Kollektivtrafikprogram, och Digitaliseringsstrategi för samhällsbyggnad.",
   "category": "regler",
   "contested": false,
   "location": null,
   "paragraph_ref": "§ 83",
   "tags": [
     "styrdokument",
+    "regler",
     "parkeringsriktlinjer",
-    "cykelparkering",
-    "uteserveringar",
-    "riktlinjer"
+    "arkitektur"
   ],
   "voting": {
     "for": [
@@ -21,25 +20,26 @@
       "C",
       "L",
       "KD",
+      "V",
       "ÖrP",
-      "V"
+      "MP"
     ],
     "against": [],
     "abstained": [],
-    "result": "Enhalligt"
+    "result": "Enhälligt"
   },
   "quote": "Respektive nämnd behöver överta ägandeskapet för styrdokument som antagits av programnämnden och som rör nämndens verksamhet i den nya organisationen.",
   "quote_page": "s. 17",
   "meeting": {
-    "id": "2024-04-09_ko",
+    "id": "2024-04-09_Kommunstyrelsen",
     "date": "2024-04-09",
-    "type": "Kommunstyrelsen",
-    "source_url": "https://www.orebro.se/download/18.7bb35f1818ec664dc7a7b05/1713792908236/2024-04-09%20Kommunstyrelsen.pdf"
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-04-09_Kommunstyrelsen.pdf"
   },
   "municipality": "orebro",
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_83.json",
-    "meeting": "https://Lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_ko.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_83/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-04-09_ko_83.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-04-09_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-04-09_ko_83/"
   }
 }

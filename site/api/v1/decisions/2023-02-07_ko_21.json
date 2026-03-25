@@ -1,0 +1,46 @@
+{
+  "id": "2023-02-07_ko_21",
+  "headline": "Planeringsförutsättningar för budget 2024-2027 antagna",
+  "summary": "Kommunstyrelsen antog planeringsförutsättningar inför budgetarbetet 2024-2027 med identifierat effektiviseringsbehov på ca 143 mnkr.",
+  "detail": "Handlingen beskriver omvärldsförutsättningar som ekonomiskt läge, befolkningsprognos, arbetsmarknad och flyktingmottagande, samt interna förutsättningar som exploatering, kompetensförsörjning och digitalisering.\n\nViktiga bedömningar:\n- Kommunens köpkraft urholkas 2023-2024 då kostnader stiger genom inflation och pensionskostnader medan skatteunderlaget inte kompenserar detta\n- Befolkningstillväxten är på lägre nivå än tidigare\n- Antalet äldre ökar, vilket påverkar behovet av lokalinvesteringar\n- För gymnasiet bedöms störst volymökning, medan grundskola kan ge potential att minska lokalinvesteringar\n- Fortsatt stark efterfrågan på mark för näringsverksamhet\n- Kompetensförsörjning är en fortsatt stor utmaning\n\nL (Karolina Wallström) yrkade på ändring av beslutsmeningen, vilket S (John Johansson) bifölls. V reserverade sig mot beslutet.",
+  "category": "budget",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 21",
+  "tags": [
+    "budget",
+    "planering",
+    "ekonomi",
+    "effektivisering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "ÖrP",
+      "MP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Kommunens köpkraft urholkas 2023–2024. Kommunens kostnader stiger till följd av inflation och ökade pensionskostnader.",
+  "quote_page": "s. 6",
+  "meeting": {
+    "id": "2023-02-07_Kommunstyrelsen",
+    "date": "2023-02-07",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-02-07_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-02-07_ko_21.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-02-07_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-02-07_ko_21/"
+  }
+}

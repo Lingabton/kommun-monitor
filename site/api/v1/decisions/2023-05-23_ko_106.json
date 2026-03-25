@@ -1,0 +1,46 @@
+{
+  "id": "2023-05-23_ko_106",
+  "headline": "Detaljplan för Törsjö logistikområde antagen trots motstånd",
+  "summary": "Kommunstyrelsen antog detaljplan för Törsjö 13:2 m.fl. för järnvägsanknuten lager- och logistikverksamhet med kombiterminal. Flera partier opponerade sig.",
+  "detail": "Detaljplanen initierades 2016 av Törsjö logistik AB och syftar till att möjliggöra byggnation av kombiterminal samt omlokalisering av företag från CV-området och Holmens verksamhetsområde. Planområdet möjliggör omvandling till bostäder och kontor på tidigare verksamhetsområden.\n\nLogistikbranschen bedöms ha goda förutsättningar för expansion och nya etableringar med direktanslutning till järnväg. Detaljplanen medger järnvägsanknuten lager- och logistikverksamhet, kombiterminal, kontor och verksamheter kopplade till järnväg samt tekniska anläggningar.\n\nÄrendet återremitterades av Kommunfullmäktige den 18 april. Helena Ståhl (SD), Martha Wicklund (V), Karolina Wallström (L) och Markus Allard (ÖrP) yrkade på avslag. Martha Wicklund ville utöver avslag utreda möjligheten för godsterminal ur regionalt perspektiv. Kommunstyrelsen beslutade enligt Bygg- och miljönämndens förslag.\n\nFyra ledamöter reserverade sig mot beslutet.",
+  "category": "bygg",
+  "contested": true,
+  "location": "Törsjö",
+  "paragraph_ref": "§ 106",
+  "tags": [
+    "Törsjö",
+    "detaljplan",
+    "logistik",
+    "järnväg",
+    "kombiterminal",
+    "miljö"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M"
+    ],
+    "against": [],
+    "abstained": [
+      "C",
+      "L",
+      "SD",
+      "V"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Anta detaljplan för fastigheten Törsjö 13:2 m.fl.",
+  "quote_page": "s. 13-14",
+  "meeting": {
+    "id": "2023-05-23_Kommunstyrelsen",
+    "date": "2023-05-23",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2023-05-23_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2023-05-23_ko_106.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2023-05-23_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2023-05-23_ko_106/"
+  }
+}

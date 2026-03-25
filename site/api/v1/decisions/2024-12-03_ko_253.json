@@ -1,0 +1,45 @@
+{
+  "id": "2024-12-03_ko_253",
+  "headline": "Sociala hyreskontrakt flyttas från Kommunstyrelsen till Socialnämnden",
+  "summary": "Kommunstyrelsen godkände revidering av nämndreglemente för att flytta ansvaret för sociala hyreskontrakt till Socialnämnden.",
+  "detail": "Vid organisationsförändringen 2023 överfördes ansvaret för sociala hyreskontrakt från Kommunstyrelsen till Socialnämnden, men detta skapade organisatoriska luckor. Framlagt förslag innebär att ansvaret för att teckna avtal med fastighetsägare för sociala hyreskontrakt och tillhörande hyresadministration nu fullt läggs på Socialnämnden.\n\nKommunstyrelsen behåller övergripande och strategiskt ansvar för kommunens lokalförsörjning. Förändringen träder i kraft 1 januari 2025 efter Kommunfullmäktiges godkännande.\n\nMarkus Allard (ÖrP) yrkade avslag men förlorade.",
+  "category": "regler",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 253",
+  "tags": [
+    "organisering",
+    "bostäder",
+    "socialtjänst"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "SD",
+      "V"
+    ],
+    "against": [],
+    "abstained": [
+      "ÖrP"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Framlagt förslag innebär att ansvaret för att teckna avtal med fastighetsägare för ändamålet sociala hyreskontrakt samt tillhörande hyresadministration tas bort från Kommunstyrelsens övergripande uppgifter och att ansvaret läggs på Socialnämnden.",
+  "quote_page": "s. 23",
+  "meeting": {
+    "id": "2024-12-03_Kommunstyrelsen",
+    "date": "2024-12-03",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-03_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-03_ko_253.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-03_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-03_ko_253/"
+  }
+}

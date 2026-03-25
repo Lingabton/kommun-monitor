@@ -1,0 +1,47 @@
+{
+  "id": "2024-12-11_ko_422",
+  "headline": "Motion om döva barns rättigheter avslaget",
+  "summary": "Kommunfullmäktige avslår motion från MP om implementering av deklarationen om döva barns rättigheter, då befintliga styrdokument täcker in området.",
+  "detail": "Lea Strandberg och Fredrik Persson (MP) motionerade om att implementera deklarationen om döva barns rättigheter i kommunens verksamheter.\n\nKommunledningen bedömer att det redan finns flera lagar och lokala styrdokument där döva barns rättigheter täcks in, och att kommunen arbetar för att främja teckenspråk och dövkultur för barn.\n\nMotionen avslogs. Röstningen resulterade i 45 ja (avslagsyrkande), 19 nej (bifallsyrkande), 1 frånvarande.\n\nMP, V, L, SD reserverade sig mot beslutet.",
+  "category": "politik",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 422",
+  "tags": [
+    "döva barn",
+    "rättigheter",
+    "teckenspråk",
+    "implementering"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "KD",
+      "ÖrP"
+    ],
+    "against": [
+      "V",
+      "L",
+      "SD",
+      "MP"
+    ],
+    "abstained": [],
+    "result": "Avslaget"
+  },
+  "quote": "Motionen avslås.",
+  "quote_page": "s. 17",
+  "meeting": {
+    "id": "2024-12-11_Kommunfullmäktige",
+    "date": "2024-12-11",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-12-11_Kommunfullmäktige.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-12-11_ko_422.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-12-11_Kommunfullmäktige.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-12-11_ko_422/"
+  }
+}

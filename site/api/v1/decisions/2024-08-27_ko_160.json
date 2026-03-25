@@ -1,0 +1,41 @@
+{
+  "id": "2024-08-27_ko_160",
+  "headline": "Motion om upphandling: Tre yrkanden besvarade, ett avslagen",
+  "summary": "Motion från SD om att förbättra upphandlingen för små lokala företag delvis besvarad, tredje yrkandet avslagen.",
+  "detail": "Carola Sunesson (SD) föreslog fyra åtgärder för att förbättra upphandlingen så små och lokala företag kan konkurrera.\n\nKommunledningsförvaltningen bedömer att kommunen redan arbetar aktivt med tre av förslagen. Det tredje yrkandet avslås då det inte alltid är relevant för särskilda åtgärder för små företag beroende på vad som upphandlas.\n\nHelena Ståhl (SD), Markus Allard (ÖrP) och Susanne Lindholm Henningsson (KD) yrkar bifall till motionen.\n\nReservationer från SD, ÖrP och KD.",
+  "category": "ovrigt",
+  "contested": true,
+  "location": null,
+  "paragraph_ref": "§ 160",
+  "tags": [
+    "upphandling",
+    "småföretag",
+    "lokala företag",
+    "konkurrens"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L"
+    ],
+    "against": [],
+    "abstained": [],
+    "result": "Bifall (delvis)"
+  },
+  "quote": "Örebro kommun har sedan lång tid mycket aktivt arbetat med att uppnå de målsättningar som motionären lyfter.",
+  "quote_page": "s. 14",
+  "meeting": {
+    "id": "2024-08-27_Kommunstyrelsen",
+    "date": "2024-08-27",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2024-08-27_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2024-08-27_ko_160.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2024-08-27_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2024-08-27_ko_160/"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "organ": "Kommunfullmäktige",
+  "date": "2025-10-22",
+  "decisions": [
+    {
+      "headline": "Delårsrapport prognos 2 2025 godkänd",
+      "summary": "Kommunfullmäktige godkände delårsrapporten som visar ett prognostiserat resultat på 257 mnkr för helåret 2025, vilket är 210 mnkr lägre än budget.",
+      "detail": "Delårsrapporten för Örebro kommun till och med 31 augusti 2025 visar att kommunen inte bedöms uppnå alla verksamhetsmål och finansiella mål av betydelse för god ekonomisk hushållning. Sju av åtta verksamhetsmål beräknas uppfyllas, men målet om att invånare utanför arbetsmarknaden ska snabbare komma i egen försörjning uppfylls inte.\n\nDe finansiella målen uppfylls för två av fyra mål. Resultat efter åtta månader visar ett utfall på 531 mnkr, medan helårsprognosen är 257 mnkr mot en budget på 467 mnkr. Investeringsprognosen uppgår till 1 134 mnkr, vilket är 243 mnkr lägre än budgeterat.\n\nKommunfullmäktige beslutar att nämnderna som prognostiserar negativ budgetavvikelse ska vidta konkretiserade åtgärder för en långsiktigt hållbar ekonomi, redovisade senast vid årsredovisningen 2025.\n\nV, L och ÖrP reserverar sig mot beslut. KD, MP deltar inte helt.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 305",
+      "quote": "Prognosen visar att Örebro kommun inte bedöms uppnå de verksamhetsmål och finansiella mål som är av betydelse för god ekonomisk hushållning under året.",
+      "quote_page": "s. 8",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "ÖrP"
+        ],
+        "abstained": [
+          "V",
+          "L",
+          "KD",
+          "MP"
+        ],
+        "result": "Bifall"
+      },
+      "tags": [
+        "ekonomi",
+        "budget",
+        "prognos",
+        "välfärd"
+      ],
+      "id": "2025-10-22_ko_305",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    },
+    {
+      "headline": "Reviderat investeringsprogram 2025 beslutat - 1 359 mnkr",
+      "summary": "Kommunfullmäktige beslutade om ett reviderat investeringsprogram för 2025 på totalt 1 359,2 mnkr, varav 780,6 mnkr är skattefinansierade och 578,6 mnkr taxefinansierade.",
+      "detail": "Efter revidering av 2025 års investeringsprogram uppgår det till 1 359,2 mnkr. Revideringarna avser både utökning och minskning av investeringsbudget samt ombudgetering mellan projekttyper och nämnder.\n\nDen kommunövergripande lokalförsörjningsplanen för 2025 reviderats, och de beräknade driftkostnadskonsekvenserna uppgår till 56,2 mnkr för 2025, en ökning med 1,2 mnkr jämfört med beslut om ÖSB 2025 i juni.\n\nÖrP, L och SD reserverar sig mot beslutet till förmån för sina egna budgetförslag. KD deltar inte i beslutet.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 306",
+      "quote": "Årets revideringar avser både utökning och minskning av investeringsbudget samt ombudgetering av redan beslutade medel mellan projekttypen och nämnderna.",
+      "quote_page": "s. 10",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "ÖrP",
+          "L",
+          "SD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "investeringar",
+        "budget",
+        "infrastruktur",
+        "lokalförsörjning"
+      ],
+      "id": "2025-10-22_ko_306",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    },
+    {
+      "headline": "Tilläggsbudget 2026 och taxor beslutade",
+      "summary": "Kommunfullmäktige fastställde tilläggsbudget för 2026 med reviderade driftbudgetramar, investeringsplan och taxor för avfall, vatten/avlopp och alkoholförsäljning.",
+      "detail": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 fastställdes. Budgeten innehåller förändringar i driftbudgetramarna och uppdatering av ekonomiska förutsättningar samt fördelade effektiviseringskrav för 2026.\n\nDecisioner inkluderar:\n- Reviderade driftbudgetramar för 2026 med plan 2027–2029\n- Reviderad investeringsplan för 2026 med plan 2027–2029\n- Avgifter för koncerninterna lån och borgen för 2026\n- Taxa för avfall från 1 januari 2026\n- Taxa för vatten och avlopp från 1 januari 2026\n- Reviderad taxa enligt alkohollagen från 1 januari 2026\n- Revidering av markupplåtelseavgift från 1 januari 2026\n- Förlängd giltighetstid för generella dispenser från 6 månader till 1 år\n- Ny avgift på 1500 kr per utfärdat tillstånd för generella dispenser\n\nSD, V, L, KD och ÖrP reserverar sig. MP deltar inte helt.",
+      "category": "budget",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 307",
+      "quote": "Tilläggsbudget till Övergripande strategier och budget 2026 med plan för 2027–2029 innehåller främst förändringar i driftbudgetramarna av teknisk karaktär men även en uppdatering av ekonomiska förutsättningar.",
+      "quote_page": "s. 12",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "L",
+          "KD",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "budget",
+        "taxor",
+        "avgifter",
+        "drift",
+        "investeringar"
+      ],
+      "id": "2025-10-22_ko_307",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    },
+    {
+      "headline": "Samarbetsavtal Bus Rapid Transit etapp 2 godkänt",
+      "summary": "Kommunfullmäktige godkände samarbetsavtal med Region Örebro län för fortsatt utbyggnad av Bus Rapid Transit etapp 2, med fokus på pendlarparkeringar och näringsidkarommunikation.",
+      "detail": "Kommunfullmäktige godkände samarbetsavtal avseende Bus Rapid Transit (BRT) etapp 2 i Örebro för fortsatt införandet av BRT tillsammans med Region Örebro län. Genomförandeplanen för etapp 2 godkändes även.\n\nEtapp 1 av Citylinjen färdigställs under 2025 och visar positiva resultat: resandet har ökat och prognos visar 18% resandeökning för 2025 jämfört med 2023. Bussarnas punktlighet har förbättrats och restiden mellan Örebro Resecentrum och Brickebacken har minskat med cirka 30% (8 minuter enligt tidtabell).\n\nMålet för det fullständiga BRT-systemet är att öka resandet med 40% tre år efter färdigställande av etapp 2 och att minska restiden med 30% från ändhållplats till resecentrum. Beslutet förväntas bidra till minskade luftföroreningar, förbättrad integration och en mer attraktiv stadsmiljö.\n\nKommunfullmäktige beslutar även att i BRT:s fortsatta arbete särskilt beakta och i god förväg kommunicera förändringar till berörda näringsidkare och invånare. Frågan om pendlarparkeringar i anslutning till stråket ska beaktas.\n\nSD, L och ÖrP reserverar sig. V reserverar sig mot att avslå sitt tilläggsyrkande om prissänkningar.",
+      "category": "infrastruktur",
+      "contested": true,
+      "location": "Örebro stad",
+      "paragraph_ref": "§ 310",
+      "quote": "En utvärdering av delsträckorna inom etapp 1 visar att resandemålen är på väg att uppnås. Resandet har ökat i det färdigbyggda stråket och prognos visar en resandeökning på 18% för 2025 jämfört med 2023.",
+      "quote_page": "s. 20",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "V",
+          "MP"
+        ],
+        "against": [
+          "SD",
+          "L",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "kollektivtrafik",
+        "BRT",
+        "infrastruktur",
+        "miljö",
+        "stadsutveckling",
+        "Örebro stad"
+      ],
+      "id": "2025-10-22_ko_310",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    },
+    {
+      "headline": "Sammanträdestider Kommunfullmäktige 2026 fastställda",
+      "summary": "Kommunfullmäktige fastställde sammanträdestider för 2026 med elva ordinarie möten genomförda på tisdagar och onsdagar mellan januari och december.",
+      "detail": "Ordinarie sammanträden med Kommunfullmäktige ska under år 2026 hållas:\n- Tisdag 27 januari\n- Onsdag 25 februari\n- Onsdag 25 mars\n- Onsdag 29 april\n- Tisdag 19 maj\n- Måndag 8 juni (preliminärt) – tisdag 9 juni\n- Onsdag 23 september\n- Onsdag 21 oktober\n- Tisdag 17 november\n- Onsdag 9 december\n\nTid för eventuella extra sammanträden reserveras till onsdag 18 mars och onsdag 26 augusti, klockan 09.00–17.00.\n\nOrP föreslog att budgetdebatten 2027 genomförs på en dag (stryka 8 juni), men detta avslogs. L och KD föreslog att nämnderna inte får planera sammanträden samma vecka som kommunfullmäktige sammanträdar, men detta avslogs också.",
+      "category": "ovrigt",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 308",
+      "quote": "Ordinarie beslutssammanträden med Kommunstyrelsen ska under år 2026 hållas enligt en särskild propositionsordning för att minska ordinarie tid för ärenden mellan Kommunstyrelsen och Kommunfullmäktige.",
+      "quote_page": "s. 16",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "ÖrP",
+          "L",
+          "KD"
+        ],
+        "abstained": [],
+        "result": "Bifall"
+      },
+      "tags": [
+        "procedur",
+        "möten",
+        "organisering"
+      ],
+      "id": "2025-10-22_ko_308",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    },
+    {
+      "headline": "Partistöd för 2026 utbetalt till alla nio partier",
+      "summary": "Kommunfullmäktige beslutade att utbetala kommunalt partistöd för år 2026 till samtliga nio partier representerade i fullmäktige.",
+      "detail": "Redovisningen av lokalt partistöd för 2024 från alla nio partier (C, KD, L, M, MP, S, SD, V, ÖrP) lades till handlingarna. Kommunfullmäktige beslutade att utbetala kommunalt partistöd för år 2026 till samtliga nio partier.\n\nPartistödet består av ett grundstöd på 40 000 kronor per parti och år, samt ett mandatstöd på 2 x prisbasbeloppet per mandat och år. Redovisning av kommunalt partistöd för år 2026 ska ske enligt gällande riktlinjer för arvoden och ersättningar till förtroendevalda.",
+      "category": "ovrigt",
+      "contested": false,
+      "location": null,
+      "paragraph_ref": "§ 309",
+      "quote": "Samtliga nio partier som var representerade i Kommunfullmäktige under år 2024 har inkommit med redovisning inom sex månader efter periodens utgång.",
+      "quote_page": "s. 18",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD",
+          "L",
+          "V",
+          "SD",
+          "MP",
+          "ÖrP"
+        ],
+        "against": [],
+        "abstained": [],
+        "result": "Enhälligt"
+      },
+      "tags": [
+        "partistöd",
+        "demokrati",
+        "partier"
+      ],
+      "id": "2025-10-22_ko_309",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    },
+    {
+      "headline": "Motioner om integration, hedersförtryck och trygghet bordlagda",
+      "summary": "Flera motioner från SD om integration, hedersförtryck, kulturarv och kravställande föräldrautbildning bordlades utan slutgöring denna gång.",
+      "detail": "Flera motioner bordlades återigen efter att ha bordlagts flera gånger tidigare:\n\n§314: Motion från Carola Sunesson (SD) om redovisning och modell för integrationssatsningar – Förslag om avslag. Bordlad.\n\n§315: Motion från Carola Sunesson och Habib Brini (SD) om beredskapsplan för kulturarvet – Bedömningen att motionen anses besvarad. Bordlad.\n\n§316: Motion från Carola Sunesson m.fl. (SD) om kravställande föräldrautbildning – Förslag om avslag på alla tre punkter då förslagen inte är förenliga med lagstiftningen. Bordlad.\n\n§317: Motion från Helena Ståhl m.fl. (SD) om kunskapsutveckling om kulturarv i grund- och gymnasieskolor – Förslag om avslag då det motsäger lärarnas professionella frihet. Bordlad.\n\n§318: Motion från Helena Ståhl m.fl. (SD) om kravställande strategi mot hedersförtryck – Motionen anses besvarad då arbete redan pågår. Bordlad.\n\n§329: Motion från Helena Ståhl m.fl. (SD) om att egenskapade raster för bön ska upphöra – Förslag om avslag. Bordlad.\n\n§330-331: Två motioner från Martha Wicklund (V) m.fl. om förtroendevaldas trygghet – Förslag om avslag då det är nationell fråga och partiernas ansvar. Bordlagda.",
+      "category": "politik",
+      "contested": true,
+      "location": null,
+      "paragraph_ref": "§ 314-331",
+      "quote": "Motionen bordlades på Kommunfullmäktiges sammanträde den 23 april, den 21 maj, 18-19 juni, den 27 augusti och den 24 september 2025.",
+      "quote_page": "s. 25-42",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C",
+          "KD"
+        ],
+        "against": [
+          "SD",
+          "V",
+          "L",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bordläggnig"
+      },
+      "tags": [
+        "motioner",
+        "integration",
+        "hedersförtryck",
+        "trygghet",
+        "demokrati",
+        "lagstiftning"
+      ],
+      "id": "2025-10-22_ko_314-331",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    },
+    {
+      "headline": "Motioner om kulturarv, bibliotek och toaletter bordlagda",
+      "summary": "Flera motioner om kulturarvsvecka, cirkulationsbibliotek, SMR-områden och offentliga toaletter bordlades utan slutgöring.",
+      "detail": "§319: Motion från Habib Brini och Bo Ammer (SD) om transporter av farligt gods genom Örebro – Förslag om avslag då andra åtgärder har högre prioritet. Bordlad.\n\n§320: Motion från Bjarne Bäckström (SD) om motorgård för ungdomar – Förslag om avslag. Bordlad.\n\n§321: Motion från Carola Sunesson och Bo Ammer (SD) om årlig kulturarvsvecka – Förslag om avslag. Bordlad.\n\n§322: Motion från Carola Sunesson (SD) om byggnadsvårdspris – Bedömningen att motionen är tillgodosedd då byggnadsvårdspris för 2025 delas ut och utvärdering görs. Bordlad.\n\n§323: Motion från Carola Sunesson och Habib Brini (SD) om medborgarinflytande på arkitektur – Förslag om avslag. Bordlad.\n\n§324: Motion från Johanna Reimfelt och Mats-Olof Liljegren (L) om cirkulationsbibliotek – Förslag om avslag. Bordlad.\n\n§325: Motion från Karolina Wallström m.fl. (L) om offentliga toaletter – Motionen anses besvarad då utredning pågår. Bordlad.\n\n§326: Motion från Martha Wicklund m.fl. (V) om återbruk i alla led – Motionens tre attsatser anses besvarade. Bordlad.\n\n§327: Motion från Helena Ståhl m.fl. (SD) om SMR-områden i översiktsplanen – Förslag om avslag. Bordlad.\n\n§328: Motion från Karolina Wallström och Johanna Reimfelt (L) om färdtjänsten – Motionen bedöms besvarad då utredning genomförs hösten 2025. Bordlad.",
+      "category": "kultur",
+      "contested": true,
+      "location": "Örebro",
+      "paragraph_ref": "§ 319-328",
+      "quote": "Motionen bordlades på Kommunfullmäktiges sammanträde den 27 augusti och den 24 september 2025.",
+      "quote_page": "s. 30-39",
+      "voting": {
+        "for": [
+          "S",
+          "M",
+          "C"
+        ],
+        "against": [
+          "SD",
+          "L",
+          "V",
+          "ÖrP"
+        ],
+        "abstained": [],
+        "result": "Bordläggnig"
+      },
+      "tags": [
+        "motioner",
+        "kulturarv",
+        "bibliotek",
+        "infrastruktur",
+        "miljö",
+        "småföretagare"
+      ],
+      "id": "2025-10-22_ko_319-328",
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2025-10-22"
+    }
+  ],
+  "decisions_count": 8,
+  "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-10-22_Kommunfullmäktige.pdf",
+  "headline": "Budget 2026, BRT-expansion och investeringar beslutade",
+  "motions_of_interest": [
+    {
+      "title": "Motion från Lea Strandberg (MP) om missvisande räkning av koldioxidutsläpp",
+      "party": "MP",
+      "status": "Anmäld till kommande behandling"
+    },
+    {
+      "title": "Motion från Christina Håkansson (KD) om att utöka antalet gästlägenheter för anhörigstöd",
+      "party": "KD",
+      "status": "Anmäld till kommande behandling"
+    },
+    {
+      "title": "Motion från Karolina Wallström (L) om ett framtida och levande city i Örebro",
+      "party": "L",
+      "status": "Anmäld till kommande behandling"
+    },
+    {
+      "title": "Motion från Helena Ståhl och Carola Sunesson (SD) om att aldrig glömma Pela och Fadime",
+      "party": "SD",
+      "status": "Anmäld till kommande behandling"
+    },
+    {
+      "title": "Motion från Martha Wicklund m.fl. (V) om ett grönare Örebro",
+      "party": "V",
+      "status": "Anmäld till kommande behandling"
+    }
+  ],
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-10-22_Kommunfullmäktige.json",
+    "decisions": [
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_305.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_306.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_307.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_310.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_308.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_309.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_314-331.json",
+      "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-10-22_ko_319-328.json"
+    ],
+    "web_url": "https://lingabton.github.io/kommun-monitor/#meeting-2025-10-22_Kommunfullmäktige"
+  }
+}

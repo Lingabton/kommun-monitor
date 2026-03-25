@@ -1,17 +1,17 @@
 {
-  "api": "Kommun Monitor API",
+  "api": "Beslutskollen API",
   "version": "1.0.0",
-  "base_url": "https://Lingabton.github.io/kommun-monitor/api/v1",
-  "generated_at": "2026-03-20T07:45:04.776489+00:00",
+  "base_url": "https://lingabton.github.io/kommun-monitor/api/v1",
+  "generated_at": "2026-03-25T07:39:35.454977+00:00",
   "stats": {
     "municipalities": 1,
-    "meetings": 6,
-    "decisions": 41,
-    "contested_decisions": 30,
+    "meetings": 68,
+    "decisions": 596,
+    "contested_decisions": 457,
     "parties_tracked": 9,
     "date_range": {
-      "earliest": "2024-04-09",
-      "latest": "2025-12-10"
+      "earliest": "2023-01-17",
+      "latest": "2026-03-17"
     }
   },
   "endpoints": {
@@ -34,7 +34,7 @@
   },
   "license": {
     "data": "Swedish public records (offentlighetsprincipen). Free to use.",
-    "api": "CC BY 4.0 — attribute Kommun Monitor",
+    "api": "CC BY 4.0 — attribute Beslutskollen",
     "note": "AI-generated summaries may contain errors. Always verify against original protocols."
   }
 }

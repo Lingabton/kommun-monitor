@@ -3,17 +3,107 @@
   "name": "Öster",
   "decisions": [
     {
+      "id": "2026-01-20_ko_9",
+      "headline": "Partnerskap Örebro fortsätter - Allard vill lägga ned",
+      "summary": "Kommunstyrelsen accepterar återrapportering från Partnerskap Örebro. Markus Allard (ÖrP) yrkade att lägga ned partnerskapet utan framgång.",
+      "date": "2026-01-20",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "ovrigt",
+      "contested": true
+    },
+    {
+      "id": "2025-10-22_ko_310",
+      "headline": "Samarbetsavtal Bus Rapid Transit etapp 2 godkänt",
+      "summary": "Kommunfullmäktige godkände samarbetsavtal med Region Örebro län för fortsatt utbyggnad av Bus Rapid Transit etapp 2, med fokus på pendlarparkeringar och näringsidkarommunikation.",
+      "date": "2025-10-22",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
       "id": "2025-10-14_ko_206",
-      "headline": "Bus Rapid Transit etapp 2 godkänd – pendlarparkeringar och prisfrågor inkluderat",
-      "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med Region Örebro län. Tilläggsyrkanden om pendlarparkeringar och priskontroll bifölls. L och SD reserverade sig mot beslutet.",
+      "headline": "Bus Rapid Transit etapp 2 godkänd - fokus på pendlarparkeringar",
+      "summary": "Kommunstyrelsen godkände samarbetsavtal och genomförandeplan för BRT etapp 2 med nya utgångspunkter om kommunikation med näringsidkare och pendlarparkering. Investeringen syftar till snabbare buskörning och ökat resande.",
       "date": "2025-10-14",
       "meeting_type": "Kommunstyrelsen",
       "category": "infrastruktur",
       "contested": true
+    },
+    {
+      "id": "2025-05-13_ko_119",
+      "headline": "Ledamotsinitiativ om HBT-monument i Vivalla avslaget",
+      "summary": "SD:s Helena Ståhl initiativ om att upprätta monument över Muhsin Hendricks i Vivalla avslås som stridande mot konstnärlig frihet.",
+      "date": "2025-05-13",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "kultur",
+      "contested": true
+    },
+    {
+      "id": "2025-04-08_ko_99",
+      "headline": "HBT-monument i Vivalla remitteras till presidium",
+      "summary": "Helena Ståhl (SD) ledamotsinitiativ om att upprätta ett HBT-monument i Vivalla remitteras till Kommunstyrelsens presidium.",
+      "date": "2025-04-08",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "kultur",
+      "contested": false
+    },
+    {
+      "id": "2024-01-23_ko_8",
+      "headline": "Pendlarparkering - motion från Vänsterpartiet besvarad",
+      "summary": "Kommunfullmäktige beslutat att motionen om pendlarparkering är besvarad. Pilotprojekt pågår i Björkhaga, Bettorp utreds som prioriterat område, och laddplatser möjliggörs vid nybyggnation.",
+      "date": "2024-01-23",
+      "meeting_type": "Kommunfullmäktige",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2023-11-13_ko_230",
+      "headline": "Seniorpuls-satsningen avbryts – kostnadskrävande utan förväntad effekt",
+      "summary": "Kommunstyrelsen godkänner slutrapport för Seniorpuls-satsningen och beslutar att insatsen inte implementeras. Rapporten visar att endast 25 seniorer fullföljde programmet och att målgruppen inte nåddes.",
+      "date": "2023-11-13",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": false
+    },
+    {
+      "id": "2023-08-29_ko_171",
+      "headline": "Motion pendlarparkering besvarad - pilotprojekt genomfört",
+      "summary": "Vänsterpartiet motion om pendlarparkering anses besvarad. Pilotprojekt genomförts i Björkhaga och utredningar för nya platser pågår.",
+      "date": "2023-08-29",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "infrastruktur",
+      "contested": true
+    },
+    {
+      "id": "2023-03-14_ko_46",
+      "headline": "Kommunövergripande lokalförsörjningsplan 2024-2034 antagen",
+      "summary": "Kommunstyrelsen antog lokalförsörjningsplanen med 29 prioriterade lokalprojekt, varav 18 är pågående. Flera oppositionspartier reserverade sig mot beslutet.",
+      "date": "2023-03-14",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2023-03-14_ko_49",
+      "headline": "Reservationsavtal med ÖBO för vård- och omsorgsboende i Brickebacken godkänt",
+      "summary": "Kommunstyrelsen godkände reservationsavtal för markförsäljning till ÖBO Omsorgsfastigheter AB för nybyggnation av vård- och omsorgsboende trots oppositionskritik om konkurrens.",
+      "date": "2023-03-14",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "bygg",
+      "contested": true
+    },
+    {
+      "id": "2023-01-17_ko_1",
+      "headline": "Återföring av medel från sociala investeringar Team Oxhagen",
+      "summary": "Kommunstyrelsen beslutar att fastställa återföringsplan för tre avslutade satsningar och åläggs nämnder att återföra medel. L och KD motsatte sig återföringen.",
+      "date": "2023-01-17",
+      "meeting_type": "Kommunstyrelsen",
+      "category": "budget",
+      "contested": true
     }
   ],
   "_links": {
-    "self": "https://Lingabton.github.io/kommun-monitor/api/v1/areas/öster.json",
-    "web_url": "https://Lingabton.github.io/kommun-monitor/omrade/öster/"
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/areas/öster.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/omrade/öster/"
   }
 }

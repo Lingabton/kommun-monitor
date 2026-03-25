@@ -1,0 +1,47 @@
+{
+  "id": "2025-01-21_ko_13",
+  "headline": "Försäljning av del av fastighet Attersta 7:8 till Stena Metall AB",
+  "summary": "Reservationsavtal för försäljning av markfastighet Attersta 7:8 till Stena Metall AB för 15 miljoner kronor godkänd.",
+  "detail": "Stena Metall AB avser att uppföra återvinningsstation och kontor för egen verksamhet. Företaget tilldelades markanvisning 2021 när Örebro kommun förvärvade Stena Metalls tidigare fastighet Virkeshandlaren 4 på Aspholmen. Detaljplaneläggning för industri- och verksamhetsmark påbörjades samtidigt.\n\nFöre detta reservationsavtal löper ut 31 december 2024. Köpeskillingen är 15 miljoner kronor. Ärendet krävde Kommunstyrelsens beslut då beloppet överstiger 10 miljoner kronor.\n\nMarkplanerings- och exploateringsnämndens ordförande får i uppdrag att underteckna reservationsavtal och senare överlåtelseavtal, samt godkänna ändringar i situationsplan och byggnader.",
+  "category": "bygg",
+  "contested": false,
+  "location": "Attersta 7:8",
+  "paragraph_ref": "§ 13",
+  "tags": [
+    "Attersta",
+    "Stena Metall",
+    "återvinning",
+    "industrifastighet"
+  ],
+  "voting": {
+    "for": [
+      "S",
+      "M",
+      "C",
+      "L",
+      "KD",
+      "V",
+      "MP",
+      "ÖrP"
+    ],
+    "against": [],
+    "abstained": [
+      "SD"
+    ],
+    "result": "Bifall"
+  },
+  "quote": "Stena Metall AB avser att uppföra en återvinningsstation samt kontor för egen verksamhet på fastigheten.",
+  "quote_page": "s. 16",
+  "meeting": {
+    "id": "2025-01-21_Kommunstyrelsen",
+    "date": "2025-01-21",
+    "type": "",
+    "source_url": "/home/runner/work/kommun-monitor/kommun-monitor/data/pdfs/2025-01-21_Kommunstyrelsen.pdf"
+  },
+  "municipality": "orebro",
+  "_links": {
+    "self": "https://lingabton.github.io/kommun-monitor/api/v1/decisions/2025-01-21_ko_13.json",
+    "meeting": "https://lingabton.github.io/kommun-monitor/api/v1/meetings/2025-01-21_Kommunstyrelsen.json",
+    "web_url": "https://lingabton.github.io/kommun-monitor/beslut/2025-01-21_ko_13/"
+  }
+}
