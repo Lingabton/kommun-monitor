@@ -227,8 +227,16 @@ async function share(){{
 
 def generate_sitemap(decisions_with_meetings, base_url):
     urls = [f'<url><loc>{base_url}/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>']
+    # Section pages
+    for section in ["insikter/", "ekonomi/", "parti/", "omrade/"]:
+        urls.append(f'<url><loc>{base_url}/{section}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>')
+    # Individual decision pages
     for d, m in decisions_with_meetings:
         urls.append(f'<url><loc>{base_url}/beslut/{d["id"]}/</loc><lastmod>{m["date"]}</lastmod><priority>0.8</priority></url>')
+    # Individual party pages
+    for party in PC:
+        slug_p = party.lower().replace("ö","o")
+        urls.append(f'<url><loc>{base_url}/parti/{slug_p}/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>')
     return f'''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {"".join(urls)}

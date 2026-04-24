@@ -27,6 +27,8 @@
   }
 }
 </script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -359,9 +361,60 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
 
 @keyframes fu { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
 .fu { animation: fu .4s ease both; }
+
+/* ── Skip to content ── */
+.skip-link { position: absolute; top: -40px; left: 0; background: var(--navy); color: #fff; padding: 8px 16px; z-index: 200; font-size: 14px; font-weight: 600; border-radius: 0 0 8px 0; transition: top .2s; }
+.skip-link:focus { top: 0; }
+
+/* ── Empty state ── */
+.empty-state { text-align: center; padding: 48px 24px; color: var(--text-light); }
+.empty-state .icon { font-size: 36px; margin-bottom: 8px; }
+.empty-state .msg { font-size: 15px; font-weight: 600; color: var(--text-mid); margin-bottom: 4px; }
+.empty-state .hint { font-size: 13px; }
+
+/* ── Tooltip focus support ── */
+.tip:focus::after, .tip:focus::before { content: attr(data-tip); }
+.tip:focus::after {
+  position: absolute; bottom: calc(100% + 4px); left: 50%; transform: translateX(-50%);
+  background: var(--navy); color: #fff; padding: 8px 12px; border-radius: 8px;
+  font-size: 12px; white-space: normal; width: 240px; z-index: 100; line-height: 1.4;
+  font-weight: 400; pointer-events: none; box-shadow: 0 4px 12px rgba(0,0,0,.15);
+}
+.tip:focus::before {
+  position: absolute; bottom: calc(100%); left: 50%; transform: translateX(-50%);
+  border: 5px solid transparent; border-top-color: var(--navy); z-index: 100; content: '';
+}
+.tip { outline: none; }
+
+/* ── Decision card keyboard ── */
+.dc .hd:focus-visible { outline: 2px solid var(--navy); outline-offset: -2px; border-radius: 8px; }
+
+/* ── Noscript ── */
+.noscript-msg { max-width: 700px; margin: 60px auto; padding: 24px; text-align: center; font-family: 'Instrument Sans', system-ui, sans-serif; }
+.noscript-msg h1 { font-size: 24px; margin-bottom: 12px; }
+.noscript-msg p { font-size: 15px; color: var(--text-mid); line-height: 1.7; }
+
+/* ── Print ── */
+@media print {
+  nav, .hero, .stats-strip, .explainer, .ai-notice, .year-filter, .fl, .load-more, footer, .mob-toggle, .chips, .hero-search { display: none !important; }
+  section { padding: 12px 0; }
+  .dc { box-shadow: none; border: 1px solid #ddd; break-inside: avoid; }
+  .dc .bd { display: block !important; }
+  body { background: #fff; font-size: 12px; }
+}
 </style>
 </head>
 <body>
+
+<a href="#aktuellt" class="skip-link">Hoppa till innehåll</a>
+
+<noscript>
+<div class="noscript-msg">
+  <h1>📋 Beslutskollen — Örebro</h1>
+  <p>Beslutskollen kräver JavaScript för att visa beslut, sök och filtrering. Aktivera JavaScript i din webbläsare, eller besök våra <a href="beslut/">individuella beslutssidor</a> som fungerar utan JavaScript.</p>
+  <p style="margin-top:12px"><a href="feed.xml">RSS-feed</a> · <a href="api/v1/docs/">API</a></p>
+</div>
+</noscript>
 
 <nav>
   <div class="inner">
@@ -383,7 +436,8 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
       <h1>Följ vad Örebro kommun <em>faktiskt beslutar.</em></h1>
       <p class="sub">Vi sammanfattar kommunens protokoll och länkar alltid till originalet — så du snabbt ser vad som beslutats.</p>
       <div class="hero-search">
-        <input placeholder="Sök beslut, parti eller ämne..." id="hero-q" oninput="cQ=this.value.toLowerCase();visibleCount=PAGE_SIZE;document.getElementById('beslut').scrollIntoView({behavior:'smooth'});renderDecisions()">
+        <label for="hero-q" class="skip-link" style="position:absolute">Sök beslut</label>
+        <input placeholder="Sök beslut, parti eller ämne..." id="hero-q" aria-label="Sök bland kommunbeslut" oninput="debounceSearch(this.value)">
       </div>
       <div class="chips" id="hero-chips">
         <a class="chip" href="#beslut" onclick="setChip(this,'skola')">🏫 Skola</a>
@@ -542,7 +596,19 @@ const GLOSSARY = {
 function tip(text, key) {
   var k = key || text.replace(/[⚡🗳️✓ ]/g,'').trim();
   var t = GLOSSARY[k];
-  return t ? '<span class="tip" data-tip="' + t + '">' + text + '</span>' : text;
+  return t ? '<span class="tip" tabindex="0" role="note" aria-label="' + k + ': ' + t + '" data-tip="' + t + '">' + text + '</span>' : text;
+}
+
+// Debounced search
+let _searchTimer = null;
+function debounceSearch(val) {
+  clearTimeout(_searchTimer);
+  _searchTimer = setTimeout(function() {
+    cQ = val.toLowerCase();
+    visibleCount = PAGE_SIZE;
+    document.getElementById('beslut').scrollIntoView({behavior:'smooth'});
+    renderDecisions();
+  }, 200);
 }
 
 function fmt(s) {
@@ -786,7 +852,7 @@ function renderLatestMeeting() {
     if (d.id) bh += '<a class="read-more" href="beslut/' + d.id + '/">Läs hela beslutet →</a>';
 
     items += '<div class="dc" id="' + uid + '" style="border-left-color:' + (CC[cat] || "var(--border)") + '">' +
-      '<div class="hd" onclick="document.getElementById(\'' + uid + '\').classList.toggle(\'op\')">' +
+      '<div class="hd" tabindex="0" role="button" aria-expanded="false" onclick="toggleCard(\'' + uid + '\')" onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.preventDefault();toggleCard(\'' + uid + '\')}">' +
       '<span style="font-size:18px;flex-shrink:0;margin-top:1px">' + (CE[cat] || "📋") + '</span>' +
       '<div style="flex:1;min-width:0">' +
       '<div class="hl">' + hl + ' ' + badges(d) + '</div>' +
@@ -896,7 +962,7 @@ function renderParties() {
 function renderFilters() {
   const cats = [...new Set(A.map(d => g(d,"cat","category")).filter(Boolean))].sort();
   const e = document.getElementById("flt");
-  e.innerHTML = '<input placeholder="Sök bland beslut..." oninput="cQ=this.value.toLowerCase();visibleCount=PAGE_SIZE;renderDecisions()">' +
+  e.innerHTML = '<input placeholder="Sök bland beslut..." aria-label="Filtrera beslut" oninput="cQ=this.value.toLowerCase();visibleCount=PAGE_SIZE;renderDecisions()">' +
     '<button class="on" onclick="cCat=null;visibleCount=PAGE_SIZE;document.querySelectorAll(\'#flt button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">Alla</button>';
   cats.forEach(c => {
     e.innerHTML += '<button onclick="cCat=\'' + c + '\';visibleCount=PAGE_SIZE;document.querySelectorAll(\'#flt button\').forEach(b=>b.classList.remove(\'on\'));this.classList.add(\'on\');renderDecisions()">' +
@@ -934,6 +1000,11 @@ function renderDecisions() {
     btn.style.display = "none";
   }
 
+  if (filtered.length === 0) {
+    e.innerHTML = '<div class="empty-state"><div class="icon">🔍</div><div class="msg">Inga beslut hittades</div><div class="hint">Prova ett annat sökord eller ändra filter.</div></div>';
+    return;
+  }
+
   let lastGroup = "";
   const toShow = filtered.slice(0, visibleCount);
 
@@ -962,9 +1033,8 @@ function renderDecisions() {
     if (d.quote) bh += '<div class="qb">"' + d.quote + '" <span class="qp">— ' + (d.qp || d.quote_page || "") + '</span></div>';
     if (d.id) bh += '<a class="read-more" href="beslut/' + d.id + '/">Läs hela beslutet →</a>';
 
-    // Fix 6: More visible expand arrow
     e.innerHTML += '<div class="dc" id="d' + i + '" style="border-left-color:' + (CC[cat] || "var(--border)") + '">' +
-      '<div class="hd" onclick="document.getElementById(\'d' + i + '\').classList.toggle(\'op\')">' +
+      '<div class="hd" tabindex="0" role="button" aria-expanded="false" onclick="toggleCard(\'d' + i + '\')" onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.preventDefault();toggleCard(\'d' + i + '\')}">' +
       '<span style="font-size:18px;flex-shrink:0;margin-top:1px">' + (CE[cat] || "📋") + '</span>' +
       '<div style="flex:1;min-width:0">' +
       '<div class="hl">' + hl + ' ' + badges(d) + '</div>' +
@@ -1026,7 +1096,15 @@ function renderFooterStats() {
     ds[0] + " — " + ds[ds.length - 1];
 }
 
+function toggleCard(id) {
+  const el = document.getElementById(id);
+  const isOpen = el.classList.toggle('op');
+  const hd = el.querySelector('.hd');
+  if (hd) hd.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+}
+
 init();
 </script>
+<script data-goatcounter="https://beslutskollen.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
