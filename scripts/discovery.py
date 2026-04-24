@@ -152,40 +152,76 @@ REQUEST_TIMEOUT = 30
 # RSS PARSING
 # ─────────────────────────────────────────────
 
+ANSLAGSTAVLA_URL = "https://www.orebro.se/kommun--politik/politik--beslut/digital-anslagstavla.html"
+
+
+def fetch_anslagstavla() -> list[dict]:
+    """
+    Fetch and parse the anslagstavla HTML page for protocol links.
+    Returns more items than RSS (20+ vs 10) so KF/KS don't get pushed out.
+    """
+    try:
+        r = requests.get(ANSLAGSTAVLA_URL, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        r.raise_for_status()
+    except requests.RequestException as e:
+        logger.error(f"Failed to fetch anslagstavla: {e}")
+        return []
+
+    soup = BeautifulSoup(r.text, "html.parser")
+    items = []
+    for a_tag in soup.find_all("a", href=True):
+        title = a_tag.get_text().strip()
+        href = a_tag["href"]
+        if "protokoll" in title.lower() and "/anslag-protokoll/" in href:
+            link = href if href.startswith("http") else f"https://www.orebro.se{href}"
+            items.append({
+                "title": title,
+                "link": link,
+                "pub_date": "",
+            })
+
+    logger.info(f"Anslagstavla: fetched {len(items)} protocol items")
+    return items
+
+
 def fetch_rss() -> list[dict]:
     """
-    Fetch and parse the RSS feed from anslagstavlan.
-    Returns list of dicts with keys: title, link, pub_date
+    Fetch from anslagstavla HTML (primary) + RSS feed (fallback).
+    Deduplicates by title.
     """
+    # Primary: HTML page (has ~20 items vs RSS's 10)
+    items = fetch_anslagstavla()
+
+    # Fallback: also check RSS for any items the HTML might miss
     try:
         r = requests.get(RSS_URL, headers=HEADERS, timeout=REQUEST_TIMEOUT)
         r.raise_for_status()
-    except requests.RequestException as e:
-        logger.error(f"Failed to fetch RSS: {e}")
-        return []
-
-    try:
         root = ET.fromstring(r.content)
-    except ET.ParseError as e:
-        logger.error(f"Failed to parse RSS XML: {e}")
-        return []
+        for item in root.findall(".//item"):
+            title = (item.findtext("title") or "").strip()
+            link = (item.findtext("link") or "").strip()
+            guid = (item.findtext("guid") or "").strip()
+            pub_date = (item.findtext("pubDate") or "").strip()
+            if title and (link or guid):
+                items.append({
+                    "title": title,
+                    "link": link or guid,
+                    "pub_date": pub_date,
+                })
+    except Exception as e:
+        logger.debug(f"RSS fallback failed (non-critical): {e}")
 
-    items = []
-    for item in root.findall(".//item"):
-        title = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        guid = (item.findtext("guid") or "").strip()
-        pub_date = (item.findtext("pubDate") or "").strip()
+    # Deduplicate by title
+    seen_titles: set[str] = set()
+    unique: list[dict] = []
+    for item in items:
+        t = item["title"].lower().strip()
+        if t not in seen_titles:
+            seen_titles.add(t)
+            unique.append(item)
 
-        if title and (link or guid):
-            items.append({
-                "title": title,
-                "link": link or guid,
-                "pub_date": pub_date,
-            })
-
-    logger.info(f"RSS: fetched {len(items)} items from anslagstavlan")
-    return items
+    logger.info(f"Total unique items: {len(unique)} (HTML + RSS)")
+    return unique
 
 
 def is_protocol_entry(title: str) -> bool:

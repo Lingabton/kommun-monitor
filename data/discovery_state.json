@@ -7,12 +7,28 @@
       "meeting_date": "2026-03-17",
       "discovered_at": "2026-03-20T09:01:47.045507",
       "anslag_url": "https://www.orebro.se/kommun--politik/politik--beslut/digital-anslagstavla/anslag-protokoll/2026-03-19-kommunstyrelsens-protokoll-2026-03-17-48-4966-justerat.html"
+    },
+    "kommunstyrelsen_2026-04-14_81-82,97": {
+      "status": "no_pdf",
+      "pdf_url": null,
+      "organ": "Kommunstyrelsen",
+      "meeting_date": "2026-04-14",
+      "discovered_at": "2026-04-24T22:13:32.922523",
+      "anslag_url": "https://www.orebro.se/kommun--politik/politik--beslut/digital-anslagstavla/anslag-protokoll/2026-04-16-kommunstyrelsens-protokoll-2026-04-14--81-82-97-justerat.html"
+    },
+    "kommunfullmaktige_2026-03-25": {
+      "status": "no_pdf",
+      "pdf_url": null,
+      "organ": "Kommunfullmäktige",
+      "meeting_date": "2026-03-25",
+      "discovered_at": "2026-04-24T22:13:35.188325",
+      "anslag_url": "https://www.orebro.se/kommun--politik/politik--beslut/digital-anslagstavla/anslag-protokoll/2026-04-08-kommunfullmaktiges-protokoll-2026-03-25-justerat.html"
     }
   },
-  "last_check": "2026-03-20T09:02:38.772584",
+  "last_check": "2026-04-24T22:13:35.188410",
   "stats": {
-    "total_discovered": 2,
+    "total_discovered": 4,
     "total_pdf_found": 0,
-    "total_pdf_missing": 2
+    "total_pdf_missing": 4
   }
 }
