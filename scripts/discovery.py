@@ -47,6 +47,7 @@ RSS_URL = "https://www.orebro.se/rss/anslag"
 # All organs we want to monitor. The key is a normalized slug,
 # the value contains display name and patterns to match in RSS titles.
 MONITORED_ORGANS = {
+    # ── Priority 1: Highest decision-making bodies ──
     "kommunfullmaktige": {
         "display": "Kommunfullmäktige",
         "patterns": ["kommunfullmäktige"],
@@ -57,77 +58,62 @@ MONITORED_ORGANS = {
         "patterns": ["kommunstyrelsens protokoll"],
         "priority": 1,
     },
-    # ── Uncomment below to add more organs later ──────────────
-    # "ks-hallbarhetsutskott": {
-    #     "display": "KS Hållbarhetsutskott",
-    #     "patterns": ["kommunstyrelsens hållbarhetsutskott"],
-    #     "priority": 2,
-    # },
-    # "grundskolenamnden": {
-    #     "display": "Grundskolenämnden",
-    #     "patterns": ["grundskolenämnden"],
-    #     "priority": 2,
-    # },
-    # "gymnasie-arbetsmarknadsnamnden": {
-    #     "display": "Gymnasie- och arbetsmarknadsnämnden",
-    #     "patterns": ["gymnasie- och arbetsmarknadsnämnden"],
-    #     "priority": 2,
-    # },
-    # "socialnamnden": {
-    #     "display": "Socialnämnden",
-    #     "patterns": ["socialnämndens protokoll"],
-    #     "priority": 2,
-    # },
-    # "vard-omsorgsnamnden": {
-    #     "display": "Vård- och omsorgsnämnden",
-    #     "patterns": ["vård- och omsorgsnämnden"],
-    #     "priority": 2,
-    # },
-    # "bygg-miljonamnden": {
-    #     "display": "Bygg- och miljönämnden",
-    #     "patterns": ["bygg- och miljönämnden"],
-    #     "priority": 2,
-    # },
-    # "kultur-fritidsnamnden": {
-    #     "display": "Kultur- och fritidsnämnden",
-    #     "patterns": ["kultur- och fritidsnämnden"],
-    #     "priority": 2,
-    # },
-    # "teknik-servicenamnden": {
-    #     "display": "Teknik- och servicenämnden",
-    #     "patterns": ["teknik- och servicenämnden"],
-    #     "priority": 2,
-    # },
-    # "funktionsstodsnamnden": {
-    #     "display": "Funktionsstödsnämnden",
-    #     "patterns": ["funktionsstödsnämnden"],
-    #     "priority": 2,
-    # },
-    # "forskolenamnden": {
-    #     "display": "Förskolenämnden",
-    #     "patterns": ["förskolenämnden"],
-    #     "priority": 2,
-    # },
-    # "markplanering-exploatering": {
-    #     "display": "Markplanerings- och exploateringsnämnden",
-    #     "patterns": ["markplanerings- och exploateringsnämnden"],
-    #     "priority": 2,
-    # },
-    # "overformyndarnamnden": {
-    #     "display": "Överförmyndarnämnden",
-    #     "patterns": ["överförmyndarnämnden"],
-    #     "priority": 3,
-    # },
-    # "valnamnden": {
-    #     "display": "Valnämnden",
-    #     "patterns": ["valnämnden"],
-    #     "priority": 3,
-    # },
-    # "programnamnden": {
-    #     "display": "Programnämnden",
-    #     "patterns": ["programnämnden"],
-    #     "priority": 2,
-    # },
+    # ── Priority 2: Major nämnder (citizen-facing) ──
+    "grundskolenamnden": {
+        "display": "Grundskolenämnden",
+        "patterns": ["grundskolenämnden"],
+        "priority": 2,
+    },
+    "forskolenamnden": {
+        "display": "Förskolenämnden",
+        "patterns": ["förskolenämnden"],
+        "priority": 2,
+    },
+    "socialnamnden": {
+        "display": "Socialnämnden",
+        "patterns": ["socialnämndens protokoll"],
+        "priority": 2,
+    },
+    "bygg-miljonamnden": {
+        "display": "Bygg- och miljönämnden",
+        "patterns": ["bygg- och miljönämnden", "bygg- och miljönämndens protokoll"],
+        "priority": 2,
+    },
+    "teknik-servicenamnden": {
+        "display": "Teknik- och servicenämnden",
+        "patterns": ["teknik- och servicenämnden"],
+        "priority": 2,
+    },
+    "kultur-fritidsnamnden": {
+        "display": "Kultur- och fritidsnämnden",
+        "patterns": ["kultur- och fritidsnämnden"],
+        "priority": 2,
+    },
+    "gymnasie-arbetsmarknadsnamnden": {
+        "display": "Gymnasie- och arbetsmarknadsnämnden",
+        "patterns": ["gymnasie- och arbetsmarknadsnämnden"],
+        "priority": 2,
+    },
+    "vard-omsorgsnamnden": {
+        "display": "Vård- och omsorgsnämnden",
+        "patterns": ["vård- och omsorgsnämnden"],
+        "priority": 2,
+    },
+    "markplanering-exploatering": {
+        "display": "Markplanerings- och exploateringsnämnden",
+        "patterns": ["markplanerings- och exploateringsnämnden"],
+        "priority": 2,
+    },
+    "funktionsstodsnamnden": {
+        "display": "Funktionsstödsnämnden",
+        "patterns": ["funktionsstödsnämnden"],
+        "priority": 2,
+    },
+    "programnamnden": {
+        "display": "Programnämnden",
+        "patterns": ["programnämnden"],
+        "priority": 2,
+    },
 }
 
 # Skip these — individutskott etc. have no public-interest protocols

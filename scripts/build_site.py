@@ -153,6 +153,17 @@ def decision_page_html(decision, meeting, base_url, all_data):
 <meta name="twitter:title" content="{escape(d['headline'])}">
 <meta name="twitter:description" content="{escape(desc)}">
 <link rel="alternate" type="application/rss+xml" title="Beslutskollen RSS" href="{base_url}/feed.xml">
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{"@type": "ListItem", "position": 1, "name": "Beslutskollen", "item": "{base_url}/"}},
+    {{"@type": "ListItem", "position": 2, "name": "{organ}", "item": "{base_url}/#beslut"}},
+    {{"@type": "ListItem", "position": 3, "name": "{escape(d['headline'][:60])}"}}
+  ]
+}}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -221,6 +232,7 @@ async function share(){{
   else{{navigator.clipboard.writeText(url);event.target.textContent="✓ Länk kopierad!";setTimeout(()=>event.target.textContent="🔗 Dela detta beslut",2000)}}
 }}
 </script>
+<script data-goatcounter="https://beslutskollen.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>'''
 

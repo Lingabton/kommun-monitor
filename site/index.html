@@ -422,8 +422,9 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
     <button class="mob-toggle" onclick="document.querySelector('.links').classList.toggle('open')" aria-label="Meny">☰</button>
     <div class="links">
       <a href="#aktuellt">Senaste</a>
-      <a href="#beslut">Ämnen</a>
+      <a href="#beslut">Beslut</a>
       <a href="#partier">Partier</a>
+      <a href="#bevaka">Bevaka</a>
       <a href="insikter/">Analys</a>
     </div>
   </div>
@@ -509,7 +510,27 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
   <div id="att-list"></div>
 </section>
 
-<!-- 8. Trust & method -->
+<!-- 8. Newsletter + Share -->
+<section id="bevaka" style="padding-bottom:0">
+  <div style="background:linear-gradient(160deg,#0a1628,#0f1f33 40%,#1e3a5f);border-radius:12px;padding:28px 32px;color:#fff">
+    <h2 style="font-size:20px;font-weight:700;margin-bottom:6px;letter-spacing:-0.2px">📬 Bevaka kommunbeslut</h2>
+    <p style="font-size:13px;opacity:.6;margin-bottom:16px;max-width:480px;line-height:1.6">Få de viktigaste besluten direkt i mejlen. Vi skickar en sammanfattning efter varje sammanträde — aldrig spam.</p>
+    <form id="newsletter-form" onsubmit="return subscribeNewsletter(event)" style="display:flex;gap:8px;flex-wrap:wrap">
+      <input type="email" id="nl-email" placeholder="din@email.se" required aria-label="E-postadress för bevakning" style="padding:10px 14px;border:2px solid rgba(255,255,255,.15);border-radius:8px;background:rgba(255,255,255,.08);color:#fff;font:inherit;font-size:14px;outline:none;width:260px">
+      <button type="submit" style="padding:10px 20px;border-radius:8px;border:none;background:#fff;color:#0f1f33;font:inherit;font-size:14px;font-weight:600;cursor:pointer">Bevaka</button>
+    </form>
+    <div id="nl-status" style="font-size:12px;margin-top:8px;opacity:.7"></div>
+    <div style="margin-top:16px;padding-top:12px;border-top:1px solid rgba(255,255,255,.1);display:flex;gap:12px;flex-wrap:wrap">
+      <span style="font-size:12px;opacity:.5">Dela:</span>
+      <a href="https://twitter.com/intent/tweet?text=Följ+vad+Örebro+kommun+beslutar+—+AI-sammanfattningar+av+protokoll&url=https://lingabton.github.io/kommun-monitor/" target="_blank" rel="noopener" style="font-size:12px;color:rgba(255,255,255,.7);text-decoration:underline">X/Twitter</a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https://lingabton.github.io/kommun-monitor/" target="_blank" rel="noopener" style="font-size:12px;color:rgba(255,255,255,.7);text-decoration:underline">Facebook</a>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://lingabton.github.io/kommun-monitor/" target="_blank" rel="noopener" style="font-size:12px;color:rgba(255,255,255,.7);text-decoration:underline">LinkedIn</a>
+      <a href="feed.xml" style="font-size:12px;color:rgba(255,255,255,.7);text-decoration:underline">RSS</a>
+    </div>
+  </div>
+</section>
+
+<!-- 9. Trust & method -->
 <section id="om">
   <h2 class="st">Om Beslutskollen</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:12px">
@@ -549,6 +570,9 @@ footer .updated { font-size: 11px; color: var(--text-light); margin-top: 6px; }
     <a href="#beslut">Beslut</a>
     <a href="#partier">Partier</a>
     <a href="insikter/">Insikter</a>
+    <a href="ekonomi/">Ekonomi</a>
+    <a href="parti/">Alla partier</a>
+    <a href="omrade/">Områden</a>
   </div>
   <div style="font-size:11px;color:var(--text-light);margin-bottom:8px">
     Utvecklare? <a href="api/v1/docs/" style="text-decoration:underline;color:var(--text-light)">API</a> · <a href="feed.xml" style="text-decoration:underline;color:var(--text-light)">RSS</a> · <a href="for-llms/" style="text-decoration:underline;color:var(--text-light)">Data</a>
@@ -1094,6 +1118,23 @@ function renderFooterStats() {
     "Senast uppdaterad: " + fmt(ds[ds.length - 1]) + " · " +
     D.meetings.length + " sammanträden · " + A.length + " beslut · " +
     ds[0] + " — " + ds[ds.length - 1];
+}
+
+function subscribeNewsletter(e) {
+  e.preventDefault();
+  const email = document.getElementById('nl-email').value;
+  const status = document.getElementById('nl-status');
+  // Store locally — upgrade to backend/Mailchimp later
+  const subs = JSON.parse(localStorage.getItem('bk-subs') || '[]');
+  if (subs.includes(email)) {
+    status.textContent = 'Du bevakar redan med denna adress.';
+    return false;
+  }
+  subs.push(email);
+  localStorage.setItem('bk-subs', JSON.stringify(subs));
+  status.textContent = '✓ Tack! Du får mejl efter nästa sammanträde.';
+  document.getElementById('nl-email').value = '';
+  return false;
 }
 
 function toggleCard(id) {
