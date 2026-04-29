@@ -1,5 +1,9 @@
 name: Kommun Monitor — Daily Auto-Discovery
 
+concurrency:
+  group: kommun-monitor-pipeline
+  cancel-in-progress: false
+
 on:
   schedule:
     # Run at 07:00 and 14:00 Stockholm time (05:00 and 12:00 UTC)

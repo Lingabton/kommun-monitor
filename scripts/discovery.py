@@ -442,10 +442,12 @@ def load_state() -> dict:
 
 
 def save_state(state: dict):
-    """Save discovery state."""
+    """Save discovery state with atomic write (crash-safe)."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     state["last_check"] = datetime.now().isoformat()
-    STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=2), "utf-8")
+    temp_file = STATE_FILE.with_suffix(".tmp")
+    temp_file.write_text(json.dumps(state, ensure_ascii=False, indent=2), "utf-8")
+    temp_file.replace(STATE_FILE)
 
 
 def protocol_key(organ_slug: str, meeting_date: str, paragraphs: str = None) -> str:

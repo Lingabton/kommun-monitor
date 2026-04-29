@@ -134,12 +134,16 @@ def load_process_state() -> dict:
 
 
 def save_process_state(state: dict):
-    """Save processing state."""
+    """Save processing state with atomic write (crash-safe)."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     state["last_run"] = datetime.now().isoformat()
-    PROCESS_STATE_FILE.write_text(
+
+    # Atomic write: write to temp file, then rename
+    temp_file = PROCESS_STATE_FILE.with_suffix(".tmp")
+    temp_file.write_text(
         json.dumps(state, ensure_ascii=False, indent=2), "utf-8"
     )
+    temp_file.replace(PROCESS_STATE_FILE)
 
 
 def is_processed(pdf_url: str, state: dict) -> bool:

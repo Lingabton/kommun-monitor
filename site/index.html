@@ -29,7 +29,8 @@
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Instrument+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="prefetch" href="data.json">
 <style>
 :root {
   --navy: #0f1f33;
@@ -1029,6 +1030,8 @@ function renderDecisions() {
     return;
   }
 
+  // Build all HTML at once, then insert (single reflow instead of N reflows)
+  let html = "";
   let lastGroup = "";
   const toShow = filtered.slice(0, visibleCount);
 
@@ -1041,11 +1044,10 @@ function renderDecisions() {
     const v = g(d,"vote","voting");
     const dt = d.detail || "";
 
-    // Fix 2: Date group headers
     const groupKey = d.mDate + "_" + d.mType;
     if (groupKey !== lastGroup) {
       lastGroup = groupKey;
-      e.innerHTML += '<div class="date-group">' +
+      html += '<div class="date-group">' +
         '<span>' + fmtLong(d.mDate) + '</span>' +
         '<span class="org-badge">' + d.mType + '</span>' +
         '</div>';
@@ -1057,7 +1059,7 @@ function renderDecisions() {
     if (d.quote) bh += '<div class="qb">"' + d.quote + '" <span class="qp">— ' + (d.qp || d.quote_page || "") + '</span></div>';
     if (d.id) bh += '<a class="read-more" href="beslut/' + d.id + '/">Läs hela beslutet →</a>';
 
-    e.innerHTML += '<div class="dc" id="d' + i + '" style="border-left-color:' + (CC[cat] || "var(--border)") + '">' +
+    html += '<div class="dc" id="d' + i + '" style="border-left-color:' + (CC[cat] || "var(--border)") + '">' +
       '<div class="hd" tabindex="0" role="button" aria-expanded="false" onclick="toggleCard(\'d' + i + '\')" onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.preventDefault();toggleCard(\'d' + i + '\')}">' +
       '<span style="font-size:18px;flex-shrink:0;margin-top:1px">' + (CE[cat] || "📋") + '</span>' +
       '<div style="flex:1;min-width:0">' +
@@ -1071,6 +1073,7 @@ function renderDecisions() {
       '<span class="ar">▼</span></div>' +
       '<div class="bd">' + bh + '</div></div>';
   });
+  e.innerHTML = html;
 }
 
 // Fix 7: Show update date
