@@ -240,7 +240,7 @@ async function share(){{
 def generate_sitemap(decisions_with_meetings, base_url):
     urls = [f'<url><loc>{base_url}/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>']
     # Section pages
-    for section in ["insikter/", "ekonomi/", "parti/", "omrade/"]:
+    for section in ["insikter/", "ekonomi/", "parti/", "omrade/", "press/"]:
         urls.append(f'<url><loc>{base_url}/{section}</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>')
     # Individual decision pages
     for d, m in decisions_with_meetings:

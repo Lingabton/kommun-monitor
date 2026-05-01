@@ -44,10 +44,10 @@ For substantiella arenden: fullstandig detail, routine=false.
     {
       "headline": "Max 15 ord, protokollnara och korrekt",
       "human_headline": "Klarsprakig rubrik som en vanlig person forstar. Verb forst. Max 12 ord. Exempel: Kommunen sager nej till motorgard for ungdomar",
-      "summary": "1-2 meningar. Vad beslutades?",
-      "plain_language_summary": "1 mening. Forklara for nagon utan forkunskap vad beslutet innebar i praktiken.",
-      "relevance": "1 mening: vem paverkas och hur? Bara om det framgar av beslutet. null om oklart.",
-      "detail": "3-5 stycken (\\n\\n). Bakgrund, beslut, belopp, partier, konsekvenser. For rutinarenden: 1 mening.",
+      "summary": "1-2 meningar. BORJA med konsekvensen, INTE med 'Kommunstyrelsen beslutar att'. Vad HANDER i praktiken? Namn belopp om mojligt. Exempel: '34 miljoner kronor aterkravs fran skolprojekt — tva partier sager nej under lagkonjunktur.' INTE: 'Kommunstyrelsen beslutar att faststalla aterforingsplan.'",
+      "plain_language_summary": "1 mening. Forklara for en granne som inte foljer politik. Konkret: vem vinner, vem forlorar, vad forandras? Inga facktermer.",
+      "relevance": "1 mening: vem paverkas och hur? Vara specifik: 'husagare i Sorbyangen', 'elever pa Karolinska'. null om oklart.",
+      "detail": "3-5 stycken (\\n\\n). STRUKTUR: 1) Vad beslutet innebar konkret 2) Bakgrund/varfor 3) Belopp/siffror 4) Partiernas positioner med motivering 5) Konsekvenser. For rutinarenden: 1 mening.",
 
       "category": "bygg|infrastruktur|skola|budget|miljo|trygghet|kultur|politik|regler|omsorg|naringsliv|formellt|ovrigt",
       "decision_type": "motion|interpellation|detaljplan|rapport|upphandling|budget|policy|taxa|remiss|valarende|informationsarende|delegation|ovrigt",
@@ -91,7 +91,7 @@ PARTIER: S, M, C, L, KD, V, SD, OerP, MP. Anvand BARA dessa forkortningar. OerP 
 VOTING: "deltar inte" = abstained. "reserverar sig" = against. "yrkar avslag" = against.
 QUOTE: Kopiera ORDAGRANT fran protokollet. null for rutinarenden.
 TAGS: 3-6 st. Inkludera platsnamn, amnen, nyckelbegrepp.
-human_headline: ALDRIG clickbait. Trogen beslutet. Verb forst. "Kommunen koper mark" inte "Chockerande markaffar".
+human_headline: ALDRIG clickbait. Trogen beslutet. Verb forst. Konkret: "Kommunen koper mark vid Eyrafaltet for 154 miljoner" INTE "Chockerande markaffar" och INTE "Beslut om markforsaljning". Inkludera belopp/plats nar mojligt.
 plain_language_summary: Skriv som om du forklarar for en granne. Inga facktermer.
 relevance: Bara KONKRET paverkan som framgar av beslutet. Skriv null om den ar oklar.
 public_interest_score: 1=ingen bryr sig, 2=nisch, 3=lokalt intressant, 4=berör manga, 5=stor nyhetsvinkel.
